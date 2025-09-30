@@ -122,7 +122,7 @@ class InvertedIndex:
         i = 0
 
         while i < len(tokens):
-            # Ignore les mots 'and', 'or' (C'est pour dire qu'on les utilise comme des séparateurs pour combiner deux mots donc on ne doit pas les cherchés dans les mots)
+            # Ignore les mots 'and', 'or' (C'est pour dire qu'on les utilise comme des séparateurs pour combiner deux mots donc on ne doit pas les cherchés dans la liste des mots)
             if tokens[i] in ['and', 'or']:
                 i += 1
                 continue
