@@ -85,34 +85,34 @@ class InvertedIndex:
     # =========================================================================
 
     @staticmethod
-    def AND(list1, list2):
+    def AND(list1_of_doc, list2_of_doc):
         """Trouve les documents qui contiennent les DEUX mots"""
         # Cette méthode est "static" car elle n'a pas besoin des données de l'instance.
         # Elle prend juste 2 listes et retourne leur intersection
-        # Exemple : "chien AND chat" → documents avec chien ET chat.
-        return sorted(list(set(list1) & set(list2)))
+        # Exemple : "chien AND chat" → documents avec chien ET chat en meme temps.
+        return sorted(list(set(list1_of_doc) & set(list2_of_doc))) # set pour enlever les doublons
 
     @staticmethod
-    def OR(list1, list2):
+    def OR(list1_of_doc, list2_of_doc):
         """Trouve les documents qui contiennent AU MOINS UN des mots"""
         # Cette méthode est "static" car elle n'a pas besoin des données de l'instance.
         # Elle prend juste deux listes et retourne leur union
         # Exemple : "chien OR chat" → documents avec chien OU chat.
-        return sorted(list(set(list1) | set(list2)))
+        return sorted(list(set(list1_of_doc) | set(list2_of_doc))) # set pour enlever les doublons
 
-    def NOT(self, list1):
+    def NOT(self, list1_of_doc):
         """Trouve les documents qui NE CONTIENNENT PAS le mot"""
         # Cette méthode n'est PAS static car elle a besoin de connaître tous les documents
         # Utilise self.doc_ids pour savoir quels documents existent
         # Exemple : "NOT chien" → tous les documents SAUF ceux avec "chien".
-        all_docs = set(self.doc_ids)
-        return sorted(list(all_docs - set(list1)))
+        all_docs = set(self.doc_ids)    # set pour enlever les doublons
+        return sorted(list(all_docs - set(list1_of_doc)))
 
-    def AND_NOT(self, list1, list2):
+    def AND_NOT(self, list1_of_doc, list2_of_doc):
         """Trouve les documents avec le premier mot MAIS SANS le deuxième"""
         # Combine AND et NOT
         # Exemple : "chien AND NOT chat" → documents avec chien, mais pas chat
-        return self.AND(list1, self.NOT(list2))
+        return self.AND(list1_of_doc, self.NOT(list2_of_doc))
 
     def parse_boolean_query(self, query):
         """Comprend une requête de l'utilisateur et trouve les documents"""
