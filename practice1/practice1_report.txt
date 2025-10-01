@@ -2,4 +2,55 @@ Alpha           DIALLO
 Ana Salimata 	SANOU
 Clement 	    BOULAY
 
-https://github.com/achrafBenHamou/Information_Retrieval
+
+
+                                                EXERCICE 1
+
+                                Exercice 1 : Construction d’un index inversé
+
+1. Text processing (prétraitement du texte)
+Dans cette étape, nous avons pris les documents d’origine et les avons transformés en texte normalisé : tous les mots sont en minuscules, et la ponctuation a été retirée.
+Exemple :
+
+     Citizen Kane devient citizen kane
+
+     The Godfather The Godfather devient the godfather the godfather
+
+2. Token sequence (séquence de tokens)
+Ensuite, nous avons découpé chaque texte en mots individuels (tokens). Chaque mot est associé à l’ID du document dans lequel il apparaît.
+ Cela permet de lister tous les mots avec les documents où ils se trouvent.
+
+3. Sorting (tri)
+Nous avons ensuite trié tous les tokens par ordre alphabétique. Ce tri facilite en réalité la création de la structure d’index inversé.
+
+4. Dictionary and postings (dictionnaire et listes de postings)
+Nous avons construit un dictionnaire contenant chaque mot unique, sa fréquence documentaire (le nombre de documents où il apparaît), et la liste des documents correspondants.
+Exemple :
+
+    godfather apparaît dans 1 document : D2
+
+    the apparaît dans 6 documents : D2, D3, D5, D6, D7, D9
+
+5. Incident matrix (matrice d’incidence)
+Enfin, nous avons créé une matrice où chaque ligne correspond à un mot et chaque colonne à un document.
+
+    1 signifie que le mot est présent dans le document.
+
+    0 signifie qu’il est absent.
+
+Exemple :
+
+    Pour godfather : 0 0 1 0 0 0 0 0 0 0
+
+    Pour the : 0 0 1 1 0 1 1 1 0 1
+
+                                                       Une pétite Conclusion :
+L’exercice 1 nous a permis de comprendre comment construire un index inversé à partir d’un ensemble de documents :
+
+            Nettoyage et normalisation du texte,
+
+            Extraction et tri des tokens,
+
+            Création du dictionnaire avec les postings,
+
+            Et représentation finale avec la matrice d’incidence.
