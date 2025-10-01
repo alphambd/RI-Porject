@@ -54,3 +54,185 @@ L’exercice 1 nous a permis de comprendre comment construire un index inversé 
             Création du dictionnaire avec les postings,
 
             Et représentation finale avec la matrice d’incidence.
+
+
+=== DICTIONNAIRE TOKEN SEQUENCE : term -> {doc_id: tf} ===
+ defaultdict(<class 'dict'>, {'citizen': {'D0': 1}, 'kane': {'D0': 1}, 'casablanca': {'D1': 1}, 'the': {'D2': 2, 'D3': 1, 'D5': 2, 'D6': 1, 'D7': 1, 'D9': 1}, 'godfather': {'D2': 2}, 'gone': {'D3': 1}, 'with': {'D3': 1}, 'wind': {'D3': 1}, 'lawrence': {'D4': 1}, 'of': {'D4': 1, 'D5': 2}, 'arabia': {'D4': 1}, 'wizard': {'D5': 2}, 'oz': {'D5': 2}, 'graduate': {'D6': 1}, 'on': {'D7': 1}, 'waterfront': {'D7': 1}, 'schindler': {'D8': 1}, 'list': {'D8': 1}, 'singin': {'D9': 1}, 'in': {'D9': 1}, 'rain': {'D9': 1}})
+
+=== POSTINGS pour le terme 'the' ===
+	 ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+=== DOCUMENT FREQUENCY pour le terme 'the' ===
+	 6
+=== INDEX INVERSÉ (sans tf) ===
+
+=== INDEX INVERSÉ (avec tf) ===
+1=df(arabia)
+    1 D4
+1=df(casablanca)
+    1 D1
+1=df(citizen)
+    1 D0
+1=df(godfather)
+    2 D2
+1=df(gone)
+    1 D3
+1=df(graduate)
+    1 D6
+1=df(in)
+    1 D9
+1=df(kane)
+    1 D0
+1=df(lawrence)
+    1 D4
+1=df(list)
+    1 D8
+2=df(of)
+    1 D4
+    2 D5
+1=df(on)
+    1 D7
+1=df(oz)
+    2 D5
+1=df(rain)
+    1 D9
+1=df(schindler)
+    1 D8
+1=df(singin)
+    1 D9
+6=df(the)
+    2 D2
+    1 D3
+    2 D5
+    1 D6
+    1 D7
+    1 D9
+1=df(waterfront)
+    1 D7
+1=df(wind)
+    1 D3
+1=df(with)
+    1 D3
+1=df(wizard)
+    2 D5
+
+                                                    EXERCICE 2
+
+          Voici la sortie de  notre Execice 2 :
+
+          === DICTIONNAIRE TOKEN SEQUENCE : term -> {doc_id: tf} ===
+ defaultdict(<class 'dict'>, {'citizen': {'D0': 1}, 'kane': {'D0': 1}, 'casablanca': {'D1': 1}, 'the': {'D2': 2, 'D3': 1, 'D5': 2, 'D6': 1, 'D7': 1, 'D9': 1}, 'godfather': {'D2': 2}, 'gone': {'D3': 1}, 'with': {'D3': 1}, 'wind': {'D3': 1}, 'lawrence': {'D4': 1}, 'of': {'D4': 1, 'D5': 2}, 'arabia': {'D4': 1}, 'wizard': {'D5': 2}, 'oz': {'D5': 2}, 'graduate': {'D6': 1}, 'on': {'D7': 1}, 'waterfront': {'D7': 1}, 'schindler': {'D8': 1}, 'list': {'D8': 1}, 'singin': {'D9': 1}, 'in': {'D9': 1}, 'rain': {'D9': 1}})
+
+=== POSTINGS pour le terme 'the' ===
+	 ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+=== DOCUMENT FREQUENCY pour le terme 'the' ===
+	 6
+
+=== INDEX INVERSÉ (avec tf) ===
+1=df(arabia)
+    1 D4
+1=df(casablanca)
+    1 D1
+1=df(citizen)
+    1 D0
+1=df(godfather)
+    2 D2
+1=df(gone)
+    1 D3
+1=df(graduate)
+    1 D6
+1=df(in)
+    1 D9
+1=df(kane)
+    1 D0
+1=df(lawrence)
+    1 D4
+1=df(list)
+    1 D8
+2=df(of)
+    1 D4
+    2 D5
+1=df(on)
+    1 D7
+1=df(oz)
+    2 D5
+1=df(rain)
+    1 D9
+1=df(schindler)
+    1 D8
+1=df(singin)
+    1 D9
+6=df(the)
+    2 D2
+    1 D3
+    2 D5
+    1 D6
+    1 D7
+    1 D9
+1=df(waterfront)
+    1 D7
+1=df(wind)
+    1 D3
+1=df(with)
+    1 D3
+1=df(wizard)
+    2 D5
+
+
+                                Explication de la sortie
+
+
+Dans cet exercice 2, nous avons construit un index inversé à partir de nos documents. L’objectif est d’identifier pour chaque mot (terme) :
+
+Dans quels documents il apparaît.
+
+Combien de fois il apparaît dans chaque document (TF – Term Frequency).
+
+Dans combien de documents différents il apparaît (DF – Document Frequency).
+
+                        1. Dictionnaire et Token Sequence
+Le dictionnaire associe chaque mot aux documents où il est présent et à sa fréquence.
+Par exemple :
+
+citizen apparaît 1 fois dans le document D0.
+
+godfather apparaît 2 fois dans le document D2.
+
+the apparaît dans 6 documents : D2, D3, D5, D6, D7 et D9.
+
+                            2. Postings List
+Pour chaque mot, nous avons une liste de postings : c’est-à-dire la liste des documents qui contiennent ce mot.
+Exemple pour "the" :
+
+['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+Cela signifie que le mot "the" apparaît dans 6 documents.
+
+                         3. Document Frequency (DF)
+La DF indique le nombre total de documents dans lesquels un mot apparaît.
+Par exemple :
+
+df(the) = 6
+
+df(of) = 2
+
+df(citizen) = 1
+
+                        4. Index inversé final
+L’index inversé regroupe toutes ces informations et permet de retrouver rapidement les documents contenant un mot donné.
+Exemple :
+
+6 = df(the) signifie que le mot the apparaît dans 6 documents.
+
+Les lignes suivantes montrent dans quels documents il apparaît et combien de fois :
+
+    2 D2 → 2 fois dans D2
+
+    1 D3 → 1 fois dans D3
+
+    2 D5 → 2 fois dans D5
+
+    etc.
+
+                            Conclusion :
+Grâce à cet index inversé, il devient beaucoup plus rapide de faire des recherches dans la collection de documents.
+Il constitue une structure de base pour les moteurs de recherche et les systèmes de récupération d’information,
+ car il permet d’associer efficacement chaque mot aux documents dans lesquels il apparaît.
