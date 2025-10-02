@@ -65,7 +65,7 @@ L’exercice 1 nous a permis de comprendre comment construire un index inversé 
                         /                EXERCICE 2 : Toy indexer                      /
                         ***************************************************************/
 
-                                         Voici la sortie de  notre Execice 2 :
+                                         Voici la sortie de notre Exercice 2 :
 
 === DICTIONNAIRE -- term -> {doc_id: tf} -- AVEC REGROUPEMENT DES TERMES ===
 arabia: {'D4': 1}
@@ -258,7 +258,7 @@ Il constitue une structure de base pour les moteurs de recherche et les système
                                                    Explication de la sortie
 
                                                         Requêtes booléennes
-On utilise les réultats de "l'exercice2" pour récupérer les "postings lists", qu'on utilise pour les "requetes booléennes"
+On utilise les résultats de "l'exercice2" pour récupérer les "postings lists", qu'on utilise pour les "requêtes booléennes"
 
 Principe : 
     On récupère le "posintss list" de chaque terme;
