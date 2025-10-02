@@ -165,33 +165,45 @@ def main():
     index.build_from_file('collection.txt')
 
     print("=== INDEX INVERSÉ ===")
-    index.display_index(with_tf=True)
+    #index.display_index(with_tf=True)
 
     print("\n=== MAINTENANT L'UTILISATION DE L'INDEX INVERSÉ POUR TROUVER LES REQUÊTES BOOLÉENNES ===")
     print("\n=== REQUÊTES BOOLÉENNES ===")
 
     # Test des opérateurs booléens avec les données
     print("\n1. citizen AND kane")
+    print("\tcitizen => :", index.get_postings("citizen"))
+    print("\tkane => :", index.get_postings("kane"))
     result1 = index.parse_boolean_query("citizen and kane")
     print(f"   Résultat : {result1}")
 
     print("\n2. the OR godfather")
+    print("\tthe => :", index.get_postings("the"))
+    print("\tgodfather => :", index.get_postings("godfather"))
     result2 = index.parse_boolean_query("the or godfather")
     print(f"   Résultat : {result2}")
 
     print("\n3. the AND NOT godfather")
+    print("\tthe => :", index.get_postings("the"))
+    print("\tgodfather => :", index.get_postings("godfather"))
     result3 = index.parse_boolean_query("the and not godfather")
     print(f"   Résultat : {result3}")
 
     print("\n4. NOT citizen")
+    print("\tcitizen => :", index.get_postings("citizen"))
+    print("\tTous les documents => :", index.doc_ids)
     result4 = index.parse_boolean_query("not citizen")
     print(f"   Résultat : {result4}")
 
     print("\n5. of AND wizard")
+    print("\tof => :", index.get_postings("of"))
+    print("\twizard => :", index.get_postings("wizard"))
     result5 = index.parse_boolean_query("of and wizard")
     print(f"   Résultat : {result5}")
 
     print("\n6. lawrence OR oz")
+    print("\tlawrence => :", index.get_postings("lawrence"))
+    print("\toz => :", index.get_postings("oz"))
     result6 = index.parse_boolean_query("lawrence or oz")
     print(f"   Résultat : {result6}")
 

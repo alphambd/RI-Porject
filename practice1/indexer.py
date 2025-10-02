@@ -79,14 +79,21 @@ class InvertedIndex:
         """Récupérer la fréquence de document pour un terme"""
         term = term.lower()
         return len(self.dictionary.get(term, {}))
+    
+    def print_dictionary(self):
+        """Afficher le dictionnaire"""
+        sorted_terms = sorted(self.dictionary.keys())
+        for term in sorted_terms:
+            print(f"{term}: {self.dictionary[term]}")
 
 def main():
     # Créer et construire l'index
     index = InvertedIndex()
     index.build_from_file('collection.txt')
-
+    
     # Afficher le dictionnaire de séquences de tokens
-    print("=== DICTIONNAIRE TOKEN SEQUENCE : term -> {doc_id: tf} ===\n", index.dictionary)
+    print("=== DICTIONNAIRE -- term -> {doc_id: tf} -- AVEC REGROUPEMENT DES TERMES ===")
+    index.print_dictionary()
 
     # Afficher les postings pour un terme donné
     terme = "the"
@@ -95,7 +102,7 @@ def main():
     # Afficher la fréquence de document pour un terme donné
     print(f"=== DOCUMENT FREQUENCY pour le terme '{terme}' ===\n\t", index.get_document_frequency(terme))
     
-    print("=== INDEX INVERSÉ (sans tf) ===")
+    #print("=== INDEX INVERSÉ (sans tf) ===")
     #index.display_index(with_tf=False)
     
     print("\n=== INDEX INVERSÉ (avec tf) ===")
