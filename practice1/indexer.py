@@ -4,9 +4,11 @@ import string
 
 class InvertedIndex:
     def __init__(self):
-        self.dictionary = defaultdict(dict)  # term -> {doc_id: tf}
-        self.doc_ids = []                    # Liste des IDs de documents (en cas de besoin pour la suite, comme pour la matrice d'incidence par exemple)
-    
+        # Dictionnaire qui stocke pour chaque mot la liste des documents où il apparaît : term -> {doc_id: tf}
+        self.dictionary = defaultdict(dict)  
+        # Liste de tous les identifiants de documents
+        self.doc_ids = []                   
+
     def preprocess_text(self, text):
         """Traitement basique du texte"""
         # Convertir en minuscules
@@ -34,8 +36,8 @@ class InvertedIndex:
         """Construire l'index à partir d'un fichier"""
         with open(filename, 'r', encoding='utf-8') as file:
             content = file.read()
-        
-        # Extraire les documents avec regex
+
+        # Extraire le contenu des documents dans le fichier avec regex
         """
         le premier ([^<]+) : capture le contenu de <docno>...</docno> (ex : D0)
         le deuxième ([^<]+) : capture le contenu texte du document (ex: Citizen Kane)
@@ -57,7 +59,7 @@ class InvertedIndex:
         for term in sorted_terms:
             postings = self.dictionary[term]
             df = len(postings)
-            #print("Term : ", term, "Postings : ", postings, "\n\n")
+            
             if with_tf:
                 print(f"{df}=df({term})")
                 for doc_id, tf in sorted(postings.items()):
@@ -65,7 +67,6 @@ class InvertedIndex:
             else:
                 print(f"{df}=df({term})")
                 for doc_id in sorted(postings.keys()):
-                    #print(f"    1 {doc_id}")
                     print(f"    {doc_id}")
     
     def get_postings(self, term):

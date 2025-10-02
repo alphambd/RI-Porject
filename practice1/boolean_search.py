@@ -1,88 +1,9 @@
-import re
-from collections import defaultdict, Counter
-import string
+from indexer import InvertedIndex
 
 
-class InvertedIndex:
-    def __init__(self):
-        # Dictionnaire qui stocke pour chaque mot la liste des documents où il apparaît
-        self.dictionary = defaultdict(dict)
-        # Liste de tous les identifiants de documents
-        self.doc_ids = []
-
-    def preprocess_text(self, text):
-        """Nettoie le texte avant de l'ajouter à l'index"""
-        # Met tout en minuscules pour éviter les doublons
-        text = text.lower()
-        # Enlève les apostrophes
-        text = text.replace("'", "").replace("'", "")
-        # Supprime la ponctuation
-        text = text.translate(str.maketrans('', '', string.punctuation))
-        # Découpe le texte en mots
-        tokens = text.split()
-        return tokens
-
-    def add_document(self, doc_id, text):
-        """Ajoute un document à l'index inversé"""
-        # Nettoie le texte et le découpe en mots
-        tokens = self.preprocess_text(text)
-        # Compte combien de fois chaque mot apparaît
-        term_freq = Counter(tokens)
-
-        # Pour chaque mot, note dans quel document il apparaît et combien de fois
-        for term, freq in term_freq.items():
-            self.dictionary[term][doc_id] = freq
-
-    def build_from_file(self, filename):
-        """Construit l'index à partir d'un fichier de documents"""
-        # Ouvre et lit le fichier
-        with open(filename, 'r', encoding='utf-8') as file:
-            content = file.read()
-
-        # Cherche tous les documents dans le fichier
-        doc_pattern = r'<doc><docno>([^<]+)</docno>([^<]+)</doc>'
-        matches = re.findall(doc_pattern, content)
-
-        # Pour chaque document trouvé, l'ajoute à l'index
-        for doc_id, doc_text in matches:
-            doc_id = doc_id.strip()
-            doc_text = doc_text.strip()
-            self.doc_ids.append(doc_id)
-            self.add_document(doc_id, doc_text)
-
-    def display_index(self, with_tf=False):
-        """Affiche l'index inversé de façon lisible"""
-        # Trie les mots par ordre alphabétique
-        sorted_terms = sorted(self.dictionary.keys())
-
-        # Pour chaque mot, affiche les documents où il apparaît
-        for term in sorted_terms:
-            postings = self.dictionary[term]
-            df = len(postings)
-            if with_tf:
-                print(f"{df}=df({term})")
-                for doc_id, tf in sorted(postings.items()):
-                    print(f"    {tf} {doc_id}")
-            else:
-                print(f"{df}=df({term})")
-                for doc_id in sorted(postings.keys()):
-                    print(f"    {doc_id}")
-
-    def get_postings(self, term):
-        """Donne la liste des documents contenant un mot"""
-        term = term.lower()
-        if term in self.dictionary:
-            return sorted(self.dictionary[term].keys())
-        return []
-
-    def get_document_frequency(self, term):
-        """Donne le nombre de documents contenant un mot"""
-        term = term.lower()
-        return len(self.dictionary.get(term, {}))
-
-    # =========================================================================
-    #            MÉTHODES POUR LES REQUÊTES BOOLÉENNES
-    # =========================================================================
+class BooleanSearch:
+    def __init__(self, index: InvertedIndex):
+        self.index = index
 
     @staticmethod
     def AND(list1_of_doc, list2_of_doc):
@@ -103,9 +24,9 @@ class InvertedIndex:
     def NOT(self, list1_of_doc):
         """Trouve les documents qui NE CONTIENNENT PAS le mot"""
         # Cette méthode n'est PAS static car elle a besoin de connaître tous les documents
-        # Utilise self.doc_ids pour savoir quels documents existent
+        # Utilise self.index.doc_ids pour savoir quels documents existent
         # Exemple : "NOT chien" → tous les documents SAUF ceux avec "chien".
-        all_docs = set(self.doc_ids)    # set pour enlever les doublons
+        all_docs = set(self.index.doc_ids)    # set pour enlever les doublons
         return sorted(list(all_docs - set(list1_of_doc)))
 
     def AND_NOT(self, list1_of_doc, list2_of_doc):
@@ -131,7 +52,7 @@ class InvertedIndex:
             if tokens[i] == 'not':
                 if i + 1 < len(tokens):
                     term = tokens[i + 1]
-                    postings = self.get_postings(term)
+                    postings = self.index.get_postings(term)
                     if not result:
                         result = self.NOT(postings)
                     else:
@@ -141,7 +62,7 @@ class InvertedIndex:
 
             # Pour un mot normal
             term = tokens[i]
-            postings = self.get_postings(term)
+            postings = self.index.get_postings(term)
 
             # Premier mot de la requête
             if not result:
@@ -158,55 +79,40 @@ class InvertedIndex:
 
         return result
 
+    def print_query_results(self, queries):
+        """Affiche les résultats de plusieurs requêtes"""
+        for i, q in enumerate(queries, 1):
+            print(f"\n{i}. {q}")
+            tokens = q.split()
 
-def main():
-    #  Créer et construire l'index, en fait, c'est l'appel du code que pour l'exercice 2 pour pouvoir utiliser l'index inversé
-    index = InvertedIndex()
-    index.build_from_file('collection.txt')
+            # Cas particulier : requêtes avec "NOT" seul (ex: "NOT citizen")
+            if tokens[0].lower() == "not":
+                term = tokens[1]
+                print(f"\t{term} => :", self.index.get_postings(term))
+                print(f"\tTous les documents => :", self.index.doc_ids)
+            else:
+                # Affiche les postings pour chaque terme (sauf les opérateurs)
+                for token in tokens:
+                    if token.lower() not in ["and", "or", "not"]:
+                        print(f"\t{token} => :", self.index.get_postings(token))
 
-    print("=== INDEX INVERSÉ ===")
-    #index.display_index(with_tf=True)
+            # Exécute la requête et affiche le résultat
+            result = self.parse_boolean_query(q)
+            print("\n\tRésultat :", result)
 
-    print("\n=== MAINTENANT L'UTILISATION DE L'INDEX INVERSÉ POUR TROUVER LES REQUÊTES BOOLÉENNES ===")
-    print("\n=== REQUÊTES BOOLÉENNES ===")
+    def print_query(self, query, num = 0):
+        """Affiche les résultats d'une requête"""
+        print(f"\n{num}. {query}" if num else f"\nq{query}")
 
-    # Test des opérateurs booléens avec les données
-    print("\n1. citizen AND kane")
-    print("\tcitizen => :", index.get_postings("citizen"))
-    print("\tkane => :", index.get_postings("kane"))
-    result1 = index.parse_boolean_query("citizen and kane")
-    print(f"   Résultat : {result1}")
+        tokens = query.split()
+        if tokens[0].lower() == "not":
+            term = tokens[1]
+            print(f"\t{term} => :", self.index.get_postings(term))
+            print(f"\tTous les documents => :", self.index.doc_ids)
+        else:
+            for token in tokens:
+                if token.lower() not in ["and", "or", "not"]:
+                    print(f"\t{token} => :", self.index.get_postings(token))
 
-    print("\n2. the OR godfather")
-    print("\tthe => :", index.get_postings("the"))
-    print("\tgodfather => :", index.get_postings("godfather"))
-    result2 = index.parse_boolean_query("the or godfather")
-    print(f"   Résultat : {result2}")
-
-    print("\n3. the AND NOT godfather")
-    print("\tthe => :", index.get_postings("the"))
-    print("\tgodfather => :", index.get_postings("godfather"))
-    result3 = index.parse_boolean_query("the and not godfather")
-    print(f"   Résultat : {result3}")
-
-    print("\n4. NOT citizen")
-    print("\tcitizen => :", index.get_postings("citizen"))
-    print("\tTous les documents => :", index.doc_ids)
-    result4 = index.parse_boolean_query("not citizen")
-    print(f"   Résultat : {result4}")
-
-    print("\n5. of AND wizard")
-    print("\tof => :", index.get_postings("of"))
-    print("\twizard => :", index.get_postings("wizard"))
-    result5 = index.parse_boolean_query("of and wizard")
-    print(f"   Résultat : {result5}")
-
-    print("\n6. lawrence OR oz")
-    print("\tlawrence => :", index.get_postings("lawrence"))
-    print("\toz => :", index.get_postings("oz"))
-    result6 = index.parse_boolean_query("lawrence or oz")
-    print(f"   Résultat : {result6}")
-
-
-if __name__ == "__main__":
-    main()
+        result = self.parse_boolean_query(query)
+        print("\n\tRésultat :", result)

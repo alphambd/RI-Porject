@@ -3,10 +3,12 @@ Ana Salimata 	SANOU
 Clement 	    BOULAY
 
 
-
-                                                EXERCICE 1
-
-                                Exercice 1 : Construction d’un index inversé
+                    /**************************************************************/
+                    /       EXERCICE 1 : Inverted Index (voir exercice1.xlsx)      /
+                    ***************************************************************/
+                    """
+                    Les résultats des différents étape du processus se trouve dans le fichier "exercice1.xlsx 
+                    """
 
 1. Text processing (prétraitement du texte)
 Dans cette étape, nous avons pris les documents d’origine et les avons transformés en texte normalisé : tous les mots sont en minuscules, et la ponctuation a été retirée.
@@ -40,9 +42,11 @@ Enfin, nous avons créé une matrice où chaque ligne correspond à un mot et ch
 
 Exemple :
 
-    Pour godfather : 0 0 1 0 0 0 0 0 0 0
+    Pour godfather : D0 D1 D2 D3 D4 D5 D6 D7 D8 D9
+                     0  0  1  0  0  0  0  0  0  0
 
-    Pour the : 0 0 1 1 0 1 1 1 0 1
+    Pour the : D0 D1 D2 D3 D4 D5 D6 D7 D8 D9
+               0  0  1  1  0  1  1  1  0  1
 
                                                        Une pétite Conclusion :
 L’exercice 1 nous a permis de comprendre comment construire un index inversé à partir d’un ensemble de documents :
@@ -56,76 +60,41 @@ L’exercice 1 nous a permis de comprendre comment construire un index inversé 
             Et représentation finale avec la matrice d’incidence.
 
 
-=== DICTIONNAIRE TOKEN SEQUENCE : term -> {doc_id: tf} ===
- defaultdict(<class 'dict'>, {'citizen': {'D0': 1}, 'kane': {'D0': 1}, 'casablanca': {'D1': 1}, 'the': {'D2': 2, 'D3': 1, 'D5': 2, 'D6': 1, 'D7': 1, 'D9': 1}, 'godfather': {'D2': 2}, 'gone': {'D3': 1}, 'with': {'D3': 1}, 'wind': {'D3': 1}, 'lawrence': {'D4': 1}, 'of': {'D4': 1, 'D5': 2}, 'arabia': {'D4': 1}, 'wizard': {'D5': 2}, 'oz': {'D5': 2}, 'graduate': {'D6': 1}, 'on': {'D7': 1}, 'waterfront': {'D7': 1}, 'schindler': {'D8': 1}, 'list': {'D8': 1}, 'singin': {'D9': 1}, 'in': {'D9': 1}, 'rain': {'D9': 1}})
 
-=== POSTINGS pour le terme 'the' ===
-	 ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
-=== DOCUMENT FREQUENCY pour le terme 'the' ===
-	 6
-=== INDEX INVERSÉ (sans tf) ===
-
-=== INDEX INVERSÉ (avec tf) ===
-1=df(arabia)
-    1 D4
-1=df(casablanca)
-    1 D1
-1=df(citizen)
-    1 D0
-1=df(godfather)
-    2 D2
-1=df(gone)
-    1 D3
-1=df(graduate)
-    1 D6
-1=df(in)
-    1 D9
-1=df(kane)
-    1 D0
-1=df(lawrence)
-    1 D4
-1=df(list)
-    1 D8
-2=df(of)
-    1 D4
-    2 D5
-1=df(on)
-    1 D7
-1=df(oz)
-    2 D5
-1=df(rain)
-    1 D9
-1=df(schindler)
-    1 D8
-1=df(singin)
-    1 D9
-6=df(the)
-    2 D2
-    1 D3
-    2 D5
-    1 D6
-    1 D7
-    1 D9
-1=df(waterfront)
-    1 D7
-1=df(wind)
-    1 D3
-1=df(with)
-    1 D3
-1=df(wizard)
-    2 D5
-
-                                                    EXERCICE 2
+                        /**************************************************************/
+                        /                EXERCICE 2 : Toy indexer                      /
+                        ***************************************************************/
 
                                          Voici la sortie de  notre Execice 2 :
 
-          === DICTIONNAIRE TOKEN SEQUENCE : term -> {doc_id: tf} ===
- defaultdict(<class 'dict'>, {'citizen': {'D0': 1}, 'kane': {'D0': 1}, 'casablanca': {'D1': 1}, 'the': {'D2': 2, 'D3': 1, 'D5': 2, 'D6': 1, 'D7': 1, 'D9': 1}, 'godfather': {'D2': 2}, 'gone': {'D3': 1}, 'with': {'D3': 1}, 'wind': {'D3': 1}, 'lawrence': {'D4': 1}, 'of': {'D4': 1, 'D5': 2}, 'arabia': {'D4': 1}, 'wizard': {'D5': 2}, 'oz': {'D5': 2}, 'graduate': {'D6': 1}, 'on': {'D7': 1}, 'waterfront': {'D7': 1}, 'schindler': {'D8': 1}, 'list': {'D8': 1}, 'singin': {'D9': 1}, 'in': {'D9': 1}, 'rain': {'D9': 1}})
+=== DICTIONNAIRE -- term -> {doc_id: tf} -- AVEC REGROUPEMENT DES TERMES ===
+arabia: {'D4': 1}
+casablanca: {'D1': 1}
+citizen: {'D0': 1}
+godfather: {'D2': 2}
+gone: {'D3': 1}
+graduate: {'D6': 1}
+in: {'D9': 1}
+kane: {'D0': 1}
+lawrence: {'D4': 1}
+list: {'D8': 1}
+of: {'D4': 1, 'D5': 2}
+on: {'D7': 1}
+oz: {'D5': 2}
+rain: {'D9': 1}
+schindler: {'D8': 1}
+singin: {'D9': 1}
+the: {'D2': 2, 'D3': 1, 'D5': 2, 'D6': 1, 'D7': 1, 'D9': 1}
+waterfront: {'D7': 1}
+wind: {'D3': 1}
+with: {'D3': 1}
+wizard: {'D5': 2}
 
 === POSTINGS pour le terme 'the' ===
-	 ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+	['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+
 === DOCUMENT FREQUENCY pour le terme 'the' ===
-	 6
+	6
 
 === INDEX INVERSÉ (avec tf) ===
 1=df(arabia)
@@ -180,47 +149,49 @@ L’exercice 1 nous a permis de comprendre comment construire un index inversé 
 
                                 Explication de la sortie
 
-
 Dans cet exercice 2, nous avons construit un index inversé à partir de nos documents. L’objectif est d’identifier pour chaque mot (terme) :
 
-Dans quels documents il apparaît.
+    Dans quels documents il apparaît.
 
-Combien de fois il apparaît dans chaque document (TF – Term Frequency).
+    Combien de fois il apparaît dans chaque document (TF – Term Frequency).
 
-Dans combien de documents différents il apparaît (DF – Document Frequency).
+    Dans combien de documents différents il apparaît (DF – Document Frequency).
 
                         1. Dictionnaire et Token Sequence
-Le dictionnaire associe chaque mot aux documents où il est présent et à sa fréquence.
+Le dictionnaire associe chaque mot aux documents où il est présent et à sa fréquence. 
 Par exemple :
+    citizen: {'D0': 1}      -> cela signifie que le mot "citizen" apparaît "1" fois dans le document "D0".
 
-citizen apparaît 1 fois dans le document D0.
+    godfather: {'D2': 2}    -> cela signifie que le mot "godfather" apparaît "2" fois dans le document "D2".
 
-godfather apparaît 2 fois dans le document D2.
+    the : {'D2': 2, 'D3': 1, 'D5': 2, 'D6': 1, 'D7': 1, 'D9': 1}
+                            -> cela signifie que le mot "the" apparaît dans "6" documents (D2, D3, D5, D6, D7 et D9) avec les frèquences indiquées.
 
-the apparaît dans 6 documents : D2, D3, D5, D6, D7 et D9.
+Ce dictionnaire nous permettra de retrouver facilement des informations comme le postings list de chaque term.
 
-                            2. Postings List
+                        2. Postings List
 Pour chaque mot, nous avons une liste de postings : c’est-à-dire la liste des documents qui contiennent ce mot.
-Exemple pour "the" :
+Exemple pour le terme "the" :
 
-['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
-Cela signifie que le mot "the" apparaît dans 6 documents.
+    ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
 
-                         3. Document Frequency (DF)
+    Cela signifie que le mot "the" apparaît dans les 6 documents D2, D3, D5, D6, D7 et D9.
+
+                        3. Document Frequency (DF)
 La DF indique le nombre total de documents dans lesquels un mot apparaît.
 Par exemple :
 
-df(the) = 6
+    df(the) = 6
 
-df(of) = 2
+    df(of) = 2
 
-df(citizen) = 1
+    df(citizen) = 1
 
                         4. Index inversé final
 L’index inversé regroupe toutes ces informations et permet de retrouver rapidement les documents contenant un mot donné.
 Exemple :
 
-6 = df(the) signifie que le mot the apparaît dans 6 documents.
+6 = df(the) signifie que le mot "the" apparaît dans 6 documents.
 
 Les lignes suivantes montrent dans quels documents il apparaît et combien de fois :
 
@@ -237,149 +208,81 @@ Grâce à cet index inversé, il devient beaucoup plus rapide de faire des reche
 Il constitue une structure de base pour les moteurs de recherche et les systèmes de récupération d’information,
  car il permet d’associer efficacement chaque mot aux documents dans lesquels il apparaît.
 
-                                                    EXERCICE 3
+
+
+                        /**************************************************************/
+                        /                EXERCICE 3 : Boolean Queries                  /
+                        ***************************************************************/
 
                                        Voici la sortie de  notre Execice 3 :
-
-=== INDEX INVERSÉ ===
-1=df(arabia)
-    1 D4
-1=df(casablanca)
-    1 D1
-1=df(citizen)
-    1 D0
-1=df(godfather)
-    2 D2
-1=df(gone)
-    1 D3
-1=df(graduate)
-    1 D6
-1=df(in)
-    1 D9
-1=df(kane)
-    1 D0
-1=df(lawrence)
-    1 D4
-1=df(list)
-    1 D8
-2=df(of)
-    1 D4
-    2 D5
-1=df(on)
-    1 D7
-1=df(oz)
-    2 D5
-1=df(rain)
-    1 D9
-1=df(schindler’s)
-    1 D8
-1=df(singin’)
-    1 D9
-6=df(the)
-    2 D2
-    1 D3
-    2 D5
-    1 D6
-    1 D7
-    1 D9
-1=df(waterfront)
-    1 D7
-1=df(wind)
-    1 D3
-1=df(with)
-    1 D3
-1=df(wizard)
-    2 D5
-
-=== MAINTENANT L'UTILISATION DE L'INDEX INVERSÉ POUR TROUVER LES REQUÊTES BOOLÉENNES ===
 
 === REQUÊTES BOOLÉENNES ===
 
 1. citizen AND kane
-   Résultat : ['D0']
+    citizen => : ['D0']
+    kane => : ['D0']
+
+    Résultat :  ['D0']
 
 2. the OR godfather
-   Résultat : ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+    the => : ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+    godfather => : ['D2']
+
+    Reusltat :  ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
 
 3. the AND NOT godfather
-   Résultat : ['D3', 'D5', 'D6', 'D7', 'D9']
+    the => : ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+    godfather => : ['D2']
+
+    Resultat :  ['D3', 'D5', 'D6', 'D7', 'D9']
 
 4. NOT citizen
-   Résultat : ['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9']
+    citizen => : ['D0']
+    Tous les documents => : ['D0', 'D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9']
+
+    Resultat :  ['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9']
 
 5. of AND wizard
-   Résultat : ['D5']
+    of => : ['D4', 'D5']
+    wizard => : ['D5']
+
+    Resultat :  ['D5']
 
 6. lawrence OR oz
-   Résultat : ['D4', 'D5']
+    lawrence => : ['D4']
+    oz => : ['D5']
+
+    Resultat :  ['D4', 'D5']
 
 
                                                    Explication de la sortie
 
-                                                        Index inversé
-
-L’index inversé nous montre pour chaque mot dans quels documents il apparaît et éventuellement la fréquence dans chaque document. Il est essentiel pour faire des requetes booléennes
-
-Par exemple :
-
-        citizen → D0
-        kane → D0
-        godfather → D2
-        the → D2, D3, D5, D6, D7, D9
-
-Cela veut dire que le mot "citizen" n’apparaît que dans le document D0.
-Le mot "the" apparaît dans plusieurs documents : D2, D3, D5, etc.
-C’est exactement ce qu’on utilise pour exécuter des requêtes booléennes rapidement.
-
-
                                                         Requêtes booléennes
+On utilise les réultats de "l'exercice2" pour récupérer les "postings lists", qu'on utilise pour les "requetes booléennes"
 
-Principe : On combine les listes de documents de chaque mot selon les opérateurs AND, OR ou NOT.
+Principe : 
+    On récupère le "posintss list" de chaque terme;
+    
+    On combine les listes de documents de chaque terme selon les opérateurs AND, OR ou NOT.
 
-citizen AND kane → ['D0']
+Par exemple : 
 
-    Documents contenant citizen = [D0]
+    citizen AND kane → ['D0']
 
-    Documents contenant kane = [D0]
+        Document(s) contenant citizen = [D0]
 
-    AND = intersection → [D0]
+        Document(s) contenant kane = [D0]
+
+        AND = intersection → [D0]
 
 
-the OR godfather → ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
+    the OR godfather → ['D2', 'D3', 'D5', 'D6', 'D7', 'D9']
 
-    the = [D2, D3, D5, D6, D7, D9]
+        the = [D2, D3, D5, D6, D7, D9]
 
-    godfather = [D2]
+        godfather = [D2]
 
-    OR = union → [D2, D3, D5, D6, D7, D9]
-
-the AND NOT godfather → ['D3', 'D5', 'D6', 'D7', 'D9']
-
-    the = [D2, D3, D5, D6, D7, D9]
-
-    NOT godfather = tous les documents sauf [D2], c’est-à-dire tous les documents où godfather n’apparaît pas.
-
-    AND avec the = intersection → [D3, D5, D6, D7, D9]
-
-NOT citizen → ['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9']
-
-    Tous les documents sauf ceux contenant citizen (D0)
-
-of AND wizard → ['D5']
-
-    of = [D4, D5]
-
-    wizard = [D5]
-
-    AND = intersection → [D5]
-
-lawrence OR oz → ['D4', 'D5']
-
-    lawrence = [D4]
-
-    oz = [D5]
-
-    OR = union → [D4, D5]
+        OR = union → [D2, D3, D5, D6, D7, D9]
 
                                                    Conclusion
 
