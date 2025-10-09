@@ -1,6 +1,6 @@
 import time
 import gzip
-from indexer import InvertedIndex
+from indexer_practice1 import InvertedIndex
 import matplotlib.pyplot as plt
 
 def main():
