@@ -31,10 +31,10 @@ def main():
         index.build_from_text(text)
         end_time = time.time()
 
-        elapsed = end_time - start_time
-        print(f" Temps d’indexation : {elapsed:.2f} secondes")
+        temps_indexation = end_time - start_time
+        print(f" Temps d’indexation : {temps_indexation:.2f} secondes")
 
-        all_results.append((name, elapsed))
+        all_results.append((name, temps_indexation))
 
     # Affichage final
     print("\n=== Résumé des temps d’indexation ===")
