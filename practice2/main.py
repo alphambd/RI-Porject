@@ -1,8 +1,11 @@
 import os
+import matplotlib
+matplotlib.use("TkAgg")  # ou "Qt5Agg" si TkAgg ne fonctionne pas
+import matplotlib.pyplot as plt
 import time
 import gzip
-import matplotlib.pyplot as plt
 from indexer import InvertedIndex
+
 
 #=============================================
 # Indexation et mesure de performance
@@ -59,7 +62,7 @@ def plot_execution_time(sizes, times):
     plt.title("Performance de l’indexation")
     plt.grid(True)
     plt.savefig("performance_indexation.png")  # sauvegarde le graphique
-    plt.show()  # facultatif
+    #plt.show()  # facultatif
 
 
 # ===============================================

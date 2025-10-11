@@ -1,6 +1,5 @@
 import re # for regex operations
 from collections import defaultdict, Counter # for dictionary and counting
-import string
 import gzip
 
 #from practice2.portestemmer import PorterStemmer
