@@ -115,7 +115,7 @@ def avg_chars_per_term(counts_chars, counts_terms):
 def plot_comparison(x_label, y_label, title, x, y_base, y_stop, y_stem):
     plt.plot(x, y_base, '-bo', label='Base')
     plt.plot(x, y_stop, '-ro', label='Stopwords')
-    plt.plot(x, y_stem, '-go', label='Stop+Stemmer')
+    plt.plot(x, y_stem, '-go', label='Stemmer')
     plt.title(title)
     plt.xlabel(x_label)
     plt.ylabel(y_label)
