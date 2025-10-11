@@ -153,7 +153,7 @@ def main():
     print("\n=== DICTIONNAIRE -- term -> {doc_id: tf} -- AVEC REGROUPEMENT DES TERMES ===")
     index.print_dictionary_with_size(100)  # Affiche les X premiers termes du dictionnaire
     
-    print("\n=== INDEX INVERSÉ (avec tf) ===")
+    #print("\n=== INDEX INVERSÉ (avec tf) ===")
     #index.display_index(with_tf=True)
     
 
