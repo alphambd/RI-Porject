@@ -3,7 +3,8 @@ from collections import defaultdict, Counter # for dictionary and counting
 import string
 import gzip
 
-from practice2.portestemmer import PorterStemmer
+#from practice2.portestemmer import PorterStemmer
+from portestemmer import PorterStemmer
 
 
 class InvertedIndex:
@@ -17,6 +18,7 @@ class InvertedIndex:
         self.fils_doc_ids = defaultdict(list)
         self.stop_word_active = False
         self.stemmer_active = False
+        self.doc_ids = []
 
     def preprocess_text(self, text):
         """Traitement basique du texte"""
@@ -28,6 +30,13 @@ class InvertedIndex:
         # Tokenisation
         tokens = text.split()
         return tokens
+    
+    def add_document_base(self, doc_id, text):
+        """Ajoute un document à l’index inversé"""
+        tokens = self.preprocess_text(text)  # nettoie et découpe le texte
+        term_freq = Counter(tokens)  # compte la fréquence de chaque mot
+        for term, freq in term_freq.items():
+            self.dictionary[term][doc_id] = freq  # ajoute au dictionnaire
 
     def add_document(self, doc_id, text, filename):
         """Ajouter un document à l'index"""
@@ -61,6 +70,19 @@ class InvertedIndex:
         # Mettre à jour le dictionnaire
         for term, freq in term_freq.items():
             self.dictionary[term][doc_id] = freq
+
+    def build_from_text(self, text):
+        """Construit l’index à partir d’un texte complet"""
+        # On cherche les documents dans le texte avec <doc><docno>...</docno>...</doc>
+        doc_pattern = r'<doc><docno>([^<]+)</docno>([^<]+)</doc>'
+        matches = re.findall(doc_pattern, text)
+
+        # Pour chaque document trouvé, on l'ajoute à l'index
+        for doc_id, doc_text in matches:
+            doc_id = doc_id.strip()  # supprime espaces superflus
+            doc_text = doc_text.strip()
+            self.doc_ids.append(doc_id)  # garde l'identifiant du doc
+            self.add_document_base(doc_id, doc_text)  # ajoute le doc à l'index
 
     def build_from_file(self, filename):
         """Construire l'index à partir d'un fichier"""
@@ -119,6 +141,15 @@ class InvertedIndex:
     def print_dictionary(self):
         """Afficher le dictionnaire"""
         sorted_terms = sorted(self.dictionary.keys())
+        for term in sorted_terms:
+            print(f"{term}: {self.dictionary[term]}")
+
+    def print_dictionary_with_size(self, size_limit=0):
+        """Afficher le dictionnaire avec une limite de taille"""
+        if size_limit > 0 and size_limit < len(self.dictionary):
+            sorted_terms = sorted(self.dictionary.keys())[:size_limit]
+        else:
+            sorted_terms = sorted(self.dictionary.keys())
         for term in sorted_terms:
             print(f"{term}: {self.dictionary[term]}")
 

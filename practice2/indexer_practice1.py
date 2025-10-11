@@ -56,3 +56,19 @@ class InvertedIndex:
         """Renvoie combien de documents contiennent le mot"""
         term = term.lower()
         return len(self.dictionary.get(term, {}))
+    
+    def print_dictionary(self):
+        """Afficher le dictionnaire"""
+        sorted_terms = sorted(self.dictionary.keys())
+        for term in sorted_terms:
+            print(f"{term}: {self.dictionary[term]}")
+
+    def print_dictionary_with_size(self, size_limit=0):
+        """Afficher le dictionnaire avec une limite de taille"""
+        if size_limit > 0 and size_limit < len(self.dictionary):
+            sorted_terms = sorted(self.dictionary.keys())[:size_limit]
+        else:
+            sorted_terms = sorted(self.dictionary.keys())
+        #sorted_terms = sorted(self.dictionary.keys())
+        for term in sorted_terms:
+            print(f"{term}: {self.dictionary[term]}")
