@@ -177,30 +177,50 @@ Cette étape améliore la qualité de l’index en éliminant les mots peu infor
 /*          EXERCICE 4 : Stop-words + Porter’s Stemmer       */
 /**************************************************************/
 
+
 Objectif :
 Analyser l’impact combiné de la suppression des stop-words et de la racinisation (Porter Stemmer) sur l’indexation et les statistiques de la collection.
 
 Méthodologie :
-- Application du Porter Stemmer sur le 9ème fichier de l’exercice 1, après suppression des stop-words.
-- Recalcul des statistiques :
-  1. Longueur moyenne des documents (#terms/doc)
-  2. Longueur moyenne des termes (#chars/term)
-  3. Taille du vocabulaire (#terms distincts)
-- Tracé des graphiques pour visualiser l’évolution de ces statistiques.
+
+Application du Porter Stemmer sur le 9ème fichier de l’exercice 1, après suppression des stop-words.
+
+Recalcul des statistiques :
+
+Longueur moyenne des documents (#terms/doc)
+
+Longueur moyenne des termes (#chars/term)
+
+Taille du vocabulaire (#terms distincts)
+
+Tracé des graphiques pour visualiser l’évolution de ces statistiques.
 
 Résultats :
-- La longueur moyenne des documents diminue légèrement plus que pour l’exercice 3.
-- La longueur moyenne des termes peut légèrement diminuer à cause de la racinisation.
-- La taille du vocabulaire diminue significativement, car différents mots sont réduits à une même racine.
+
+La longueur moyenne des documents diminue légèrement plus que pour l’exercice 3.
+
+La longueur moyenne des termes peut légèrement diminuer à cause de la racinisation.
+
+La taille du vocabulaire diminue significativement, car différents mots sont réduits à une même racine.
 
 Graphiques produits :
-1. **Figure 8** : Longueur moyenne des documents (#terms/doc) avec stop-words et stemmer
-2. **Figure 9** : Longueur moyenne des termes (#chars/term) avec stop-words et stemmer
-3. **Figure 10** : Taille du vocabulaire (#terms distincts) avec stop-words et stemmer
+
+Figure 8 : Longueur moyenne des documents (#terms/doc) avec stop-words et stemmer
+→ La courbe verte représente l’index avec stop-words et Porter Stemmer.
+On observe que la courbe croît légèrement de droite à gauche, indiquant que les petites collections nécessitent un peu plus de temps d’indexation.
+
+Figure 9 : Longueur moyenne des termes (#chars/term) avec stop-words et stemmer
+→ La courbe verte montre une évolution quasi stable de droite à gauche, traduisant que l’application du stemmer n’affecte que très peu la longueur moyenne des termes.
+
+Figure 10 : Taille du vocabulaire (#terms distincts) avec stop-words et stemmer
+→ La courbe verte augmente moins rapidement de gauche à droite, illustrant que la racinisation réduit fortement le nombre de termes distincts dans la collection.
 
 Observation :
 L’utilisation combinée de la suppression des stop-words et de la racinisation réduit fortement le vocabulaire et le nombre de termes dans les documents, tout en conservant la structure générale des textes.
-Ci-dessous, vous trouverez les graphiques correspondant à l’exercice 4.
+
+
+**« Pour les exercices 2, 3 et 4, les graphiques correspondants sont disponibles dans le rapport intitulé : Rapport_Recherche_D'Information.pdf »**
+
 
 
 
