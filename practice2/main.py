@@ -74,7 +74,7 @@ def run_experiment(index, data_path, stopword=False, stemmer=False):
     index.stop_word_active = stopword
     index.stemmer_active = stemmer
 
-    times, terms, words, chars, docs = [], [], [], [], []
+    times, terms, words, chars, docs, distinct_terms = [], [], [], [], [], []
 
     print("\n\t*************************************************")
     if stopword and stemmer:
@@ -92,13 +92,14 @@ def run_experiment(index, data_path, stopword=False, stemmer=False):
         index.build_from_file(path, print_index=False)
         times.append(time.time() - start)
 
-        t, w, c, d = index.get_data(path)
+        t, w, c, d, dt = index.get_data(path)
         terms.append(t)
         words.append(w)
         chars.append(c)
         docs.append(d)
+        distinct_terms.append(dt)
 
-    return {"times": times, "terms": terms, "words": words, "chars": chars, "docs": docs}
+    return {"times": times, "terms": terms, "words": words, "chars": chars, "docs": docs, "distinct_terms": distinct_terms}
 
 def avg_terms_per_doc(counts_terms, docs_ids):
     """Calcule la longueur moyenne (#terms/doc)"""
@@ -123,7 +124,7 @@ def plot_comparison(x_label, y_label, title, x, y_base, y_stop, y_stem):
     plt.title(title)
     plt.xlabel(x_label)
     plt.ylabel(y_label)
-    #plt.legend()
+    plt.legend()
     plt.grid(True)
     plt.show()
 
@@ -205,7 +206,7 @@ def main():
                     avg_chars_per_term(stem["chars"], stem["terms"]))
 
     plot_comparison("#mots", "#terms", "Vocabulary size vs collection size",
-                    base["words"], base["terms"], stop["terms"], stem["terms"])
+                    base["words"], base["distinct_terms"], stop["distinct_terms"], stem["distinct_terms"])
 
 
 if __name__ == "__main__":

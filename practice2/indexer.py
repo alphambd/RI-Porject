@@ -3,6 +3,8 @@ from collections import defaultdict, Counter # for dictionary and counting
 import gzip
 import time
 
+from numpy.ma.core import doc_note
+
 #from practice2.portestemmer import PorterStemmer
 from portestemmer import PorterStemmer
 
@@ -18,6 +20,7 @@ class InvertedIndex:
         self.fils_doc_count_terms = defaultdict(list)
         self.fils_doc_count_words = defaultdict(list)
         self.fils_doc_count_chars = defaultdict(list)
+        self.fils_doc_distinct_terms = defaultdict(list)
         self.fils_doc_ids = defaultdict(list)
 
         # Options d'indexation
@@ -97,7 +100,7 @@ class InvertedIndex:
         if filename:
             self.fils_doc_ids[filename].append(doc_id)
             self.fils_doc_count_words[filename] += len(tokens)
-            self.fils_doc_count_chars[filename] += len("".join(tokens))            
+            self.fils_doc_count_chars[filename] += len("".join(term_freq.keys()))
             self.fils_doc_count_terms[filename] += len(term_freq)
 
         # Mise à jour du dictionnaire inversé
@@ -136,7 +139,8 @@ class InvertedIndex:
         self.fils_doc_count_chars[filename] = 0
         self.fils_doc_count_terms[filename] = 0
         self.fils_doc_ids[filename] = []
-        
+        self.fils_doc_distinct_terms[filename] = 0
+        self.dictionary = defaultdict(dict)
         # Pour chaque document trouvé, on l'ajoute à l'index
         for doc_id, doc_text in matches:
             doc_id = doc_id.strip()
@@ -146,7 +150,7 @@ class InvertedIndex:
 
         end_time = time.time()
         indexing_time = end_time - start_time
-
+        self.fils_doc_distinct_terms[filename] = len(self.dictionary)
         # Affichage de l'index si la collection est petite
         if print_index:  
             if len(matches) <= 50:
@@ -224,4 +228,4 @@ class InvertedIndex:
 
     def get_data(self, filename):
         """Retourne les statistiques du fichier donné"""
-        return (self.fils_doc_count_terms[filename], self.fils_doc_count_words[filename], self.fils_doc_count_chars[filename],self.fils_doc_ids[filename])
+        return (self.fils_doc_count_terms[filename], self.fils_doc_count_words[filename], self.fils_doc_count_chars[filename],self.fils_doc_ids[filename], self.fils_doc_distinct_terms[filename])
