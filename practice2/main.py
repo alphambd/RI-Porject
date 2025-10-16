@@ -26,9 +26,7 @@ def get_indexation_performance(collections):
     all_results = []
 
     for name, filename in collections:
-        print(f"\n=== Indexation de {name} ===")
-        #with gzip.open(filename, 'rt', encoding='utf-8', errors='ignore') as f:
-        #    text = f.read()
+        #print(f"\n=== Indexation de {name} ===")
 
         text = read_compressed_file(filename)
         index = InvertedIndex()
@@ -38,7 +36,7 @@ def get_indexation_performance(collections):
         end_time = time.time()
 
         temps_indexation = end_time - start_time
-        print(f" Temps d’indexation : {temps_indexation:.2f} secondes")
+        #print(f" Temps d’indexation : {temps_indexation:.2f} secondes")
 
         all_results.append((name, temps_indexation))
 
@@ -56,13 +54,14 @@ def plot_execution_time(sizes, times):
     """
     Trace un graphique des temps d'exécution en fonction de la taille des collections.
     """
+    plt.figure(figsize=(8, 5))
     plt.plot(sizes, times, marker='o')
     plt.xlabel("Taille de la collection (Ko)")
     plt.ylabel("Temps d’indexation (s)")
     plt.title("Performance de l’indexation")
     plt.grid(True)
     plt.savefig("performance_indexation.png")  # sauvegarde le graphique
-    #plt.show()  # facultatif
+    plt.show()  # facultatif, graphe sauvegardé
 
 
 # ===============================================
@@ -71,6 +70,7 @@ def plot_execution_time(sizes, times):
 
 def run_experiment(index, data_path, stopword=False, stemmer=False):
     """Construit l'index pour un mode donné et retourne les statistiques."""
+    index.reset()  # réinitialise l'index
     index.stop_word_active = stopword
     index.stemmer_active = stemmer
 
@@ -87,9 +87,9 @@ def run_experiment(index, data_path, stopword=False, stemmer=False):
 
     for file in sorted(os.listdir(data_path)):
         path = os.path.join(data_path, file)
-        print(f"Processing {file}...")
+        #print(f"Processing {file}...")
         start = time.time()
-        index.build_from_file(path)
+        index.build_from_file(path, print_index=False)
         times.append(time.time() - start)
 
         t, w, c, d = index.get_data(path)
@@ -116,13 +116,14 @@ def avg_chars_per_term(counts_chars, counts_terms):
     return result
 
 def plot_comparison(x_label, y_label, title, x, y_base, y_stop, y_stem):
+    plt.figure(figsize=(8, 5))
     plt.plot(x, y_base, '-bo', label='Base')
     plt.plot(x, y_stop, '-ro', label='Stopwords')
     plt.plot(x, y_stem, '-go', label='Stemmer')
     plt.title(title)
     plt.xlabel(x_label)
     plt.ylabel(y_label)
-    plt.legend()
+    #plt.legend()
     plt.grid(True)
     plt.show()
 
@@ -163,7 +164,7 @@ def main():
     print("\n\t*************************************************")
     print("\t/          PERFORMANCE DE L'INDEXATION          /")
     print("\t*************************************************")
-
+    
     # Mesurer la performance d'indexation
     all_results = get_indexation_performance(collections)
     display_execution_time(all_results)
@@ -180,13 +181,14 @@ def main():
     # ================================================
 
     data_path = "practice2_data"
+    #index = InvertedIndex()
 
-    # Exécute les trois modes d'indexation
+    # Exécution des modes d'indexation
     base = run_experiment(index, data_path)
     stop = run_experiment(index, data_path, stopword=True)
     stem = run_experiment(index, data_path, stopword=True, stemmer=True)
 
-    # Graphiques de comparaison des trois modes d'indexation
+    # Graphiques de comparaison des modes d'indexation
     plot_comparison("#mots", "sec", "Indexing time vs collection size",
                     base["words"], base["times"], stop["times"], stem["times"])
 

@@ -1,8 +1,8 @@
 
 
-**Alpha DIALLO**
-**Ana Salimata SANOU**
-**Clément BOULAY**
+Alpha        DIALLO
+Ana Salimata SANOU
+Clément      BOULAY
 
 ```
 /**************************************************************/
@@ -36,14 +36,10 @@ Chaque collection contient un nombre de documents de plus en plus important (de 
 * Utilisation d’un tokenizer simple (suppression des chiffres et des caractères spéciaux).
 * Indexation de chaque collection à l’aide de la classe **InvertedIndex**.
 * Mesure du temps d’indexation pour chaque fichier.
-* Construction d’un graphique de performance :
-
-  * Axe X : taille de la collection (Ko)
-  * Axe Y : temps d’indexation (secondes)
-
+* Construction d’un graphique de performance (voir "Figure 1" dans "practice2_rapport.pdf")
 **------------------------------------------------------------**
-**Résultats de la sortie (temps d’indexation) :**
 
+**Résultats de la sortie (temps d’indexation) :**
 
 === Résumé des temps d’indexation ===
 Petite collection (1 à 10 documents) -> 0.02 s
@@ -64,16 +60,6 @@ Très grande collection (1001 à 2000 documents) -> 0.53 s
 * La croissance est quasi linéaire au début, puis devient plus marquée pour les collections volumineuses (au-delà de 2000 documents).
 * Cela montre que l’algorithme d’indexation passe bien à l’échelle, mais que les grandes collections entraînent une charge de calcul plus importante.
 
-**Graphique produit :**
-Graphique intitulé **« Performance de l’indexation »** (non affiché ici).
-Axe X = taille de la collection, Axe Y = temps d’indexation.
-Le graphique est intégré dans le rapport principal :
-**Rapport_Recherche_D'Information.pdf**
-
-
-
-
-
 
 /**************************************************************/
 /* EXERCICE 2 : Collection Statistics */
@@ -83,50 +69,25 @@ Objectif :
 Cet exercice a pour but de modifier le programme d’indexation afin de calculer différentes statistiques sur la collection indexée et d’observer leur évolution en fonction de la taille de la collection.
 
 Les statistiques demandées sont :
-
-La longueur moyenne des documents (#terms/doc)
-
-La longueur moyenne des termes (#chars/term)
-
-La taille du vocabulaire (#terms distincts dans l’ensemble de la collection)
+- La longueur moyenne des documents (#terms/doc)
+- La longueur moyenne des termes (#chars/term)
+- La taille du vocabulaire (#terms distincts dans l’ensemble de la collection)
 
 Méthodologie :
 
 Pour chaque sous-collection de documents, nous avons utilisé la classe InvertedIndex afin d’indexer les textes.
 
 Après chaque indexation, les trois statistiques suivantes ont été calculées :
-
-Longueur moyenne d’un document = (nombre total de termes) ÷ (nombre de documents)
-
-Longueur moyenne d’un terme = (nombre total de caractères) ÷ (nombre total de termes)
-
-Taille du vocabulaire = nombre total de termes distincts dans la collection
+- Longueur moyenne d’un document = (nombre total de termes) ÷ (nombre de documents)
+- Longueur moyenne d’un terme = (nombre total de caractères) ÷ (nombre total de termes)
+- Taille du vocabulaire = nombre total de termes distincts dans la collection
 
 Les valeurs obtenues ont ensuite été enregistrées et représentées sous forme de graphiques pour visualiser leur évolution selon la taille croissante de la collection.
 
-Résultats :
-
-La longueur moyenne des documents augmente légèrement avec la taille de la collection, ce qui reflète l’ajout progressif de documents plus longs.
-
-La longueur moyenne des termes reste relativement stable, indiquant une homogénéité du langage dans les documents.
-
-La taille du vocabulaire croît de manière significative avec la taille de la collection, traduisant l’introduction de nouveaux mots à mesure que de nouveaux documents sont ajoutés.
-
-Graphiques produits :
-
-Figure : Évolution de la longueur moyenne des documents (#terms/doc) en fonction de la taille de la collection (#mots).
-La courbe bleue représente l’index de base (sans suppression de stop-words ni stemming).
-On remarque que la courbe croît de droite à gauche, indiquant que les petites collections (avec peu de documents) nécessitent plus de temps d’indexation ou contiennent des documents proportionnellement plus longs, tandis que les collections plus grandes sont indexées plus efficacement.
-
-Figure : Évolution de la longueur moyenne des termes (#chars/term) en fonction de la taille de la collection (#mots).
-La courbe bleue, correspondant à l’index de base (sans suppression de stop-words ni stemming), augmente légèrement de droite vers la gauche, mais avec un temps d’exécution peu élevé.
-
-Figure : Évolution de la taille du vocabulaire (#terms distincts) en fonction de la taille de la collection (#mots).
-La courbe bleue, représentant l’index de base (sans suppression de stop-words ni stemming), augmente progressivement de gauche à droite, montrant que la taille du vocabulaire s’enrichit au fur et à mesure que la collection s’agrandit.
-
-Dans ces figures, la courbe bleue représente l’indexation de base, c’est-à-dire de base (sans suppression de stop-words ni stemming).sans suppression des stop-words ni application du stemmer.
-Les deux autres types d’indexation(couleurs : verte et rouge ) (avec suppression des stop-words et avec stemmer) seront étudiés dans les exercices suivants
-
+Résultats : 
+- La longueur moyenne des documents augmente légèrement avec la taille de la collection, ce qui reflète l’ajout progressif de documents plus longs.
+- La longueur moyenne des termes reste relativement stable, indiquant une homogénéité du langage dans les documents.
+- La taille du vocabulaire croît de manière significative avec la taille de la collection, traduisant l’introduction de nouveaux mots à mesure que de nouveaux documents sont ajoutés.
 
 
 
@@ -153,16 +114,16 @@ Résultats :
 - La longueur moyenne des termes reste stable.
 - La taille du vocabulaire diminue légèrement, car de nombreux mots fréquents ont été retirés.
 
-Graphiques produits :
+Graphiques produits : (voir "Figure 2" dans "practice2_rapport.pdf")
 
-Figure  : Longueur moyenne des documents (#terms/doc) après suppression des stop-words
+Courbe 1  : Longueur moyenne des documents (#terms/doc) après suppression des stop-words
 → La courbe rouge représente l’index sans stop-words.
 On observe que la courbe croît légèrement de droite à gauche, indiquant que les petites collections (avec peu de documents) prennent un peu plus de temps d’indexation, mais sans variation marquée.
 
-Figure  : Longueur moyenne des termes (#chars/term) après suppression des stop-words
+Courbe 2  : Longueur moyenne des termes (#chars/term) après suppression des stop-words
 → La courbe rouge montre une évolution quasi stable de droite à gauche, traduisant que la suppression des stop-words n’a que peu d’impact sur la taille moyenne des mots.
 
-Figure  : Taille du vocabulaire (#terms distincts) après suppression des stop-words
+Courbe 3  : Taille du vocabulaire (#terms distincts) après suppression des stop-words
 → La courbe rouge augmente progressivement de gauche à droite, illustrant que, malgré la suppression des stop-words, le vocabulaire continue de s’enrichir au fur et à mesure que la taille de la collection croît.
 
 Observation :
@@ -170,13 +131,9 @@ La suppression des stop-words réduit le nombre total de termes et la taille du 
 Cette étape améliore la qualité de l’index en éliminant les mots peu informatifs et en allégeant le volume de données à traiter.
 
 
-
-
-
 /**************************************************************/
 /*          EXERCICE 4 : Stop-words + Porter’s Stemmer       */
 /**************************************************************/
-
 
 Objectif :
 Analyser l’impact combiné de la suppression des stop-words et de la racinisation (Porter Stemmer) sur l’indexation et les statistiques de la collection.
@@ -186,40 +143,33 @@ Méthodologie :
 Application du Porter Stemmer sur le 9ème fichier de l’exercice 1, après suppression des stop-words.
 
 Recalcul des statistiques :
-
-Longueur moyenne des documents (#terms/doc)
-
-Longueur moyenne des termes (#chars/term)
-
-Taille du vocabulaire (#terms distincts)
-
-Tracé des graphiques pour visualiser l’évolution de ces statistiques.
+- Longueur moyenne des documents (#terms/doc)
+- Longueur moyenne des termes (#chars/term)
+- Taille du vocabulaire (#terms distincts)
+- Tracé des graphiques pour visualiser l’évolution de ces statistiques.
 
 Résultats :
+- La longueur moyenne des documents diminue légèrement plus que pour l’exercice 3.
+- La longueur moyenne des termes peut légèrement diminuer à cause de la racinisation.
+- La taille du vocabulaire diminue significativement, car différents mots sont réduits à une même racine.
 
-La longueur moyenne des documents diminue légèrement plus que pour l’exercice 3.
+Graphiques produits : (voir "Figure 3" dans "practice2_rapport.pdf")
 
-La longueur moyenne des termes peut légèrement diminuer à cause de la racinisation.
-
-La taille du vocabulaire diminue significativement, car différents mots sont réduits à une même racine.
-
-Graphiques produits :
-
-Figure 8 : Longueur moyenne des documents (#terms/doc) avec stop-words et stemmer
+Figure 3 : Longueur moyenne des documents (#terms/doc) avec stop-words et stemmer
 → La courbe verte représente l’index avec stop-words et Porter Stemmer.
 On observe que la courbe croît légèrement de droite à gauche, indiquant que les petites collections nécessitent un peu plus de temps d’indexation.
 
-Figure 9 : Longueur moyenne des termes (#chars/term) avec stop-words et stemmer
+Figure 4 : Longueur moyenne des termes (#chars/term) avec stop-words et stemmer
 → La courbe verte montre une évolution quasi stable de droite à gauche, traduisant que l’application du stemmer n’affecte que très peu la longueur moyenne des termes.
 
-Figure 10 : Taille du vocabulaire (#terms distincts) avec stop-words et stemmer
+Figure 5 : Taille du vocabulaire (#terms distincts) avec stop-words et stemmer
 → La courbe verte augmente moins rapidement de gauche à droite, illustrant que la racinisation réduit fortement le nombre de termes distincts dans la collection.
 
 Observation :
 L’utilisation combinée de la suppression des stop-words et de la racinisation réduit fortement le vocabulaire et le nombre de termes dans les documents, tout en conservant la structure générale des textes.
 
 
-**« Pour les exercices 2, 3 et 4, les graphiques correspondants sont disponibles dans le rapport intitulé : Rapport_Recherche_D'Information.pdf »**
+**« Pour les exercices 2, 3 et 4, les graphiques correspondants sont disponibles dans le rapport intitulé : practice2_rapport.pdf »**
 
 
 
