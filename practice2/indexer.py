@@ -35,16 +35,29 @@ class InvertedIndex:
         self.stop_word_active = False
         self.stemmer_active = False
 
+    def avg_document_length(self):
+        """Retourne la longueur moyenne des documents en nombre de mots"""
+        total_words = sum(len(self.dictionary[term]) for term in self.dictionary)
+        total_docs = len(self.doc_ids)
+        return total_words / total_docs if total_docs > 0 else 0
+
+    def avg_term_length(self):
+        """Retourne la longueur moyenne des termes en nombre de caractères"""
+        total_chars = sum(len(term) for term in self.dictionary)
+        total_terms = len(self.dictionary)
+        return total_chars / total_terms if total_terms > 0 else 0
+    
     def get_vocabulary_size(self):
         """Retourne le nombre de termes uniques dans TOUTE la collection"""
         return len(self.dictionary)
-    
 
     def preprocess_text(self, text):
         """Traitement basique du texte"""
         # Convertir en minuscules
         text = text.lower()
         # Traiter le cas des apostrophes (pour schindler's, singin', etc.)
+        # ^[...] : ^ indique le début d'un ensemble de caractères (...)
+        # [^...] : ^ indique la négation (tout sauf ...)
         text = text.replace("’", "'")
         text = re.sub(r"[^a-z\s]", "", text)
         # Tokenisation
@@ -65,12 +78,13 @@ class InvertedIndex:
             p = PorterStemmer()
             output, word = '', ''
             for c in text:
-                if c.isalpha():
+                if c.isalpha(): # si c'est une lettre unicode
                     word += c.lower()
-                else:
-                    if word:
+                else: # si c'est un séparateur
+                    if word: # si on a un mot à traiter
                         output += p.stem(word, 0, len(word) - 1)
                         word = ''
+                    # garder le séparateur (espace, ponctuation, etc.)
                     output += c.lower()
             text = output
 
@@ -97,7 +111,7 @@ class InvertedIndex:
         if filename:
             self.fils_doc_ids[filename].append(doc_id)
             self.fils_doc_count_words[filename] += len(tokens)
-            self.fils_doc_count_chars[filename] += len("".join(tokens))            
+            self.fils_doc_count_chars[filename] += len("".join(tokens)) # sans espaces     
             self.fils_doc_count_terms[filename] += len(term_freq)
 
         # Mise à jour du dictionnaire inversé
@@ -109,7 +123,7 @@ class InvertedIndex:
         # On cherche les documents dans le texte avec <doc><docno>...</docno>...</doc>
         doc_pattern = r'<doc><docno>([^<]+)</docno>([^<]+)</doc>'
         matches = re.findall(doc_pattern, text)
-
+        
         # Pour chaque document trouvé, on l'ajoute à l'index
         for doc_id, doc_text in matches:
             doc_id = doc_id.strip()  # supprime espaces superflus
@@ -155,6 +169,7 @@ class InvertedIndex:
         else:
             print(f"  {filename}: {len(matches)} documents indexés en {indexing_time:.2f}s")
         
+        return indexing_time
     
     def display_index(self, limit=0, with_tf=False):
         """Affiche l'index avec contrôle (variants exercice 1)"""
@@ -176,25 +191,7 @@ class InvertedIndex:
                 print(f"{df}=df({term})")
                 for doc_id in sorted(postings.keys()):
                     print(f"    {doc_id}")
-    """
-    def display_index(self, with_tf=False):
-        #Afficher l'index inversé
-        # Trier les termes alphabétiquement
-        sorted_terms = sorted(self.dictionary.keys())
-        
-        for term in sorted_terms:
-            postings = self.dictionary[term]
-            df = len(postings)
-            
-            if with_tf:
-                print(f"{df}=df({term})")
-                for doc_id, tf in sorted(postings.items()):
-                    print(f"    {tf} {doc_id}")
-            else:
-                print(f"{df}=df({term})")
-                for doc_id in sorted(postings.keys()):
-                    print(f"    {doc_id}")
-    """
+    
     def get_postings(self, term):
         """Récupérer la liste de postings pour un terme"""
         term = term.lower()

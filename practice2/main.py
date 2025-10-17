@@ -76,21 +76,23 @@ def run_experiment(index, data_path, stopword=False, stemmer=False):
 
     times, terms, words, chars, docs = [], [], [], [], []
 
-    print("\n\t*************************************************")
+    print("\n\t----------------------------------------------------")
     if stopword and stemmer:
-        print("\t/  INVERTED INDEX WITH STOP WORDS AND STEMMER   /")
+        print("\t/  INVERTED INDEX WITHOUT STOP WORDS AND STEMMER   /")
     elif stopword:
-        print("\t/        INVERTED INDEX WITH STOP WORDS         /")
+        print("\t/        INVERTED INDEX WITHOUT STOP WORDS         /")
     else:
-        print("\t/             INVERTED INDEX                    /")
-    print("\t*************************************************")
+        print("\t/          INVERTED INDEX WITH STOP WORDS          /")
+    print("\t----------------------------------------------------")
 
     for file in sorted(os.listdir(data_path)):
         path = os.path.join(data_path, file)
         #print(f"Processing {file}...")
-        start = time.time()
-        index.build_from_file(path, print_index=False)
-        times.append(time.time() - start)
+        #start = time.time()
+        #index.build_from_file(path, print_index=False)
+        #times.append(time.time() - start)
+        t = index.build_from_file(path, print_index=False)
+        times.append(t)
 
         t, w, c, d = index.get_data(path)
         terms.append(t)
@@ -99,6 +101,25 @@ def run_experiment(index, data_path, stopword=False, stemmer=False):
         docs.append(d)
 
     return {"times": times, "terms": terms, "words": words, "chars": chars, "docs": docs}
+
+def avg_docs_length(counts_words, docs_ids):
+    """Calcule la longueur moyenne (#words/doc)"""
+    result = []
+    for words, docs in zip(counts_words, docs_ids):
+        n = len(docs)
+        result.append(words / n if n > 0 else 0)
+    return result
+
+def avg_terms_length(counts_chars, counts_words):
+    """Calcule la longueur moyenne (#chars/word)"""
+    result = []
+    for chars, words in zip(counts_chars, counts_words):
+        result.append(chars / words if words > 0 else 0)
+    return result
+
+def vocab_size(dictionary):
+    """Retourne la taille du vocabulaire (nombre de termes distincts)"""
+    return len(dictionary)
 
 def avg_terms_per_doc(counts_terms, docs_ids):
     """Calcule la longueur moyenne (#terms/doc)"""
@@ -113,7 +134,7 @@ def avg_chars_per_term(counts_chars, counts_terms):
     result = []
     for chars, terms in zip(counts_chars, counts_terms):
         result.append(chars / terms if terms > 0 else 0)
-    return result
+    return result    
 
 def plot_comparison(x_label, y_label, title, x, y_base, y_stop, y_stem):
     plt.figure(figsize=(8, 5))
@@ -159,8 +180,14 @@ def main():
     
     #print("\n=== INDEX INVERSÉ (avec tf) ===")
     #index.display_index(with_tf=True)
-    
 
+    print("\n\t*************************************************")
+    print("\t/         STATISTIQUES DES COLLECTIONS          /")
+    print("\t*************************************************")
+    print(f"Longueur moyenne des documents : {index.avg_document_length()} mots")
+    print(f"Longueur moyenne des termes : {index.avg_term_length()} caractères")
+    print(f"Le vocabulaire contient : {index.get_vocabulary_size()} termes distincts")
+    """
     print("\n\t*************************************************")
     print("\t/          PERFORMANCE DE L'INDEXATION          /")
     print("\t*************************************************")
@@ -206,7 +233,7 @@ def main():
 
     plot_comparison("#mots", "#terms", "Vocabulary size vs collection size",
                     base["words"], base["terms"], stop["terms"], stem["terms"])
-
+    """
 
 if __name__ == "__main__":
     main()
