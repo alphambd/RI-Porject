@@ -102,25 +102,6 @@ def run_experiment(index, data_path, stopword=False, stemmer=False):
 
     return {"times": times, "terms": terms, "words": words, "chars": chars, "docs": docs}
 
-def avg_docs_length(counts_words, docs_ids):
-    """Calcule la longueur moyenne (#words/doc)"""
-    result = []
-    for words, docs in zip(counts_words, docs_ids):
-        n = len(docs)
-        result.append(words / n if n > 0 else 0)
-    return result
-
-def avg_terms_length(counts_chars, counts_words):
-    """Calcule la longueur moyenne (#chars/word)"""
-    result = []
-    for chars, words in zip(counts_chars, counts_words):
-        result.append(chars / words if words > 0 else 0)
-    return result
-
-def vocab_size(dictionary):
-    """Retourne la taille du vocabulaire (nombre de termes distincts)"""
-    return len(dictionary)
-
 def avg_terms_per_doc(counts_terms, docs_ids):
     """Calcule la longueur moyenne (#terms/doc)"""
     result = []
@@ -187,7 +168,7 @@ def main():
     print(f"Longueur moyenne des documents : {index.avg_document_length()} mots")
     print(f"Longueur moyenne des termes : {index.avg_term_length()} caractères")
     print(f"Le vocabulaire contient : {index.get_vocabulary_size()} termes distincts")
-    """
+    
     print("\n\t*************************************************")
     print("\t/          PERFORMANCE DE L'INDEXATION          /")
     print("\t*************************************************")
@@ -233,7 +214,7 @@ def main():
 
     plot_comparison("#mots", "#terms", "Vocabulary size vs collection size",
                     base["words"], base["terms"], stop["terms"], stem["terms"])
-    """
+    
 
 if __name__ == "__main__":
     main()
