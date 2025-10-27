@@ -1,41 +1,63 @@
-PRACTICAL SESSION 2 - RAPPORT COMPLET
-==================================================
+Alpha        DIALLO
+Ana Salimata SANOU
+Clément      BOULAY
 
-=== EXERCICE 1: PERFORMANCE ===
-Collection | Taille (Ko) | Temps (s) | Documents | Vocabulaire
---------------------------------------------------------------------------------
-Coll-1-10 | 55 | 0.02 | 10 | 5295
-Coll-11-20 | 52 | 0.02 | 10 | 4500
-Coll-21-50 | 103 | 0.02 | 30 | 8077
-Coll-51-100 | 96 | 0.04 | 50 | 6720
-Coll-101-200 | 357 | 0.09 | 100 | 17991
-Coll-201-500 | 559 | 0.15 | 300 | 26995
-Coll-501-1000 | 747 | 0.19 | 500 | 33402
-Coll-1001-2000 | 1182 | 0.31 | 1000 | 44292
-Coll-2001-5000 | 4201 | 1.17 | 3000 | 106850
 
-=== EXERCICE 2: STATISTIQUES ===
-Longueur moyenne documents: 496.3 termes
-Longueur moyenne termes: 5.1 caractères
-Taille vocabulaire: 106850 termes
-Nombre total documents: 3000
-Nombre total tokens: 1488801
 
-=== EXERCICE 3: STOP WORDS ===
-Vocabulaire original: 106850 termes
-Avec stop words: 106249 termes
-Réduction: 0.6%
+============================================================
+EXERCICE 1: PERFORMANCE D'INDEXATION
+============================================================
 
-=== EXERCICE 4: STEMMING ===
-Vocabulaire original: 106850 termes
-Avec stop words: 106249 termes
-Avec stemming: 88557 termes
-Réduction totale: 17.1%
-Réduction stemming seul: 16.7%
+ Configuration: base
+  file1: 10 docs, 5295 termes, 23561 tokens, indexé en 0.02s
+  file2: 10 docs, 4500 termes, 20414 tokens, indexé en 0.01s
+  file3: 30 docs, 8077 termes, 37446 tokens, indexé en 0.02s
+  file4: 50 docs, 6720 termes, 38487 tokens, indexé en 0.01s
+  file5: 100 docs, 17991 termes, 135489 tokens, indexé en 0.07s
+  file6: 300 docs, 26995 termes, 201495 tokens, indexé en 0.10s
+  file7: 500 docs, 33402 termes, 266352 tokens, indexé en 0.13s
+  file8: 1000 docs, 44292 termes, 410611 tokens, indexé en 0.24s
+  file9: 3000 docs, 106850 termes, 1488801 tokens, indexé en 0.86s
 
-=== OBSERVATIONS GLOBALES ===
-1. Loi de Heaps: Croissance du vocabulaire observée
-2. Stop words: Réduction significative du vocabulaire
-3. Stemming: Réduction additionnelle importante
-4. Performance: Temps d'indexation scalable
-5. Tokenisation: Respect de la consigne 'terms without digits or special characters'
+============================================================
+EXERCICE 2: STATISTIQUES DE LA COLLECTION
+============================================================
+
+ Exercice 2 - Statistiques pour file9:
+  • Longueur moyenne documents: 496.27 termes
+  • Longueur moyenne termes: 5.10 caractères
+  • Taille vocabulaire: 106850 termes distincts
+  • Temps indexation: 0.86s
+
+============================================================
+EXERCICE 3: ANALYSE AVEC STOP WORDS
+============================================================
+
+ Configuration: stopwords
+  file9: 3000 docs, 106249 termes, 935984 tokens, indexé en 0.91s
+
+ Exercice 3 - Statistiques pour file9:
+  • Longueur moyenne documents: 311.99 termes
+  • Longueur moyenne termes: 6.33 caractères
+  • Taille vocabulaire: 106249 termes distincts
+  • Temps indexation: 0.91s
+
+============================================================
+EXERCICE 4: ANALYSE AVEC STOP WORDS + STEMMING
+============================================================
+
+ Configuration: stemming
+  file9: 3000 docs, 88611 termes, 935984 tokens, indexé en 4.93s
+
+ Exercice 4 - Statistiques pour file9:
+  • Longueur moyenne documents: 311.99 termes
+  • Longueur moyenne termes: 5.56 caractères
+  • Taille vocabulaire: 88611 termes distincts
+  • Temps indexation: 4.93s
+
+============================================================
+SYNTHESE DES RESULTATS
+============================================================
+- Exo 2 : stats = (496 terms, 5.10 char, 106850 distinct terms), 0.86sec
+- Exo 3 : stats = (312 terms, 6.33 char, 106249 distinct terms), 0.91sec
+- Exo 4 : stats = (312 terms, 5.56 char, 88611 distinct terms), 4.93sec

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import time
 import gzip
 import json
-from my_indexer import AdvancedInvertedIndex
+from advanced_indexer import AdvancedInvertedIndex
 
 class StatsAnalyzer:
     def __init__(self, data_path="practice2_data"):
