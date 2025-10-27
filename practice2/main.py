@@ -19,10 +19,10 @@ def read_compressed_file(filepath):
         return f.read()
 
 def get_indexation_performance(collections):
-    """
-    Cette fonction indexe plusieurs collections de tailles croissantes,
-    mesure le temps d'indexation pour chacune, et retourne les résultats.
-    """
+    
+    #Cette fonction indexe plusieurs collections de tailles croissantes,
+    #mesure le temps d'indexation pour chacune, et retourne les résultats.
+
     all_results = []
 
     for name, filename in collections:
@@ -32,28 +32,81 @@ def get_indexation_performance(collections):
         index = InvertedIndex()
 
         start_time = time.time()
-        index.build_from_text(text)
+        t = index.build_from_text(text)
         end_time = time.time()
 
         temps_indexation = end_time - start_time
         #print(f" Temps d’indexation : {temps_indexation:.2f} secondes")
+        
+        # Obtenir la taille de la collection
+        file_size = os.path.getsize(filename) / 1024  # Taille en Ko
 
-        all_results.append((name, temps_indexation))
+        all_results.append({
+            "name": name,
+            "indx_time": temps_indexation,
+            "num_terms": index.get_number_of_terms_file(filename),
+            "file_size": file_size
+        })
 
     return all_results
+
+
+def get_indexation_performance_new(index, collections):
+    """
+    Cette fonction indexe plusieurs collections de tailles croissantes,
+    mesure le temps d'indexation pour chacune, et retourne les résultats.
+    """
+    #index = InvertedIndex()
+    all_results = []
+
+    for name, filename in collections:
+        #print(f"\n=== Indexation de {name} ===")
+
+        text = read_compressed_file(filename)
+        #index = InvertedIndex()
+
+        start_time = time.time()
+        index.build_from_text(text, filename)
+        end_time = time.time()
+
+        temps_indexation = end_time - start_time
+        #print(f" Temps d’indexation : {temps_indexation:.2f} secondes")
+        
+        # Obtenir la taille de la collection
+        file_size = os.path.getsize(filename) / 1024  # Taille en Ko
+
+        all_results.append({
+            "name": name,
+            "indx_time": temps_indexation,
+            "num_terms": index.get_number_of_terms_file(filename),
+            "file_size": file_size
+        })
+
+    #return all_results
+    return {
+        "results": all_results,
+        "stats": {
+            "avg_docs_length": index.avg_document_length(),
+            "avg_terms_length": index.avg_term_length(),
+            "vocabulary_size": index.get_vocabulary_size()
+        }
+    }
 
 def display_execution_time(results):
     """
     Affiche les temps d'exécution pour chaque collection.
     """
     print("\n=== Résumé des temps d’indexation ===")
-    for name, t in results:
-        print(f"{name} -> {t:.2f} s")
-
+    #for name, t in results:
+    #    print(f"{name} -> {t:.2f} s")
+    for result in results:
+        print(f"{result['name']} -> {result['indx_time']:.2f} s")
+    
+"""
 def plot_execution_time(sizes, times):
-    """
-    Trace un graphique des temps d'exécution en fonction de la taille des collections.
-    """
+    
+    #Trace un graphique des temps d'exécution en fonction de la taille des collections.
+    
     plt.figure(figsize=(8, 5))
     plt.plot(sizes, times, marker='o')
     plt.xlabel("Taille de la collection (Ko)")
@@ -62,7 +115,22 @@ def plot_execution_time(sizes, times):
     plt.grid(True)
     plt.savefig("performance_indexation.png")  # sauvegarde le graphique
     plt.show()  # facultatif, graphe sauvegardé
+"""
+def plot_execution_time(results):
+    """
+    Trace un graphique des temps d'exécution en fonction du nombre de termes dans les collections.
+    """
+    times = [result["indx_time"] for result in results]
+    sizes = [result["num_terms"] for result in results]
 
+    plt.figure(figsize=(8, 5))
+    plt.plot(sizes, times, marker='o')
+    plt.xlabel("Nombre de termes dans la collection")
+    plt.ylabel("Temps d’indexation (s)")
+    plt.title("Performance de l’indexation")
+    plt.grid(True)
+    plt.savefig("performance_indexation.png")  # sauvegarde le graphique
+    plt.show()  # facultatif, graphe sauvegardé
 
 # ===============================================
 # Comparaison des trois modes d'indexation
@@ -148,9 +216,9 @@ def main():
         ("Énorme collection (2001 à 5000 documents)", "practice2_data/09-Text_Only-Ascii-Coll-2001-5000-NoSem.gz")
     ]
     
-    file_content = read_compressed_file('practice2_data/01-Text_Only-Ascii-Coll-1-10-NoSem.gz')
-    index.build_from_text(file_content)
-
+    #file_content = read_compressed_file('practice2_data/02-Text_Only-Ascii-Coll-11-20-NoSem.gz')
+    #index.build_from_text(file_content)
+    """
     print("\n\t*************************************************")
     print("\t/       INVERTED INDEX D'UN DOCUMENT DONNE      /")
     print("\t*************************************************")
@@ -162,35 +230,46 @@ def main():
     #print("\n=== INDEX INVERSÉ (avec tf) ===")
     #index.display_index(with_tf=True)
 
-    print("\n\t*************************************************")
-    print("\t/         STATISTIQUES DES COLLECTIONS          /")
-    print("\t*************************************************")
-    print(f"Longueur moyenne des documents : {index.avg_document_length()} mots")
-    print(f"Longueur moyenne des termes : {index.avg_term_length()} caractères")
-    print(f"Le vocabulaire contient : {index.get_vocabulary_size()} termes distincts")
     
+    """
+
+    # Exo 1 : 
     print("\n\t*************************************************")
     print("\t/          PERFORMANCE DE L'INDEXATION          /")
     print("\t*************************************************")
     
     # Mesurer la performance d'indexation
-    all_results = get_indexation_performance(collections)
-    display_execution_time(all_results)
+    #results = get_indexation_performance(collections)
+    results = get_indexation_performance_new(index, collections)["results"]
+    #display_execution_time(results)
 
     # Exemple de tailles en Ko (on pourrai l'adapter si le besoin est la )
-    sizes = [55, 52, 103, 96, 357, 559, 747, 1200, 4100]
-    times = [t for _, t in all_results]
-    # Tracer la courbe du temps d'indexation
-    plot_execution_time(sizes, times)
     
+    #times = [result["indx_time"] for result in results]
+    #num_terms = [result["num_terms"] for result in results]
+    #file_sizes = [result["file_size"] for result in results]
+    #print("\n\nFile sizes (Ko):", file_sizes, "\n\nIndexing times (s):\n", times, "\n\nNumber of terms:\n ----", num_terms)
+    # Tracer la courbe du temps d'indexation
+    #plot_execution_time(sizes, times)
+    plot_execution_time(results)
 
+    
+    print("\n\t*************************************************")
+    print("\t/         STATISTIQUES DES COLLECTIONS          /")
+    print("\t*************************************************")
+    get_indexation_performance_new(index, collections)
+
+    print(f"Longueur moyenne des documents : {index.avg_document_length()} terms")
+    print(f"Longueur moyenne des termes : {index.avg_term_length()} caractères")
+    print(f"Le vocabulaire contient : {index.get_vocabulary_size()} termes distincts")
+    
     # ================================================
     # Compare des modes d'indexation
     # ================================================
 
     data_path = "practice2_data"
     #index = InvertedIndex()
-
+    """
     # Exécution des modes d'indexation
     base = run_experiment(index, data_path)
     stop = run_experiment(index, data_path, stopword=True)
@@ -214,7 +293,7 @@ def main():
 
     plot_comparison("#mots", "#terms", "Vocabulary size vs collection size",
                     base["words"], base["terms"], stop["terms"], stem["terms"])
-    
+    """
 
 if __name__ == "__main__":
     main()

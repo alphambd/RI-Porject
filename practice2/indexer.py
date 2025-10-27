@@ -50,6 +50,18 @@ class InvertedIndex:
     def get_vocabulary_size(self):
         """Retourne le nombre de termes uniques dans TOUTE la collection"""
         return len(self.dictionary)
+    
+    def get_file_size(self, filename):
+        """Retourne le nombre de termes, mots et caractères pour un fichier donné"""
+        return (self.fils_doc_count_terms[filename], self.fils_doc_count_words[filename], self.fils_doc_count_chars[filename])
+    
+    def get_file_terms_size(self, filename):
+        """Retourne le nombre de termes uniques pour un fichier donné"""
+        return self.fils_doc_count_terms[filename]
+
+    def get_number_of_terms_file(self, filename):
+        """Retourne le nombre total de termes (avec répétitions) pour un fichier donné"""
+        return sum(self.fils_doc_count_terms[filename])
 
     def preprocess_text(self, text):
         """Traitement basique du texte"""
@@ -63,6 +75,26 @@ class InvertedIndex:
         # Tokenisation
         tokens = text.split()
         return tokens
+    
+    def read_compressed_file(self, filepath):
+        """
+        Lit un fichier compressé au format gzip et retourne son contenu sous forme de chaîne de caractères.
+        """
+        with gzip.open(filepath, 'rt', encoding='utf-8', errors='ignore') as f:
+            return f.read()
+        
+    def load_stopwords(self, filepath):
+        """
+        Charge les stop words depuis un fichier et retourne un ensemble de mots.
+        Chaque mot doit être sur une ligne séparée dans le fichier.
+        """
+        try:
+            with open(filepath, 'r') as file:
+                stopwords = set(file.read().split())
+            return stopwords
+        except FileNotFoundError:
+            print("Fichier de stop words non trouvé. Aucun mot supprimé.")
+            return set()
 
     def add_document(self, doc_id, text, filename=None):
         """
@@ -93,13 +125,7 @@ class InvertedIndex:
 
         # Suppression des stop words si activée
         if self.stop_word_active:
-            try:
-                # Lecture du fichier de stop words une seule fois serait préférable 
-                with open("stop-words-english4.txt", 'r') as file:
-                    stopwords = set(file.read().split())  # ensemble = plus rapide que liste
-            except FileNotFoundError:
-                stopwords = set()
-                print("⚠️  Fichier de stop words non trouvé. Aucun mot supprimé.")
+            stopwords = self.load_stopwords('stop-words-english4.txt')
 
             # On ne garde que les tokens qui NE sont PAS des stop words
             tokens = [token for token in tokens if token not in stopwords]
@@ -110,15 +136,18 @@ class InvertedIndex:
         # Mise à jour des statistiques du fichier
         if filename:
             self.fils_doc_ids[filename].append(doc_id)
-            self.fils_doc_count_words[filename] += len(tokens)
-            self.fils_doc_count_chars[filename] += len("".join(tokens)) # sans espaces     
-            self.fils_doc_count_terms[filename] += len(term_freq)
-
+            #self.fils_doc_count_words[filename] += len(tokens)
+            #self.fils_doc_count_chars[filename] += len("".join(tokens)) # sans espaces     
+            #self.fils_doc_count_terms[filename] += len(term_freq)
+            self.fils_doc_count_words[filename].append(len(tokens))
+            self.fils_doc_count_chars[filename].append(len("".join(tokens)))  # sans espaces
+            self.fils_doc_count_terms[filename].append(len(term_freq))
+        
         # Mise à jour du dictionnaire inversé
         for term, freq in term_freq.items():
             self.dictionary[term][doc_id] = freq
     
-    def build_from_text(self, text):
+    def build_from_text(self, text, filename=None):
         """Construit l’index à partir d’un texte complet"""
         # On cherche les documents dans le texte avec <doc><docno>...</docno>...</doc>
         doc_pattern = r'<doc><docno>([^<]+)</docno>([^<]+)</doc>'
@@ -129,14 +158,15 @@ class InvertedIndex:
             doc_id = doc_id.strip()  # supprime espaces superflus
             doc_text = doc_text.strip()
             self.doc_ids.append(doc_id)  # garde l'identifiant du doc
-            self.add_document(doc_id, doc_text)  # ajoute le doc à l'index
+            self.add_document(doc_id, doc_text, filename)  # ajoute le doc à l'index
 
     def build_from_file(self, filename, print_index=False):
         """Construire l'index à partir d'un fichier"""
         start_time = time.time()
-        with gzip.open(filename, 'rb') as file:
-            content = file.read()
-        content = content.decode('utf-8')
+        #with gzip.open(filename, 'rb') as file:
+        #    content = file.read()
+        #content = content.decode('utf-8')
+        content = self.read_compressed_file(filename)
         # Extraire le contenu des documents dans le fichier avec regex
         """
         le premier ([^<]+) : capture le contenu de <docno>...</docno> (ex : D0)
@@ -164,7 +194,7 @@ class InvertedIndex:
         # Affichage de l'index si la collection est petite
         if print_index:  
             if len(matches) <= 50:
-                print(f"📄 Index pour {filename} :")
+                print(f"  Index pour {filename} :")
                 self.display_index(limit=20)
         else:
             print(f"  {filename}: {len(matches)} documents indexés en {indexing_time:.2f}s")

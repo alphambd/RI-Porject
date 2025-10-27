@@ -1,179 +1,41 @@
+PRACTICAL SESSION 2 - RAPPORT COMPLET
+==================================================
 
+=== EXERCICE 1: PERFORMANCE ===
+Collection | Taille (Ko) | Temps (s) | Documents | Vocabulaire
+--------------------------------------------------------------------------------
+Coll-1-10 | 55 | 0.02 | 10 | 5295
+Coll-11-20 | 52 | 0.02 | 10 | 4500
+Coll-21-50 | 103 | 0.02 | 30 | 8077
+Coll-51-100 | 96 | 0.04 | 50 | 6720
+Coll-101-200 | 357 | 0.09 | 100 | 17991
+Coll-201-500 | 559 | 0.15 | 300 | 26995
+Coll-501-1000 | 747 | 0.19 | 500 | 33402
+Coll-1001-2000 | 1182 | 0.31 | 1000 | 44292
+Coll-2001-5000 | 4201 | 1.17 | 3000 | 106850
 
-Alpha        DIALLO
-Ana Salimata SANOU
-Clément      BOULAY
+=== EXERCICE 2: STATISTIQUES ===
+Longueur moyenne documents: 496.3 termes
+Longueur moyenne termes: 5.1 caractères
+Taille vocabulaire: 106850 termes
+Nombre total documents: 3000
+Nombre total tokens: 1488801
 
-```
-/**************************************************************/
-/       EXERCICE 1 : Increasing the size of the collection
-/**************************************************************/
-```
+=== EXERCICE 3: STOP WORDS ===
+Vocabulaire original: 106850 termes
+Avec stop words: 106249 termes
+Réduction: 0.6%
 
-**Objectif :**
-Indexer plusieurs collections de textes de tailles croissantes et mesurer le temps d’indexation pour chacune d’entre elles.
-Chaque collection contient un nombre de documents de plus en plus important (de 10 à 5000).
+=== EXERCICE 4: STEMMING ===
+Vocabulaire original: 106850 termes
+Avec stop words: 106249 termes
+Avec stemming: 88557 termes
+Réduction totale: 17.1%
+Réduction stemming seul: 16.7%
 
----
-
-**Collections utilisées :**
-
-* 01-Text_Only-Ascii-Coll-1-10-NoSem.gz (55k)
-* 02-Text_Only-Ascii-Coll-11-20-NoSem.gz (52k)
-* 03-Text_Only-Ascii-Coll-21-50-NoSem.gz (103k)
-* 04-Text_Only-Ascii-Coll-51-100-NoSem.gz (96k)
-* 05-Text_Only-Ascii-Coll-101-200-NoSem.gz (357k)
-* 06-Text_Only-Ascii-Coll-201-500-NoSem.gz (559k)
-* 07-Text_Only-Ascii-Coll-501-1000-NoSem.gz (747k)
-* 08-Text_Only-Ascii-Coll-1001-2000-NoSem.gz (1.2M)
-* 09-Text_Only-Ascii-Coll-2001-5000-NoSem.gz (4.1M)
-
----
-
-**------------------------------------------------------------**
-**Méthodologie :**
-
-* Utilisation d’un tokenizer simple (suppression des chiffres et des caractères spéciaux).
-* Indexation de chaque collection à l’aide de la classe **InvertedIndex**.
-* Mesure du temps d’indexation pour chaque fichier.
-* Construction d’un graphique de performance (voir "Figure 1" dans "practice2_rapport.pdf")
-**------------------------------------------------------------**
-
-**Résultats de la sortie (temps d’indexation) :**
-
-=== Résumé des temps d’indexation ===
-Petite collection (1 à 10 documents) -> 0.02 s
-Petite collection (11 à 20 documents) -> 0.02 s
-Collection moyenne (21 à 50 documents) -> 0.04 s
-Collection moyenne (51 à 100 documents) -> 0.05 s
-Grande collection (101 à 200 documents) -> 0.19 s
-Grande collection (201 à 500 documents) -> 0.26 s
-Très grande collection (501 à 1000 documents) -> 0.35 s
-Très grande collection (1001 à 2000 documents) -> 0.53 s
-Énorme collection (2001 à 5000 documents) -> 2.63 s
-
-
-**------------------------------------------------------------**
-**Observation :**
-
-* Le temps d’indexation augmente proportionnellement à la taille de la collection.
-* La croissance est quasi linéaire au début, puis devient plus marquée pour les collections volumineuses (au-delà de 2000 documents).
-* Cela montre que l’algorithme d’indexation passe bien à l’échelle, mais que les grandes collections entraînent une charge de calcul plus importante.
-
-
-/**************************************************************/
-/* EXERCICE 2 : Collection Statistics */
-/**************************************************************/
-
-Objectif :
-Cet exercice a pour but de modifier le programme d’indexation afin de calculer différentes statistiques sur la collection indexée et d’observer leur évolution en fonction de la taille de la collection.
-
-Les statistiques demandées sont :
-- La longueur moyenne des documents (#terms/doc)
-- La longueur moyenne des termes (#chars/term)
-- La taille du vocabulaire (#terms distincts dans l’ensemble de la collection)
-
-Méthodologie :
-
-Pour chaque sous-collection de documents, nous avons utilisé la classe InvertedIndex afin d’indexer les textes.
-
-Après chaque indexation, les trois statistiques suivantes ont été calculées :
-- Longueur moyenne d’un document = (nombre total de termes) ÷ (nombre de documents)
-- Longueur moyenne d’un terme = (nombre total de caractères) ÷ (nombre total de termes)
-- Taille du vocabulaire = nombre total de termes distincts dans la collection
-
-Les valeurs obtenues ont ensuite été enregistrées et représentées sous forme de graphiques pour visualiser leur évolution selon la taille croissante de la collection.
-
-Résultats : 
-- La longueur moyenne des documents augmente légèrement avec la taille de la collection, ce qui reflète l’ajout progressif de documents plus longs.
-- La longueur moyenne des termes reste relativement stable, indiquant une homogénéité du langage dans les documents.
-- La taille du vocabulaire croît de manière significative avec la taille de la collection, traduisant l’introduction de nouveaux mots à mesure que de nouveaux documents sont ajoutés.
-
-
-
-
-/**************************************************************/
-/*                   EXERCICE 3 : Stop-words                 */
-/**************************************************************/
-
-Objectif :
-L’objectif de cet exercice est de mesurer l’impact de la suppression des stop-words sur l’indexation et les statistiques de la collection.
-Nous avons mis à jour l’index du 9ème fichier de l’exercice 1 en supprimant les stop-words et recalculé les statistiques :
-1. Longueur moyenne des documents (#terms/doc)
-2. Longueur moyenne des termes (#chars/term)
-3. Taille du vocabulaire (#terms distincts)
-
-Méthodologie :
-- Chargement de la liste de stop-words `stop-words-english4.txt`.
-- Suppression des termes présents dans cette liste lors de l’indexation.
-- Calcul des statistiques pour le fichier filtré.
-- Tracé de graphiques comparatifs pour observer l’évolution de ces statistiques.
-
-Résultats :
-- La longueur moyenne des documents diminue car les stop-words sont supprimés.
-- La longueur moyenne des termes reste stable.
-- La taille du vocabulaire diminue légèrement, car de nombreux mots fréquents ont été retirés.
-
-Graphiques produits : (voir "Figure 2" dans "practice2_rapport.pdf")
-
-Courbe 1  : Longueur moyenne des documents (#terms/doc) après suppression des stop-words
-→ La courbe rouge représente l’index sans stop-words.
-On observe que la courbe croît légèrement de droite à gauche, indiquant que les petites collections (avec peu de documents) prennent un peu plus de temps d’indexation, mais sans variation marquée.
-
-Courbe 2  : Longueur moyenne des termes (#chars/term) après suppression des stop-words
-→ La courbe rouge montre une évolution quasi stable de droite à gauche, traduisant que la suppression des stop-words n’a que peu d’impact sur la taille moyenne des mots.
-
-Courbe 3  : Taille du vocabulaire (#terms distincts) après suppression des stop-words
-→ La courbe rouge augmente progressivement de gauche à droite, illustrant que, malgré la suppression des stop-words, le vocabulaire continue de s’enrichir au fur et à mesure que la taille de la collection croît.
-
-Observation :
-La suppression des stop-words réduit le nombre total de termes et la taille du vocabulaire, tout en maintenant une longueur moyenne de termes stable.
-Cette étape améliore la qualité de l’index en éliminant les mots peu informatifs et en allégeant le volume de données à traiter.
-
-
-/**************************************************************/
-/*          EXERCICE 4 : Stop-words + Porter’s Stemmer       */
-/**************************************************************/
-
-Objectif :
-Analyser l’impact combiné de la suppression des stop-words et de la racinisation (Porter Stemmer) sur l’indexation et les statistiques de la collection.
-
-Méthodologie :
-
-Application du Porter Stemmer sur le 9ème fichier de l’exercice 1, après suppression des stop-words.
-
-Recalcul des statistiques :
-- Longueur moyenne des documents (#terms/doc)
-- Longueur moyenne des termes (#chars/term)
-- Taille du vocabulaire (#terms distincts)
-- Tracé des graphiques pour visualiser l’évolution de ces statistiques.
-
-Résultats :
-- La longueur moyenne des documents diminue légèrement plus que pour l’exercice 3.
-- La longueur moyenne des termes peut légèrement diminuer à cause de la racinisation.
-- La taille du vocabulaire diminue significativement, car différents mots sont réduits à une même racine.
-
-Graphiques produits : (voir "Figure 3" dans "practice2_rapport.pdf")
-
-Figure 3 : Longueur moyenne des documents (#terms/doc) avec stop-words et stemmer
-→ La courbe verte représente l’index avec stop-words et Porter Stemmer.
-On observe que la courbe croît légèrement de droite à gauche, indiquant que les petites collections nécessitent un peu plus de temps d’indexation.
-
-Figure 4 : Longueur moyenne des termes (#chars/term) avec stop-words et stemmer
-→ La courbe verte montre une évolution quasi stable de droite à gauche, traduisant que l’application du stemmer n’affecte que très peu la longueur moyenne des termes.
-
-Figure 5 : Taille du vocabulaire (#terms distincts) avec stop-words et stemmer
-→ La courbe verte augmente moins rapidement de gauche à droite, illustrant que la racinisation réduit fortement le nombre de termes distincts dans la collection.
-
-Observation :
-L’utilisation combinée de la suppression des stop-words et de la racinisation réduit fortement le vocabulaire et le nombre de termes dans les documents, tout en conservant la structure générale des textes.
-
-
-**« Pour les exercices 2, 3 et 4, les graphiques correspondants sont disponibles dans le rapport intitulé : practice2_rapport.pdf »**
-
-
-
-
-
-
-
+=== OBSERVATIONS GLOBALES ===
+1. Loi de Heaps: Croissance du vocabulaire observée
+2. Stop words: Réduction significative du vocabulaire
+3. Stemming: Réduction additionnelle importante
+4. Performance: Temps d'indexation scalable
+5. Tokenisation: Respect de la consigne 'terms without digits or special characters'
