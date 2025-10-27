@@ -1,0 +1,62 @@
+
+Alpha        DIALLO
+Ana Salimata SANOU
+Clément      BOULAY
+
+
+
+/**************************************************************/
+/*               EXERCICE 1 : Indexation simple               */
+/**************************************************************/
+
+Objectif :
+Indexer la collection Practice_03_data (9 804 documents, 76.4 MB) sans suppression de stop-words et sans stemming.
+
+Méthodologie :
+- Tokenisation simple : suppression des chiffres et caractères spéciaux.
+- Construction de l’index inversé avec df et tf.
+- Mesure des statistiques de la collection.
+
+Statistiques calculées :
+- Temps total d’indexation : 11.00 s
+- Total tokens : 11 040 909
+- Distinct tokens : 408 177
+- Longueur moyenne des tokens distincts : 9.32 caractères
+- Total termes : 11 040 909
+- Vocabulaire (distinct terms) : 408 177
+- Longueur moyenne d’un document : 1 126.16 termes
+- Longueur moyenne des termes du vocabulaire : 9.32 caractères
+
+Observation :
+- Indexation rapide sans stop-words ni stemming.
+- Le vocabulaire est complet, chaque terme est pris en compte.
+- Longueur moyenne des documents et des termes reflète la taille brute de la collection.
+
+/**************************************************************/
+/*       EXERCICE 2 : Stop-words et Porter Stemmer           */
+/**************************************************************/
+
+Objectif :
+Refaire l’indexation en supprimant les stop-words (stop-words-english4.txt) et en appliquant le Porter Stemmer. Recalculer les statistiques.
+
+Méthodologie :
+- Chargement de la liste de stop-words.
+- Suppression des mots fréquents non informatifs.
+- Application du Porter Stemmer pour réduire les mots à leur racine.
+- Recalcul des mêmes statistiques que dans l’exercice 1.
+
+Statistiques recalculées :
+- Temps total d’indexation : 75.50 s (plus élevé car la suppression des stop-words et l’application du stemmer nécessitent un traitement supplémentaire pour chaque token)
+- Total tokens : 6 954 943
+- Distinct tokens : 367 967
+- Longueur moyenne des tokens distincts : 9.05 caractères
+- Total termes : 6 954 943
+- Vocabulaire (distinct terms) : 367 967
+- Longueur moyenne d’un document : 709.40 termes
+- Longueur moyenne des termes du vocabulaire : 9.05 caractères
+
+Observation :
+- La suppression des stop-words réduit le nombre total de tokens et la taille du vocabulaire.
+- Le stemming réduit légèrement le nombre de termes distincts.
+- L’index devient plus léger et plus représentatif des mots porteurs de sens.
+- Le temps d’indexation est plus élevé à cause des opérations supplémentaires sur chaque token.
