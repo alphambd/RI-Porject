@@ -11,7 +11,8 @@ def compute_statistics(index):
     distinct_tokens = len(index.dictionary)
 
     # Longueur moyenne des tokens distincts (#caractères)
-    avg_length_distinct_tokens = sum(len(token) for token in index.dictionary.keys()) / distinct_tokens if distinct_tokens > 0 else 0
+    avg_length_distinct_tokens = sum(
+        len(token) for token in index.dictionary.keys()) / distinct_tokens if distinct_tokens > 0 else 0
 
     # Nombre total de termes (#terms) → ici identique à total_tokens
     total_terms = total_tokens
@@ -19,11 +20,25 @@ def compute_statistics(index):
     # Taille du vocabulaire (#distinct terms) → identique à distinct_tokens
     distinct_terms = distinct_tokens
 
-    # Longueur moyenne d'un document (#terms)
+    # OPTIMISATION : Calcul des longueurs de documents de manière efficace
+    # Créer un dictionnaire pour stocker les longueurs par document
+    doc_lengths_dict = {}
+
+    # Parcourir une seule fois tous les termes et leurs postings
+    for term, postings in index.dictionary.items():
+        for doc_id, tf in postings.items():
+            if doc_id not in doc_lengths_dict:
+                doc_lengths_dict[doc_id] = 0
+            doc_lengths_dict[doc_id] += tf
+
+    # Récupérer les longueurs pour tous les documents connus
     doc_lengths = []
     for doc_id in index.doc_ids:
-        length = sum(index.dictionary[term][doc_id] for term in index.dictionary if doc_id in index.dictionary[term])
-        doc_lengths.append(length)
+        if doc_id in doc_lengths_dict:
+            doc_lengths.append(doc_lengths_dict[doc_id])
+        else:
+            doc_lengths.append(0)  # Document sans termes
+
     avg_doc_length = sum(doc_lengths) / len(doc_lengths) if doc_lengths else 0
 
     # Longueur moyenne des termes du vocabulaire (#caractères)
@@ -37,5 +52,6 @@ def compute_statistics(index):
         "total_terms": total_terms,
         "distinct_terms": distinct_terms,
         "avg_doc_length": avg_doc_length,
-        "avg_length_vocab_terms": avg_length_vocab_terms
+        "avg_length_vocab_terms": avg_length_vocab_terms,
+        "doc_lengths": doc_lengths_dict  # Optionnel: pour debug
     }

@@ -40,10 +40,5 @@ def main():
         else:
             print(f"{k} : {v}")
 
-    # ==========================
-    # Pause pour que la fenêtre reste ouverte
-    # ==========================
-    input("\nAppuyez sur Entrée pour fermer...")
-
 if __name__ == "__main__":
     main()
