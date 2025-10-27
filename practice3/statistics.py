@@ -1,4 +1,4 @@
-# statistics.py
+
 def compute_statistics(index):
     """
     Calculer toutes les statistiques demandées pour la collection

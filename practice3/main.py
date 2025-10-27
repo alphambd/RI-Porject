@@ -4,8 +4,12 @@ import time  # pour mesurer le temps d'indexation
 
 def main():
 
-    # Créer et construire l'index
+    # Créer l'index
     index = InvertedIndex()
+
+    # Désactiver stop-words et stemmer pour cet Exercice 1
+    index.stop_word_active = False
+    index.stemmer_active = False
 
     # Mesurer le temps d'indexation
     start_time = time.time()
