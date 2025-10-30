@@ -1,8 +1,5 @@
 import os
 import matplotlib.pyplot as plt
-import time
-import gzip
-import json
 from advanced_indexer import AdvancedInvertedIndex
 
 class StatsAnalyzer:

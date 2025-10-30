@@ -1,8 +1,4 @@
 import os
-import matplotlib.pyplot as plt
-import time
-import gzip
-import json
 from stats_analyzer import StatsAnalyzer
 
 def main():

@@ -1,10 +1,9 @@
 import re
 from collections import defaultdict, Counter
 import gzip
-import os
 import time
 from portestemmer import PorterStemmer
-import matplotlib.pyplot as plt
+
 
 class AdvancedInvertedIndex:
     def __init__(self):
