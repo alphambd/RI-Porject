@@ -1,0 +1,84 @@
+============================================================
+EXERCICE 1: SANS STOP-WORDS ET STEMMING
+============================================================
+
+STATISTIQUES DE LA COLLECTION:
+- Temps d'indexation: 8.82 secondes
+- Nombre total d'occurrences de tokens: 10913214
+- Nombre de tokens distincts: 257840
+- Longueur moyenne des tokens: 5.20 caractères
+- Nombre total d'occurrences de terms: 10913214
+- Taille du vocabulaire (terms distincts): 206913
+- Longueur moyenne des documents: 1113.14 terms
+- Longueur moyenne des terms: 7.73 caractères
+
+============================================================
+EXERCICE 2: AVEC STOP-WORDS ET STEMMING
+============================================================
+
+STATISTIQUES DE LA COLLECTION:
+- Temps d'indexation: 51.43 secondes
+- Nombre total d'occurrences de tokens: 10913214
+- Nombre de tokens distincts: 257840
+- Longueur moyenne des tokens: 5.20 caractères
+- Nombre total d'occurrences de terms: 6481553
+- Taille du vocabulaire (terms distincts): 168200
+- Longueur moyenne des documents: 661.11 terms
+- Longueur moyenne des terms: 7.11 caractères
+
+============================================================
+EXERCICE 3: LTN WEIGHTING
+============================================================
+- Temps de pondération: 0.05 secondes
+- Poids de 'ranking' dans doc #23724: 6.733747
+- RSV du document #23724: 26.712919
+ * Recherche: 'web ranking scoring algorithm' -> termes: ['rank', 'score', 'web', 'algorithm']
+- TOP-10 DOCUMENTS:
+  1. Doc 23724: 26.712919
+  2. Doc 448834: 24.249629
+  3. Doc 1482394: 23.649965
+  4. Doc 70421: 23.447696
+  5. Doc 18336216: 21.582708
+  6. Doc 191457: 20.867678
+  7. Doc 6082436: 20.840317
+  8. Doc 207747: 20.497590
+  9. Doc 187946: 20.453450
+ 10. Doc 47293: 20.385285
+
+============================================================
+EXERCICE 4: LTC WEIGHTING
+============================================================
+- Temps de pondération: 0.05 secondes
+- Poids de 'ranking' dans doc #23724: 0.003216
+- RSV du document #23724: 0.012757
+ * Recherche: 'web ranking scoring algorithm' -> termes: ['rank', 'score', 'web', 'algorithm']
+- TOP-10 DOCUMENTS:
+  1. Doc 632489: 0.236297
+  2. Doc 8080270: 0.217468
+  3. Doc 8908590: 0.172268
+  4. Doc 2363262: 0.135970
+  5. Doc 5883652: 0.124732
+  6. Doc 16329810: 0.103353
+  7. Doc 4839372: 0.099498
+  8. Doc 782541: 0.094188
+  9. Doc 12985913: 0.093469
+ 10. Doc 8035623: 0.091019
+
+============================================================
+EXERCICE 5: BM25 WEIGHTING
+============================================================
+- Temps de pondération: 0.06 secondes
+- Poids de 'ranking' dans doc #23724: 3.467276
+- RSV du document #23724: 13.035020
+ * Recherche: 'web ranking scoring algorithm' -> termes: ['rank', 'score', 'web', 'algorithm']
+- TOP-10 DOCUMENTS:
+  1. Doc 3503154: 13.271245
+  2. Doc 23724: 13.035020
+  3. Doc 465576: 12.797441
+  4. Doc 18096221: 12.738097
+  5. Doc 6422823: 12.637253
+  6. Doc 18543218: 12.596088
+  7. Doc 1793571: 12.481291
+  8. Doc 1009996: 12.473078
+  9. Doc 1482394: 11.891467
+ 10. Doc 3940868: 11.625584
