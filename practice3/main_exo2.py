@@ -5,9 +5,10 @@ import time  # pour mesurer le temps d'indexation
 def main():
 
     # ================================
-    # Créer et construire l'index Exo 2
+    # Créer et construire l'index Exercice 2
     # ================================
-    # On passe le fichier stop-words pour activer suppression + stemmer
+    # On passe le fichier stop-words pour activer la suppression des mots courants
+    # Le stemmer est aussi activé par défaut dans InvertedIndex
     index = InvertedIndex(stop_words_file="stop-words-english4.txt")
 
     # Mesurer le temps d'indexation
@@ -16,25 +17,25 @@ def main():
     indexing_time = time.time() - start_time
 
     print("\n\t*************************************************")
-    print("\t/             INVERTED INDEX                    /")
+    print("\t/  INVERTED INDEX AVEC STOP WORDS ET STEMMER /")
     print("\t*************************************************")
 
     # Afficher le dictionnaire complet
     print("\n=== DICTIONNAIRE -- term -> {doc_id: tf} ===")
     index.print_dictionary()
 
-    # Afficher index inversé avec tf
+    # Afficher l'index inversé avec fréquence des termes (tf)
     print("\n=== INDEX INVERSÉ (avec tf) ===")
     index.display_index(with_tf=True)
 
     # ==========================
-    # Calculer les statistiques
+    # Calculer les statistiques de la collection
     # ==========================
     stats = compute_statistics(index)
 
     # Afficher les statistiques
     print("\n\t*************************************************")
-    print("\t/               COLLECTION STATS                /")
+    print("\t/   COLLECTION STATISTIQUE AVEC STOP WORDS ET STEMMER  /")
     print("\t*************************************************")
     print(f"Temps total d'indexation (sec): {indexing_time:.2f}")
     for k, v in stats.items():
@@ -42,9 +43,6 @@ def main():
             print(f"{k} : {v:.2f}")
         else:
             print(f"{k} : {v}")
-
-    # Pause pour voir la sortie
-    input("\nAppuyez sur Entrée pour fermer...")
 
 if __name__ == "__main__":
     main()
