@@ -16,7 +16,7 @@ def compute_statistics(exercise_num, use_stop_words=False, use_stemmer=False):
     if use_stop_words:
         index.load_stop_words()
     
-    indexing_time = index.build_index("data/practice_03_data/Text_Only_Ascii_Coll_NoSem", False)
+    indexing_time = index.build_index("data/Practice_03_data/Text_Only_Ascii_Coll_NoSem", False)
     
     if indexing_time is None:
         print("Échec de l'indexation...")
