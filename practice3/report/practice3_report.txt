@@ -1,0 +1,136 @@
+---------------------------
+Alpha   DIALLO
+Clément BOULAY
+Ana     SANOU
+---------------------------
+
+
+        /////////////////////////////////////////////////////////////
+        *                                                           *
+        *       Rapport - Practice_03_IR_indexing_weighting         *
+        *                                                           *
+        /////////////////////////////////////////////////////////////
+
+NB : 
+- Collection utilisée : Practice_03_data (9 804 documents)
+
+=============================================================
+EXERCICE 1: Increasing the size of the collection  - Indexation SANS STOP-WORDS ET STEMMING
+=============================================================
+- Tokenisation simple : termes sans chiffres ni caractères spéciaux
+- Aucune liste de stop-words utilisée
+- Aucun stemming appliqué
+
+STATISTIQUES DE LA COLLECTION:
+- Temps d'indexation: 8.48 secondes
+- Nombre total d'occurrences de tokens: 10913214
+- Nombre de tokens distincts: 257840
+- Longueur moyenne des tokens: 5.20 caractères
+- Nombre total d'occurrences de terms: 10913214
+- Taille du vocabulaire (terms distincts): 206913
+- Longueur moyenne des documents: 1113.14 terms
+- Longueur moyenne des terms: 7.73 caractères
+
+============================================================
+EXERCICE 2: AVEC STOP-WORDS ET STEMMING
+============================================================
+- Liste de stop-words utilisée : 671 mots
+- Stemming appliqué : algorithme de Porter
+
+STATISTIQUES DE LA COLLECTION:
+- Temps d'indexation: 38.17 secondes
+- Nombre total d'occurrences de tokens: 10913214
+- Nombre de tokens distincts: 257840
+- Longueur moyenne des tokens: 5.20 caractères
+- Nombre total d'occurrences de terms: 6481553
+- Taille du vocabulaire (terms distincts): 168200
+- Longueur moyenne des documents: 661.11 terms
+- Longueur moyenne des terms: 7.11 caractères
+
+============================================================
+EXERCICE 3: LTN WEIGHTING
+============================================================
+- Requête : < web ranking scoring algorithm >
+- Termes après traitement : ['algorithm', 'score', 'web', 'rank']
+
+Resultats : 
+- Temps de pondération TOTAL: 0.02 secondes
+- Poids de 'ranking' dans doc #23724: 6.733747
+- RSV du document #23724: 26.712919
+- TOP-10 DOCUMENTS:
+   1. Doc 23724: 26.712919
+   2. Doc 448834: 24.249629
+   3. Doc 1482394: 23.649965
+   4. Doc 70421: 23.447696
+   5. Doc 18336216: 21.582708
+   6. Doc 191457: 20.867678
+   7. Doc 6082436: 20.840317
+   8. Doc 207747: 20.497590
+   9. Doc 187946: 20.453450
+  10. Doc 47293: 20.385285
+
+============================================================
+EXERCICE 4: LTC WEIGHTING
+============================================================
+- Requête : < web ranking scoring algorithm >
+- Termes après traitement : ['algorithm', 'score', 'web', 'rank']
+
+Resultats : 
+- Temps de pondération TOTAL: 139.90 secondes
+- Poids de 'ranking' dans doc #23724: 0.043720
+- RSV du document #23724: 0.173439
+- TOP-10 DOCUMENTS:
+   1. Doc 18096221: 0.386733
+   2. Doc 2363262: 0.383353
+   3. Doc 18622152: 0.341739
+   4. Doc 8080270: 0.335392
+   5. Doc 10416781: 0.331953
+   6. Doc 6422823: 0.326826
+   7. Doc 4839372: 0.316934
+   8. Doc 1851223: 0.310912
+   9. Doc 5883652: 0.291825
+  10. Doc 19413518: 0.287449
+
+============================================================
+EXERCICE 5: BM25 WEIGHTING
+============================================================
+- Paramètres : k1 = 1.2, b = 0.75
+- Requête : « web ranking scoring algorithm »
+- Termes après traitement : ['algorithm', 'score', 'web', 'rank']
+
+Résultats :
+- Temps de pondération TOTAL: 0.02 secondes
+- Poids de 'ranking' dans doc #23724: 3.467276
+- RSV du document #23724: 13.035020
+- TOP-10 DOCUMENTS:
+   1. Doc 3503154: 13.271245
+   2. Doc 23724: 13.035020
+   3. Doc 465576: 12.797441
+   4. Doc 18096221: 12.738097
+   5. Doc 6422823: 12.637253
+   6. Doc 18543218: 12.596088
+   7. Doc 1793571: 12.481291
+   8. Doc 1009996: 12.473078
+   9. Doc 1482394: 11.891467
+  10. Doc 3940868: 11.625584
+
+OBSERVATION - Comparaison des modèles de pondération :
+------------------------------------------------------
+Performances temporelles :
+- ltn et BM25 : très rapides (0.02s) car calculs simples par document et par terme
+- ltc : extrêmement lent (139.90s) dû au calcul de normes cosinus pour chaque document, nécessitant un parcours complet de l'index
+
+Scores :
+- ltn : scores élevés (20-26) car non normalisés, favorisant les documents longs
+- ltc : scores très bas (0.1-0.4) car normalisés par la longueur des documents
+- BM25 : scores intermédiaires (11-13) avec saturation TF et pénalisation des documents trop longs
+
+
+============================================================
+SYNTHESE DES RESULTATS
+============================================================
+- Exo 1 : stats = (1113.14 terms/doc, 7.73 char/term, 206913 distinct terms), 8.48sec
+- Exo 2 : stats = (661.11 terms/doc, 7.11 char/term, 168200 distinct terms), 38.17sec
+- Exo 3 : weighting = ltn, temps = 0.02sec, RSV#23724 = 26.712919
+- Exo 4 : weighting = ltc, temps = 139.90sec, RSV#23724 = 0.173439  
+- Exo 5 : weighting = BM25, temps = 0.02sec, RSV#23724 = 13.035020
