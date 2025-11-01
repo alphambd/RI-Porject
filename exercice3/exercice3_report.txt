@@ -1,0 +1,146 @@
+---------------------------
+Alpha   DIALLO
+Clément BOULAY
+Ana     SANOU
+---------------------------
+
+
+	/////////////////////////////////////////////////////////////
+        *                                                           *
+        *       Rapport - Exercises_03_IR_indexing_weighting        *
+        *                                                           *
+        /////////////////////////////////////////////////////////////
+
+NB :
+- Les calculs des exercices 2 à 5 ont été réalisés dans le fichier : Exercises_03_IR_weighting.xlsx
+
+
+=============================================================
+Exercise 1: Jaccard & Log Frequency Weighting
+=============================================================
+Rappel : formule de Jaccard
+---------------------------
+Pour deux ensembles A et B :
+    Jaccard(A, B) = |A ∩ B| / |A ∪ B|
+
+- A ∩ B : intersection des mots uniques entre query et document
+- A ∪ B : union des mots uniques entre query et document
+- On ignore les mots répétés pour Jaccard (ensembles).
+
+Exemples :
+
+1) q1 et d1
+---------------
+q1 : "information on cars" → {information, on, cars}
+d1 : "all you’ve ever wanted to know about cars" → {all, you, ve, ever, wanted, to, know, about, cars}
+
+- Intersection : {cars} → 1 mot
+- Union : {information, on, cars, all, you, ve, ever, wanted, to, know, about} → 11 mots
+
+J(q1,d1) = 1 / 11 ≈ 0.091
+
+2) q2 et d2
+---------------
+q2 : {information, on, cars}
+d2 : "information on trucks, information on planes, information on trains" → {information, on, trucks, planes, trains}
+
+- Intersection : {information, on} → 2 mots
+- Union : {information, on, cars, trucks, planes, trains} → 6 mots
+
+J(q2,d2) = 2 / 6 ≈ 0.333
+
+3) q3 et d3
+---------------
+q3 : {red, cars, and, trucks}
+d3 : "cops stop red cars more often" → {cops, stop, red, cars, more, often}
+
+- Intersection : {red, cars} → 2 mots
+- Union : {red, cars, and, trucks, cops, stop, more, often} → 8 mots
+
+J(q3,d3) = 2 / 8 = 0.25
+
+Synthèse des résultats :
+-----------------------------------------
+| Query | Document | Jaccard Similarity |
+|-------|----------|--------------------|
+| Q1    | D1       | 0.091              |
+| Q2    | D2       | 0.333              |
+| Q3    | D3       | 0.25               |
+-----------------------------------------
+
+
+=============================================================
+Exercise 2: Count Matrix
+=============================================================
+TF (Term Frequency) :
+---------------------
+Pour chaque terme, on calcule le nombre de fois où il est présent dans un document.
+
+Tableau TF :
+
+| Termes | a | b | c | d | e | dl |
+|--------|---|---|---|---|---|----|
+| d1     | 1 | 0 | 1 | 4 | 5 | 11 |
+| d2     | 1 | 4 | 1 | 0 | 0 | 6  |
+
+DF (Document Frequency) :
+-------------------------
+D’après l’énoncé, on a :
+
+| Termes | a  | b  | c  | d  | e   |
+|--------|----|----|----|----|-----|
+| df_t   | 10 | 25 | 10 | 24 | 250 |
+
+Avec :
+----------
+- dl = longueur totale du document (nombre de termes)
+- TF = fréquence du terme dans le document
+- DF = nombre de documents contenant le terme
+- Ces valeurs seront utilisées pour les calculs de pondération et de similarité.
+
+
+=============================================================
+Exercise 3: SMART ltn Weighting
+=============================================================
+Formule :
+    ltn = (1 + log(tf)) * log(N / df)
+
+Avec :
+    - N  = nombre total de documents
+    - tf = fréquence du terme dans le document
+    - df = nombre de documents contenant le terme
+    - Cette formule combine la pondération par fréquence (tf) et l’importance inverse du document (idf).
+
+
+=============================================================
+Exercise 4: SMART ltc Weighting
+=============================================================
+Formule :
+    ltn_values = (1 + log(tf)) * log(N / df)
+    ltc = ltn_values / sqrt(sum_of_squares(ltn_values))
+
+Avec :
+    - N  = nombre total de documents
+    - tf = fréquence du terme dans le document
+    - df = nombre de documents contenant le terme
+    - sum_of_squares(ltn_values) = somme des carrés de toutes les valeurs ltn dans le document (normalisation)
+    - ltc normalise les poids ltn pour que les documents de différentes longueurs soient comparables.
+
+
+=============================================================
+Exercise 5: BM25 Weighting
+=============================================================
+Formule :
+    BM25 = log((N - df + 0.5) / (df + 0.5) + 1) *
+           ((tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (dl / avgdl))))
+
+Avec :
+    - N     = nombre total de documents
+    - tf    = fréquence du terme dans le document
+    - df    = nombre de documents contenant le terme
+    - dl    = longueur du document (nombre de termes)
+    - avgdl = longueur moyenne des documents
+    - k1    = paramètre de saturation TF (valeur par défaut : 1.2)
+    - b     = paramètre de normalisation de la longueur (valeur par défaut : 0.75)
+    - BM25 ajuste le poids du terme selon la longueur du document et la saturation du terme.
+
