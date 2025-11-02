@@ -1,0 +1,70 @@
+---------------------------
+Alpha   DIALLO
+Clément BOULAY
+Ana     SANOU
+---------------------------
+
+
+        /////////////////////////////////////////////////////////////
+        *                                                           *
+        *         Rapport - Pre-Processing and Dictionary           *
+        *                                                           *
+        /////////////////////////////////////////////////////////////
+
+
+============================================================
+EXERCICE 1: PERFORMANCE D'INDEXATION
+============================================================
+
+Résultats :
+  file1: 10 docs, 5295 termes, 23561 tokens, indexé en 0.02s
+  file2: 10 docs, 4500 termes, 20414 tokens, indexé en 0.01s
+  file3: 30 docs, 8077 termes, 37446 tokens, indexé en 0.02s
+  file4: 50 docs, 6720 termes, 38487 tokens, indexé en 0.01s
+  file5: 100 docs, 17991 termes, 135489 tokens, indexé en 0.07s
+  file6: 300 docs, 26995 termes, 201495 tokens, indexé en 0.10s
+  file7: 500 docs, 33402 termes, 266352 tokens, indexé en 0.13s
+  file8: 1000 docs, 44292 termes, 410611 tokens, indexé en 0.24s
+  file9: 3000 docs, 106850 termes, 1488801 tokens, indexé en 0.86s
+
+============================================================
+EXERCICE 2: STATISTIQUES DE LA COLLECTION
+============================================================
+
+Statistiques pour file9:
+- Longueur moyenne documents: 496.27 termes
+- Longueur moyenne termes: 5.10 caractères
+- Taille vocabulaire: 106850 termes distincts
+- Temps indexation: 0.86s
+
+============================================================
+EXERCICE 3: ANALYSE AVEC STOP WORDS
+============================================================
+ Résultat : 
+ - file9: 3000 docs, 106249 termes, 935984 tokens, indexé en 0.91s
+
+Statistiques pour file9:
+- Longueur moyenne documents: 311.99 termes
+- Longueur moyenne termes: 6.33 caractères
+- Taille vocabulaire: 106249 termes distincts
+- Temps indexation: 0.91s
+
+============================================================
+EXERCICE 4: ANALYSE AVEC STOP WORDS + STEMMING
+============================================================
+
+ Résultat : 
+- file9: 3000 docs, 88611 termes, 935984 tokens, indexé en 4.93s
+
+ Statistiques pour file9:
+- Longueur moyenne documents: 311.99 termes
+- Longueur moyenne termes: 5.56 caractères
+- Taille vocabulaire: 88611 termes distincts
+- Temps indexation: 4.93s
+
+============================================================
+SYNTHESE DES RESULTATS
+============================================================
+- Exo 2 : stats = (496 terms, 5.10 char, 106850 distinct terms), 0.86sec
+- Exo 3 : stats = (312 terms, 6.33 char, 106249 distinct terms), 0.91sec
+- Exo 4 : stats = (312 terms, 5.56 char, 88611 distinct terms), 4.93sec
