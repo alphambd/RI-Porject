@@ -1,9 +1,7 @@
 import re
 from collections import defaultdict, Counter
 import gzip
-import os
 import time
-import math
 from porterstemmer import PorterStemmer
 
 class WeightedInvertedIndex:
