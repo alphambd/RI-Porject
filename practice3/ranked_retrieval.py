@@ -26,8 +26,8 @@ class RankedRetrieval:
                 df = self.df[term]
                 
                 # Calcul du poids brut pour chaque terme
-                w_tf = 1.0 + math.log(tf) if tf > 0 else 0.0
-                w_idf = math.log(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
+                w_tf = 1.0 + math.log10(tf) if tf > 0 else 0.0
+                w_idf = math.log10(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
                 raw_weight = w_tf * w_idf
                 
                 sum_of_squares += raw_weight ** 2
@@ -45,8 +45,8 @@ class RankedRetrieval:
         tf = self.index.dictionary[term][doc_id]
         df = self.df[term]
          
-        w_tf = 1.0 + math.log(tf) if tf > 0 else 0.0
-        w_idf = math.log(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
+        w_tf = 1.0 + math.log10(tf) if tf > 0 else 0.0
+        w_idf = math.log10(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
         
         return w_tf * w_idf
     
@@ -62,8 +62,8 @@ class RankedRetrieval:
         df = self.df[term]
         
         # Calcul du poids brut (identique à ltn)
-        w_tf = 1.0 + math.log(tf) if tf > 0 else 0.0
-        w_idf = math.log(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
+        w_tf = 1.0 + math.log10(tf) if tf > 0 else 0.0
+        w_idf = math.log10(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
         raw_weight = w_tf * w_idf
         
         # Calcul de la norme avec cache optionnel
@@ -93,7 +93,7 @@ class RankedRetrieval:
         doc_length = self.index.doc_lengths[doc_id]
         
         # Calcul BM25
-        idf = math.log((self.doc_count - df + 0.5) / (df + 0.5) + 1.0)
+        idf = math.log10((self.doc_count - df + 0.5) / (df + 0.5) + 1.0)
         tf_component = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (doc_length / self.avg_dl)))
         
         return idf * tf_component

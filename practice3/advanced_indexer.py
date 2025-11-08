@@ -132,11 +132,12 @@ class WeightedInvertedIndex:
     
     def get_collection_statistics(self, indexing_time):
         """Calcule TOUTES les statistiques demandées dans l'exercice 1"""
+
         # Statistiques pour TOKENS (avant traitement)
         total_tokens = self.total_tokens_bp
         distinct_tokens = len(self.distinct_tokens_bp)
         avg_token_length = self.total_chars_tokens / total_tokens if total_tokens > 0 else 0
-        
+
         # Statistiques pour TERMS (après traitement)
         total_terms = self.total_terms
         distinct_terms = len(self.dictionary)
