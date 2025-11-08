@@ -6,7 +6,7 @@ from porterstemmer import PorterStemmer
 
 
 class WeightedInvertedIndex:
-    def __init__(self):
+    def __init__(self, stop_words_set):
         self.dictionary = defaultdict(dict)  # term -> {doc_id: tf}
         self.doc_ids = []
         self.doc_lengths = {}  # doc_id -> length in terms
@@ -16,6 +16,7 @@ class WeightedInvertedIndex:
         self.distinct_tokens_bp = set()  # tokens distincts avant traitement
         self.total_chars_tokens = 0  # total caractères pour tokens
         self.avg_doc_length = 0
+        self.stop_words_set = stop_words_set
 
         # Options
         self.stop_words_set = set()
@@ -23,14 +24,16 @@ class WeightedInvertedIndex:
         self.stop_word_active = False
         self.stemmer_active = False
 
+    """
     def load_stop_words(self, stop_words_file="data/stop-words-english4.txt"):
-        """Charge les stop words"""
+
         try:
             with open(stop_words_file, 'r', encoding='utf-8') as file:
                 self.stop_words_set = set(line.strip().lower() for line in file if line.strip())
             print(f"- {len(self.stop_words_set)} stop words chargés")
         except FileNotFoundError:
             print(f"- Fichier {stop_words_file} non trouvé")
+    """
 
     def apply_tokenization(self, text):
         """
