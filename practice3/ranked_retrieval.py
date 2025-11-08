@@ -93,7 +93,7 @@ class RankedRetrieval:
         doc_length = self.index.doc_lengths[doc_id]
         
         # Calcul BM25
-        idf = math.log10((self.doc_count - df + 0.5) / (df + 0.5) + 1.0)
+        idf = math.log10((self.doc_count - df + 0.5) / (df + 0.5))
         tf_component = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (doc_length / self.avg_dl)))
         
         return idf * tf_component
