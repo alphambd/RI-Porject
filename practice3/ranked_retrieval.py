@@ -36,27 +36,19 @@ class RankedRetrieval:
         return norm
 
     def smart_ltn_weighting(self, term, doc_id):
-        """SMART ltn weighting: logarithmic tf (base 10), idf (base 10), pas de normalisation"""
+        """SMART ltn weighting: logarithmic tf, idf, pad de normalization"""
+        # ltn: (1 + log(tf)) * log(N/df)
+
         if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
             return 0.0
 
-        import math
+        tf = self.index.dictionary[term][doc_id]
+        df = self.df[term]
 
-        tf = self.index.dictionary[term][doc_id]  # fréquence du terme dans le doc
-        df = self.df[term]  # nombre de docs contenant le terme
-        N = self.doc_count  # nombre total de docs
+        w_tf = 1.0 + math.log(tf) if tf > 0 else 0.0
+        w_idf = math.log(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
 
-        # Utilisation explicite du log base 10 (comme attendu par le prof)
-        w_tf = 1.0 + math.log10(tf) if tf > 0 else 0.0
-        w_idf = math.log10(N / df) if df > 0 and N > df else 0.0
-
-        weight = w_tf * w_idf
-
-        if term == "ranking" and doc_id == "23724":
-            print(
-                f"[DEBUG] term={term}, tf={tf}, df={df}, N={N}, w_tf={w_tf:.4f}, w_idf={w_idf:.4f}, poids={w_tf * w_idf:.4f}")
-
-        return weight
+        return w_tf * w_idf
 
     def smart_ltc_weighting(self, term, doc_id, use_cache=True):
         """SMART ltc weighting: logarithmic tf, idf, normalization cosinus """
