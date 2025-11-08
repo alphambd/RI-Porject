@@ -34,14 +34,14 @@ class RankedRetrieval:
         
         norm = math.sqrt(sum_of_squares) if sum_of_squares > 0 else 1.0
         return norm
-    
+
     def smart_ltn_weighting(self, term, doc_id):
         """SMART ltn weighting: logarithmic tf, idf, pad de normalization"""
         # ltn: (1 + log(tf)) * log(N/df)
 
         if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
             return 0.0
-        
+
         tf = self.index.dictionary[term][doc_id]
         df = self.df[term]
          
@@ -49,7 +49,7 @@ class RankedRetrieval:
         w_idf = math.log10(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
         
         return w_tf * w_idf
-    
+
     def smart_ltc_weighting(self, term, doc_id, use_cache=True):
         """SMART ltc weighting: logarithmic tf, idf, normalization cosinus """
         # ltn_values = 1 + log(tf)) * log(N/df)

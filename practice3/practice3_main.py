@@ -1,5 +1,4 @@
 import time
-import os
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 
