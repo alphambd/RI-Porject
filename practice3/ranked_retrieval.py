@@ -78,7 +78,7 @@ class RankedRetrieval:
     
     def bm25_weighting(self, term, doc_id, k1=1.2, b=0.75):
         """BM25 weighting avec paramètres standard"""
-        # BM25: log((N - df + 0.5) / (df + 0.5) + 1) * [ (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (dl / avgdl))) ]
+        # BM25: log((N - df + 0.5) / (df + 0.5)) * [ (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (dl / avgdl))) ]
         # - N = nombre total de documents
         # - dl = longueur du document (nombre de termes)
         # - avgdl = longueur moyenne des documents
