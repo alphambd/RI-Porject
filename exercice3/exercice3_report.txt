@@ -131,7 +131,7 @@ Avec :
 Exercise 5: BM25 Weighting
 =============================================================
 Formule :
-    BM25 = log((N - df + 0.5) / (df + 0.5) + 1) *
+    BM25 = log((N - df + 0.5) / (df + 0.5)) *
            ((tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (dl / avgdl))))
 
 Avec :
