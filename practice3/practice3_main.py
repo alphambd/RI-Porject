@@ -106,10 +106,10 @@ def run_weighting_experiment(index, exercise_name, weighting_scheme):
 def exercices():
     """Fonction principale"""
     # Exercice 1: sans traitement de tokens
-    index1 = compute_statistics(1, "docTestTd", use_stop_words=False, use_stemmer=False)
+    index1 = compute_statistics(1,"Text_Only_Ascii_Coll_NoSem", use_stop_words=False, use_stemmer=False)
 
     # Exercice 2: avec traitement
-    index2 = compute_statistics(2, use_stop_words=True, use_stemmer=True)
+    index2 = compute_statistics(2,"Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=True)
 
     # Utiliser l'index avec traitement pour les exercices 3-5
     index = index1
@@ -132,8 +132,8 @@ def test():
     run_weight_test(index, "doc 2","2")
 
 def main():
-    test()
-    #exercices()
+    #test()
+    exercices()
 
 if __name__ == "__main__":
     main()
