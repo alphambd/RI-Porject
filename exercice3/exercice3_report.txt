@@ -111,6 +111,9 @@ Avec :
     - df = nombre de documents contenant le terme
     - Cette formule combine la pondération par fréquence (tf) et l’importance inverse du document (idf).
 
+Resultats : 
+    RSV(d1) = 3,0229
+    RSV(d2) = 2,0000
 
 =============================================================
 Exercise 4: SMART ltc Weighting
@@ -126,6 +129,9 @@ Avec :
     - sum_of_squares(ltn_values) = somme des carrés de toutes les valeurs ltn dans le document (normalisation)
     - ltc normalise les poids ltn pour que les documents de différentes longueurs soient comparables.
 
+Resultats : 
+    RSV(d1) = 0,7610
+    RSV(d2) = 0,5236
 
 =============================================================
 Exercise 5: BM25 Weighting
@@ -143,4 +149,8 @@ Avec :
     - k1    = paramètre de saturation TF (valeur par défaut : 1.2)
     - b     = paramètre de normalisation de la longueur (valeur par défaut : 0.75)
     - BM25 ajuste le poids du terme selon la longueur du document et la saturation du terme.
+
+Resultats : 
+    RSV(d1) = 3,0502
+    RSV(d2) = 2,3935
 
