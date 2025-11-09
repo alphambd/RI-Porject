@@ -22,10 +22,10 @@ EXERCICE 1: Increasing the size of the collection  - Indexation SANS STOP-WORDS 
 - Aucun stemming appliqué
 
 STATISTIQUES DE LA COLLECTION:
-- Temps d'indexation: 8.48 secondes
+- Temps d'indexation: 7.13 secondes
 - Nombre total d'occurrences de tokens: 10913214
 - Nombre de tokens distincts: 257840
-- Longueur moyenne des tokens: 5.20 caractères
+- Longueur moyenne des tokens: 7.62 caractères
 - Nombre total d'occurrences de terms: 10913214
 - Taille du vocabulaire (terms distincts): 206913
 - Longueur moyenne des documents: 1113.14 terms
@@ -38,10 +38,10 @@ EXERCICE 2: AVEC STOP-WORDS ET STEMMING
 - Stemming appliqué : algorithme de Porter
 
 STATISTIQUES DE LA COLLECTION:
-- Temps d'indexation: 38.17 secondes
+- Temps d'indexation: 24.17 secondes
 - Nombre total d'occurrences de tokens: 10913214
 - Nombre de tokens distincts: 257840
-- Longueur moyenne des tokens: 5.20 caractères
+- Longueur moyenne des tokens: 7.62 caractères
 - Nombre total d'occurrences de terms: 6481553
 - Taille du vocabulaire (terms distincts): 168200
 - Longueur moyenne des documents: 661.11 terms
@@ -55,19 +55,19 @@ EXERCICE 3: LTN WEIGHTING
 
 Resultats : 
 - Temps de pondération TOTAL: 0.02 secondes
-- Poids de 'ranking' dans doc #23724: 6.733747
-- RSV du document #23724: 26.712919
+- Poids de 'ranking' dans doc #23724: 2.195963
+- RSV du document #23724: 6.864034
 - TOP-10 DOCUMENTS:
-   1. Doc 23724: 26.712919
-   2. Doc 448834: 24.249629
-   3. Doc 1482394: 23.649965
-   4. Doc 70421: 23.447696
-   5. Doc 18336216: 21.582708
-   6. Doc 191457: 20.867678
-   7. Doc 6082436: 20.840317
-   8. Doc 207747: 20.497590
-   9. Doc 187946: 20.453450
-  10. Doc 47293: 20.385285
+   1. Doc 23724: 6.864034
+   2. Doc 1482394: 6.286325
+   3. Doc 70421: 6.248174
+   4. Doc 448834: 6.044708
+   5. Doc 12431: 5.667147
+   6. Doc 1009996: 5.584392
+   7. Doc 462448: 5.476405
+   8. Doc 191457: 5.423060
+   9. Doc 207747: 5.337030
+  10. Doc 47293: 5.315848
 
 ============================================================
 EXERCICE 4: LTC WEIGHTING
@@ -76,20 +76,20 @@ EXERCICE 4: LTC WEIGHTING
 - Termes après traitement : ['algorithm', 'score', 'web', 'rank']
 
 Resultats : 
-- Temps de pondération TOTAL: 139.90 secondes
-- Poids de 'ranking' dans doc #23724: 0.043720
-- RSV du document #23724: 0.173439
+- Temps de pondération TOTAL: 0.02 secondes
+- Poids de 'ranking' dans doc #23724: 0.040794
+- RSV du document #23724: 0.127511
 - TOP-10 DOCUMENTS:
-   1. Doc 18096221: 0.386733
-   2. Doc 2363262: 0.383353
-   3. Doc 18622152: 0.341739
-   4. Doc 8080270: 0.335392
-   5. Doc 10416781: 0.331953
-   6. Doc 6422823: 0.326826
-   7. Doc 4839372: 0.316934
-   8. Doc 1851223: 0.310912
-   9. Doc 5883652: 0.291825
-  10. Doc 19413518: 0.287449
+   1. Doc 18096221: 0.323930
+   2. Doc 2363262: 0.317123
+   3. Doc 8080270: 0.292954
+   4. Doc 6422823: 0.265907
+   5. Doc 4839372: 0.262751
+   6. Doc 18622152: 0.260006
+   7. Doc 19413518: 0.255583
+   8. Doc 10416781: 0.254725
+   9. Doc 1851223: 0.253875
+  10. Doc 5883652: 0.247067
 
 ============================================================
 EXERCICE 5: BM25 WEIGHTING
@@ -99,38 +99,38 @@ EXERCICE 5: BM25 WEIGHTING
 - Termes après traitement : ['algorithm', 'score', 'web', 'rank']
 
 Résultats :
-- Temps de pondération TOTAL: 0.02 secondes
-- Poids de 'ranking' dans doc #23724: 3.467276
-- RSV du document #23724: 13.035020
+- Temps de pondération TOTAL: 0.01 secondes
+- Poids de 'ranking' dans doc #23724: 1.752985
+- RSV du document #23724: 5.046923
 - TOP-10 DOCUMENTS:
-   1. Doc 3503154: 13.271245
-   2. Doc 23724: 13.035020
-   3. Doc 465576: 12.797441
-   4. Doc 18096221: 12.738097
-   5. Doc 6422823: 12.637253
-   6. Doc 18543218: 12.596088
-   7. Doc 1793571: 12.481291
-   8. Doc 1009996: 12.473078
-   9. Doc 1482394: 11.891467
-  10. Doc 3940868: 11.625584
+   1. Doc 3503154: 5.214907
+   2. Doc 23724: 5.046923
+   3. Doc 465576: 5.033627
+   4. Doc 18096221: 4.947016
+   5. Doc 18543218: 4.922387
+   6. Doc 1009996: 4.908219
+   7. Doc 6422823: 4.856340
+   8. Doc 1793571: 4.821663
+   9. Doc 1482394: 4.758982
+  10. Doc 752465: 4.483371
 
 OBSERVATION - Comparaison des modèles de pondération :
 ------------------------------------------------------
 Performances temporelles :
 - ltn et BM25 : très rapides (0.02s) car calculs simples par document et par terme
-- ltc : extrêmement lent (139.90s) dû au calcul de normes cosinus pour chaque document, nécessitant un parcours complet de l'index
+- ltc : très rapide également, en utilisant les données précalculé des normes
 
 Scores :
-- ltn : scores élevés (20-26) car non normalisés, favorisant les documents longs
-- ltc : scores très bas (0.1-0.4) car normalisés par la longueur des documents
-- BM25 : scores intermédiaires (11-13) avec saturation TF et pénalisation des documents trop longs
+- ltn : scores élevés (5-7) car non normalisés, favorisant les documents longs
+- ltc : scores très bas (0.2-0.4) car normalisés par la longueur des documents
+- BM25 : scores intermédiaires (4-5) avec saturation TF et pénalisation des documents trop longs
 
 
 ============================================================
 SYNTHESE DES RESULTATS
 ============================================================
-- Exo 1 : stats = (1113.14 terms/doc, 7.73 char/term, 206913 distinct terms), 8.48sec
-- Exo 2 : stats = (661.11 terms/doc, 7.11 char/term, 168200 distinct terms), 38.17sec
-- Exo 3 : weighting = ltn, temps = 0.02sec, RSV#23724 = 26.712919
-- Exo 4 : weighting = ltc, temps = 139.90sec, RSV#23724 = 0.173439  
-- Exo 5 : weighting = BM25, temps = 0.02sec, RSV#23724 = 13.035020
+- Exo 1 : stats = (1113.14 terms/doc, 7.73 char/term, 206913 distinct terms), 7.13sec
+- Exo 2 : stats = (661.11 terms/doc, 7.11 char/term, 168200 distinct terms), 24.17sec
+- Exo 3 : weighting = ltn, temps = 0.02sec, RSV#23724 = 6.864034
+- Exo 4 : weighting = ltc, temps = 0.02sec, RSV#23724 = 0.127511  
+- Exo 5 : weighting = BM25, temps = 0.02sec, RSV#23724 = 5.046923

@@ -158,6 +158,10 @@ class RankedRetrieval:
         for doc_id in self.index.doc_ids:
             score = 0.0
             for term in query_terms:
+                # Vérifier si le terme est dans le document
+                if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+                    continue  # ← Ignorer les termes absents du document
+                
                 if weighting_scheme == "ltn":
                     term_weight = self.smart_ltn_weighting(term, doc_id)
                 elif weighting_scheme == "ltc":

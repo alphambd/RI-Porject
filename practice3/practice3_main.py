@@ -1,6 +1,6 @@
 import time
 from advanced_indexer import WeightedInvertedIndex
-from ranked_retrieval_optimized import RankedRetrieval
+from ranked_retrieval import RankedRetrieval
 
 def compute_statistics(exercise_num, use_stop_words=False, use_stemmer=False):
     """Fonction générique pour les exercices de statistiques"""
@@ -41,12 +41,11 @@ def run_weighting_experiment(index, exercise_name, weighting_scheme):
     print(f"{exercise_name}: {weighting_scheme.upper()} WEIGHTING")
     print("=" * 60)
 
-    start_time = time.time()
     # Initiasation du moteur de pondération
     ranker = RankedRetrieval(index, cache_dir="data/norm_cache")
     
     # Initialisation du temps de pondération
-    #start_time = time.time()
+    start_time = time.time()
     
     # Requête pour tous les exercices
     query = "web ranking scoring algorithm"
