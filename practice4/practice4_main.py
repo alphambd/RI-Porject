@@ -1,8 +1,6 @@
 import os
 import time
-from fileinput import filename
-from operator import truediv
-from turtledemo.paint import switchupdown
+
 
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval_optimized import RankedRetrieval
