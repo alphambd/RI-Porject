@@ -6,8 +6,7 @@ from ranked_retrieval_optimized import RankedRetrieval
 
 
 def compute_statistics(exercise_num, file_name, use_stop_words=False, use_stemmer=False):
-    """Calcule et affiche les statistiques de la collection pour différents réglages."""
-
+    """Fonction générique pour les exercices de statistiques"""
     print("\n" + "=" * 60)
     print(f"EXERCICE {exercise_num}: {'AVEC' if use_stop_words else 'SANS'} STOP-WORDS ET STEMMING")
     print("=" * 60)
@@ -19,17 +18,15 @@ def compute_statistics(exercise_num, file_name, use_stop_words=False, use_stemme
     if use_stop_words:
         index.load_stop_words()
 
-    # Construction de l'index
     indexing_time = index.build_index("data/" + file_name, False)
 
     if indexing_time is None:
-        print("Échec lors de la construction de l'index.")
+        print("Échec de l'indexation...")
         return None, 0, {}
 
-    # Récupération des statistiques
     stats = index.get_collection_statistics(indexing_time)
 
-    print("\nSTATISTIQUES DE LA COLLECTION:")
+    print(f"\nSTATISTIQUES DE LA COLLECTION:")
     print(f"- Temps d'indexation: {stats['indexing_time']:.2f} secondes")
     print(f"- Nombre total d'occurrences de tokens: {stats['total_tokens']}")
     print(f"- Nombre de tokens distincts: {stats['distinct_tokens']}")
@@ -42,74 +39,95 @@ def compute_statistics(exercise_num, file_name, use_stop_words=False, use_stemme
     return index
 
 
-def run_weighting_experiment(index, query_id, weighting_scheme, query_request, run_id):
-    """Lance un test complet de pondération avec mesure précise du temps."""
+def run_weighting_experiment(index, query_id, weighting_scheme, query_request, run_id, k1=1.2, b=0.75, is_tuning=False):
+    """Exécute les exercices avec mesure du temps et génération de runs"""
 
-    print("\n" + "=" * 60)
-    print(f"{query_id}: {weighting_scheme.upper()} WEIGHTING")
-    print("=" * 60)
+    if is_tuning:
+        print("\n" + "=" * 60)
+        print(f"{query_id}: BM25 TUNING - k1={k1}, b={b}")
+        print("=" * 60)
+    else:
+        print("\n" + "=" * 60)
+        if weighting_scheme == "bm25":
+            print(f"{query_id}: BM25 WEIGHTING - k1={k1}, b={b}")
+        else:
+            print(f"{query_id}: {weighting_scheme.upper()} WEIGHTING")
+        print("=" * 60)
 
-    # Démarrage de la mesure de temps
     start_time = time.time()
-
-    # Initialisation du moteur de recherche pondéré
     ranker = RankedRetrieval(index, cache_dir="data/norm_cache")
 
-    # Prétraitement des termes de la requête
     query_terms = ranker.process_query_terms(query_request)
 
-    # Exemple: récupération du poids d'un terme dans un document spécifique
     term = query_terms[1]  # terme après traitement
-    ranking_weight = ranker.get_term_weight(term, "23724", weighting_scheme)
 
-    # Calcul du RSV du document #23724
-    doc_score = 0.0
-    for term in query_terms:
-        term_weight = ranker.get_term_weight(term, "23724", weighting_scheme)
-        doc_score += term_weight
+    # Utilise k1 et b seulement pour BM25
+    if weighting_scheme == "bm25":
+        ranking_weight = ranker.get_term_weight(term, "23724", weighting_scheme, k1=k1, b=b)
+        doc_score = sum(ranker.get_term_weight(term, "23724", weighting_scheme, k1=k1, b=b) for term in query_terms)
+        top_docs = ranker.search_query(query_request, weighting_scheme, top_k=10, k1=k1, b=b)
+    else:
+        ranking_weight = ranker.get_term_weight(term, "23724", weighting_scheme)
+        doc_score = sum(ranker.get_term_weight(term, "23724", weighting_scheme) for term in query_terms)
+        top_docs = ranker.search_query(query_request, weighting_scheme, top_k=10)
 
-    # Recherche du Top-10 pour affichage
-    top_docs = ranker.search_query(query_request, weighting_scheme, top_k=10)
-
-    # Temps total écoulé
     weighting_time = time.time() - start_time
 
-    print(f"- Temps total de pondération: {weighting_time:.2f} secondes")
-    print(f"- Poids du terme 'ranking' dans le document #23724: {ranking_weight:.6f}")
+    print(f"- Temps de pondération TOTAL: {weighting_time:.2f} secondes")
+    print(f"- Poids de 'ranking' dans doc #23724: {ranking_weight:.6f}")
     print(f"- RSV du document #23724: {doc_score:.6f}")
 
     print("- TOP-10 DOCUMENTS:")
     for i, (doc_id, score) in enumerate(top_docs, 1):
         print(f"  {i:2d}. Doc {doc_id}: {score:.6f}")
 
-    # Recherche étendue pour génération du fichier run
-    top_docs = ranker.search_query(query_request, weighting_scheme, top_k=1500)
+    # Même logique pour top_k=1500
+    if weighting_scheme == "bm25":
+        top_docs = ranker.search_query(query_request, weighting_scheme, top_k=1500, k1=k1, b=b)
+    else:
+        top_docs = ranker.search_query(query_request, weighting_scheme, top_k=1500)
 
-    # Construction du nom du fichier run
     file_name = f"AlphaAnaClement_{run_id}_test_{weighting_scheme}_article"
     file_name += "_stop671" if index.stop_word_active else "_nostop"
     file_name += "_porter" if index.stemmer_active else "_nostem"
     if weighting_scheme == "bm25":
-        file_name += "_k1.2_b0.75"
+        file_name += f"_k1_{k1}_b_{b}"
     file_name += ".txt"
 
-    # Création du fichier si nécessaire
-    full_path = "runs/" + file_name
-    if not os.path.exists(full_path):
-        with open(full_path, "w", encoding="utf-8") as f:
+    if not os.path.exists("runs/" + file_name):
+        with open("runs/" + file_name, "w", encoding="utf-8") as f:
             f.write("")
 
-    # Écriture du run au format TREC
     for i, (doc_id, score) in enumerate(top_docs, 1):
-        with open(full_path, "a", encoding="utf-8") as f:
+        with open("runs/" + file_name, "a", encoding="utf-8") as f:
             f.write(f"{query_id} Q0 {doc_id} {i} {score} AlphaAnaClement /article[1]\n")
 
     return weighting_time, ranking_weight, doc_score, top_docs
 
 
-def main():
-    """Fonction principale orchestrant la construction des index et les expériences."""
+def bm25_tuning(index, queries):
+    """Teste plusieurs valeurs de k1 et b pour BM25 et génère des runs"""
+    b_values = [round(i * 0.1, 1) for i in range(11)]  # 0.0 à 1.0 step 0.1
+    k1_values = [round(i * 0.2, 1) for i in range(21)]  # 0.0 à 4.0 step 0.2
 
+    print(f"Testing {len(b_values)} b values and {len(k1_values)} k1 values...")
+
+    # Fix k1=1.2, tester b
+    for b in b_values:
+        run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
+        print(f"Testing b={b} with k1=1.2, run_id={run_id}")
+        for query_id, query_request in queries.items():
+            run_weighting_experiment(index, query_id, "bm25", query_request, run_id, k1=1.2, b=b, is_tuning=True)
+
+    # Fix b=0.75, tester k1
+    for k1 in k1_values:
+        run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
+        print(f"Testing k1={k1} with b=0.75, run_id={run_id}")
+        for query_id, query_request in queries.items():
+            run_weighting_experiment(index, query_id, "bm25", query_request, run_id, k1=k1, b=0.75, is_tuning=True)
+
+
+def main():
     queries = {
         2009011: "olive oil health benefit",
         2009036: "notting hill film actors",
@@ -120,44 +138,44 @@ def main():
         2009085: "operating system mutual exclusion",
     }
 
-    # Construction des différents index selon les options
-    index_no_stop_no_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem",
-                                               use_stop_words=False, use_stemmer=False)
-    index_stop_no_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem",
-                                            use_stop_words=True, use_stemmer=False)
-    index_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem",
-                                         use_stop_words=True, use_stemmer=True)
-    index_no_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem",
-                                            use_stop_words=False, use_stemmer=True)
+    # Construction des index
+    index_no_stop_no_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=False, use_stemmer=False)
+    index_stop_no_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=False)
+    index_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=True)
+    index_no_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=False, use_stemmer=True)
 
-    # Première série de runs avec LTN
-    run_id = len([f for f in os.listdir("runs")
-                  if os.path.isfile(os.path.join("runs", f))])
+    # --- Exercise 1: SMART LTN ---
+    run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
     for query_id, query_request in queries.items():
         run_weighting_experiment(index_no_stop_no_stem, query_id, "ltn", query_request, run_id)
 
-    # Série LTH
-    run_id = len([f for f in os.listdir("runs")
-                  if os.path.isfile(os.path.join("runs", f))])
+    # --- Exercise 2: SMART LTC ---
+    run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
     for query_id, query_request in queries.items():
         run_weighting_experiment(index_no_stop_no_stem, query_id, "ltc", query_request, run_id)
 
-    # Série BM25
-    run_id = len([f for f in os.listdir("runs")
-                  if os.path.isfile(os.path.join("runs", f))])
+    # --- Exercise 3: BM25 ---
+    run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
     for query_id, query_request in queries.items():
         run_weighting_experiment(index_no_stop_no_stem, query_id, "bm25", query_request, run_id)
 
-    # Séries complémentaires avec combinaisons stopwords/stemming
+    # --- Exercise 4 & 5: test runs avec variantes d'index ---
     algorithms = ["ltn", "ltc", "bm25"]
     indexers = [index_stop_no_stem, index_stop_stem, index_no_stop_stem]
-
     for index in indexers:
         for algorithm in algorithms:
-            run_id = len([f for f in os.listdir("runs")
-                          if os.path.isfile(os.path.join("runs", f))])
+            run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
             for query_id, query_request in queries.items():
                 run_weighting_experiment(index, query_id, algorithm, query_request, run_id)
+
+    # --- Exercise 6: BM25 tuning ---
+    print("\n" + "=" * 60)
+    print("EXERCICE 6: BM25 TUNING")
+    print("=" * 60)
+
+    print("Starting BM25 tuning...")
+    bm25_tuning(index_no_stop_no_stem, queries)
+    print("BM25 tuning completed!")
 
 
 if __name__ == "__main__":
