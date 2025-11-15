@@ -17,7 +17,7 @@ def compute_statistics(exercise_num, file_name, use_stop_words=False, use_stemme
     
     if use_stop_words:
         index.load_stop_words()
-    
+
     indexing_time = index.build_index("data/"+file_name, False)
     
     if indexing_time is None:
@@ -83,7 +83,7 @@ def run_weighting_experiment(index, query_id, weighting_scheme, query_request, r
     top_docs = ranker.search_query(query_request, weighting_scheme, top_k=1500)
 
 
-    file_name = f"AlphaAnaClement_{run_id}_test_{weighting_scheme}_article.txt"
+    file_name = f"AlphaAnaClement_{run_id}_test_{weighting_scheme}_article"
     if index.stop_word_active:
         file_name += "_stop671"
     else:
@@ -102,7 +102,7 @@ def run_weighting_experiment(index, query_id, weighting_scheme, query_request, r
 
     for i, (doc_id, score) in enumerate(top_docs, 1):
         with open("runs/"+file_name, "a", encoding="utf-8") as f:
-            f.write(f"{query_id} Q0 {doc_id} {score} AlphaAnaClement /article[1]\n")
+            f.write(f"{query_id} Q0 {doc_id} {i} {score} AlphaAnaClement /article[1]\n")
 
     return weighting_time, ranking_weight, doc_score, top_docs
 

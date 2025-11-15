@@ -48,6 +48,7 @@ class PorterStemmer:
         self.k = 0
         self.k0 = 0
         self.j = 0   # j is a general offset into the string
+        self.dict = dict()
 
     def cons(self, i):
         """cons(i) is TRUE <=> b[i] is a consonant."""
@@ -323,6 +324,10 @@ class PorterStemmer:
         i <= k <= j. To turn the stemmer into a module, declare 'stem' as
         extern, and delete the remainder of this file.
         """
+
+        if (p in self.dict):
+            return self.dict[p]
+
         # copy the parameters into statics
         self.b = p
         self.k = j
@@ -341,5 +346,7 @@ class PorterStemmer:
         self.step3()
         self.step4()
         self.step5()
+
+        self.dict[p] = self.b[self.k0:self.k+1]
         return self.b[self.k0:self.k+1]
 
