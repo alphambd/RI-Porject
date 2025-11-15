@@ -105,26 +105,28 @@ def run_weighting_experiment(index, query_id, weighting_scheme, query_request, r
     return weighting_time, ranking_weight, doc_score, top_docs
 
 
-def bm25_tuning(index, queries):
+def bm25_tuning(index, queries, start_run_id):
     """Teste plusieurs valeurs de k1 et b pour BM25 et génère des runs"""
     b_values = [round(i * 0.1, 1) for i in range(11)]  # 0.0 à 1.0 step 0.1
     k1_values = [round(i * 0.2, 1) for i in range(21)]  # 0.0 à 4.0 step 0.2
 
     print(f"Testing {len(b_values)} b values and {len(k1_values)} k1 values...")
 
+    run_id = start_run_id
+
     # Fix k1=1.2, tester b
     for b in b_values:
-        run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
         print(f"Testing b={b} with k1=1.2, run_id={run_id}")
         for query_id, query_request in queries.items():
             run_weighting_experiment(index, query_id, "bm25", query_request, run_id, k1=1.2, b=b, is_tuning=True)
+        run_id += 1
 
     # Fix b=0.75, tester k1
     for k1 in k1_values:
-        run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
         print(f"Testing k1={k1} with b=0.75, run_id={run_id}")
         for query_id, query_request in queries.items():
             run_weighting_experiment(index, query_id, "bm25", query_request, run_id, k1=k1, b=0.75, is_tuning=True)
+        run_id += 1
 
 
 def main():
@@ -144,29 +146,34 @@ def main():
     index_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=True)
     index_no_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=False, use_stemmer=True)
 
+    # CALCULER le run_id de départ UNE SEULE FOIS
+    base_run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
+    current_run_id = base_run_id
+
     # --- Exercise 1: SMART LTN ---
-    run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
     for query_id, query_request in queries.items():
-        run_weighting_experiment(index_no_stop_no_stem, query_id, "ltn", query_request, run_id)
+        run_weighting_experiment(index_no_stop_no_stem, query_id, "ltn", query_request, current_run_id)
+    current_run_id += 1
 
     # --- Exercise 2: SMART LTC ---
-    run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
     for query_id, query_request in queries.items():
-        run_weighting_experiment(index_no_stop_no_stem, query_id, "ltc", query_request, run_id)
+        run_weighting_experiment(index_no_stop_no_stem, query_id, "ltc", query_request, current_run_id)
+    current_run_id += 1
 
     # --- Exercise 3: BM25 ---
-    run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
     for query_id, query_request in queries.items():
-        run_weighting_experiment(index_no_stop_no_stem, query_id, "bm25", query_request, run_id)
+        run_weighting_experiment(index_no_stop_no_stem, query_id, "bm25", query_request, current_run_id)
+    current_run_id += 1
 
     # --- Exercise 4 & 5: test runs avec variantes d'index ---
     algorithms = ["ltn", "ltc", "bm25"]
     indexers = [index_stop_no_stem, index_stop_stem, index_no_stop_stem]
+
     for index in indexers:
         for algorithm in algorithms:
-            run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
             for query_id, query_request in queries.items():
-                run_weighting_experiment(index, query_id, algorithm, query_request, run_id)
+                run_weighting_experiment(index, query_id, algorithm, query_request, current_run_id)
+            current_run_id += 1
 
     # --- Exercise 6: BM25 tuning ---
     print("\n" + "=" * 60)
@@ -174,7 +181,7 @@ def main():
     print("=" * 60)
 
     print("Starting BM25 tuning...")
-    bm25_tuning(index_no_stop_no_stem, queries)
+    bm25_tuning(index_no_stop_no_stem, queries, current_run_id)
     print("BM25 tuning completed!")
 
 
