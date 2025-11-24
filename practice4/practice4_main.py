@@ -68,7 +68,11 @@ def run_weighting_experiment(index, query_id, weighting_scheme, query_request, r
         top_docs = ranker.search_query(query_request, weighting_scheme, top_k=10, k1=k1, b=b)
     else:
         ranking_weight = ranker.get_term_weight(term, "23724", weighting_scheme)
-        doc_score = sum(ranker.get_term_weight(term, "23724", weighting_scheme) for term in query_terms)
+        #doc_score = sum(ranker.get_term_weight(term, "23724", weighting_scheme) for term in query_terms)
+        doc_score = 0.0
+        for term in query_terms:
+            term_weight = ranker.get_term_weight(term, "23724", weighting_scheme)
+            doc_score += term_weight
         top_docs = ranker.search_query(query_request, weighting_scheme, top_k=10)
 
     weighting_time = time.time() - start_time
@@ -142,19 +146,19 @@ def main():
 
     # Construction des index
     index_no_stop_no_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=False, use_stemmer=False)
-    index_stop_no_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=False)
-    index_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=True)
-    index_no_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=False, use_stemmer=True)
+    #index_stop_no_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=False)
+    #index_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=True)
+    #index_no_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=False, use_stemmer=True)
 
     # CALCULER le run_id de départ UNE SEULE FOIS
     base_run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
     current_run_id = base_run_id
-
+    
     # --- Exercise 1: SMART LTN ---
     for query_id, query_request in queries.items():
         run_weighting_experiment(index_no_stop_no_stem, query_id, "ltn", query_request, current_run_id)
     current_run_id += 1
-
+    """
     # --- Exercise 2: SMART LTC ---
     for query_id, query_request in queries.items():
         run_weighting_experiment(index_no_stop_no_stem, query_id, "ltc", query_request, current_run_id)
@@ -164,17 +168,18 @@ def main():
     for query_id, query_request in queries.items():
         run_weighting_experiment(index_no_stop_no_stem, query_id, "bm25", query_request, current_run_id)
     current_run_id += 1
-
+    """
+    """
     # --- Exercise 4 & 5: test runs avec variantes d'index ---
     algorithms = ["ltn", "ltc", "bm25"]
-    indexers = [index_stop_no_stem, index_stop_stem, index_no_stop_stem]
-
+    indexers = [index_no_stop_no_stem, index_stop_no_stem, index_no_stop_stem, index_stop_stem]
+    
     for index in indexers:
         for algorithm in algorithms:
             for query_id, query_request in queries.items():
                 run_weighting_experiment(index, query_id, algorithm, query_request, current_run_id)
             current_run_id += 1
-
+    
     # --- Exercise 6: BM25 tuning ---
     print("\n" + "=" * 60)
     print("EXERCICE 6: BM25 TUNING")
@@ -183,7 +188,7 @@ def main():
     print("Starting BM25 tuning...")
     bm25_tuning(index_no_stop_no_stem, queries, current_run_id)
     print("BM25 tuning completed!")
-
+    """
 
 if __name__ == "__main__":
     main()

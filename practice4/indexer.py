@@ -3,8 +3,7 @@ from collections import defaultdict, Counter
 import gzip
 import time
 from porterstemmer import PorterStemmer
-#from nltk.stem import PorterStemmer # trop lent
-
+import os
 
 class WeightedInvertedIndex:
     def __init__(self):
@@ -63,7 +62,6 @@ class WeightedInvertedIndex:
         # stemming
         if self.stemmer_active:
             tokens = [self.stemmer.stem(token, 0, len(token) - 1) for token in tokens]
-            #tokens = [self.stemmer.stem(token) for token in tokens]
 
         return tokens
 
@@ -137,8 +135,7 @@ class WeightedInvertedIndex:
         # Statistiques pour TOKENS (avant traitement)
         total_tokens = self.total_tokens_bp
         distinct_tokens = len(self.distinct_tokens_bp)
-
-        # Correction : calcul de la longueur moyenne des tokens selon les tokens distincts
+        # Calcul de la longueur moyenne des tokens selon les tokens distincts
         avg_token_length = (
             sum(len(token) for token in self.distinct_tokens_bp) / distinct_tokens
             if distinct_tokens > 0 else 0
@@ -163,3 +160,11 @@ class WeightedInvertedIndex:
             'avg_doc_length': avg_doc_length,
             'avg_term_length': avg_term_length
         }
+
+    def copy_config(self):
+        """Crée une copie de la configuration (sans les données)"""
+        new_index = WeightedInvertedIndex()
+        new_index.stop_word_active = self.stop_word_active
+        new_index.stemmer_active = self.stemmer_active
+        new_index.stop_words_set = self.stop_words_set.copy()
+        return new_index
