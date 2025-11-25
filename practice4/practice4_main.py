@@ -8,7 +8,8 @@ from ranked_retrieval_optimized import RankedRetrieval
 def compute_statistics(exercise_num, file_name, use_stop_words=False, use_stemmer=False):
     """Fonction générique pour les exercices de statistiques"""
     print("\n" + "=" * 60)
-    print(f"EXERCICE {exercise_num}: {'AVEC' if use_stop_words else 'SANS'} STOP-WORDS ET STEMMING")
+    print(
+        f"CONSTRUCTION INDEX: {'AVEC' if use_stop_words else 'SANS'} STOP-WORDS, {'AVEC' if use_stemmer else 'SANS'} STEMMING")
     print("=" * 60)
 
     index = WeightedInvertedIndex()
@@ -94,15 +95,91 @@ def run_weighting_experiment(index, query_id, weighting_scheme, query_request, r
         file_name += f"_k1_{k1}_b_{b}"
     file_name += ".txt"
 
-    if not os.path.exists("runs/" + file_name):
-        with open("runs/" + file_name, "w", encoding="utf-8") as f:
-            f.write("")
-
-    for i, (doc_id, score) in enumerate(top_docs, 1):
-        with open("runs/" + file_name, "a", encoding="utf-8") as f:
+    # CORRECTION: Écraser le fichier s'il existe déjà au lieu de skip
+    with open("runs/" + file_name, "w", encoding="utf-8") as f:
+        for i, (doc_id, score) in enumerate(top_docs, 1):
             f.write(f"{query_id} Q0 {doc_id} {i} {score} AlphaAnaClement /article[1]\n")
 
+    print(f"Fichier créé: {file_name}")
+
     return weighting_time, ranking_weight, doc_score, top_docs
+
+
+def evaluate_bm25_score(index, queries, k1, b):
+    """Évalue le score moyen BM25 pour des paramètres donnés"""
+    total_score = 0
+    num_queries = 0
+
+    for query_id, query_request in queries.items():
+        ranker = RankedRetrieval(index, cache_dir="data/norm_cache")
+        top_docs = ranker.search_query(query_request, "bm25", top_k=10, k1=k1, b=b)
+
+        if top_docs:
+            total_score += sum(score for _, score in top_docs)
+            num_queries += 1
+
+    return total_score / num_queries if num_queries > 0 else 0
+
+
+def bm25_gradient_descent_optimization(index, queries, start_run_id):
+    """Optimisation BM25 par gradient descent simplifié"""
+    print("\n" + "=" * 60)
+    print("GRADIENT DESCENT OPTIMIZATION")
+    print("=" * 60)
+
+    # Point de départ
+    k1, b = 1.2, 0.75
+    learning_rate = 0.1
+    best_score = evaluate_bm25_score(index, queries, k1, b)
+    best_params = (k1, b)
+
+    print(f"Démarrage: k1={k1}, b={b}, score={best_score:.6f}")
+
+    for iteration in range(10):
+        # Calcul des gradients approximatifs (SANS afficher les requêtes)
+        grad_k1 = (evaluate_bm25_score(index, queries, k1 + 0.01, b) - best_score) / 0.01
+        grad_b = (evaluate_bm25_score(index, queries, k1, b + 0.01) - best_score) / 0.01
+
+        # Mise à jour des paramètres
+        new_k1 = k1 - learning_rate * grad_k1
+        new_b = b - learning_rate * grad_b
+
+        # Contrainte des bornes
+        new_k1 = max(0.1, min(4.0, new_k1))
+        new_b = max(0.0, min(1.0, new_b))
+
+        new_score = evaluate_bm25_score(index, queries, new_k1, new_b)
+
+        print(f"Itération {iteration + 1}: k1={new_k1:.3f}, b={new_b:.3f}, score={new_score:.6f}")
+
+        if new_score > best_score:
+            best_score = new_score
+            k1, b = new_k1, new_b
+            best_params = (k1, b)
+            print(f"  → Amélioration! Nouveau meilleur score")
+        else:
+            learning_rate *= 0.5  # Réduction du learning rate
+            print(f"  → Pas d'amélioration, learning rate réduit à {learning_rate:.3f}")
+
+        # Arrêt si learning rate trop petit
+        if learning_rate < 0.01:
+            print("  → Learning rate trop petit, arrêt de l'optimisation")
+            break
+
+    optimal_k1, optimal_b = best_params
+    print(f"\n⭐ OPTIMISATION TERMINÉE!")
+    print(f"⭐ Paramètres optimaux: k1={optimal_k1:.3f}, b={optimal_b:.3f}")
+    print(f"⭐ Meilleur score: {best_score:.6f}")
+
+    # Génération du run optimal
+    run_id = start_run_id
+    print(f"⭐ Génération du run optimal (run_id={run_id})")
+
+    for query_id, query_request in queries.items():
+        run_weighting_experiment(index, query_id, "bm25", query_request, run_id,
+                                 k1=optimal_k1, b=optimal_b, is_tuning=True)
+
+    return optimal_k1, optimal_b, run_id + 1
 
 
 def bm25_tuning(index, queries, start_run_id):
@@ -128,6 +205,8 @@ def bm25_tuning(index, queries, start_run_id):
             run_weighting_experiment(index, query_id, "bm25", query_request, run_id, k1=k1, b=0.75, is_tuning=True)
         run_id += 1
 
+    return run_id
+
 
 def main():
     queries = {
@@ -146,9 +225,8 @@ def main():
     index_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=True, use_stemmer=True)
     index_no_stop_stem = compute_statistics(1, "Text_Only_Ascii_Coll_NoSem", use_stop_words=False, use_stemmer=True)
 
-    # CALCULER le run_id de départ UNE SEULE FOIS
-    base_run_id = len([f for f in os.listdir("runs") if os.path.isfile(os.path.join("runs", f))])
-    current_run_id = base_run_id
+    # CORRECTION: Utiliser un run_id fixe au lieu de compter les fichiers existants
+    current_run_id = 1  # Commence à 1 au lieu de compter les fichiers
 
     # --- Exercise 1: SMART LTN ---
     for query_id, query_request in queries.items():
@@ -165,7 +243,7 @@ def main():
         run_weighting_experiment(index_no_stop_no_stem, query_id, "bm25", query_request, current_run_id)
     current_run_id += 1
 
-    # --- Exercise 4 & 5: test runs avec variantes d'index ---
+    # --- Exercise 4 : test runs avec variantes d'index ---
     algorithms = ["ltn", "ltc", "bm25"]
     indexers = [index_stop_no_stem, index_stop_stem, index_no_stop_stem]
 
@@ -180,10 +258,23 @@ def main():
     print("EXERCICE 6: BM25 TUNING")
     print("=" * 60)
 
-    print("Starting BM25 tuning...")
-    bm25_tuning(index_no_stop_no_stem, queries, current_run_id)
+    print("Starting BM25 grid search...")
+    current_run_id = bm25_tuning(index_no_stop_no_stem, queries, current_run_id)
+
+    print("\nStarting BM25 gradient descent optimization...")
+    optimal_k1, optimal_b, current_run_id = bm25_gradient_descent_optimization(
+        index_no_stop_no_stem, queries, current_run_id
+    )
+
     print("BM25 tuning completed!")
 
 
 if __name__ == "__main__":
+    # CORRECTION: Nettoyer le dossier runs au début
+    if os.path.exists("runs"):
+        for file in os.listdir("runs"):
+            if file.endswith(".txt"):
+                os.remove(os.path.join("runs", file))
+        print("Dossier 'runs' nettoyé")
+
     main()
