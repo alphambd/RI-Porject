@@ -1,7 +1,6 @@
 import math
 from collections import defaultdict
 
-
 class RankedRetrieval:
     def __init__(self, index):
         self.index = index
@@ -103,14 +102,14 @@ class RankedRetrieval:
         """Traiter la requete pour extraire les termes"""
         tokens = self.index.apply_tokenization(query)
         tokens = self.index.process_tokens(tokens)
-        return list(set(tokens))  # termes uniques
+        return list(set(tokens)) # termes uniques
 
-    def search_query(self, query, weighting_scheme="ltn", top_k=10, k1=1.2, b=0.75):
+    def search_query(self, query, weighting_scheme="ltn", top_k=10):
         """Recherche une requête avec le schéma de pondération spécifié"""
         # Traitement de la requête
         query_terms = self.process_query_terms(query)
 
-        # SUPPRIMÉ: print(f" * Recherche: '{query}' -> termes: {query_terms}")
+        print(f" * Recherche: '{query}' -> termes: {query_terms}")
 
         # Calcul des scores pour tous les documents
         doc_scores = defaultdict(float)
@@ -123,7 +122,7 @@ class RankedRetrieval:
                 elif weighting_scheme == "ltc":
                     term_weight = self.smart_ltc_weighting(term, doc_id)
                 elif weighting_scheme == "bm25":
-                    term_weight = self.bm25_weighting(term, doc_id, k1, b)
+                    term_weight = self.bm25_weighting(term, doc_id)
                 else:
                     term_weight = self.smart_ltn_weighting(term, doc_id)
 
@@ -137,14 +136,14 @@ class RankedRetrieval:
 
         return sorted_docs[:top_k]
 
-    def get_term_weight(self, term, doc_id, weighting_scheme, k1=1.2, b=0.75):
+    def get_term_weight(self, term, doc_id, weighting_scheme):
         """Retourne le poids d'un terme spécifique dans un document"""
         if weighting_scheme == "ltn":
             return self.smart_ltn_weighting(term, doc_id)
         elif weighting_scheme == "ltc":
             return self.smart_ltc_weighting(term, doc_id)
         elif weighting_scheme == "bm25":
-            return self.bm25_weighting(term, doc_id, k1, b)
+            return self.bm25_weighting(term, doc_id)
         else:
             print(f" - Erreur : option de weighting '{weighting_scheme}' invalide...")
             return 0.0
