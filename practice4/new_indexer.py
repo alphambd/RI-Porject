@@ -23,13 +23,9 @@ class WeightedInvertedIndex:
         self.tokenization_method = "basic"
         self.stop_list_name = "nostop"
         self.stemmer_name = "nostem"
-        # SUPPRIMÉ: stop_word_active et stemmer_active
 
-    def get_doc_ids(self):
-        """Retourne la liste des IDs de documents"""
-        return self.doc_ids
     # === FONCTIONS DE TOKENIZATION ===
-    
+
     def _tokenize_basic(self, text):
         """Tokenization basique: seulement lettres"""
         text = re.sub(r'[^A-Za-z\s]', ' ', text)
@@ -90,11 +86,9 @@ class WeightedInvertedIndex:
     def _load_stop_words(self, stop_list_name="stop671"):
         """Charge différentes listes de stop-words"""
         stop_files = {
-            "stop635": "data/stop-words-english1.txt",
-            "stop174": "data/stop-words-english2.txt",
-            "stop32": "data/stop-words-english3-google.txt", 
-            "stop671": "data/stop-words-english4.txt",
-            
+            "stop671": "data/stopwords/stop-words-english4.txt",
+            "stop319": "data/stopwords/stop-words-english5.txt",
+            "stop733": "data/stopwords/stop-words-kaggle.txt"   
         }
         # TO HANDLE
         file_path = stop_files.get(stop_list_name, "data/stop-words-english4.txt")

@@ -28,10 +28,10 @@ class RankedRetrieval:
             self.doc_count,
             self.index.total_terms,
             len(self.index.dictionary),
-            self.index.stop_word_active,
-            self.index.stemmer_active
-            #self.index.stop_list_name,  # on utilise la nouvelle configuration
-            #self.index.stemmer_name,    
+            #self.index.stop_word_active,
+            #self.index.stemmer_active
+            self.index.stop_list_name,  # on utilise la nouvelle configuration
+            self.index.stemmer_name,    
         ))
         return os.path.join(self.cache_dir, f"cosine_norms_{abs(index_hash)}.pkl")
     
@@ -192,8 +192,9 @@ class RankedRetrieval:
                 
                 score += term_weight
             
-            if score > 0:
-                doc_scores[doc_id] = score
+            #if score > 0:
+            #    doc_scores[doc_id] = score
+            doc_scores[doc_id] = score # on stock toujours le score, sinon pour bm25 certains run < 10500
         
         sorted_docs = sorted(doc_scores.items(), key=lambda x: x[1], reverse=True)
         return sorted_docs[:top_k]
