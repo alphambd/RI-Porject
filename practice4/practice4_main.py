@@ -377,4 +377,11 @@ def main():
     
 
 if __name__ == "__main__":
+     # Nettoyer le dossier runs au début
+    if os.path.exists("data/runs"):
+        for file in os.listdir("data/runs"):
+            if file.endswith(".txt"):
+                os.remove(os.path.join("data/runs", file))
+        print("Dossier 'runs' nettoyé")
+
     main()
