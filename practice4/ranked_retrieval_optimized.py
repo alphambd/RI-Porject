@@ -147,7 +147,7 @@ class RankedRetrieval:
         """Recherche une requête avec le schéma de pondération spécifié"""
         query_terms = self.process_query_terms(query)
 
-        print(f" * Recherche: '{query}' -> termes: {query_terms}")
+        #print(f" * Recherche: '{query}' -> termes: {query_terms}")
 
         # Précharger les normes cosine seulement si nécessaire pour LTC
         if weighting_scheme == "ltc" and self._cosine_norms_cache is None:

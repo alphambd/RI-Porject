@@ -28,8 +28,10 @@ class RankedRetrieval:
             self.doc_count,
             self.index.total_terms,
             len(self.index.dictionary),
-            self.index.stop_list_name,  # ← UTILISATION DES NOUVEAUX ATTRIBUTS
-            self.index.stemmer_name,    # ← UTILISATION DES NOUVEAUX ATTRIBUTS
+            self.index.stop_word_active,
+            self.index.stemmer_active
+            #self.index.stop_list_name,  # on utilise la nouvelle configuration
+            #self.index.stemmer_name,    
         ))
         return os.path.join(self.cache_dir, f"cosine_norms_{abs(index_hash)}.pkl")
     
