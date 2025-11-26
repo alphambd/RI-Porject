@@ -25,6 +25,9 @@ class WeightedInvertedIndex:
         self.stemmer_name = "nostem"
         # SUPPRIMÉ: stop_word_active et stemmer_active
 
+    def get_doc_ids(self):
+        """Retourne la liste des IDs de documents"""
+        return self.doc_ids
     # === FONCTIONS DE TOKENIZATION ===
     
     def _tokenize_basic(self, text):
@@ -80,18 +83,20 @@ class WeightedInvertedIndex:
         else:
             print(f"Stemmer '{stemmer_name}' non supporté, utilisation de 'nostem'")
             self.stemmer_func = None
+        print(f"- Stemmer configuré: {stemmer_name}")
 
     # === FONCTIONS DE STOP-WORDS ===
     
     def _load_stop_words(self, stop_list_name="stop671"):
         """Charge différentes listes de stop-words"""
         stop_files = {
-            "stop344": "data/stop-words-english3-google.txt",
-            "stop571": "data/stop-words-english2.txt", 
+            "stop635": "data/stop-words-english1.txt",
+            "stop174": "data/stop-words-english2.txt",
+            "stop32": "data/stop-words-english3-google.txt", 
             "stop671": "data/stop-words-english4.txt",
-            "stop759": "data/stop-words-english1.txt"
+            
         }
-        
+        # TO HANDLE
         file_path = stop_files.get(stop_list_name, "data/stop-words-english4.txt")
         try:
             with open(file_path, 'r', encoding='utf-8') as file:
@@ -106,10 +111,12 @@ class WeightedInvertedIndex:
         self.stop_list_name = stop_list_name
         if stop_list_name != "nostop":
             self._load_stop_words(stop_list_name)
+        print(f"- Stop-words configurés: {stop_list_name}")
 
     def configure_tokenization(self, method="basic"):
         """Configure la méthode de tokenization"""
         self.tokenization_method = method
+        print(f"- Méthode de tokenization configurée: {method}")
 
     def process_tokens(self, tokens):
         """Transforme les tokens en terms avec la configuration actuelle"""
@@ -185,7 +192,7 @@ class WeightedInvertedIndex:
         end_time = time.time()
         indexing_time = end_time - start_time
 
-        print(f"Index construit avec succès !")
+        print(f"Index construit avec succès !\n")
         return indexing_time
 
     def get_collection_statistics(self, indexing_time):

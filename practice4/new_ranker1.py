@@ -19,23 +19,23 @@ class RankedRetrieval:
         for term, doc_dict in index.dictionary.items():
             self.df[term] = len(doc_dict)
         
-        # Initialiser le cache des normes cosine
+        # Initialiser le cache des normes cosine (vide au début)
         self._cosine_norms_cache = None
     
     def _get_cosine_norms_cache_filename(self):
-        """Génère un nom de fichier de cache basé sur les NOUVEAUX attributs"""
+        """Génère un nom de fichier de cache basé sur les caractéristiques de l'index"""
         index_hash = hash((
             self.doc_count,
             self.index.total_terms,
             len(self.index.dictionary),
             self.index.stop_list_name,  # ← UTILISATION DES NOUVEAUX ATTRIBUTS
             self.index.stemmer_name,    # ← UTILISATION DES NOUVEAUX ATTRIBUTS
-            self.index.tokenization_method
         ))
         return os.path.join(self.cache_dir, f"cosine_norms_{abs(index_hash)}.pkl")
     
     def _load_or_compute_cosine_norms(self):
         """Charge les normes cosine depuis le cache ou les calcule si nécessaire"""
+        # Si déjà chargé, retourner le cache
         if self._cosine_norms_cache is not None:
             return self._cosine_norms_cache
             
@@ -72,6 +72,7 @@ class RankedRetrieval:
         """Version optimisée du pré-calcul des normes cosine"""
         doc_norms = {doc_id: 0.0 for doc_id in self.index.doc_ids}
         
+        # Parcourir chaque terme une seule fois
         for term, doc_dict in self.index.dictionary.items():
             df = len(doc_dict)
             w_idf = math.log10(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
@@ -90,6 +91,8 @@ class RankedRetrieval:
 
     def smart_ltn_weighting(self, term, doc_id):
         """SMART ltn weighting: logarithmic tf, idf, pas de normalization"""
+        # ltn: (1 + log(tf)) * log(N/df)
+
         if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
             return 0.0
 
@@ -103,10 +106,13 @@ class RankedRetrieval:
 
     def smart_ltc_weighting(self, term, doc_id):
         """SMART ltc weighting: logarithmic tf, idf, normalization cosinus"""
+        # ltn_values = 1 + log(tf)) * log(N/df)
+        # ltc: ltn_values / sqrt(sum_of_squares(ltn_values)) 
+
         if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
             return 0.0
         
-        # Charger les normes cosine seulement si nécessaire
+        # Charger les normes cosine seulement si nécessaire (lazy loading)
         if self._cosine_norms_cache is None:
             self._load_or_compute_cosine_norms()
         
@@ -123,6 +129,13 @@ class RankedRetrieval:
     
     def bm25_weighting(self, term, doc_id, k1=1.2, b=0.75):
         """BM25 weighting avec paramètres standard"""
+        # BM25: log((N - df + 0.5) / (df + 0.5)) * [ (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (dl / avgdl))) ]
+        # - N = nombre total de documents
+        # - dl = longueur du document (nombre de termes)
+        # - avgdl = longueur moyenne des documents
+        # - k1 = paramètre de saturation TF (valeur par défaut: 1.2)
+        # - b = paramètre de normalisation longueur (valeur par défaut: 0.75)
+
         if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
             return 0.0
         
@@ -130,6 +143,7 @@ class RankedRetrieval:
         df = self.df[term]
         doc_length = self.index.doc_lengths[doc_id]
         
+        # Calcul BM25
         idf = math.log10((self.doc_count - df + 0.5) / (df + 0.5))
         tf_component = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (doc_length / self.avg_dl)))
         
@@ -139,10 +153,11 @@ class RankedRetrieval:
         """Traiter la requête pour extraire les termes"""
         tokens = self.index.apply_tokenization(query)
         tokens = self.index.process_tokens(tokens)
-        return sorted(set(tokens))
+        #return list(set(tokens))
+        return sorted(set(tokens))  # termes uniques triés
 
     def search_query(self, query, weighting_scheme="ltn", top_k=10, k1=1.2, b=0.75):
-        """Recherche une requête avec le schéma de pondération spécifié"""
+        """Recherche optimisée - ne parcourt que les documents contenant au moins un terme de la requête"""
         query_terms = self.process_query_terms(query)
         
         print(f" * Recherche: '{query}' -> termes: {query_terms}")
@@ -153,7 +168,15 @@ class RankedRetrieval:
         
         doc_scores = defaultdict(float)
         
-        for doc_id in self.index.doc_ids:
+        # Optimisation: ne considérer que les documents qui contiennent au moins un terme de la requête
+        relevant_docs = set()
+        for term in query_terms:
+            if term in self.index.dictionary:
+                relevant_docs.update(self.index.dictionary[term].keys())
+        
+        print(f"  - Documents pertinents potentiels: {len(relevant_docs)}")
+        
+        for doc_id in relevant_docs:
             score = 0.0
             for term in query_terms:
                 if weighting_scheme == "ltn":

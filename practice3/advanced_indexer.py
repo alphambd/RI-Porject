@@ -135,8 +135,7 @@ class WeightedInvertedIndex:
         # Statistiques pour TOKENS (avant traitement)
         total_tokens = self.total_tokens_bp
         distinct_tokens = len(self.distinct_tokens_bp)
-
-        # Correction : calcul de la longueur moyenne des tokens selon les tokens distincts
+        # Calcul de la longueur moyenne des tokens selon les tokens distincts
         avg_token_length = (
             sum(len(token) for token in self.distinct_tokens_bp) / distinct_tokens
             if distinct_tokens > 0 else 0

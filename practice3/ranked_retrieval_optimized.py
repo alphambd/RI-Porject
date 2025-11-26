@@ -91,6 +91,8 @@ class RankedRetrieval:
 
     def smart_ltn_weighting(self, term, doc_id):
         """SMART ltn weighting: logarithmic tf, idf, pas de normalization"""
+        # ltn: (1 + log(tf)) * log(N/df)
+
         if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
             return 0.0
 
@@ -104,6 +106,9 @@ class RankedRetrieval:
 
     def smart_ltc_weighting(self, term, doc_id):
         """SMART ltc weighting: logarithmic tf, idf, normalization cosinus"""
+        # ltn_values = 1 + log(tf)) * log(N/df)
+        # ltc: ltn_values / sqrt(sum_of_squares(ltn_values)) 
+
         if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
             return 0.0
         
@@ -124,6 +129,13 @@ class RankedRetrieval:
     
     def bm25_weighting(self, term, doc_id, k1=1.2, b=0.75):
         """BM25 weighting avec paramètres standard"""
+        # BM25: log((N - df + 0.5) / (df + 0.5)) * [ (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (dl / avgdl))) ]
+        # - N = nombre total de documents
+        # - dl = longueur du document (nombre de termes)
+        # - avgdl = longueur moyenne des documents
+        # - k1 = paramètre de saturation TF (valeur par défaut: 1.2)
+        # - b = paramètre de normalisation longueur (valeur par défaut: 0.75)
+
         if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
             return 0.0
         
@@ -131,6 +143,7 @@ class RankedRetrieval:
         df = self.df[term]
         doc_length = self.index.doc_lengths[doc_id]
         
+        # Calcul BM25
         idf = math.log10((self.doc_count - df + 0.5) / (df + 0.5))
         tf_component = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (doc_length / self.avg_dl)))
         
@@ -158,6 +171,10 @@ class RankedRetrieval:
         for doc_id in self.index.doc_ids:
             score = 0.0
             for term in query_terms:
+                # Vérifier si le terme est dans le document
+                if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+                    continue  # Ignorer les termes absents du document
+
                 if weighting_scheme == "ltn":
                     term_weight = self.smart_ltn_weighting(term, doc_id)
                 elif weighting_scheme == "ltc":
