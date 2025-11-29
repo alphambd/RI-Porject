@@ -10,127 +10,123 @@ Ana     SANOU
         *                                                           *
         /////////////////////////////////////////////////////////////
 
-NB :
-- Collection utilisée : Text_Only_Ascii_Coll_NoSem (9 804 documents)
-- 7 requêtes testées pour l'évaluation
+RAPPORT D'ÉVALUATION COMPLET - PERFORMANCES DES MODÈLES
+========================================================
 
-=============================================================
-EXERCICE 1: SMART LTN - SANS STOP-WORDS ET SANS STEMMING
-=============================================================
-- Tokenisation simple : termes sans chiffres ni caractères spéciaux
-- Aucune liste de stop-words utilisée
-- Aucun stemming appliqué
+Résumé Global
+-------------
+Nombre total de runs : 45
+Meilleure performance MAgP : 0.1766
+Meilleure performance iP[0.1] : 0.4989
 
-STATISTIQUES DE LA COLLECTION:
-- Temps d'indexation: 11.05 secondes
-- Nombre total d'occurrences de tokens: 10,913,214
-- Nombre de tokens distincts: 257,840
-- Longueur moyenne des tokens: 7.62 caractères
-- Nombre total d'occurrences de terms: 10,913,214
-- Taille du vocabulaire (terms distincts): 206,913
-- Longueur moyenne des documents: 1,113.14 terms
-- Longueur moyenne des terms: 7.73 caractères
+CLASSEMENT COMPLET PAR MAgP
+---------------------------
+Rang | Run | MAgP | iP[0.1]
+-----|-----|------|---------
+1 | 6_test_bm25_article_stop671_nostem_k1_1.2_b_0.75 | 0.1766 | 0.4158
+2 | 19_test_bm25_article_stop671_porter_k1_1.2_b_0.6 | 0.1758 | 0.4132
+3 | 18_test_bm25_article_stop671_porter_k1_1.2_b_0.5 | 0.1739 | 0.4073
+4 | 20_test_bm25_article_stop671_porter_k1_1.2_b_0.7 | 0.1729 | 0.4916
+5 | 17_test_bm25_article_stop671_porter_k1_1.2_b_0.4 | 0.1726 | 0.4007
+6 | 16_test_bm25_article_stop671_porter_k1_1.2_b_0.3 | 0.1675 | 0.4030
+7 | 25_test_bm25_article_stop671_porter_k1_0.2_b_0.75 | 0.1670 | 0.4989
+8 | 26_test_bm25_article_stop671_porter_k1_0.4_b_0.75 | 0.1653 | 0.4989
+9 | 27_test_bm25_article_stop671_porter_k1_0.6_b_0.75 | 0.1648 | 0.4948
+10 | 28_test_bm25_article_stop671_porter_k1_0.8_b_0.75 | 0.1643 | 0.4913
+11 | 29_test_bm25_article_stop671_porter_k1_1.0_b_0.75 | 0.1634 | 0.4914
+12 | 12_test_bm25_article_stop671_porter_k1_1.2_b_0.75 | 0.1630 | 0.4856
+13 | 15_test_bm25_article_stop671_porter_k1_1.2_b_0.2 | 0.1625 | 0.3435
+14 | 31_test_bm25_article_stop671_porter_k1_1.4_b_0.75 | 0.1608 | 0.4858
+15 | 1_test_ltn_article_nostop_nostem | 0.1601 | 0.3761
+16 | 32_test_bm25_article_stop671_porter_k1_1.6_b_0.75 | 0.1597 | 0.4859
+17 | 3_test_bm25_article_nostop_nostem_k1_1.2_b_0.75 | 0.1584 | 0.4023
+18 | 21_test_bm25_article_stop671_porter_k1_1.2_b_0.8 | 0.1544 | 0.4705
+19 | 33_test_bm25_article_stop671_porter_k1_1.8_b_0.75 | 0.1539 | 0.4812
+20 | 34_test_bm25_article_stop671_porter_k1_2.0_b_0.75 | 0.1535 | 0.4767
+21 | 35_test_bm25_article_stop671_porter_k1_2.2_b_0.75 | 0.1511 | 0.4771
+22 | 36_test_bm25_article_stop671_porter_k1_2.4_b_0.75 | 0.1497 | 0.4750
+23 | 37_test_bm25_article_stop671_porter_k1_2.6_b_0.75 | 0.1491 | 0.4753
+24 | 4_test_ltn_article_stop671_nostem | 0.1459 | 0.3391
+25 | 14_test_bm25_article_stop671_porter_k1_1.2_b_0.1 | 0.1456 | 0.3238
+26 | 13_test_bm25_article_stop671_porter_k1_1.2_b_0.0 | 0.1455 | 0.3055
+27 | 38_test_bm25_article_stop671_porter_k1_2.8_b_0.75 | 0.1446 | 0.4661
+28 | 39_test_bm25_article_stop671_porter_k1_3.0_b_0.75 | 0.1432 | 0.4589
+29 | 22_test_bm25_article_stop671_porter_k1_1.2_b_0.9 | 0.1359 | 0.3938
+30 | 3_test_bm25_article_nostop_nostem_k1_1.2_b_0.75 | 0.1317 | 0.3139
+31 | 40_test_bm25_article_stop671_porter_k1_3.2_b_0.75 | 0.1279 | 0.3899
+32 | 41_test_bm25_article_stop671_porter_k1_3.4_b_0.75 | 0.1264 | 0.3899
+33 | 42_test_bm25_article_stop671_porter_k1_3.6_b_0.75 | 0.1264 | 0.3903
+34 | 7_test_ltn_article_nostop_porter | 0.1261 | 0.3034
+35 | 43_test_bm25_article_stop671_porter_k1_3.8_b_0.75 | 0.1256 | 0.3892
+36 | 10_test_ltn_article_stop671_porter | 0.1256 | 0.3014
+37 | 44_test_bm25_article_stop671_porter_k1_4.0_b_0.75 | 0.1255 | 0.3838
+38 | 23_test_bm25_article_stop671_porter_k1_1.2_b_1.0 | 0.1096 | 0.2780
+39 | 9_test_bm25_article_nostop_porter_k1_1.2_b_0.75 | 0.0993 | 0.2780
+40 | 24_test_bm25_article_stop671_porter_k1_0.0_b_0.75 | 0.0425 | 0.0916
+41 | 11_test_ltc_article_stop671_porter | 0.0415 | 0.0971
+42 | 8_test_ltc_article_nostop_porter | 0.0413 | 0.0922
+43 | 5_test_ltc_article_stop671_nostem | 0.0353 | 0.0670
+44 | 2_test_ltc_article_nostop_nostem | 0.0349 | 0.0669
+45 | 1_test_ltn_article_nostop_nostem | 0.0254 | 0.0815
 
-RÉSULTATS REQUÊTE "web ranking scoring algorithm":
-- Temps de pondération: 0.08 secondes
-- Poids de 'ranking' dans doc #23724: 1.841461
-- RSV du document #23724: 4.856497
-- TOP-1: Doc 14199294 (4.913212)
+CLASSEMENT COMPLET PAR iP[0.1]
+------------------------------
+Rang | Run | iP[0.1] | MAgP
+-----|-----|--------|------
+1 | 25_test_bm25_article_stop671_porter_k1_0.2_b_0.75 | 0.4989 | 0.1670
+2 | 26_test_bm25_article_stop671_porter_k1_0.4_b_0.75 | 0.4989 | 0.1653
+3 | 27_test_bm25_article_stop671_porter_k1_0.6_b_0.75 | 0.4948 | 0.1648
+4 | 20_test_bm25_article_stop671_porter_k1_1.2_b_0.7 | 0.4916 | 0.1729
+5 | 29_test_bm25_article_stop671_porter_k1_1.0_b_0.75 | 0.4914 | 0.1634
+6 | 12_test_bm25_article_stop671_porter_k1_1.2_b_0.75 | 0.4856 | 0.1630
+7 | 31_test_bm25_article_stop671_porter_k1_1.4_b_0.75 | 0.4858 | 0.1608
+8 | 32_test_bm25_article_stop671_porter_k1_1.6_b_0.75 | 0.4859 | 0.1597
+9 | 33_test_bm25_article_stop671_porter_k1_1.8_b_0.75 | 0.4812 | 0.1539
+10 | 34_test_bm25_article_stop671_porter_k1_2.0_b_0.75 | 0.4767 | 0.1535
+11 | 35_test_bm25_article_stop671_porter_k1_2.2_b_0.75 | 0.4771 | 0.1511
+12 | 36_test_bm25_article_stop671_porter_k1_2.4_b_0.75 | 0.4750 | 0.1497
+13 | 37_test_bm25_article_stop671_porter_k1_2.6_b_0.75 | 0.4753 | 0.1491
+14 | 21_test_bm25_article_stop671_porter_k1_1.2_b_0.8 | 0.4705 | 0.1544
+15 | 38_test_bm25_article_stop671_porter_k1_2.8_b_0.75 | 0.4661 | 0.1446
+16 | 39_test_bm25_article_stop671_porter_k1_3.0_b_0.75 | 0.4589 | 0.1432
+17 | 6_test_bm25_article_stop671_nostem_k1_1.2_b_0.75 | 0.4158 | 0.1766
+18 | 19_test_bm25_article_stop671_porter_k1_1.2_b_0.6 | 0.4132 | 0.1758
+19 | 18_test_bm25_article_stop671_porter_k1_1.2_b_0.5 | 0.4073 | 0.1739
+20 | 3_test_bm25_article_nostop_nostem_k1_1.2_b_0.75 | 0.4023 | 0.1584
+21 | 16_test_bm25_article_stop671_porter_k1_1.2_b_0.3 | 0.4030 | 0.1675
+22 | 17_test_bm25_article_stop671_porter_k1_1.2_b_0.4 | 0.4007 | 0.1726
+23 | 22_test_bm25_article_stop671_porter_k1_1.2_b_0.9 | 0.3938 | 0.1359
+24 | 40_test_bm25_article_stop671_porter_k1_3.2_b_0.75 | 0.3899 | 0.1279
+25 | 41_test_bm25_article_stop671_porter_k1_3.4_b_0.75 | 0.3899 | 0.1264
+26 | 42_test_bm25_article_stop671_porter_k1_3.6_b_0.75 | 0.3903 | 0.1264
+27 | 43_test_bm25_article_stop671_porter_k1_3.8_b_0.75 | 0.3892 | 0.1256
+28 | 44_test_bm25_article_stop671_porter_k1_4.0_b_0.75 | 0.3838 | 0.1255
+29 | 1_test_ltn_article_nostop_nostem | 0.3761 | 0.1601
+30 | 4_test_ltn_article_stop671_nostem | 0.3391 | 0.1459
+31 | 15_test_bm25_article_stop671_porter_k1_1.2_b_0.2 | 0.3435 | 0.1625
+32 | 14_test_bm25_article_stop671_porter_k1_1.2_b_0.1 | 0.3238 | 0.1456
+33 | 3_test_bm25_article_nostop_nostem_k1_1.2_b_0.75 | 0.3139 | 0.1317
+34 | 13_test_bm25_article_stop671_porter_k1_1.2_b_0.0 | 0.3055 | 0.1455
+35 | 7_test_ltn_article_nostop_porter | 0.3034 | 0.1261
+36 | 10_test_ltn_article_stop671_porter | 0.3014 | 0.1256
+37 | 23_test_bm25_article_stop671_porter_k1_1.2_b_1.0 | 0.2780 | 0.1096
+38 | 9_test_bm25_article_nostop_porter_k1_1.2_b_0.75 | 0.2780 | 0.0993
+39 | 1_test_ltn_article_nostop_nostem | 0.0815 | 0.0254
+40 | 11_test_ltc_article_stop671_porter | 0.0971 | 0.0415
+41 | 8_test_ltc_article_nostop_porter | 0.0922 | 0.0413
+42 | 24_test_bm25_article_stop671_porter_k1_0.0_b_0.75 | 0.0916 | 0.0425
+43 | 5_test_ltc_article_stop671_nostem | 0.0670 | 0.0353
+44 | 2_test_ltc_article_nostop_nostem | 0.0669 | 0.0349
+45 | 1_test_ltn_article_nostop_nostem | 0.0815 | 0.0254
 
-=============================================================
-EXERCICE 2: SMART LTC - SANS STOP-WORDS ET SANS STEMMING
-=============================================================
-Même configuration que l'exercice 1 avec normalisation cosinus
+ANALYSE DES CONFIGURATIONS OPTIMALES
+------------------------------------
+Meilleur compromis MAgP/iP[0.1] :
+- 20_test_bm25_article_stop671_porter_k1_1.2_b_0.7 (MAgP: 0.1729, iP[0.1]: 0.4916)
 
-RÉSULTATS REQUÊTE "web ranking scoring algorithm":
-- Temps de pondération: 0.07 secondes
-- Poids de 'ranking' dans doc #23724: [valeur LTC]
-- RSV du document #23724: [valeur LTC]
-- TOP-1: Doc [ID] ([score])
+Configuration pour MAgP maximal :
+- 6_test_bm25_article_stop671_nostem_k1_1.2_b_0.75 (0.1766)
 
-=============================================================
-EXERCICE 3: BM25 - SANS STOP-WORDS ET SANS STEMMING
-=============================================================
-Paramètres par défaut: k1=1.2, b=0.75
-
-RÉSULTATS REQUÊTE "web ranking scoring algorithm":
-- Temps de pondération: 0.09 secondes
-- Poids de 'ranking' dans doc #23724: 1.841461
-- RSV du document #23724: 4.856497
-- TOP-1: Doc 14199294 (4.913212)
-
-=============================================================
-EXERCICE 4: TEST RUNS - 12 RUNS GÉNÉRÉS
-=============================================================
-Combinaisons testées:
-- 3 algorithmes (LTN, LTC, BM25)
-- 2 stop-words (stop671, nostop)
-- 2 stemmers (porter, nostem)
-
-Fichiers générés:
-AlphaAnaClement_1_test_ltn_article_nostop_nostem.txt
-AlphaAnaClement_2_test_ltc_article_nostop_nostem.txt
-AlphaAnaClement_3_test_bm25_article_nostop_nostem_k1_1.2_b_0.75.txt
-[... 9 autres runs ...]
-
-=============================================================
-EXERCICE 5: CONFIGURATIONS AVANCÉES
-=============================================================
-Index construits:
-1. SANS stop-words, SANS stemmer (206,913 terms)
-2. AVEC stop-words, SANS stemmer (206,294 terms)
-3. AVEC stop-words, AVEC stemmer (168,200 terms)
-4. SANS stop-words, AVEC stemmer (168,448 terms)
-
-Observation: Le stemming réduit significativement la taille du vocabulaire.
-
-=============================================================
-EXERCICE 6: BM25 TUNING - OPTIMISATION DES PARAMÈTRES
-=============================================================
-Stratégie d'optimisation:
-- Phase 1: Grid search systématique (32 runs)
-  * 11 valeurs de b (0.0 à 1.0, step=0.1) avec k1=1.2
-  * 21 valeurs de k1 (0.0 à 4.0, step=0.2) avec b=0.75
-- Phase 2: Gradient descent optimization
-
-RÉSULTATS GRADIENT DESCENT:
-Démarrage: k1=1.2, b=0.75, score=47.167180
-Itération 1: k1=0.100, b=0.000, score=31.675721
-Itération 2: k1=0.537, b=0.254, score=37.612643
-Itération 3: k1=0.869, b=0.502, score=41.787125
-Itération 4: k1=1.034, b=0.626, score=44.229419
-
-⭐ OPTIMISATION TERMINÉE!
-⭐ Paramètres optimaux: k1=1.200, b=0.750
-⭐ Meilleur score: 47.167180
-
-Run optimal généré: AlphaAnaClement_45_test_bm25_article_nostop_nostem_k1_1.2_b_0.75.txt
-
-=============================================================
-SYNTHÈSE DES RÉSULTATS
-=============================================================
-- Total des runs générés: 45
-- Exercices 1-3: 3 runs de base
-- Exercice 4: 9 runs supplémentaires (variantes stop-words/stemmer)
-- Exercice 6: 33 runs de tuning (32 grid search + 1 gradient descent)
-
-- Performance temporelle: < 0.15s par requête
-- Document #23724 bien classé pour les requêtes pertinentes
-- Scores BM25 cohérents (entre -2 et 7 selon la pertinence)
-
-OBSERVATIONS:
-- Le gradient descent a confirmé les paramètres par défaut comme optimaux
-- Les runs sont conformes au format TREC
-- Tous les exercices ont été complétés avec succès
-
-=============================================================
-CONCLUSION
-=============================================================
-Tous les objectifs de la session pratique 4 ont été atteints:
-✓ Construction de 45 runs valides
-✓ Implémentation des 3 schémas de pondération (LTN, LTC, BM25)
-✓ Test des variantes stop-words et stemming
-✓ Optimisation BM25 par grid search et gradient descent
-✓ Génération de fichiers au format TREC standard
-
-Les runs sont prêts pour l'évaluation sur la plateforme INEX.
+Configuration pour iP[0.1] maximal :
+- 25_test_bm25_article_stop671_porter_k1_0.2_b_0.75 (0.4989)
+- 26_test_bm25_article_stop671_porter_k1_0.4_b_0.75 (0.4989)

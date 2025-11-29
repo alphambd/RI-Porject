@@ -305,7 +305,8 @@ def main():
     current_run_id = 1 # on commence à 1 pour l'exercice 1
     
     print(f"Run ID de départ: {current_run_id}")
-    
+
+    """
     # --- Exercise 1: SMART LTN ---    
     # Calcul des statistiques pour LTN
     ranker_ltn = compute_statistics(exercise_num=1, index_data=index_no_stop_no_stem, weighting_scheme="ltn")
@@ -322,9 +323,9 @@ def main():
     ranker_bm25 = compute_statistics(exercise_num=3, index_data=index_no_stop_no_stem, weighting_scheme="bm25")
     generate_inex_run(current_run_id, ranker_bm25, queries, "bm25", "article", "nostem", "nostop")
     current_run_id += 1
-        
+    """
     
-    # --- Exercise 4 & 5: test runs avec variantes d'index (12 combinaisons) ---
+    # --- Exercise 4: test runs avec variantes d'index (12 combinaisons) ---
     weighting_schemes = ["ltn", "ltc", "bm25"]
     indexers = [index_no_stop_no_stem, index_stop_no_stem, index_no_stop_stem, index_stop_stem]
 
@@ -345,7 +346,7 @@ def main():
             
             current_run_id += 1
         
-    
+    """
     # --- Exercise 5: Test d'autres méthode de Tokenization, stemmer, stop-words, weighting ---
     print("\n" + "=" * 60)
     print("EXERCICE 5: EXPLORATION D'AUTRES tokenizer, stemmer, stopwords, weighting")
@@ -359,7 +360,7 @@ def main():
     
     print("\n3. Test des méthodes de tokenization...")
     current_run_id = exercise5_tokenization(data_file_path, queries, current_run_id)
-    
+    """
     
     # --- Exercise 6: BM25 tuning ---
     print("\n" + "=" * 60)
@@ -369,7 +370,7 @@ def main():
     # Utiliser l'index de base (no stop, no stem) pour le tuning
     print("Starting BM25 tuning with base configuration...")
     base_run_id = current_run_id
-    current_run_id = exercice6_bm25_tuning(index_no_stop_no_stem, queries, current_run_id)
+    current_run_id = exercice6_bm25_tuning(index_stop_stem, queries, current_run_id)
     
     print("BM25 tuning completed!")
     print(f"Total runs générés: {current_run_id - base_run_id}")
