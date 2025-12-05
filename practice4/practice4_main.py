@@ -350,7 +350,7 @@ def main():
     # Requêtes 
     queries = {
         2009011: "olive oil health benefit",
-        2009036: "nothing hill film actors", 
+        2009036: "notting hill film actors",
         2009067: "probabilistic models in information retrieval",
         2009073: "web link network analysis",
         2009074: "web ranking scoring algorithm",
