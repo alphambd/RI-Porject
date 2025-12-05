@@ -1,0 +1,317 @@
+---------------------------
+Alpha   DIALLO
+Clément BOULAY
+Ana     SANOU
+---------------------------
+
+        /////////////////////////////////////////////////////////////
+        *                                                           *
+        *       Rapport - Practice_04_IR_evaluation                 *
+        *                                                           *
+        /////////////////////////////////////////////////////////////
+
+NB : 
+- Au début, on avait rendu 2 runs pour les exercices 1 et 3 qui n'étaient pas corrects pour les raisons suivantes : 
+  * Exercice 1 : 
+    Pour écrire les résultats d'une requete dans un fichier on l'avait mis en mode "w" et pas "a" 
+    pour append, ce qui fait qu'à chaque fois qu'on enregistre les résultats d'une requète, on éfface
+    les résultats des autres requètes, et on se qu'avaec seulement 1500 lignes.
+  
+  * Exercice 3 : 
+    Malgré qu'on essaye d'enregistrer le top 1500 des docs, certains requètes renvoyaient un nombre de docs
+    inférieur à 1500 à cause d'une condition qu'on avait fait pour s'assurer que le socre soit différents 
+    de 0. 
+
+
+=============================================================
+EXERCICE 1: SMART ltn first run 
+=============================================================
+Configuration : 
+- Tokenization : basic (termes sans chiffres ni caractères spéciaux = lettres uniquement)
+- Stop-words : aucun
+- Stemming : aucun
+
+ * Recherche: 'web ranking scoring algorithm' -> termes: ['algorithm', 'ranking', 'scoring', 'web']
+
+STATISTIQUES DE LA COLLECTION:
+- Temps total d'indexation + pondération: 7.45 secondes
+ * Temps d'indexation seul: 7.39 secondes
+ * Temps de pondération: 0.06 secondes
+- Nombre total d'occurrences de tokens: 10913214
+- Nombre de tokens distincts: 257840
+- Longueur moyenne des tokens: 7.62 caractères
+- Nombre total d'occurrences de terms: 10913214
+- Taille du vocabulaire (terms distincts): 206913
+- Longueur moyenne des documents: 1113.14 terms
+- Longueur moyenne des terms: 7.73 caractères
+- Poids du terme 'ranking' dans le document #23724: 2.367428
+- RSV du document #23724 pour 'web ranking scoring algorithm': 7.120702
+- TOP-10 DOCUMENTS pour 'web ranking scoring algorithm':
+   1. Doc 23724: 7.120702
+   2. Doc 448834: 6.109854
+   3. Doc 207747: 5.771573
+   4. Doc 18336216: 5.700556
+   5. Doc 2292623: 5.324282
+   6. Doc 2606518: 5.244861
+   7. Doc 6861556: 5.219977
+   8. Doc 18963457: 5.199142
+   9. Doc 363695: 5.192849
+  10. Doc 719095: 5.145851
+
+
+=============================================================
+EXERCICE 2: SMART ltc first run 
+=============================================================
+Configuration : 
+- Tokenization : basic (termes sans chiffres ni caractères spéciaux = lettres uniquement)
+- Stop-words : aucun
+- Stemming : aucun
+
+ * Recherche: 'web ranking scoring algorithm' -> termes: ['algorithm', 'ranking', 'scoring', 'web']
+
+STATISTIQUES DE LA COLLECTION:
+- Temps total d'indexation + pondération: 8.26 secondes
+ * Temps d'indexation seul: 8.20 secondes
+ * Temps de pondération: 0.06 secondes
+- Nombre total d'occurrences de tokens: 10913214
+- Nombre de tokens distincts: 257840
+- Longueur moyenne des tokens: 7.62 caractères
+- Nombre total d'occurrences de terms: 10913214
+- Taille du vocabulaire (terms distincts): 206913
+- Longueur moyenne des documents: 1113.14 terms
+- Longueur moyenne des terms: 7.73 caractères
+- Poids du terme 'ranking' dans le document #23724: 0.035820
+- RSV du document #23724 pour 'web ranking scoring algorithm': 0.107737
+- TOP-10 DOCUMENTS pour 'web ranking scoring algorithm':
+   1. Doc 2363262: 0.293410
+   2. Doc 5883652: 0.252562
+   3. Doc 10416781: 0.234339
+   4. Doc 8080270: 0.230781
+   5. Doc 9981737: 0.227433
+   6. Doc 18622152: 0.213051
+   7. Doc 14199294: 0.198001
+   8. Doc 8908590: 0.192732
+   9. Doc 18096221: 0.192421
+  10. Doc 19413518: 0.192023
+
+
+=============================================================
+EXERCICE 3: BM25 first run 
+=============================================================
+Configuration : 
+- Tokenization : basic (termes sans chiffres ni caractères spéciaux = lettres uniquement)
+- Stop-words : aucun
+- Stemming : aucun
+- Configuration: BM25 - k1=1.2, b=0.75
+
+ * Recherche: 'web ranking scoring algorithm' -> termes: ['algorithm', 'ranking', 'scoring', 'web']
+
+STATISTIQUES DE LA COLLECTION:
+- Temps total d'indexation + pondération: 7.85 secondes
+ * Temps d'indexation seul: 7.79 secondes
+ * Temps de pondération: 0.06 secondes
+- Nombre total d'occurrences de tokens: 10913214
+- Nombre de tokens distincts: 257840
+- Longueur moyenne des tokens: 7.62 caractères
+- Nombre total d'occurrences de terms: 10913214
+- Taille du vocabulaire (terms distincts): 206913
+- Longueur moyenne des documents: 1113.14 terms
+- Longueur moyenne des terms: 7.73 caractères
+- Poids du terme 'ranking' dans le document #23724: 1.841461
+- RSV du document #23724 pour 'web ranking scoring algorithm': 4.856497
+- TOP-10 DOCUMENTS pour 'web ranking scoring algorithm':
+   1. Doc 14199294: 4.913212
+   2. Doc 23724: 4.856497
+   3. Doc 6415715: 4.793256
+   4. Doc 14492849: 4.721121
+   5. Doc 11044649: 4.564476
+   6. Doc 14790373: 4.537333
+   7. Doc 5822019: 4.505109
+   8. Doc 5883652: 4.482158
+   9. Doc 8317522: 4.472309
+  10. Doc 926677: 4.471722
+
+
+=============================================================
+EXERCICE 4: test runs 
+=============================================================
+Configuration : 
+- Weighting : LTN, LTC, BM25 (3)
+- Stemming : nostem, porter (2)  
+- Stop-words : nostop, stop671 (2)
+- Total : 3 × 2 × 2 = 12 runs
+
+PERFORMANCES TRIEES SELON < MAgP >:
+----------------------------
+Rang | Run | MAgP | iP[0.1]
+-----|-----|------|---------
+1 | 6_test_bm25_article_stop671_nostem_k1_1.2_b_0.75 | 0.1766 | 0.4158
+2 | 12_test_bm25_article_stop671_porter_k1_1.2_b_0.75 | 0.1630 | 0.4856
+3 | 1_test_ltn_article_nostop_nostem | 0.1601 | 0.3761
+4 | 4_test_ltn_article_stop671_nostem | 0.1459 | 0.3391
+5 | 3_test_bm25_article_nostop_nostem_k1_1.2_b_0.75 | 0.1317 | 0.3139
+6 | 7_test_ltn_article_nostop_porter | 0.1261 | 0.3034
+7 | 10_test_ltn_article_stop671_porter | 0.1256 | 0.3014
+8 | 9_test_bm25_article_nostop_porter_k1_1.2_b_0.75 | 0.0993 | 0.2780
+9 | 11_test_ltc_article_stop671_porter | 0.0415 | 0.0971
+10 | 8_test_ltc_article_nostop_porter | 0.0413 | 0.0922
+11 | 5_test_ltc_article_stop671_nostem | 0.0353 | 0.0670
+12 | 2_test_ltc_article_nostop_nostem | 0.0349 | 0.0669
+
+OBSERVATIONS :
+------------------------------------------------------
+I - Classement des performances  : top 3 des configurations 
+  1. BM25 + stop671 + nostem (MAgP: 0.1766)
+  2. BM25 + stop671 + porter (MAgP: 0.1630)
+  3. LTN + nostop + nostem (MAgP: 0.1601)
+
+II - 
+B) Impact des fonctions de pondération : BM25 > LTN > LTC
+- BM25 : ses 4 runs sont dans le top 8, dont les 2 premiers
+- LTN : performance stable sur différentes configurations, dans le top 8, aprtir de la 3e place
+- LTC : pass assez performant, occupe les 4 dernières places.
+
+C) Impact des stop-words : 
+- Amélioration pour BM25 : 
+  BM25 + stop671 (runs #6 et #12) : MAgP 0.1766 et 0.1630
+  BM25 + stop671 (runs #6 et #12) : MAgP 0.1766 et 0.1630
+
+- Impact nuancé pour LTN : réduit légèrement le MAgP mais améliorent potentiellement la précision
+  LTN + nostop (run #1) : MAgP 0.1601 (3ème position)
+  LTN + stop671 (runs #4 et #10) : MAgP 0.1459 et 0.1256
+
+- Pas d'amélioration significative pour LTC : 
+  Les performances restent faibles dans les deux cas
+
+D) Impact du stemming : globalement négatif
+  Seule combinaison bénéfique : BM25 + stop671 + porter (2ème position)
+
+
+=============================================================
+EXERCICE 5: Tokenization, stemmer, stop-words, weighting 
+=============================================================
+                
+                ANALYSE LIMITE (A compléter)
+                
+Configuration : 
+- Weighting : LTN, LTC, BM25 (3)
+- Tokenization : extended, hyphen, apostrophe (3)
+- Stemming : snowball (1)  
+- Stop-words : stop319, stop733 (2)
+- Total : 3 × (3 + 1 + 2) = 18 runs
+
+PETFORMANCES TEMPORELLES :
+----------------------------------------------------------------------
+Run ID Configuration                       Weighting Temps Indexation
+----------------------------------------------------------------------
+1      Tokenization étendue                LTN      8.64           s
+2      Tokenization étendue                LTC      8.64           s
+3      Tokenization étendue                BM25     8.64           s
+4      Tokenization avec traits d'union    LTN      8.94           s
+5      Tokenization avec traits d'union    LTC      8.94           s
+6      Tokenization avec traits d'union    BM25     8.94           s
+7      Tokenization avec apostrophes       LTN      8.57           s
+8      Tokenization avec apostrophes       LTC      8.57           s
+9      Tokenization avec apostrophes       BM25     8.57           s
+10     Stemmer Snowball                    LTN      86.11          s
+11     Stemmer Snowball                    LTC      86.11          s
+12     Stemmer Snowball                    BM25     86.11          s
+13     Stop-words 319                      LTN      8.53           s
+14     Stop-words 319                      LTC      8.53           s
+15     Stop-words 319                      BM25     8.53           s
+16     Stop-words 733                      LTN      8.44           s
+17     Stop-words 733                      LTC      8.44           s
+18     Stop-words 733                      BM25     8.44           s
+
+OBSERVATIONS : 
+- Le temps varie très légèrement pour toutes les configurations, 
+  SAUF pour le stemming avec Snowball qui prend un temps anormalement élevé.
+
+
+=============================================================
+EXERCICE 6: BM25 tuning 
+=============================================================
+Configuration : 
+- b : 11 valeurs (0.0 à 1.0, step 0.1) avec k1=1.2
+- k1 : 21 valeurs (0.0 à 4.0, step 0.2) avec b=0.75
+- Total : 32 runs de tuning
+
+PERFORMANCES TRIEES SELON < MAgP >:
+----------------------------
+Rang | Run | MAgP | iP[0.1]
+-----|-----|------|---------
+1 | 30_test_bm25_article_stop671_nostem_k1_1.2_b_0.75 | 0.1766 | 0.4158
+2 | 19_test_bm25_article_stop671_porter_k1_1.2_b_0.6 | 0.1758 | 0.4132
+3 | 18_test_bm25_article_stop671_porter_k1_1.2_b_0.5 | 0.1739 | 0.4073
+4 | 20_test_bm25_article_stop671_porter_k1_1.2_b_0.7 | 0.1729 | 0.4916
+5 | 17_test_bm25_article_stop671_porter_k1_1.2_b_0.4 | 0.1726 | 0.4007
+6 | 16_test_bm25_article_stop671_porter_k1_1.2_b_0.3 | 0.1675 | 0.4030
+7 | 25_test_bm25_article_stop671_porter_k1_0.2_b_0.75 | 0.1670 | 0.4989
+8 | 26_test_bm25_article_stop671_porter_k1_0.4_b_0.75 | 0.1653 | 0.4989
+9 | 27_test_bm25_article_stop671_porter_k1_0.6_b_0.75 | 0.1648 | 0.4948
+10 | 28_test_bm25_article_stop671_porter_k1_0.8_b_0.75 | 0.1643 | 0.4913
+11 | 29_test_bm25_article_stop671_porter_k1_1.0_b_0.75 | 0.1634 | 0.4914
+12 | 15_test_bm25_article_stop671_porter_k1_1.2_b_0.2 | 0.1625 | 0.3435
+13 | 31_test_bm25_article_stop671_porter_k1_1.4_b_0.75 | 0.1608 | 0.4858
+14 | 32_test_bm25_article_stop671_porter_k1_1.6_b_0.75 | 0.1597 | 0.4859
+15 | 21_test_bm25_article_stop671_porter_k1_1.2_b_0.8 | 0.1544 | 0.4705
+16 | 33_test_bm25_article_stop671_porter_k1_1.8_b_0.75 | 0.1539 | 0.4812
+17 | 34_test_bm25_article_stop671_porter_k1_2.0_b_0.75 | 0.1535 | 0.4767
+18 | 35_test_bm25_article_stop671_porter_k1_2.2_b_0.75 | 0.1511 | 0.4771
+19 | 36_test_bm25_article_stop671_porter_k1_2.4_b_0.75 | 0.1497 | 0.4750
+20 | 37_test_bm25_article_stop671_porter_k1_2.6_b_0.75 | 0.1491 | 0.4753
+21 | 14_test_bm25_article_stop671_porter_k1_1.2_b_0.1 | 0.1456 | 0.3238
+22 | 13_test_bm25_article_stop671_porter_k1_1.2_b_0.0 | 0.1455 | 0.3055
+23 | 38_test_bm25_article_stop671_porter_k1_2.8_b_0.75 | 0.1446 | 0.4661
+24 | 39_test_bm25_article_stop671_porter_k1_3.0_b_0.75 | 0.1432 | 0.4589
+25 | 22_test_bm25_article_stop671_porter_k1_1.2_b_0.9 | 0.1359 | 0.3938
+26 | 40_test_bm25_article_stop671_porter_k1_3.2_b_0.75 | 0.1279 | 0.3899
+27 | 41_test_bm25_article_stop671_porter_k1_3.4_b_0.75 | 0.1264 | 0.3899
+28 | 42_test_bm25_article_stop671_porter_k1_3.6_b_0.75 | 0.1264 | 0.3903
+29 | 43_test_bm25_article_stop671_porter_k1_3.8_b_0.75 | 0.1256 | 0.3892
+30 | 44_test_bm25_article_stop671_porter_k1_4.0_b_0.75 | 0.1255 | 0.3838
+31 | 23_test_bm25_article_stop671_porter_k1_1.2_b_1.0 | 0.1096 | 0.2780
+32 | 24_test_bm25_article_stop671_porter_k1_0.0_b_0.75 | 0.0425 | 0.0916
+
+OBSERVATIONS :
+------------------------------------------------------
+I - Classement des performances : 5 des configurations optimisées
+  1. k1=1.2, b=0.75 (nostem) - MAgP: 0.1766 ⭐
+  2. k1=1.2, b=0.6 (porter) - MAgP: 0.1758
+  3. k1=1.2, b=0.5 (porter) - MAgP: 0.1739
+  4. k1=1.2, b=0.7 (porter) - MAgP: 0.1729
+  5. k1=1.2, b=0.4 (porter) - MAgP: 0.1726
+
+II - 
+A) Impact du paramètre b (contrôle la normalisation longueur):
+Valeurs optimales de b : 0.4 - 0.7
+
+Amélioration : 
+  b = 0.5-0.7 : MAgP > 0.172 (runs #2-5)
+  b = 0.75 (valeur par défaut) : MAgP 0.1766 (nostem)
+
+Dégradation : 
+  b < 0.3 : Performance dégradée (MAgP < 0.167)
+  b > 0.8 : Chute significative (MAgP < 0.155)
+  b = 1.0 : Pire performance (MAgP 0.1096)
+
+Conclusion : 
+- Une normalisation modérée des longueurs (b ≈ 0.5-0.7) est optimale. 
+- Une normalisation trop forte (b > 0.8) ou trop faible (b < 0.3) nuit aux performances.
+
+B) Impact du paramètre k1 (contrôle la saturation TF)
+Valeurs optimales de k1 : 0.2 - 1.6
+
+Amélioration :
+  k1 = 0.2-1.6 : MAgP > 0.153 (runs #7-17)
+  k1 = 1.2 (valeur par défaut) : MAgP 0.1766 (nostem)
+
+Dégradation :
+  k1 < 0.2 : Performance très faible (MAgP 0.0425)
+  k1 > 2.0 : Dégradation progressive (MAgP < 0.153)
+  k1 = 4.0 : MAgP 0.1255
+
+Conclusion : 
+- BM25 nécessite une saturation TF modérée (k1 ≈ 1.0-1.6). 
+- Des valeurs trop faibles désactivent la saturation, tandis que des valeurs 
+  
