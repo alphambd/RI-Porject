@@ -133,7 +133,7 @@ class RankedRetrieval:
         
         # Tri par score décroissant
         sorted_docs = sorted(doc_scores.items(), key=lambda x: x[1], reverse=True)
-        
+
         return sorted_docs[:top_k]
     
     def get_term_weight(self, term, doc_id, weighting_scheme):

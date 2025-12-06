@@ -195,8 +195,12 @@ class RankedRetrieval:
             #if score > 0:
             #    doc_scores[doc_id] = score
             doc_scores[doc_id] = score # on stock toujours le score, sinon pour bm25 certains run < 10500
-        
-        sorted_docs = sorted(doc_scores.items(), key=lambda x: x[1], reverse=True)
+
+        sorted_docs = sorted(
+            doc_scores.items(),
+            key=lambda x: (-x[1], x[0])
+        )
+
         return sorted_docs[:top_k]
     
     def get_term_weight(self, term, doc_id, weighting_scheme, k1=1.2, b=0.75):
