@@ -2,7 +2,7 @@ import os
 import time
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
-from collections import Counter
+from collections import Counter, defaultdict
 import re
 
 
@@ -208,9 +208,10 @@ def generate_inex_run_with_metadata(run_id, ranker, queries, config_info, print_
     
     # Déterminer le format selon la granularité
     is_element_index = hasattr(index, 'doc_type') and index.doc_type == "element"
-    
     with open(f"data/runs/{filename}", "w", encoding="utf-8") as f:
         for query_id, query_text in queries.items():
+            results = defaultdict(list)
+
             # Recherche
             top_docs = ranker.search_query(
                 query_text, 
@@ -231,14 +232,30 @@ def generate_inex_run_with_metadata(run_id, ranker, queries, config_info, print_
                     metadata = index.get_metadata(doc_id)
                     parent_doc_id = index.get_parent_article_id(doc_id)
                     xml_path = index.get_xml_path(doc_id)
+
+                    results[parent_doc_id].append({
+                        'rank': rank,
+                        'score': score,
+                        'xml_path': xml_path
+                    })
                 else:
                     # Pour les articles, format simple
                     parent_doc_id = doc_id
                     xml_path = "/article[1]"
-                
-                # Format INEX RIC
-                f.write(f"{query_id} Q0 {parent_doc_id} {rank} {score:.6f} {team_name} {xml_path}\n")
-    
+
+                    # Format INEX RIC
+                    f.write(f"{query_id} Q0 {parent_doc_id} {rank} {score:.6f} {team_name} {xml_path}\n")
+
+            #Orddonée en format inex pour les elements
+            if is_element_index:
+                doc_processed = []
+                for doc_id, result in results.items():
+                    result_sorted = sorted(result, key=lambda x: -x['score'])
+
+                    for element in result:
+                        # Format INEX RIC
+                        f.write(f"{query_id} Q0 {doc_id} {element['rank']} {element['score']:.6f} {team_name} {element['xml_path']}\n")
+
     print(f"Run sauvegardé: {filename}")
     return filename
 

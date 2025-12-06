@@ -307,7 +307,7 @@ class WeightedInvertedIndex:
             # Fonction pour extraire récursivement les balises
             def extract_tag_content(tag_name, text, parent_path="", level=0):
                 """Extrait récursivement le contenu d'une balise"""
-                pattern = f'<{tag_name}[^>]*>(.*?)</{tag_name}>'
+                pattern = fr'<{tag_name}[^>]*>((?:(?!<{"|".join(self.target_tags)}>).)*?)</{tag_name}>'
                 matches = list(re.finditer(pattern, text, re.DOTALL | re.IGNORECASE))
                 
                 for i, match in enumerate(matches):
