@@ -104,13 +104,18 @@ def compute_statistics(exercise_num, index_data, weighting_scheme="ltn", k1=1.2,
     
     return ranker
 
-def generate_inex_run(run_id, ranker, queries, weighting_scheme, granularity="article", stemmer="nostem", 
+def generate_inex_run(run_id, ranker, queries, weighting_scheme, test_type=None, granularity="article", stemmer="nostem", 
                       stop_words="nostop", tokenization="basic", k1=1.2, b=0.75, print_top10 = False):
     """Génère un run INEX RIC pour les 7 requêtes"""
     
     # Génération du nom de fichier selon le template
     team_name="AlphaAnaClement"
-    filename = f"{team_name}_{run_id}_test_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+    
+    if test_type is None:
+        filename = f"{team_name}_{run_id}_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+    else:
+        filename = f"{team_name}_{run_id}_{test_type}_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+    
     if tokenization != "basic":
         filename += f"_{tokenization}"
     if weighting_scheme == "bm25":
@@ -139,33 +144,6 @@ def generate_inex_run(run_id, ranker, queries, weighting_scheme, granularity="ar
     print(f"Run sauvegardé: {filename} ({len(queries)} requêtes, 1500 documents par requête)")
     return filename
 
-
-def exercise5_tokenization(data_file_path, queries, start_run_id):
-    """Teste différentes méthodes de tokenization avec compute_statistics"""
-    
-    tokenizations = ["extended", "hyphen", "apostrophe"]
-    weightings = ["ltn", "ltc", "bm25"]
-    
-    current_run_id = start_run_id
-    
-    for tokenization in tokenizations:
-        print(f"\n--- Testing tokenization: {tokenization} ---")
-        
-        # Créer l'index avec la configuration de tokenization
-        index_data = create_index_with_config(data_file_path, tokenization, "nostem", "nostop")
-        
-        for weighting in weightings:
-            print(f"  - Avec {weighting.upper()}")
-            
-            # Calcul des statistiques détaillées avec compute_statistics
-            ranker_result = compute_statistics(5, index_data, weighting)
-            
-            # Génération du run pour toutes les requêtes
-            generate_inex_run(current_run_id, ranker_result, queries, weighting, "article", "nostem", "nostop", tokenization)
-            
-            current_run_id += 1
-    
-    return current_run_id
 """
 def exercise5_complete_analysis(data_file_path, queries, start_run_id):
     #Analyse complète des nouvelles configurations de l'exercice 5#
@@ -304,7 +282,7 @@ def exercise5_complete_analysis(data_file_path, queries, start_run_id):
     
     return current_run_id
 
-def exercice6_bm25_tuning(index_data, queries, start_run_id):
+def exercice6_bm25_tuning(index_data, queries, start_run_id, test_type="tuning"):
     """Version optimisée du tuning BM25 - génère seulement les runs sans statistiques détaillées"""
     b_values = [round(i * 0.1, 1) for i in range(11)]  # 0.0 à 1.0 step 0.1
     k1_values = [round(i * 0.2, 1) for i in range(21)]  # 0.0 à 4.0 step 0.2
@@ -327,7 +305,7 @@ def exercice6_bm25_tuning(index_data, queries, start_run_id):
         print(f"Testing b={b} with k1=1.2, run_id={run_id}")
         
         # Génération directe du run sans calcul de statistiques
-        generate_inex_run(run_id, ranker, queries, "bm25", "article", stemmer, stopwords, tokenizer, 1.2, b)
+        generate_inex_run(run_id, ranker, queries, "bm25", test_type, "article", stemmer, stopwords, tokenizer, 1.2, b)
         
         run_id += 1
 
@@ -336,7 +314,7 @@ def exercice6_bm25_tuning(index_data, queries, start_run_id):
         print(f"Testing k1={k1} with b=0.75, run_id={run_id}")
         
         # Génération directe du run sans calcul de statistiques
-        generate_inex_run(run_id, ranker, queries, "bm25", "article", stemmer, stopwords, tokenizer, k1, 0.75)
+        generate_inex_run(run_id, ranker, queries, "bm25", test_type, "article", stemmer, stopwords, tokenizer, k1, 0.75)
         
         run_id += 1
     
@@ -378,19 +356,19 @@ def main():
     # Calcul des statistiques pour LTN
     ranker_ltn = compute_statistics(exercise_num=1, index_data=index_no_stop_no_stem, weighting_scheme="ltn")
     # Génération du run INEX pour LTN
-    generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", "article", "nostem", "nostop")
+    generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", None, "article", "nostem", "nostop")
     current_run_id += 1
     
     # --- Exercise 2: SMART LTC ---
     ranker_ltc = compute_statistics(exercise_num=2, index_data=index_no_stop_no_stem, weighting_scheme="ltc")
-    generate_inex_run(current_run_id, ranker_ltc, queries, "ltc", "article", "nostem", "nostop")
+    generate_inex_run(current_run_id, ranker_ltc, queries, "ltc", None, "article", "nostem", "nostop")
     current_run_id += 1
     
     # --- Exercise 3: BM25 (k1 et b par défaut, si BM25) ---
     ranker_bm25 = compute_statistics(exercise_num=3, index_data=index_no_stop_no_stem, weighting_scheme="bm25")
-    generate_inex_run(current_run_id, ranker_bm25, queries, "bm25", "article", "nostem", "nostop")
-    current_run_id += 1
-    
+    generate_inex_run(current_run_id, ranker_bm25, queries, "bm25", None, "article", "nostem", "nostop")
+    #current_run_id += 1
+    current_run_id = 1
     
     # --- Exercise 4: test runs avec variantes d'index (12 combinaisons) ---
     weighting_schemes = ["ltn", "ltc", "bm25"]
@@ -409,11 +387,12 @@ def main():
             ranker_result = compute_statistics(4, index_data, weighting)   
             
             # Génération du run pour les 7 requêtes 
-            generate_inex_run(current_run_id, ranker_result, queries, weighting, "article", stemmer_name, stop_name)
+            generate_inex_run(current_run_id, ranker_result, queries, weighting, test_type="test", granularity="article", stemmer=stemmer_name, stop_words=stop_name)
             
             current_run_id += 1
-
     
+
+    current_run_id = 1 # reset for exercise 5
     # --- Exercise 5: Test d'autres méthode de Tokenization, stemmer, stop-words, weighting ---
     start_run_id_ex5 = current_run_id
     current_run_id = exercise5_complete_analysis(data_file_path, queries, current_run_id)
@@ -426,17 +405,18 @@ def main():
     print(f"Runs générés: {total_runs_ex5}")
     print(f"Run ID final: {current_run_id}")
     print("Toutes les configurations ont été testées avec succès.")
-
-        
+    
+    
     # --- Exercise 6: BM25 tuning ---
     print("\n" + "=" * 60)
     print("EXERCICE 6: BM25 TUNING")
     print("=" * 60)
 
+    current_run_id = 1  # reset for exercise 6
     # Utiliser l'index de base (no stop, no stem) pour le tuning
     print("Starting BM25 tuning with base configuration...")
     start_run_id_ex6 = current_run_id
-    current_run_id = exercice6_bm25_tuning(index_stop_stem, queries, current_run_id)
+    current_run_id = exercice6_bm25_tuning(index_stop_stem, queries, current_run_id, test_type="tuning")
     
     print("BM25 tuning completed!")
     print(f"Total runs générés: {current_run_id - start_run_id_ex6}")
@@ -445,10 +425,11 @@ def main():
 
 if __name__ == "__main__":
      # Nettoyer le dossier runs au début
+    
     if os.path.exists("data/runs"):
         for file in os.listdir("data/runs"):
             if file.endswith(".txt"):
                 os.remove(os.path.join("data/runs", file))
         print("Dossier 'runs' nettoyé")
-
+    
     main()

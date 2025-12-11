@@ -140,13 +140,18 @@ def compute_statistics(exercise_num, index_data, weighting_scheme="ltn", k1=1.2,
     
     return ranker
 
-def generate_inex_run(run_id, ranker, queries, weighting_scheme, type_test=None, granularity="article", stemmer="nostem", 
+def generate_inex_run(run_id, ranker, queries, weighting_scheme, test_type=None, granularity="article", stemmer="nostem", 
                       stop_words="nostop", tokenization="basic", k1=1.2, b=0.75, print_top10 = False):
     """Génère un run INEX RIC pour les 7 requêtes"""
     
     # Génération du nom de fichier selon le template
     team_name="AlphaAnaClement"
-    filename = f"{team_name}_{run_id}_{type_test}_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+
+    if test_type is None:
+        filename = f"{team_name}_{run_id}_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+    else:
+        filename = f"{team_name}_{run_id}_{test_type}_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+    
     if tokenization != "basic":
         filename += f"_{tokenization}"
     if weighting_scheme == "bm25":
@@ -295,6 +300,91 @@ def exercice_3(queries, run_id):
     print(f"\nExercice 3 terminé: {filename}")
     return run_id, index_data, ranker
 
+def exercice_4(queries, current_run_id):
+    """Exercice 4: Création de runs d'éléments XML avec différentes configurations"""
+    print("\n" + "="*60)
+    print("EXERCICE 4: XML elements runs")
+    print("="*60)
+    
+    xml_dir = "data/Practice_05_data/XML-Coll-withSem"
+    
+    # Configurations à tester (vous pouvez en ajouter d'autres)
+    configurations = [
+        {
+            'target_tags': ['bdy', 'sec', 'p'],
+            'tokenization': 'basic',
+            'stemmer': 'nostem',
+            'stop_words': 'nostop',
+            'weighting_scheme': 'ltn'
+        },
+        {
+            'target_tags': ['bdy', 'sec', 'p'],
+            'tokenization': 'basic',
+            'stemmer': 'porter',
+            'stop_words': 'nostop',
+            'weighting_scheme': 'ltc'
+        },
+        {
+            'target_tags': ['bdy', 'sec'],
+            'tokenization': 'basic',
+            'stemmer': 'nostem',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.2,
+            'b': 0.75
+        },
+        {
+            'target_tags': ['bdy', 'sec', 'p'],
+            'tokenization': 'extended',
+            'stemmer': 'porter',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.5,
+            'b': 0.8
+        }
+    ]
+    
+    for i, config in enumerate(configurations):
+        print(f"\nConfiguration {i+1}/{len(configurations)}:")
+        print(f"  Tags: {config['target_tags']}")
+        print(f"  Pondération: {config['weighting_scheme']}")
+        print(f"  Stemmer: {config['stemmer']}")
+        print(f"  Stop-words: {config['stop_words']}")
+        
+        # Créer l'index
+        index_data = create_element_index_with_config(
+            xml_dir,
+            target_tags=config['target_tags'],
+            tokenization=config['tokenization'],
+            stemmer=config['stemmer'],
+            stop_words=config['stop_words']
+        )
+        
+        # Créer le ranker
+        ranker = RankedRetrieval(index_data['index'])
+        
+        # Configuration pour le run
+        granularity_str = '-'.join(config['target_tags'])
+        config_info = {
+            'type_test': 'element_run',
+            'weighting_scheme': config['weighting_scheme'],
+            'granularity': f'element-{granularity_str}',
+            'stemmer': config['stemmer'],
+            'stop_words': config['stop_words'],
+            'tokenization': config['tokenization']
+        }
+        
+        if 'k1' in config:
+            config_info['k1'] = config['k1']
+            config_info['b'] = config['b']
+        
+        # Générer le run
+        filename = generate_inex_run_with_metadata(current_run_id, ranker, queries, config_info, print_top10=True )
+        
+        current_run_id += 1
+    
+    return current_run_id
+
 def main():
     #data_file_path = "data/Text_Only_Ascii_Coll_NoSem"
     data_file_path = "data/Practice_05_data/XML-Coll-withSem"
@@ -317,6 +407,7 @@ def main():
     index_no_stop_stem = create_index_with_config(data_file_path, "basic", "porter", "nostop")
     index_stop_stem = create_index_with_config(data_file_path, "basic", "porter", "stop671")
     
+
     # Créer le répertoire runs s'il n'existe pas
     os.makedirs(runs_dir, exist_ok=True)
 
@@ -331,11 +422,12 @@ def main():
     # Calcul des statistiques pour LTN
     ranker_ltn = compute_statistics(exercise_num=1, index_data=index_no_stop_no_stem, weighting_scheme="ltn")
     # Génération du run INEX pour LTN
-    generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", "article", "nostem", "nostop")
-    current_run_id += 1
+    generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", None, "article", "nostem", "nostop")
+    #current_run_id += 1
     
     
     # --- Exercise 2: test runs avec variantes d'index (12 combinaisons) ---
+    current_run_id = 1 # on recommence à 1 pour l'exercice 2
     weighting_schemes = ["ltn", "ltc", "bm25"]
     indexers = [index_no_stop_no_stem, index_stop_no_stem, index_no_stop_stem, index_stop_stem]
 
@@ -356,9 +448,15 @@ def main():
             
             current_run_id += 1
     
+    
     # --- Exercise 3: Indexing XML elements (SMART ltn) ---
+    current_run_id = 1 # on recommence à 1 pour l'exercice 3
     current_run_id, _, _ = exercice_3(queries, current_run_id)
-
+    
+    # --- Exercise 4: XML elements runs with different configurations ---
+    current_run_id = 1 
+    current_run_id = exercice_4(queries, current_run_id)
+    
 
 if __name__ == "__main__":
      # Nettoyer le dossier runs au début
