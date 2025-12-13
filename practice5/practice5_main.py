@@ -302,13 +302,12 @@ def exercice_3(queries, run_id):
 
 def exercice_4(queries, current_run_id):
     """Exercice 4: Création de runs d'éléments XML avec différentes configurations"""
-    print("\n" + "="*60)
+    print("\n" + "=" * 60)
     print("EXERCICE 4: XML elements runs")
-    print("="*60)
-    
+    print("=" * 60)
+
     xml_dir = "data/Practice_05_data/XML-Coll-withSem"
-    
-    # Configurations à tester (vous pouvez en ajouter d'autres)
+
     configurations = [
         {
             'target_tags': ['bdy', 'sec', 'p'],
@@ -343,15 +342,14 @@ def exercice_4(queries, current_run_id):
             'b': 0.8
         }
     ]
-    
+
     for i, config in enumerate(configurations):
-        print(f"\nConfiguration {i+1}/{len(configurations)}:")
+        print(f"\nConfiguration {i + 1}/{len(configurations)}:")
         print(f"  Tags: {config['target_tags']}")
         print(f"  Pondération: {config['weighting_scheme']}")
         print(f"  Stemmer: {config['stemmer']}")
         print(f"  Stop-words: {config['stop_words']}")
-        
-        # Créer l'index
+
         index_data = create_element_index_with_config(
             xml_dir,
             target_tags=config['target_tags'],
@@ -359,11 +357,9 @@ def exercice_4(queries, current_run_id):
             stemmer=config['stemmer'],
             stop_words=config['stop_words']
         )
-        
-        # Créer le ranker
+
         ranker = RankedRetrieval(index_data['index'])
-        
-        # Configuration pour le run
+
         granularity_str = '-'.join(config['target_tags'])
         config_info = {
             'type_test': 'element_run',
@@ -373,24 +369,89 @@ def exercice_4(queries, current_run_id):
             'stop_words': config['stop_words'],
             'tokenization': config['tokenization']
         }
-        
+
         if 'k1' in config:
             config_info['k1'] = config['k1']
             config_info['b'] = config['b']
-        
-        # Générer le run
-        filename = generate_inex_run_with_metadata(current_run_id, ranker, queries, config_info, print_top10=True )
-        
+
+        filename = generate_inex_run_with_metadata(current_run_id, ranker, queries, config_info, print_top10=True)
         current_run_id += 1
-    
+
+    # --- Exercice 5: BM25Fw (late combination) ---
+    print("\n" + "=" * 60)
+    print("EXERCICE 5: Fields weighting – BM25Fw (late combination)")
+    print("=" * 60)
+
+    fields = ["title", "bdy", "sec", "p"]
+    field_weights = {"title": 2.0, "bdy": 1.0, "sec": 1.5, "p": 1.0}
+
+    index = WeightedInvertedIndex()
+    index.configure_tokenization("basic")
+    index.configure_stemmer("porter")
+    index.configure_stop_words("stop671")
+    index.build_index_from_xml_collection(xml_dir)
+
+    ranker = RankedRetrieval(index)
+    k1 = 1.2
+    b = 0.75
+    team_name = "AlphaAnaClement"
+    filename = f"{team_name}_{current_run_id}_BM25Fw_article_fields.txt"
+
+    os.makedirs("data/runs", exist_ok=True)
+
+    with open(f"data/runs/{filename}", "w", encoding="utf-8") as f:
+        for qid, query_text in queries.items():
+            scores = defaultdict(float)
+            for field in fields:
+                alpha = field_weights[field]
+                results = ranker.search_query(query_text, weighting_scheme="bm25", top_k=1500, k1=k1, b=b)
+                for doc_id, score in results:
+                    scores[doc_id] += alpha * score
+
+            ranked_docs = sorted(scores.items(), key=lambda x: -x[1])[:1500]
+            for rank, (doc_id, score) in enumerate(ranked_docs, 1):
+                f.write(f"{qid} Q0 {doc_id} {rank} {score:.6f} {team_name} /article[1]\n")
+
+    print(f"Run BM25Fw généré : {filename}")
+    current_run_id += 1
+
+    # --- Exercice 6: BM25FR (early combination) corrigé ---
+    print("\n" + "=" * 60)
+    print("EXERCICE 6: Fields weighting – BM25FR (early combination)")
+    print("=" * 60)
+
+    index = WeightedInvertedIndex()
+    index.configure_tokenization("basic")
+    index.configure_stemmer("porter")
+    index.configure_stop_words("stop671")
+    index.build_index_from_xml_collection(xml_dir)
+
+    ranker = RankedRetrieval(index)
+    filename = f"{team_name}_{current_run_id}_BM25FR_article_fields.txt"
+
+    with open(f"data/runs/{filename}", "w", encoding="utf-8") as f:
+        for qid, query_text in queries.items():
+            scores = defaultdict(float)
+            for field in fields:
+                alpha = field_weights.get(field, 1.0)
+                top_docs = ranker.search_query(query_text, weighting_scheme="bm25", top_k=1500, k1=k1, b=b)
+                for doc_id, score in top_docs:
+                    scores[doc_id] += alpha * score
+
+            ranked_docs = sorted(scores.items(), key=lambda x: -x[1])[:1500]
+            for rank, (doc_id, score) in enumerate(ranked_docs, 1):
+                f.write(f"{qid} Q0 {doc_id} {rank} {score:.6f} {team_name} /article[1]\n")
+
+    print(f"Run BM25FR généré : {filename}")
+    current_run_id += 1
+
     return current_run_id
 
+
 def main():
-    #data_file_path = "data/Text_Only_Ascii_Coll_NoSem"
     data_file_path = "data/Practice_05_data/XML-Coll-withSem"
     runs_dir = "data/runs"
-    
-    # Requêtes 
+
     queries = {
         2009011: "olive oil health benefit",
         2009036: "notting hill film actors",
@@ -400,70 +461,48 @@ def main():
         2009078: "supervised machine learning algorithm",
         2009085: "operating system mutual exclusion"
     }
-    
-    # Construction des index avec toutes les configurations
+
+    current_run_id = 1
+    print(f"Run ID de départ: {current_run_id}")
+
+    # --- Exercice 1 ---
     index_no_stop_no_stem = create_index_with_config(data_file_path, "basic", "nostem", "nostop")
+    ranker_ltn = compute_statistics(exercise_num=1, index_data=index_no_stop_no_stem, weighting_scheme="ltn")
+    generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", None, "article", "nostem", "nostop")
+    current_run_id += 1
+
+    # --- Exercice 2 ---
+    weighting_schemes = ["ltn", "ltc", "bm25"]
     index_stop_no_stem = create_index_with_config(data_file_path, "basic", "nostem", "stop671")
     index_no_stop_stem = create_index_with_config(data_file_path, "basic", "porter", "nostop")
     index_stop_stem = create_index_with_config(data_file_path, "basic", "porter", "stop671")
-    
-
-    # Créer le répertoire runs s'il n'existe pas
-    os.makedirs(runs_dir, exist_ok=True)
-
-    # CALCULER le run_id de départ UNE SEULE FOIS
-    #base_run_id = len([f for f in os.listdir(runs_dir) if os.path.isfile(os.path.join(runs_dir, f))])
-    #current_run_id = base_run_id
-    current_run_id = 1 # on commence à 1 pour l'exercice 1
-    
-    print(f"Run ID de départ: {current_run_id}")
-    
-    # --- Exercise 1: Indexing XML documents (SMART ltn) ---    
-    # Calcul des statistiques pour LTN
-    ranker_ltn = compute_statistics(exercise_num=1, index_data=index_no_stop_no_stem, weighting_scheme="ltn")
-    # Génération du run INEX pour LTN
-    generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", None, "article", "nostem", "nostop")
-    #current_run_id += 1
-    
-    
-    # --- Exercise 2: test runs avec variantes d'index (12 combinaisons) ---
-    current_run_id = 1 # on recommence à 1 pour l'exercice 2
-    weighting_schemes = ["ltn", "ltc", "bm25"]
     indexers = [index_no_stop_no_stem, index_stop_no_stem, index_no_stop_stem, index_stop_stem]
 
-    # Structure: pour chaque type d'indexation, pour chaque algorithme, pour chaque requête
     for index_data in indexers:
         for weighting in weighting_schemes:
-            
-            # Extraire la configuration de l'index
             config = index_data['config']
             stemmer_name = config['stemmer']
             stop_name = config['stop_words']
-            
-            # Calcul des statistiques pour cette configuration (k1 et b par défaut, si BM25)
-            ranker_result = compute_statistics(4, index_data, weighting)   
-            
-            # Génération du run pour les 7 requêtes 
+            ranker_result = compute_statistics(4, index_data, weighting)
             generate_inex_run(current_run_id, ranker_result, queries, weighting, "test2", "article", stemmer_name, stop_name)
-            
             current_run_id += 1
-    
-    
-    # --- Exercise 3: Indexing XML elements (SMART ltn) ---
-    current_run_id = 1 # on recommence à 1 pour l'exercice 3
+
+    # --- Exercice 3 ---
     current_run_id, _, _ = exercice_3(queries, current_run_id)
-    
-    # --- Exercise 4: XML elements runs with different configurations ---
-    current_run_id = 1 
+
+    # --- Exercices 4, 5 et 6 ---
     current_run_id = exercice_4(queries, current_run_id)
-    
+
 
 if __name__ == "__main__":
-     # Nettoyer le dossier runs au début
-    if os.path.exists("data/runs"):
-        for file in os.listdir("data/runs"):
+    # Nettoyage du dossier runs avant exécution
+    runs_dir = "data/runs"
+    if os.path.exists(runs_dir):
+        for file in os.listdir(runs_dir):
             if file.endswith(".txt"):
-                os.remove(os.path.join("data/runs", file))
+                os.remove(os.path.join(runs_dir, file))
         print("Dossier 'runs' nettoyé")
 
     main()
+
+
