@@ -239,3 +239,39 @@ class RankedRetrieval:
             os.remove(cache_file)
             self._cosine_norms_cache = None
             print("Cache des normes cosine effacé!")
+    
+    
+    def get_term_weight_cached(self, term, doc_id, weighting_scheme="ltn", k1=1.2, b=0.75):
+        """
+        Version optimisée de get_term_weight avec cache local
+        """
+        # Créer un cache local si nécessaire
+        if not hasattr(self, '_term_weight_cache'):
+            self._term_weight_cache = {}
+        
+        # Clé de cache unique
+        cache_key = (term, doc_id, weighting_scheme, k1, b)
+        
+        if cache_key in self._term_weight_cache:
+            return self._term_weight_cache[cache_key]
+        
+        # Calculer le poids
+        if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+            weight = 0.0
+        else:
+            if weighting_scheme == "ltn":
+                weight = self.smart_ltn_weighting(term, doc_id)
+            elif weighting_scheme == "ltc":
+                # Précharger les normes cosine si nécessaire
+                if self._cosine_norms_cache is None:
+                    self._load_or_compute_cosine_norms()
+                weight = self.smart_ltc_weighting(term, doc_id)
+            elif weighting_scheme == "bm25":
+                weight = self.bm25_weighting(term, doc_id, k1, b)
+            else:
+                weight = 0.0
+        
+        # Mettre en cache
+        self._term_weight_cache[cache_key] = weight
+        return weight
+

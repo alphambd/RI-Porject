@@ -5,6 +5,11 @@ from ranked_retrieval import RankedRetrieval
 from collections import Counter, defaultdict
 import re
 
+from xml_run_manager import (create_index_with_cache, 
+                            create_element_index_with_cache,
+                            generate_fetch_browse_pooling
+                            )
+
 
 def create_index_with_config(data_file_path, tokenization="basic", stemmer="nostem", stop_words="nostop"):
     """Crée un index avec une configuration spécifique et retourne un dictionnaire complet"""
@@ -300,6 +305,56 @@ def exercice_3(queries, run_id):
     print(f"\nExercice 3 terminé: {filename}")
     return run_id, index_data, ranker
 
+
+def exercice_3bis(queries, run_id, top_k=1500, threshold=0.1, prog_interv=250):
+    """Exercice 3bis: Fetch and Browse pooling"""
+    print("\n" + "="*60)
+    print("EXERCICE 3BIS: Fetch and Browse pooling")
+    print("="*60)
+
+    xml_dir = "data/Practice_05_data/XML-Coll-withSem"
+    
+    # Configuration de base 
+    base_config = {
+        'tokenization': 'basic',
+        'stemmer': 'nostem',
+        'stop_words': 'nostop'
+    }
+
+    # Index des articles
+    article_data = create_index_with_cache(xml_dir, base_config)
+    article_ranker = RankedRetrieval(article_data['index'])
+
+    # Index des éléments
+    element_config = base_config.copy()
+    element_data = create_element_index_with_cache(
+        xml_dir, 
+        target_tags=['bdy', 'sec', 'p'], 
+        config_params=element_config
+    )
+    element_ranker = RankedRetrieval(element_data['index'])
+    
+    print(f"SUCCES - Index prêts: {article_data['index'].doc_count} articles, "
+          f"{element_data['index'].doc_count} éléments")
+    
+    print("\n" + "="*60)
+    print("Fetch and Browse avec Pooling et Seuil")
+    print("="*60)
+        
+    run_file = generate_fetch_browse_pooling(
+        run_id=f"run{run_id}_threshold_{int(threshold*1000)}",
+        article_ranker=article_ranker,
+        element_ranker=element_ranker,
+        queries=queries,
+        top_articles=top_k, # Nombre d'articles à récupérer initialement  
+        score_threshold=threshold,
+        progress_interval=prog_interv  # fréquence d'affichage du messages de progression
+    )
+    
+    run_id += 1
+    print(f"\nExercice 3 terminé: {run_file}")
+    return run_id
+
 def exercice_4(queries, current_run_id):
     """Exercice 4: Création de runs d'éléments XML avec différentes configurations"""
     print("\n" + "="*60)
@@ -385,6 +440,8 @@ def exercice_4(queries, current_run_id):
     
     return current_run_id
 
+
+
 def main():
     #data_file_path = "data/Text_Only_Ascii_Coll_NoSem"
     data_file_path = "data/Practice_05_data/XML-Coll-withSem"
@@ -418,6 +475,7 @@ def main():
     
     print(f"Run ID de départ: {current_run_id}")
     
+    """
     # --- Exercise 1: Indexing XML documents (SMART ltn) ---    
     # Calcul des statistiques pour LTN
     ranker_ltn = compute_statistics(exercise_num=1, index_data=index_no_stop_no_stem, weighting_scheme="ltn")
@@ -425,9 +483,11 @@ def main():
     generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", None, "article", "nostem", "nostop")
     #current_run_id += 1
     
-    
+    """
+
+    """
     # --- Exercise 2: test runs avec variantes d'index (12 combinaisons) ---
-    current_run_id = 1 # on recommence à 1 pour l'exercice 2
+    #current_run_id = 1 # on recommence à 1 pour l'exercice 2
     weighting_schemes = ["ltn", "ltc", "bm25"]
     indexers = [index_no_stop_no_stem, index_stop_no_stem, index_no_stop_stem, index_stop_stem]
 
@@ -447,23 +507,23 @@ def main():
             generate_inex_run(current_run_id, ranker_result, queries, weighting, "test2", "article", stemmer_name, stop_name)
             
             current_run_id += 1
-    
+    """
     
     # --- Exercise 3: Indexing XML elements (SMART ltn) ---
-    current_run_id = 1 # on recommence à 1 pour l'exercice 3
-    current_run_id, _, _ = exercice_3(queries, current_run_id)
-    
-    # --- Exercise 4: XML elements runs with different configurations ---
-    current_run_id = 1 
-    current_run_id = exercice_4(queries, current_run_id)
+    #current_run_id = 1 # on recommence à 1 pour l'exercice 3
+    #current_run_id, _, _ = exercice_3(queries, current_run_id)
+    current_run_id = exercice_3bis(queries, current_run_id, top_k=5, threshold=0.1, prog_interv=1)
     
 
 if __name__ == "__main__":
-     # Nettoyer le dossier runs au début
+    # Nettoyage optionnel
     if os.path.exists("data/runs"):
-        for file in os.listdir("data/runs"):
-            if file.endswith(".txt"):
-                os.remove(os.path.join("data/runs", file))
-        print("Dossier 'runs' nettoyé")
-
+        response = input("Nettoyer le dossier 'data/runs' ? (o/n): ")
+        if response.lower() == 'o':
+            for file in os.listdir("data/runs"):
+                if file.endswith(".txt"):
+                    os.remove(os.path.join("data/runs", file))
+            print("SUCCES - Dossier 'runs' nettoyé")
+    
     main()
+
