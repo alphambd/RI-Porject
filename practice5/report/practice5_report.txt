@@ -10,6 +10,14 @@ Ana     SANOU
         *                                                           *
         /////////////////////////////////////////////////////////////
 
+LES RUNS RENDU : 
+
+  * 12 runs pour l'exercice 2.
+
+  * 4 runs pour l'exercice 3, dont 2 avec des erreurs et deux autres avec :
+    - 1_testXML_lnt_element-bdy-sec-p_nostop_nostem avec un top_k = 500;
+    - 1_testXML_ltn_element-bdy-sec-p_nostop_nostem_threshold_0.05 avec top_k=1500
+
 
 =============================================================
 EXERCICE 1: Indexing XML documents (SMART ltn) 
@@ -60,8 +68,6 @@ Configuration :
 - Stop-words : nostop, stop671 (2)
 - Total : 3 × 2 × 2 = 12 runs
 
-NB : 
-Les 12 runs ont été calculés, mais je n'ai pas pu les uploader (cause de retard).
 
 AlphaAnaClement_1_test2_ltn_article_nostop_nostem.txt
 AlphaAnaClement_2_test2_ltc_article_nostop_nostem.txt
@@ -76,6 +82,9 @@ AlphaAnaClement_10_test2_ltn_article_stop671_porter.txt
 AlphaAnaClement_11_test2_ltc_article_stop671_porter.txt
 AlphaAnaClement_12_test2_bm25_article_stop671_porter_k1_1.2_b_0.75.txt
 
+OBSERVATION : 
+  Comme avec le practice précédent, BM25 reste meilleur, suivi de SMART LTN et enfin SMART LTC qui donne des scores médiocres.
+
 
 =============================================================
 EXERCICE 3: Indexing XML elements (SMART ltn) 
@@ -85,6 +94,8 @@ Configuration :
 - Stop-words : aucun
 - Stemming : aucun
 
+APROCHE : Fetch and Browse
+
 Run généré : 
-AlphaAnaClement_1_testXML_int_element-bdy-sec-p_nostop_nostem.txt
+  AlphaAnaClement_1_testXML_int_element-bdy-sec-p_nostop_nostem.txt
                 
