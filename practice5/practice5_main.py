@@ -1,5 +1,8 @@
 import os
 import time
+
+import unicodedata
+
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 from collections import Counter, defaultdict
@@ -591,6 +594,55 @@ def main():
 
     current_run_id = exercice_4(queries, current_run_id, None, top_k=100, threshold=0.1, prog_interv=20)
     
+
+def test_parser():
+
+    """Retourne la liste des fichiers XML d'un répertoire"""
+    xml_files = []
+    for root_dir, dirs, files in os.walk("data/Practice_05_data/XML-Coll-withSem"):
+        for file in files:
+            if file.endswith('.xml'):
+                xml_files.append(os.path.join(root_dir, file))
+
+        # Génération du fichier run
+        with open(f"data/textParsed.txt", "w", encoding="utf-8") as f2:
+
+            for xml_file in xml_files:
+                # Parser le fichier XML
+                with open(xml_file, 'r', encoding='utf-8', errors='ignore') as f:
+                    content = f.read()
+
+                # Extraire l'ID
+                doc_id = None
+                # id_match = re.search(r'<id>(\d+)</id>', content)
+                id_match = re.search(r'<title>.*?</title>\s*<id>(\d+)</id>', content)
+
+                if id_match:
+                    doc_id = id_match.group(1)
+                else:
+                    doc_id = os.path.basename(xml_file).replace('.xml', '')
+
+                # L'ancien code avait juste le texte entre <doc> et </doc>
+                # Ici on doit supprimer toutes les balises
+                text = WeightedInvertedIndex.remove_balise(content)
+
+                # Nettoyer les entités
+                text = WeightedInvertedIndex.clean_html_entities(text)
+                text = re.sub(r'[^A-Za-z\s]', ' ', text)
+                text = re.sub(r'\s+', ' ', text).strip()
+
+                f2.write(f"{text} ")
+
+    with open(f"data/text.txt", "w", encoding="utf-8") as f3:
+        with open("../Practice4/data/Text_Only_Ascii_Coll_NoSem", 'r', encoding='utf-8', errors='ignore') as f4:
+            content = f4.read()
+        #decomposed = unicodedata.normalize('NFD', content)
+        #text_no_accents = re.sub(r'[\u0300-\u036f]', '', decomposed)
+        #text_content = unicodedata.normalize('NFC', text_no_accents)
+        text = re.sub(r'</?docn?o?>', ' ', content)
+        text = re.sub(r'[^A-Za-z\s]', ' ', text)
+        text = re.sub(r'\s+', ' ', text).strip()
+        f3.write(f"{text} ")
 
 if __name__ == "__main__":
     # Nettoyage optionnel

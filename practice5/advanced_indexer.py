@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 import os
 import html
 import hashlib
+import unicodedata
 
 from porterstemmer import PorterStemmer
 from snowballstemmer import stem_word
@@ -192,7 +193,7 @@ class WeightedInvertedIndex:
             
             # L'ancien code avait juste le texte entre <doc> et </doc>
             # Ici on doit supprimer toutes les balises
-            text = re.sub(r'<[^>]+>', ' ', content)
+            text = self.remove_balise(content)
 
             # Normaliser les espaces (identique)
             text = re.sub(r'\s+', ' ', text).strip()
@@ -209,7 +210,19 @@ class WeightedInvertedIndex:
         except Exception as e:
             print(f"Erreur conversion format {xml_file_path}: {e}")
             return None
-    
+
+    def remove_balise(self, content):
+        text_content = content
+        # peut être activer aprés discution avec le prof permet de remplacer les accent par les lettres sans
+        #decomposed = unicodedata.normalize('NFD', text_content)
+        #text_no_accents = re.sub(r'[\u0300-\u036f]', '', decomposed)
+        #text_content = unicodedata.normalize('NFC', text_no_accents)
+
+        removed_balises_without_space = ["link","/link","it","/it","/weblink"]
+        text_content = re.sub(rf'<({"|".join(removed_balises_without_space)})>', '', text_content)
+        text = re.sub(r'<[^>]+>', ' ', text_content)
+        return text
+
     def clean_html_entities(self, text):
         """Version corrigée qui gère TOUTES les entités correctement"""
         
@@ -319,7 +332,7 @@ class WeightedInvertedIndex:
                     current_path = f"{parent_path}/{tag_name}[{elem_index}]" if parent_path else f"/{tag_name}[{elem_index}]"
                     
                     # Extraire le texte (supprimer les sous-balises)
-                    text_content = re.sub(r'<[^>]+>', ' ', inner_content)
+                    text_content = self.remove_balise(inner_content)
                     text_content = self.clean_html_entities(text_content)
                     text_content = re.sub(r'\s+', ' ', text_content).strip()
                     
