@@ -339,10 +339,10 @@ class WeightedInvertedIndex:
                         })
                     
                     # Explorer récursivement les balises cibles à l'intérieur
-                    if level < 3:  # Limiter la profondeur pour éviter la récursion infinie
-                        for target in target_tags:
-                            if target != tag_name:  # Éviter la double extraction
-                                extract_tag_content(target, inner_content, current_path, level + 1)
+                    # if level < 3:  # Limiter la profondeur pour accélérer le lancement (utile pour dev)
+                    for target in target_tags:
+                        if target != tag_name:  # Éviter la double extraction
+                            extract_tag_content(target, inner_content, current_path, level + 1)
             
             # Rechercher le corps principal (<bdy> ou <body>)
             # Chercher d'abord bdy

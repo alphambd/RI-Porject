@@ -21,6 +21,7 @@ class RankedRetrieval:
         
         # Initialiser le cache des normes cosine (vide au début)
         self._cosine_norms_cache = None
+    
     """
     def _get_cosine_norms_cache_filename(self):
         #Génère un nom de fichier de cache basé sur les caractéristiques de l'index
@@ -47,7 +48,7 @@ class RankedRetrieval:
             tuple(sorted(self.index.stop_words_set)) if self.index.stop_words_set else "nostop",  # Ajouter cette ligne
         ))
         return os.path.join(self.cache_dir, f"cosine_norms_{abs(index_hash)}.pkl")
-
+    
     def _load_or_compute_cosine_norms(self):
         """Charge les normes cosine depuis le cache ou les calcule si nécessaire"""
         # Si déjà chargé, retourner le cache
@@ -208,11 +209,12 @@ class RankedRetrieval:
             #if score > 0:
             #    doc_scores[doc_id] = score
             doc_scores[doc_id] = score # on stock toujours le score, sinon pour bm25 certains run < 10500
-        
+
         sorted_docs = sorted(
             doc_scores.items(),
             key=lambda x: (-x[1], x[0])
         )
+
         return sorted_docs[:top_k]
     
     def get_term_weight(self, term, doc_id, weighting_scheme, k1=1.2, b=0.75):
@@ -237,11 +239,39 @@ class RankedRetrieval:
             os.remove(cache_file)
             self._cosine_norms_cache = None
             print("Cache des normes cosine effacé!")
+    
+    
+    def get_term_weight_cached(self, term, doc_id, weighting_scheme="ltn", k1=1.2, b=0.75):
+        """
+        Version optimisée de get_term_weight avec cache local
+        """
+        # Créer un cache local si nécessaire
+        if not hasattr(self, '_term_weight_cache'):
+            self._term_weight_cache = {}
+        
+        # Clé de cache unique
+        cache_key = (term, doc_id, weighting_scheme, k1, b)
+        
+        if cache_key in self._term_weight_cache:
+            return self._term_weight_cache[cache_key]
+        
+        # Calculer le poids
+        if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+            weight = 0.0
+        else:
+            if weighting_scheme == "ltn":
+                weight = self.smart_ltn_weighting(term, doc_id)
+            elif weighting_scheme == "ltc":
+                # Précharger les normes cosine si nécessaire
+                if self._cosine_norms_cache is None:
+                    self._load_or_compute_cosine_norms()
+                weight = self.smart_ltc_weighting(term, doc_id)
+            elif weighting_scheme == "bm25":
+                weight = self.bm25_weighting(term, doc_id, k1, b)
+            else:
+                weight = 0.0
+        
+        # Mettre en cache
+        self._term_weight_cache[cache_key] = weight
+        return weight
 
-    def reset_cache_for_new_config(self):
-        """Efface le cache quand on change de configuration d'indexation"""
-        self._cosine_norms_cache = None
-        cache_file = self._get_cosine_norms_cache_filename()
-        if os.path.exists(cache_file):
-            os.remove(cache_file)
-        print("Cache des normes cosine réinitialisé pour nouvelle configuration")

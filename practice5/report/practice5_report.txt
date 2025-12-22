@@ -1,0 +1,101 @@
+---------------------------
+Alpha   DIALLO
+Clément BOULAY
+Ana     SANOU
+---------------------------
+
+        /////////////////////////////////////////////////////////////
+        *                                                           *
+        *       Rapport - Practice5_Structured_IR_at_INEX           *
+        *                                                           *
+        /////////////////////////////////////////////////////////////
+
+LES RUNS RENDU : 
+
+  * 12 runs pour l'exercice 2.
+
+  * 4 runs pour l'exercice 3, dont 2 avec des erreurs et deux autres avec :
+    - 1_testXML_lnt_element-bdy-sec-p_nostop_nostem avec un top_k = 500;
+    - 1_testXML_ltn_element-bdy-sec-p_nostop_nostem_threshold_0.05 avec top_k=1500
+
+
+=============================================================
+EXERCICE 1: Indexing XML documents (SMART ltn) 
+=============================================================
+Configuration : 
+- Tokenization : basic (termes sans chiffres ni caractères spéciaux = lettres uniquement)
+- Stop-words : aucun
+- Stemming : aucun
+
+ * Recherche: 'web ranking scoring algorithm' -> termes: ['algorithm', 'ranking', 'scoring', 'web']
+
+STATISTIQUES DE LA COLLECTION:
+- Configuration: LTN
+- Temps total d'indexation + pondération: 15.09 secondes
+ * Temps d'indexation seul: 15.02 secondes
+ * Temps de pondération: 0.07 secondes
+- Nombre total d'occurrences de tokens: 10936372
+- Nombre de tokens distincts: 256545
+- Longueur moyenne des tokens: 7.57 caractères
+- Nombre total d'occurrences de terms: 10936372
+- Taille du vocabulaire (terms distincts): 205498
+- Longueur moyenne des documents: 1115.50 terms
+- Longueur moyenne des terms: 7.68 caractères
+- Poids du terme 'ranking' dans le document #23724: 2.365951
+- RSV du document #23724 pour 'web ranking scoring algorithm': 7.079744
+- TOP-10 DOCUMENTS pour 'web ranking scoring algorithm':
+   1. Doc 23724: 7.079744
+   2. Doc 448834: 6.107641
+   3. Doc 207747: 5.770330
+   4. Doc 462448: 5.722724
+   5. Doc 18336216: 5.699124
+   6. Doc 2292623: 5.289742
+   7. Doc 2606518: 5.219147
+   8. Doc 6861556: 5.218830
+   9. Doc 18963457: 5.166105
+  10. Doc 363695: 5.153368
+
+OBSERVATION : 
+  Les statistiques sont légèrement différentes, malgré les traitements qui ont été éffectués.
+
+
+=============================================================
+EXERCICE 2: XML documents test runs 
+=============================================================
+Configuration : 
+- Weighting : LTN, LTC, BM25 (3)
+- Stemming : nostem, porter (2)  
+- Stop-words : nostop, stop671 (2)
+- Total : 3 × 2 × 2 = 12 runs
+
+
+AlphaAnaClement_1_test2_ltn_article_nostop_nostem.txt
+AlphaAnaClement_2_test2_ltc_article_nostop_nostem.txt
+AlphaAnaClement_3_test2_bm25_article_nostop_nostem_k1_1.2_b_0.75.txt
+AlphaAnaClement_4_test2_ltn_article_stop671_nostem.txt
+AlphaAnaClement_5_test2_ltc_article_stop671_nostem.txt
+AlphaAnaClement_6_test2_bm25_article_stop671_nostem_k1_1.2_b_0.75.txt
+AlphaAnaClement_7_test2_ltn_article_nostop_porter.txt
+AlphaAnaClement_8_test2_ltc_article_nostop_porter.txt
+AlphaAnaClement_9_test2_bm25_article_nostop_porter_k1_1.2_b_0.75.txt
+AlphaAnaClement_10_test2_ltn_article_stop671_porter.txt
+AlphaAnaClement_11_test2_ltc_article_stop671_porter.txt
+AlphaAnaClement_12_test2_bm25_article_stop671_porter_k1_1.2_b_0.75.txt
+
+OBSERVATION : 
+  Comme avec le practice précédent, BM25 reste meilleur, suivi de SMART LTN et enfin SMART LTC qui donne des scores médiocres.
+
+
+=============================================================
+EXERCICE 3: Indexing XML elements (SMART ltn) 
+=============================================================
+Configuration : 
+- Tokenization : basic (termes sans chiffres ni caractères spéciaux = lettres uniquement)
+- Stop-words : aucun
+- Stemming : aucun
+
+APROCHE : Fetch and Browse
+
+Run généré : 
+  AlphaAnaClement_1_testXML_int_element-bdy-sec-p_nostop_nostem.txt
+                

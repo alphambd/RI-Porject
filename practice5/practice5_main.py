@@ -5,6 +5,12 @@ from ranked_retrieval import RankedRetrieval
 from collections import Counter, defaultdict
 import re
 
+from xml_run_manager import (create_index_with_cache, 
+                            create_element_index_with_cache,
+                            generate_fetch_browse_pooling,
+                            generate_fetch_browse_pooling_optimized
+                            )
+
 
 def create_index_with_config(data_file_path, tokenization="basic", stemmer="nostem", stop_words="nostop"):
     """Crée un index avec une configuration spécifique et retourne un dictionnaire complet"""
@@ -140,13 +146,18 @@ def compute_statistics(exercise_num, index_data, weighting_scheme="ltn", k1=1.2,
     
     return ranker
 
-def generate_inex_run(run_id, ranker, queries, weighting_scheme, type_test=None, granularity="article", stemmer="nostem", 
+def generate_inex_run(run_id, ranker, queries, weighting_scheme, test_type=None, granularity="article", stemmer="nostem", 
                       stop_words="nostop", tokenization="basic", k1=1.2, b=0.75, print_top10 = False):
     """Génère un run INEX RIC pour les 7 requêtes"""
     
     # Génération du nom de fichier selon le template
     team_name="AlphaAnaClement"
-    filename = f"{team_name}_{run_id}_{type_test}_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+
+    if test_type is None:
+        filename = f"{team_name}_{run_id}_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+    else:
+        filename = f"{team_name}_{run_id}_{test_type}_{weighting_scheme}_{granularity}_{stop_words}_{stemmer}"
+    
     if tokenization != "basic":
         filename += f"_{tokenization}"
     if weighting_scheme == "bm25":
@@ -259,41 +270,253 @@ def generate_inex_run_with_metadata(run_id, ranker, queries, config_info, print_
     print(f"Run sauvegardé: {filename}")
     return filename
 
-def exercice_3(queries, run_id):
-    """Exercice 3: Indexation éléments XML avec SMART lm"""
+def exercice_3(queries, run_id, top_k=1500, threshold=0.1, prog_interv=250):
+    """Exercice 3: Fetch and Browse pooling"""
     print("\n" + "="*60)
-    print("EXERCICE 3: Indexation éléments XML (SMART lm)")
+    print("EXERCICE 3BIS: Fetch and Browse pooling")
     print("="*60)
-    
+
     xml_dir = "data/Practice_05_data/XML-Coll-withSem"
     
-    # Configuration spécifique
-    index_data = create_element_index_with_config(
+    # Configuration de base 
+    base_config = {
+        'tokenization': 'basic',
+        'stemmer': 'nostem',
+        'stop_words': 'nostop'
+    }
+
+    # Index des articles
+    article_data = create_index_with_cache(xml_dir, base_config)
+    article_ranker = RankedRetrieval(article_data['index'])
+
+    # Index des éléments
+    element_config = base_config.copy()
+    element_data = create_element_index_with_cache(
         xml_dir, 
-        target_tags=['bdy', 'sec', 'p'],
-        tokenization="basic",
-        stemmer="nostem",
-        stop_words="nostop"
+        target_tags=['bdy', 'sec', 'p'], 
+        config_params=element_config
+    )
+    element_ranker = RankedRetrieval(element_data['index'])
+    
+    print(f"SUCCES - Index prêts: {article_data['index'].doc_count} articles, "
+          f"{element_data['index'].doc_count} éléments")
+    
+    print("\n" + "="*60)
+    print("Fetch and Browse avec Pooling et Seuil")
+    print("="*60)
+        
+    run_file = generate_fetch_browse_pooling(
+        run_id=f"run{run_id}_threshold_{int(threshold*1000)}",
+        article_ranker=article_ranker,
+        element_ranker=element_ranker,
+        queries=queries,
+        top_articles=top_k, # Nombre d'articles à récupérer initialement  
+        score_threshold=threshold,
+        progress_interval=prog_interv  # fréquence d'affichage du messages de progression
     )
     
-    # Créer le ranker
-    ranker = RankedRetrieval(index_data['index'])
+    run_id += 1
+    print(f"\nExercice 3 terminé: {run_file}")
+    return run_id
+
+def exercice_4(queries, start_run_id, base_config=None, top_k=1500, threshold=0.1, prog_interv=250):
+    """
+    Exercice 4: Expérimentation avec différents paramètres pour les éléments XML
+    Basé sur les meilleurs paramètres identifiés: BM25(k1=1.2, b=0.6), stop671, porter
+    """
+    print("\n" + "="*80)
+    print("EXERCICE 4: Expérimentation avec éléments XML")
+    print("Analyse des meilleurs paramètres - BM25(k1=1.2, b=0.6), stop671, porter")
+    print("="*80)
     
-    # Configuration pour le run
-    config_info = {
-        'type_test': 'testXML',
-        'weighting_scheme': 'lnt',
-        'granularity': 'element-bdy-sec-p',
-        'stemmer': 'nostem',
-        'stop_words': 'nostop',
-        'tokenization': 'basic'
-    }
+    xml_dir = "data/Practice_05_data/XML-Coll-withSem"
+    current_run_id = start_run_id
     
-    # Générer le run avec métadonnées
-    filename = generate_inex_run_with_metadata(run_id, ranker, queries, config_info, print_top10=True)
-    run_id +=1
-    print(f"\nExercice 3 terminé: {filename}")
-    return run_id, index_data, ranker
+    if base_config is None:
+        base_config = {
+            'tokenization': 'basic',
+            'stemmer': 'porter',      # Stemmer porter identifié comme meilleur
+            'stop_words': 'stop671'    # Stopwords stop671 identifié comme meilleur
+        }
+    
+    # 1. Créer un index d'articles avec la configuration de base (pour la phase FETCH)
+    print("\n" + "-"*60)
+    print("1. Création de l'index d'articles (phase FETCH)")
+    print("-"*60)
+    
+    article_data = create_index_with_cache(xml_dir, base_config)
+    article_ranker = RankedRetrieval(article_data['index'])
+    
+    print(f"- Index articles prêt: {article_data['index'].doc_count} articles")
+    
+    # 2. Définir les configurations à tester
+    configurations = [
+        # Tests de granularité avec la meilleure configuration de base
+        {
+            'name': 'Granularité standard (bdy,sec,p)',
+            'target_tags': ['bdy', 'sec', 'p'],
+            'stemmer': 'porter',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.2,
+            'b': 0.6,
+            'top_articles': 1500,
+            'threshold': 0.1
+        },
+        {
+            'name': 'Granularité fine (p seulement)',
+            'target_tags': ['p'],
+            'stemmer': 'porter',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.2,
+            'b': 0.6,
+            'top_articles': 1500,
+            'threshold': 0.1
+        },
+        {
+            'name': 'Granularité moyenne (sec seulement)',
+            'target_tags': ['sec'],
+            'stemmer': 'porter',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.2,
+            'b': 0.6,
+            'top_articles': 1500,
+            'threshold': 0.1
+        },
+        {
+            'name': 'Granularité large (bdy seulement)',
+            'target_tags': ['bdy'],
+            'stemmer': 'porter',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.2,
+            'b': 0.6,
+            'top_articles': 1500,
+            'threshold': 0.1
+        },
+        {
+            'name': 'Granularité bdy/sec (sans p)',
+            'target_tags': ['bdy', 'sec'],
+            'stemmer': 'porter',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.2,
+            'b': 0.6,
+            'top_articles': 1500,
+            'threshold': 0.1
+        },
+        {
+            'name': 'Granularité bdy/p (sans sec)',
+            'target_tags': ['bdy', 'p'],
+            'stemmer': 'porter',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.2,
+            'b': 0.6,
+            'top_articles': 1500,
+            'threshold': 0.1
+        },
+        {
+            'name': 'Granularité sec/p (sans bdy)',
+            'target_tags': ['sec', 'p'],
+            'stemmer': 'porter',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'bm25',
+            'k1': 1.2,
+            'b': 0.6,
+            'top_articles': 1500,
+            'threshold': 0.1
+        },
+        
+        # Tests avec LTN qui a une performance correcte
+        {
+            'name': 'LTN',
+            'target_tags': ['bdy', 'sec', 'p'],
+            'stemmer': 'nostem',
+            'stop_words': 'stop671',
+            'weighting_scheme': 'ltn',
+            'k1': None,
+            'b': None,
+            'top_articles': 1500,
+            'threshold': 0.1
+        }
+        
+    ]
+    
+    # 3. Exécuter chaque configuration
+    print("\n" + "-"*60)
+    print("2. Génération des runs avec différentes configurations")
+    print(f"   Nombre de configurations à tester: {len(configurations)}")
+    print("-"*60)
+    
+    for config in configurations:
+        print(f"\n{'='*60}")
+        print(f"CONFIGURATION: {config['name']}")
+        print(f"{'='*60}")
+        
+        print(f"  Paramètres:")
+        print(f"  - Tags XML: {config['target_tags']}")
+        print(f"  - Stemmer: {config['stemmer']}")
+        print(f"  - Stop words: {config['stop_words']}")
+        print(f"  - Pondération: {config['weighting_scheme']}", end="")
+        if config['weighting_scheme'] == 'bm25':
+            print(f" (k1={config['k1']}, b={config['b']})")
+        else:
+            print()
+        
+        # Créer la configuration pour l'index d'éléments
+        element_config = {
+            'tokenization': 'basic',
+            'stemmer': config['stemmer'],
+            'stop_words': config['stop_words']
+        }
+        
+        # Créer l'index d'éléments avec cache
+        element_data = create_element_index_with_cache(
+            xml_dir, 
+            target_tags=config['target_tags'], 
+            config_params=element_config
+        )
+        element_ranker = RankedRetrieval(element_data['index'])
+        
+        print(f"  - Index éléments prêt: {element_data['index'].doc_count} éléments")
+        
+        # Générer le nom du fichier de run
+        tags_str = '-'.join(config['target_tags'])
+        weighting_str = config['weighting_scheme']
+        if weighting_str == 'bm25':
+            weighting_str += f"_k{config['k1']}_b{config['b']}"
+        
+        # Générer le run
+        run_file = generate_fetch_browse_pooling_optimized(
+            run_id=f"run{current_run_id}",
+            article_ranker=article_ranker,
+            element_ranker=element_ranker,
+            queries=queries,
+            top_articles=top_k, #config['top_articles'],
+            score_threshold=threshold, #config['threshold'],
+            progress_interval=prog_interv,
+            weighting_scheme=config['weighting_scheme'],
+            k1=config.get('k1', 1.2),
+            b=config.get('b', 0.75)
+        )
+        
+        print(f"  - Run généré: {run_file}")
+        print(f"  - ID de run: {current_run_id}")
+        
+        current_run_id += 1
+    
+    print("\n" + "-"*60)
+    print(f"EXERCICE 4 TERMINÉ")
+    print(f"Nombre total de runs générés: {len(configurations)}")
+    print(f"Prochain run ID disponible: {current_run_id}")
+    print("="*80)
+    
+    return current_run_id
+
+
 
 def main():
     #data_file_path = "data/Text_Only_Ascii_Coll_NoSem"
@@ -316,7 +539,8 @@ def main():
     index_stop_no_stem = create_index_with_config(data_file_path, "basic", "nostem", "stop671")
     index_no_stop_stem = create_index_with_config(data_file_path, "basic", "porter", "nostop")
     index_stop_stem = create_index_with_config(data_file_path, "basic", "porter", "stop671")
-    
+        
+
     # Créer le répertoire runs s'il n'existe pas
     os.makedirs(runs_dir, exist_ok=True)
 
@@ -327,15 +551,19 @@ def main():
     
     print(f"Run ID de départ: {current_run_id}")
     
+    """
     # --- Exercise 1: Indexing XML documents (SMART ltn) ---    
     # Calcul des statistiques pour LTN
     ranker_ltn = compute_statistics(exercise_num=1, index_data=index_no_stop_no_stem, weighting_scheme="ltn")
     # Génération du run INEX pour LTN
-    generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", "article", "nostem", "nostop")
-    current_run_id += 1
+    generate_inex_run(current_run_id, ranker_ltn, queries, "ltn", None, "article", "nostem", "nostop")
+    #current_run_id += 1
     
+    
+
     
     # --- Exercise 2: test runs avec variantes d'index (12 combinaisons) ---
+    #current_run_id = 1 # on recommence à 1 pour l'exercice 2
     weighting_schemes = ["ltn", "ltc", "bm25"]
     indexers = [index_no_stop_no_stem, index_stop_no_stem, index_no_stop_stem, index_stop_stem]
 
@@ -355,17 +583,24 @@ def main():
             generate_inex_run(current_run_id, ranker_result, queries, weighting, "test2", "article", stemmer_name, stop_name)
             
             current_run_id += 1
+    """
     
     # --- Exercise 3: Indexing XML elements (SMART ltn) ---
-    current_run_id, _, _ = exercice_3(queries, current_run_id)
+    #current_run_id = 1 # on recommence à 1 pour l'exercice 3
+    #current_run_id = exercice_3(queries, current_run_id)
 
+    current_run_id = exercice_4(queries, current_run_id, None, top_k=100, threshold=0.1, prog_interv=20)
+    
 
 if __name__ == "__main__":
-     # Nettoyer le dossier runs au début
+    # Nettoyage optionnel
     if os.path.exists("data/runs"):
-        for file in os.listdir("data/runs"):
-            if file.endswith(".txt"):
-                os.remove(os.path.join("data/runs", file))
-        print("Dossier 'runs' nettoyé")
-
+        response = input("Nettoyer le dossier 'data/runs' ? (o/n): ")
+        if response.lower() == 'o':
+            for file in os.listdir("data/runs"):
+                if file.endswith(".txt"):
+                    os.remove(os.path.join("data/runs", file))
+            print("SUCCES - Dossier 'runs' nettoyé")
+    
     main()
+
