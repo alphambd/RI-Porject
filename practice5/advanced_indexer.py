@@ -7,6 +7,7 @@ import os
 import html
 import hashlib
 import unicodedata
+from unidecode import unidecode
 
 from porterstemmer import PorterStemmer
 from snowballstemmer import stem_word
@@ -64,12 +65,12 @@ class WeightedInvertedIndex:
         """Tokenization basique: seulement lettres"""
         text = re.sub(r'[^A-Za-z\s]', ' ', text)
         return [t for t in text.split() if len(t) > 0]
-    
+
     def _tokenize_extended(self, text):
         """Tokenization étendue: lettres et chiffres"""
         text = re.sub(r'[^A-Za-z0-9\s]', ' ', text)
         return [t for t in text.split() if len(t) > 0]
-    
+
     def _tokenize_hyphen(self, text):
         """Tokenization qui garde les traits d'union"""
         text = re.sub(r'[^A-Za-z\-\s]', ' ', text)
@@ -80,7 +81,7 @@ class WeightedInvertedIndex:
             else:
                 tokens.append(token)
         return [t for t in tokens if len(t) > 0]
-    
+
     def _tokenize_apostrophe(self, text):
         """Tokenization qui garde les apostrophes"""
         text = re.sub(r'[^A-Za-z\'\s]', ' ', text)
@@ -90,7 +91,7 @@ class WeightedInvertedIndex:
         """Applique la tokenization configurée"""
         methods = {
             "basic": self._tokenize_basic,
-            "extended": self._tokenize_extended, 
+            "extended": self._tokenize_extended,
             "hyphen": self._tokenize_hyphen,
             "apostrophe": self._tokenize_apostrophe
         }
@@ -98,11 +99,11 @@ class WeightedInvertedIndex:
         return tokenizer(text)
 
     # === FONCTIONS DE STEMMING ===
-    
+
     def configure_stemmer(self, stemmer_name="nostem"):
         """Configure l'algorithme de stemming - VERSION SIMPLIFIÉE"""
         self.stemmer_name = stemmer_name
-        
+
         if stemmer_name == "nostem":
             self.stemmer_func = None
         elif stemmer_name == "porter":
@@ -116,13 +117,13 @@ class WeightedInvertedIndex:
         print(f"- Stemmer configuré: {stemmer_name}")
 
     # === FONCTIONS DE STOP-WORDS ===
-    
+
     def _load_stop_words(self, stop_list_name="stop671"):
         """Charge différentes listes de stop-words"""
         stop_files = {
             "stop671": "data/stopwords/stop-words-english4.txt",
             "stop319": "data/stopwords/stop-words-english5.txt",
-            "stop733": "data/stopwords/stop-words-kaggle.txt"   
+            "stop733": "data/stopwords/stop-words-kaggle.txt"
         }
         # TO HANDLE
         file_path = stop_files.get(stop_list_name, "data/stop-words-english4.txt")
@@ -174,13 +175,13 @@ class WeightedInvertedIndex:
             with open(filename, 'r', encoding='utf-8', errors='ignore') as file:
                 content = file.read()
         return content
-    
+
     def parse_xml_file(self, xml_file_path):
         """Convertit un XML au format texte"""
         try:
             with open(xml_file_path, 'r', encoding='utf-8', errors='ignore') as f:
                 content = f.read()
-            
+
             # Extraire l'ID
             doc_id = None
             #id_match = re.search(r'<id>(\d+)</id>', content)
@@ -190,23 +191,23 @@ class WeightedInvertedIndex:
                 doc_id = id_match.group(1)
             else:
                 doc_id = os.path.basename(xml_file_path).replace('.xml', '')
-            
+
             # L'ancien code avait juste le texte entre <doc> et </doc>
             # Ici on doit supprimer toutes les balises
             text = self.remove_balise(content)
 
             # Normaliser les espaces (identique)
             text = re.sub(r'\s+', ' ', text).strip()
-            
+
             # Nettoyer les entités
             text = self.clean_html_entities(text)
-            
+
             # Retourner au format similaire à l'ancien
             return {
                 'doc_id': doc_id,
                 'doc_text': text  # Note: nom 'doc_text' pour correspondre à l'ancien code
             }
-            
+
         except Exception as e:
             print(f"Erreur conversion format {xml_file_path}: {e}")
             return None
@@ -214,14 +215,12 @@ class WeightedInvertedIndex:
     @staticmethod
     def remove_balise(content):
         text_content = content
-        decomposed = unicodedata.normalize('NFD', text_content)
-        text_no_accents = re.sub(r'[\u0300-\u036f]', '', decomposed)
-        text_content = unicodedata.normalize('NFC', text_no_accents)
 
         removed_balises_without_space = ["link","/link","it","/it","/weblink"]
         text_content = re.sub(rf'<({"|".join(removed_balises_without_space)})>', '', text_content)
         text = re.sub(r'<[^>]+>', ' ', text_content)
-        return text
+
+        return unidecode(text)
 
     @staticmethod
     def clean_html_entities(text):
