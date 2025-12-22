@@ -211,19 +211,20 @@ class WeightedInvertedIndex:
             print(f"Erreur conversion format {xml_file_path}: {e}")
             return None
 
-    def remove_balise(self, content):
+    @staticmethod
+    def remove_balise(content):
         text_content = content
-        # peut être activer aprés discution avec le prof permet de remplacer les accent par les lettres sans
-        #decomposed = unicodedata.normalize('NFD', text_content)
-        #text_no_accents = re.sub(r'[\u0300-\u036f]', '', decomposed)
-        #text_content = unicodedata.normalize('NFC', text_no_accents)
+        decomposed = unicodedata.normalize('NFD', text_content)
+        text_no_accents = re.sub(r'[\u0300-\u036f]', '', decomposed)
+        text_content = unicodedata.normalize('NFC', text_no_accents)
 
         removed_balises_without_space = ["link","/link","it","/it","/weblink"]
         text_content = re.sub(rf'<({"|".join(removed_balises_without_space)})>', '', text_content)
         text = re.sub(r'<[^>]+>', ' ', text_content)
         return text
 
-    def clean_html_entities(self, text):
+    @staticmethod
+    def clean_html_entities(text):
         """Version corrigée qui gère TOUTES les entités correctement"""
         
         # D'abord html.unescape

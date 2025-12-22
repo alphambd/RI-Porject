@@ -596,7 +596,6 @@ def main():
     
 
 def test_parser():
-
     """Retourne la liste des fichiers XML d'un répertoire"""
     xml_files = []
     for root_dir, dirs, files in os.walk("data/Practice_05_data/XML-Coll-withSem"):
@@ -605,7 +604,7 @@ def test_parser():
                 xml_files.append(os.path.join(root_dir, file))
 
         # Génération du fichier run
-        with open(f"data/textParsed.txt", "w", encoding="utf-8") as f2:
+        with open(f"data/MultiFileParsed.txt", "w", encoding="utf-8") as f2:
 
             for xml_file in xml_files:
                 # Parser le fichier XML
@@ -622,8 +621,6 @@ def test_parser():
                 else:
                     doc_id = os.path.basename(xml_file).replace('.xml', '')
 
-                # L'ancien code avait juste le texte entre <doc> et </doc>
-                # Ici on doit supprimer toutes les balises
                 text = WeightedInvertedIndex.remove_balise(content)
 
                 # Nettoyer les entités
@@ -633,8 +630,8 @@ def test_parser():
 
                 f2.write(f"{text} ")
 
-    with open(f"data/text.txt", "w", encoding="utf-8") as f3:
-        with open("../Practice4/data/Text_Only_Ascii_Coll_NoSem", 'r', encoding='utf-8', errors='ignore') as f4:
+    with open(f"data/oneFileText.txt", "w", encoding="utf-8") as f3:
+        with open("data/Text_Only_Ascii_Coll_NoSem", 'r', encoding='utf-8', errors='ignore') as f4:
             content = f4.read()
         #decomposed = unicodedata.normalize('NFD', content)
         #text_no_accents = re.sub(r'[\u0300-\u036f]', '', decomposed)
@@ -654,5 +651,5 @@ if __name__ == "__main__":
                     os.remove(os.path.join("data/runs", file))
             print("SUCCES - Dossier 'runs' nettoyé")
     
-    main()
+    test_parser()
 
