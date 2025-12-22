@@ -6,25 +6,22 @@ import xml.etree.ElementTree as ET
 import os
 import html
 import hashlib
-from multiprocessing import Pool, cpu_count, Manager
-
 import unicodedata
 from unidecode import unidecode
 
-from porterstemmer import PorterStemmer, porter_stem
-from practice5.report.ManagerDefaultDict import ManagerDefaultDict
+from porterstemmer import PorterStemmer
 from snowballstemmer import stem_word
 
 class WeightedInvertedIndex:
     def __init__(self):
-        self.dictionary = ManagerDefaultDict()
-        self.doc_ids = Manager().list()
-        self.doc_lengths = Manager().dict()
+        self.dictionary = defaultdict(dict)
+        self.doc_ids = []
+        self.doc_lengths = {}
         self.doc_count = 0
-        self.total_terms = Manager().Value('i', 0)
-        self.total_tokens_bp = Manager().Value('i', 0)
-        self.distinct_tokens_bp = Manager().list()
-        self.total_chars_tokens = Manager().Value('i', 0)
+        self.total_terms = 0
+        self.total_tokens_bp = 0
+        self.distinct_tokens_bp = set()
+        self.total_chars_tokens = 0
         self.avg_doc_length = 0
 
         # Configuration simplifiée - SUPPRESSION des attributs de compatibilité
@@ -35,7 +32,7 @@ class WeightedInvertedIndex:
         self.stemmer_name = "nostem"
 
         # Métadonnées pour la recherche structurée
-        self.metadata_store = Manager().dict()  # {doc_id: metadata_dict}
+        self.metadata_store = {}  # {doc_id: metadata_dict}
         self.doc_type = "article"  # "article" ou "element"
         self.target_tags = []  # Tags cibles pour éléments
 
@@ -110,7 +107,8 @@ class WeightedInvertedIndex:
         if stemmer_name == "nostem":
             self.stemmer_func = None
         elif stemmer_name == "porter":
-            self.stemmer_func = porter_stem
+            stemmer = PorterStemmer()
+            self.stemmer_func = lambda word: stemmer.stem(word, 0, len(word) - 1)
         elif stemmer_name == "snowball":
             self.stemmer_func = stem_word
         else:
@@ -420,10 +418,9 @@ class WeightedInvertedIndex:
         tokens = self.apply_tokenization(text_content)
         
         # Mise à jour des statistiques pour les TOKENS
-        self.total_tokens_bp.value += len(tokens)
-        if not tokens in self.distinct_tokens_bp:
-            self.distinct_tokens_bp.append(tokens)
-        self.total_chars_tokens.value += sum(len(token) for token in tokens)
+        self.total_tokens_bp += len(tokens)
+        self.distinct_tokens_bp.update(tokens)
+        self.total_chars_tokens += sum(len(token) for token in tokens)
         
         # Traitement TOKENS pour obtenir les TERMS
         terms = self.process_tokens(tokens)
@@ -435,12 +432,12 @@ class WeightedInvertedIndex:
         doc_length = len(terms)
         self.doc_ids.append(doc_id)
         self.doc_lengths[doc_id] = doc_length
-        self.total_terms.value += doc_length
+        self.total_terms += doc_length
         
         # Construction du dictionnaire
         term_freq = Counter(terms)
         for term, freq in term_freq.items():
-            self.dictionary.append(term, doc_id, freq)
+            self.dictionary[term][doc_id] = freq
         
         # Stocker les métadonnées si fournies
         if metadata:
@@ -458,17 +455,36 @@ class WeightedInvertedIndex:
         # Lister les fichiers XML
         xml_files = self._get_xml_files(xml_dir, max_files)
         
-
-        with Pool(processes=cpu_count()) as pool:
-            results = pool.map(self.build_index_from_file, xml_files)
+        success_count = 0
         
-        self.doc_count = sum(results)
+        for i, xml_file in enumerate(xml_files):
+            # Parser le fichier XML
+            doc_data = self.parse_xml_file(xml_file)
+            if not doc_data:
+                continue
+            
+            doc_id = doc_data['doc_id']
+            doc_text = doc_data['doc_text']
+            
+            # Indexer avec la méthode générique
+            if self._index_document_content(doc_id, doc_text):
+                # Métadonnées pour les articles
+                self.store_metadata(doc_id, {
+                    'doc_id': doc_id,
+                    'parent_doc_id': doc_id,
+                    'xml_path': '/article[1]',
+                    'tag': 'article',
+                    'type': 'article',
+                    'source_file': xml_file
+                })
+                success_count += 1
+        
+        self.doc_count = success_count
         self.avg_doc_length = self.total_terms / self.doc_count if self.doc_count > 0 else 0
         
         end_time = time.time()
-
         return end_time - start_time
-
+            
     def build_index_from_xml_elements(self, xml_dir, target_tags=['bdy', 'sec', 'p'], max_files=None):
         """Indexe les éléments XML individuels"""
         start_time = time.time()
@@ -483,66 +499,39 @@ class WeightedInvertedIndex:
         xml_files = self._get_xml_files(xml_dir, max_files)
         
         total_elements = 0
-
-        with Pool(processes=cpu_count()) as pool:
-            results = pool.map(self.build_index_from_file_xml, xml_files)
-
-        self.doc_count = sum(results)
+        
+        for i, xml_file in enumerate(xml_files):
+            # Extraire les éléments
+            elements = self.extract_xml_elements(xml_file, target_tags)
+            
+            for elem_data in elements:
+                elem_id = elem_data['elem_id']
+                elem_text = elem_data['text']
+                
+                # Indexer avec la méthode générique
+                if self._index_document_content(elem_id, elem_text):
+                    # Métadonnées pour les éléments
+                    self.store_metadata(elem_id, {
+                        'doc_id': elem_data['doc_id'],
+                        'parent_doc_id': elem_data['doc_id'],
+                        'element_id': elem_id,
+                        'xml_path': elem_data['full_path'],
+                        'tag': elem_data['tag'],
+                        'type': 'element',
+                        'source_file': elem_data['file_path']
+                    })
+                    total_elements += 1
+        
+        self.doc_count = total_elements
         self.avg_doc_length = self.total_terms / self.doc_count if self.doc_count > 0 else 0
         
         end_time = time.time()
         indexing_time = end_time - start_time
         
-        print(f"\nIndexation terminée: {sum(results)} éléments indexés")
+        print(f"\nIndexation terminée: {total_elements} éléments indexés")
         print(f"Temps d'indexation: {indexing_time:.2f} secondes")
         
         return indexing_time
-
-    def build_index_from_file(self, xml_file):
-       # Parser le fichier XML
-       doc_data = self.parse_xml_file(xml_file)
-       if not doc_data:
-           return 0
-
-       doc_id = doc_data['doc_id']
-       doc_text = doc_data['doc_text']
-
-       # Indexer avec la méthode générique
-       if self._index_document_content(doc_id, doc_text):
-           # Métadonnées pour les articles
-           self.store_metadata(doc_id, {
-               'doc_id': doc_id,
-               'parent_doc_id': doc_id,
-               'xml_path': '/article[1]',
-               'tag': 'article',
-               'type': 'article',
-               'source_file': xml_file
-           })
-           return 1
-       return 0
-
-    def build_index_from_file_xml(self, xml_file, target_tags):
-        # Extraire les éléments
-        elements = self.extract_xml_elements(xml_file, target_tags)
-
-        for elem_data in elements:
-            elem_id = elem_data['elem_id']
-            elem_text = elem_data['text']
-
-            # Indexer avec la méthode générique
-            if self._index_document_content(elem_id, elem_text):
-                # Métadonnées pour les éléments
-                self.store_metadata(elem_id, {
-                    'doc_id': elem_data['doc_id'],
-                    'parent_doc_id': elem_data['doc_id'],
-                    'element_id': elem_id,
-                    'xml_path': elem_data['full_path'],
-                    'tag': elem_data['tag'],
-                    'type': 'element',
-                    'source_file': elem_data['file_path']
-                })
-                return 1
-        return 0
 
     def get_collection_statistics(self, indexing_time):
         """Calcule TOUTES les statistiques demandées"""

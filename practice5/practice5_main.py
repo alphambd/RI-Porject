@@ -651,5 +651,5 @@ if __name__ == "__main__":
                     os.remove(os.path.join("data/runs", file))
             print("SUCCES - Dossier 'runs' nettoyé")
     
-    test_parser()
+    main()
 
