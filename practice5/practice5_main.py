@@ -376,79 +376,131 @@ def exercice_4(queries, current_run_id):
 
         filename = generate_inex_run_with_metadata(current_run_id, ranker, queries, config_info, print_top10=True)
         current_run_id += 1
+    return current_run_id
 
-    # --- Exercice 5: BM25Fw (late combination) ---
+def exercice_5(queries, current_run_id, xml_dir, team_name="AlphaAnaClement", k1=1.2, b=0.75):
+    """
+    Exercice 5: BM25Fw (late combination, Wilkinson94)
+    - BM25 calculé séparément pour chaque champ
+    - Scores combinés avec pondération αi
+    """
+
     print("\n" + "=" * 60)
     print("EXERCICE 5: Fields weighting – BM25Fw (late combination)")
     print("=" * 60)
 
-    fields = ["title", "bdy", "sec", "p"]
-    field_weights = {"title": 2.0, "bdy": 1.0, "sec": 1.5, "p": 1.0}
+    # --- Définition des champs et pondérations αi ---
+    fields = ["title", "abstract", "body"]
+    field_weights = {"title": 2.0, "abstract": 1.5, "body": 1.0}
 
+    # --- Étape 1: Construction d’un index pour tous les champs ---
     index = WeightedInvertedIndex()
     index.configure_tokenization("basic")
     index.configure_stemmer("porter")
     index.configure_stop_words("stop671")
     index.build_index_from_xml_collection(xml_dir)
 
+    # --- Initialisation du moteur de recherche BM25 ---
     ranker = RankedRetrieval(index)
-    k1 = 1.2
-    b = 0.75
-    team_name = "AlphaAnaClement"
-    filename = f"{team_name}_{current_run_id}_BM25Fw_article_fields.txt"
 
+    # --- Préparation du fichier de sortie ---
+    filename = f"{team_name}_{current_run_id}_BM25Fw_article_fields.txt"
     os.makedirs("data/runs", exist_ok=True)
 
     with open(f"data/runs/{filename}", "w", encoding="utf-8") as f:
         for qid, query_text in queries.items():
-            scores = defaultdict(float)
-            for field in fields:
-                alpha = field_weights[field]
-                results = ranker.search_query(query_text, weighting_scheme="bm25", top_k=1500, k1=k1, b=b)
-                for doc_id, score in results:
-                    scores[doc_id] += alpha * score
+            article_scores = defaultdict(float)  # combinaison des scores par article
 
-            ranked_docs = sorted(scores.items(), key=lambda x: -x[1])[:1500]
-            for rank, (doc_id, score) in enumerate(ranked_docs, 1):
+            # Calcul BM25 pour chaque champ séparément
+            for field in fields:
+                ana = field_weights[field]
+
+                # Ici, on  un BM25 sur le champ : on filtre l'index par champ si possible
+                field_results = ranker.search_query(
+                    query_text,
+                    weighting_scheme="bm25",
+                    top_k=1500,
+                    k1=k1,
+                    b=b,
+                    #field=field  # <-- ajoute cette option si ton moteur supporte les champs
+                )
+
+                # Combinaison tardive avec pondération αi
+                for doc_id, score in field_results:
+                    article_scores[doc_id] += ana * score
+
+            # Affichage du nombre de documents uniques
+            print(f" * Recherche: '{query_text}' -> termes: {ranker.index.process_tokens(ranker.index.apply_tokenization(query_text))}")
+            print(f"   - Documents pertinents potentiels: {len(article_scores)}")
+
+            # Tri et sélection des 1500 meilleurs articles
+            ranked_docs = sorted(article_scores.items(), key=lambda x: -x[1])[:1500]
+
+            # Écriture du run au format INEX/TREC
+            for rank, (doc_id, score) in enumerate(ranked_docs, start=1):
                 f.write(f"{qid} Q0 {doc_id} {rank} {score:.6f} {team_name} /article[1]\n")
 
     print(f"Run BM25Fw généré : {filename}")
-    current_run_id += 1
+    return current_run_id + 1
 
-    # --- Exercice 6: BM25FR (early combination) corrigé ---
+
+
+def exercice_6(queries, current_run_id, xml_dir, team_name="AlphaAnaClement", k1=1.2, b=0.75):
+    """
+    Exercice 6: BM25FR (early combination, Robertson2004)
+    - Step 1: combinaison précoce des TF pondérés par champ
+    - Step 2: BM25 sur article combiné
+    """
+
     print("\n" + "=" * 60)
     print("EXERCICE 6: Fields weighting – BM25FR (early combination)")
     print("=" * 60)
 
-    index = WeightedInvertedIndex()
-    index.configure_tokenization("basic")
-    index.configure_stemmer("porter")
-    index.configure_stop_words("stop671")
-    index.build_index_from_xml_collection(xml_dir)
+    # --- Définition des champs et leurs pondérations αi ---
+    fields = ["title", "abstract", "body"]
+    field_weights = {"title": 2.0, "abstract": 1.5, "body": 1.0}
 
-    ranker = RankedRetrieval(index)
+    # --- Étape 1: Construction de l'index combiné ---
+    # Chaque terme t d’un article est pondéré par ses champs:
+    # tf'_t,article = Σ αi * tf_t,field_i
+    combined_tf_index = WeightedInvertedIndex()
+    combined_tf_index.configure_tokenization("basic")  # tokenisation simple
+    combined_tf_index.configure_stemmer("porter")      # porter stemmer
+    combined_tf_index.configure_stop_words("stop671")  # stopwords spécifique
+    combined_tf_index.build_index_from_weighted_fields(xml_dir, fields, field_weights)
+    # -> l'index résultant contient les termes pondérés pour chaque article
+
+    # --- Étape 2: Initialisation du moteur de recherche BM25 ---
+    ranker = RankedRetrieval(combined_tf_index)
+
+    # --- Préparation du fichier de sortie pour le run INEX ---
     filename = f"{team_name}_{current_run_id}_BM25FR_article_fields.txt"
+    os.makedirs("data/runs", exist_ok=True)
 
+    # --- Calcul des scores BM25 pour chaque requête ---
     with open(f"data/runs/{filename}", "w", encoding="utf-8") as f:
         for qid, query_text in queries.items():
-            scores = defaultdict(float)
-            for field in fields:
-                alpha = field_weights.get(field, 1.0)
-                top_docs = ranker.search_query(query_text, weighting_scheme="bm25", top_k=1500, k1=k1, b=b)
-                for doc_id, score in top_docs:
-                    scores[doc_id] += alpha * score
-
-            ranked_docs = sorted(scores.items(), key=lambda x: -x[1])[:1500]
-            for rank, (doc_id, score) in enumerate(ranked_docs, 1):
+            # BM25 appliqué sur le document combiné
+            scores = ranker.search_query(
+                query_text,
+                weighting_scheme="bm25",
+                top_k=1500,  # récupérer les 1500 meilleurs documents
+                k1=k1,
+                b=b
+            )
+            # Écriture du run au format TREC/INEX
+            for rank, (doc_id, score) in enumerate(scores, start=1):
                 f.write(f"{qid} Q0 {doc_id} {rank} {score:.6f} {team_name} /article[1]\n")
 
     print(f"Run BM25FR généré : {filename}")
-    current_run_id += 1
 
-    return current_run_id
+    # Retourner le run_id incrémenté pour la suite
+    return current_run_id + 1
+
 
 
 def main():
+    current_run_id = 1
     data_file_path = "data/Practice_05_data/XML-Coll-withSem"
     runs_dir = "data/runs"
 
@@ -490,8 +542,17 @@ def main():
     # --- Exercice 3 ---
     current_run_id, _, _ = exercice_3(queries, current_run_id)
 
-    # --- Exercices 4, 5 et 6 ---
+
+    # --- Exercices 4 ---
     current_run_id = exercice_4(queries, current_run_id)
+
+    # --- Exercice 5 ---
+    xml_dir = "data/Practice_05_data/XML-Coll-withSem"
+    current_run_id = exercice_5(queries, current_run_id, xml_dir)
+
+    # --- Exercice 6 ---
+    xml_dir = "data/Practice_05_data/XML-Coll-withSem"
+    current_run_id = exercice_6(queries, current_run_id, xml_dir)
 
 
 if __name__ == "__main__":

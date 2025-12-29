@@ -1,4 +1,5 @@
 import re
+import re
 from collections import defaultdict, Counter
 import gzip
 import time
@@ -547,3 +548,76 @@ class WeightedInvertedIndex:
             'avg_doc_length': avg_doc_length,
             'avg_term_length': avg_term_length
         }
+
+    def build_index_from_weighted_fields(self, xml_dir, fields, field_weights, max_files=None):
+        """
+        Crée un index combiné pour BM25FR (early combination)
+        Chaque terme t d’un document est pondéré par les champs :
+        tf'_t,doc = Σ αi * tf_t,field_i
+        """
+        import time
+        import re
+        from collections import Counter, defaultdict
+
+        start_time = time.time()
+
+        # Configurer le type de document
+        self.doc_type = "article"
+
+        # Lister les fichiers XML
+        xml_files = self._get_xml_files(xml_dir, max_files)
+
+        success_count = 0
+
+        for xml_file in xml_files:
+            # Lire le contenu XML brut
+            try:
+                with open(xml_file, 'r', encoding='utf-8', errors='ignore') as f:
+                    xml_content = f.read()
+            except Exception as e:
+                print(f"Erreur lecture fichier {xml_file}: {e}")
+                continue
+
+            # Extraire l'ID de l'article
+            doc_data = self.parse_xml_file(xml_file)
+            if not doc_data:
+                continue
+            doc_id = doc_data['doc_id']
+
+            full_text = ""
+
+            # Extraire le texte des champs spécifiés depuis le XML brut
+            for field in fields:
+                alpha = field_weights.get(field, 1.0)
+                pattern = f"<{field}[^>]*>(.*?)</{field}>"
+                matches = re.findall(pattern, xml_content, re.DOTALL | re.IGNORECASE)
+                field_text = " ".join(matches) if matches else ""
+
+                # Tokenization et stemming
+                tokens = self.apply_tokenization(field_text)
+                terms = self.process_tokens(tokens)
+
+                # Réplication selon alpha pour early combination
+                for term in terms:
+                    full_text += (" " + " ".join([term] * int(alpha * 100)))
+
+            if not full_text.strip():
+                continue
+
+            # Indexer le document combiné
+            self._index_document_content(doc_id, full_text.strip(), metadata={
+                'doc_id': doc_id,
+                'parent_doc_id': doc_id,
+                'xml_path': '/article[1]',
+                'tag': 'article',
+                'type': 'article',
+                'source_file': xml_file
+            })
+            success_count += 1
+
+        self.doc_count = success_count
+        self.avg_doc_length = self.total_terms / self.doc_count if self.doc_count > 0 else 0
+
+        end_time = time.time()
+        print(f"Index combiné pondéré créé pour {success_count} articles en {end_time - start_time:.2f}s")
+        return end_time - start_time
