@@ -7,7 +7,8 @@ class RankedRetrieval:
     def __init__(self, index, cache_dir="data/norm_cache"):
         self.index = index
         self.doc_count = index.doc_count
-        self.avg_dl = index.avg_doc_length
+        #self.avg_dl = index.avg_doc_length
+        self.avg_dl = index.avg_doc_length if hasattr(index, 'avg_doc_length') else 0
         self.cache_dir = cache_dir
         
         # Créer le dossier cache s'il n'existe pas
@@ -161,7 +162,7 @@ class RankedRetrieval:
         
         # Calcul BM25
         idf = math.log10((self.doc_count - df + 0.5) / (df + 0.5))
-        tf_component = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (doc_length / self.avg_dl)))
+        tf_component = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (doc_length / self.avg_dl))) if self.avg_dl > 0 else 0.0
         
         return idf * tf_component
     

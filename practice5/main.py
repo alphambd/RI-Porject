@@ -3,15 +3,16 @@ import time
 
 import unicodedata
 
-from advanced_indexer import WeightedInvertedIndex
+from ind import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 from collections import Counter, defaultdict
 import re
 
-from xml_run_manager import (create_index_with_cache, 
+from xml_rm import (create_index_with_cache, 
                             create_element_index_with_cache,
                             generate_fetch_browse_pooling,
-                            generate_fetch_browse_pooling_optimized
+                            generate_fetch_browse_pooling_optimized,
+                            generate_fetch_browse_run
                             )
 
 
@@ -307,7 +308,7 @@ def exercice_3(queries, run_id, top_k=1500, threshold=0.1, prog_interv=250):
     print("\n" + "="*60)
     print("Fetch and Browse avec Pooling et Seuil")
     print("="*60)
-        
+    """    
     run_file = generate_fetch_browse_pooling(
         run_id=f"run{run_id}_threshold_{int(threshold*1000)}",
         article_ranker=article_ranker,
@@ -316,6 +317,14 @@ def exercice_3(queries, run_id, top_k=1500, threshold=0.1, prog_interv=250):
         top_articles=top_k, # Nombre d'articles à récupérer initialement  
         score_threshold=threshold,
         progress_interval=prog_interv  # fréquence d'affichage du messages de progression
+    )
+    """
+    run_file = generate_fetch_browse_run(
+        run_id=f"run{run_id}_threshold_{int(threshold*1000)}",
+        article_ranker=article_ranker,
+        element_ranker=element_ranker,
+        queries=queries,
+        top_articles=top_k, # Nombre d'articles à récupérer initialement  
     )
     
     run_id += 1
@@ -595,51 +604,6 @@ def main():
     #current_run_id = exercice_4(queries, current_run_id, None, top_k=100, threshold=0.1, prog_interv=20)
     
 
-def test_parser():
-    """Retourne la liste des fichiers XML d'un répertoire"""
-    xml_files = []
-    for root_dir, dirs, files in os.walk("data/Practice_05_data/XML-Coll-withSem"):
-        for file in files:
-            if file.endswith('.xml'):
-                xml_files.append(os.path.join(root_dir, file))
-
-        # Génération du fichier run
-        with open(f"data/MultiFileParsed.txt", "w", encoding="utf-8") as f2:
-
-            for xml_file in xml_files:
-                # Parser le fichier XML
-                with open(xml_file, 'r', encoding='utf-8', errors='ignore') as f:
-                    content = f.read()
-
-                # Extraire l'ID
-                doc_id = None
-                # id_match = re.search(r'<id>(\d+)</id>', content)
-                id_match = re.search(r'<title>.*?</title>\s*<id>(\d+)</id>', content)
-
-                if id_match:
-                    doc_id = id_match.group(1)
-                else:
-                    doc_id = os.path.basename(xml_file).replace('.xml', '')
-
-                text = WeightedInvertedIndex.remove_balise(content)
-
-                # Nettoyer les entités
-                text = WeightedInvertedIndex.clean_html_entities(text)
-                text = re.sub(r'[^A-Za-z\s]', ' ', text)
-                text = re.sub(r'\s+', ' ', text).strip()
-
-                f2.write(f"{text} ")
-
-    with open(f"data/oneFileText.txt", "w", encoding="utf-8") as f3:
-        with open("data/Text_Only_Ascii_Coll_NoSem", 'r', encoding='utf-8', errors='ignore') as f4:
-            content = f4.read()
-        #decomposed = unicodedata.normalize('NFD', content)
-        #text_no_accents = re.sub(r'[\u0300-\u036f]', '', decomposed)
-        #text_content = unicodedata.normalize('NFC', text_no_accents)
-        text = re.sub(r'</?docn?o?>', ' ', content)
-        text = re.sub(r'[^A-Za-z\s]', ' ', text)
-        text = re.sub(r'\s+', ' ', text).strip()
-        f3.write(f"{text} ")
 
 if __name__ == "__main__":
     # Nettoyage optionnel
