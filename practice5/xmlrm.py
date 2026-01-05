@@ -92,19 +92,6 @@ class INEXRunGenerator:
             }
         else:
             # Cache valide chargé
-            index = WeightedInvertedIndex.load_from_file(cache_file)
-            
-            # VÉRIFIER l'intégrité
-            print(f"  Vérification intégrité {index_type} index...")
-            integrity = index.verify_index_integrity()
-            
-            if not integrity['consistent']:
-                print(f"  Att.  Index {index_type} incohérent, forcer recalcul...")
-                # Supprimer le cache corrompu
-                os.remove(cache_file)
-                # Recréer
-                return self.create_or_load_index(xml_dir, index_type, config, max_files)
-            
             return {
                 'index': index,
                 'indexing_time': 0,
@@ -153,34 +140,25 @@ class INEXRunGenerator:
         sample_count = 0
         for elem_id in browse_index.doc_ids:
             metadata = browse_index.get_metadata(elem_id)
+            parent_id = str(metadata.get('parent_doc_id', ''))
             
-            parent_id_raw = metadata.get('parent_doc_id', '')
-            # NORMALISER l'ID parent
-            parent_id = self._normalize_article_id(parent_id_raw)
+            # DEBUG: Afficher quelques exemples
+            if sample_count < 5:
+                print(f"  Élément: {elem_id[:20]}... → Parent: {parent_id}")
+                sample_count += 1
             
-
-            #parent_id = str(metadata.get('parent_doc_id', ''))
-
             if parent_id:
                 article_to_elements[parent_id].append(elem_id)
-            
-                # DEBUG: Afficher quelques exemples
-                if sample_count < 5:
-                    print(f"  Élément: {elem_id[:20]}... → Parent: {parent_id}")
-                    sample_count += 1
                 
-                if parent_id:
-                    article_to_elements[parent_id].append(elem_id)
-                    
-                    xml_path = metadata.get('xml_path', '')
-                    tag = self._extract_tag_from_xpath(xml_path, metadata.get('tag', 'unknown'))
-                    
-                    element_details[elem_id] = {
-                        'xml_path': xml_path,
-                        'tag': tag,
-                        'parent_id': parent_id,
-                        'priority': self._get_tag_priority(tag)
-                    }
+                xml_path = metadata.get('xml_path', '')
+                tag = self._extract_tag_from_xpath(xml_path, metadata.get('tag', 'unknown'))
+                
+                element_details[elem_id] = {
+                    'xml_path': xml_path,
+                    'tag': tag,
+                    'parent_id': parent_id,
+                    'priority': self._get_tag_priority(tag)
+                }
         
         print(f"[DEBUG] Cache créé: {len(article_to_elements)} articles uniques")
         print(f"[DEBUG] Exemples d'articles: {list(article_to_elements.keys())[:5]}")
@@ -221,24 +199,6 @@ class INEXRunGenerator:
         
         return f"/article[1]/{xml_path}"
     
-    def _normalize_article_id(self, article_id):
-        """
-        Normalise un ID d'article pour assurer la correspondance.
-        Extrait seulement les chiffres ou utilise une transformation cohérente.
-        """
-        if isinstance(article_id, str):
-            # Extraire les chiffres
-            import re
-            numbers = re.findall(r'\d+', article_id)
-            if numbers:
-                # Prendre le plus long nombre
-                return max(numbers, key=len)
-            return article_id
-        elif isinstance(article_id, int):
-            return str(article_id)
-        else:
-            return str(article_id)
-        
     def _get_xpath_indices(self, xml_path: str) -> Tuple[int, ...]:
         """Extrait les indices d'un XPath pour tri par ordre document"""
         indices = []
@@ -475,27 +435,9 @@ class INEXRunGenerator:
                     articles_processed += 1
                     
                     str_article_id = str(article_id)
-
-
-                    # DEBUG: Vérifier la correspondance
-                    if str_article_id not in article_to_elements:
-                        if articles_processed < 3:  # Afficher seulement les 3 premiers
-                            print(f"    [DEBUG] Article {str_article_id} NON TROUVÉ dans article_to_elements")
-                            print(f"    [DEBUG] Clés disponibles (5 premières): {list(article_to_elements.keys())[:5]}")
-                    else:
-                        if articles_processed < 3:
-                            print(f"    [DEBUG] Article {str_article_id} TROUVÉ avec {len(article_to_elements[str_article_id])} éléments")
-
-
-                    # NORMALISER l'ID d'article
-                    normalized_article_id = self._normalize_article_id(article_id)
-                    
-                    # Utiliser l'ID normalisé pour la recherche
-                    element_ids = article_to_elements.get(normalized_article_id, [])
-
                     
                     # Récupérer éléments de cet article
-                    #element_ids = article_to_elements.get(str_article_id, [])
+                    element_ids = article_to_elements.get(str_article_id, [])
                     
                     if element_ids:
                         # Calculer scores pour tous les éléments
@@ -690,14 +632,14 @@ class INEXRunGenerator:
                 print(f"  Requête {query_id}: {len(query_lines)} résultats")
             
             if violations == 0:
-                print(f"  ✅ RUN VALIDE")
+                print(f"   RUN VALIDE")
                 return True
             else:
-                print(f"  ❌ {violations} violations")
+                print(f"  Att. {violations} violations")
                 return False
                 
         except Exception as e:
-            print(f"  ❌ Erreur validation: {e}")
+            print(f"   Erreur... validation: {e}")
             return False
     
     # ==================== MÉTHODE SIMPLIFIÉE POUR EXERCICE 3 ====================
@@ -771,12 +713,16 @@ class INEXRunGenerator:
     # ==================== MÉTHODE POUR EXERCICES 1-2 ====================
     
     def generate_article_run(self, 
-                           xml_dir: str,
-                           queries: Dict[int, str],
-                           config: Dict = None,
-                           run_id: str = "article_run") -> str:
+                        xml_dir: str,
+                        queries: Dict[int, str],
+                        config: Dict = None,
+                        run_id: str = "article_run",
+                        weighting_scheme: str = "ltn",
+                        k1: float = None,
+                        b: float = None) -> str:
         """
         Génère un run pour articles (exercices 1-2).
+        Ajout des paramètres de pondération.
         """
         if config is None:
             config = {
@@ -786,7 +732,9 @@ class INEXRunGenerator:
             }
         
         print(f"\n{'='*70}")
-        print(f"EXERCICE 1-2: Run articles")
+        print(f"EXERCICE 1-2: Run articles - {weighting_scheme.upper()}")
+        print(f"Config: stemmer={config.get('stemmer', 'nostem')}, "
+            f"stop={config.get('stop_words', 'nostop')}")
         print('='*70)
         
         # Créer index articles
@@ -797,7 +745,17 @@ class INEXRunGenerator:
         # Générer nom de fichier
         stemmer = config.get('stemmer', 'nostem')
         stop_words = config.get('stop_words', 'nostop')
-        filename = f"{self.team_name}_test2_ltn_article_{stop_words}_{stemmer}.txt"
+        
+        # Construire nom selon format INEX
+        filename = f"{self.team_name}_{run_id}_{weighting_scheme}_article_{stop_words}_{stemmer}"
+        
+        # Ajouter paramètres BM25 si nécessaire
+        if weighting_scheme == 'bm25':
+            k1_val = k1 if k1 is not None else 1.2
+            b_val = b if b is not None else 0.75
+            filename += f"_k_{k1_val}_b_{b_val}"
+        
+        filename += ".txt"
         filename = os.path.join("data/runs", filename)
         os.makedirs("data/runs", exist_ok=True)
         
@@ -807,15 +765,36 @@ class INEXRunGenerator:
             for query_id, query_text in queries.items():
                 print(f"\n[Query {query_id}] {query_text[:50]}...")
                 
-                # Recherche sur articles
-                top_articles = ranker.search_query(
-                    query_text,
-                    weighting_scheme='ltn',
-                    top_k=1500
-                )
+                # Recherche sur articles avec la bonne pondération
+                if weighting_scheme == 'bm25':
+                    top_articles = ranker.search_query(
+                        query_text,
+                        weighting_scheme='bm25',
+                        top_k=1500,
+                        k1=k1 if k1 is not None else 1.2,
+                        b=b if b is not None else 0.75
+                    )
+                else:
+                    top_articles = ranker.search_query(
+                        query_text,
+                        weighting_scheme=weighting_scheme,
+                        top_k=1500
+                    )
                 
+                # **CORRECTION: S'assurer d'avoir 1500 résultats**
+                if len(top_articles) < 1500:
+                    print(f"   Seulement {len(top_articles)} résultats, ajout de compléments...")
+                    
+                    all_docs = set(index.doc_ids)
+                    used_docs = set(doc_id for doc_id, _ in top_articles)
+                    remaining = list(all_docs - used_docs)[:1500-len(top_articles)]
+                    
+                    for doc_id in remaining:
+                        top_articles.append((doc_id, 0.000001))
+                
+                # Écrire résultats
                 rank = 1
-                for article_id, score in top_articles:
+                for article_id, score in top_articles[:1500]:
                     f.write(
                         f"{query_id} Q0 {article_id} {rank} "
                         f"{score:.6f} {self.team_name} /article[1]\n"
@@ -823,12 +802,52 @@ class INEXRunGenerator:
                     rank += 1
                     results_count += 1
                 
-                print(f"  {len(top_articles)} articles")
+                print(f"  {len(top_articles[:1500])} articles écrits")
         
         print(f"\n{'='*70}")
         print(f"RUN ARTICLES TERMINÉ: {filename}")
         print(f"Total résultats: {results_count}")
+        print(f"Vérification: {results_count} lignes (attendues: {7*1500}=10500)")
         print('='*70)
         
         return filename
-    
+
+    def generate_exercise3_with_fb_adapted(self, xml_dir, queries):
+        """Version fetch & browse adaptée pour exercice 3"""
+        
+        # Config EXACTE exercice 3
+        fetch_config = {'stemmer': 'nostem', 'stop_words': 'nostop'}
+        browse_config = {
+            'stemmer': 'nostem', 
+            'stop_words': 'nostop',
+            'target_tags': ['bdy', 'sec', 'p']  # Pas 'article'!
+        }
+        
+        # Paramètres STRICTS
+        run_params = {
+            'top_articles': 2000,  # Large pour être sûr
+            'max_elements': 1500,
+            'max_elements_per_article': 1,    # 1 seul élément
+            'weighting_scheme': 'ltn',        # SMART ltn
+            'fallback_to_article': False,     # PAS d'article
+            # Forcer hiérarchie p > sec > bdy
+            'selection_strategy': 'hierarchical',
+            'avoid_overlaps': True,
+        }
+        
+        # Générer avec fetch & browse
+        filename = self.generate_fetch_browse_run_optimized(
+            run_id="testXML_adapted",  # ← Contient testXML
+            xml_dir=xml_dir,
+            queries=queries,
+            fetch_config=fetch_config,
+            browse_config=browse_config,
+            run_params=run_params
+        )
+        
+        # Renommer pour correspondre au format demandé
+        new_filename = filename.replace("_adapted", "")
+        os.rename(filename, new_filename)
+        
+        return new_filename
+

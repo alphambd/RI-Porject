@@ -185,9 +185,9 @@ def exercice1():
     }
 
 # ==================== EXERCICE 2 ====================
-
+"""
 def exercice2():
-    """Exercice 2: 12 runs avec différentes combinaisons"""
+    #Exercice 2: 12 runs avec différentes combinaisons
     print_exercise_header(2, "XML documents test runs (12 combinaisons)")
     
     generator = INEXRunGenerator()
@@ -275,6 +275,84 @@ def exercice2():
               f"{result['weighting']:4s} | {basename}")
     
     return all_results
+"""
+def exercice2():
+    """Exercice 2: 12 runs - VERSION ULTRA SIMPLE"""
+    print_exercise_header(2, "XML documents test runs (12 combinaisons)")
+    
+    generator = INEXRunGenerator()
+    
+    # Toutes les combinaisons
+    combinations = [
+        # (weighting, stop, stemmer, run_id)
+        ("ltn", "nostop", "nostem", "test2"),
+        ("ltn", "nostop", "porter", "test2"),
+        ("ltn", "stop671", "nostem", "test2"),
+        ("ltn", "stop671", "porter", "test2"),
+        
+        ("ltc", "nostop", "nostem", "test2"),
+        ("ltc", "nostop", "porter", "test2"),
+        ("ltc", "stop671", "nostem", "test2"),
+        ("ltc", "stop671", "porter", "test2"),
+        
+        ("bm25", "nostop", "nostem", "test2"),
+        ("bm25", "nostop", "porter", "test2"),
+        ("bm25", "stop671", "nostem", "test2"),
+        ("bm25", "stop671", "porter", "test2"),
+    ]
+    
+    results = []
+    
+    for i, (weighting, stop, stemmer, run_id) in enumerate(combinations, 1):
+        print(f"\n{'='*60}")
+        print(f"CONFIGURATION {i}/12: {weighting.upper()}, stop={stop}, stemmer={stemmer}")
+        print('='*60)
+        
+        # Configuration simple
+        config = {
+            'tokenization': 'basic',
+            'stemmer': stemmer,
+            'stop_words': stop,
+            'use_lxml': True
+        }
+        
+        # Appel direct à la fonction
+        filename = generator.generate_article_run(
+            xml_dir=XML_DIR,
+            queries=INEX_QUERIES,
+            config=config,
+            run_id=run_id,
+            weighting_scheme=weighting
+        )
+        
+        results.append({
+            'num': i,
+            'weighting': weighting,
+            'stop': stop,
+            'stemmer': stemmer,
+            'filename': filename
+        })
+    
+    # Afficher le résumé
+    print("\n" + "="*70)
+    print("RÉSUMÉ DES 12 RUNS")
+    print("="*70)
+    
+    for result in results:
+        line_count = 0
+        try:
+            with open(result['filename'], 'r') as f:
+                line_count = sum(1 for _ in f)
+        except:
+            pass
+        
+        status = " OK" if line_count == 10500 else f"  {line_count}/10500"
+        
+        print(f"{result['num']:2d}. {result['weighting']:4s} | "
+              f"{result['stemmer']:7s} | stop={result['stop']:8s} | "
+              f"{status:15s} | {os.path.basename(result['filename'])}")
+    
+    return results
 
 # ==================== EXERCICE 3 ====================
 """
@@ -301,12 +379,14 @@ def exo3():
 
     # 1. Charger les queries INEX (à adapter selon ton format)
     
-    """
+    
     # 2. Exercice 3 - Version simple
-    run_gen.generate_element_run_simple(
+    run_gen.generate_exercise3_with_fb_adapted(
         xml_dir=XML_DIR,
         queries=INEX_QUERIES
     )
+
+
     """
 
     # 3. Exercices 4-6 - Fetch & Browse
@@ -328,14 +408,14 @@ def exo3():
         run_params = {
             'top_articles': 1500,
             'max_elements': 1500,
-            'max_elements_per_article': 5,
+            'max_elements_per_article': 1,
             'weighting_scheme': 'ltn',
             'min_element_score': 0.01,
             'selection_strategy': 'hierarchical',
             'avoid_overlaps': True,
             'fallback_to_article': True
         }
-    )
+    )"""
 # ==================== EXERCICE 4 ====================
 
 def exercice4():
@@ -452,21 +532,24 @@ def exercice5():
         # Configuration
         config = {
             'tokenization': 'basic',
-            'stemmer': 'porter',
-            'stop_words': 'stop671',
-            'use_lxml': True
+            'stemmer': 'nostem',
+            'stop_words': 'nostop',
+            #'use_lxml': True
         }
         
+        # champs uniques et distincts
         fields_config = {
-            'title': ['title'],
-            'body': ['bdy'],
+            'title': ['title'],      # Balise <title> dans header
+            'body': ['bdy'],         # Balise <bdy> principale
         }
         
+        # Poids: titre plus important que corps
         field_weights = {
-            'title': 2.5,
+            'title': 3.0,    
             'body': 1.0
         }
         
+        # Paramètres BM25
         run_params = {
             'k1': 1.2,
             'b': 0.75,
@@ -504,29 +587,33 @@ def exercice6():
     try:
         from exercices_5_6_with_cache import generate_field_weighted_run_cached
         
-        # Configuration
+        # Configuration DIFFÉRENTE pour montrer la variation
         config = {
             'tokenization': 'basic',
-            'stemmer': 'porter',
-            'stop_words': 'nostop',
-            'use_lxml': True
+            'stemmer': 'nostem',
+            'stop_words': 'nostop',  
+            #'use_lxml': True
         }
         
+        # champs uniques et distincts
+        # Ajout d'un troisième champ "first_section" pour montrer la différence
         fields_config = {
-            'title': ['title'],
-            'abstract': ['bdy'],
-            'body': ['bdy']
+            'title': ['title'],          # Titre
+            'body': ['bdy'],             # Corps principal
+            #'first_section': ['sec'],    # Première section
         }
         
+        # Poids différents pour montrer l'impact
         field_weights = {
-            'title': 3.0,
-            'abstract': 1.5,
-            'body': 1.0
+            'title': 3.0,           # Très important
+            'body': 1.0,            # Standard
+            #'first_section': 1.5    # Un peu plus important que le corps
         }
         
+        # Paramètres BM25 différents
         run_params = {
-            'k1': 1.5,
-            'b': 0.8,
+            'k1': 1.2,      
+            'b': 0.75,      
             'max_files': None
         }
         
@@ -534,7 +621,7 @@ def exercice6():
         
         filename = generate_field_weighted_run_cached(
             generator=generator,
-            run_id=f"{GROUP_NUMBER}_test6",
+            run_id="test6",
             run_type="bm25fr",
             xml_dir=XML_DIR,
             queries=INEX_QUERIES,
@@ -597,7 +684,7 @@ def main(selected_exercises: List[int] = None):
             
             try:
                 results[f'ex{ex_num}'] = func()
-                print(f"✅ Exercice {ex_num} terminé")
+                print(f" Exercice {ex_num} terminé")
             except Exception as e:
                 print(f"❌ Erreur exercice {ex_num}: {e}")
                 import traceback
@@ -654,9 +741,11 @@ if __name__ == "__main__":
         #main()
         print("hello")
 
-    #clean_runs_directory()
+    clean_runs_directory()
     #exercice1()
-    #exercice2()
+    exercice2()
     #exercice3()
-    exo3()
-
+    #exo3()
+    #exercice5()
+    #exercice6()
+    

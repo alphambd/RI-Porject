@@ -79,26 +79,24 @@ class INEXDocument:
             return self._get_elements_dom(target_tags)
         else:
             return self._get_elements_regex(target_tags)
-    
+
     def _get_elements_dom(self, target_tags: Set[str]) -> List[Dict]:
-        """Version DOM (lxml) pour extraction précise"""
+        """Version DOM (lxml) pour extraction précise - CORRIGÉE"""
         elements = []
         
         if self.root is None:
             return elements
         
-        # Tags principaux pour INEX
-        main_tags = {'article', 'bdy', 'sec', 'p'}
-        
-        def build_inex_path(elem, include_article=True):
-            """Construit un chemin XPath INEX-compatible"""
+        def build_inex_path(elem):
+            """Construit un chemin XPath INEX-compatible - CORRIGÉE"""
             path_parts = []
             current = elem
             
             while current is not None:
                 tag = self._clean_tag(current.tag)
                 
-                if tag in main_tags:
+                #  SEULEMENT les tags qui nous intéressent
+                if tag in {'article', 'bdy', 'sec', 'p'}:
                     parent = current.getparent()
                     if parent is not None:
                         siblings = [c for c in parent if self._clean_tag(c.tag) == tag]
@@ -111,8 +109,6 @@ class INEXDocument:
                         path_parts.insert(0, f"{tag}[1]")
                 
                 current = current.getparent()
-                if tag == 'article' and not include_article:
-                    break
             
             if not path_parts:
                 return "/article[1]"
@@ -120,7 +116,7 @@ class INEXDocument:
             return '/' + '/'.join(path_parts)
         
         def extract_meaningful_text(elem) -> str:
-            """Extrait le texte en évitant les small_err_nodes"""
+            #Extrait le texte en évitant les small_err_nodes
             try:
                 text_parts = []
                 for t in elem.itertext():
@@ -137,7 +133,7 @@ class INEXDocument:
                 return ""
         
         def is_valid_content(text: str, tag: str) -> bool:
-            """Valide le contenu selon le type d'élément"""
+            #Valide le contenu selon le type d'élément
             if not text or not text.strip():
                 return False
             
@@ -145,9 +141,9 @@ class INEXDocument:
             
             # Seuils minimaux par tag (augmentés pour éviter small_err_nodes)
             min_lengths = {
-                'p': 15,     # 20 caractères minimum
-                'sec': 30,   # 30 caractères  
-                'bdy': 50    # 50 caractères
+                'p': 10,     # 20 caractères minimum
+                'sec': 20,   # 30 caractères  
+                'bdy': 30    # 50 caractères
             }
             
             min_chars = min_lengths.get(tag, 20)
@@ -159,17 +155,18 @@ class INEXDocument:
             return True
         
         def process_element(elem, level=0):
-            """Traite un élément XML récursivement"""
+            """Traite un élément XML récursivement - CORRIGÉE"""
             tag = self._clean_tag(elem.tag)
             
-            if tag in target_tags or tag == 'article':
+            # CORRECTION : SEULEMENT les tags cibles (pas 'article' !)
+            if tag in target_tags:  # ← Retirer "or tag == 'article'"
                 text = extract_meaningful_text(elem)
                 
                 if is_valid_content(text, tag):
-                    xml_path = build_inex_path(elem, include_article=(tag != 'article'))
+                    xml_path = build_inex_path(elem)
                     
-                    # Limiter la profondeur
-                    if xml_path.count('/') <= 8:
+                    # S'assurer que le chemin ne soit PAS juste /article[1]
+                    if xml_path != '/article[1]' and xml_path.count('/') <= 8:
                         element_id = f"{self.doc_id}_{hashlib.md5(xml_path.encode()).hexdigest()[:8]}"
                         
                         elements.append({
@@ -180,7 +177,6 @@ class INEXDocument:
                             'xml_path': xml_path,
                             'source_file': self.xml_path,
                             'depth': level,
-                            'is_article': (tag == 'article'),
                             'priority': self._get_tag_priority(tag),
                             'char_count': len(text)
                         })
@@ -192,27 +188,16 @@ class INEXDocument:
         
         process_element(self.root)
         
-        # Éliminer les doublons et trier
-        unique_elements = []
-        seen_paths = set()
-        
+        # Filtrer pour enlever tout élément qui serait juste /article[1]
+        filtered_elements = []
         for elem in elements:
-            if elem['xml_path'] not in seen_paths:
-                seen_paths.add(elem['xml_path'])
-                unique_elements.append(elem)
+            if elem['xml_path'] != '/article[1]':
+                filtered_elements.append(elem)
         
-        # Trier par priorité et profondeur
-        unique_elements.sort(key=lambda x: (
-            0 if x['is_article'] else 1,
-            -x['priority'],
-            x['depth'],
-            x['xml_path']
-        ))
-        
-        return unique_elements
-    
+        return filtered_elements
+
     def _get_elements_regex(self, target_tags: Set[str]) -> List[Dict]:
-        """Version regex (fallback) pour extraction sans lxml"""
+        #Version regex (fallback) pour extraction sans lxml
         try:
             with open(self.xml_path, 'r', encoding='utf-8', errors='ignore') as f:
                 content = f.read()
@@ -227,7 +212,7 @@ class INEXDocument:
             
             # Fonction pour extraire récursivement les balises
             def extract_tag_content(tag_name, text, parent_path="", level=0):
-                """Extrait récursivement le contenu d'une balise"""
+                #Extrait récursivement le contenu d'une balise
                 pattern = fr'<{tag_name}[^>]*>((?:(?!<{"|".join(target_tags)}>).)*?)</{tag_name}>'
                 matches = list(re.finditer(pattern, text, re.DOTALL | re.IGNORECASE))
                 
@@ -246,22 +231,23 @@ class INEXDocument:
                     text_content = INEXDocument.clean_and_normalize_text(text_content)
                     
                     if text_content and len(text_content) > 10:
-                        # ID unique
-                        path_hash = hashlib.md5(current_path.encode()).hexdigest()[:8]
-                        element_id = f"{doc_id}_{path_hash}"
+                        if current_path and current_path != '/article[1]':
+                            # ID unique
+                            path_hash = hashlib.md5(current_path.encode()).hexdigest()[:8]
+                            element_id = f"{doc_id}_{path_hash}"
+                            
+                            elements.append({
+                                'elem_id': element_id,
+                                'doc_id': doc_id,
+                                'tag': tag_name,
+                                'text': text_content,
+                                'xml_path': current_path,
+                                'full_path': f"/article[1]{current_path}",
+                                'file_path': self.xml_path,
+                                'priority': self._get_tag_priority(tag_name),
+                                'char_count': len(text_content)
+                            })
                         
-                        elements.append({
-                            'elem_id': element_id,
-                            'doc_id': doc_id,
-                            'tag': tag_name,
-                            'text': text_content,
-                            'xml_path': current_path,
-                            'full_path': f"/article[1]{current_path}",
-                            'file_path': self.xml_path,
-                            'priority': self._get_tag_priority(tag_name),
-                            'char_count': len(text_content)
-                        })
-                    
                     # Explorer récursivement les balises cibles à l'intérieur
                     if level < 3:
                         for target in target_tags:
@@ -299,7 +285,7 @@ class INEXDocument:
         except Exception as e:
             print(f"Erreur regex {self.xml_path}: {e}")
             return []
-    
+
     def _extract_doc_id_from_content(self, content: str) -> Optional[str]:
         """Extrait l'ID depuis le contenu brut"""
         id_match = re.search(r'<title>.*?</title>\s*<id>(\d+)</id>', content)
@@ -876,20 +862,13 @@ class WeightedInvertedIndex:
         return stats
     
     def get_cache_data(self):
-        """Retourne TOUTES les données pouvant être sérialisées pour le cache"""
-        data = {
+        """Retourne les données pouvant être sérialisées pour le cache"""
+        return {
             'dictionary': dict(self.dictionary),
             'doc_ids': self.doc_ids,
             'doc_lengths': self.doc_lengths,
             'doc_count': self.doc_count,
             'total_terms': self.total_terms,
-            
-            # STATISTIQUES CRITIQUES POUR LE SCORING
-            'total_tokens_bp': self.total_tokens_bp,
-            'distinct_tokens_bp': list(self.distinct_tokens_bp),  # Convertir set en list
-            'total_chars_tokens': self.total_chars_tokens,
-            'avg_doc_length': self.avg_doc_length if hasattr(self, 'avg_doc_length') else 0,
-            
             'metadata_store': self.metadata_store,
             'config': {
                 'stop_list_name': self.stop_list_name,
@@ -897,157 +876,46 @@ class WeightedInvertedIndex:
                 'tokenization_method': self.tokenization_method,
                 'target_tags': list(self.target_tags) if hasattr(self, 'target_tags') else [],
                 'use_lxml': self.use_lxml
-            }
+            },
+            'xml_cache_keys': list(self.xml_cache_keys)
         }
-        
-        # Ajouter xml_cache_keys si l'attribut existe
-        if hasattr(self, 'xml_cache_keys'):
-            data['xml_cache_keys'] = list(self.xml_cache_keys)
-        
-        return data
-
+    
     def save_to_file(self, filename: str):
-        """Sauvegarde l'index avec vérification préalable"""
-        # Vérifier l'intégrité avant sauvegarde
-        self._verify_and_fix_statistics()
-        
-        # Générer les données
+        """Sauvegarde l'index dans un fichier"""
         data_to_save = self.get_cache_data()
-        
-        # Vérifier que toutes les clés nécessaires sont présentes
-        required_keys = ['dictionary', 'doc_ids', 'doc_lengths', 'doc_count', 
-                        'total_terms', 'avg_doc_length']
-        
-        missing_keys = [key for key in required_keys if key not in data_to_save]
-        if missing_keys:
-            print(f"  [WARN] Clés manquantes dans sauvegarde: {missing_keys}")
-        
-        # Sauvegarder
         with open(filename, 'wb') as f:
             pickle.dump(data_to_save, f, protocol=pickle.HIGHEST_PROTOCOL)
-        
-        print(f"  Index sauvegardé: {filename}")
-        print(f"  Statistiques: docs={self.doc_count}, terms={self.total_terms}, avg_len={self.avg_doc_length:.2f}")
-
+    
     @classmethod
     def load_from_file(cls, filename: str):
-        """Charge un index depuis un fichier avec TOUTES les statistiques"""
+        """Charge un index depuis un fichier"""
         with open(filename, 'rb') as f:
             data = pickle.load(f)
         
         index = cls()
-        
-        # Données principales
         index.dictionary = defaultdict(dict, data['dictionary'])
         index.doc_ids = data['doc_ids']
         index.doc_lengths = data['doc_lengths']
         index.doc_count = data['doc_count']
         index.total_terms = data['total_terms']
-        
-        # STATISTIQUES CRITIQUES (avec fallback)
-        index.total_tokens_bp = data.get('total_tokens_bp', 0)
-        
-        distinct_tokens = data.get('distinct_tokens_bp', [])
-        index.distinct_tokens_bp = set(distinct_tokens) if isinstance(distinct_tokens, list) else set()
-        
-        index.total_chars_tokens = data.get('total_chars_tokens', 0)
-        
-        # avg_doc_length - vérifier et corriger si nécessaire
-        index.avg_doc_length = data.get('avg_doc_length', 0)
-        if index.avg_doc_length == 0 and index.doc_count > 0:
-            # Recalculer si manquant ou invalide
-            index.avg_doc_length = index.total_terms / index.doc_count
-        
-        index.metadata_store = data.get('metadata_store', {})
+        index.metadata_store = data['metadata_store']
         
         # Restaurer la configuration
-        config = data.get('config', {})
-        index.stop_list_name = config.get('stop_list_name', 'nostop')
-        index.stemmer_name = config.get('stemmer_name', 'nostem')
-        index.tokenization_method = config.get('tokenization_method', 'basic')
+        config = data['config']
+        index.stop_list_name = config['stop_list_name']
+        index.stemmer_name = config['stemmer_name']
+        index.tokenization_method = config['tokenization_method']
         
         if 'target_tags' in config:
             index.target_tags = set(config['target_tags'])
-        else:
-            index.target_tags = set()
         
-        index.use_lxml = config.get('use_lxml', True)
+        index.use_lxml = config.get('use_lxml', LXML_AVAILABLE)
         
         if 'xml_cache_keys' in data:
             index.xml_cache_keys = set(data['xml_cache_keys'])
-        else:
-            index.xml_cache_keys = set()
-        
-        # VÉRIFICATION FINALE DE COHÉRENCE
-        index._verify_and_fix_statistics()
         
         return index
-
-    def _verify_and_fix_statistics(self):
-        """Vérifie et corrige les statistiques incohérentes"""
-        # 1. Vérifier doc_count
-        actual_doc_count = len(self.doc_ids)
-        if self.doc_count != actual_doc_count:
-            print(f"  [FIX] Correction doc_count: {self.doc_count} -> {actual_doc_count}")
-            self.doc_count = actual_doc_count
-        
-        # 2. Vérifier total_terms
-        calculated_total_terms = sum(self.doc_lengths.values())
-        if self.total_terms != calculated_total_terms:
-            print(f"  [FIX] Correction total_terms: {self.total_terms} -> {calculated_total_terms}")
-            self.total_terms = calculated_total_terms
-        
-        # 3. Recalculer avg_doc_length si nécessaire
-        if self.doc_count > 0:
-            new_avg = self.total_terms / self.doc_count
-            if abs(self.avg_doc_length - new_avg) > 0.1:
-                print(f"  [FIX] Correction avg_doc_length: {self.avg_doc_length:.2f} -> {new_avg:.2f}")
-                self.avg_doc_length = new_avg
-        else:
-            self.avg_doc_length = 0
-        
-        # 4. Vérifier que distinct_tokens_bp est un set
-        if not isinstance(self.distinct_tokens_bp, set):
-            if isinstance(self.distinct_tokens_bp, list):
-                self.distinct_tokens_bp = set(self.distinct_tokens_bp)
-            else:
-                self.distinct_tokens_bp = set()
-
-    def verify_index_integrity(self) -> Dict[str, any]:
-        """Vérifie l'intégrité de l'index et retourne les statistiques"""
-        print("\n[VERIFICATION INTÉGRITÉ INDEX]")
-        
-        stats = {
-            'doc_count': len(self.doc_ids),
-            'total_terms': sum(self.doc_lengths.values()),
-            'distinct_terms': len(self.dictionary),
-            'stored_doc_count': self.doc_count,
-            'stored_total_terms': self.total_terms,
-            'stored_avg_doc_length': self.avg_doc_length,
-            'consistent': True
-        }
-        
-        # Vérifications
-        if stats['doc_count'] != stats['stored_doc_count']:
-            stats['consistent'] = False
-        
-        if stats['total_terms'] != stats['stored_total_terms']:
-            stats['consistent'] = False
-        
-        # Calculer avg_doc_length réel
-        if stats['doc_count'] > 0:
-            real_avg = stats['total_terms'] / stats['doc_count']
-            if abs(stats['stored_avg_doc_length'] - real_avg) > 0.01:
-                stats['consistent'] = False
-        
-        if stats['consistent']:
-            print("  Index cohérent...")
-        else:
-            print("  Index incohérent - correction nécessaire")
-            self._verify_and_fix_statistics()
-        
-        return stats
-            
+    
     def build_index_with_stats(self, xml_dir: str, max_files: Optional[int] = None) -> Dict:
         """
         Indexe les articles et retourne les données complètes pour compute_statistics
