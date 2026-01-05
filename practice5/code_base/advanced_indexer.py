@@ -300,120 +300,104 @@ class WeightedInvertedIndex:
         
         return text.strip()
     
-
-
-
-
-
-    def extract_xml_elements(self, xml_file_path, target_tags=None):
-        """
-        Phase BROWSE (fetch & browse – cours)
-        Extrait les éléments XML candidats comme points d’accès INEX
-        """
-        # to handle
-        if target_tags is None:
-            target_tags = ["p", "sec", "bdy"]
-        
+    def extract_xml_elements(self, xml_file_path, target_tags=['bdy', 'sec', 'p']):
+        """Extrait les éléments XML avec regex - ULTRA ROBUSTE"""
         try:
-            tree = ET.parse(xml_file_path)
-            root = tree.getroot()
-
-            # --- Identifier l'article ---
-            article = root.find(".//article")
-            if article is None:
-                return []
-
-            # ID article
-            id_node = article.find(".//id")
-            doc_id = id_node.text.strip() if id_node is not None else os.path.basename(xml_file_path)
-
-            results = []
-
-            # --- Helper : texte direct (sans descendants) ---
-            def get_own_text(elem):
-                texts = []
-                if elem.text:
-                    texts.append(elem.text)
-                for child in elem:
-                    if child.tail:
-                        texts.append(child.tail)
-                text = " ".join(texts)
-                text = self.clean_html_entities(self.remove_balise(text))
-                return re.sub(r"\s+", " ", text).strip()
-
-            # --- ARTICLE (fallback) ---
-            results.append({
-                "elem_id": f"{doc_id}_article",
-                "doc_id": doc_id,
-                "tag": "article",
-                "role": "root",
-                "text": "",  # pas indexé directement
-                "xml_path": "/article[1]",
-                "file_path": xml_file_path
-            })
-
-            # --- BODY ---
-            bdy = article.find(".//bdy")
-            if bdy is None:
-                return results
-
-            results.append({
-                "elem_id": f"{doc_id}_bdy",
-                "doc_id": doc_id,
-                "tag": "bdy",
-                "role": "context-global",
-                "text": "",  # jamais indexé directement
-                "xml_path": "/article[1]/bdy[1]",
-                "file_path": xml_file_path
-            })
-
-            # --- SECTIONS ---
-            for sec_idx, sec in enumerate(bdy.findall(".//sec"), start=1):
-                sec_text = get_own_text(sec)
-
-                sec_id = f"{doc_id}_sec_{sec_idx}"
-                sec_path = f"/article[1]/bdy[1]/sec[{sec_idx}]"
-
-                results.append({
-                    "elem_id": sec_id,
-                    "doc_id": doc_id,
-                    "tag": "sec",
-                    "role": "context",
-                    "text": sec_text,
-                    "xml_path": sec_path,
-                    "file_path": xml_file_path
-                })
-
-                # --- PARAGRAPHS ---
-                for p_idx, p in enumerate(sec.findall("./p"), start=1):
-                    p_text = get_own_text(p)
-                    if len(p_text) < 20:
-                        continue
-
-                    p_id = f"{doc_id}_sec{sec_idx}_p{p_idx}"
-                    p_path = f"{sec_path}/p[{p_idx}]"
-
-                    results.append({
-                        "elem_id": p_id,
-                        "doc_id": doc_id,
-                        "tag": "p",
-                        "role": "content",
-                        "text": p_text,
-                        "xml_path": p_path,
-                        "file_path": xml_file_path
-                    })
-
-            return results
-
+            with open(xml_file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                content = f.read()
+            
+            # Extraire l'ID de l'article
+            doc_id = None
+            id_match = re.search(r'<title>.*?</title>\s*<id>(\d+)</id>', content)
+            if id_match:
+                doc_id = id_match.group(1)
+                        
+            if not doc_id:
+                doc_id = os.path.basename(xml_file_path).replace('.xml', '')
+            
+            elements = []
+            
+            # Fonction pour extraire récursivement les balises
+            def extract_tag_content(tag_name, text, parent_path="", level=0):
+                """Extrait récursivement le contenu d'une balise"""
+                pattern = fr'<{tag_name}[^>]*>((?:(?!<{"|".join(self.target_tags)}>).)*?)</{tag_name}>'
+                matches = list(re.finditer(pattern, text, re.DOTALL | re.IGNORECASE))
+                
+                for i, match in enumerate(matches):
+                    full_content = match.group(0)
+                    inner_content = match.group(1)
+                    
+                    # Chemin XML approximatif
+                    elem_index = i + 1
+                    current_path = f"{parent_path}/{tag_name}[{elem_index}]" if parent_path else f"/{tag_name}[{elem_index}]"
+                    
+                    # Extraire le texte (supprimer les sous-balises)
+                    text_content = self.remove_balise(inner_content)
+                    text_content = self.clean_html_entities(text_content)
+                    text_content = re.sub(r'\s+', ' ', text_content).strip()
+                    
+                    if text_content and len(text_content) > 10:
+                        # ID unique
+                        path_hash = hashlib.md5(current_path.encode()).hexdigest()[:8]
+                        element_id = f"{doc_id}_{path_hash}"
+                        
+                        elements.append({
+                            'elem_id': element_id,
+                            'doc_id': doc_id,
+                            'tag': tag_name,
+                            'text': text_content,
+                            'xml_path': current_path,
+                            'full_path': f"/article[1]{current_path}",
+                            'file_path': xml_file_path
+                        })
+                    
+                    # Explorer récursivement les balises cibles à l'intérieur
+                    # if level < 3:  # Limiter la profondeur pour accélérer le lancement (utile pour dev)
+                    for target in target_tags:
+                        if target != tag_name:  # Éviter la double extraction
+                            extract_tag_content(target, inner_content, current_path, level + 1)
+            
+            # Rechercher le corps principal (<bdy> ou <body>)
+            # Chercher d'abord bdy
+            bdy_match = re.search(r'<bdy[^>]*>(.*?)</bdy>', content, re.DOTALL | re.IGNORECASE)
+            if bdy_match:
+                bdy_content = bdy_match.group(1)
+                # Extraire toutes les balises cibles depuis bdy
+                for tag in target_tags:
+                    extract_tag_content(tag, bdy_content, "/bdy[1]")
+            else:
+                # Fallback: chercher dans tout le document
+                # Mais d'abord isoler l'article
+                article_match = re.search(r'<article[^>]*>(.*?)</article>', content, re.DOTALL | re.IGNORECASE)
+                if article_match:
+                    article_content = article_match.group(1)
+                    for tag in target_tags:
+                        extract_tag_content(tag, article_content, "/article[1]")
+                else:
+                    # Dernier recours: tout le contenu
+                    for tag in target_tags:
+                        extract_tag_content(tag, content)
+            
+            # Éliminer les doublons (même texte)
+            unique_elements = []
+            seen_texts = set()
+            
+            for elem in elements:
+                text_hash = hashlib.md5(elem['text'].encode()).hexdigest()
+                if text_hash not in seen_texts:
+                    seen_texts.add(text_hash)
+                    unique_elements.append(elem)
+            
+            # Statistiques
+            if len(unique_elements) > 0:
+                tag_counts = Counter([e['tag'] for e in unique_elements])
+                #print(f"  Regex: {os.path.basename(xml_file_path)}: {len(unique_elements)} éléments ({dict(tag_counts)})")
+            
+            return unique_elements
+            
         except Exception as e:
-            print(f"Erreur XML {xml_file_path}: {e}")
+            print(f"Erreur regex {xml_file_path}: {e}")
             return []
-
-
-
-
-
-
 
     def _get_xml_files(self, xml_dir, max_files=None):
         """Retourne la liste des fichiers XML d'un répertoire"""
@@ -501,71 +485,53 @@ class WeightedInvertedIndex:
         end_time = time.time()
         return end_time - start_time
             
-    def build_index_from_xml_elements(self, xml_dir, target_tags=("p", "sec", "bdy"), max_files=None):
-        """
-        Phase d’indexation des unités XML (browse units)
-        - Chaque élément XML est une unité documentaire
-        - Les éléments sont regroupés par article (fetch & browse)
-        """
-
-        import time
-        from collections import defaultdict
-
+    def build_index_from_xml_elements(self, xml_dir, target_tags=['bdy', 'sec', 'p'], max_files=None):
+        """Indexe les éléments XML individuels"""
         start_time = time.time()
-
-        print(f"Indexation des éléments XML: {target_tags}")
-
-        # Configuration
+        
+        print(f"Indexation des éléments {target_tags}...")
+        
+        # Configurer le type de document
         self.doc_type = "element"
         self.target_tags = target_tags
-
-        # STRUCTURE CLÉ POUR FETCH & BROWSE
-        self.elements_by_article = defaultdict(list)
-
+        
+        # Lister les fichiers XML
         xml_files = self._get_xml_files(xml_dir, max_files)
+        
         total_elements = 0
-
-        for xml_file in xml_files:
+        
+        for i, xml_file in enumerate(xml_files):
+            # Extraire les éléments
             elements = self.extract_xml_elements(xml_file, target_tags)
-
-            for elem in elements:
-                elem_id = elem["elem_id"]
-                article_id = elem["doc_id"]
-                text = elem["text"]
-
-                # Indexation textuelle (inverted index)
-                indexed = self._index_document_content(elem_id, text)
-
-                if not indexed:
-                    continue
-
-                # --- MÉTADONNÉES (unité documentaire XML) ---
-                self.store_metadata(elem_id, {
-                    "doc_id": article_id,
-                    "parent_doc_id": article_id,
-                    "element_id": elem_id,
-                    "xml_path": elem["full_path"],
-                    "tag": elem["tag"],
-                    "type": "element",
-                    "source_file": elem["file_path"]
-                })
-
-                # --- STRUCTURE FETCH & BROWSE ---
-                self.elements_by_article[article_id].append(elem_id)
-
-                total_elements += 1
-
+            
+            for elem_data in elements:
+                elem_id = elem_data['elem_id']
+                elem_text = elem_data['text']
+                
+                # Indexer avec la méthode générique
+                if self._index_document_content(elem_id, elem_text):
+                    # Métadonnées pour les éléments
+                    self.store_metadata(elem_id, {
+                        'doc_id': elem_data['doc_id'],
+                        'parent_doc_id': elem_data['doc_id'],
+                        'element_id': elem_id,
+                        'xml_path': elem_data['full_path'],
+                        'tag': elem_data['tag'],
+                        'type': 'element',
+                        'source_file': elem_data['file_path']
+                    })
+                    total_elements += 1
+        
         self.doc_count = total_elements
-        self.avg_doc_length = (
-            self.total_terms / self.doc_count if self.doc_count > 0 else 0
-        )
-
-        elapsed = time.time() - start_time
-
-        print(f"Indexation terminée : {total_elements} éléments")
-        print(f"Temps d’indexation : {elapsed:.2f}s")
-
-        return elapsed
+        self.avg_doc_length = self.total_terms / self.doc_count if self.doc_count > 0 else 0
+        
+        end_time = time.time()
+        indexing_time = end_time - start_time
+        
+        print(f"\nIndexation terminée: {total_elements} éléments indexés")
+        print(f"Temps d'indexation: {indexing_time:.2f} secondes")
+        
+        return indexing_time
 
     def get_collection_statistics(self, indexing_time):
         """Calcule TOUTES les statistiques demandées"""

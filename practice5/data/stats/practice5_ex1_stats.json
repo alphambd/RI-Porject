@@ -1,0 +1,16 @@
+{
+  "indexing_time": 62.98873782157898,
+  "total_documents": 9804,
+  "total_tokens": 10931813,
+  "distinct_tokens": 257439,
+  "avg_token_length": 7.588174285947351,
+  "total_terms": 10931813,
+  "distinct_terms": 206380,
+  "avg_term_length": 7.703929644345382,
+  "avg_doc_length_terms": 1115.0360057119542,
+  "avg_doc_length_chars": 6901.046817625459,
+  "tokenization": "basic",
+  "stemmer": "nostem",
+  "stop_words": "nostop",
+  "use_lxml": true
+}

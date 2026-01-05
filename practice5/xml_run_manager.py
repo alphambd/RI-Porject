@@ -1,626 +1,573 @@
 import os
 import time
 import pickle
-from advanced_indexer import WeightedInvertedIndex
 from collections import defaultdict
+from typing import List, Dict, Optional
+import hashlib
+
+from indexer import WeightedInvertedIndex
+from ranked_retrieval import RankedRetrieval
 
 
-CACHE_DIR = "data/cache"
-os.makedirs(CACHE_DIR, exist_ok=True)
-
-# ============================================
-# FONCTIONS de configuration avec CACHE
-# ============================================
-
-def get_cache_filename(config_type, params):
-    """Génère un nom de fichier de cache basé sur la configuration"""
-    config_hash = hash(frozenset(params.items()))
-    return os.path.join(CACHE_DIR, f"{config_type}_{abs(config_hash)}.pkl")
-
-def create_index_with_cache(data_file_path, config_params):
+class INEXRunGenerator:
+    """Générateur de runs INEX unifié pour tous les exercices"""
+    
+    def __init__(self, cache_dir="data/cache"):
+        self.cache_dir = cache_dir
+        os.makedirs(cache_dir, exist_ok=True)
+        self.team_name = "AlphaAnaClement"
+    
+    def _get_cache_key(self, config_type: str, params: Dict) -> str:
+        """Génère une clé de cache unique"""
+        params_str = str(sorted(params.items()))
+        key = hashlib.md5(params_str.encode()).hexdigest()[:16]
+        return f"{config_type}_{key}"
     """
-    Crée un index avec gestion de cache pour éviter les recalculs
-    
-    Args:
-        data_file_path: Chemin vers les fichiers XML
-        config_params: Dictionnaire de configuration (tokenization, stemmer, stop_words)
-    
-    Returns:
-        Dictionnaire contenant l'index et les statistiques
-    """
-    print(f"\nCréation d'index avec configuration: {config_params}")
-    print("=" * 60)
-    
-    # Vérifier si l'index existe en cache
-    cache_file = get_cache_filename("article_index", config_params)
-    if os.path.exists(cache_file):
-        print(f"Chargement de l'index depuis le cache: {cache_file}")
+    def create_or_load_index(self, xml_dir: str, index_type: str, 
+                            config: Dict, max_files: int = None) -> Dict:
+        
+        #Crée ou charge un index depuis le cache
+        
+        cache_key = self._get_cache_key(f"{index_type}_index", config)
+        cache_file = os.path.join(self.cache_dir, f"{cache_key}.pkl")
+        
+        # Vérifier le cache
+        if os.path.exists(cache_file):
+            print(f"Chargement {index_type} depuis cache...")
+            try:
+                index = WeightedInvertedIndex.load_from_file(cache_file)
+                
+                # Si c'est un index d'éléments, restaurer target_tags
+                if index_type == 'element' and 'target_tags' in config:
+                    index.target_tags = set(config['target_tags'])
+                
+                return {
+                    'index': index,
+                    'indexing_time': 0,
+                    'config': config
+                }
+            except Exception as e:
+                print(f"Cache corrompu ({e}), recalcul...")
+        
+        # Créer un nouvel index
+        index = WeightedInvertedIndex()
+        index.configure(**config)
+        
+        start_time = time.time()
+        
+        if index_type == 'article':
+            indexing_time = index.build_index_from_xml_collection(xml_dir, max_files)
+        else:  # 'element'
+            target_tags = config.get('target_tags', ['sec', 'p', 'bdy'])
+            indexing_time = index.build_index_from_xml_elements(xml_dir, target_tags, max_files)
+        
+        # Sauvegarder dans le cache
         try:
-            with open(cache_file, 'rb') as f:
-                cached_data = pickle.load(f)
-            print("SUCCES - Index chargé depuis le cache!")
-            return cached_data
+            index.save_to_file(cache_file)
+            print(f"Index {index_type} sauvegardé dans le cache")
         except Exception as e:
-            print(f"ERREUR de chargement du cache: {e}")
-            print("Recalcul de l'index...")
-    
-    # Créer un nouvel index
-    index = WeightedInvertedIndex()
-    index.configure_tokenization(config_params['tokenization'])
-    index.configure_stemmer(config_params['stemmer'])
-    index.configure_stop_words(config_params['stop_words'])
-    
-    # Mesure du temps d'indexation
-    start_time = time.time()
-    indexing_time = index.build_index_from_xml_collection(data_file_path)
-    end_time = time.time()
-    
-    if indexing_time is None:
-        indexing_time = end_time - start_time
-    
-    # Obtenir les statistiques
-    stats = index.get_collection_statistics(indexing_time)
-    
-    # Préparer les données pour le cache
-    index_data = {
-        'index': index,
-        'indexing_time': indexing_time,
-        'stats': stats,
-        'config': config_params
-    }
-    
-    # Sauvegarder dans le cache
-    try:
-        with open(cache_file, 'wb') as f:
-            pickle.dump(index_data, f)
-        print(f"SUCCES - Index sauvegardé dans le cache: {cache_file}")
-    except Exception as e:
-        print(f"ERREUR de sauvegarde du cache: {e}")
-    
-    return index_data
-
-def create_element_index_with_cache(xml_dir, target_tags, config_params):
+            print(f"Erreur sauvegarde cache: {e}")
+        
+        return {
+            'index': index,
+            'indexing_time': indexing_time,
+            'config': config
+        }
     """
-    Crée un index d'éléments XML avec gestion de cache
-    
-    Args:
-        xml_dir: Répertoire des fichiers XML
-        target_tags: Liste des tags XML à indexer (ex: ['bdy', 'sec', 'p'])
-        config_params: Dictionnaire de configuration
-    
-    Returns:
-        Dictionnaire contenant l'index et les statistiques
-    """
-    print(f"\nCréation d'index éléments: tags={target_tags}, config={config_params}")
-    print("=" * 70)
-    
-    # Vérifier si l'index existe en cache
-    cache_params = config_params.copy()
-    cache_params['target_tags'] = tuple(target_tags)  # Convertir en tuple pour le hash
-    cache_file = get_cache_filename("element_index", cache_params)
-    
-    if os.path.exists(cache_file):
-        print(f"Chargement de l'index éléments depuis le cache: {cache_file}")
+    def create_or_load_index(self, xml_dir: str, index_type: str, 
+                            config: Dict, max_files: int = None) -> Dict:
+        """
+        Crée ou charge un index depuis le cache
+        Retourne: {'index': index, 'indexing_time': temps, 'config': config}
+        """
+        cache_key = self._get_cache_key(f"{index_type}_index", config)
+        cache_file = os.path.join(self.cache_dir, f"{cache_key}.pkl")
+        
+        # Vérifier le cache
+        if os.path.exists(cache_file):
+            print(f"Chargement {index_type} depuis cache...")
+            try:
+                index = WeightedInvertedIndex.load_from_file(cache_file)
+                return {
+                    'index': index,
+                    'indexing_time': 0,  # Temps de chargement négligeable
+                    'config': config
+                }
+            except Exception as e:
+                print(f"Cache corrompu ({e}), recalcul...")
+        
+        # Créer un nouvel index
+        index = WeightedInvertedIndex()
+        index.configure(**config)
+        
+        start_time = time.time()
+        
+        if index_type == 'article':
+            indexing_time = index.build_index_from_xml_collection(xml_dir, max_files)
+        else:  # 'element'
+            target_tags = config.get('target_tags', ['sec', 'p', 'bdy'])
+            indexing_time = index.build_index_from_xml_elements(xml_dir, target_tags, max_files)
+        
+        # Sauvegarder dans le cache
         try:
-            with open(cache_file, 'rb') as f:
-                cached_data = pickle.load(f)
-            print("SUCCES - Index éléments chargé depuis le cache!")
-            return cached_data
+            index.save_to_file(cache_file)
+            print(f"Index {index_type} sauvegardé dans le cache")
         except Exception as e:
-            print(f"ERREUR de chargement du cache: {e}")
-            print("Recalcul de l'index éléments...")
-    
-    # Créer un nouvel index d'éléments
-    index = WeightedInvertedIndex()
-    index.configure_tokenization(config_params['tokenization'])
-    index.configure_stemmer(config_params['stemmer'])
-    index.configure_stop_words(config_params['stop_words'])
-    
-    start_time = time.time()
-    indexing_time = index.build_index_from_xml_elements(xml_dir, target_tags)
-    end_time = time.time()
-    
-    if indexing_time is None:
-        indexing_time = end_time - start_time
-    
-    stats = index.get_collection_statistics(indexing_time)
-    
-    # Préparer les données pour le cache
-    element_data = {
-        'index': index,
-        'indexing_time': indexing_time,
-        'stats': stats,
-        'config': {**config_params, 'target_tags': target_tags}
-    }
-    
-    # Sauvegarder dans le cache
-    try:
-        with open(cache_file, 'wb') as f:
-            pickle.dump(element_data, f)
-        print(f"SUCCES - Index éléments sauvegardé dans le cache: {cache_file}")
-    except Exception as e:
-        print(f"ERREUR de sauvegarde du cache: {e}")
-    
-    return element_data
-
-# ============================================
-# FONCTIONS utilitaires pour FETCH and BROWSE
-# ============================================
-
-def get_elements_for_article(article_id, query_terms, element_ranker, score_threshold=0.0,
-                            weighting_scheme="ltn", k1=1.2, b=0.75):
-    """
-    Récupère les éléments d'un article avec leur score
-    
-    Args:
-        article_id: ID de l'article
-        query_terms: Termes de la requête
-        element_ranker: Ranker pour les éléments
-        score_threshold: Seuil minimal de score
-        weighting_scheme: Schéma de pondération
-        k1: Paramètre k1 pour BM25
-        b: Paramètre b pour BM25
-    
-    Returns:
-        Liste d'éléments avec leurs métadonnées et scores
-    """
-    article_elements = []
-    
-    for element_id in element_ranker.index.doc_ids:
-        metadata = element_ranker.index.get_metadata(element_id)
+            print(f"Erreur sauvegarde cache: {e}")
         
-        # Vérifier si l'élément appartient à cet article
-        if str(metadata.get('parent_doc_id', '')) == str(article_id):
-            # Calculer le score avec le schéma de pondération spécifié
-            score = 0.0
-            for term in query_terms:
-                weight = element_ranker.get_term_weight_cached(
-                    term, element_id, weighting_scheme, k1, b
-                )
-                if weight is not None:
-                    score += weight
-            
-            # Filtrer par seuil de score
-            if score >= score_threshold:
-                article_elements.append({
-                    'element_id': element_id,
-                    'score': score,
-                    'article_id': article_id,
-                    'xml_path': metadata.get('xml_path', '/article[1]'),
-                    'tag': metadata.get('tag', 'element')
-                })
+        return {
+            'index': index,
+            'indexing_time': indexing_time,
+            'config': config
+        }
+    # ==================== MÉTHODES POUR EXERCICES 1-2 ====================
     
-    return article_elements
-
-def select_top_elements_without_overlap(elements, max_elements=1500):
-    """
-    Sélectionne les meilleurs éléments sans overlap
-    
-    Args:
-        elements: Liste d'éléments triés par score décroissant
-        max_elements: Nombre maximum d'éléments à sélectionner
-    
-    Returns:
-        Liste filtrée sans overlaps
-    """
-    filtered_elements = []
-    taken_paths = set()
-    
-    for elem in elements:
-        if len(filtered_elements) >= max_elements:
-            break
+    def generate_article_run(self, run_id: str, xml_dir: str, 
+                            queries: Dict[int, str], config: Dict,
+                            weighting_scheme: str = "ltn",
+                            k1: float = 1.2, b: float = 0.75) -> str:
+        """
+        Génère un run pour articles (exercices 1-2)
+        """
+        print(f"\n{'='*70}")
+        print(f"GÉNÉRATION RUN ARTICLES {run_id} - {weighting_scheme.upper()}")
+        print('='*70)
         
-        xml_path = elem['xml_path']
-        conflict = False
+        # Créer/charger index
+        index_data = self.create_or_load_index(xml_dir, 'article', config)
+        index = index_data['index']
+        ranker = RankedRetrieval(index)
         
-        # Vérifier les conflits avec les chemins déjà pris
-        for taken in taken_paths:
-            if (xml_path.startswith(taken + '/') or 
-                taken.startswith(xml_path + '/')):
-                conflict = True
-                break
+        # Générer nom de fichier
+        filename = self._generate_article_filename(run_id, config, weighting_scheme, k1, b)
         
-        if not conflict:
-            filtered_elements.append(elem)
-            taken_paths.add(xml_path)
-    
-    return filtered_elements
-
-def group_elements_by_article(elements):
-    """
-    Groupe les éléments par article et les trie
-    
-    Args:
-        elements: Liste d'éléments
+        results_count = 0
         
-    Returns:
-        Dictionnaire {article_id: [éléments triés]}
-    """
-    
-    elements_by_article = defaultdict(list)
-    for elem in elements:
-        elements_by_article[elem['article_id']].append(elem)
-    
-    # Trier les éléments dans chaque article par score
-    for article_id in elements_by_article:
-        elements_by_article[article_id].sort(key=lambda x: -x['score'])
-    
-    return elements_by_article
-
-def write_results_to_file(f, query_id, elements_by_article, team_name, start_rank=1):
-    """
-    Écrit les résultats dans le fichier format INEX
-    
-    Args:
-        f: File object
-        query_id: ID de la requête
-        elements_by_article: Éléments groupés par article
-        team_name: Nom de l'équipe
-        start_rank: Rang de départ
-    
-    Returns:
-        Prochain rang disponible
-    """
-    # Trier les articles par score du meilleur élément
-    sorted_articles = sorted(
-        elements_by_article.items(),
-        key=lambda x: max(e['score'] for e in x[1]) if x[1] else 0,
-        reverse=True
-    )
-    
-    current_rank = start_rank
-    for article_id, article_elements in sorted_articles:
-        for elem in article_elements:
-            f.write(f"{query_id} Q0 {article_id} {current_rank} {elem['score']:.6f} {team_name} {elem['xml_path']}\n")
-            current_rank += 1
-    
-    return current_rank
-
-# ============================================
-# APPROCHE : Fetch and Browse avec Pooling
-# ============================================
-
-def generate_fetch_browse_pooling(run_id, article_ranker, element_ranker, queries,
-                                           top_articles=500, score_threshold=0.01,
-                                           progress_interval=50):
-    """
-    Fetch and Browse avec pooling intelligent - Version optimisée
-    
-    Args:
-        run_id: Identifiant du run
-        article_ranker: Ranker pour les articles
-        element_ranker: Ranker pour les éléments
-        queries: Dictionnaire des requêtes
-        top_articles: Nombre d'articles à considérer
-        score_threshold: Seuil minimal de score (optimisation importante)
-        progress_interval: Intervalle d'affichage de progression
-    
-    Returns:
-        Nom du fichier généré
-    """
-    team_name = "AlphaAnaClement"
-    filename = f"{team_name}_{run_id}_testXML_fetch-browse-pooling_opt_nostop_nostem.txt"
-    runs_dir = "data/runs"
-    os.makedirs(runs_dir, exist_ok=True)
-    
-    print(f"\nGENERATION DU RUN - Fetch and Browse avec Pooling Optimisé")
-    print(f"   Fichier: {filename}")
-    print(f"   Paramètres: top_articles={top_articles}, score_threshold={score_threshold}")
-    print("-" * 70)
-    
-    total_start_time = time.time()
-    
-    with open(os.path.join(runs_dir, filename), "w", encoding="utf-8") as f:
-        for query_id, query_text in queries.items():
-            query_start_time = time.time()
-            print(f"  REQUETE {query_id}: '{query_text}'")
-            
-            # 1. Préparer les termes de la requête (une seule fois)
-            query_terms = element_ranker.process_query_terms(query_text)
-            print(f"    Termes de la requête: {len(query_terms)}")
-            
-            # 2. FETCH: Recherche des articles pertinents
-            fetch_start = time.time()
-            top_articles_list = article_ranker.search_query(
-                query_text, 
-                weighting_scheme="ltn",
-                top_k=top_articles
-            )
-            fetch_time = time.time() - fetch_start
-            print(f"    + PHASE FETCH: {len(top_articles_list)} articles trouvés en {fetch_time:.2f}s")
-            
-            # 3. BROWSE: Collecte des éléments pertinents avec seuil
-            browse_start = time.time()
-            global_pool = []
-            elements_collected = 0
-            articles_with_elements = 0
-            
-            for article_idx, (article_id, article_score) in enumerate(top_articles_list, 1):
-                # Affichage de progression
-                if article_idx % progress_interval == 0:
-                    print(f"      Article {article_idx}/{len(top_articles_list)} - "
-                          f"{len(global_pool)} éléments collectés")
+        with open(filename, 'w', encoding='utf-8') as f:
+            for query_id, query_text in queries.items():
+                print(f"\n[Query {query_id}] {query_text[:50]}...")
                 
-                # Récupérer les éléments de cet article (avec seuil)
-                article_elements = get_elements_for_article(
-                    article_id, 
-                    query_terms, 
-                    element_ranker,
-                    score_threshold=score_threshold
-                )
-                
-                if article_elements:
-                    articles_with_elements += 1
-                    global_pool.extend(article_elements)
-                    elements_collected += len(article_elements)
-            
-            browse_time = time.time() - browse_start
-            print(f"    + PHASE BROWSE: {elements_collected} éléments de {articles_with_elements} articles en {browse_time:.2f}s")
-            
-            # 4. TRI: Trier le pool global par score
-            sort_start = time.time()
-            global_pool.sort(key=lambda x: -x['score'])
-            sort_time = time.time() - sort_start
-            print(f"    + PHASE TRI: {len(global_pool)} éléments triés en {sort_time:.2f}s")
-            
-            # 5. FILTRAGE: Éliminer les overlaps
-            filter_start = time.time()
-            filtered_elements = select_top_elements_without_overlap(
-                global_pool,
-                max_elements=1500
-            )
-            filter_time = time.time() - filter_start
-            print(f"    + PHASE FILTRAGE: {len(filtered_elements)} éléments après anti-overlap en {filter_time:.2f}s")
-            
-            # Si pas assez d'éléments, baisser le seuil progressivement
-            if len(filtered_elements) < 1500 and score_threshold > 0:
-                print(f"    ATTENTION - Seulement {len(filtered_elements)} éléments, recherche supplémentaire...")
-                
-                # Recherche d'éléments supplémentaires avec seuil réduit
-                additional_elements = []
-                additional_threshold = score_threshold / 2
-                
-                for article_idx, (article_id, article_score) in enumerate(top_articles_list, 1):
-                    # Prendre seulement les articles qui n'ont pas assez d'éléments
-                    article_elements = get_elements_for_article(
-                        article_id, 
-                        query_terms, 
-                        element_ranker,
-                        score_threshold=additional_threshold
-                    )
-                    
-                    # Filtrer pour ne garder que les éléments non déjà pris
-                    taken_paths = {e['xml_path'] for e in filtered_elements}
-                    for elem in article_elements:
-                        if len(filtered_elements) + len(additional_elements) >= 1500:
-                            break
-                        
-                        conflict = False
-                        for taken in taken_paths:
-                            if (elem['xml_path'].startswith(taken + '/') or 
-                                taken.startswith(elem['xml_path'] + '/')):
-                                conflict = True
-                                break
-                        
-                        if not conflict:
-                            additional_elements.append(elem)
-                            taken_paths.add(elem['xml_path'])
-                
-                # Ajouter les éléments supplémentaires
-                if additional_elements:
-                    additional_elements.sort(key=lambda x: -x['score'])
-                    filtered_elements.extend(additional_elements[:1500 - len(filtered_elements)])
-                    print(f"    SUCCES - {len(additional_elements)} éléments supplémentaires ajoutés")
-            
-            # 6. GROUPEMENT: Par article pour éviter l'interleaving
-            group_start = time.time()
-            elements_by_article = group_elements_by_article(filtered_elements[:1500])
-            group_time = time.time() - group_start
-            
-            # 7. ÉCRITURE: Dans le fichier
-            write_start = time.time()
-            write_results_to_file(f, query_id, elements_by_article, team_name)
-            write_time = time.time() - write_start
-            
-            query_time = time.time() - query_start_time
-            
-            # Statistiques
-            num_articles = len(elements_by_article)
-            avg_elements_per_article = len(filtered_elements[:1500]) / num_articles if num_articles > 0 else 0
-            
-            print(f"    RESULTATS: {len(filtered_elements[:1500])} éléments sur {num_articles} articles")
-            print(f"    TEMPS TOTAL REQUETE: {query_time:.2f}s")
-            print(f"      - FETCH: {fetch_time:.2f}s")
-            print(f"      - BROWSE: {browse_time:.2f}s")
-            print(f"      - TRI: {sort_time:.2f}s")
-            print(f"      - FILTRAGE: {filter_time:.2f}s")
-            print(f"      - GROUPEMENT: {group_time:.2f}s")
-            print(f"      - ECRITURE: {write_time:.2f}s")
-            print()
-    
-    total_time = time.time() - total_start_time
-    print(f"\nSUCCES - Run sauvegardé: {filename}")
-    print(f"TEMPS TOTAL D'EXECUTION: {total_time:.2f} secondes")
-    
-    return filename
-
-def generate_fetch_browse_pooling_optimized(run_id, article_ranker, element_ranker, queries,
-                                           top_articles=500, score_threshold=0.01,
-                                           progress_interval=50, weighting_scheme="ltn",
-                                           k1=1.2, b=0.75):
-    """
-    Fetch and Browse avec pooling intelligent - Version optimisée avec choix de pondération
-    
-    Args:
-        run_id: Identifiant du run
-        article_ranker: Ranker pour les articles
-        element_ranker: Ranker pour les éléments
-        queries: Dictionnaire des requêtes
-        top_articles: Nombre d'articles à considérer
-        score_threshold: Seuil minimal de score
-        progress_interval: Intervalle d'affichage de progression
-        weighting_scheme: Schéma de pondération (ltn, ltc, bm25)
-        k1: Paramètre k1 pour BM25 (si applicable)
-        b: Paramètre b pour BM25 (si applicable)
-    
-    Returns:
-        Nom du fichier généré
-    """
-    team_name = "AlphaAnaClement"
-    
-    # Construire le nom de fichier avec les paramètres
-    weighting_str = weighting_scheme
-    if weighting_scheme == "bm25":
-        weighting_str = f"bm25_k{k1}_b{b}"
-    
-    filename = f"{team_name}_{run_id}_testXML_fetch-browse_{weighting_str}.txt"
-    runs_dir = "data/runs"
-    os.makedirs(runs_dir, exist_ok=True)
-    
-    print(f"\nGENERATION DU RUN - Fetch and Browse avec {weighting_scheme.upper()}")
-    print(f"   Fichier: {filename}")
-    print(f"   Paramètres: top_articles={top_articles}, score_threshold={score_threshold}")
-    if weighting_scheme == "bm25":
-        print(f"   Paramètres BM25: k1={k1}, b={b}")
-    print("-" * 70)
-    
-    total_start_time = time.time()
-    
-    with open(os.path.join(runs_dir, filename), "w", encoding="utf-8") as f:
-        for query_id, query_text in queries.items():
-            query_start_time = time.time()
-            print(f"  REQUETE {query_id}: '{query_text}'")
-            
-            # 1. Préparer les termes de la requête
-            query_terms = element_ranker.process_query_terms(query_text)
-            print(f"    Termes de la requête: {len(query_terms)}")
-            
-            # 2. FETCH: Recherche des articles pertinents
-            fetch_start = time.time()
-            top_articles_list = article_ranker.search_query(
-                query_text, 
-                weighting_scheme=weighting_scheme,
-                top_k=top_articles,
-                k1=k1,
-                b=b
-            )
-            fetch_time = time.time() - fetch_start
-            print(f"    PHASE FETCH: {len(top_articles_list)} articles trouvés en {fetch_time:.2f}s")
-            
-            # 3. BROWSE: Collecte des éléments pertinents avec seuil
-            browse_start = time.time()
-            global_pool = []
-            elements_collected = 0
-            articles_with_elements = 0
-            
-            for article_idx, (article_id, article_score) in enumerate(top_articles_list, 1):
-                # Affichage de progression
-                if article_idx % progress_interval == 0:
-                    print(f"      Article {article_idx}/{len(top_articles_list)} - "
-                          f"{len(global_pool)} éléments collectés")
-                
-                # Récupérer les éléments de cet article (avec seuil)
-                article_elements = get_elements_for_article(
-                    article_id, 
-                    query_terms, 
-                    element_ranker,
-                    score_threshold=score_threshold,
+                # Recherche
+                top_docs = ranker.search_query(
+                    query_text,
                     weighting_scheme=weighting_scheme,
+                    top_k=1500,
                     k1=k1,
                     b=b
                 )
                 
-                if article_elements:
-                    articles_with_elements += 1
-                    global_pool.extend(article_elements)
-                    elements_collected += len(article_elements)
-            
-            browse_time = time.time() - browse_start
-            print(f"    PHASE BROWSE: {elements_collected} éléments de {articles_with_elements} articles en {browse_time:.2f}s")
-            
-            # 4. TRI: Trier le pool global par score
-            sort_start = time.time()
-            global_pool.sort(key=lambda x: -x['score'])
-            sort_time = time.time() - sort_start
-            print(f"    + PHASE TRI: {len(global_pool)} éléments triés en {sort_time:.2f}s")
-            
-            # 5. FILTRAGE: Éliminer les overlaps
-            filter_start = time.time()
-            filtered_elements = select_top_elements_without_overlap(
-                global_pool,
-                max_elements=1500
-            )
-            filter_time = time.time() - filter_start
-            print(f"    + PHASE FILTRAGE: {len(filtered_elements)} éléments après anti-overlap en {filter_time:.2f}s")
-            
-            # Si pas assez d'éléments, baisser le seuil progressivement
-            if len(filtered_elements) < 1500 and score_threshold > 0:
-                print(f"    ATTENTION - Seulement {len(filtered_elements)} éléments, recherche supplémentaire...")
-                
-                # Recherche d'éléments supplémentaires avec seuil réduit
-                additional_elements = []
-                additional_threshold = score_threshold / 2
-                
-                for article_idx, (article_id, article_score) in enumerate(top_articles_list, 1):
-                    # Prendre seulement les articles qui n'ont pas assez d'éléments
-                    article_elements = get_elements_for_article(
-                        article_id, 
-                        query_terms, 
-                        element_ranker,
-                        score_threshold=additional_threshold
+                # Écrire résultats
+                rank = 1
+                for doc_id, score in top_docs:
+                    f.write(
+                        f"{query_id} Q0 {doc_id} {rank} "
+                        f"{score:.6f} {self.team_name} /article[1]\n"
                     )
-                    
-                    # Filtrer pour ne garder que les éléments non déjà pris
-                    taken_paths = {e['xml_path'] for e in filtered_elements}
-                    for elem in article_elements:
-                        if len(filtered_elements) + len(additional_elements) >= 1500:
-                            break
-                        
-                        conflict = False
-                        for taken in taken_paths:
-                            if (elem['xml_path'].startswith(taken + '/') or 
-                                taken.startswith(elem['xml_path'] + '/')):
-                                conflict = True
-                                break
-                        
-                        if not conflict:
-                            additional_elements.append(elem)
-                            taken_paths.add(elem['xml_path'])
+                    rank += 1
+                    results_count += 1
                 
-                # Ajouter les éléments supplémentaires
-                if additional_elements:
-                    additional_elements.sort(key=lambda x: -x['score'])
-                    filtered_elements.extend(additional_elements[:1500 - len(filtered_elements)])
-                    print(f"    SUCCES - {len(additional_elements)} éléments supplémentaires ajoutés")
-            
-            # 6. GROUPEMENT: Par article pour éviter l'interleaving
-            group_start = time.time()
-            elements_by_article = group_elements_by_article(filtered_elements[:1500])
-            group_time = time.time() - group_start
-            
-            # 7. ÉCRITURE: Dans le fichier
-            write_start = time.time()
-            write_results_to_file(f, query_id, elements_by_article, team_name)
-            write_time = time.time() - write_start
-            
-            query_time = time.time() - query_start_time
-            
-            # Statistiques
-            num_articles = len(elements_by_article)
-            avg_elements_per_article = len(filtered_elements[:1500]) / num_articles if num_articles > 0 else 0
-            
-            print(f"    RESULTATS: {len(filtered_elements[:1500])} éléments sur {num_articles} articles")
-            print(f"    TEMPS TOTAL REQUETE: {query_time:.2f}s")
-            print(f"      - FETCH: {fetch_time:.2f}s")
-            print(f"      - BROWSE: {browse_time:.2f}s")
-            print(f"      - TRI: {sort_time:.2f}s")
-            print(f"      - FILTRAGE: {filter_time:.2f}s")
-            print(f"      - GROUPEMENT: {group_time:.2f}s")
-            print(f"      - ECRITURE: {write_time:.2f}s")
-            print()
+                print(f"  {len(top_docs)} résultats")
+        
+        print(f"\n{'='*70}")
+        print(f"RUN TERMINÉ: {filename}")
+        print(f"Total résultats: {results_count}")
+        print('='*70)
+        
+        return filename
     
-    total_time = time.time() - total_start_time
-    print(f"\nSUCCES - Run sauvegardé: {filename}")
-    print(f"TEMPS TOTAL D'EXECUTION: {total_time:.2f} secondes")
+    def _generate_article_filename(self, run_id: str, config: Dict,
+                                weighting_scheme: str, k1: float, b: float) -> str:
+        """Génère nom de fichier pour articles"""
+        os.makedirs("data/runs", exist_ok=True)
+        
+        stemmer = config.get('stemmer', 'nostem')
+        stop_words = config.get('stop_words', 'nostop')
+        test_type = config.get('test_type', '')
+        
+        parts = [
+            self.team_name,
+            run_id  # run_id contient déjà le type de test si nécessaire
+        ]
+        
+        # Ajouter test_type seulement s'il n'est pas vide
+        if test_type and test_type.strip():
+            parts.append(test_type.strip())
+        
+        parts.extend([
+            weighting_scheme,
+            "article",
+            stop_words,
+            stemmer
+        ])
+        
+        if weighting_scheme == "bm25":
+            parts.extend([f"k1_{k1}", f"b_{b}"])
+        
+        # Filtrer les parties vides et créer le nom de fichier
+        filtered_parts = [part for part in parts if part and str(part).strip()]
+        filename = '_'.join(filtered_parts) + ".txt"
+        return os.path.join("data/runs", filename)
+
+    # ==================== MÉTHODES POUR EXERCICE 3 ====================
     
-    return filename
+    def generate_element_run_exercise3(self, xml_dir: str, queries: Dict[int, str]) -> str:
+        """
+        Spécifique pour l'exercice 3 : éléments avec SMART ltn
+        """
+        print(f"\n{'='*70}")
+        print("EXERCICE 3: Indexation XML éléments (bdy, sec, p) - SMART ltn")
+        print('='*70)
+        
+        # Configuration exacte exercice 3
+        config = {
+            'tokenization': 'basic',
+            'stemmer': 'nostem',
+            'stop_words': 'nostop',
+            'target_tags': ['bdy', 'sec', 'p']  # Pas 'article' !
+        }
+        
+        # Créer index éléments
+        index_data = self.create_or_load_index(xml_dir, 'element', config)
+        index = index_data['index']
+        ranker = RankedRetrieval(index)
+        
+        # Nom de fichier spécifique exercice 3
+        target_tags_str = '-'.join(sorted(config['target_tags']))
+        filename = f"{self.team_name}_testXML_ltn_element-{target_tags_str}_nostop_nostem.txt"
+        filename = os.path.join("data/runs", filename)
+        
+        os.makedirs("data/runs", exist_ok=True)
+        
+        results_count = 0
+        
+        with open(filename, 'w', encoding='utf-8') as f:
+            for query_id, query_text in queries.items():
+                print(f"\n[Query {query_id}] {query_text[:50]}...")
+                
+                # Recherche avec SMART ltn
+                top_docs = ranker.search_query(
+                    query_text,
+                    weighting_scheme='ltn',  # SMART ltn comme demandé
+                    top_k=1500
+                )
+                
+                rank = 1
+                for elem_id, score in top_docs:
+                    metadata = index.get_metadata(elem_id)
+                    article_id = metadata.get('parent_doc_id', 'unknown')
+                    xml_path = metadata.get('xml_path', '/article[1]')
+                    
+                    f.write(
+                        f"{query_id} Q0 {article_id} {rank} "
+                        f"{score:.6f} {self.team_name} {xml_path}\n"
+                    )
+                    rank += 1
+                    results_count += 1
+                
+                print(f"  {len(top_docs)} éléments")
+        
+        print(f"\n{'='*70}")
+        print(f"EXERCICE 3 TERMINÉ: {filename}")
+        print(f"Total résultats: {results_count}")
+        print('='*70)
+        
+        return filename
+    
+    def generate_element_run(self, run_id: str, xml_dir: str, 
+                            queries: Dict[int, str], config: Dict,
+                            weighting_scheme: str = "ltn",
+                            k1: float = 1.2, b: float = 0.75) -> str:
+        """
+        Génère un run pour éléments XML (exercice 4)
+        """
+        print(f"\n{'='*70}")
+        print(f"GÉNÉRATION RUN ÉLÉMENTS {run_id} - {weighting_scheme.upper()}")
+        print('='*70)
+        
+        # Créer/charger index
+        index_data = self.create_or_load_index(xml_dir, 'element', config)
+        index = index_data['index']
+        ranker = RankedRetrieval(index)
+        
+        # Générer nom de fichier
+        target_tags = config.get('target_tags', ['sec', 'p', 'bdy'])
+        target_tags_str = '-'.join(sorted(target_tags))
+        
+        parts = [
+            self.team_name,
+            run_id,
+            weighting_scheme,
+            f"element-{target_tags_str}",
+            config.get('stop_words', 'nostop'),
+            config.get('stemmer', 'nostem')
+        ]
+        
+        if weighting_scheme == "bm25":
+            parts.extend([f"k1_{k1}", f"b_{b}"])
+        
+        filename = '_'.join(parts) + ".txt"
+        filename = os.path.join("data/runs", filename)
+        
+        os.makedirs("data/runs", exist_ok=True)
+        
+        results_count = 0
+        
+        with open(filename, 'w', encoding='utf-8') as f:
+            for query_id, query_text in queries.items():
+                print(f"\n[Query {query_id}] {query_text[:50]}...")
+                
+                # Recherche
+                top_docs = ranker.search_query(
+                    query_text,
+                    weighting_scheme=weighting_scheme,
+                    top_k=1500,
+                    k1=k1,
+                    b=b
+                )
+                
+                # Écrire résultats
+                rank = 1
+                for elem_id, score in top_docs:
+                    metadata = index.get_metadata(elem_id)
+                    article_id = metadata.get('parent_doc_id', 'unknown')
+                    xml_path = metadata.get('xml_path', '/article[1]')
+                    
+                    f.write(
+                        f"{query_id} Q0 {article_id} {rank} "
+                        f"{score:.6f} {self.team_name} {xml_path}\n"
+                    )
+                    rank += 1
+                    results_count += 1
+                
+                print(f"  {len(top_docs)} éléments")
+        
+        print(f"\n{'='*70}")
+        print(f"RUN TERMINÉ: {filename}")
+        print(f"Total résultats: {results_count}")
+        print('='*70)
+        
+        return filename
+    
+    # ==================== MÉTHODES POUR EXERCICES 4-6 ====================
+    
+    def generate_fetch_browse_run(self, 
+                                 run_id: str,
+                                 xml_dir: str,
+                                 queries: Dict[int, str],
+                                 fetch_config: Dict,
+                                 browse_config: Dict,
+                                 run_params: Dict = None) -> str:
+        """
+        Version optimisée pour Fetch & Browse (exercices avancés)
+        """
+        if run_params is None:
+            run_params = {
+                'top_articles': 1600,
+                'max_elements': 1500,
+                'weighting_scheme': 'ltn',
+                'min_element_score': 0.00001
+            }
+        
+        print(f"\n{'='*70}")
+        print(f"GÉNÉRATION RUN {run_id} (Fetch & Browse)")
+        print('='*70)
+        
+        total_start = time.time()
+        
+        # 1. Phase FETCH
+        fetch_data = self.create_or_load_index(xml_dir, 'article', fetch_config)
+        fetch_index = fetch_data['index']
+        fetch_ranker = RankedRetrieval(fetch_index)
+        
+        # 2. Phase BROWSE
+        browse_data = self.create_or_load_index(xml_dir, 'element', browse_config)
+        browse_index = browse_data['index']
+        browse_ranker = RankedRetrieval(browse_index)
+        
+        # 3. Préparer cache
+        element_cache = {}
+        article_to_elements = defaultdict(list)
+        
+        for elem_id in browse_index.doc_ids:
+            metadata = browse_index.get_metadata(elem_id)
+            parent_id = str(metadata.get('parent_doc_id', ''))
+            
+            if parent_id:
+                article_to_elements[parent_id].append(elem_id)
+                
+                # Extraire tag
+                xml_path = metadata.get('xml_path', '')
+                tag = metadata.get('tag', 'unknown')
+                if tag == 'unknown':
+                    if '/p[' in xml_path:
+                        tag = 'p'
+                    elif '/sec[' in xml_path:
+                        tag = 'sec'
+                    elif '/bdy[' in xml_path:
+                        tag = 'bdy'
+                    elif xml_path == '/article[1]' or xml_path.endswith('/article[1]'):
+                        tag = 'article'
+                
+                priority = {'p': 4, 'sec': 3, 'bdy': 2, 'article': 1}.get(tag, 0)
+                
+                element_cache[elem_id] = {
+                    'xml_path': xml_path,
+                    'tag': tag,
+                    'priority': priority
+                }
+        
+        # 4. Générer le fichier
+        filename = self._generate_fetch_browse_filename(run_id, fetch_config, browse_config, run_params)
+        
+        results_count = 0
+        
+        with open(filename, 'w', encoding='utf-8') as f:
+            for query_id, query_text in queries.items():
+                query_start = time.time()
+                
+                print(f"\n[Query {query_id}] {query_text[:50]}...")
+                
+                # A. FETCH: Articles
+                top_articles = fetch_ranker.search_query(
+                    query_text,
+                    weighting_scheme=run_params['weighting_scheme'],
+                    top_k=run_params['top_articles']
+                )
+                
+                print(f"  FETCH: {len(top_articles)} articles")
+                
+                # B. Collecter éléments
+                article_results = defaultdict(list)
+                query_terms = browse_ranker.process_query_terms(query_text)
+                
+                for article_id, article_score in top_articles:
+                    str_article_id = str(article_id)
+                    
+                    if str_article_id in article_to_elements:
+                        for elem_id in article_to_elements[str_article_id]:
+                            score = 0.0
+                            for term in query_terms:
+                                weight = browse_ranker.get_term_weight(
+                                    term, elem_id,
+                                    weighting_scheme=run_params['weighting_scheme']
+                                )
+                                if weight:
+                                    score += weight
+                            
+                            if score >= run_params.get('min_element_score', 0.00001):
+                                elem_info = element_cache.get(elem_id, {})
+                                
+                                article_results[article_id].append({
+                                    'element_id': elem_id,
+                                    'score': score,
+                                    'priority': elem_info.get('priority', 0),
+                                    'tag': elem_info.get('tag', 'unknown'),
+                                    'xml_path': elem_info.get('xml_path', '/article[1]')
+                                })
+                    
+                    # Fallback: article entier
+                    if not article_results[article_id]:
+                        article_results[article_id].append({
+                            'element_id': f"{article_id}_article",
+                            'score': article_score,
+                            'priority': 1,
+                            'tag': 'article',
+                            'xml_path': '/article[1]'
+                        })
+                
+                # C. Sélectionner meilleur élément par article
+                final_elements = []
+                
+                for article_id, elements in article_results.items():
+                    if elements:
+                        elements.sort(key=lambda x: (-x['priority'], -x['score']))
+                        best = elements[0]
+                        final_elements.append({
+                            'article_id': article_id,
+                            'score': best['score'],
+                            'xml_path': best['xml_path'],
+                            'tag': best['tag']
+                        })
+                
+                # D. Trier et limiter
+                final_elements.sort(key=lambda x: -x['score'])
+                final_elements = final_elements[:run_params['max_elements']]
+                
+                # E. Écrire
+                rank = 1
+                for result in final_elements:
+                    xml_path = result['xml_path']
+                    
+                    if not xml_path.startswith('/article['):
+                        if '/article' in xml_path:
+                            xml_path = f"/article[1]{xml_path.split('/article', 1)[-1]}"
+                        else:
+                            xml_path = f"/article[1]{xml_path}"
+                    
+                    f.write(
+                        f"{query_id} Q0 {result['article_id']} {rank} "
+                        f"{result['score']:.6f} {self.team_name} {xml_path}\n"
+                    )
+                    rank += 1
+                    results_count += 1
+                
+                query_time = time.time() - query_start
+                print(f"  {len(final_elements)} éléments, temps: {query_time:.2f}s")
+        
+        total_time = time.time() - total_start
+        
+        print(f"\n{'='*70}")
+        print(f"RUN TERMINÉ: {filename}")
+        print(f"Total résultats: {results_count}")
+        print(f"Temps total: {total_time:.2f}s")
+        print('='*70)
+        
+        return filename
+    
+    def _generate_fetch_browse_filename(self, run_id: str,
+                                       fetch_config: Dict, browse_config: Dict,
+                                       run_params: Dict) -> str:
+        """Génère nom de fichier pour Fetch & Browse"""
+        os.makedirs("data/runs", exist_ok=True)
+        
+        parts = [
+            self.team_name,
+            run_id,
+            f"fetch-{fetch_config.get('stemmer', 'nostem')}-{fetch_config.get('stop_words', 'nostop')}",
+            f"browse-{'_'.join(browse_config.get('target_tags', ['sec','p']))}",
+            run_params['weighting_scheme']
+        ]
+        
+        if run_params['weighting_scheme'] == 'bm25':
+            parts.append(f"k{run_params.get('k1', 1.2)}")
+            parts.append(f"b{run_params.get('b', 0.75)}")
+        
+        filename = "_".join(parts) + ".txt"
+        return os.path.join("data/runs", filename)
+    
+    def validate_run_file(self, filename: str) -> bool:
+        """Valide qu'un run respecte les règles INEX"""
+        print(f"\n[VALIDATION de {filename}]")
+        
+        with open(filename, 'r') as f:
+            lines = [line.strip() for line in f if line.strip()]
+        
+        violations = 0
+        
+        # Vérifier nombre de résultats
+        if len(lines) != 7 * 1500:
+            print(f"  ⚠️  Nombre de résultats: {len(lines)} (attendu: {7 * 1500})")
+        
+        # Vérifier format
+        for i, line in enumerate(lines[:10]):
+            parts = line.split()
+            if len(parts) != 7:
+                print(f"  ❌ Ligne {i+1}: Format incorrect")
+                violations += 1
+        
+        if violations == 0:
+            print(f"  ✅ RUN VALIDE")
+        else:
+            print(f"  ❌ {violations} violations détectées")
+        
+        return violations == 0

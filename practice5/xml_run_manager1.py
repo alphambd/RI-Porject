@@ -1,7 +1,7 @@
 import os
 import time
 import pickle
-from ind import WeightedInvertedIndex
+from advanced_indexer import WeightedInvertedIndex
 from collections import defaultdict
 
 
@@ -147,51 +147,50 @@ def create_element_index_with_cache(xml_dir, target_tags, config_params):
 # FONCTIONS utilitaires pour FETCH and BROWSE
 # ============================================
 
-def get_elements_for_article(article_id, query_terms, ranker,
-                             weighting_scheme="ltn", k1=1.2, b=0.75,
-                             score_threshold=0.0):
+def get_elements_for_article(article_id, query_terms, element_ranker, score_threshold=0.0,
+                            weighting_scheme="ltn", k1=1.2, b=0.75):
     """
-    Phase BROWSE locale (cours)
+    Récupère les éléments d'un article avec leur score
+    
+    Args:
+        article_id: ID de l'article
+        query_terms: Termes de la requête
+        element_ranker: Ranker pour les éléments
+        score_threshold: Seuil minimal de score
+        weighting_scheme: Schéma de pondération
+        k1: Paramètre k1 pour BM25
+        b: Paramètre b pour BM25
+    
+    Returns:
+        Liste d'éléments avec leurs métadonnées et scores
     """
-    elements = []
-    index = ranker.index
-
-    for elem_id in index.elements_by_article.get(article_id, []):
-        score = 0.0
-        for term in query_terms:
-            w = ranker.get_term_weight_cached(
-                term, elem_id, weighting_scheme, k1, b
-            )
-            if w:
-                score += w
-
-        if score >= score_threshold:
-            meta = index.get_metadata(elem_id)
-            elements.append({
-                "element_id": elem_id,
-                "article_id": article_id,
-                "score": score,
-                "xml_path": meta["xml_path"],
-                "tag": meta["tag"]
-            })
-
-    return elements
-
-def select_non_overlapping(elements, max_elements):
-    selected = []
-    taken = set()
-
-    for e in sorted(elements, key=lambda x: -x["score"]):
-        path = e["xml_path"]
-        if any(path.startswith(t + "/") or t.startswith(path + "/") for t in taken):
-            continue
-        selected.append(e)
-        taken.add(path)
-        if len(selected) >= max_elements:
-            break
-
-    return selected
-
+    article_elements = []
+    
+    for element_id in element_ranker.index.doc_ids:
+        metadata = element_ranker.index.get_metadata(element_id)
+        
+        # Vérifier si l'élément appartient à cet article
+        if str(metadata.get('parent_doc_id', '')) == str(article_id):
+            # Calculer le score avec le schéma de pondération spécifié
+            score = 0.0
+            for term in query_terms:
+                weight = element_ranker.get_term_weight_cached(
+                    term, element_id, weighting_scheme, k1, b
+                )
+                if weight is not None:
+                    score += weight
+            
+            # Filtrer par seuil de score
+            if score >= score_threshold:
+                article_elements.append({
+                    'element_id': element_id,
+                    'score': score,
+                    'article_id': article_id,
+                    'xml_path': metadata.get('xml_path', '/article[1]'),
+                    'tag': metadata.get('tag', 'element')
+                })
+    
+    return article_elements
 
 def select_top_elements_without_overlap(elements, max_elements=1500):
     """
@@ -624,52 +623,4 @@ def generate_fetch_browse_pooling_optimized(run_id, article_ranker, element_rank
     print(f"\nSUCCES - Run sauvegardé: {filename}")
     print(f"TEMPS TOTAL D'EXECUTION: {total_time:.2f} secondes")
     
-    return filename
-
-
-def generate_fetch_browse_run(run_id, article_ranker, element_ranker,
-                              queries, top_articles=500,
-                              weighting_scheme="ltn", k1=1.2, b=0.75):
-    team = "AlphaAnaClement"
-    filename = f"{team}_{run_id}_fetch_browse_{weighting_scheme}.txt"
-    os.makedirs("data/runs", exist_ok=True)
-
-    with open(f"data/runs/{filename}", "w", encoding="utf-8") as f:
-        for qid, qtext in queries.items():
-            query_terms = element_ranker.process_query_terms(qtext)
-
-            # FETCH
-            articles = article_ranker.search_query(
-                qtext, weighting_scheme, top_k=top_articles, k1=k1, b=b
-            )
-
-            global_results = []
-
-            # BROWSE
-            for article_id, _ in articles:
-                elems = get_elements_for_article(
-                    article_id,
-                    query_terms,
-                    element_ranker,
-                    weighting_scheme,
-                    k1, b,
-                    score_threshold=0.01
-                )
-                elems = select_non_overlapping(elems, max_elements=20)
-                global_results.extend(elems)
-
-            # TRI FINAL
-            global_results.sort(key=lambda x: -x["score"])
-            final = select_non_overlapping(global_results, 1500)
-
-            # ÉCRITURE
-            rank = 1
-            for e in final:
-                f.write(
-                    f"{qid} Q0 {e['article_id']} {rank} "
-                    f"{e['score']:.6f} {team} {e['xml_path']}\n"
-                )
-                rank += 1
-
-    print(f"Run généré: {filename}")
     return filename

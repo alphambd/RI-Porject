@@ -60,14 +60,25 @@ class INEXDocument:
                             return id_text
         except:
             pass
-                
-        # 2. Extraire du nom de fichier
+        
+        # 2. Chercher n'importe quel <id> dans le document
+        try:
+            for elem in self.root.iter():
+                tag = self._clean_tag(elem.tag)
+                if tag == 'id' and elem.text:
+                    id_text = elem.text.strip()
+                    if id_text.isdigit():
+                        return id_text
+        except:
+            pass
+        
+        # 3. Extraire du nom de fichier
         filename = os.path.basename(self.xml_path)
         numbers = re.findall(r'\d+', filename)
         if numbers:
             return max(numbers, key=len)
         
-        # 3. Fallback: hash du chemin
+        # 4. Fallback: hash du chemin
         return hashlib.md5(self.xml_path.encode()).hexdigest()[:8]
     
     def get_inex_elements(self, target_tags: Set[str]) -> List[Dict]:
@@ -141,20 +152,33 @@ class INEXDocument:
             if not text or not text.strip():
                 return False
             
-            cleaned = text.strip()
+            clean_text = text.strip()
+            length = len(clean_text)
+            words = len(clean_text.split())
             
             # Seuils minimaux par tag (augmentés pour éviter small_err_nodes)
-            min_lengths = {
-                'p': 15,     # 20 caractères minimum
-                'sec': 30,   # 30 caractères  
-                'bdy': 50    # 50 caractères
+            min_requirements = {
+                'article': {'chars': 200, 'words': 30},
+                'bdy': {'chars': 100, 'words': 20},
+                'sec': {'chars': 50, 'words': 10},
+                'p': {'chars': 40, 'words': 8}  # Augmenté de 10 à 40 caractères
             }
             
-            min_chars = min_lengths.get(tag, 20)
-            
-            # Condition UNIQUE
-            if len(cleaned) < min_chars:
+            req = min_requirements.get(tag, {'chars': 30, 'words': 5})
+            if length < req['chars'] or words < req['words']:
                 return False
+            
+            # Éviter les éléments non informatifs
+            lower_text = clean_text.lower()
+            non_informative = [
+                'see also', 'references', 'external links',
+                'further reading', 'bibliography', 'contents',
+                'navigation menu', 'jump to'
+            ]
+            
+            for pattern in non_informative:
+                if pattern in lower_text and words < 15:
+                    return False
             
             return True
         
@@ -490,12 +514,12 @@ class INEXDocument:
     
     @staticmethod
     def _normalize_text(text: str) -> str:
-        #Normalisation finale du texte
+        """Normalisation finale du texte"""
         if not text:
             return ""
         
         # Supprimer les caractères non alphabétiques (sauf espaces)
-        #text = re.sub(r'[^A-Za-z\s]', ' ', text)
+        text = re.sub(r'[^A-Za-z\s]', ' ', text)
         
         # Normaliser les espaces
         text = re.sub(r'\s+', ' ', text)
@@ -722,10 +746,10 @@ class WeightedInvertedIndex:
             self.store_metadata(doc_id, metadata)
         
         return True
-    
+    """
     def build_index_from_xml_collection(self, xml_dir: str, 
-                                    max_files: Optional[int] = None) -> float:
-        """Indexe les articles complets (phase FETCH ou exercices 1-2)"""
+                                       max_files: Optional[int] = None) -> float:
+        #Indexe les articles complets 
         print(f"Indexation des articles depuis {xml_dir}...")
         start_time = time.time()
         
@@ -741,8 +765,8 @@ class WeightedInvertedIndex:
             if not doc.parse(self.use_lxml):
                 continue
             
-            # Utiliser extract_full_article_text() qui fait le nettoyage complet
-            text = doc.extract_full_article_text()
+            # Extraire tout le texte de l'article
+            text = self._extract_full_article_text(doc)
             
             if text and len(text) > 100:
                 doc_id = doc.doc_id
@@ -767,11 +791,39 @@ class WeightedInvertedIndex:
         indexing_time = time.time() - start_time
         print(f"Indexation terminée: {self.doc_count} articles en {indexing_time:.2f}s")
         return indexing_time
-    
+    """
     def build_index_from_articles(self, xml_dir: str, 
                                  max_files: Optional[int] = None) -> float:
         """Alias pour compatibilité avec le code existant"""
         return self.build_index_from_xml_collection(xml_dir, max_files)
+    
+    def _extract_full_article_text(self, doc: INEXDocument) -> str:
+        """Extrait tout le texte pertinent d'un article"""
+        text_parts = []
+        
+        def collect_text(elem):
+            if hasattr(elem, 'tag'):
+                tag = elem.tag if hasattr(elem.tag, 'strip') else str(elem.tag)
+                if '}' in tag:
+                    tag = tag.split('}', 1)[1]
+                
+                # Ignorer certaines balises non textuelles
+                if tag in ['link', 'image', 'caption', 'ref']:
+                    return
+                
+                if elem.text:
+                    text_parts.append(elem.text.strip())
+                
+                for child in elem:
+                    collect_text(child)
+                
+                if elem.tail:
+                    text_parts.append(elem.tail.strip())
+        
+        if doc.root:
+            collect_text(doc.root)
+        
+        return ' '.join(text_parts)
     
     def build_index_from_xml_elements(self, xml_dir: str, 
                                      target_tags: List[str] = ['sec', 'p', 'bdy'],
@@ -842,7 +894,7 @@ class WeightedInvertedIndex:
             xml_files = xml_files[:max_files]
         
         return xml_files
-    
+    """
     def get_collection_statistics(self, indexing_time=None):
         #Calcule TOUTES les statistiques demandées
         total_tokens = self.total_tokens_bp
@@ -874,22 +926,15 @@ class WeightedInvertedIndex:
             stats['indexing_time'] = indexing_time
         
         return stats
-    
+    """
     def get_cache_data(self):
-        """Retourne TOUTES les données pouvant être sérialisées pour le cache"""
-        data = {
+        """Retourne les données pouvant être sérialisées pour le cache"""
+        return {
             'dictionary': dict(self.dictionary),
             'doc_ids': self.doc_ids,
             'doc_lengths': self.doc_lengths,
             'doc_count': self.doc_count,
             'total_terms': self.total_terms,
-            
-            # STATISTIQUES CRITIQUES POUR LE SCORING
-            'total_tokens_bp': self.total_tokens_bp,
-            'distinct_tokens_bp': list(self.distinct_tokens_bp),  # Convertir set en list
-            'total_chars_tokens': self.total_chars_tokens,
-            'avg_doc_length': self.avg_doc_length if hasattr(self, 'avg_doc_length') else 0,
-            
             'metadata_store': self.metadata_store,
             'config': {
                 'stop_list_name': self.stop_list_name,
@@ -897,169 +942,91 @@ class WeightedInvertedIndex:
                 'tokenization_method': self.tokenization_method,
                 'target_tags': list(self.target_tags) if hasattr(self, 'target_tags') else [],
                 'use_lxml': self.use_lxml
-            }
+            },
+            'xml_cache_keys': list(self.xml_cache_keys)
         }
-        
-        # Ajouter xml_cache_keys si l'attribut existe
-        if hasattr(self, 'xml_cache_keys'):
-            data['xml_cache_keys'] = list(self.xml_cache_keys)
-        
-        return data
-
+    
     def save_to_file(self, filename: str):
-        """Sauvegarde l'index avec vérification préalable"""
-        # Vérifier l'intégrité avant sauvegarde
-        self._verify_and_fix_statistics()
-        
-        # Générer les données
+        """Sauvegarde l'index dans un fichier"""
         data_to_save = self.get_cache_data()
-        
-        # Vérifier que toutes les clés nécessaires sont présentes
-        required_keys = ['dictionary', 'doc_ids', 'doc_lengths', 'doc_count', 
-                        'total_terms', 'avg_doc_length']
-        
-        missing_keys = [key for key in required_keys if key not in data_to_save]
-        if missing_keys:
-            print(f"  [WARN] Clés manquantes dans sauvegarde: {missing_keys}")
-        
-        # Sauvegarder
         with open(filename, 'wb') as f:
             pickle.dump(data_to_save, f, protocol=pickle.HIGHEST_PROTOCOL)
-        
-        print(f"  Index sauvegardé: {filename}")
-        print(f"  Statistiques: docs={self.doc_count}, terms={self.total_terms}, avg_len={self.avg_doc_length:.2f}")
-
+    
     @classmethod
     def load_from_file(cls, filename: str):
-        """Charge un index depuis un fichier avec TOUTES les statistiques"""
+        """Charge un index depuis un fichier"""
         with open(filename, 'rb') as f:
             data = pickle.load(f)
         
         index = cls()
-        
-        # Données principales
         index.dictionary = defaultdict(dict, data['dictionary'])
         index.doc_ids = data['doc_ids']
         index.doc_lengths = data['doc_lengths']
         index.doc_count = data['doc_count']
         index.total_terms = data['total_terms']
-        
-        # STATISTIQUES CRITIQUES (avec fallback)
-        index.total_tokens_bp = data.get('total_tokens_bp', 0)
-        
-        distinct_tokens = data.get('distinct_tokens_bp', [])
-        index.distinct_tokens_bp = set(distinct_tokens) if isinstance(distinct_tokens, list) else set()
-        
-        index.total_chars_tokens = data.get('total_chars_tokens', 0)
-        
-        # avg_doc_length - vérifier et corriger si nécessaire
-        index.avg_doc_length = data.get('avg_doc_length', 0)
-        if index.avg_doc_length == 0 and index.doc_count > 0:
-            # Recalculer si manquant ou invalide
-            index.avg_doc_length = index.total_terms / index.doc_count
-        
-        index.metadata_store = data.get('metadata_store', {})
+        index.metadata_store = data['metadata_store']
         
         # Restaurer la configuration
-        config = data.get('config', {})
-        index.stop_list_name = config.get('stop_list_name', 'nostop')
-        index.stemmer_name = config.get('stemmer_name', 'nostem')
-        index.tokenization_method = config.get('tokenization_method', 'basic')
+        config = data['config']
+        index.stop_list_name = config['stop_list_name']
+        index.stemmer_name = config['stemmer_name']
+        index.tokenization_method = config['tokenization_method']
         
         if 'target_tags' in config:
             index.target_tags = set(config['target_tags'])
-        else:
-            index.target_tags = set()
         
-        index.use_lxml = config.get('use_lxml', True)
+        index.use_lxml = config.get('use_lxml', LXML_AVAILABLE)
         
         if 'xml_cache_keys' in data:
             index.xml_cache_keys = set(data['xml_cache_keys'])
-        else:
-            index.xml_cache_keys = set()
-        
-        # VÉRIFICATION FINALE DE COHÉRENCE
-        index._verify_and_fix_statistics()
         
         return index
-
-    def _verify_and_fix_statistics(self):
-        """Vérifie et corrige les statistiques incohérentes"""
-        # 1. Vérifier doc_count
-        actual_doc_count = len(self.doc_ids)
-        if self.doc_count != actual_doc_count:
-            print(f"  [FIX] Correction doc_count: {self.doc_count} -> {actual_doc_count}")
-            self.doc_count = actual_doc_count
-        
-        # 2. Vérifier total_terms
-        calculated_total_terms = sum(self.doc_lengths.values())
-        if self.total_terms != calculated_total_terms:
-            print(f"  [FIX] Correction total_terms: {self.total_terms} -> {calculated_total_terms}")
-            self.total_terms = calculated_total_terms
-        
-        # 3. Recalculer avg_doc_length si nécessaire
-        if self.doc_count > 0:
-            new_avg = self.total_terms / self.doc_count
-            if abs(self.avg_doc_length - new_avg) > 0.1:
-                print(f"  [FIX] Correction avg_doc_length: {self.avg_doc_length:.2f} -> {new_avg:.2f}")
-                self.avg_doc_length = new_avg
-        else:
-            self.avg_doc_length = 0
-        
-        # 4. Vérifier que distinct_tokens_bp est un set
-        if not isinstance(self.distinct_tokens_bp, set):
-            if isinstance(self.distinct_tokens_bp, list):
-                self.distinct_tokens_bp = set(self.distinct_tokens_bp)
-            else:
-                self.distinct_tokens_bp = set()
-
-    def verify_index_integrity(self) -> Dict[str, any]:
-        """Vérifie l'intégrité de l'index et retourne les statistiques"""
-        print("\n[VERIFICATION INTÉGRITÉ INDEX]")
-        
-        stats = {
-            'doc_count': len(self.doc_ids),
-            'total_terms': sum(self.doc_lengths.values()),
-            'distinct_terms': len(self.dictionary),
-            'stored_doc_count': self.doc_count,
-            'stored_total_terms': self.total_terms,
-            'stored_avg_doc_length': self.avg_doc_length,
-            'consistent': True
-        }
-        
-        # Vérifications
-        if stats['doc_count'] != stats['stored_doc_count']:
-            stats['consistent'] = False
-        
-        if stats['total_terms'] != stats['stored_total_terms']:
-            stats['consistent'] = False
-        
-        # Calculer avg_doc_length réel
-        if stats['doc_count'] > 0:
-            real_avg = stats['total_terms'] / stats['doc_count']
-            if abs(stats['stored_avg_doc_length'] - real_avg) > 0.01:
-                stats['consistent'] = False
-        
-        if stats['consistent']:
-            print("  Index cohérent...")
-        else:
-            print("  Index incohérent - correction nécessaire")
-            self._verify_and_fix_statistics()
-        
-        return stats
-            
+    """
     def build_index_with_stats(self, xml_dir: str, max_files: Optional[int] = None) -> Dict:
-        """
-        Indexe les articles et retourne les données complètes pour compute_statistics
-        """
+        
+        #Indexe les articles et retourne les données complètes pour compute_statistics
+        
         print(f"Indexation FETCH des articles depuis {xml_dir}...")
         start_time = time.time()
         
-        # Au lieu de réécrire la logique, utiliser build_index_from_xml_collection
-        indexing_time = self.build_index_from_xml_collection(xml_dir, max_files)
+        self.doc_type = "article"
+        xml_files = self._get_xml_files(xml_dir, max_files)
+        
+        success_count = 0
+        for i, xml_file in enumerate(xml_files):
+            if i % 100 == 0:
+                print(f"  Traitement article {i}/{len(xml_files)}...")
+            
+            doc = INEXDocument(xml_file)
+            if not doc.parse(self.use_lxml):
+                continue
+            
+            # Extraire tout le texte avec nettoyage complet
+            text = doc.extract_full_article_text()
+            
+            if text and len(text) > 50:  # Document valide
+                doc_id = doc.doc_id
+                
+                # Indexer
+                if self._index_document_content(doc_id, text):
+                    # Stocker métadonnées
+                    self.store_metadata(doc_id, {
+                        'doc_id': doc_id,
+                        'xml_path': '/article[1]',
+                        'tag': 'article',
+                        'type': 'article',
+                        'source_file': xml_file
+                    })
+                    success_count += 1
+        
+        self.doc_count = success_count
+        if self.doc_count > 0:
+            self.avg_doc_length = self.total_terms / self.doc_count
+        
+        indexing_time = time.time() - start_time
         
         # Calculer les statistiques
-        stats = self.get_collection_statistics(indexing_time)
+        stats = self._compute_basic_statistics(indexing_time)
         
         print(f"Indexation FETCH terminée: {self.doc_count} articles en {indexing_time:.2f}s")
         
@@ -1074,7 +1041,7 @@ class WeightedInvertedIndex:
                 'use_lxml': self.use_lxml
             }
         }
-
+    
     def _compute_basic_statistics(self, indexing_time: float) -> Dict:
         #Calcule les statistiques de base pour compute_statistics
         # Statistiques TOKENS
@@ -1105,4 +1072,123 @@ class WeightedInvertedIndex:
             'avg_doc_length': avg_doc_length,
             'avg_term_length': avg_term_length
         }
-    
+    """
+    def build_index_from_xml_collection(self, xml_dir: str, 
+                                    max_files: Optional[int] = None) -> float:
+        """Indexe les articles complets (phase FETCH ou exercices 1-2)"""
+        print(f"Indexation des articles depuis {xml_dir}...")
+        start_time = time.time()
+        
+        self.doc_type = "article"
+        xml_files = self._get_xml_files(xml_dir, max_files)
+        
+        success_count = 0
+        for i, xml_file in enumerate(xml_files):
+            if i % 100 == 0:
+                print(f"  Traitement article {i}/{len(xml_files)}...")
+            
+            doc = INEXDocument(xml_file)
+            if not doc.parse(self.use_lxml):
+                continue
+            
+            # RÉCUPÉRER TOUT LE TEXTE COMPLET
+            # Ancienne méthode qui donnait plus de contenu
+            text = self._extract_full_article_text_old(doc)
+            
+            if text and len(text) > 50:  # Document valide
+                doc_id = doc.doc_id
+                
+                if self._index_document_content(doc_id, text):
+                    self.xml_cache_keys.add(doc_id)
+                    
+                    self.store_metadata(doc_id, {
+                        'doc_id': doc_id,
+                        'parent_doc_id': doc_id,
+                        'xml_path': '/article[1]',
+                        'tag': 'article',
+                        'type': 'article',
+                        'source_file': xml_file
+                    })
+                    success_count += 1
+        
+        self.doc_count = success_count
+        if self.doc_count > 0:
+            self.avg_doc_length = self.total_terms / self.doc_count
+        
+        indexing_time = time.time() - start_time
+        print(f"Indexation terminée: {self.doc_count} articles en {indexing_time:.2f}s")
+        return indexing_time
+
+    def _extract_full_article_text_old(self, doc: INEXDocument) -> str:
+        """Version ancienne qui extrait TOUT le texte (donne plus de tokens)"""
+        if hasattr(doc, 'extract_full_article_text'):
+            # Utiliser la méthode complète de INEXDocument
+            return doc.extract_full_article_text()
+        
+        # Fallback: extraire tout le texte manuellement
+        text_parts = []
+        
+        def collect_all_text(elem):
+            if hasattr(elem, 'tag'):
+                tag = elem.tag if hasattr(elem.tag, 'strip') else str(elem.tag)
+                if '}' in tag:
+                    tag = tag.split('}', 1)[1]
+                
+                # Collecter TOUT le texte sans restriction
+                if elem.text and elem.text.strip():
+                    text_parts.append(elem.text.strip())
+                
+                for child in elem:
+                    collect_all_text(child)
+                
+                if elem.tail and elem.tail.strip():
+                    text_parts.append(elem.tail.strip())
+        
+        if doc.root:
+            collect_all_text(doc.root)
+        
+        return ' '.join(text_parts)
+
+    def get_collection_statistics(self, indexing_time=None, 
+                                weighting_time=None, 
+                                weighting_scheme="ltn"):
+        """Calcule TOUTES les statistiques demandées avec pondération"""
+        # Statistiques TOKENS
+        total_tokens = self.total_tokens_bp
+        distinct_tokens = len(self.distinct_tokens_bp)
+        
+        avg_token_length = (
+            sum(len(token) for token in self.distinct_tokens_bp) / distinct_tokens
+            if distinct_tokens > 0 else 0
+        )
+        
+        # Statistiques TERMS
+        total_terms = self.total_terms
+        distinct_terms = len(self.dictionary)
+        
+        # Longueur moyenne des terms
+        total_chars_terms = sum(len(term) for term in self.dictionary.keys())
+        avg_term_length = total_chars_terms / distinct_terms if distinct_terms > 0 else 0
+        
+        # Longueur moyenne des documents
+        avg_doc_length = self.avg_doc_length
+        
+        stats = {
+            'total_tokens': total_tokens,
+            'distinct_tokens': distinct_tokens,
+            'avg_token_length': avg_token_length,
+            'total_terms': total_terms,
+            'distinct_terms': distinct_terms,
+            'avg_doc_length': avg_doc_length,
+            'avg_term_length': avg_term_length
+        }
+        
+        if indexing_time is not None:
+            stats['indexing_time'] = indexing_time
+            if weighting_time is not None:
+                stats['weighting_time'] = weighting_time
+                stats['total_time'] = indexing_time + weighting_time
+            stats['weighting_scheme'] = weighting_scheme
+        
+        return stats
+
