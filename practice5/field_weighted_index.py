@@ -6,7 +6,8 @@ from collections import defaultdict, Counter
 from typing import Dict, List, Tuple, Optional
 import math
 
-from indexer import INEXDocument, WeightedInvertedIndex
+from indexer import WeightedInvertedIndex
+from inex_document import INEXDocument
 
 class FieldWeightedIndex:
     """Index avec pondération par champs AVEC CACHE"""
@@ -54,49 +55,8 @@ class FieldWeightedIndex:
         with open(cache_file, 'wb') as f:
             pickle.dump(cache_data, f, protocol=pickle.HIGHEST_PROTOCOL)
         
-        print(f"✅ Index sauvegardé dans le cache: {cache_file}")
+        print(f" Index sauvegardé dans le cache: {cache_file}")
     
-    """
-    def _load_from_cache(self, cache_key: str) -> bool:
-        #Charge l'index depuis le cache
-        cache_file = os.path.join(self.cache_dir, f"{cache_key}.pkl")
-        
-        if not os.path.exists(cache_file):
-            return False
-        
-        try:
-            print(f"📂 Chargement depuis le cache: {cache_file}")
-            with open(cache_file, 'rb') as f:
-                cache_data = pickle.load(f)
-            
-            # Restaurer les données
-            self.field_tfs = defaultdict(lambda: defaultdict(dict), cache_data['field_tfs'])
-            self.field_weights = cache_data['field_weights']
-            self.doc_lengths = cache_data['doc_lengths']
-            self.doc_ids = cache_data['doc_ids']
-            self.df = cache_data['df']
-            self.field_stats = cache_data.get('field_stats', {})
-            
-            # Restaurer l'index principal
-            if cache_data['index_data']:
-                self.index = WeightedInvertedIndex()
-                self.index.dictionary = defaultdict(dict, cache_data['index_data']['dictionary'])
-                self.index.doc_ids = cache_data['index_data']['doc_ids']
-                self.index.doc_lengths = cache_data['index_data']['doc_lengths']
-                self.index.doc_count = cache_data['index_data']['doc_count']
-                self.index.total_terms = cache_data['index_data']['total_terms']
-                self.index.avg_doc_length = cache_data['index_data'].get('avg_doc_length', 0)
-                self.index.stop_list_name = cache_data['index_data']['config']['stop_list_name']
-                self.index.stemmer_name = cache_data['index_data']['config']['stemmer_name']
-                self.index.tokenization_method = cache_data['index_data']['config']['tokenization_method']
-            
-            print(f"✅ Index chargé depuis le cache: {len(self.doc_ids)} documents")
-            return True
-            
-        except Exception as e:
-            print(f"❌ Erreur chargement cache: {e}")
-            return False
-    """
     def _load_from_cache(self, cache_key: str) -> bool:
         """Charge l'index depuis le cache - CORRIGÉ"""
         cache_file = os.path.join(self.cache_dir, f"{cache_key}.pkl")
@@ -105,7 +65,7 @@ class FieldWeightedIndex:
             return False
         
         try:
-            print(f"📂 Chargement depuis le cache: {cache_file}")
+            print(f" Chargement depuis le cache: {cache_file}")
             with open(cache_file, 'rb') as f:
                 cache_data = pickle.load(f)
             
@@ -142,12 +102,12 @@ class FieldWeightedIndex:
                 self.index.stemmer_name = index_data['config']['stemmer_name']
                 self.index.tokenization_method = index_data['config']['tokenization_method']
             
-            print(f"✅ Index chargé depuis le cache: {len(self.doc_ids)} documents")
+            print(f" Index chargé depuis le cache: {len(self.doc_ids)} documents")
             print(f"   avg_doc_length = {self.index.avg_doc_length:.2f}")
             return True
             
         except Exception as e:
-            print(f"❌ Erreur chargement cache: {e}")
+            print(f" Erreur chargement cache: {e}")
             return False
         
     def configure(self, tokenization="basic", stemmer="nostem", stop_words="nostop"):
@@ -239,7 +199,7 @@ class FieldWeightedIndex:
         self._compute_field_stats()
         
         indexing_time = time.time() - start_time
-        print(f"✅ Index construit en {indexing_time:.2f}s: {len(self.doc_ids)} documents")
+        print(f" Index construit en {indexing_time:.2f}s: {len(self.doc_ids)} documents")
         
         # 4. Sauvegarder dans le cache
         self._save_to_cache(cache_key)
@@ -458,13 +418,13 @@ class FieldWeightedIndex:
             try:
                 with open(cache_file, 'rb') as f:
                     results = pickle.load(f)
-                print(f"✅ Résultats chargés depuis cache pour: {query[:30]}...")
+                print(f" Résultats chargés depuis cache pour: {query[:30]}...")
                 return results
             except:
                 pass
         
         # Calculer
-        print(f"🔄 Calcul BM25Fw pour: {query[:30]}...")
+        print(f" Calcul BM25Fw pour: {query[:30]}...")
         results = self.search_bm25fw(query, k1, b)
         
         # Sauvegarder dans le cache
@@ -639,12 +599,12 @@ class FieldWeightedIndex:
             try:
                 with open(cache_file, 'rb') as f:
                     results = pickle.load(f)
-                print(f"✅ Résultats chargés depuis cache pour: {query[:30]}...")
+                print(f" Résultats chargés depuis cache pour: {query[:30]}...")
                 return results
             except:
                 pass
         
-        print(f"🔄 Calcul BM25Fr pour: {query[:30]}...")
+        print(f" Calcul BM25Fr pour: {query[:30]}...")
         results = self.search_bm25fr(query, k1, b)
         
         try:
@@ -692,7 +652,7 @@ def generate_field_weighted_run_cached(generator, run_id: str, run_type: str,
     # Générer le fichier
     team_name = "AlphaAnaClement"
     fields_str = '-'.join(fields_config.keys())
-    filename = f"{team_name}_{run_id}_{run_type}Test1_fields-{fields_str}_{config['stop_words']}_{config['stemmer']}_k{run_params.get('k1', 1.2)}_b{run_params.get('b', 0.75)}.txt"
+    filename = f"{team_name}_{run_id}_{run_type}_fields-{fields_str}_{config['stop_words']}_{config['stemmer']}_k{run_params.get('k1', 1.2)}_b{run_params.get('b', 0.75)}.txt"
     filename = os.path.join("data/runs", filename)
     
     os.makedirs("data/runs", exist_ok=True)
@@ -734,173 +694,11 @@ def generate_field_weighted_run_cached(generator, run_id: str, run_type: str,
     total_time = time.time() - start_time
     
     print(f"\n{'='*70}")
-    print(f"✅ RUN {run_type.upper()} TERMINÉ (AVEC CACHE)")
-    print(f"📁 Fichier: {filename}")
-    print(f"📊 Documents indexés: {doc_count}")
-    print(f"⏱️  Temps total: {total_time:.2f}s")
+    print(f" RUN {run_type.upper()} TERMINÉ (AVEC CACHE)")
+    print(f" Fichier: {filename}")
+    print(f" Documents indexés: {doc_count}")
+    print(f"   Temps total: {total_time:.2f}s")
     print('='*70)
     
     return filename
 
-def exercice5_corrected():
-    """Exercice 5: BM25Fw - Late combination (Wilkinson94) - CORRIGÉ"""
-    print("=" * 70)
-    print("EXERCICE 5: BM25Fw - Late combination of fields (CORRECTED)")
-    print("=" * 70)
-    
-    from xml_run_manager import INEXRunGenerator
-    
-    generator = INEXRunGenerator()
-    
-    # Requêtes INEX
-    queries = {
-        2009011: "olive oil health benefit",
-        2009036: "notting hill film actors",
-        2009067: "probabilistic models in information retrieval",
-        2009073: "web link network analysis",
-        2009074: "web ranking scoring algorithm",
-        2009078: "supervised machine learning algorithm",
-        2009085: "operating system mutual exclusion"
-    }
-    
-    # Configuration
-    config = {
-        'tokenization': 'basic',
-        'stemmer': 'porter',
-        'stop_words': 'stop671',
-    }
-    
-    # champs uniques et non répétables
-    fields_config = {
-        'title': ['title'],   # Seulement le title (unique)
-        'body': ['bdy'],      # Seulement bdy (unique, contient tout)
-    }
-    
-    field_weights = {
-        'title': 2.5,  # Titre très important
-        'body': 1.0    # Corps standard
-    }
-    
-    # Paramètres BM25
-    run_params = {
-        'k1': 1.2,
-        'b': 0.75,
-        'max_files': None  # Tous les fichiers
-    }
-    
-    # Générer le run
-    filename = generate_field_weighted_run_cached(
-        generator=generator,
-        run_id="test5",
-        run_type="bm25fw",
-        xml_dir="data/Practice_05_data/XML-Coll-withSem",
-        queries=queries,
-        config=config,
-        run_params=run_params,
-        fields_config=fields_config,
-        field_weights=field_weights
-    )
-    
-    # Validation
-    generator.validate_run_file(filename)
-    
-    print(f"\n Exercice 5 terminé")
-    print(f" Run généré: {filename}")
-    
-    return filename
-
-
-def exercice6_corrected():
-    """Exercice 6: BM25Fr - Early combination (Robertson94) - CORRIGÉ"""
-    print("\n" + "=" * 70)
-    print("EXERCICE 6: BM25Fr - Early combination of fields (CORRECTED)")
-    print("=" * 70)
-    
-    from xml_run_manager import INEXRunGenerator
-    
-    generator = INEXRunGenerator()
-    
-    # Requêtes INEX
-    queries = {
-        2009011: "olive oil health benefit",
-        2009036: "notting hill film actors",
-        2009067: "probabilistic models in information retrieval",
-        2009073: "web link network analysis",
-        2009074: "web ranking scoring algorithm",
-        2009078: "supervised machine learning algorithm",
-        2009085: "operating system mutual exclusion"
-    }
-    
-    # Configuration différente
-    config = {
-        'tokenization': 'basic',
-        'stemmer': 'porter',
-        'stop_words': 'nostop'  # Sans stopwords pour voir la différence
-    }
-    
-    # ✅ Test avec 3 champs simples
-    fields_config = {
-        'title': ['title'],
-        'abstract': ['bdy'],  # On utilise bdy comme "abstract"
-        'body': ['bdy']       # Même source mais poids différent
-    }
-    
-    field_weights = {
-        'title': 3.0,
-        'abstract': 1.5,
-        'body': 1.0
-    }
-    
-    # Paramètres BM25 différents
-    run_params = {
-        'k1': 1.5,
-        'b': 0.8,
-        'max_files': None
-    }
-    
-    # Générer le run
-    filename = generate_field_weighted_run_cached(
-        generator=generator,
-        run_id="test6",
-        run_type="bm25fr",
-        xml_dir="data/Practice_05_data/XML-Coll-withSem",
-        queries=queries,
-        config=config,
-        run_params=run_params,
-        fields_config=fields_config,
-        field_weights=field_weights
-    )
-    
-    # Validation
-    generator.validate_run_file(filename)
-    
-    print(f"\n✅ Exercice 6 terminé")
-    print(f"📁 Run généré: {filename}")
-    
-    return filename
-
-
-def main_exercices_5_6_corrected():
-    """Exécute les exercices 5 et 6 corrigés"""
-    
-    print("=" * 70)
-    print("EXERCICES 5 & 6: Field Weighting Methods (CORRECTED)")
-    print("=" * 70)
-    
-    # Exercice 5
-    file5 = exercice5_corrected()
-    
-    # Exercice 6
-    file6 = exercice6_corrected()
-    
-    print("\n" + "="*70)
-    print("RÉSUMÉ EXERCICES 5-6 CORRIGÉS")
-    print("="*70)
-    print(f"1. Exercice 5 (BM25Fw): {os.path.basename(file5)}")
-    print(f"2. Exercice 6 (BM25Fr): {os.path.basename(file6)}")
-    
-    return [file5, file6]
-
-
-if __name__ == "__main__":
-    main_exercices_5_6_corrected()

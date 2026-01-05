@@ -363,8 +363,8 @@ class INEXRunGenerator:
             'selection_strategy': 'hierarchical',
             'avoid_overlaps': True,
             'fallback_to_article': True,
-            'bm25_k1': 1.2,
-            'bm25_b': 0.75
+            'bm25_k1': 5,
+            'bm25_b': 0.3
         }
         
         if run_params:
@@ -392,6 +392,7 @@ class INEXRunGenerator:
         browse_data = self.create_or_load_index(xml_dir, 'element', browse_config)
         browse_index = browse_data['index']
         browse_ranker = RankedRetrieval(browse_index)
+        
         
         # 3. Cache des éléments
         print("[CACHE] Création du cache des éléments...")
@@ -615,7 +616,7 @@ class INEXRunGenerator:
             for i, line in enumerate(lines[:10]):
                 parts = line.split()
                 if len(parts) != 7:
-                    print(f"  ❌ Ligne {i+1}: format incorrect")
+                    print(f"  Err. Ligne {i+1}: format incorrect")
                     violations += 1
                     break
             
@@ -812,7 +813,7 @@ class INEXRunGenerator:
         
         return filename
 
-    def generate_exercise3_with_fb_adapted(self, xml_dir, queries):
+    def generate_exercise3_fetch_browse(self, xml_dir, queries, with_article = False):
         """Version fetch & browse adaptée pour exercice 3"""
         
         # Config EXACTE exercice 3
@@ -827,9 +828,9 @@ class INEXRunGenerator:
         run_params = {
             'top_articles': 2000,  # Large pour être sûr
             'max_elements': 1500,
-            'max_elements_per_article': 1,    # 1 seul élément
-            'weighting_scheme': 'ltn',        # SMART ltn
-            'fallback_to_article': False,     # PAS d'article
+            'max_elements_per_article': 1,          # 1 seul élément
+            'weighting_scheme': 'ltn',              # SMART ltn
+            'fallback_to_article': with_article,    # si False : PAS d'article
             # Forcer hiérarchie p > sec > bdy
             'selection_strategy': 'hierarchical',
             'avoid_overlaps': True,

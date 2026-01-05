@@ -12,11 +12,27 @@ Ana     SANOU
 
 LES RUNS RENDU : 
 
-  * 12 runs pour l'exercice 2.
+  EXERCICE 1 : 
+  * 1 run comme demandé;
 
-  * 4 runs pour l'exercice 3, dont 2 avec des erreurs et deux autres avec :
-    - 1_testXML_lnt_element-bdy-sec-p_nostop_nostem avec un top_k = 500;
-    - 1_testXML_ltn_element-bdy-sec-p_nostop_nostem_threshold_0.05 avec top_k=1500
+  EXERCICE 2 : (avec _test2_)
+  * 27 runs rendus, dont : 
+      - 12 * 2 (tautologie par erreur) runs demandés mais dont les configurations "stop671 et porter" 
+        renvoyaient 9122 < 10500 lignes.
+      - 3 runs corrigeant le nombre de lignes à 10500 des configurations "stop671 et porter" 
+        (1 pour chacun : ltn, ltc et bm25). 
+
+  EXERCICE 3 : (avec _testXML_)
+  * 3 runs, dont : 
+      1 qui est correct : 1_testXML_lnt_element-bdy-sec-p_nostop_nostem
+      2 autre pour test des small_err_nodes
+
+  EXERCICE 5 et 6 :(avec _bm25fw_title-bdy ou _bm25fr_title-bdy)
+  * 2 runs pour chacun = 4, dont : 
+      - 1 avec avec la configuration : stop671 et porter
+      - 1 autre avec la configuration : nostop et nostem.
+
+
 
 
 =============================================================
@@ -34,13 +50,13 @@ STATISTIQUES DE LA COLLECTION:
 - Temps total d'indexation + pondération: 15.09 secondes
  * Temps d'indexation seul: 15.02 secondes
  * Temps de pondération: 0.07 secondes
-- Nombre total d'occurrences de tokens: 10936372
-- Nombre de tokens distincts: 256545
-- Longueur moyenne des tokens: 7.57 caractères
-- Nombre total d'occurrences de terms: 10936372
-- Taille du vocabulaire (terms distincts): 205498
+- Nombre total d'occurrences de tokens: 10931813
+- Nombre de tokens distincts: 257439
+- Longueur moyenne des tokens: 7.59 caractères
+- Nombre total d'occurrences de terms: 10931813
+- Taille du vocabulaire (terms distincts): 206380
 - Longueur moyenne des documents: 1115.50 terms
-- Longueur moyenne des terms: 7.68 caractères
+- Longueur moyenne des terms: 7.70 caractères
 - Poids du terme 'ranking' dans le document #23724: 2.365951
 - RSV du document #23724 pour 'web ranking scoring algorithm': 7.079744
 - TOP-10 DOCUMENTS pour 'web ranking scoring algorithm':
@@ -55,8 +71,72 @@ STATISTIQUES DE LA COLLECTION:
    9. Doc 18963457: 5.166105
   10. Doc 363695: 5.153368
 
-OBSERVATION : 
-  Les statistiques sont légèrement différentes, malgré les traitements qui ont été éffectués.
+
+COMPARAISON DE TEST1 vs TEST2
+=============================================================
+
+1. STATISTIQUES #TOKENS ET #TERMES
+-------------------------------------------------------------
+Test 1 :
+- Occurrences totales de tokens      : 10 913 214
+- Tokens distincts                   : 257 840
+- Terms distincts (vocabulaire)      : 206 913
+- Longueur moyenne des documents     : 1113.14 terms
+- Longueur moyenne des terms         : 7.73 caractères
+
+Test 2 :
+- Occurrences totales de tokens      : 10 931 813
+- Tokens distincts                   : 257 439
+- Terms distincts (vocabulaire)      : 206 380
+- Longueur moyenne des documents     : 1115.50 terms
+- Longueur moyenne des terms         : 7.70 caractères
+
+Observation :
+- Le XML augmente légèrement les statistiques, malgré les traitements qui ont été éffectués.
+  Mais cette augmentation reste raisonable.
+
+
+2. RANKING ET RSV(q, d23724)
+-------------------------------------------------------------
+Requête : "web ranking scoring algorithm"
+Termes  : algorithm, ranking, scoring, web
+
+Test 1 :
+- Poids du terme "ranking" (doc 23724) : 2.195963
+- RSV(q, d23724)                       : 6.864034
+- Rang du document 23724               : 1er
+
+Test 2 :
+- Poids du terme "ranking" (doc 23724) : 2.365951
+- RSV(q, d23724)                       : 7.079744
+- Rang du document 23724               : 1er
+
+Observation :
+- Le ranking reste stable
+- Les scores sont légèrement plus faibles en Test 2
+
+
+3. TOP-10 DOCUMENTS (STABILITE DU RANKING)
+-------------------------------------------------------------
+- 9 documents communs dans les TOP-10 Test 1 et Test 2
+- Variations mineures dans l’ordre
+- Apparition d’un document différent en Test 2 (doc 462448)
+
+Conclusion :
+- La structuration XML n’affecte pas fortement l’ordre
+- Elle réduit cependant la séparation entre les scores
+
+
+4. EVALUATION GLOBALE (MAgP)
+-------------------------------------------------------------
+Test 1 :
+- MAgP maximum : 0.2097
+
+Test 2 :
+- MAgP maximum : 0.1583
+
+Différence :
+- Baisse relative d’environ 24.5 % en Test 2 (à améliorer)
 
 
 =============================================================

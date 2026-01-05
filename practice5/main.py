@@ -139,7 +139,7 @@ def exercice1():
         'tokenization': 'basic',
         'stemmer': 'nostem',
         'stop_words': 'nostop',
-        'use_lxml': True
+        #'use_lxml': True
     }
     
     # Créer le générateur
@@ -185,97 +185,7 @@ def exercice1():
     }
 
 # ==================== EXERCICE 2 ====================
-"""
-def exercice2():
-    #Exercice 2: 12 runs avec différentes combinaisons
-    print_exercise_header(2, "XML documents test runs (12 combinaisons)")
-    
-    generator = INEXRunGenerator()
-    all_results = []
-    
-    weighting_schemes = ["ltn", "ltc", "bm25"]
-    stop_options = ["nostop", "stop671"]
-    stemmer_options = ["nostem", "porter"]
-    
-    run_counter = 1
-    
-    for weighting in weighting_schemes:
-        for stop in stop_options:
-            for stemmer in stemmer_options:
-                print(f"\n{'='*50}")
-                print(f"CONFIGURATION {run_counter}/12: {weighting.upper()}, {stop}, {stemmer}")
-                print('='*50)
-                
-                # Configuration
-                config = {
-                    'tokenization': 'basic',
-                    'stemmer': stemmer,
-                    'stop_words': stop,
-                    'test_type': 'test2',
-                    'use_lxml': True
-                }
-                
-                # Charger/créer l'index
-                index_data = generator.create_or_load_index(
-                    xml_dir=XML_DIR,
-                    index_type='article',
-                    config=config
-                )
-                
-                # Paramètres BM25 si nécessaire
-                k1, b = (1.2, 0.75) if weighting == "bm25" else (None, None)
-                
-                # Calculer statistiques
-                stats_data = compute_statistics_for_config(
-                    index_data=index_data,
-                    weighting_scheme=weighting,
-                    k1=k1,
-                    b=b
-                )
-                
-                # Afficher statistiques résumées
-                print(f"\nSTATISTIQUES ({weighting.upper()}, {stop}, {stemmer}):")
-                print(f"- Temps total: {stats_data['total_time']:.2f}s")
-                print(f"- Tokens distincts: {stats_data['stats']['distinct_tokens']}")
-                print(f"- Terms distincts: {stats_data['stats']['distinct_terms']}")
-                print(f"- Longueur moyenne doc: {stats_data['stats']['avg_doc_length']:.2f}")
-                print(f"- Poids '{TARGET_TERM}': {stats_data['target_weight']:.6f}")
-                print(f"- RSV doc #{TARGET_DOC_ID}: {stats_data['doc_score']:.6f}")
-                
-                # Génération run
-                filename = generator.generate_article_run(
-                    run_id=f"{run_counter}",
-                    xml_dir=XML_DIR,
-                    queries=INEX_QUERIES,
-                    config=config,
-                    weighting_scheme=weighting,
-                    k1=k1,
-                    b=b
-                )
-                
-                all_results.append({
-                    'config_num': run_counter,
-                    'config': config,
-                    'weighting': weighting,
-                    'filename': filename,
-                    'stats': stats_data
-                })
-                
-                run_counter += 1
-    
-    # Résumé
-    print("\n" + "="*70)
-    print("RÉSUMÉ EXERCICE 2")
-    print("="*70)
-    for result in all_results:
-        cfg = result['config']
-        basename = os.path.basename(result['filename'])
-        print(f"{result['config_num']:2d}. {cfg['stemmer']:7s} | "
-              f"stop={cfg['stop_words']:8s} | "
-              f"{result['weighting']:4s} | {basename}")
-    
-    return all_results
-"""
+
 def exercice2():
     """Exercice 2: 12 runs - VERSION ULTRA SIMPLE"""
     print_exercise_header(2, "XML documents test runs (12 combinaisons)")
@@ -313,7 +223,7 @@ def exercice2():
             'tokenization': 'basic',
             'stemmer': stemmer,
             'stop_words': stop,
-            'use_lxml': True
+            #'use_lxml': True
         }
         
         # Appel direct à la fonction
@@ -355,170 +265,528 @@ def exercice2():
     return results
 
 # ==================== EXERCICE 3 ====================
-"""
+
 def exercice3():
-    #Exercice 3: Indexation XML éléments (SMART ltn
-    print_exercise_header(3, "Indexation XML éléments (bdy, sec, p) - SMART ltn")
-    
-    generator = INEXRunGenerator()
-    
-    # Générer le run spécifique exercice 3
-    filename = generator.generate_element_run_exercise3(
-        xml_dir=XML_DIR,
-        queries=INEX_QUERIES
-    )
-    
-    print(f"\nExercice 3 terminé")
-    print(f"Run généré: {filename}")
-    
-    return filename
-"""
-def exo3():
     # Initialisation
     run_gen = INEXRunGenerator(team_name="AlphaAnaClement")
 
-    # 1. Charger les queries INEX (à adapter selon ton format)
-    
-    
-    # 2. Exercice 3 - Version simple
-    run_gen.generate_exercise3_with_fb_adapted(
-        xml_dir=XML_DIR,
-        queries=INEX_QUERIES
-    )
-
-
-    """
-
-    # 3. Exercices 4-6 - Fetch & Browse
-    run_gen.generate_fetch_browse_run_optimized(
-        run_id="ex4_exp1",
+    run_gen.generate_exercise3_fetch_browse(
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
-        fetch_config={
-            'tokenization': 'basic',
-            'stemmer': 'porter',
-            'stop_words': 'stop671'
-        },
-        browse_config={
-            'tokenization': 'basic',
-            'stemmer': 'porter',
-            'stop_words': 'stop671',
-            'target_tags': ['bdy', 'sec', 'p', 'article']
-        },
-        run_params = {
-            'top_articles': 1500,
-            'max_elements': 1500,
-            'max_elements_per_article': 1,
-            'weighting_scheme': 'ltn',
-            'min_element_score': 0.01,
-            'selection_strategy': 'hierarchical',
-            'avoid_overlaps': True,
-            'fallback_to_article': True
-        }
-    )"""
-# ==================== EXERCICE 4 ====================
+        with_article=True
+    )
 
-def exercice4():
-    """Exercice 4: Expérimentation avec éléments XML"""
-    print_exercise_header(4, "Expérimentation avec éléments XML")
+# ==================== EXERCICE 4 ====================
+"""
+def exercice4_phase1_ponderation():
+    #Exercice 4 - Phase 1: Tester les pondérations
+    print("\n" + "="*70)
+    print("EXERCICE 4 - PHASE 1: TEST DES PONDÉRATIONS")
+    print("Granularité: bdy, sec, p")
+    print("Stop-words: nostop, Stemmer: nostem")
+    print("="*70)
     
-    generator = INEXRunGenerator()
+    generator = INEXRunGenerator(team_name="AlphaAnaClement")
+    
+    # Configuration fixe pour cette phase
+    fetch_config = {
+        'tokenization': 'basic',
+        'stemmer': 'nostem',
+        'stop_words': 'nostop'
+    }
+    
+    browse_config = {
+        'tokenization': 'basic',
+        'stemmer': 'nostem',
+        'stop_words': 'nostop',
+        'target_tags': ['bdy', 'sec', 'p']
+    }
+    
+    # Pondérations à tester
+    weighting_schemes = ['ltn', 'ltc', 'bm25']
+    
     results = []
     
-    # Configurations à tester
-    configurations = [
-        {
-            'name': 'Baseline éléments',
-            'target_tags': ['bdy', 'sec', 'p'],
-            'weighting': 'ltn',
-            'stemmer': 'nostem',
-            'stop_words': 'nostop'
-        },
-        {
-            'name': 'Sections seulement (ltc)',
-            'target_tags': ['sec'],
-            'weighting': 'ltc',
-            'stemmer': 'porter',
-            'stop_words': 'stop671'
-        },
-        {
-            'name': 'Paragraphes seulement (BM25)',
-            'target_tags': ['p'],
-            'weighting': 'bm25',
-            'k1': 1.5,
-            'b': 0.8,
-            'stemmer': 'porter',
-            'stop_words': 'stop319'
-        }
-    ]
-    
-    for i, config in enumerate(configurations, 1):
-        print(f"\nConfiguration {i}: {config['name']}")
-        print(f"  Tags: {config['target_tags']}")
-        print(f"  Pondération: {config.get('weighting', 'ltn')}")
+    for weighting in weighting_schemes:
+        print(f"\n{'='*50}")
+        print(f"TEST PONDÉRATION: {weighting.upper()}")
+        print('='*50)
         
-        # Préparer la configuration d'index
-        index_config = {
-            'tokenization': 'basic',
-            'stemmer': config.get('stemmer', 'nostem'),
-            'stop_words': config.get('stop_words', 'nostop'),
-            'target_tags': config['target_tags'],
-            'use_lxml': True
+        # Configuration des paramètres selon la pondération
+        run_params = {
+            'top_articles': 2000,
+            'max_elements': 1500,
+            'max_elements_per_article': 1,
+            'weighting_scheme': weighting,
+            'selection_strategy': 'hierarchical',
+            'avoid_overlaps': True,
+            'fallback_to_article': False
         }
         
-        # Charger/créer l'index d'éléments
-        index_data = generator.create_or_load_index(
-            xml_dir=XML_DIR,
-            index_type='element',
-            config=index_config
-        )
-        
-        # Paramètres de pondération
-        weighting = config.get('weighting', 'ltn')
-        k1 = config.get('k1', 1.2) if weighting == 'bm25' else None
-        b = config.get('b', 0.75) if weighting == 'bm25' else None
-        
-        # Calculer statistiques
-        stats_data = compute_statistics_for_config(
-            index_data=index_data,
-            weighting_scheme=weighting,
-            k1=k1,
-            b=b
-        )
-        
-        # Afficher statistiques résumées
-        print(f"  Statistiques:")
-        print(f"  - Éléments indexés: {stats_data['stats'].get('doc_count', stats_data['index'].doc_count)}")
-        print(f"  - Temps indexation: {stats_data['indexing_time']:.2f}s")
-        print(f"  - Longueur moyenne élément: {stats_data['stats']['avg_doc_length']:.2f} terms")
+        # Ajouter paramètres BM25 si nécessaire
+        if weighting == 'bm25':
+            run_params['bm25_k1'] = 1.2
+            run_params['bm25_b'] = 0.75
         
         # Générer le run
-        filename = generator.generate_element_run(
-            run_id=f"{i}_test4",
+        run_id = f"testXML2_{weighting}"
+        
+        filename = generator.generate_fetch_browse_run_optimized(
+            run_id=run_id,
             xml_dir=XML_DIR,
             queries=INEX_QUERIES,
-            config=index_config,
-            weighting_scheme=weighting,
-            k1=k1,
-            b=b
+            fetch_config=fetch_config,
+            browse_config=browse_config,
+            run_params=run_params
         )
         
+        # Vérifier le fichier généré
+        line_count = 0
+        try:
+            with open(filename, 'r') as f:
+                line_count = sum(1 for _ in f)
+        except:
+            pass
+        
         results.append({
-            'name': config['name'],
-            'config': index_config,
+            'weighting': weighting,
             'filename': filename,
-            'stats': stats_data
+            'line_count': line_count,
+            'config': {
+                'weighting_scheme': weighting,
+                'run_params': run_params
+            }
         })
+        
+        print(f"Run généré: {os.path.basename(filename)}")
+        print(f"Lignes: {line_count}")
     
-    # Résumé
+    # Résumé de la phase X
     print("\n" + "="*70)
-    print("RÉSUMÉ EXERCICE 4")
+    print("RÉSUMÉ PHASE X - PONDÉRATIONS")
     print("="*70)
+    
     for result in results:
-        print(f"{result['name']}:")
-        print(f"  Run: {os.path.basename(result['filename'])}")
+        print(f"{result['weighting'].upper():5s} : {os.path.basename(result['filename'])}")
+        print(f"       Lignes: {result['line_count']}")
     
     return results
+"""
+def exercice4_phase_pretraitement():
+    """
+    Exercice 4 - Phase 1: Test des combinaisons de prétraitement
+    Pondération + Stop-words + Stemmer pour les éléments XML
+    Granularité fixe: [bdy, sec, p]
+    Pas de BM25 (renvoie des score très faibles)
+    """
+    
+    print("\n" + "="*70)
+    print("EXERCICE 4 - PHASE 1: TEST PRÉTRAITEMENT")
+    print("Granularité fixe: bdy, sec, p")
+    print("Pondérations: ltn, ltc")
+    print("Stop-words: nostop, stop671, stop319")
+    print("Stemmer: nostem, porter")
+    print("="*70)
+    
+    generator = INEXRunGenerator(team_name="AlphaAnaClement")
+    
+    # Paramètres à tester
+    weighting_schemes = ['ltn', 'ltc']
+    stop_options = ['nostop', 'stop671']
+    stemmer_options = ['nostem', 'porter']
+    
+    # Configuration de base commune
+    base_run_params = {
+        'top_articles': 2000,
+        'max_elements': 1500,
+        'max_elements_per_article': 1,
+        'selection_strategy': 'hierarchical',
+        'avoid_overlaps': True,
+        'fallback_to_article': True,
+        'min_element_score': 0.01
+    }
+    
+    results = []
+    run_counter = 1
+    total_runs = len(weighting_schemes) * len(stop_options) * len(stemmer_options)
+    
+    print(f"Nombre total de runs à générer: {total_runs}")
+    
+    for weighting in weighting_schemes:
+        for stop in stop_options:
+            for stemmer in stemmer_options:
+                print(f"\n{'='*60}")
+                print(f"RUN {run_counter}/{total_runs}")
+                print(f"Configuration: {weighting.upper()}, stop={stop}, stemmer={stemmer}")
+                print('='*60)
+                
+                # Configuration fetch (articles)
+                fetch_config = {
+                    'tokenization': 'basic',
+                    'stemmer': stemmer,
+                    'stop_words': stop
+                }
+                
+                # Configuration browse (éléments)
+                browse_config = {
+                    'tokenization': 'basic',
+                    'stemmer': stemmer,
+                    'stop_words': stop,
+                    'target_tags': ['bdy', 'sec', 'p']
+                }
+                
+                # Paramètres de run
+                run_params = base_run_params.copy()
+                run_params['weighting_scheme'] = weighting
+                
+                # Identifiant unique du run
+                run_id = f"ex4_pretrait_{run_counter}_{weighting}_{stop}_{stemmer}"
+                
+                # Génération du run
+                print(f"Génération en cours...")
+                start_time = time.time()
+                
+                filename = generator.generate_fetch_browse_run_optimized(
+                    run_id=run_id,
+                    xml_dir=XML_DIR,
+                    queries=INEX_QUERIES,
+                    fetch_config=fetch_config,
+                    browse_config=browse_config,
+                    run_params=run_params
+                )
+                
+                generation_time = time.time() - start_time
+                
+                # Vérification du fichier
+                line_count = 0
+                try:
+                    with open(filename, 'r', encoding='utf-8') as f:
+                        line_count = sum(1 for _ in f)
+                except Exception as e:
+                    print(f"Erreur lecture fichier: {e}")
+                
+                # Stockage des résultats
+                result_entry = {
+                    'run_number': run_counter,
+                    'weighting': weighting,
+                    'stop': stop,
+                    'stemmer': stemmer,
+                    'filename': filename,
+                    'basename': os.path.basename(filename),
+                    'line_count': line_count,
+                    'generation_time': generation_time,
+                    'config_summary': f"{weighting}_{stop}_{stemmer}"
+                }
+                
+                results.append(result_entry)
+                
+                print(f"Run généré: {os.path.basename(filename)}")
+                print(f"Lignes: {line_count} (attendu: 10500)")
+                print(f"Temps génération: {generation_time:.2f}s")
+                
+                run_counter += 1
+    
+    # Affichage du résumé
+    print("\n" + "="*70)
+    print("RÉSUMÉ PHASE 1 - PRÉTRAITEMENT")
+    print("="*70)
+    
+    print("\nListe des runs générés:")
+    print("-" * 80)
+    print(f"{'No':<4} {'Pond':<6} {'Stop':<10} {'Stem':<8} {'Lignes':<8} {'Fichier'}")
+    print("-" * 80)
+    
+    for result in results:
+        status = "OK" if result['line_count'] == 10500 else "PROBLÈME"
+        print(f"{result['run_number']:<4} "
+              f"{result['weighting']:<6} "
+              f"{result['stop']:<10} "
+              f"{result['stemmer']:<8} "
+              f"{result['line_count']:<8} "
+              f"{result['basename'][:40]}...")
+    
+    print("\n" + "="*70)
+    print("INSTRUCTIONS POUR LE TEST:")
+    print("="*70)
+    print("1. Tous les runs sont dans le dossier 'data/runs/'")
+    print("2. Uploader chaque run sur http://ri.gery.fr")
+    print("3. Noter pour chaque run:")
+    print("   - MAP (Mean Average Precision)")
+    print("   - P@10 (Precision at 10)")
+    print("4. Identifier la meilleure combinaison")
+    print("5. Utiliser cette combinaison pour la phase suivante")
+    
+    # Sauvegarde des métadonnées pour référence
+    metadata_file = "data/runs/ex4_phase1_metadata.txt"
+    os.makedirs(os.path.dirname(metadata_file), exist_ok=True)
+    
+    with open(metadata_file, 'w', encoding='utf-8') as f:
+        f.write("MÉTADONNÉES EXERCICE 4 - PHASE 1\n")
+        f.write("=" * 50 + "\n\n")
+        f.write(f"Date: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"Nombre de runs: {len(results)}\n\n")
+        
+        for result in results:
+            f.write(f"\nRUN {result['run_number']}:\n")
+            f.write(f"  Pondération: {result['weighting']}\n")
+            f.write(f"  Stop-words: {result['stop']}\n")
+            f.write(f"  Stemmer: {result['stemmer']}\n")
+            f.write(f"  Fichier: {result['basename']}\n")
+            f.write(f"  Lignes: {result['line_count']}\n")
+            f.write(f"  Temps génération: {result['generation_time']:.2f}s\n")
+            f.write("  Résultats (à compléter après test):\n")
+            f.write("    MAP: ______\n")
+            f.write("    P@10: ______\n")
+            f.write("    Observations: ______________________\n")
+    
+    print(f"\nMétadonnées sauvegardées dans: {metadata_file}")
+    
+    return results
+
+def exercice5_6_phase1_pretraitement(algorithme="bm25fr"):
+    """
+    Exercice 5-6 - Phase 1: Test des combinaisons de prétraitement
+    Objectif: Trouver la meilleure combinaison tokenization/stopwords/stemmer
+    Paramètres fixés: k1=1.2, b=0.75, α_title=3, α_body=1
+    """
+    
+    print("\n" + "="*70)
+    print(f"EXERCICES 5-6 - PHASE 1: OPTIMISATION PRÉTRAITEMENT")
+    print(f"Algorithme: {algorithme.upper()}")
+    print(f"Paramètres fixes: k1=1.2, b=0.75, α_title=3, α_body=1")
+    print("="*70)
+    
+    try:
+        from exercices_5_6_with_cache import generate_field_weighted_run_cached
+    except ImportError as e:
+        print(f"Module exercices_5_6_with_cache non disponible: {e}")
+        print("Exécutez d'abord le script pour générer les runs")
+        return None
+    
+    generator = INEXRunGenerator(team_name="AlphaAnaClement")
+    
+    # Paramètres à tester
+    stop_options = ['nostop', 'stop671']
+    stemmer_options = ['nostem', 'porter']
+    
+    # Configuration de base commune
+    base_config = {
+        'tokenization': 'basic',
+        #'use_lxml': True
+    }
+    
+    # Configuration des champs (fixe pour cette phase)
+    fields_config = {
+        'title': ['title'],
+        'body': ['bdy']
+    }
+    
+    # Poids fixés pour cette phase
+    field_weights = {
+        'title': 3.0,
+        'body': 1.0
+    }
+    
+    # Paramètres BM25 fixés
+    run_params = {
+        'k1': 1.2,
+        'b': 0.75,
+        'max_files': None
+    }
+    
+    results = []
+    run_counter = 1
+    total_runs = len(stop_options) * len(stemmer_options)
+    
+    print(f"Nombre total de runs à générer: {total_runs}")
+    
+    run_id = 0
+    for stop in stop_options:
+        for stemmer in stemmer_options:
+            print(f"\n{'='*60}")
+            print(f"RUN {run_counter}/{total_runs}")
+            print(f"Configuration: stop={stop}, stemmer={stemmer}")
+            print('='*60)
+            
+            # Configuration complète
+            config = base_config.copy()
+            config['stemmer'] = stemmer
+            config['stop_words'] = stop
+            
+            # Identifiant du run
+            run_id +=1 
+            
+            # Génération du run
+            print(f"Génération en cours avec {algorithme.upper()}...")
+            start_time = time.time()
+            
+            try:
+                filename = generate_field_weighted_run_cached(
+                    generator=generator,
+                    run_id=run_id,
+                    run_type=algorithme,  # 'bm25fw' ou 'bm25fr'
+                    xml_dir=XML_DIR,
+                    queries=INEX_QUERIES,
+                    config=config,
+                    run_params=run_params,
+                    fields_config=fields_config,
+                    field_weights=field_weights
+                )
+                
+                generation_time = time.time() - start_time
+                
+                # Vérification du fichier
+                line_count = 0
+                try:
+                    with open(filename, 'r', encoding='utf-8') as f:
+                        line_count = sum(1 for _ in f)
+                except Exception as e:
+                    print(f"Erreur lecture fichier: {e}")
+                    filename = None
+                
+                if filename:
+                    # Stockage des résultats
+                    result_entry = {
+                        'run_number': run_counter,
+                        'algorithme': algorithme,
+                        'stop': stop,
+                        'stemmer': stemmer,
+                        'filename': filename,
+                        'basename': os.path.basename(filename),
+                        'line_count': line_count,
+                        'generation_time': generation_time,
+                        'config_summary': f"{algorithme}_{stop}_{stemmer}",
+                        'full_config': {
+                            'config': config,
+                            'fields_config': fields_config,
+                            'field_weights': field_weights,
+                            'run_params': run_params
+                        }
+                    }
+                    
+                    results.append(result_entry)
+                    
+                    print(f"Run généré: {os.path.basename(filename)}")
+                    print(f"Lignes: {line_count} (attendu: 10500)")
+                    print(f"Temps génération: {generation_time:.2f}s")
+                else:
+                    print("Échec de la génération du run")
+                    
+            except Exception as e:
+                print(f"Erreur lors de la génération: {e}")
+                import traceback
+                traceback.print_exc()
+            
+            run_counter += 1
+    
+    # Affichage du résumé
+    print("\n" + "="*70)
+    print(f"RÉSUMÉ PHASE 1 - PRÉTRAITEMENT ({algorithme.upper()})")
+    print("="*70)
+    
+    if not results:
+        print("Aucun run n'a été généré avec succès.")
+        return None
+    
+    print("\nListe des runs générés:")
+    print("-" * 80)
+    print(f"{'No':<4} {'Algo':<8} {'Stop':<10} {'Stem':<8} {'Lignes':<8} {'Fichier'}")
+    print("-" * 80)
+    
+    for result in results:
+        status = "OK" if result['line_count'] == 10500 else f"{result['line_count']}"
+        print(f"{result['run_number']:<4} "
+              f"{result['algorithme']:<8} "
+              f"{result['stop']:<10} "
+              f"{result['stemmer']:<8} "
+              f"{status:<8} "
+              f"{result['basename'][:40]}...")
+    
+    print("\n" + "="*70)
+    print("INSTRUCTIONS POUR LE TEST:")
+    print("="*70)
+    print("1. Tous les runs sont dans le dossier 'data/runs/'")
+    print("2. Uploader chaque run sur http://ri.gery.fr")
+    print("3. Noter pour chaque run:")
+    print("   - MAP (Mean Average Precision)")
+    print("   - P@10 (Precision at 10)")
+    print("4. Identifier la meilleure combinaison stop/stemmer")
+    print("5. Utiliser cette combinaison pour la phase 2 (optimisation des poids)")
+    
+    # Sauvegarde des métadonnées
+    metadata_file = f"data/runs/ex5-6_phase1_{algorithme}_metadata.txt"
+    os.makedirs(os.path.dirname(metadata_file), exist_ok=True)
+    
+    with open(metadata_file, 'w', encoding='utf-8') as f:
+        f.write(f"MÉTADONNÉES EXERCICES 5-6 - PHASE 1 ({algorithme.upper()})\n")
+        f.write("=" * 60 + "\n\n")
+        f.write(f"Date: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"Algorithme: {algorithme}\n")
+        f.write(f"Nombre de runs: {len(results)}\n\n")
+        f.write(f"Paramètres fixes:\n")
+        f.write(f"  k1: {run_params['k1']}\n")
+        f.write(f"  b: {run_params['b']}\n")
+        f.write(f"  α_title: {field_weights['title']}\n")
+        f.write(f"  α_body: {field_weights['body']}\n\n")
+        
+        for result in results:
+            f.write(f"\nRUN {result['run_number']}:\n")
+            f.write(f"  Algorithme: {result['algorithme']}\n")
+            f.write(f"  Stop-words: {result['stop']}\n")
+            f.write(f"  Stemmer: {result['stemmer']}\n")
+            f.write(f"  Fichier: {result['basename']}\n")
+            f.write(f"  Lignes: {result['line_count']}\n")
+            f.write(f"  Temps génération: {result['generation_time']:.2f}s\n")
+            f.write("  Résultats (à compléter après test):\n")
+            f.write("    MAP: ______\n")
+            f.write("    P@10: ______\n")
+            f.write("    Observations: ______________________\n")
+    
+    print(f"\nMétadonnées sauvegardées dans: {metadata_file}")
+    
+    return results
+
+
+def exercice5_phase1():
+    """Wrapper pour la phase 1 de l'exercice 5 (BM25Fw)"""
+    print_exercise_header(5, "BM25Fw - Phase 1: Optimisation prétraitement")
+    return exercice5_6_phase1_pretraitement(algorithme="bm25fw")
+
+
+def exercice6_phase1():
+    """Wrapper pour la phase 1 de l'exercice 6 (BM25Fr)"""
+    print_exercise_header(6, "BM25Fr - Phase 1: Optimisation prétraitement")
+    return exercice5_6_phase1_pretraitement(algorithme="bm25fr")
+
+
+# Fonctions pour exécuter les deux algorithmes en parallèle
+def exercices5_6_phase1_complet():
+    """
+    Exécute la phase 1 pour les deux algorithmes (BM25Fw et BM25Fr)
+    """
+    print("\n" + "="*70)
+    print("EXERCICES 5 & 6 - PHASE 1 COMPLÈTE")
+    print("Optimisation prétraitement pour les deux algorithmes")
+    print("="*70)
+    
+    results_bm25fw = exercice5_phase1()
+    print("\n" + "="*70)
+    print("PHASE 1 BM25Fw TERMINÉE")
+    print("="*70)
+    
+    input("\nAppuyez sur Entrée pour passer à BM25Fr...")
+    
+    results_bm25fr = exercice6_phase1()
+    print("\n" + "="*70)
+    print("PHASE 1 BM25Fr TERMINÉE")
+    print("="*70)
+    
+    return {
+        'bm25fw': results_bm25fw,
+        'bm25fr': results_bm25fr
+    }
+
+
 
 # ==================== EXERCICES 5 et 6 ====================
 
@@ -642,11 +910,7 @@ def exercice6():
 
 # ==================== FONCTION PRINCIPALE ====================
 
-def main(selected_exercises: List[int] = None):
-    """Exécute tous les exercices ou seulement ceux spécifiés"""
-    print("=" * 70)
-    print("PRACTICAL SESSION 5: Structured IR at INEX")
-    print("=" * 70)
+def main():
     
     # Nettoyage initial
     clean_runs_directory()
@@ -659,93 +923,21 @@ def main(selected_exercises: List[int] = None):
         print(f"ERREUR: Dossier de données non trouvé: {XML_DIR}")
         return
     
-    # Mapping des exercices
-    exercises = {
-        1: ("Indexation XML documents (SMART ltn)", exercice1),
-        2: ("Test runs documents (12 combinaisons)", exercice2),
-        3: ("Indexation XML éléments (SMART ltn)", exercice3),
-        4: ("Expérimentation éléments", exercice4),
-        5: ("BM25Fw - Late combination", exercice5),
-        6: ("BM25Fr - Early combination", exercice6)
-    }
+
+    #exercice1()
+    #exercice2()
+    #exercice3()
+    #exercice4_phase_pretraitement()
+    #exercice5()
+    #exercice6()
+    exercices5_6_phase1_complet()
+    #exercice6_phase1()
+
     
-    # Exécuter tous ou sélection
-    if selected_exercises is None:
-        selected_exercises = list(exercises.keys())
     
-    results = {}
-    
-    for ex_num in selected_exercises:
-        if ex_num in exercises:
-            name, func = exercises[ex_num]
-            print(f"\n{'='*70}")
-            print(f"LANCEMENT EXERCICE {ex_num}: {name}")
-            print('='*70)
-            
-            try:
-                results[f'ex{ex_num}'] = func()
-                print(f" Exercice {ex_num} terminé")
-            except Exception as e:
-                print(f"❌ Erreur exercice {ex_num}: {e}")
-                import traceback
-                traceback.print_exc()
-    
-    # Résumé final
-    print("\n" + "="*70)
-    print("RÉSUMÉ DE LA SESSION")
-    print("="*70)
-    
-    for ex_num in selected_exercises:
-        if ex_num in exercises:
-            print(f"Exercice {ex_num}: {exercises[ex_num][0]}")
-            if f'ex{ex_num}' in results:
-                result = results[f'ex{ex_num}']
-                if isinstance(result, dict) and 'filename' in result:
-                    print(f"  Run: {os.path.basename(result['filename'])}")
-                elif isinstance(result, str):
-                    print(f"  Run: {os.path.basename(result)}")
-                elif isinstance(result, list):
-                    print(f"  {len(result)} configurations testées")
-    
-    print(f"\nTous les exercices terminés")
-    print(f"Les fichiers sont dans: data/runs/")
-    
-    return results
 
 # ==================== EXÉCUTION ====================
 
 if __name__ == "__main__":
-    import sys
-    
-    # Permettre de spécifier des exercices
-    if len(sys.argv) > 1:
-        selected = []
-        for arg in sys.argv[1:]:
-            try:
-                ex_num = int(arg)
-                if 1 <= ex_num <= 6:
-                    selected.append(ex_num)
-                else:
-                    print(f"Exercice {ex_num} invalide (doit être 1-6)")
-            except ValueError:
-                print(f"Argument invalide: {arg}")
         
-        if selected:
-            main(selected_exercises=selected)
-        else:
-            print("Usage: python main.py [exercice1] [exercice2] ...")
-            print("Exemple: python main.py 1 3 5")
-            main()  # Tous par défaut
-    else:
-        # Exécuter tous les exercices
-        #main()
-        print("hello")
-
-    clean_runs_directory()
-    #exercice1()
-    exercice2()
-    #exercice3()
-    #exo3()
-    #exercice5()
-    #exercice6()
-    
+    main()
