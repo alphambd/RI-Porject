@@ -1,0 +1,278 @@
+import math
+import pickle
+import os
+from collections import defaultdict
+
+class RankedRetrieval:
+    def __init__(self, index, cache_dir="data/norm_cache"):
+        self.index = index
+        self.doc_count = index.doc_count
+        #self.avg_dl = index.avg_doc_length
+        self.avg_dl = index.avg_doc_length if hasattr(index, 'avg_doc_length') else 0
+        self.cache_dir = cache_dir
+        
+        # Créer le dossier cache s'il n'existe pas
+        if not os.path.exists(cache_dir):
+            os.makedirs(cache_dir)
+        
+        # Pré-calculer df pour tous les termes
+        self.df = {}
+        for term, doc_dict in index.dictionary.items():
+            self.df[term] = len(doc_dict)
+        
+        # Initialiser le cache des normes cosine (vide au début)
+        self._cosine_norms_cache = None
+    
+    """
+    def _get_cosine_norms_cache_filename(self):
+        #Génère un nom de fichier de cache basé sur les caractéristiques de l'index
+        index_hash = hash((
+            self.doc_count,
+            self.index.total_terms,
+            len(self.index.dictionary),
+            #self.index.stop_word_active,
+            #self.index.stemmer_active
+            self.index.stop_list_name,  # on utilise la nouvelle configuration
+            self.index.stemmer_name,    
+        ))
+        return os.path.join(self.cache_dir, f"cosine_norms_{abs(index_hash)}.pkl")
+    """
+    def _get_cosine_norms_cache_filename(self):
+        """Génère un nom de fichier de cache basé sur les caractéristiques de l'index"""
+        index_hash = hash((
+            self.doc_count,
+            self.index.total_terms,
+            len(self.index.dictionary),
+            self.index.stop_list_name,
+            self.index.stemmer_name,
+            self.index.tokenization_method,  # Ajouter cette ligne
+            tuple(sorted(self.index.stop_words_set)) if self.index.stop_words_set else "nostop",  # Ajouter cette ligne
+        ))
+        return os.path.join(self.cache_dir, f"cosine_norms_{abs(index_hash)}.pkl")
+    
+    def _load_or_compute_cosine_norms(self):
+        """Charge les normes cosine depuis le cache ou les calcule si nécessaire"""
+        # Si déjà chargé, retourner le cache
+        if self._cosine_norms_cache is not None:
+            return self._cosine_norms_cache
+            
+        cache_file = self._get_cosine_norms_cache_filename()
+        
+        # Essayer de charger depuis le cache
+        if os.path.exists(cache_file):
+            print("Chargement des normes cosine depuis le cache...")
+            try:
+                with open(cache_file, 'rb') as f:
+                    norms = pickle.load(f)
+                print("Normes cosine chargées avec succès!")
+                self._cosine_norms_cache = norms
+                return norms
+            except Exception as e:
+                print(f"Erreur lors du chargement du cache: {e}")
+        
+        # Calculer les normes si le cache n'existe pas ou est corrompu
+        print("Calcul des normes cosine des documents...")
+        norms = self._precompute_all_cosine_norms()
+        
+        # Sauvegarder dans le cache
+        try:
+            with open(cache_file, 'wb') as f:
+                pickle.dump(norms, f)
+            print("Normes cosine sauvegardées dans le cache!")
+        except Exception as e:
+            print(f"Erreur lors de la sauvegarde du cache: {e}")
+        
+        self._cosine_norms_cache = norms
+        return norms
+
+    def _precompute_all_cosine_norms(self):
+        """Version optimisée du pré-calcul des normes cosine"""
+        doc_norms = {doc_id: 0.0 for doc_id in self.index.doc_ids}
+        
+        # Parcourir chaque terme une seule fois
+        for term, doc_dict in self.index.dictionary.items():
+            df = len(doc_dict)
+            w_idf = math.log10(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
+            
+            for doc_id, tf in doc_dict.items():
+                w_tf = 1.0 + math.log10(tf) if tf > 0 else 0.0
+                raw_weight = w_tf * w_idf
+                doc_norms[doc_id] += raw_weight ** 2
+        
+        # Prendre la racine carrée
+        for doc_id in doc_norms:
+            doc_norms[doc_id] = math.sqrt(doc_norms[doc_id]) if doc_norms[doc_id] > 0 else 1.0
+        
+        print(f"Calcul des normes cosine terminé pour {len(doc_norms)} documents!")
+        return doc_norms
+
+    def smart_ltn_weighting(self, term, doc_id):
+        """SMART ltn weighting: logarithmic tf, idf, pas de normalization"""
+        # ltn: (1 + log(tf)) * log(N/df)
+
+        if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+            return 0.0
+
+        tf = self.index.dictionary[term][doc_id]
+        df = self.df[term]
+         
+        w_tf = 1.0 + math.log10(tf) if tf > 0 else 0.0
+        w_idf = math.log10(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
+        
+        return w_tf * w_idf
+
+    def smart_ltc_weighting(self, term, doc_id):
+        """SMART ltc weighting: logarithmic tf, idf, normalization cosinus"""
+        # ltn_values = 1 + log(tf)) * log(N/df)
+        # ltc: ltn_values / sqrt(sum_of_squares(ltn_values)) 
+
+        if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+            return 0.0
+        
+        # Charger les normes cosine seulement si nécessaire (lazy loading)
+        if self._cosine_norms_cache is None:
+            self._load_or_compute_cosine_norms()
+        
+        tf = self.index.dictionary[term][doc_id]
+        df = self.df[term]
+        
+        w_tf = 1.0 + math.log10(tf) if tf > 0 else 0.0
+        w_idf = math.log10(self.doc_count / df) if df > 0 and self.doc_count > df else 0.0
+        raw_weight = w_tf * w_idf
+        
+        # Utilise la norme cosine pré-calculée
+        doc_norm = self._cosine_norms_cache.get(doc_id, 1.0)
+        return raw_weight / doc_norm if doc_norm > 0 else 0.0
+    
+    def bm25_weighting(self, term, doc_id, k1=1.2, b=0.75):
+        """BM25 weighting avec paramètres standard"""
+        # BM25: log((N - df + 0.5) / (df + 0.5)) * [ (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (dl / avgdl))) ]
+        # - N = nombre total de documents
+        # - dl = longueur du document (nombre de termes)
+        # - avgdl = longueur moyenne des documents
+        # - k1 = paramètre de saturation TF (valeur par défaut: 1.2)
+        # - b = paramètre de normalisation longueur (valeur par défaut: 0.75)
+
+        if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+            return 0.0
+        
+        tf = self.index.dictionary[term][doc_id]
+        df = self.df[term]
+        doc_length = self.index.doc_lengths[doc_id]
+        
+        # Calcul BM25
+        idf = math.log10((self.doc_count - df + 0.5) / (df + 0.5))
+        tf_component = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (doc_length / self.avg_dl))) if self.avg_dl > 0 else 0.0
+        
+        return idf * tf_component
+    
+    def process_query_terms(self, query):
+        """Traiter la requête pour extraire les termes"""
+        tokens = self.index.apply_tokenization(query)
+        tokens = self.index.process_tokens(tokens)
+        #return list(set(tokens))
+        return sorted(set(tokens))  # termes uniques triés
+
+    def search_query(self, query, weighting_scheme="ltn", top_k=10, k1=1.2, b=0.75):
+        """Recherche optimisée - ne parcourt que les documents contenant au moins un terme de la requête"""
+        query_terms = self.process_query_terms(query)
+        
+        print(f" * Recherche: '{query}' -> termes: {query_terms}")
+        
+        # Précharger les normes cosine seulement si nécessaire pour LTC
+        if weighting_scheme == "ltc" and self._cosine_norms_cache is None:
+            self._load_or_compute_cosine_norms()
+        
+        doc_scores = defaultdict(float)
+        
+        # Optimisation: ne considérer que les documents qui contiennent au moins un terme de la requête
+        relevant_docs = set()
+        for term in query_terms:
+            if term in self.index.dictionary:
+                relevant_docs.update(self.index.dictionary[term].keys())
+        
+        print(f"  - Documents pertinents potentiels: {len(relevant_docs)}")
+        
+        for doc_id in relevant_docs:
+            score = 0.0
+            for term in query_terms:
+                if weighting_scheme == "ltn":
+                    term_weight = self.smart_ltn_weighting(term, doc_id)
+                elif weighting_scheme == "ltc":
+                    term_weight = self.smart_ltc_weighting(term, doc_id)
+                elif weighting_scheme == "bm25":
+                    term_weight = self.bm25_weighting(term, doc_id, k1, b)
+                else:
+                    term_weight = self.smart_ltn_weighting(term, doc_id)
+                
+                score += term_weight
+            
+            #if score > 0:
+            #    doc_scores[doc_id] = score
+            doc_scores[doc_id] = score # on stock toujours le score, sinon pour bm25 certains run < 10500
+
+        sorted_docs = sorted(
+            doc_scores.items(),
+            key=lambda x: (-x[1], x[0])
+        )
+
+        return sorted_docs[:top_k]
+    
+    def get_term_weight(self, term, doc_id, weighting_scheme, k1=1.2, b=0.75):
+        """Retourne le poids d'un terme spécifique dans un document"""
+        # Précharger les normes cosine seulement si nécessaire pour LTC
+        if weighting_scheme == "ltc" and self._cosine_norms_cache is None:
+            self._load_or_compute_cosine_norms()
+            
+        if weighting_scheme == "ltn":
+            return self.smart_ltn_weighting(term, doc_id)
+        elif weighting_scheme == "ltc":
+            return self.smart_ltc_weighting(term, doc_id)
+        elif weighting_scheme == "bm25":
+            return self.bm25_weighting(term, doc_id, k1, b)
+        else:
+            return 0.0
+
+    def clear_cosine_norms_cache(self):
+        """Effacer le cache des normes cosine"""
+        cache_file = self._get_cosine_norms_cache_filename()
+        if os.path.exists(cache_file):
+            os.remove(cache_file)
+            self._cosine_norms_cache = None
+            print("Cache des normes cosine effacé!")
+    
+    
+    def get_term_weight_cached(self, term, doc_id, weighting_scheme="ltn", k1=1.2, b=0.75):
+        """
+        Version optimisée de get_term_weight avec cache local
+        """
+        # Créer un cache local si nécessaire
+        if not hasattr(self, '_term_weight_cache'):
+            self._term_weight_cache = {}
+        
+        # Clé de cache unique
+        cache_key = (term, doc_id, weighting_scheme, k1, b)
+        
+        if cache_key in self._term_weight_cache:
+            return self._term_weight_cache[cache_key]
+        
+        # Calculer le poids
+        if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+            weight = 0.0
+        else:
+            if weighting_scheme == "ltn":
+                weight = self.smart_ltn_weighting(term, doc_id)
+            elif weighting_scheme == "ltc":
+                # Précharger les normes cosine si nécessaire
+                if self._cosine_norms_cache is None:
+                    self._load_or_compute_cosine_norms()
+                weight = self.smart_ltc_weighting(term, doc_id)
+            elif weighting_scheme == "bm25":
+                weight = self.bm25_weighting(term, doc_id, k1, b)
+            else:
+                weight = 0.0
+        
+        # Mettre en cache
+        self._term_weight_cache[cache_key] = weight
+        return weight
+

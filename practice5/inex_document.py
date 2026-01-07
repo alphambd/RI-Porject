@@ -504,3 +504,4 @@ class INEXDocument:
         cleaned = INEXDocument._normalize_text(cleaned)
         
         return cleaned
+

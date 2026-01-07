@@ -8,18 +8,7 @@ from typing import List, Dict, Set, Optional, Union
 import unicodedata
 import html
 
-# IMPORT LXML pour parsing XML correct (optionnel)
-try:
-    from lxml import etree
-    LXML_AVAILABLE = True
-except ImportError:
-    LXML_AVAILABLE = False
-    import xml.etree.ElementTree as ET
-
-from unidecode import unidecode
-from porterstemmer import PorterStemmer
-from snowballstemmer import stem_word
-
+from inex_document import INEXDocument
 
 class WeightedInvertedIndex:
     """Index inversé unifié pour tous les exercices"""
@@ -65,6 +54,8 @@ class WeightedInvertedIndex:
         if 'target_tags' in kwargs:
             self.target_tags = kwargs['target_tags']
         
+        # mettre use_lxml par défaut : 
+        use_lxml = True
         if 'use_lxml' in kwargs:
             self.use_lxml = kwargs['use_lxml'] and LXML_AVAILABLE
     
