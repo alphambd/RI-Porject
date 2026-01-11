@@ -5,7 +5,8 @@ from collections import defaultdict
 from typing import Dict, List, Tuple
 import hashlib
 
-from indexer import WeightedInvertedIndex, INEXDocument
+from advanced_indexer import WeightedInvertedIndex
+from inex_document import INEXDocument
 from ranked_retrieval import RankedRetrieval
 
 

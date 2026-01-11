@@ -2,7 +2,7 @@ import os
 import time
 from typing import Dict, List, Optional
 from xml_run_manager import INEXRunGenerator
-from indexer import WeightedInvertedIndex
+from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 from field_weighted_index import generate_field_weighted_run_cached
 
@@ -201,7 +201,7 @@ def exercice3():
     }
     
     filename = run_gen.generate_fetch_browse(
-        run_id="testXML_optimized",
+        run_id="_1_testXML",
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
         fetch_config=fetch_config,

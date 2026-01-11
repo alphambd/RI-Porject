@@ -6,7 +6,7 @@ from collections import defaultdict, Counter
 from typing import Dict, List, Tuple, Optional
 import math
 
-from indexer import WeightedInvertedIndex
+from advanced_indexer import WeightedInvertedIndex
 from inex_document import INEXDocument
 
 class FieldWeightedIndex:

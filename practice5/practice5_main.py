@@ -2,7 +2,7 @@ import os
 import time
 from typing import Dict, List, Optional
 from xml_run_manager import INEXRunGenerator
-from indexer import WeightedInvertedIndex
+from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 
 from practice5_exercices import (exercice1, exercice2, exercice3,
