@@ -185,7 +185,7 @@ Windows Mobile</link></O>
  supports accessing of the most USB mass storage devices formatted with <link xlink:type="simple" xlink:href="../045/53045.xml">
 FAT</link> on devices with USB Host, although portable devices typically cannot provide enough power for <link xlink:type="simple" xlink:href="../379/891379.xml">
 disk enclosure</link>s containing hard drives (a 2.5" <link xlink:type="simple" xlink:href="../777/13777.xml">
-hard drive</link> typically requires the maximum 2.5&nbsp;<link xlink:type="simple" xlink:href="../112/38112.xml">
+hard drive</link> typically requires the maximum 2.5 <link xlink:type="simple" xlink:href="../112/38112.xml">
 W</link> provided by the USB specification). On the other way around, Windows Mobile devices can not show their file systems as a mass storage device unless the device implementer explicitly decides to add such functionality. However, third party applications exist to add MSC emulation to most WM devices (commercial "Softick CardExport" and free "WM5torage"). Generally only memory cards can be exported, and not internal storage memory, due to the complications outlined below.</p>
 
 </ss1>
@@ -312,8 +312,8 @@ Card reader</link></medium>
 <p>
 
 The USB mass storage specification does not require any particular <link xlink:type="simple" xlink:href="../280/1010280.xml">
-file system</link> to be used on conforming devices.  Instead, it provides a simple interface to read and write sectors of data&mdash;much like the low-level interface used to access any <link xlink:type="simple" xlink:href="../777/13777.xml">
-hard drive</link>&mdash;using the "<link xlink:type="simple" xlink:href="../313/28313.xml">
+file system</link> to be used on conforming devices.  Instead, it provides a simple interface to read and write sectors of data—much like the low-level interface used to access any <link xlink:type="simple" xlink:href="../777/13777.xml">
+hard drive</link>—using the "<link xlink:type="simple" xlink:href="../313/28313.xml">
 SCSI</link> transparent command set."  Operating systems may treat the USB drive like a hard drive, and can format it with any file system they like.</p>
 <p>
 

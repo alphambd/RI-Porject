@@ -162,7 +162,7 @@ This is analogous to the two approaches to measure and integration, where one ha
 <p>
 
 The Kolmogorov extension proceeds along the following lines: assuming that a <link>
-probability measure</link> on the space of all functions <math>f: X \to Y</math> exists, then it can be used to specify the joint probability distribution of finite-dimensional random variables <math>f(x_1),\dots,f(x_n)</math>. Now, from this <it>n</it>-dimensional probability distribution we can deduce an (<it>n</it>&nbsp;&amp;minus;&nbsp;1)-dimensional <link xlink:type="simple" xlink:href="../077/506077.xml">
+probability measure</link> on the space of all functions <math>f: X \to Y</math> exists, then it can be used to specify the joint probability distribution of finite-dimensional random variables <math>f(x_1),\dots,f(x_n)</math>. Now, from this <it>n</it>-dimensional probability distribution we can deduce an (<it>n</it> &amp;minus; 1)-dimensional <link xlink:type="simple" xlink:href="../077/506077.xml">
 marginal probability distribution</link> for <math>f(x_1),\dots,f(x_{n-1})</math>. Note that the obvious compatibility condition, namely, that this marginal probability distribution be in the same class as the one derived from the full-blown stochastic process, is not a requirement.  Such a condition only holds, for example, if the stochastic process is a Wiener process (in which case the marginals are all gaussian distributions of the exponential class) but not in general for all stochastic processes. When this condition is expressed in terms of <link xlink:type="simple" xlink:href="../487/43487.xml">
 probability densities</link>, the result is called the <link xlink:type="simple" xlink:href="../075/526075.xml">
 Chapman-Kolmogorov equation</link>. </p>
@@ -382,7 +382,7 @@ References</st>
 <list>
 <entry level="1" type="number">
 
- <cite style="font-style:normal" class="book">Papoulis, Athanasios &amp; Pillai, S. Unnikrishna&#32;(2001). Probability, Random Variables and Stochastic Processes.&#32;McGraw-Hill Science/Engineering/Math. ISBN 0-07-281725-9.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Papoulis, Athanasios &amp; Pillai, S. Unnikrishna&#32;(2001). Probability, Random Variables and Stochastic Processes.&#32;McGraw-Hill Science/Engineering/Math. ISBN 0-07-281725-9.</cite> </entry>
 <entry level="1" type="number">
 
 <physical_entity wordnetid="100001930" confidence="0.8">
@@ -400,7 +400,7 @@ Boris Tsirelson</link></mathematician>
 Lecture notes in Advanced probability theory</weblink>".</entry>
 <entry level="1" type="number">
 
- <cite style="font-style:normal" class="book">J. L. Doob&#32;(1953). Stochastic Processes.&#32;Wiley.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">J. L. Doob&#32;(1953). Stochastic Processes.&#32;Wiley.</cite> </entry>
 <entry level="1" type="number">
 
 "<weblink xlink:type="simple" xlink:href="http://www.ifp.uiuc.edu/~hajek/Papers/randomprocesses.html">

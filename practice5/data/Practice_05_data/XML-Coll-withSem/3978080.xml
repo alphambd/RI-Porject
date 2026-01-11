@@ -325,18 +325,18 @@ Full Building Information Modeling Packages</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../993/4410993.xml">
 Graphisoft ArchiCAD</link></software>
-&nbsp;&#124; <company wordnetid="108058098" confidence="0.9508927676800064">
+ &#124; <company wordnetid="108058098" confidence="0.9508927676800064">
 <link>
 Bentley Architecture</link></company>
-&nbsp;&#124; <link>
- Tekla Structures</link>&nbsp;&#124; <software wordnetid="106566077" confidence="0.9508927676800064">
+ &#124; <link>
+ Tekla Structures</link> &#124; <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../555/10324555.xml">
 Graphisoft Constructor</link></software>
-&nbsp;&#124; <software wordnetid="106566077" confidence="0.9508927676800064">
+ &#124; <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../459/7399459.xml">
 Autodesk Revit</link></software>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../666/10324666.xml">
-Nemetschek N.A. VectorWorks Architect</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../261/19453261.xml">
+ &#124; <link xlink:type="simple" xlink:href="../666/10324666.xml">
+Nemetschek N.A. VectorWorks Architect</link> &#124; <link xlink:type="simple" xlink:href="../261/19453261.xml">
 GRAITEC Advance</link></col>
 </row>
 <row style="height:2px">
@@ -347,11 +347,11 @@ GRAITEC Advance</link></col>
 Building Information Modeling Compatible Packages</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../926/6665926.xml">
-Data Design System</link>&nbsp;&#124; <software wordnetid="106566077" confidence="0.9508927676800064">
+Data Design System</link> &#124; <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../933/8665933.xml">
 NavisWorks JetStream</link></software>
-&nbsp;&#124; <link>
- CodeBook by Project Blueprint</link>&nbsp;&#124; <link>
+ &#124; <link>
+ CodeBook by Project Blueprint</link> &#124; <link>
 RoomData by Project Blueprint</link></col>
 </row>
 <row style="height:2px">

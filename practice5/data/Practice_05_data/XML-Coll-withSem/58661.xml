@@ -173,7 +173,7 @@ Cray took another approach. At the time, CPUs generally ran slower than the <lin
 main memory</link> they were attached to. For instance, a processor might take 15 cycles to multiply two numbers, while each memory access took only one or two. This meant there was a significant time where the main memory was idle. It was this idle time that the 6600 extracted.</p>
 <p>
 
-Instead of trying to make the CPU handle all the tasks, the 6600s handled math and logic only. This resulted in a much smaller CPU, which in turn allowed it to operate at a higher clock speed. Combined with the faster switching speeds of the silicon transistors, the new CPU design would easily outperform anything then available. The new design ran at 10&nbsp;MHz (100&nbsp;ns cycle), about ten times that of other machines on the market. Additionally the simple processor also made operations themselves faster; for instance, the CPU could complete a multiplication in ten cycles.</p>
+Instead of trying to make the CPU handle all the tasks, the 6600s handled math and logic only. This resulted in a much smaller CPU, which in turn allowed it to operate at a higher clock speed. Combined with the faster switching speeds of the silicon transistors, the new CPU design would easily outperform anything then available. The new design ran at 10 MHz (100 ns cycle), about ten times that of other machines on the market. Additionally the simple processor also made operations themselves faster; for instance, the CPU could complete a multiplication in ten cycles.</p>
 <p>
 
 Of course, being simple, the CPU wouldn't be able to do much. A typical CPU of the era had a <class wordnetid="107997703" confidence="0.8">
@@ -225,7 +225,7 @@ floating point</link> multiplication in time comparable to that for a program br
 <p>
 
 The 6600 CP included 10 parallel functional units, allowing multiple instructions to be worked on at the same time. Today this is known as a <link xlink:type="simple" xlink:href="../702/51702.xml">
-superscalar</link> design, but was unique for its time. Unlike most modern CPU designs, functional units were not pipelined; the functional unit would become busy when an instruction was "issued" to it and would remain busy for the entire time required to execute that instruction.  (By contrast, the CDC 7600 introduced pipelining into its functional units.)  In the best case, an instruction could be issued to a functional unit every 100&nbsp;ns clock cycle.  The system read and decoded instructions from memory as fast as possible, generally faster than they could be completed, and fed them off to the units for processing. The units were:
+superscalar</link> design, but was unique for its time. Unlike most modern CPU designs, functional units were not pipelined; the functional unit would become busy when an instruction was "issued" to it and would remain busy for the entire time required to execute that instruction.  (By contrast, the CDC 7600 introduced pipelining into its functional units.)  In the best case, an instruction could be issued to a functional unit every 100 ns clock cycle.  The system read and decoded instructions from memory as fast as possible, generally faster than they could be completed, and fed them off to the units for processing. The units were:
 <list>
 <entry level="1" type="bullet">
 
@@ -256,7 +256,7 @@ branch </entry>
 <p>
 
 Previously executed instructions went into an eight-word <link xlink:type="simple" xlink:href="../187/1236187.xml">
-pipeline</link> (officially called a "stack") kept in onboard CP registers. Since the 15-bit instructions were packed four to a word, the system could pick any one of up to 32 previous instructions to run depending on which units were free. The pipeline was always flushed by an unconditional jump; it was sometimes faster (and would never be slower) than a <it>conditional</it> jump.  The system used a 10 megahertz clock, but used a four-phase signal, so the system could at times effectively operate at 40&nbsp;MHz. A floating point multiplication took ten cycles, while a division took 29, and the overall performance considering memory delays and other issues was about 3 <link xlink:type="simple" xlink:href="../930/82930.xml">
+pipeline</link> (officially called a "stack") kept in onboard CP registers. Since the 15-bit instructions were packed four to a word, the system could pick any one of up to 32 previous instructions to run depending on which units were free. The pipeline was always flushed by an unconditional jump; it was sometimes faster (and would never be slower) than a <it>conditional</it> jump.  The system used a 10 megahertz clock, but used a four-phase signal, so the system could at times effectively operate at 40 MHz. A floating point multiplication took ten cycles, while a division took 29, and the overall performance considering memory delays and other issues was about 3 <link xlink:type="simple" xlink:href="../930/82930.xml">
 MFLOPS</link>. Using the best available compilers, late in the machine's history, <link xlink:type="simple" xlink:href="../168/11168.xml">
 FORTRAN</link> programs could expect to maintain about 0.5 MFLOPS.</p>
 
@@ -301,7 +301,7 @@ CDC 160A</link></machine>
 </artifact>
 </computer>
 . These machines, called Peripheral Processors, or PPs, were full computers in their own right, but were tuned to performing <link xlink:type="simple" xlink:href="../558/14558.xml">
-I/O</link> tasks and running the operating system. One of the PPs was in overall control of the machine, including control of the program running on the main CPU, while the others would be dedicated to various I/O tasks&mdash;quite similarly to <link xlink:type="simple" xlink:href="../370/2470370.xml">
+I/O</link> tasks and running the operating system. One of the PPs was in overall control of the machine, including control of the program running on the main CPU, while the others would be dedicated to various I/O tasks—quite similarly to <link xlink:type="simple" xlink:href="../370/2470370.xml">
 I/O channel</link>s in <link xlink:type="simple" xlink:href="../872/14872.xml">
 IBM mainframe</link>s of the time. When the program needed to perform some sort of I/O, it instead loaded a small program into one of these other machines and let it do the work. The PP would then inform the CPU when the task was complete with an interrupt.</p>
 <p>
@@ -479,7 +479,7 @@ Parallel operation in the Control Data 6600, James Thornton</weblink></entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/gbell/craytalk/sld001.htm">
-Presentation of the CDC 6600 and other machines designed by Seymour Cray</weblink> &ndash; by C. <expert wordnetid="109617867" confidence="0.8">
+Presentation of the CDC 6600 and other machines designed by Seymour Cray</weblink> – by C. <expert wordnetid="109617867" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">

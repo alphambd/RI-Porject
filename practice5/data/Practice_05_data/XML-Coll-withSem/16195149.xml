@@ -381,9 +381,9 @@ Ministers</link></col>
 <office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../104/149104.xml">
 Home Secretary</link></office>
-&nbsp;·  <link xlink:type="simple" xlink:href="../369/17870369.xml">
-Minister of State for Security, Counter-Terrorism, Crime and Policing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../518/17870518.xml">
-Minister of State for Borders and Immigration</link>&nbsp;·  3 <link xlink:type="simple" xlink:href="../313/1049313.xml">
+ ·  <link xlink:type="simple" xlink:href="../369/17870369.xml">
+Minister of State for Security, Counter-Terrorism, Crime and Policing</link> ·  <link xlink:type="simple" xlink:href="../518/17870518.xml">
+Minister of State for Borders and Immigration</link> ·  3 <link xlink:type="simple" xlink:href="../313/1049313.xml">
 Parliamentary Under-Secretaries of State</link></col>
 </row>
 <row style="height:2px">
@@ -401,15 +401,15 @@ Executive agencies</link></col>
 Forensic Science Service</link></executive_agency>
 </agency>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <executive_agency wordnetid="108123696" confidence="0.8">
 <link xlink:type="simple" xlink:href="../368/2711368.xml">
 Criminal Records Bureau</link></executive_agency>
 </agency>
 </administrative_unit>
-&nbsp;·  <link xlink:type="simple" xlink:href="../282/4624282.xml">
-Identity and Passport Service</link>&nbsp;·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../282/4624282.xml">
+Identity and Passport Service</link> ·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/16195149.xml">
 UK Border Agency</link></law_enforcement_agency>
 </col>
@@ -427,33 +427,33 @@ Non-Departmental Public Bodies</link></col>
 <link xlink:type="simple" xlink:href="../001/4587001.xml">
 Criminal Cases Review Commission</link></natural_object>
 </body>
-&nbsp;·  <body wordnetid="105216365" confidence="0.8">
+ ·  <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../758/2322758.xml">
 Independent Police Complaints Commission</link></natural_object>
 </body>
-&nbsp;·   <body wordnetid="105216365" confidence="0.8">
+ ·   <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../007/7440007.xml">
 National Policing Improvement Agency</link></natural_object>
 </body>
-&nbsp;·  <body wordnetid="105216365" confidence="0.8">
+ ·  <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../286/3022286.xml">
 Office of the Immigration Services Commissioner</link></natural_object>
 </body>
-&nbsp;·  <body wordnetid="105216365" confidence="0.8">
+ ·  <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../500/569500.xml">
 Parole Board for England and Wales</link></natural_object>
 </body>
-&nbsp;·   <body wordnetid="105216365" confidence="0.8">
+ ·   <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../930/6989930.xml">
 Police Negotiating Board</link></natural_object>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../665/462665.xml">
-Serious Organised Crime Agency</link>&nbsp;·  <body wordnetid="105216365" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../665/462665.xml">
+Serious Organised Crime Agency</link> ·  <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../241/9977241.xml">
 Security Industry Authority</link></natural_object>
@@ -485,33 +485,33 @@ Non-police law enforcement agencies of the United Kingdom</link></header>
 National</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../341/4478341.xml">
-Child Exploitation and Online Protection Centre</link>&nbsp;·  <link xlink:type="simple" xlink:href="../806/651806.xml">
-HM Revenue and Customs</link>&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+Child Exploitation and Online Protection Centre</link> ·  <link xlink:type="simple" xlink:href="../806/651806.xml">
+HM Revenue and Customs</link> ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../221/2268221.xml">
 Joint Terrorism Analysis Centre</link></agency>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../251/15620251.xml">
 National Counter Terrorism Security Office</link></agency>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <right wordnetid="105174653" confidence="0.8">
 <link xlink:type="simple" xlink:href="../959/2525959.xml">
 National Extremism Tactical Co-ordination Unit</link></right>
 </agency>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../242/17038242.xml">
 National Wildlife Crime Unit</link></agency>
 </administrative_unit>
-&nbsp;·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../839/429839.xml">
 Serious Fraud Office (SFO)</link></law_enforcement_agency>
-&nbsp;·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/16195149.xml">
 UK Border Agency</link></law_enforcement_agency>
 </col>
@@ -536,8 +536,8 @@ Environment Agency</link></administration>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../308/361308.xml">
-Health and Safety Executive</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../308/361308.xml">
+Health and Safety Executive</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
@@ -554,8 +554,8 @@ Her Majesty's Prison Service</link></administration>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../586/6520586.xml">
-Marine and Fisheries Agency</link>&nbsp;·  <link xlink:type="simple" xlink:href="../665/462665.xml">
+ ·  <link xlink:type="simple" xlink:href="../586/6520586.xml">
+Marine and Fisheries Agency</link> ·  <link xlink:type="simple" xlink:href="../665/462665.xml">
 Serious Organised Crime Agency (SOCA)</link></col>
 </row>
 <row style="height:2px">
@@ -566,9 +566,9 @@ Serious Organised Crime Agency (SOCA)</link></col>
 Scotland</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../308/361308.xml">
-Health and Safety Executive</link>&nbsp;·  <link xlink:type="simple" xlink:href="../453/3149453.xml">
-Scottish Crime and Drug Enforcement Agency (SCDEA)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../171/2904171.xml">
-Scottish Environmental Protection Agency</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+Health and Safety Executive</link> ·  <link xlink:type="simple" xlink:href="../453/3149453.xml">
+Scottish Crime and Drug Enforcement Agency (SCDEA)</link> ·  <link xlink:type="simple" xlink:href="../171/2904171.xml">
+Scottish Environmental Protection Agency</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
@@ -589,7 +589,7 @@ Scottish Fisheries Protection Agency</link></group>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../510/3899510.xml">
 Scottish Prison Service</link></agency>
@@ -604,7 +604,7 @@ Scottish Prison Service</link></agency>
 Northern Ireland</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../730/16990730.xml">
-Health and Safety Executive for Northern Ireland</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+Health and Safety Executive for Northern Ireland</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
@@ -619,7 +619,7 @@ Northern Ireland Prison Service</link></administration>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../449/17141449.xml">
+ ·  <link xlink:type="simple" xlink:href="../449/17141449.xml">
 Organised Crime Task Force</link></col>
 </row>
 <row style="height:2px">
@@ -684,7 +684,7 @@ China</link></head>
 </administrative_unit>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <preserver wordnetid="110466918" confidence="0.8">
 <guard wordnetid="110150071" confidence="0.8">
@@ -703,7 +703,7 @@ Israel</link></force>
 </preserver>
 </person>
 </physical_entity>
-&nbsp;·   <division wordnetid="108220714" confidence="0.8">
+ ·   <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
@@ -714,7 +714,7 @@ Hong Kong</link></agency>
 </law_enforcement_agency>
 </administrative_unit>
 </division>
-&nbsp;·  India (<administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  India (<administrative_unit wordnetid="108077292" confidence="0.8">
 <paramilitary wordnetid="108207209" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <force wordnetid="108208016" confidence="0.8">
@@ -723,7 +723,7 @@ Border Security Force</link></force>
 </agency>
 </paramilitary>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <paramilitary wordnetid="108207209" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <force wordnetid="108208016" confidence="0.8">
@@ -732,7 +732,7 @@ Indo-Tibetan Border Police</link></force>
 </agency>
 </paramilitary>
 </administrative_unit>
-&nbsp;·  <military_unit wordnetid="108198398" confidence="0.8">
+ ·  <military_unit wordnetid="108198398" confidence="0.8">
 <paramilitary wordnetid="108207209" confidence="0.8">
 <power wordnetid="105190804" confidence="0.8">
 <influence wordnetid="105194151" confidence="0.8">
@@ -749,7 +749,7 @@ Rashtriya Rifles</link></army_unit>
 </power>
 </paramilitary>
 </military_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <paramilitary wordnetid="108207209" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <force wordnetid="108208016" confidence="0.8">
@@ -758,14 +758,14 @@ Indian Home Guard</link></force>
 </agency>
 </paramilitary>
 </administrative_unit>
-&nbsp;·  <power wordnetid="105190804" confidence="0.8">
+ ·  <power wordnetid="105190804" confidence="0.8">
 <influence wordnetid="105194151" confidence="0.8">
 <force wordnetid="105194578" confidence="0.8">
 <link xlink:type="simple" xlink:href="../663/4510663.xml">
 Special Frontier Force</link></force>
 </influence>
 </power>
-&nbsp;·  <military_unit wordnetid="108198398" confidence="0.8">
+ ·  <military_unit wordnetid="108198398" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <paramilitary wordnetid="108207209" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
@@ -792,13 +792,13 @@ Europe</col>
 <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../327/18406327.xml">
 Estonia</link></military_unit>
-&nbsp;·  <agency wordnetid="108337324" confidence="0.9508927676800064">
+ ·  <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../700/3072700.xml">
 European Union</link></agency>
-&nbsp;·  <link xlink:type="simple" xlink:href="../160/539160.xml">
-Finland</link>&nbsp;·  <link xlink:type="simple" xlink:href="../481/18020481.xml">
-France</link>&nbsp;·  <link xlink:type="simple" xlink:href="../396/1826396.xml">
-Germany</link>&nbsp;·   <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../160/539160.xml">
+Finland</link> ·  <link xlink:type="simple" xlink:href="../481/18020481.xml">
+France</link> ·  <link xlink:type="simple" xlink:href="../396/1826396.xml">
+Germany</link> ·   <work wordnetid="100575741" confidence="0.8">
 <transgression wordnetid="100745005" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <crime wordnetid="100766234" confidence="0.8">
@@ -817,8 +817,8 @@ Italy</link></activity>
 </event>
 </transgression>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../256/18967256.xml">
-Latvia</link>&nbsp;·   <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../256/18967256.xml">
+Latvia</link> ·   <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <preserver wordnetid="110466918" confidence="0.8">
 <guard wordnetid="110150071" confidence="0.8">
@@ -831,8 +831,8 @@ Lithuania</link></causal_agent>
 </preserver>
 </person>
 </physical_entity>
-&nbsp;·   <link>
-Norway</link>&nbsp;·  <military_unit wordnetid="108198398" confidence="0.8">
+ ·   <link>
+Norway</link> ·  <military_unit wordnetid="108198398" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
@@ -841,10 +841,10 @@ Poland</link></agency>
 </law_enforcement_agency>
 </administrative_unit>
 </military_unit>
-&nbsp;·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../620/7090620.xml">
 Romania</link></law_enforcement_agency>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <preserver wordnetid="110466918" confidence="0.8">
 <guard wordnetid="110150071" confidence="0.8">
@@ -857,7 +857,7 @@ Russia</link></causal_agent>
 </preserver>
 </person>
 </physical_entity>
-&nbsp;·   <physical_entity wordnetid="100001930" confidence="0.8">
+ ·   <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <preserver wordnetid="110466918" confidence="0.8">
 <guard wordnetid="110150071" confidence="0.8">
@@ -870,7 +870,7 @@ Switzerland</link></causal_agent>
 </preserver>
 </person>
 </physical_entity>
-&nbsp;·   <physical_entity wordnetid="100001930" confidence="0.8">
+ ·   <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
@@ -889,7 +889,7 @@ Ukraine</link></causal_agent>
 </administrative_unit>
 </person>
 </physical_entity>
-&nbsp;·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/16195149.xml">
 United Kingdom</link></law_enforcement_agency>
 </col>
@@ -904,7 +904,7 @@ North America</col>
 <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../528/637528.xml">
 Canada</link></agency>
-&nbsp;·    <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·    <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../453/567453.xml">
 United States of America</link></law_enforcement_agency>
 </col>
@@ -917,7 +917,7 @@ United States of America</link></law_enforcement_agency>
 Oceania</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 Australia (<link xlink:type="simple" xlink:href="../226/1170226.xml">
-Department of Immigration and Citizenship</link>&nbsp;·   <work wordnetid="100575741" confidence="0.8">
+Department of Immigration and Citizenship</link> ·   <work wordnetid="100575741" confidence="0.8">
 <control wordnetid="105196375" confidence="0.8">
 <authority wordnetid="105196582" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -936,7 +936,7 @@ Australian Customs Service</link></activity>
 </authority>
 </control>
 </work>
-)&nbsp;·   <administrative_unit wordnetid="108077292" confidence="0.8">
+) ·   <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../054/8177054.xml">
 New Zealand</link></agency>

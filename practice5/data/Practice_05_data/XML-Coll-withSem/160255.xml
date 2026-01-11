@@ -41,7 +41,7 @@ Notice that we don't care what happens if the verifier is dishonest; we trust th
 <p>
 
 The specific nature of the system, and so the <link xlink:type="simple" xlink:href="../426/502426.xml">
-complexity class</link> of languages it can recognize, depends on what sort of bounds are put on the verifier, as well as what abilities it is given &mdash; for example, most interactive proof systems depend critically on the verifier's ability to make random choices. It also depends on the nature of the messages exchanged &mdash; how many and what they can contain. Interactive proof systems have been found to have some surprisingly profound implications for traditional complexity classes defined using only one machine. The main complexity classes (really, hierarchies of complexity classes) defined using interactive proof systems are <b><link xlink:type="simple" xlink:href="../203/663203.xml">
+complexity class</link> of languages it can recognize, depends on what sort of bounds are put on the verifier, as well as what abilities it is given — for example, most interactive proof systems depend critically on the verifier's ability to make random choices. It also depends on the nature of the messages exchanged — how many and what they can contain. Interactive proof systems have been found to have some surprisingly profound implications for traditional complexity classes defined using only one machine. The main complexity classes (really, hierarchies of complexity classes) defined using interactive proof systems are <b><link xlink:type="simple" xlink:href="../203/663203.xml">
 AM</link></b>, <b><link xlink:type="simple" xlink:href="../203/663203.xml">
 MA</link></b>, <b><class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
@@ -359,7 +359,7 @@ Michael Sipser</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>&nbsp; Section 10.4: Interactive Proof Systems, pp.354&ndash;366.</entry>
+&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>  Section 10.4: Interactive Proof Systems, pp.354–366.</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -403,7 +403,7 @@ Christos Papadimitriou</link></scholar>
 </person>
 </peer>
 </physical_entity>
-&#32;(1993). Computational Complexity, 1st edition,&#32;Addison Wesley. ISBN 0-201-53082-1.</cite>&nbsp; Section 19.2: Games against nature and interactive protocols, pp.469&ndash;480.</entry>
+&#32;(1993). Computational Complexity, 1st edition,&#32;Addison Wesley. ISBN 0-201-53082-1.</cite>  Section 19.2: Games against nature and interactive protocols, pp.469–480.</entry>
 </list>
 </p>
 

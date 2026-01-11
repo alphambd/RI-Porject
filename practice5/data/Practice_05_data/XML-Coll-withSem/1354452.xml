@@ -72,7 +72,7 @@ Volker Strassen</link></mathematician>
 </physical_entity>
  developed the <link>
 Schönhage-Strassen algorithm</link> for fast integer multiplication that has a run-time of <it><link xlink:type="simple" xlink:href="../578/44578.xml">
-O</link></it>(<it>N</it>&nbsp;log&nbsp;<it>N</it>&nbsp;log&nbsp;log&nbsp;<it>N</it>).</p>
+O</link></it>(<it>N</it> log <it>N</it> log log <it>N</it>).</p>
 <p>
 
 Schönhage designed and implemented together with <link>

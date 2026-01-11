@@ -475,23 +475,23 @@ Computer sizes</link></header>
 Larger</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;padding:0.25em 0; line-height:1.4em;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../153/37153.xml">
-Super</link>&nbsp;·  <class wordnetid="107997703" confidence="0.8">
+Super</link> ·  <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../585/927585.xml">
 Minisuper</link></group>
 </collection>
 </class>
-&nbsp;·  <link xlink:type="simple" xlink:href="../266/20266.xml">
-Mainframe</link>&nbsp;·  <link xlink:type="simple" xlink:href="../272/20272.xml">
-Mini</link>&nbsp;·  <class wordnetid="107997703" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../266/20266.xml">
+Mainframe</link> ·  <link xlink:type="simple" xlink:href="../272/20272.xml">
+Mini</link> ·  <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../808/194808.xml">
 Supermini</link></group>
 </collection>
 </class>
-&nbsp;·  <generic wordnetid="107899976" confidence="0.9508927676800064">
+ ·  <generic wordnetid="107899976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../116/42116.xml">
 Server</link></generic>
 </col>
@@ -520,10 +520,10 @@ Sony Ericson P910i "smartphone"
 Micro</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;padding:0.25em 0; line-height:1.4em;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../137/18457137.xml">
-Personal</link>&nbsp;·  <link xlink:type="simple" xlink:href="../181/68181.xml">
-Workstation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../950/13950.xml">
-Home</link>&nbsp;·  <link xlink:type="simple" xlink:href="../742/52742.xml">
-Desktop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../556/2236556.xml">
+Personal</link> ·  <link xlink:type="simple" xlink:href="../181/68181.xml">
+Workstation</link> ·  <link xlink:type="simple" xlink:href="../950/13950.xml">
+Home</link> ·  <link xlink:type="simple" xlink:href="../742/52742.xml">
+Desktop</link> ·  <link xlink:type="simple" xlink:href="../556/2236556.xml">
 SFF</link></col>
 </row>
 <row style="height:2px">
@@ -550,12 +550,12 @@ Mobile</link></group>
 Cart</link></group>
 </collection>
 </class>
-&nbsp;/ <link xlink:type="simple" xlink:href="../851/250851.xml">
-Portable</link>&nbsp;/  <link xlink:type="simple" xlink:href="../714/179714.xml">
-Desktop replacement computer</link>&nbsp;·  <link xlink:type="simple" xlink:href="../584/198584.xml">
-Laptop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../883/3854883.xml">
+ / <link xlink:type="simple" xlink:href="../851/250851.xml">
+Portable</link> /  <link xlink:type="simple" xlink:href="../714/179714.xml">
+Desktop replacement computer</link> ·  <link xlink:type="simple" xlink:href="../584/198584.xml">
+Laptop</link> ·  <link xlink:type="simple" xlink:href="../883/3854883.xml">
 Subnotebook</link> (<link xlink:type="simple" xlink:href="../860/867860.xml">
-Netbook</link>)&nbsp;·  <class wordnetid="107997703" confidence="0.8">
+Netbook</link>) ·  <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../924/152924.xml">
@@ -563,7 +563,7 @@ Tablet</link></group>
 </collection>
 </class>
  (<link xlink:type="simple" xlink:href="../851/4185851.xml">
-Ultra-Mobile PC</link>)&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+Ultra-Mobile PC</link>) ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -574,7 +574,7 @@ Portable</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;/  <computer wordnetid="103082979" confidence="0.8">
+ /  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -585,7 +585,7 @@ Mobile data terminal</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -596,16 +596,16 @@ Electronic organizer</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../661/1149661.xml">
-E-book reader</link>&nbsp;·  <link xlink:type="simple" xlink:href="../482/1487482.xml">
-Pocket computer</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../661/1149661.xml">
+E-book reader</link> ·  <link xlink:type="simple" xlink:href="../482/1487482.xml">
+Pocket computer</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../199/14199.xml">
 Handheld game console</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../109/33109.xml">
+ ·  <link xlink:type="simple" xlink:href="../109/33109.xml">
 Wearable computer</link></col>
 </row>
 <row style="height:2px">
@@ -614,7 +614,7 @@ Wearable computer</link></col>
 <row>
 <col style=";padding-left:0em;padding-right:0em;font-weight:normal;;" class="navbox-group">
 <link xlink:type="simple" xlink:href="../304/23304.xml">
-PDA</link>s&nbsp;/ <link xlink:type="simple" xlink:href="../822/655822.xml">
+PDA</link>s / <link xlink:type="simple" xlink:href="../822/655822.xml">
 IA</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.15em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <computer wordnetid="103082979" confidence="0.8">
@@ -628,10 +628,10 @@ Handheld PC</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../170/69170.xml">
-Pocket PC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../079/167079.xml">
-Smartphone</link>&nbsp;·  <link xlink:type="simple" xlink:href="../380/11884380.xml">
-PDA phone</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../170/69170.xml">
+Pocket PC</link> ·  <link xlink:type="simple" xlink:href="../079/167079.xml">
+Smartphone</link> ·  <link xlink:type="simple" xlink:href="../380/11884380.xml">
+PDA phone</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -642,8 +642,8 @@ PMP</link></causal_agent>
 </player>
 </person>
 </physical_entity>
-s&nbsp;·  <link xlink:type="simple" xlink:href="../424/1247424.xml">
-DAP</link>s&nbsp;· <link xlink:type="simple" xlink:href="../955/10757955.xml">
+s ·  <link xlink:type="simple" xlink:href="../424/1247424.xml">
+DAP</link>s · <link xlink:type="simple" xlink:href="../955/10757955.xml">
 Mobile Internet Devices</link></col>
 </row>
 <row style="height:2px">
@@ -684,22 +684,22 @@ Graphing</link></calculator>
 Other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;padding:0.25em 0; line-height:1.4em;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../424/194424.xml">
-Single-board computer</link>&nbsp;·  <link xlink:type="simple" xlink:href="../662/1076662.xml">
-Wireless sensor network</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Single-board computer</link> ·  <link xlink:type="simple" xlink:href="../662/1076662.xml">
+Wireless sensor network</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../017/21017.xml">
 Microcontroller</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+ ·  <substance wordnetid="100019613" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <material wordnetid="114580897" confidence="0.8">
 <link xlink:type="simple" xlink:href="../367/669367.xml">
 Smartdust</link></material>
 </part>
 </substance>
-&nbsp;·  <class wordnetid="107997703" confidence="0.8">
+ ·  <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../959/6241959.xml">

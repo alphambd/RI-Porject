@@ -117,7 +117,7 @@ Components of an enterprise content management system</entry>
 <p>
 
 For the software companies, it made sense to develop different products for each of these distinct <link xlink:type="simple" xlink:href="../608/71608.xml">
-EDMS</link> functions. At that time, most organizations that were candidates for EDMS generally wanted a solution to address just one overriding business need or application. They were looking for stand-alone solutions to address narrow application needs, many of them at the departmental level &ndash; such as imaging for forms processing, workflow for insurance claims processing, document management for engineering documentation, or <link xlink:type="simple" xlink:href="../478/2015478.xml">
+EDMS</link> functions. At that time, most organizations that were candidates for EDMS generally wanted a solution to address just one overriding business need or application. They were looking for stand-alone solutions to address narrow application needs, many of them at the departmental level – such as imaging for forms processing, workflow for insurance claims processing, document management for engineering documentation, or <link xlink:type="simple" xlink:href="../478/2015478.xml">
 COLD/ERM</link> for distributing and archiving monthly financial reports. </p>
 <p>
 
@@ -183,7 +183,7 @@ EDMS</link> technology components into a single, integrated solution, capable of
 EDMS</link> solutions merely reflected a common trend in the history of the software industry: the obsolescence of certain types of products and the convergence of technologies, as vendors melded them into new packages. </p>
 <p>
 
-Consider office suites, for instance. In the 1970s and early 1980s, word processing, spreadsheet, and presentation software products were standalone products. Within an organization, however, the same users were likely to need all three products. The software vendors responded, and started packaging them as integrated office suites &ndash; a strategy that also helped address consumer demand for tighter interoperability among desktop applications.</p>
+Consider office suites, for instance. In the 1970s and early 1980s, word processing, spreadsheet, and presentation software products were standalone products. Within an organization, however, the same users were likely to need all three products. The software vendors responded, and started packaging them as integrated office suites – a strategy that also helped address consumer demand for tighter interoperability among desktop applications.</p>
 <p>
 
 The situation was similar in the <link xlink:type="simple" xlink:href="../608/71608.xml">
@@ -197,10 +197,10 @@ EDMS</link> component technologies. </p>
 <p>
 
 The leaders tended to be those vendors that already offered multiple stand-alone <link xlink:type="simple" xlink:href="../608/71608.xml">
-EDMS</link> technologies. For these vendors, the early steps toward consolidation were small ones. The first phase was to offer multiple systems as a single, packaged "suite." Early suites were little more than multiple products being sold together at a reduced price, and there was a perception in the market that such suites were a strategy on the part of the vendors to capture additional seats within a customer account. Not surprisingly, market acceptance was limited &ndash; at least initially.</p>
+EDMS</link> technologies. For these vendors, the early steps toward consolidation were small ones. The first phase was to offer multiple systems as a single, packaged "suite." Early suites were little more than multiple products being sold together at a reduced price, and there was a perception in the market that such suites were a strategy on the part of the vendors to capture additional seats within a customer account. Not surprisingly, market acceptance was limited – at least initially.</p>
 <p>
 
-But in the late 1990s, these software vendors began a major surge of software development and acquisition activity, adding capabilities to their software products or buying the software companies whose products offered the functional capabilities they needed. Integrating the products into a single solution has proven to be an ongoing challenge for many of these vendors. Scalability &ndash; that is, the ability of a software product to continue to function well when it is deployed on a wide scale &ndash; also presented some significant problems, as organizations demanded solutions that could be deployed not just to multiple geographic locations, but on a global scale, to tens of thousands of users.</p>
+But in the late 1990s, these software vendors began a major surge of software development and acquisition activity, adding capabilities to their software products or buying the software companies whose products offered the functional capabilities they needed. Integrating the products into a single solution has proven to be an ongoing challenge for many of these vendors. Scalability – that is, the ability of a software product to continue to function well when it is deployed on a wide scale – also presented some significant problems, as organizations demanded solutions that could be deployed not just to multiple geographic locations, but on a global scale, to tens of thousands of users.</p>
 <p>
 
 In response to these market demands, the major software providers put considerable development effort into addressing these issues, and they continue to enhance the capabilities of their products and to expand the types of content those products can manage. Beginning in approximately 2001, the industry began to use the term "enterprise content management" to refer to those software solutions that provide the full complement of <link xlink:type="simple" xlink:href="../608/71608.xml">
@@ -213,7 +213,7 @@ Microsoft</link></company>
  and <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/22591.xml">
 Oracle Corporation</link></company>
-, two of the largest and most pervasive providers of software, at the value end of the market <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref>. These companies have each taken steps to develop solutions for content management &ndash; Microsoft with its various offerings in the SharePoint product family in recent years, and Oracle in 2006 with its Oracle Content Management product. These two software companies look to provide software solutions with the basic ECM functionality that will address the functional requirements commonly required by the majority of organizations. The result is likely to be a stratification of the current ECM market, based on the level of content services that different organizations require <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref>.</p>
+, two of the largest and most pervasive providers of software, at the value end of the market <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref>. These companies have each taken steps to develop solutions for content management – Microsoft with its various offerings in the SharePoint product family in recent years, and Oracle in 2006 with its Oracle Content Management product. These two software companies look to provide software solutions with the basic ECM functionality that will address the functional requirements commonly required by the majority of organizations. The result is likely to be a stratification of the current ECM market, based on the level of content services that different organizations require <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref>.</p>
 <p>
 
 Independently of Microsoft and Oracle, <link xlink:type="simple" xlink:href="../758/18938758.xml">
@@ -598,7 +598,7 @@ The goal of a closed ECM system is to provide these two components just once as 
 
 <ss2>
 <st>
-DM &ndash; Document Management</st>
+DM – Document Management</st>
 
 <p>
 
@@ -663,7 +663,7 @@ Knowledge Management</link>. Collaboration includes the following functions:</p>
 </ss2>
 <ss2>
 <st>
-WCM &ndash; Web Content Management</st>
+WCM – Web Content Management</st>
 
 <p>
 
@@ -696,7 +696,7 @@ It is however worth noting that many in the industry do not consider WCM as an i
 </ss2>
 <ss2>
 <st>
-RM &ndash; Records Management (file and archive management)</st>
+RM – Records Management (file and archive management)</st>
 
 <p>
 
@@ -727,7 +727,7 @@ Records Management</link> are:</p>
 </ss2>
 <ss2>
 <st>
-Wf &ndash; Workflow / BPM &ndash; Business Process Management</st>
+Wf – Workflow / BPM – Business Process Management</st>
 
 <p>
 
@@ -1305,7 +1305,7 @@ AIIM</link> international, Ulrich Kampffmeyer, states in his whitepaper on ECM i
 
 <p>
 
-"Document technologies like Enterprise Content Management make traditional data processing complete. They bring together structured, weakly structured, and unstructured information. Every company, every government agency, and every organization must confront the subject. Even if there are no immediate plans to implement such a system, it sneaks into the organization of its own accord &ndash; with the next server licence update, with the next office software suite, with the next database or ERP upgrade. In many companies with heterogeneous IT landscapes, the question of which redundant functionalities of existing products are unused is already more important than whether to invest in a new software system. The most important job is to keep in-house information under control. The questions add up: where to put the thousands and thousands of e-mails, what to do with the electronically signed business correspondence, where to put taxation-relevant data, how to transfer information from the disorganized file system, how to consolidate information in a repository that everybody can use, how to get a single login for all the systems, how to create a uniform in-basket for all incoming information, how to make sure that no information is lost or ignored, etc. etc. Document technologies play an important role in all these questions. ECM solutions are necessary basic components for many applications.</p>
+"Document technologies like Enterprise Content Management make traditional data processing complete. They bring together structured, weakly structured, and unstructured information. Every company, every government agency, and every organization must confront the subject. Even if there are no immediate plans to implement such a system, it sneaks into the organization of its own accord – with the next server licence update, with the next office software suite, with the next database or ERP upgrade. In many companies with heterogeneous IT landscapes, the question of which redundant functionalities of existing products are unused is already more important than whether to invest in a new software system. The most important job is to keep in-house information under control. The questions add up: where to put the thousands and thousands of e-mails, what to do with the electronically signed business correspondence, where to put taxation-relevant data, how to transfer information from the disorganized file system, how to consolidate information in a repository that everybody can use, how to get a single login for all the systems, how to create a uniform in-basket for all incoming information, how to make sure that no information is lost or ignored, etc. etc. Document technologies play an important role in all these questions. ECM solutions are necessary basic components for many applications.</p>
 <p>
 
 Every potential user will naturally consider his own individual needs before deciding on a system. However, putting off decisions does not make them less necessary. Every year something supposedly better and easier to use will come along, but waiting will just mean never installing anything. Every time the decision is put off, the mountain of uncontrolled and unused information gets bigger, and known problems get larger. A sensible long-term migration strategy removes the fear of fast technology change. The basic functions of document technology are mature, and most products are reliable, stable, secure, and increasingly affordable. In many industries, the use of document technology makes the difference in staying competitive. ECM — Enterprise Content Management — should be a part of every modern IT infrastructure."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2210%22])">10</ref></p>

@@ -53,7 +53,7 @@ Human Genome Project</link></activity>
 </event>
 </work>
 . Despite community-wide efforts in <link xlink:type="simple" xlink:href="../101/303101.xml">
-structural genomics</link>, the output of experimentally determined protein structures &mdash; typically by time-consuming and relatively expensive <technique wordnetid="105665146" confidence="0.8">
+structural genomics</link>, the output of experimentally determined protein structures — typically by time-consuming and relatively expensive <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../151/34151.xml">
@@ -61,7 +61,7 @@ X-ray crystallography</link></method>
 </know-how>
 </technique>
  or <link xlink:type="simple" xlink:href="../507/3654507.xml">
-NMR spectroscopy</link> &mdash; is lagging far behind the output of protein sequences.</p>
+NMR spectroscopy</link> — is lagging far behind the output of protein sequences.</p>
 <p>
 
 A number of factors exist that make protein structure prediction a very difficult task. The two main problems are that the number of possible protein structures is extremely large, and that the physical basis of protein structural stability is not fully understood. As a result, any protein structure prediction method needs a way to explore the space of possible structures efficiently (a search strategy), and a way to identify the most plausible structure (an <link xlink:type="simple" xlink:href="../649/9649.xml">
@@ -283,7 +283,7 @@ doi</link></writing>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.0407152101">
 10.1073/pnas.0407152101</weblink>. PMID 15653774. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15653774">
- 15653774</weblink>.</cite>&nbsp;</entry>
+ 15653774</weblink>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Bowie JU, Luthy R, Eisenberg D&#32;(1991).&#32;"A method to identify protein sequences that fold into a known three-dimensional structure". <it>Science</it>&#32;<b>253</b>&#32;(5016): 164–170. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -295,7 +295,7 @@ doi</link></writing>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1126%2Fscience.1853201">
 10.1126/science.1853201</weblink>. PMID 1853201. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1853201">
- 1853201</weblink>.</cite>&nbsp;</entry>
+ 1853201</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Voigt CA, Gordon DB, Mayo SL&#32;(2000).&#32;"Trading accuracy for speed: A quantitative comparison of search algorithms in protein sequence design". <it>J Mol Biol</it>&#32;<b>299</b>&#32;(3): 789–803. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -307,7 +307,7 @@ doi</link></writing>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fjmbi.2000.3758">
 10.1006/jmbi.2000.3758</weblink>. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10835284">
- 10835284</weblink>.</cite>&nbsp;</entry>
+ 10835284</weblink>.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Debe DA, Danzer JF, Goddard WA, Poleksic A&#32;(2006).&#32;"STRUCTFAST: Protein sequence remote homology detection and alignment using novel dynamic programming and profile-profile scoring". <it>Proteins</it>&#32;<b>64</b>: 960–967. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -319,7 +319,7 @@ doi</link></writing>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2Fprot.21049">
 10.1002/prot.21049</weblink>. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16786595">
- 16786595</weblink>.</cite>&nbsp;</entry>
+ 16786595</weblink>.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Nayeem A, Sitkoff D, Krystek S Jr&#32;(2006).&#32;"A comparative study of available software for high-accuracy homology modeling: From sequence alignments to structural models". <it>Protein Sci</it>&#32;<b>15</b>: 808–824. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -331,7 +331,7 @@ doi</link></writing>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1110%2Fps.051892906">
 10.1110/ps.051892906</weblink>. PMID 16600967. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16600967">
- 16600967</weblink>.</cite>&nbsp;</entry>
+ 16600967</weblink>.</cite> </entry>
 </reflist>
 </p>
 

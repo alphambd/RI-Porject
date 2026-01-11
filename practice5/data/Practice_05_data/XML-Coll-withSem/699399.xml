@@ -86,7 +86,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/hum.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/hum.html">
 HUM</weblink>)</company_type>
 <foundation>
 <village wordnetid="108672738" confidence="0.9508927676800064">
@@ -142,7 +142,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/hum.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/hum.html">
 HUM</weblink>), founded in 1961 in <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../592/58592.xml">
 Louisville, Kentucky</link></village>
@@ -1020,7 +1020,7 @@ Linda Peeno's Interview on <it>Democracy Now!''</it></weblink></entry>
 "<weblink xlink:type="simple" xlink:href="http://www.bizjournals.com/louisville/stories/2007/06/25/daily35.html">
 Humana issues statement on Moore's 'Sicko'</weblink>", <link>
 Business First</link>&#32;(2007-06-28).&#32;Retrieved on <link>
-2007-07-07</link>.&nbsp;</entry>
+2007-07-07</link>. </entry>
 <entry id="7">
 <weblink xlink:type="simple" xlink:href="http://money.cnn.com/magazines/fortune/fortune500/2008/snapshots/2212.html">
 Fortune 500 2008: Humana - HUM</weblink></entry>

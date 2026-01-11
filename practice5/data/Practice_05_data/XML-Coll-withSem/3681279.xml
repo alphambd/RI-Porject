@@ -234,12 +234,12 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2Fenv.3170050203">
-10.1002/env.3170050203</weblink>.</cite>&nbsp;</entry>
+10.1002/env.3170050203</weblink>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal"><link>
 Pia Anttila</link>, <link>
 Pentti Paatero</link>, Unto Tapper, Olli Järvinen&#32;(1995).&#32;"Source identification of bulk wet deposition in Finland by positive matrix factorization". <it><link>
-Atmospheric Environment</link></it>&#32;<b>29</b>&#32;(14): 1705&ndash;1718. <document wordnetid="106470073" confidence="0.8">
+Atmospheric Environment</link></it>&#32;<b>29</b>&#32;(14): 1705–1718. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -247,29 +247,29 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2F1352-2310%2894%2900367-T">
-10.1016/1352-2310(94)00367-T</weblink>.</cite>&nbsp;</entry>
+10.1016/1352-2310(94)00367-T</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Daniel D. Lee and H. Sebastian Seung&#32;(1999).&#32;"Learning the parts of objects by non-negative matrix factorization". <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../427/43427.xml">
  Nature</link></periodical>
-</it>&#32;<b>401</b>&#32;(6755): 788&ndash;791.</cite>&nbsp;</entry>
+</it>&#32;<b>401</b>&#32;(6755): 788–791.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Daniel D. Lee and H. Sebastian Seung&#32;(<link xlink:type="simple" xlink:href="../551/34551.xml">
 2001</link>). "<weblink xlink:type="simple" xlink:href="http://www.nips.cc/Web/Groups/NIPS/NIPS2000/00papers-pub-on-web/LeeSeung.ps.gz">
-Algorithms for Non-negative Matrix Factorization</weblink>".&#32;: 556&ndash;562, <company wordnetid="108058098" confidence="0.9508927676800064">
+Algorithms for Non-negative Matrix Factorization</weblink>".&#32;: 556–562, <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../601/719601.xml">
 MIT Press</link></company>
-.</cite>&nbsp;</entry>
+.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal"><link>
 Inderjit S. Dhillon</link>, <link>
 Suvrit Sra</link>&#32;(<link xlink:type="simple" xlink:href="../984/35984.xml">
 2005</link>). "<weblink xlink:type="simple" xlink:href="http://books.nips.cc/papers/files/nips18/NIPS2005_0203.pdf">
 Generalized Nonnegative Matrix Approximations with Bregman Divergences</weblink>".&#32;<it><link xlink:type="simple" xlink:href="../156/1175156.xml">
-NIPS</link></it>.</cite>&nbsp;</entry>
+NIPS</link></it>.</cite> </entry>
 <entry id="6">
  <cite style="font-style:normal">Taiping Zhanga, Bin Fang, Weining Liu, Yuan Yan Tang, Guanghui He and Jing Wen&#32;(June 2008).&#32;"Total variation norm-based nonnegative matrix factorization for identifying discriminant representation of image patterns". <it><link>
-Neurocomputing</link></it>&#32;<b>71</b>&#32;(10&ndash;12): 1824&ndash;1831. <document wordnetid="106470073" confidence="0.8">
+Neurocomputing</link></it>&#32;<b>71</b>&#32;(10–12): 1824–1831. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -277,15 +277,15 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.neucom.2008.01.022">
-10.1016/j.neucom.2008.01.022</weblink>.</cite>&nbsp;</entry>
+10.1016/j.neucom.2008.01.022</weblink>.</cite> </entry>
 <entry id="7">
  <cite style="font-style:normal">Chih-Jen Lin&#32;(October <link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://www.csie.ntu.edu.tw/~cjlin/papers/pgradnmf.pdf">
 Projected Gradient Methods for Non-negative Matrix Factorization</weblink>". <it><link xlink:type="simple" xlink:href="../480/17422480.xml">
-Neural Computation</link></it>&#32;<b>19</b>&#32;(10).</cite>&nbsp;</entry>
+Neural Computation</link></it>&#32;<b>19</b>&#32;(10).</cite> </entry>
 <entry id="8">
  <cite style="font-style:normal">Chih-Jen Lin&#32;(November 2007).&#32;"On the Convergence of Multiplicative Update Algorithms for Nonnegative Matrix Factorization". <it><link>
-IEEE Transactions on Neural Networks</link></it>&#32;<b>18</b>&#32;(6): 1589&ndash;1596. <document wordnetid="106470073" confidence="0.8">
+IEEE Transactions on Neural Networks</link></it>&#32;<b>18</b>&#32;(6): 1589–1596. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -293,25 +293,25 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FTNN.2007.895831">
-10.1109/TNN.2007.895831</weblink>.</cite>&nbsp;</entry>
+10.1109/TNN.2007.895831</weblink>.</cite> </entry>
 <entry id="9">
  <cite style="font-style:normal">Wray Buntine&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://cosco.hiit.fi/Articles/ecml02.pdf">
-Extensions to EM and Multinomial PCA</weblink>".&#32;<it>Proc. European Conference on Machine Learning (ECML-02)</it>&#32;<b>2430</b>: 23-34.</cite>&nbsp;</entry>
+Extensions to EM and Multinomial PCA</weblink>".&#32;<it>Proc. European Conference on Machine Learning (ECML-02)</it>&#32;<b>2430</b>: 23-34.</cite> </entry>
 <entry id="10">
  <cite style="font-style:normal">Eric Gaussier and Cyril Goutte&#32;(<link xlink:type="simple" xlink:href="../984/35984.xml">
 2005</link>). "<weblink xlink:type="simple" xlink:href="http://eprints.pascal-network.org/archive/00000971/01/39-gaussier.pdf">
-Relation between PLSA and NMF and Implications</weblink>".&#32;<it>Proc. 28th international ACM SIGIR conference on Research and development in information retrieval (SIGIR-05)</it>: 601-602.</cite>&nbsp;</entry>
+Relation between PLSA and NMF and Implications</weblink>".&#32;<it>Proc. 28th international ACM SIGIR conference on Research and development in information retrieval (SIGIR-05)</it>: 601-602.</cite> </entry>
 <entry id="11">
 Chris Ding, Xiaofeng He, and Horst D. Simon (2005). "<weblink xlink:type="simple" xlink:href="http://ranger.uta.edu/~chqding/papers/nmfSIAM1.pdf">
 On the Equivalence of Nonnegative Matrix Factorization and Spectral Clustering</weblink>". Proc. SIAM Int'l Conf. Data Mining, pp. 606-610.</entry>
 <entry id="12">
  <cite style="font-style:normal"><link>
 Pentti Paatero</link>&#32;(1999).&#32;"The Multilinear Engine: A Table-Driven, Least Squares Program for Solving Multilinear Problems, including the n-Way Parallel Factor Analysis Model". <it><link>
-Journal of Computational and Graphical Statistics</link></it>&#32;<b>8</b>&#32;(4): 854&ndash;888.</cite>&nbsp;</entry>
+Journal of Computational and Graphical Statistics</link></it>&#32;<b>8</b>&#32;(4): 854–888.</cite> </entry>
 <entry id="13">
  <cite style="font-style:normal">Max Welling and Markus Weber&#32;(<link xlink:type="simple" xlink:href="../551/34551.xml">
 2001</link>).&#32;"Positive Tensor Factorization". <it><link>
-Pattern Recognition Letters</link></it>&#32;<b>22</b>&#32;(12): 1255&ndash;1261. <document wordnetid="106470073" confidence="0.8">
+Pattern Recognition Letters</link></it>&#32;<b>22</b>&#32;(12): 1255–1261. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -319,19 +319,19 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0167-8655%2801%2900070-8">
-10.1016/S0167-8655(01)00070-8</weblink>.</cite>&nbsp;</entry>
+10.1016/S0167-8655(01)00070-8</weblink>.</cite> </entry>
 <entry id="14">
  <cite style="font-style:normal">Wei Xu,  Xin Liu &amp; Yihong Gong&#32;(2003). "<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=860485">
-Document clustering based on non-negative matrix factorization</weblink>".&#32;<it>Proceedings of the 26th annual international ACM SIGIR conference on Research and development in informaion retrieval</it>: 267&ndash;273, New York:&#32;<organization wordnetid="108008335" confidence="0.9508927676800064">
+Document clustering based on non-negative matrix factorization</weblink>".&#32;<it>Proceedings of the 26th annual international ACM SIGIR conference on Research and development in informaion retrieval</it>: 267–273, New York:&#32;<organization wordnetid="108008335" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/30th_century.xml">
 Association for Computing Machinery</link></organization>
-.</cite>&nbsp;</entry>
+.</cite> </entry>
 <entry id="15">
 Julian Eggert, Edgar Körner, "<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109/IJCNN.2004.1381036">
 Sparse coding and NMF</weblink>", <it>Proceedings. 2004 IEEE International Joint Conference on Neural Networks, 2004., pp. 2529-2533, 2004.</it></entry>
 <entry id="17">
  <cite style="font-style:normal">Michael W. Berry &amp; Murray Browne&#32;(October 2005).&#32;"Email Surveillance Using Non-negative Matrix Factorization". <it><link>
-Computational &amp; Mathematical Organization Theory</link></it>&#32;<b>11</b>&#32;(3): 249&ndash;264. <document wordnetid="106470073" confidence="0.8">
+Computational &amp; Mathematical Organization Theory</link></it>&#32;<b>11</b>&#32;(3): 249–264. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -339,7 +339,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2Fs10588-005-5380-5">
-10.1007/s10588-005-5380-5</weblink>.</cite>&nbsp;</entry>
+10.1007/s10588-005-5380-5</weblink>.</cite> </entry>
 <entry id="16">
 <link xlink:type="simple" xlink:href="../758/11793758.xml">
 William W. Cohen</link>&#32;(2005-04-04).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.cmu.edu/~enron/">
@@ -347,7 +347,7 @@ Enron Email Dataset</weblink>".&#32;Retrieved on <link>
 2008-08-26</link>.</entry>
 <entry id="18">
  <cite style="font-style:normal">Michael W. Berry, et al.&#32;(June <link xlink:type="simple" xlink:href="../164/36164.xml">
-2006</link>).&#32;"Algorithms and Applications for Approximate Nonnegative Matrix Factorization".</cite>&nbsp;</entry>
+2006</link>).&#32;"Algorithms and Applications for Approximate Nonnegative Matrix Factorization".</cite> </entry>
 </reflist>
 </p>
 
@@ -363,12 +363,12 @@ Enron Email Dataset</weblink>".&#32;Retrieved on <link>
 
   <cite style="font-style:normal">J. Shen, G. W. Israël&#32;(<link xlink:type="simple" xlink:href="../847/34847.xml">
 1989</link>).&#32;"A receptor model using a specific non-negative transformation technique for ambient aerosol". <it><link>
-Atmospheric Environment</link></it>&#32;<b>23</b>&#32;(10): 2289&ndash;2298.</cite>&nbsp;</entry>
+Atmospheric Environment</link></it>&#32;<b>23</b>&#32;(10): 2289–2298.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal"><link>
 Pentti Paatero</link>&#32;(May 1997).&#32;"Least squares formulation of robust non-negative factor analysis". <it><link>
-Chemometrics and Intelligent Laboratory Systems</link></it>&#32;<b>37</b>&#32;(1): 23&ndash;35. <document wordnetid="106470073" confidence="0.8">
+Chemometrics and Intelligent Laboratory Systems</link></it>&#32;<b>37</b>&#32;(1): 23–35. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -376,12 +376,12 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0169-7439%2896%2900044-5">
-10.1016/S0169-7439(96)00044-5</weblink>.</cite>&nbsp;</entry>
+10.1016/S0169-7439(96)00044-5</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Raul Kompass&#32;(March 2007).&#32;"<weblink xlink:type="simple" xlink:href="http://neco.mitpress.org/cgi/content/abstract/19/3/780">
 A Generalized Divergence Measure for Nonnegative Matrix Factorization</weblink>". <it><link xlink:type="simple" xlink:href="../480/17422480.xml">
-Neural Computation</link></it>&#32;<b>19</b>&#32;(3): 780&ndash;791. <document wordnetid="106470073" confidence="0.8">
+Neural Computation</link></it>&#32;<b>19</b>&#32;(3): 780–791. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -389,7 +389,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1162%2Fneco.2007.19.3.780">
-10.1162/neco.2007.19.3.780</weblink>. PMID 17298233.</cite>&nbsp;</entry>
+10.1162/neco.2007.19.3.780</weblink>. PMID 17298233.</cite> </entry>
 <entry level="1" type="bullet">
 
  Amy N. Langville, Michael W. Berry, Murray Browne, V. Paul Pauca, and Robert J. Plemmons. <weblink xlink:type="simple" xlink:href="http://www.cofc.edu/~langvillea/CSDA.pdf">
@@ -399,7 +399,7 @@ A Survey of Algorithms and Applications for the Nonnegative Matrix Factorization
   <cite style="font-style:normal">Liu, W.X. and Zheng, N.N. and You, Q.B.&#32;(<link xlink:type="simple" xlink:href="../164/36164.xml">
 2006</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://www.springerlink.com/index/7285V70531634264.pdf">
 Nonnegative Matrix Factorization and its applications in pattern recognition</weblink>". <it><link>
-Chinese Science Bulletin</link></it>&#32;<b>51</b>: 7&ndash;18. <document wordnetid="106470073" confidence="0.8">
+Chinese Science Bulletin</link></it>&#32;<b>51</b>: 7–18. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -407,16 +407,16 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2Fs11434-005-1109-6">
-10.1007/s11434-005-1109-6</weblink>.</cite>&nbsp;</entry>
+10.1007/s11434-005-1109-6</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Ngoc-Diep Ho, Paul Van Dooren and Vincent Blondel&#32;(<link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://arxiv.org/abs/0801.3199">
-Descent Methods for Nonnegative Matrix Factorization</weblink>"&#32;(subscription required).</cite>&nbsp;</entry>
+Descent Methods for Nonnegative Matrix Factorization</weblink>"&#32;(subscription required).</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Andrzej Cichocki, Rafal Zdunek and Shun-ichi Amari&#32;(January 2008).&#32;"Nonnegative Matrix and Tensor Factorization". <it><link>
-IEEE Signal Processing Magazine</link></it>&#32;<b>25</b>&#32;(1): 142&ndash;145. <document wordnetid="106470073" confidence="0.8">
+IEEE Signal Processing Magazine</link></it>&#32;<b>25</b>&#32;(1): 142–145. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -424,16 +424,16 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FMSP.2008.4408452">
-10.1109/MSP.2008.4408452</weblink>.</cite>&nbsp;</entry>
+10.1109/MSP.2008.4408452</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">H. Kim and H. Park&#32;(2008).&#32;"Nonnegative matrix factorization based on alternating nonnegativity constrained least squares and active set method". <it><link>
-SIAM Journal on Matrix Analysis and Applications</link></it>&#32;<b>30</b>&#32;(2): 713&ndash;730.</cite>&nbsp;</entry>
+SIAM Journal on Matrix Analysis and Applications</link></it>&#32;<b>30</b>&#32;(2): 713–730.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">H. Kim and H. Park&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/23/12/1495">
 Sparse non-negative matrix factorizations via alternating non-negativity-constrained least squares for microarray data analysis</weblink>". <it><link>
-Bioinformatics</link></it>&#32;<b>23</b>&#32;(12): 1495&ndash;1502. <document wordnetid="106470073" confidence="0.8">
+Bioinformatics</link></it>&#32;<b>23</b>&#32;(12): 1495–1502. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -441,7 +441,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2Fbtm134">
-10.1093/bioinformatics/btm134</weblink>.</cite>&nbsp;</entry>
+10.1093/bioinformatics/btm134</weblink>.</cite> </entry>
 </list>
 </p>
 

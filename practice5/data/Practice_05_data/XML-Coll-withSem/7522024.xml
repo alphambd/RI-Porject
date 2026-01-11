@@ -33,7 +33,7 @@
 
 <it>See also: <link xlink:type="simple" xlink:href="../294/29294.xml">
 System/360</link>, <link xlink:type="simple" xlink:href="../460/8177460.xml">
-History of CP/CMS</link>,&nbsp;and <link xlink:type="simple" xlink:href="../182/7283182.xml">
+History of CP/CMS</link>, and <link xlink:type="simple" xlink:href="../182/7283182.xml">
 History of IBM</link></it>
 </indent>
 
@@ -143,7 +143,7 @@ At the time of the S/360-67, software was "bundled" into computer hardware purch
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
  was unusual in that it was delivered as unsupported <link xlink:type="simple" xlink:href="../204/7218204.xml">
-Type-III software</link> in source code form &ndash; meaning that most S/360-67 users ran an <it>unsupported</it> operating system. The need for self-support and community support helped lead to the creation of a strong S/360-67 user community, a precursor to the <link xlink:type="simple" xlink:href="../758/18938758.xml">
+Type-III software</link> in source code form – meaning that most S/360-67 users ran an <it>unsupported</it> operating system. The need for self-support and community support helped lead to the creation of a strong S/360-67 user community, a precursor to the <link xlink:type="simple" xlink:href="../758/18938758.xml">
 open source</link> movement.</p>
 
 </sec>
@@ -175,7 +175,7 @@ Gerry Blaauw</link></scholar>
 </physical_entity>
 . This device was originally designed during the main S/360 project, but had been excluded from the S/360 design; it was revived for IBM's failed proposal to <link xlink:type="simple" xlink:href="../147/254147.xml">
 Project MAC</link>, for a customized S/360, and finally came to fruition in the S/360-67. The "Blaauw Box" used a somewhat different approach from that implemented later in the <link xlink:type="simple" xlink:href="../785/59785.xml">
-S/370</link> series in the "DAT box". The S/360-67 provided a 24- or 32-bit address space &ndash; unlike the strictly 24-bit address space of other S/360 and early S/370 systems, and the 31-bit address space of S/370-XA available on later S/370s. The S/360-67 virtual address space was divided into <it>pages</it> (of 4KB)<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> grouped into <it>segments</it> (of 1MB); pages were dynamically mapped onto the processor's real memory. Referencing a page that was not in memory caused a <link xlink:type="simple" xlink:href="../143/1157143.xml">
+S/370</link> series in the "DAT box". The S/360-67 provided a 24- or 32-bit address space – unlike the strictly 24-bit address space of other S/360 and early S/370 systems, and the 31-bit address space of S/370-XA available on later S/370s. The S/360-67 virtual address space was divided into <it>pages</it> (of 4KB)<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> grouped into <it>segments</it> (of 1MB); pages were dynamically mapped onto the processor's real memory. Referencing a page that was not in memory caused a <link xlink:type="simple" xlink:href="../143/1157143.xml">
 page fault</link>, which in turn could be intercepted and processed by an operating system <link xlink:type="simple" xlink:href="../824/638824.xml">
 interrupt handler</link>.</p>
 <p>
@@ -213,7 +213,7 @@ Virtualization</st>
 <indent level="1">
 
 <it>See also: <link xlink:type="simple" xlink:href="../356/18311356.xml">
-virtualization</link>&nbsp;and <link xlink:type="simple" xlink:href="../596/8273596.xml">
+virtualization</link> and <link xlink:type="simple" xlink:href="../596/8273596.xml">
 full virtualization</link></it>
 </indent>
 The S/360-67 included various hardware and microcode features that enabled <link xlink:type="simple" xlink:href="../596/8273596.xml">
@@ -221,20 +221,20 @@ full virtualization</link> of the raw S/360 hardware. The full-virtualization co
 <p>
 
 Full virtualization requires that every salient feature of the hardware be reflected into one of several <link xlink:type="simple" xlink:href="../353/32353.xml">
-virtual machine</link>s &ndash; including the full instruction set, input/output operations, interrupts, memory access, and whatever other elements are used by the software that runs on the bare machine, and that is intended to run in a virtual machine. The obvious test of virtualization is whether an operating system intended for stand-alone use can successfully run inside a virtual machine. </p>
+virtual machine</link>s – including the full instruction set, input/output operations, interrupts, memory access, and whatever other elements are used by the software that runs on the bare machine, and that is intended to run in a virtual machine. The obvious test of virtualization is whether an operating system intended for stand-alone use can successfully run inside a virtual machine. </p>
 <p>
 
 (Note that, in CP-67, certain model-dependent and diagnostic instructions were not virtualized, notably the DIAG instruction. Ultimately, in later development at IBM and elsewhere, DIAG instructions were used to create a non-virtualized interface, to what became called a <link xlink:type="simple" xlink:href="../216/1267216.xml">
 hypervisor</link>. Client operating systems could use this mechanism to communicate directly with the control program; this offered dramatic performance improvements.)</p>
 <p>
 
-It is important to note that full hardware virtualization was <it>not</it> an original design goal for the S/360-67 (contemporary documents and observers make this clear, despite revisionist claims to the contrary). Active input from IBM customers and IBM researchers &ndash; notably from personnel at IBM's <artifact wordnetid="100021939" confidence="0.8">
+It is important to note that full hardware virtualization was <it>not</it> an original design goal for the S/360-67 (contemporary documents and observers make this clear, despite revisionist claims to the contrary). Active input from IBM customers and IBM researchers – notably from personnel at IBM's <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <link xlink:type="simple" xlink:href="../862/7145862.xml">
 Cambridge Scientific Center</link></facility>
 </artifact>
  (CSC), and especially the <link xlink:type="simple" xlink:href="../207/7506207.xml">
-CP-40</link> team &ndash; helped change project priorities. Without this "underground" effort, <O wordnetid="106832680" confidence="0.9508927676800064">
+CP-40</link> team – helped change project priorities. Without this "underground" effort, <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
  could not have been successful.</p>
@@ -268,7 +268,7 @@ The unique features of the S/360-67 were initially <it>not</it> carried into IBM
 System/370</link>, although at least one model, the 370/145, had the Refer and Change storage bits implemented from the start. This was largely fallout from a bitter and highly-visible political battle over the merits of time-sharing versus batch processing. Time-sharing lost.</p>
 <p>
 
-However, IBM faced increasing customer demand for time-sharing and virtual memory capabilities. IBM also could not ignore the large number of S/360-67 time-sharing installations &ndash; including the new industry of <link xlink:type="simple" xlink:href="../958/30958.xml">
+However, IBM faced increasing customer demand for time-sharing and virtual memory capabilities. IBM also could not ignore the large number of S/360-67 time-sharing installations – including the new industry of <link xlink:type="simple" xlink:href="../958/30958.xml">
 time-sharing</link> vendors, such as <company wordnetid="108058098" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
 <business wordnetid="108061042" confidence="0.8">
@@ -306,7 +306,7 @@ www.research.ibm.com</weblink></entry>
 <list>
 <entry level="1" type="bullet">
 
- E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0 [Extensive (819&nbsp;''pp.'') treatment of IBM's offerings during this period.]</entry>
+ E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0 [Extensive (819 ''pp.'') treatment of IBM's offerings during this period.]</entry>
 </list>
 </p>
 <p>
@@ -329,11 +329,11 @@ History of CP/CMS</link>.</p>
 
 <reflist>
 <entry id="1">
-Pugh, <it>op. cit., p.</it> 364 &ndash; MTS on dual processor S/360-67 in 1968</entry>
+Pugh, <it>op. cit., p.</it> 364 – MTS on dual processor S/360-67 in 1968</entry>
 <entry id="2">
-Varian, <it>op. cit., p.</it> 17 (Note 54) &ndash; S/360-67 announcement</entry>
+Varian, <it>op. cit., p.</it> 17 (Note 54) – S/360-67 announcement</entry>
 <entry id="3">
-Varian, <it>op. cit., p.</it> 28 &ndash; S/360-67 page size of 4K</entry>
+Varian, <it>op. cit., p.</it> 28 – S/360-67 page size of 4K</entry>
 </reflist>
 </p>
 <p>
@@ -342,13 +342,13 @@ Varian, <it>op. cit., p.</it> 28 &ndash; S/360-67 page size of 4K</entry>
 <list>
 <entry level="1" type="bullet">
 
- http://www.cs.newcastle.ac.uk/events/anniversaries/40th/images/ibm360_672/index.html &ndash; Pictures of an IBM S/360-67 at Newcastle (UK) University</entry>
+ http://www.cs.newcastle.ac.uk/events/anniversaries/40th/images/ibm360_672/index.html – Pictures of an IBM S/360-67 at Newcastle (UK) University</entry>
 <entry level="1" type="bullet">
 
- http://www.multicians.org/thvv/360-67.html &ndash; Tom Van Vleck's notes about the S/360-67</entry>
+ http://www.multicians.org/thvv/360-67.html – Tom Van Vleck's notes about the S/360-67</entry>
 <entry level="1" type="bullet">
 
- http://cap-lore.com/Software/CP.html &ndash; Norm Hardy's notes about virtual machines and the S/360-67</entry>
+ http://cap-lore.com/Software/CP.html – Norm Hardy's notes about virtual machines and the S/360-67</entry>
 </list>
 </p>
 

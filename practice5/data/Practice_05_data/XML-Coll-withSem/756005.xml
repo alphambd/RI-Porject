@@ -122,7 +122,7 @@ Download.ject appended a fragment of JavaScript to all web pages from the compro
 <link xlink:type="simple" xlink:href="../215/15215.xml">
 Internet Explorer</link></software>
  (IE) for <link xlink:type="simple" xlink:href="../890/18890.xml">
-Windows</link>, the JavaScript would run, retrieve a copy of one of various backdoor and key logging programs from a server located in Russia and install it on the user's machine, using two holes in IE &mdash; one with a patch available, but the other without. These vulnerabilities were present in all versions of IE for Windows except the version included in <version wordnetid="107173585" confidence="0.9508927676800064">
+Windows</link>, the JavaScript would run, retrieve a copy of one of various backdoor and key logging programs from a server located in Russia and install it on the user's machine, using two holes in IE — one with a patch available, but the other without. These vulnerabilities were present in all versions of IE for Windows except the version included in <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../879/33879.xml">
 Windows XP</link></version>
  Service Pack 2 <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref>, which was only in beta testing at the time.</p>
@@ -141,7 +141,7 @@ June 25</link> when the server from which Download.ject installed a backdoor was
 July 2</link>.</p>
 <p>
 
-Although not a sizable attack compared to email worms of the time, the fact that almost all existing installations of IE &mdash; 95% of web browsers in use at the time &mdash; were vulnerable, and that this was the latest in a series of IE holes leaving the underlying operating system vulnerable, caused a notable wave of concern in the press. Even some business press started advising users to switch to other browsers, despite that the then-prerelease Windows XP SP2 being invulnerable to the attack.</p>
+Although not a sizable attack compared to email worms of the time, the fact that almost all existing installations of IE — 95% of web browsers in use at the time — were vulnerable, and that this was the latest in a series of IE holes leaving the underlying operating system vulnerable, caused a notable wave of concern in the press. Even some business press started advising users to switch to other browsers, despite that the then-prerelease Windows XP SP2 being invulnerable to the attack.</p>
 
 </sec>
 <sec>
@@ -200,7 +200,7 @@ Compromised Web Sites Infect Web Surfers</weblink> (SANS Internet Storm Center, 
 <weblink xlink:type="simple" xlink:href="http://www.lurhq.com/berbew.html">
 Berbew/Webber/Padodor Trojan Analysis</weblink> (LURHQ Threat Intelligence Group, <link xlink:type="simple" xlink:href="../799/15799.xml">
 25 June</link> <link xlink:type="simple" xlink:href="../524/35524.xml">
-2004</link>) &mdash; analysis of the backdoor program installed on users' PCs</entry>
+2004</link>) — analysis of the backdoor program installed on users' PCs</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.microsoft.com/security/incident/download_ject.mspx">
@@ -218,23 +218,23 @@ Microsoft Statement Regarding Download.Ject Malicious Code Security Issue</webli
 <weblink xlink:type="simple" xlink:href="http://www.microsoft.com/technet/security/bulletin/MS04-011.mspx">
 Microsoft Security Bulletin MS04-011: Security Update for Microsoft Windows (835732)</weblink> (Microsoft, <link xlink:type="simple" xlink:href="../541/1541.xml">
 13 April</link> <link xlink:type="simple" xlink:href="../524/35524.xml">
-2004</link>) &mdash; patch for server flaw</entry>
+2004</link>) — patch for server flaw</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CAN-2004-0380">
 MHTML URL Processing Vulnerability</weblink> (Common Vulnerabilities and Exposures, <link xlink:type="simple" xlink:href="../ury/22nd_century.xml">
 5 April</link> <link xlink:type="simple" xlink:href="../524/35524.xml">
-2004</link>) &mdash; the IE flaw for which a patch was available at the time</entry>
+2004</link>) — the IE flaw for which a patch was available at the time</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://xforce.iss.net/xforce/alerts/id/177">
 Internet Explorer Cross-Zone Vulnerability Exploitation</weblink> (Internet Security Systems, <link xlink:type="simple" xlink:href="../799/15799.xml">
 25 June</link> <link xlink:type="simple" xlink:href="../524/35524.xml">
-2004</link>) &mdash; the IE flaw for which no patch was available at the time</entry>
+2004</link>) — the IE flaw for which no patch was available at the time</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://support.microsoft.com/default.aspx?kbid=870669">
-How to disable the ADODB.Stream object from Internet Explorer</weblink> (Microsoft Knowledge Base article 870669) &mdash; the patch for the second IE flaw</entry>
+How to disable the ADODB.Stream object from Internet Explorer</weblink> (Microsoft Knowledge Base article 870669) — the patch for the second IE flaw</entry>
 </list>
 </p>
 
@@ -359,13 +359,13 @@ Versions</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../402/1956402.xml">
 Version 2</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../399/1956399.xml">
 Version 3</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../397/1956397.xml">
 Version 4</link></software>
-&nbsp;·  <music wordnetid="107020895" confidence="0.8">
+ ·  <music wordnetid="107020895" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
@@ -398,7 +398,7 @@ Version 5</link></musical_composition>
 </concept>
 </application>
 </music>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
@@ -423,19 +423,19 @@ Version 6</link></coding_system>
 </concept>
 </idea>
 </software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../419/1622419.xml">
 Version 7</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../479/11031479.xml">
 Version 8</link></software>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../668/2160668.xml">
 Mobile</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../328/1144328.xml">
 for Mac</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../909/3477909.xml">
 for UNIX</link></software>
 </col>
@@ -448,9 +448,9 @@ for UNIX</link></software>
 Overview</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../016/1873016.xml">
-History</link>&nbsp;·  <link xlink:type="simple" xlink:href="../191/1544191.xml">
-Removal</link>&nbsp;·  <link xlink:type="simple" xlink:href="../597/5876597.xml#xpointer(//*[./st=%22Internet+Explorer%22])">
-Easter eggs</link>&nbsp;·  <invertebrate wordnetid="101905661" confidence="0.8">
+History</link> ·  <link xlink:type="simple" xlink:href="../191/1544191.xml">
+Removal</link> ·  <link xlink:type="simple" xlink:href="../597/5876597.xml#xpointer(//*[./st=%22Internet+Explorer%22])">
+Easter eggs</link> ·  <invertebrate wordnetid="101905661" confidence="0.8">
 <arthropod wordnetid="101767661" confidence="0.8">
 <amorphous_shape wordnetid="113867492" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -473,9 +473,9 @@ Box model bug</link></animal>
 </amorphous_shape>
 </arthropod>
 </invertebrate>
-&nbsp;·  <link xlink:type="simple" xlink:href="../758/11167758.xml">
-Add-ins</link>&nbsp;·  <link xlink:type="simple" xlink:href="../346/10590346.xml">
-Extensions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../534/1950534.xml">
+ ·  <link xlink:type="simple" xlink:href="../758/11167758.xml">
+Add-ins</link> ·  <link xlink:type="simple" xlink:href="../346/10590346.xml">
+Extensions</link> ·  <link xlink:type="simple" xlink:href="../534/1950534.xml">
 Shell</link>s</col>
 </row>
 <row style="height:2px">
@@ -499,7 +499,7 @@ Trident (MSHTML)</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106359877" confidence="0.8">
@@ -514,7 +514,7 @@ MSXML</link></parser>
 </written_communication>
 </program>
 </software>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -523,10 +523,10 @@ RSS Platform</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;· <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ · <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../872/263872.xml">
 JScript</link></programming_language>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -537,16 +537,16 @@ XMLHttpRequest</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../497/93497.xml">
-ActiveX</link>&nbsp;·  <link xlink:type="simple" xlink:href="../143/11389143.xml">
-Administration Kit</link>&nbsp;·  <component wordnetid="103081021" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../497/93497.xml">
+ActiveX</link> ·  <link xlink:type="simple" xlink:href="../143/11389143.xml">
+Administration Kit</link> ·  <component wordnetid="103081021" confidence="0.8">
 <part wordnetid="103892891" confidence="0.8">
 <addition wordnetid="102679415" confidence="0.8">
 <link xlink:type="simple" xlink:href="../992/11166992.xml">
 Developer Toolbar</link></addition>
 </part>
 </component>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -561,24 +561,24 @@ HTA</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../788/2942788.xml">
-HTML+TIME</link>&nbsp;·  <link xlink:type="simple" xlink:href="../992/11166992.xml">
-Internet Explorer Developer Toolbar</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../788/2942788.xml">
+HTML+TIME</link> ·  <link xlink:type="simple" xlink:href="../992/11166992.xml">
+Internet Explorer Developer Toolbar</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../688/922688.xml">
 Web Archive (MHTML)</link></format>
 </information>
 </message>
-&nbsp;· <link xlink:type="simple" xlink:href="../310/398310.xml">
-Favicon</link>&nbsp;·  <link xlink:type="simple" xlink:href="../170/14671170.xml">
-HTML Components</link>&nbsp;·  <link xlink:type="simple" xlink:href="../610/366610.xml">
-Vector Markup Language (VML)</link>&nbsp;· <know-how wordnetid="105616786" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../310/398310.xml">
+Favicon</link> ·  <link xlink:type="simple" xlink:href="../170/14671170.xml">
+HTML Components</link> ·  <link xlink:type="simple" xlink:href="../610/366610.xml">
+Vector Markup Language (VML)</link> · <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../688/596688.xml">
 Integrated Windows Authentication</link></method>
 </know-how>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -589,21 +589,21 @@ Temporary Internet Files</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../790/943790.xml">
 Index.dat</link></format>
 </information>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../726/910726.xml">
 Browser Helper Object (BHO)</link></format>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../702/971702.xml">
+ ·  <link xlink:type="simple" xlink:href="../702/971702.xml">
 Web Proxy Autodiscovery Protocol (WPAD)</link></col>
 </row>
 <row style="height:2px">
@@ -625,11 +625,11 @@ Outlook Express</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../494/3646494.xml">
-Internet Mail and News</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../494/3646494.xml">
+Internet Mail and News</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../123/360123.xml">
 Comic Chat/Chat 2.0</link></software>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <component wordnetid="103081021" confidence="0.8">
@@ -644,12 +644,12 @@ NetMeeting</link></addition>
 </component>
 </concept>
 </idea>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/4531497.xml">
 NetShow</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../688/4930688.xml">
-ActiveMovie</link>&nbsp;·  <link xlink:type="simple" xlink:href="../396/4452396.xml">
-DirectX Media</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../688/4930688.xml">
+ActiveMovie</link> ·  <link xlink:type="simple" xlink:href="../396/4452396.xml">
+DirectX Media</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <component wordnetid="103081021" confidence="0.8">
@@ -664,7 +664,7 @@ Windows Address Book</link></addition>
 </component>
 </concept>
 </idea>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -675,7 +675,7 @@ Windows Desktop Update</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -684,7 +684,7 @@ Active Desktop</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -697,14 +697,14 @@ Active Channel</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;· <standard wordnetid="107260623" confidence="0.8">
+ · <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../631/1500631.xml">
 Channel Definition Format</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../351/14910351.xml">
-Java Virtual Machine</link>&nbsp;·  <link xlink:type="simple" xlink:href="../740/10930740.xml">
-Server Gated Cryptography (SGC)</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../351/14910351.xml">
+Java Virtual Machine</link> ·  <link xlink:type="simple" xlink:href="../740/10930740.xml">
+Server Gated Cryptography (SGC)</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <drive wordnetid="104835724" confidence="0.8">
 <enterprise wordnetid="104836074" confidence="0.8">
@@ -717,15 +717,15 @@ Smart tags</link></trait>
 </drive>
 </know-how>
 </technique>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../614/1129614.xml">
 MSN Explorer</link></software>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../861/774861.xml">
 Spyglass</link></institution>
 </company>
-&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+ · <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -762,15 +762,15 @@ First browser war</link></competition>
 </event>
 </group_action>
 </military_action>
-&nbsp;· <link xlink:type="simple" xlink:href="../770/20770.xml">
-United States v. Microsoft</link>&nbsp;·  <link xlink:type="simple" xlink:href="../351/14910351.xml#xpointer(//*[./st=%22Sun+vs.+Microsoft+settlement%22])">
-Sun v. Microsoft</link>&nbsp;·   <link xlink:type="simple" xlink:href="../005/756005.xml">
-Download.ject</link>&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../770/20770.xml">
+United States v. Microsoft</link> ·  <link xlink:type="simple" xlink:href="../351/14910351.xml#xpointer(//*[./st=%22Sun+vs.+Microsoft+settlement%22])">
+Sun v. Microsoft</link> ·   <link xlink:type="simple" xlink:href="../005/756005.xml">
+Download.ject</link> ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../522/337522.xml#xpointer(//*[./st=%22The+patent%22])">
 Eolas v. Microsoft</link></institution>
 </company>
-&nbsp;·  <military_action wordnetid="100952963" confidence="0.8">
+ ·  <military_action wordnetid="100952963" confidence="0.8">
 <group_action wordnetid="101080366" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -795,9 +795,9 @@ Second browser war</link></competition>
 Related topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../045/978045.xml">
-Comparison of Web browsers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../262/1876262.xml">
-Usage share of web browsers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../106/1122106.xml">
-List of web browsers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../679/4786679.xml">
+Comparison of Web browsers</link> ·  <link xlink:type="simple" xlink:href="../262/1876262.xml">
+Usage share of web browsers</link> ·  <link xlink:type="simple" xlink:href="../106/1122106.xml">
+List of web browsers</link> ·  <link xlink:type="simple" xlink:href="../679/4786679.xml">
 Browser timeline</link></col>
 </row>
 </table>

@@ -712,9 +712,9 @@ Nanokernels</st>
 Nanokernel</link></it>
 </indent>
 
-A nanokernel delegates virtually all services &mdash; including even the most basic ones like <link xlink:type="simple" xlink:href="../419/1805419.xml">
+A nanokernel delegates virtually all services — including even the most basic ones like <link xlink:type="simple" xlink:href="../419/1805419.xml">
 interrupt controllers</link> or the <link xlink:type="simple" xlink:href="../016/530016.xml">
-timer</link> &mdash; to <link xlink:type="simple" xlink:href="../101/9101.xml">
+timer</link> — to <link xlink:type="simple" xlink:href="../101/9101.xml">
 device driver</link>s to make the kernel memory requirement even smaller than a traditional microkernel.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2247%22])">47</ref></p>
 
 </ss1>
@@ -847,7 +847,7 @@ Unix-like</link></family>
 <link xlink:type="simple" xlink:href="../642/31642.xml">
 Unix</link></family>
  represented the culmination of decades of development towards a modern operating system. During the design phase, programmers decided to model every high-level <link xlink:type="simple" xlink:href="../986/18016986.xml">
-device as a file</link>, because they believed the purpose of computation was data transformation.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2252%22])">52</ref> For instance, printers were represented as a "file" at a known location &mdash; when data was copied to the file, it printed out. Other systems, to provide a similar functionality, tended to virtualize devices at a lower level &mdash; that is, both devices <it>and</it> files would be instances of some lower level concept. Virtualizing the system at the file level allowed users to manipulate the entire system using their existing file management utilities and concepts, dramatically simplifying operation. As an extension of the same paradigm, Unix allows programmers to manipulate files using a series of small programs, using the concept of <link xlink:type="simple" xlink:href="../117/1236117.xml">
+device as a file</link>, because they believed the purpose of computation was data transformation.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2252%22])">52</ref> For instance, printers were represented as a "file" at a known location — when data was copied to the file, it printed out. Other systems, to provide a similar functionality, tended to virtualize devices at a lower level — that is, both devices <it>and</it> files would be instances of some lower level concept. Virtualizing the system at the file level allowed users to manipulate the entire system using their existing file management utilities and concepts, dramatically simplifying operation. As an extension of the same paradigm, Unix allows programmers to manipulate files using a series of small programs, using the concept of <link xlink:type="simple" xlink:href="../117/1236117.xml">
 pipes</link>, which allowed users to complete operations in stages, feeding a file through a chain of single-purpose tools. Although the end result was the same, using smaller programs in this way dramatically increased flexibility as well as ease of development and use, allowing the user to modify their workflow by adding or removing a program from the chain.</p>
 <p>
 
@@ -1152,7 +1152,7 @@ Ring (computer security)</link></causal_agent>
 <weblink xlink:type="simple" xlink:href="http://osdever.net/bkerndev/index.php?the_id=90">
 Bona Fide OS Development - Bran's Kernel Development Tutorial</weblink>, by Brandon Friesen</entry>
 <entry id="10">
-For low-level scheduling see Deitel 82, ch. 10, pp. 249&ndash;268.</entry>
+For low-level scheduling see Deitel 82, ch. 10, pp. 249–268.</entry>
 <entry id="11">
 Levy 1984, p.5</entry>
 <entry id="12">
@@ -1166,7 +1166,7 @@ Silberschatz 1990 </entry>
 <link xlink:type="simple" xlink:href="../110/3110.xml">
 Tanenbaum, Andrew S.</link></professor>
 </person>
-&#32;(2008). Modern Operating Systems, 3rd Edition,&#32;Prentice Hall,&#32;50-51. ISBN 0-13-600663-9.&nbsp;". . . nearly all system calls [are] invoked from C programs by calling a library procedure . . . The library procedure . . . executes a TRAP instruction to switch from user mode to kernel mode and start execution . . ."</cite>&nbsp;</entry>
+&#32;(2008). Modern Operating Systems, 3rd Edition,&#32;Prentice Hall,&#32;50-51. ISBN 0-13-600663-9. ". . . nearly all system calls [are] invoked from C programs by calling a library procedure . . . The library procedure . . . executes a TRAP instruction to switch from user mode to kernel mode and start execution . . ."</cite> </entry>
 <entry id="15">
 Denning 1976</entry>
 <entry id="17">
@@ -1205,7 +1205,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F850697.850701">
 10.1145/850697.850701</weblink>. Retrieved on <link>
-2007-01-07</link>.</cite>&nbsp;</entry>
+2007-01-07</link>.</cite> </entry>
 <entry id="29">
 M. Abrams et al, <it><weblink xlink:type="simple" xlink:href="http://www.acsac.org/secshelf/book001/book001.html">
 Information Security: An Integrated Collection of Essays</weblink>, IEEE Comp. 1995.</it></entry>
@@ -1225,7 +1225,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FPROC.1975.9939">
-10.1109/PROC.1975.9939</weblink>.</cite>&nbsp;</entry>
+10.1109/PROC.1975.9939</weblink>.</cite> </entry>
 </list>
 </entry>
 <entry id="30">
@@ -1243,7 +1243,7 @@ The Inevitability of Failure: The Flawed Assumption of Security in Modern Comput
 http://csrc.nist.gov/nissc/1998/proceedings/paperF1.pdf</weblink>.</entry>
 <entry id="33">
  <cite style="font-style:normal">Jonathan S. Shapiro; Jonathan M. Smith; David J. Farber.&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?doid=319151.319163">
-EROS: a fast capability system</weblink>". <it>Proceedings of the seventeenth ACM symposium on Operating systems principles</it>.</cite>&nbsp;</entry>
+EROS: a fast capability system</weblink>". <it>Proceedings of the seventeenth ACM symposium on Operating systems principles</it>.</cite> </entry>
 <entry id="38">
 Levin 75</entry>
 <entry id="39">
@@ -1304,7 +1304,7 @@ The Mega-Tokyo Message Board</weblink>.</entry>
 Linux Kernel 2.6: It's Worth More!</weblink>, by David A. Wheeler, October 12, 2004</entry>
 <entry id="52">
 <weblink xlink:type="simple" xlink:href="http://www.unix.org/what_is_unix/single_unix_specification.html">
-The UNIX System &mdash; The Single Unix Specification</weblink></entry>
+The UNIX System — The Single Unix Specification</weblink></entry>
 <entry id="59">
 <weblink xlink:type="simple" xlink:href="http://os.inf.tu-dresden.de/fiasco/overview.html">
 The Fiasco microkernel - Overview</weblink></entry>
@@ -1372,7 +1372,7 @@ Silberschatz, Abraham</link></associate>
 Operating system concepts</weblink>.&#32;<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../309/4309.xml">
 Boston, Massachusetts</link></village>
-:&#32;Addison-Wesley,&#32;696. ISBN 0-201-51379-X.</cite>&nbsp;</entry>
+:&#32;Addison-Wesley,&#32;696. ISBN 0-201-51379-X.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1381,7 +1381,7 @@ Boston, Massachusetts</link></village>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Deitel-1984" style="font-style:normal" class="book">Deitel, Harvey M.&#32;[1982]&#32;(1984). <weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=79046&amp;dl=GUIDE&amp;coll=GUIDE">
-An introduction to operating systems</weblink>, revisited first edition,&#32;Addison-Wesley,&#32;673. ISBN 0-201-14502-2.</cite>&nbsp;</entry>
+An introduction to operating systems</weblink>, revisited first edition,&#32;Addison-Wesley,&#32;673. ISBN 0-201-14502-2.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1411,7 +1411,7 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0360-0300">
-0360-0300</weblink>.</cite>&nbsp;</entry>
+0360-0300</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1431,7 +1431,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F859504.859506">
-10.1145/859504.859506</weblink>. ISSN 0163-5964.</cite>&nbsp;</entry>
+10.1145/859504.859506</weblink>. ISSN 0163-5964.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1471,7 +1471,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F362258.362278">
-10.1145/362258.362278</weblink>. ISSN 0001-0782.</cite>&nbsp;</entry>
+10.1145/362258.362278</weblink>. ISSN 0001-0782.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1504,7 +1504,7 @@ Hansen, Per Brinch</link></associate>
 </physical_entity>
 &#32;[1973]. <weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=540365">
 Operating System Principles</weblink>.&#32;<link xlink:type="simple" xlink:href="../880/136880.xml">
-Englewood Cliffs</link>:&#32;Prentice Hall,&#32;496. ISBN 0-13-637843-9.</cite>&nbsp;</entry>
+Englewood Cliffs</link>:&#32;Prentice Hall,&#32;496. ISBN 0-13-637843-9.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1539,7 +1539,7 @@ Hansen, Per Brinch</link></associate>
 The evolution of operating systems</weblink></it>"&#32;(pdf). &#32;Retrieved on <link>
 2006-10-24</link>. included in book:  <cite style="font-style:normal" class="book">&#32;[2001]&#32;"<weblink xlink:type="simple" xlink:href="http://brinch-hansen.net/papers/2001b.pdf">
 1</weblink>",&#32;in Per Brinch Hansen: <weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=360596&amp;dl=ACM&amp;coll=&amp;CFID=15151515&amp;CFTOKEN=6184618">
-Classic operating systems: from batch processing to distributed systems</weblink>.&#32;New York,:&#32;Springer-Verlag,&#32;1-36. ISBN 0-387-95113-X.</cite>&nbsp;</entry>
+Classic operating systems: from batch processing to distributed systems</weblink>.&#32;New York,:&#32;Springer-Verlag,&#32;1-36. ISBN 0-387-95113-X.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1610,7 +1610,7 @@ William Wulf</link></associate>
 </peer>
 </physical_entity>
 &#32;(1975).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=806531&amp;dl=ACM&amp;coll=&amp;CFID=15151515&amp;CFTOKEN=6184618">
-Policy/mechanism separation in Hydra</weblink>". <it>ACM Symposium on Operating Systems Principles / Proceedings of the fifth ACM symposium on Operating systems principles</it>: 132–140.</cite>&nbsp;</entry>
+Policy/mechanism separation in Hydra</weblink>". <it>ACM Symposium on Operating Systems Principles / Proceedings of the fifth ACM symposium on Operating systems principles</it>: 132–140.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1619,7 +1619,7 @@ Policy/mechanism separation in Hydra</weblink>". <it>ACM Symposium on Operating 
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book">Levy, Henry M.&#32;(1984). <weblink xlink:type="simple" xlink:href="http://www.cs.washington.edu/homes/levy/capabook/index.html">
-Capability-based computer systems</weblink>.&#32;Maynard, Mass:&#32;Digital Press. ISBN 0-932376-22-3.</cite>&nbsp;</entry>
+Capability-based computer systems</weblink>.&#32;Maynard, Mass:&#32;Digital Press. ISBN 0-932376-22-3.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1662,7 +1662,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F356678.356682">
-10.1145/356678.356682</weblink>. ISSN 0360-0300.</cite>&nbsp; <weblink xlink:type="simple" xlink:href="http://csrc.nist.gov/publications/history/lind76.pdf">
+10.1145/356678.356682</weblink>. ISSN 0360-0300.</cite>  <weblink xlink:type="simple" xlink:href="http://csrc.nist.gov/publications/history/lind76.pdf">
 http://csrc.nist.gov/publications/history/lind76.pdf</weblink></entry>
 </list>
 </p>
@@ -1675,7 +1675,7 @@ http://csrc.nist.gov/publications/history/lind76.pdf</weblink></entry>
 Operating systems</weblink>.&#32;<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../309/4309.xml">
 Boston, Massachusetts</link></village>
-:&#32;Addison-Wesley,&#32;pp.161-186. ISBN 0-201-14464-6.</cite>&nbsp;</entry>
+:&#32;Addison-Wesley,&#32;pp.161-186. ISBN 0-201-14464-6.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1711,7 +1711,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F361268.361275">
-10.1145/361268.361275</weblink>. ISSN 0001-0782.</cite>&nbsp;</entry>
+10.1145/361268.361275</weblink>. ISSN 0001-0782.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1720,7 +1720,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Shaw-1974" style="font-style:normal" class="book">Shaw, Alan C.&#32;(1974). <weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=540329">
-The logical design of Operating systems</weblink>.&#32;Prentice-Hall,&#32;304. ISBN 0-13-540112-7.</cite>&nbsp;</entry>
+The logical design of Operating systems</weblink>.&#32;Prentice-Hall,&#32;304. ISBN 0-13-540112-7.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1736,7 +1736,7 @@ Tanenbaum, Andrew S.</link></professor>
 &#32;(1979). Structured Computer Organization.&#32;<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../880/136880.xml">
 Englewood Cliffs, New Jersey</link></village>
-:&#32;Prentice-Hall. ISBN 0-13-148521-0.</cite>&nbsp;</entry>
+:&#32;Prentice-Hall. ISBN 0-13-148521-0.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1766,7 +1766,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F355616.364017">
-10.1145/355616.364017</weblink>. ISSN 0001-0782.</cite>&nbsp; <weblink xlink:type="simple" xlink:href="http://www.cs.virginia.edu/papers/p337-wulf.pdf">
+10.1145/355616.364017</weblink>. ISSN 0001-0782.</cite>  <weblink xlink:type="simple" xlink:href="http://www.cs.virginia.edu/papers/p337-wulf.pdf">
 http://www.cs.virginia.edu/papers/p337-wulf.pdf</weblink></entry>
 </list>
 </p>
@@ -1777,7 +1777,7 @@ http://www.cs.virginia.edu/papers/p337-wulf.pdf</weblink></entry>
 
   <cite id="Reference-Baiardi-1988" style="font-style:normal" class="book">Baiardi, F.;&#32;A. Tomasi, <weblink xlink:type="simple" xlink:href="http://www.di.unipi.it/~vannesch/">
 M. Vanneschi</weblink>&#32;(1988). <weblink xlink:type="simple" xlink:href="http://www.pangloss.it/libro.php?isbn=882042746X&amp;id=4357&amp;PHPSESSID=9da1895b18ed1cda115cf1c7ace9bdf0">
-Architettura dei Sistemi di Elaborazione, volume 1</weblink>&#32;(in Italian).&#32;Franco Angeli. ISBN 88-204-2746-X.</cite>&nbsp;</entry>
+Architettura dei Sistemi di Elaborazione, volume 1</weblink>&#32;(in Italian).&#32;Franco Angeli. ISBN 88-204-2746-X.</cite> </entry>
 </list>
 </p>
 <p>

@@ -96,7 +96,7 @@ Network Node Manager</link> (OV NNM)</entry>
 <entry level="1" type="bullet">
 
  HP <link xlink:type="simple" xlink:href="../141/6326141.xml">
-OpenView Operations</link> (OVO) &mdash; monitor systems and applications using agents</entry>
+OpenView Operations</link> (OVO) — monitor systems and applications using agents</entry>
 <entry level="2" type="bullet">
 
  for Windows (OVOW) (formerly VantagePoint Operations for Windows)</entry>
@@ -195,12 +195,12 @@ OpenView Storage Area Manager</link> (OV SAM)</entry>
  HP OpenView Storage Mirroring Exchange Failover Utility</entry>
 <entry level="1" type="bullet">
 
- HP OpenView Dashboard (formerly Service Information Portal (SIP) &mdash; provides a <link xlink:type="simple" xlink:href="../293/54293.xml">
+ HP OpenView Dashboard (formerly Service Information Portal (SIP) — provides a <link xlink:type="simple" xlink:href="../293/54293.xml">
 web portal</link> for HP OpenView management products)</entry>
 <entry level="1" type="bullet">
 
  HP <link xlink:type="simple" xlink:href="../263/6507263.xml">
-OpenView TeMIP</link> &mdash; A Telecoms OSS service (formerly just known TeMIP when owned by <company wordnetid="108058098" confidence="0.9508927676800064">
+OpenView TeMIP</link> — A Telecoms OSS service (formerly just known TeMIP when owned by <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../742/7742.xml">
 Compaq</link></company>
 -<company wordnetid="108058098" confidence="0.9508927676800064">
@@ -219,10 +219,10 @@ HP Service Activator</link></commodity>
  (HPSA)</entry>
 <entry level="1" type="bullet">
 
- HP OpenView Select Access &mdash; Secure and reliable access to critical information</entry>
+ HP OpenView Select Access — Secure and reliable access to critical information</entry>
 <entry level="1" type="bullet">
 
- HP OpenView Select Identity (OVSI) &mdash; Centralized management of user identities and access rights over their life cycle</entry>
+ HP OpenView Select Identity (OVSI) — Centralized management of user identities and access rights over their life cycle</entry>
 </list>
 </p>
 
@@ -232,7 +232,7 @@ HP Service Activator</link></commodity>
  HP OpenView Smart Plug-ins </st>
 <p>
 
-(SPIs) &mdash; these are addons for OpenView Operations and OpenView Network Node Manager that expand the capabilities of products to other management areas or third party products; below is a list of SPIs for OpenView Operations:
+(SPIs) — these are addons for OpenView Operations and OpenView Network Node Manager that expand the capabilities of products to other management areas or third party products; below is a list of SPIs for OpenView Operations:
 <list>
 <entry level="1" type="bullet">
 

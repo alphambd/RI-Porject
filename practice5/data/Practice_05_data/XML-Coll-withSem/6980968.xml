@@ -54,7 +54,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2Fbti322">
-10.1093/bioinformatics/bti322</weblink>. PMID 15713734.</cite>&nbsp;</entry>
+10.1093/bioinformatics/bti322</weblink>. PMID 15713734.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Camacho CJ, Ma H, Champ PC&#32;(2006).&#32;"Scoring a diverse set of high-quality docked conformations: A metascore based on electrostatic and desolvation interactions". <it>Proteins</it>&#32;<b>63</b>&#32;(4): 868–877. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -64,7 +64,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2Fprot.20932">
-10.1002/prot.20932</weblink>.</cite>&nbsp;</entry>
+10.1002/prot.20932</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Champ PC, Camacho CJ&#32;(2007).&#32;"FastContact: a free energy scoring tool for protein-protein complex structures". <it>Nucleic Acids Res</it>&#32;<b>35</b>&#32;(Web addition): W556. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -74,7 +74,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fnar%2Fgkm326">
-10.1093/nar/gkm326</weblink>. PMID 17537824.</cite>&nbsp;</entry>
+10.1093/nar/gkm326</weblink>. PMID 17537824.</cite> </entry>
 </reflist>
 </p>
 
@@ -88,11 +88,11 @@ External links</st>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://structure.pitt.edu/software/FastContact">
-FastContact binaries</weblink> &mdash; binaries are freely available for download (with documentation).</entry>
+FastContact binaries</weblink> — binaries are freely available for download (with documentation).</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://structure.pitt.edu/servers/fastcontact/">
-FastContact Server</weblink> &mdash; setup by P. Christoph Champ in July 2005.</entry>
+FastContact Server</weblink> — setup by P. Christoph Champ in July 2005.</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://wiki.christophchamp.com/index.php/FastContact">

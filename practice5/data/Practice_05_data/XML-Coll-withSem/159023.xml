@@ -182,7 +182,7 @@ dynamic programming</link> for graphs of bounded treewidth, using the tree-decom
 <p>
 
 As an example, consider the problem of finding the <link xlink:type="simple" xlink:href="../501/524501.xml">
-maximum independent set</link> in a graph of treewidth <it>k</it>. To solve this problem, first choose one of the nodes of the tree decomposition to be the root, arbitrarily. For a node <it>Xi</it> of the tree decomposition, let <it>Di</it> be the union of the sets <it>Xj</it> descending from <it>Xi</it>. Let <it>A</it>(<it>S</it>,<it>i</it>), for an independent set <it>S</it>&nbsp;⊂&nbsp;<it>Xi</it>, denote the size of the largest independent subset <it>I</it> of <it>Di</it> such that <it>I</it>&nbsp;∩&nbsp;<it>Xi</it>&nbsp;=&nbsp;<it>S</it>. Similarly, for an adjacent pair of nodes <it>Xi</it> and <it>Xj</it>, with <it>Xi</it> farther from the root of the tree than <it>Xj</it>, and an independent set <it>S</it>&nbsp;⊂&nbsp;<it>Xi</it>&nbsp;∩&nbsp;<it>Xj</it>, let <it>B</it>(<it>S</it>,<it>i</it>,<it>j</it>) denote the size of the largest independent subset <it>I</it> of <it>Di</it> such that <it>I</it>&nbsp;∩&nbsp;<it>Xi</it>&nbsp;∩&nbsp;<it>Xj</it>&nbsp;=&nbsp;<it>S</it>. We may calculate these <it>A</it> and <it>B</it> values by a bottom-up traversal of the tree:
+maximum independent set</link> in a graph of treewidth <it>k</it>. To solve this problem, first choose one of the nodes of the tree decomposition to be the root, arbitrarily. For a node <it>Xi</it> of the tree decomposition, let <it>Di</it> be the union of the sets <it>Xj</it> descending from <it>Xi</it>. Let <it>A</it>(<it>S</it>,<it>i</it>), for an independent set <it>S</it> ⊂ <it>Xi</it>, denote the size of the largest independent subset <it>I</it> of <it>Di</it> such that <it>I</it> ∩ <it>Xi</it> = <it>S</it>. Similarly, for an adjacent pair of nodes <it>Xi</it> and <it>Xj</it>, with <it>Xi</it> farther from the root of the tree than <it>Xj</it>, and an independent set <it>S</it> ⊂ <it>Xi</it> ∩ <it>Xj</it>, let <it>B</it>(<it>S</it>,<it>i</it>,<it>j</it>) denote the size of the largest independent subset <it>I</it> of <it>Di</it> such that <it>I</it> ∩ <it>Xi</it> ∩ <it>Xj</it> = <it>S</it>. We may calculate these <it>A</it> and <it>B</it> values by a bottom-up traversal of the tree:
 <indent level="1">
 
 <math>A(S,i)=|S| + \sum_{j} \left(B(S\cap X_j, j,i) - |S\cap X_j|\right)</math>
@@ -316,7 +316,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137%2F0608024">
-10.1137/0608024</weblink></cite>&nbsp;. </entry>
+10.1137/0608024</weblink></cite> . </entry>
 </list>
 </p>
 <p>
@@ -332,7 +332,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2F0166-218X%2889%2990031-0">
-10.1016/0166-218X(89)90031-0</weblink></cite>&nbsp;.</entry>
+10.1016/0166-218X(89)90031-0</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -348,7 +348,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2F0196-6774%2887%2990039-3">
-10.1016/0196-6774(87)90039-3</weblink></cite>&nbsp;.</entry>
+10.1016/0196-6774(87)90039-3</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -356,7 +356,7 @@ doi</link></writing>
 <list>
 <entry level="1" type="bullet">
 
- <cite id="CITEREFBodlaender1988" style="font-style:normal">Bodlaender, Hans L.&#32;(1988),&#32;"Dynamic programming on graphs of bounded treewidth",&#32;<it>Proc. 15th International Colloquium on Automata, Languages and Programming</it>, Lecture Notes in Computer Science, <b>317</b>, Springer-Verlag, pp. 105–118</cite>&nbsp;.</entry>
+ <cite id="CITEREFBodlaender1988" style="font-style:normal">Bodlaender, Hans L.&#32;(1988),&#32;"Dynamic programming on graphs of bounded treewidth",&#32;<it>Proc. 15th International Colloquium on Automata, Languages and Programming</it>, Lecture Notes in Computer Science, <b>317</b>, Springer-Verlag, pp. 105–118</cite> .</entry>
 </list>
 </p>
 <p>
@@ -372,7 +372,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137%2FS0097539793251219">
-10.1137/S0097539793251219</weblink></cite>&nbsp;.</entry>
+10.1137/S0097539793251219</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -388,7 +388,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0304-3975%2897%2900228-4">
-10.1016/S0304-3975(97)00228-4</weblink></cite>&nbsp;.</entry>
+10.1016/S0304-3975(97)00228-4</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -397,7 +397,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFDiestel" style="font-style:normal">Diestel, Reinhard,&#32;<it><weblink xlink:type="simple" xlink:href="http://www.math.uni-hamburg.de/home/diestel/books/graph.theory/GraphTheoryIII.pdf">
-Graph Theory</weblink></it>, </cite>&nbsp;</entry>
+Graph Theory</weblink></it>, </cite> </entry>
 </list>
 </p>
 <p>
@@ -407,7 +407,7 @@ Graph Theory</weblink></it>, </cite>&nbsp;</entry>
 
  <cite id="CITEREFRobertsonSeymour1984" style="font-style:normal"><link>
 Robertson, Neil</link>&#32;&amp;&#32;<link>
-Seymour, Paul D.</link>&#32;(1984),&#32;"Graph minors III: Planar tree-width",&#32;<it>Journal of Combinatorial Theory, Series B</it>&#32;<b>36</b>:  49–64</cite>&nbsp;.</entry>
+Seymour, Paul D.</link>&#32;(1984),&#32;"Graph minors III: Planar tree-width",&#32;<it>Journal of Combinatorial Theory, Series B</it>&#32;<b>36</b>:  49–64</cite> .</entry>
 </list>
 </p>
 <p>
@@ -425,7 +425,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2F0095-8956%2886%2990030-4">
-10.1016/0095-8956(86)90030-4</weblink></cite>&nbsp;.</entry>
+10.1016/0095-8956(86)90030-4</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -442,7 +442,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fjctb.1993.1027">
-10.1006/jctb.1993.1027</weblink></cite>&nbsp;.</entry>
+10.1006/jctb.1993.1027</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -458,7 +458,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Finco.1997.2697">
-10.1006/inco.1997.2697</weblink></cite>&nbsp;.</entry>
+10.1006/inco.1997.2697</weblink></cite> .</entry>
 </list>
 </p>
 

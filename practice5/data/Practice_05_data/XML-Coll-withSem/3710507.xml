@@ -59,7 +59,7 @@ Although not usually considered an "impossibility proof", the proof by <physical
 <link xlink:type="simple" xlink:href="../275/23275.xml">
 Pythagoras</link></causal_agent>
 </physical_entity>
- or his students that the square-root of two cannot be expressed as the ratio of two integers (counting numbers) has had a profound effect on mathematics: it bifurcated "the numbers" into two non-overlapping collections &mdash; the <link>
+ or his students that the square-root of two cannot be expressed as the ratio of two integers (counting numbers) has had a profound effect on mathematics: it bifurcated "the numbers" into two non-overlapping collections — the <link>
 rational numbers</link> and the <link xlink:type="simple" xlink:href="../804/19724804.xml">
 irrational numbers</link>. This bifurcation was used by <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -86,7 +86,7 @@ Proofs followed for various square roots of the primes up to 17. "There is a fam
 
 <math>\sqrt{3}, \sqrt{5}, ...,</math>
 </indent>
-'taking all the separate cases up to the root of 17&nbsp;square feet (1.6&nbsp;m2)..." (Hardy and Wright, p. 42).</p>
+'taking all the separate cases up to the root of 17 square feet (1.6 m2)..." (Hardy and Wright, p. 42).</p>
 <p>
 
 A more general proof now exists that:
@@ -495,7 +495,7 @@ MRDP theorem</link></proposition>
  (Matiyasevich-Robinson-Davis-Putnam theorem) which states that <it>no algorithm exists which can decide whether or not a Diophantine equation has </it>any<it> solution at all</it>. Franzén's treatment is a creditable job but relies on the reader's understanding of certain terminology with reference to Turing's theorem that he develops a few pages beforehand: MRDP uses the undecidability proof of Turing: "... the set of solvable Diophantine equations is an example of a computably enumerable but not decidable set, and the set of unsolvable Diophantine equations is not computably enumerable" (p. 71).</p>
 <p>
 
-[Franzén also introduces a really fun ''unsolved'' problem, very easy to describe -- even an elementary-algebra student in junior high could get the question: the [[Collatz conjecture]] (3''n''&nbsp;+&nbsp;1 conjecture, Ulam's problem)]. That something so easy to describe and fun to fiddle with is unsolved is rather shocking! (Franzén, p. 11]. See below:</p>
+[Franzén also introduces a really fun ''unsolved'' problem, very easy to describe -- even an elementary-algebra student in junior high could get the question: the [[Collatz conjecture]] (3''n'' + 1 conjecture, Ulam's problem)]. That something so easy to describe and fun to fiddle with is unsolved is rather shocking! (Franzén, p. 11]. See below:</p>
 
 </sec>
 <sec>
@@ -525,7 +525,7 @@ Collatz conjecture</link></difficulty>
 This is Franzen's description of the problem:
 <indent level="1">
 
- "... if we start with any positive natural number n and compute n/2 if n is even, or 3<it>n</it>&nbsp;+&nbsp;1 if <it>n</it> is odd, and continue applying the same rule to the new number, we will eventually reach 1" (Franzén, p. 11)
+ "... if we start with any positive natural number n and compute n/2 if n is even, or 3<it>n</it> + 1 if <it>n</it> is odd, and continue applying the same rule to the new number, we will eventually reach 1" (Franzén, p. 11)
 </indent>
 
 Here are the first numbers. Clearly once certain numbers appear inside a string then they don't need to be "dealt with". But the <it>lengths</it> of the strings are interesting-- they have a randomness to them that is "worrisome", per Chaitin's proof described above. This should lead us to believe that the question is "undecidable" (i.e. it's impossible to know whether the hypothesis is true or false):
@@ -644,7 +644,7 @@ Bertrand Russell</link></philosopher>
 , <it>Principia Mathematica</it> to *56, Cambridge at the University Press, 1962, reprint of 2nd edition 1927, first edition 1913. Chap. 2.I. "The Vicious-Circle Principle" p.37ff, and Chap. 2.VIII. "The Contradictions" p. 60ff.</entry>
 <entry level="1" type="bullet">
 
-   <cite id="CITEREFTuring2009" style="font-style:normal">Turing, A.M.&#32;(1936),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>42</b>:  230-65, 1937</cite>&nbsp; (and  <cite id="CITEREFTuring1937" style="font-style:normal">Turing, A.M.&#32;(1937),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem: A correction",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>43</b>:  544-6</cite>&nbsp;). <weblink xlink:type="simple" xlink:href="http://www.turingarchive.org/browse.php/B/12">
+   <cite id="CITEREFTuring2009" style="font-style:normal">Turing, A.M.&#32;(1936),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>42</b>:  230-65, 1937</cite>  (and  <cite id="CITEREFTuring1937" style="font-style:normal">Turing, A.M.&#32;(1937),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem: A correction",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>43</b>:  544-6</cite> ). <weblink xlink:type="simple" xlink:href="http://www.turingarchive.org/browse.php/B/12">
 online version</weblink> This is the epochal paper where Turing defines <invention wordnetid="105633385" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">

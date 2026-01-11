@@ -362,7 +362,7 @@ Dijkstra's algorithm</link></algorithm>
 </act>
 </rule>
 </event>
-, but instead of greedily selecting the minimum-weight node not yet processed to relax, it simply relaxes <it>all</it> the edges, and does this |V|&nbsp;&amp;minus;&nbsp;1 times, where |V| is the number of vertices in the graph. The repetitions allow minimum distances to accurately propagate throughout the graph, since, in the absence of negative cycles, the shortest path can only visit each node at most once. Unlike the greedy approach, which depends on certain structural assumptions derived from positive weights, this straightforward approach extends to the general case.</p>
+, but instead of greedily selecting the minimum-weight node not yet processed to relax, it simply relaxes <it>all</it> the edges, and does this |V| &amp;minus; 1 times, where |V| is the number of vertices in the graph. The repetitions allow minimum distances to accurately propagate throughout the graph, since, in the absence of negative cycles, the shortest path can only visit each node at most once. Unlike the greedy approach, which depends on certain structural assumptions derived from positive weights, this straightforward approach extends to the general case.</p>
 <p>
 
 Bellman–Ford runs in <it><link xlink:type="simple" xlink:href="../578/44578.xml">
@@ -624,7 +624,7 @@ A Simple and Fast Label Correcting Algorithm for Shortest Paths</weblink>".&#32;
 <entry id="2">
 Robert Sedgewick. Algorithms in Java. Third Edition. ISBN 0-201-36121-3. Section 21.7: Negative Edge Weights. http://safari.oreilly.com/0201361213/ch21lev1sec7</entry>
 <entry id="3">
-Jin Y. Yen. "An algorithm for Finding Shortest Routes from all Source Nodes to a Given Destination in General Network", Quart. Appl. Math., 27, 1970, 526&ndash;530.</entry>
+Jin Y. Yen. "An algorithm for Finding Shortest Routes from all Source Nodes to a Given Destination in General Network", Quart. Appl. Math., 27, 1970, 526–530.</entry>
 </reflist>
 
 <list>
@@ -660,7 +660,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 24.1: The Bellman-Ford algorithm, pp.588&ndash;592. Problem 24-1, pp.614&ndash;615.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 24.1: The Bellman-Ford algorithm, pp.588–592. Problem 24-1, pp.614–615.</entry>
 </list>
 </p>
 

@@ -353,7 +353,7 @@ triggers</link></instrumentality>
 2003</link></col>
 
 <col>
-&nbsp;</col>
+ </col>
 <col>
  Introduced <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../138/34138.xml">
@@ -366,7 +366,7 @@ XML</link></format>
 2006</link></col>
 
 <col>
-&nbsp;</col>
+ </col>
 <col>
  ISO/IEC 9075-14:2006 defines ways in which SQL can be used in conjunction with XML. It defines ways of importing and storing XML data in an SQL database, manipulating it within the database and publishing both XML and conventional SQL-data in XML form. In addition, it provides facilities that permit applications to integrate into their SQL code the use of <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
@@ -382,7 +382,7 @@ W3C</link>), to concurrently access ordinary SQL-data and XML documents.</col>
 2008</link></col>
 
 <col>
-&nbsp;</col>
+ </col>
 <col>
 Defines more flexible windowing functions, clarifies SQL 2003 items that were still unclear <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref></col>
 </row>
@@ -1228,15 +1228,15 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F362384.362685">
 10.1145/362384.362685</weblink>. Retrieved on <link>
-2007-06-09</link>.</cite>&nbsp;</entry>
+2007-06-09</link>.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Chamberlin, Donald D.; Boyce, Raymond F.&#32;(1974).&#32;"<weblink xlink:type="simple" xlink:href="http://www.almaden.ibm.com/cs/people/chamberlin/sequel-1974.pdf">
 SEQUEL: A Structured English Query Language</weblink>". <it>Proceedings of the 1974 ACM SIGFIDET Workshop on Data Description, Access and Control</it>: pp. 249–264.&#32;Association for Computing Machinery. Retrieved on <link>
-2007-06-09</link>.</cite>&nbsp;</entry>
+2007-06-09</link>.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal" class="book">Oppel, Andy&#32;(March 1, 2004). <weblink xlink:type="simple" xlink:href="http://www.mhprofessional.com/product.php?cat=112&amp;isbn=0072253649">
 Databases Demystified</weblink>.&#32;<link xlink:type="simple" xlink:href="../728/49728.xml">
-San Francisco, CA</link>:&#32;McGraw-Hill Osborne Media,&#32;pp. 90-91. ISBN 0-07-225364-9.</cite>&nbsp;</entry>
+San Francisco, CA</link>:&#32;McGraw-Hill Osborne Media,&#32;pp. 90-91. ISBN 0-07-225364-9.</cite> </entry>
 <entry id="6">
 "<weblink xlink:type="simple" xlink:href="http://www-03.ibm.com/ibm/history/history/year_1978.html">
 History of IBM, 1978</weblink>"&#32;(HTML).&#32;<it>IBM Archives</it>.&#32;  IBM.&#32;Retrieved on <link>
@@ -1246,7 +1246,7 @@ Chapple, Mike&#32;(?).&#32;"<weblink xlink:type="simple" xlink:href="http://data
 SQL Fundamentals</weblink>"&#32;(HTML).&#32;<it>About.com</it>.&#32;  About.com, A New York Times Company.&#32;Retrieved on <link>
 2007-08-30</link>.</entry>
 <entry id="8">
- <cite id="Reference-Melton-1993" style="font-style:normal" class="book">Melton, Jim;&#32;Alan R Simon&#32;(1993). Understanding the New SQL: A Complete Guide.&#32;Morgan Kaufmann,&#32;536. ISBN 1558602453.&nbsp;"chapter 1.2 What is SQL? SQL (correctly pronounced "ess cue ell," instead of the somewhat common "sequel"), is a..."</cite>&nbsp;</entry>
+ <cite id="Reference-Melton-1993" style="font-style:normal" class="book">Melton, Jim;&#32;Alan R Simon&#32;(1993). Understanding the New SQL: A Complete Guide.&#32;Morgan Kaufmann,&#32;536. ISBN 1558602453. "chapter 1.2 What is SQL? SQL (correctly pronounced "ess cue ell," instead of the somewhat common "sequel"), is a..."</cite> </entry>
 <entry id="9">
 "<weblink xlink:type="simple" xlink:href="http://www.faqs.org/docs/ppbook/c1164.htm">
 Understand SQL</weblink>".&#32;  www.faqs.org/docs/.</entry>
@@ -1257,7 +1257,7 @@ Is SQL a Standard Anymore?</weblink>"&#32;(HTML).&#32;<it>TechRepublic's Builder
 <entry id="11">
 http://archives.postgresql.org/pgsql-hackers/2008-09/msg00071.php</entry>
 <entry id="12">
- <cite id="CITEREF2003" style="font-style:normal"><it>ISO/IEC 9075-11:2003: Information and Definition Schemas (SQL/Schemata)</it>, 2003, pp. p. 1</cite>&nbsp;</entry>
+ <cite id="CITEREF2003" style="font-style:normal"><it>ISO/IEC 9075-11:2003: Information and Definition Schemas (SQL/Schemata)</it>, 2003, pp. p. 1</cite> </entry>
 <entry id="13">
 ANSI/ISO/IEC International Standard (IS). Database Language SQL—Part 2: Foundation (SQL/Foundation). 1999</entry>
 <entry id="14">
@@ -1353,7 +1353,7 @@ Database models</link></instrumentality>
 </artifact>
 </system>
 
-&nbsp;·  <relationship wordnetid="113928668" confidence="0.8">
+ ·  <relationship wordnetid="113928668" confidence="0.8">
 <confinement wordnetid="113998576" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <subjugation wordnetid="113996300" confidence="0.8">
@@ -1364,34 +1364,34 @@ Database normalization</link></constraint>
 </state>
 </confinement>
 </relationship>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../365/10983365.xml">
 Database storage</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../515/1990515.xml">
 Distributed DBMS</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../718/445718.xml">
-Referential integrity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../285/175285.xml">
-Relational algebra</link>&nbsp;·  <link xlink:type="simple" xlink:href="../769/175769.xml">
-Relational calculus</link>&nbsp;·  <link xlink:type="simple" xlink:href="../873/25873.xml">
-Relational database</link>&nbsp;·  <link xlink:type="simple" xlink:href="../743/98743.xml">
-Relational DBMS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../220/26220.xml">
-Relational model</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../718/445718.xml">
+Referential integrity</link> ·  <link xlink:type="simple" xlink:href="../285/175285.xml">
+Relational algebra</link> ·  <link xlink:type="simple" xlink:href="../769/175769.xml">
+Relational calculus</link> ·  <link xlink:type="simple" xlink:href="../873/25873.xml">
+Relational database</link> ·  <link xlink:type="simple" xlink:href="../743/98743.xml">
+Relational DBMS</link> ·  <link xlink:type="simple" xlink:href="../220/26220.xml">
+Relational model</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/68960.xml">
 Object-relational database</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../409/212409.xml">
+ ·  <link xlink:type="simple" xlink:href="../409/212409.xml">
 Transaction processing</link></col>
 </row>
 <row style="height:2px;">
@@ -1402,14 +1402,14 @@ Transaction processing</link></col>
 Concepts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../377/8377.xml">
-Database</link>&nbsp;·  <link xlink:type="simple" xlink:href="../776/60776.xml">
-ACID</link>&nbsp;·  <link xlink:type="simple" xlink:href="../180/287180.xml">
-CRUD</link>&nbsp;·  <link xlink:type="simple" xlink:href="../540/2002540.xml">
-Null</link>&nbsp;·  <link xlink:type="simple" xlink:href="../975/336975.xml">
-Candidate key</link>&nbsp;·  <link xlink:type="simple" xlink:href="../065/259065.xml">
-Foreign key</link>&nbsp;·  <link xlink:type="simple" xlink:href="../099/6850099.xml">
-Primary key</link>&nbsp;·  <link xlink:type="simple" xlink:href="../952/1137952.xml">
-Superkey</link>&nbsp;·  <link xlink:type="simple" xlink:href="../950/472950.xml">
+Database</link> ·  <link xlink:type="simple" xlink:href="../776/60776.xml">
+ACID</link> ·  <link xlink:type="simple" xlink:href="../180/287180.xml">
+CRUD</link> ·  <link xlink:type="simple" xlink:href="../540/2002540.xml">
+Null</link> ·  <link xlink:type="simple" xlink:href="../975/336975.xml">
+Candidate key</link> ·  <link xlink:type="simple" xlink:href="../065/259065.xml">
+Foreign key</link> ·  <link xlink:type="simple" xlink:href="../099/6850099.xml">
+Primary key</link> ·  <link xlink:type="simple" xlink:href="../952/1137952.xml">
+Superkey</link> ·  <link xlink:type="simple" xlink:href="../950/472950.xml">
 Surrogate key</link></col>
 </row>
 <row style="height:2px">
@@ -1426,38 +1426,38 @@ Objects</col>
 Trigger</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../226/1960226.xml">
 View</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../163/1701163.xml">
-Table</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../163/1701163.xml">
+Table</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../836/2104836.xml">
 Cursor</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../974/245974.xml">
 Log</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../953/233953.xml">
-Transaction</link>&nbsp;·  <link xlink:type="simple" xlink:href="../076/1711076.xml">
-Index</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../953/233953.xml">
+Transaction</link> ·  <link xlink:type="simple" xlink:href="../076/1711076.xml">
+Index</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../251/277251.xml">
 Stored procedure</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../101/1983101.xml">
@@ -1477,20 +1477,20 @@ SQL</link></programming_language>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../285/665285.xml">
-Select</link>&nbsp;·  <link xlink:type="simple" xlink:href="../237/903237.xml">
-Insert</link>&nbsp;·  <link xlink:type="simple" xlink:href="../573/1220573.xml">
-Update</link>&nbsp;·  <link xlink:type="simple" xlink:href="../931/4347931.xml">
-Merge</link>&nbsp;·  <link xlink:type="simple" xlink:href="../216/1701216.xml">
-Delete</link>&nbsp;·  <link xlink:type="simple" xlink:href="../204/665204.xml">
-Join</link>&nbsp;·  <link xlink:type="simple" xlink:href="../258/11308258.xml">
-Union</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/452018.xml">
-Create</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/452018.xml">
-Drop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../953/233953.xml#xpointer(//*[./st=%22In+SQL%22])">
-Begin work</link>&nbsp;·  <link xlink:type="simple" xlink:href="../958/1626958.xml">
-Commit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../240/1015240.xml">
-Rollback</link>&nbsp;·  <link xlink:type="simple" xlink:href="../664/2554664.xml">
-Truncate</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/452018.xml">
-Alter</link>&nbsp;·  <link xlink:type="simple" xlink:href="../499/19041499.xml">
+Select</link> ·  <link xlink:type="simple" xlink:href="../237/903237.xml">
+Insert</link> ·  <link xlink:type="simple" xlink:href="../573/1220573.xml">
+Update</link> ·  <link xlink:type="simple" xlink:href="../931/4347931.xml">
+Merge</link> ·  <link xlink:type="simple" xlink:href="../216/1701216.xml">
+Delete</link> ·  <link xlink:type="simple" xlink:href="../204/665204.xml">
+Join</link> ·  <link xlink:type="simple" xlink:href="../258/11308258.xml">
+Union</link> ·  <link xlink:type="simple" xlink:href="../018/452018.xml">
+Create</link> ·  <link xlink:type="simple" xlink:href="../018/452018.xml">
+Drop</link> ·  <link xlink:type="simple" xlink:href="../953/233953.xml#xpointer(//*[./st=%22In+SQL%22])">
+Begin work</link> ·  <link xlink:type="simple" xlink:href="../958/1626958.xml">
+Commit</link> ·  <link xlink:type="simple" xlink:href="../240/1015240.xml">
+Rollback</link> ·  <link xlink:type="simple" xlink:href="../664/2554664.xml">
+Truncate</link> ·  <link xlink:type="simple" xlink:href="../018/452018.xml">
+Alter</link> ·  <link xlink:type="simple" xlink:href="../499/19041499.xml">
 XSQL</link></col>
 </row>
 <row style="height:2px">
@@ -1501,41 +1501,41 @@ XSQL</link></col>
 Implementations</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../873/25873.xml">
-Relational</link>&nbsp;·  <link xlink:type="simple" xlink:href="../973/573973.xml">
-Flat file</link>&nbsp;·  <link xlink:type="simple" xlink:href="../069/1971069.xml">
-Deductive</link>&nbsp;·  <link xlink:type="simple" xlink:href="../079/12321079.xml">
-Dimensional</link>&nbsp;·  <link xlink:type="simple" xlink:href="../075/247075.xml">
-Hierarchical</link>&nbsp;·  <link xlink:type="simple" xlink:href="../098/185098.xml">
-Network</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Relational</link> ·  <link xlink:type="simple" xlink:href="../973/573973.xml">
+Flat file</link> ·  <link xlink:type="simple" xlink:href="../069/1971069.xml">
+Deductive</link> ·  <link xlink:type="simple" xlink:href="../079/12321079.xml">
+Dimensional</link> ·  <link xlink:type="simple" xlink:href="../075/247075.xml">
+Hierarchical</link> ·  <link xlink:type="simple" xlink:href="../098/185098.xml">
+Network</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../414/15002414.xml">
 Document-oriented</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../826/22826.xml">
 Object-oriented</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/68960.xml">
 Object-relational</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../471/1252471.xml">
 Temporal</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../351/1442351.xml">
-XML data stores</link>&nbsp;·  <link xlink:type="simple" xlink:href="../386/16727386.xml">
+ ·  <link xlink:type="simple" xlink:href="../351/1442351.xml">
+XML data stores</link> ·  <link xlink:type="simple" xlink:href="../386/16727386.xml">
 Triple stores</link></col>
 </row>
 <row style="height:2px">
@@ -1546,11 +1546,11 @@ Triple stores</link></col>
 Components</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../356/217356.xml">
-Concurrency control</link>&nbsp;·  <link xlink:type="simple" xlink:href="../139/645139.xml">
-Data dictionary</link>&nbsp;·  <link xlink:type="simple" xlink:href="../755/42755.xml">
-JDBC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../701/168701.xml">
-ODBC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../528/494528.xml">
-Query language</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Concurrency control</link> ·  <link xlink:type="simple" xlink:href="../139/645139.xml">
+Data dictionary</link> ·  <link xlink:type="simple" xlink:href="../755/42755.xml">
+JDBC</link> ·  <link xlink:type="simple" xlink:href="../701/168701.xml">
+ODBC</link> ·  <link xlink:type="simple" xlink:href="../528/494528.xml">
+Query language</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1571,7 +1571,7 @@ Query optimizer</link></algorithm>
 </instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../792/1710792.xml">
@@ -1588,9 +1588,9 @@ Query plan</link></instrumentality>
 <b>Database products:</b> <link xlink:type="simple" xlink:href="../860/1568860.xml">
 Object-oriented</link> (<link xlink:type="simple" xlink:href="../534/1593534.xml">
 comparison</link>)
-&nbsp;·  <link xlink:type="simple" xlink:href="../820/1568820.xml">
+ ·  <link xlink:type="simple" xlink:href="../820/1568820.xml">
 Relational</link> (<link xlink:type="simple" xlink:href="../036/1569036.xml">
-comparison</link>)&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+comparison</link>) ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../414/15002414.xml">

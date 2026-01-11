@@ -128,11 +128,11 @@ In a capability-based system, the capabilities themselves are passed between pro
 
 Although many operating systems implement facilities very similar to capabilities through the use of <link xlink:type="simple" xlink:href="../754/608754.xml">
 file descriptor</link>s or <link xlink:type="simple" xlink:href="../754/608754.xml">
-file handle</link>s &mdash; for example, in <family wordnetid="108078020" confidence="0.8">
+file handle</link>s — for example, in <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../642/31642.xml">
 UNIX</link></family>
 , file descriptors can be discarded (closed), inherited by child processes, and even sent to other processes via <link xlink:type="simple" xlink:href="../686/335686.xml">
-socket</link>s &mdash; there are several obstacles that prevent all of the benefits of a <link xlink:type="simple" xlink:href="../454/8803454.xml">
+socket</link>s — there are several obstacles that prevent all of the benefits of a <link xlink:type="simple" xlink:href="../454/8803454.xml">
 capability-based addressing</link> system from being realized in a traditional operating system environment. Chief among these obstacles is the fact that entities which might hold capabilities (such as <link xlink:type="simple" xlink:href="../178/45178.xml">
 processes</link> and <link xlink:type="simple" xlink:href="../077/7077.xml">
 file</link>s) cannot be made <link xlink:type="simple" xlink:href="../550/6025550.xml">
@@ -313,7 +313,7 @@ not currently used:
 
  <link xlink:type="simple" xlink:href="../454/8803454.xml">
 Capability-based addressing</link>:  <cite style="font-style:normal">Theodore A. Linden&#32;(December 1976).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=356682&amp;coll=&amp;dl=ACM&amp;CFID=15151515&amp;CFTOKEN=6184618">
-Operating System Structures to Support Security and Reliable Software</weblink>". <it>ACM Computing Surveys (CSUR)</it>&#32;<b>8</b>&#32;(4): 409-445. ISSN 0360-0300 }.</cite>&nbsp;</entry>
+Operating System Structures to Support Security and Reliable Software</weblink>". <it>ACM Computing Surveys (CSUR)</it>&#32;<b>8</b>&#32;(4): 409-445. ISSN 0360-0300 }.</cite> </entry>
 <entry level="1" type="bullet">
 
  Li Gong, <it><weblink xlink:type="simple" xlink:href="http://doi.ieeecomputersociety.org/10.1109/SECPRI.1989.36277">

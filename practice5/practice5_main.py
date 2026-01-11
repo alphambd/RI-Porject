@@ -6,7 +6,7 @@ from indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 
 from practice5_exercices import (exercice1, exercice2, exercice3,
-                                exercice4_test1, exercice5, exercice5_phase1, exercice6_phase1 )
+                                 exercice4_test1, exercice5, exercice5_phase1, exercice6_phase1, exercice6)
 
 TEAM_NAME = "AlphaAnaClement"
 XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
@@ -134,7 +134,7 @@ def display_statistics(stats_data: Dict, config_desc: str):
 
 def main():
     
-    # Nettoyage initial
+    # Nettoyage initialo
     clean_runs_directory()
     
     # Créer dossier runs si nécessaire
@@ -154,10 +154,14 @@ def main():
     #exercice3()
     #exercice4_phase1()
     exercice5()
-    #exercice6()
+    exercice6()
     #exercice5_phase1
     #exercice6_phase1()
 
 if __name__ == "__main__":
         
     main()
+
+
+#def print_exercise_header():
+    #return None

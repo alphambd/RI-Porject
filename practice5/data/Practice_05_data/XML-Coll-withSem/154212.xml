@@ -99,7 +99,7 @@ Euclidean algorithm</link></algorithm>
 <activity wordnetid="100407535" confidence="0.8">
 <algorithm wordnetid="105847438" confidence="0.8">
 <link xlink:type="simple" xlink:href="../753/578753.xml">
-<it>p</it>&nbsp;&amp;minus;&nbsp;1 algorithm</link></algorithm>
+<it>p</it> &amp;minus; 1 algorithm</link></algorithm>
 </activity>
 </procedure>
 </psychological_feature>
@@ -114,7 +114,7 @@ Euclidean algorithm</link></algorithm>
 <list>
 <entry level="1" type="bullet">
 
- Hopefully, <it>eA</it> is a zero element of the elliptic curve group in <b>Z</b><it>p</it> but not in <b>Z</b><it>q</it>, for two prime divisors <it>p</it> and <it>q</it> of <it>n</it> &mdash; as in the <it>p</it> &amp;minus; 1 method, it is unlikely that both groups will have an order which is a divisor of <it>e</it>. Then we can find a factor of <it>n</it> by finding the <link xlink:type="simple" xlink:href="../354/12354.xml">
+ Hopefully, <it>eA</it> is a zero element of the elliptic curve group in <b>Z</b><it>p</it> but not in <b>Z</b><it>q</it>, for two prime divisors <it>p</it> and <it>q</it> of <it>n</it> — as in the <it>p</it> &amp;minus; 1 method, it is unlikely that both groups will have an order which is a divisor of <it>e</it>. Then we can find a factor of <it>n</it> by finding the <link xlink:type="simple" xlink:href="../354/12354.xml">
 greatest common divisor</link> of the <it>x</it>-coordinate of <it>eA</it> and <it>n</it>, since this coordinate will be zero in <b>Z</b><it>p</it>.</entry>
 </list>
 </p>
@@ -147,15 +147,15 @@ ECM is at its core an improvement of the older <event wordnetid="100029378" conf
 <activity wordnetid="100407535" confidence="0.8">
 <algorithm wordnetid="105847438" confidence="0.8">
 <link xlink:type="simple" xlink:href="../753/578753.xml">
-<it>p</it>&nbsp;&amp;minus;&nbsp;1 algorithm</link></algorithm>
+<it>p</it> &amp;minus; 1 algorithm</link></algorithm>
 </activity>
 </procedure>
 </psychological_feature>
 </act>
 </rule>
 </event>
-. The <it>p</it>&nbsp;&amp;minus;&nbsp;1 algorithm finds prime factors <it>p</it> such that <it>p</it>&nbsp;&amp;minus;&nbsp;1 is <link xlink:type="simple" xlink:href="../039/1035039.xml">
-b-powersmooth</link> for small values of <it>b</it>. For any <it>e</it>, a multiple of <it>p</it>&nbsp;&amp;minus;&nbsp;1, and any <it>a</it> <link xlink:type="simple" xlink:href="../556/6556.xml">
+. The <it>p</it> &amp;minus; 1 algorithm finds prime factors <it>p</it> such that <it>p</it> &amp;minus; 1 is <link xlink:type="simple" xlink:href="../039/1035039.xml">
+b-powersmooth</link> for small values of <it>b</it>. For any <it>e</it>, a multiple of <it>p</it> &amp;minus; 1, and any <it>a</it> <link xlink:type="simple" xlink:href="../556/6556.xml">
 relatively prime</link> to <it>p</it>, by <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <theorem wordnetid="106752293" confidence="0.8">
@@ -167,7 +167,7 @@ Fermat's little theorem</link></proposition>
 </statement>
  we have <it>ae</it> &amp;equiv; <it>1</it> (<link xlink:type="simple" xlink:href="../087/20087.xml">
 mod</link> <it>p</it>). Then <link xlink:type="simple" xlink:href="../354/12354.xml">
-gcd</link>(<it>ae</it>&nbsp;&amp;minus;&nbsp;1, <it>n</it>) is likely to produce a factor of <it>n</it>. However, the algorithm fails when <it>p</it>-1 has large prime factors, as is the case for numbers containing <link xlink:type="simple" xlink:href="../453/3843453.xml">
+gcd</link>(<it>ae</it> &amp;minus; 1, <it>n</it>) is likely to produce a factor of <it>n</it>. However, the algorithm fails when <it>p</it>-1 has large prime factors, as is the case for numbers containing <link xlink:type="simple" xlink:href="../453/3843453.xml">
 strong prime</link>s, for example.</p>
 <p>
 
@@ -175,7 +175,7 @@ ECM gets around this obstacle by considering the <link xlink:type="simple" xlink
 group</link> of a random <link xlink:type="simple" xlink:href="../225/10225.xml">
 elliptic curve</link> over the <link xlink:type="simple" xlink:href="../615/11615.xml">
 finite field</link> <b>Z</b><it>p</it>, rather than considering the <link xlink:type="simple" xlink:href="../742/1110742.xml">
-multiplicative group</link> of <b>Z</b><it>p</it> which always has order <it>p</it>&nbsp;&amp;minus;&nbsp;1.</p>
+multiplicative group</link> of <b>Z</b><it>p</it> which always has order <it>p</it> &amp;minus; 1.</p>
 <p>
 
 The order of the group of an elliptic curve over <b>Z</b><it>p</it> varies (randomly) between <it>p</it> + 1 &amp;minus; 2&amp;radic;<it>p</it> and <it>p</it> + 1 + 2&amp;radic;<it>p</it> by <statement wordnetid="106722453" confidence="0.8">
@@ -308,7 +308,7 @@ Pomerance, Carl</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-;&#32;Richard Crandall&#32;(2001).&#32;"Section 7.4: Elliptic curve method", Prime Numbers: A Computational Perspective, 1st edition,&#32;Springer,&#32;301&ndash;313. ISBN 0-387-94777-9.</cite>&nbsp;</entry>
+;&#32;Richard Crandall&#32;(2001).&#32;"Section 7.4: Elliptic curve method", Prime Numbers: A Computational Perspective, 1st edition,&#32;Springer,&#32;301–313. ISBN 0-387-94777-9.</cite> </entry>
 </list>
 </p>
 <p>
@@ -339,7 +339,7 @@ Notices of the American Mathematical Society</link></publication>
 </creation>
 </product>
 </work>
-</it>&#32;<b>43</b>&#32;(12): 1473–1485.</cite>&nbsp;</entry>
+</it>&#32;<b>43</b>&#32;(12): 1473–1485.</cite> </entry>
 </list>
 </p>
 <p>

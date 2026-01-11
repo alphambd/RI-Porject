@@ -92,13 +92,13 @@ Recall that the DFT is defined by the formula</p>
 k = 0,\dots,N-1. </math>
 </indent>
 
-If <it>N</it> is a prime number, then the set of non-zero indices <it>n</it> = 1,...,<it>N</it>&ndash;1 forms a <link xlink:type="simple" xlink:href="../447/19447.xml">
+If <it>N</it> is a prime number, then the set of non-zero indices <it>n</it> = 1,...,<it>N</it>–1 forms a <link xlink:type="simple" xlink:href="../447/19447.xml">
 group</link> under multiplication <link xlink:type="simple" xlink:href="../087/20087.xml">
 modulo</link> <it>N</it>.  One consequence of the <link xlink:type="simple" xlink:href="../527/21527.xml">
 number theory</link> of such groups is that there exists a <link xlink:type="simple" xlink:href="../945/99945.xml">
 generator</link> of the group (sometimes called a <link xlink:type="simple" xlink:href="../804/422804.xml">
-primitive root</link>), an integer <it>g</it> such that <it>n</it> = <it>gq</it> (mod <it>N</it>) for any non-zero index <it>n</it> and for a unique <it>q</it> in 0,...,<it>N</it>&ndash;2 (forming a <link xlink:type="simple" xlink:href="../942/3942.xml">
-bijection</link> from <it>q</it> to non-zero <it>n</it>).  Similarly <it>k</it> = <it>g</it>&ndash;<it>p</it>  (mod <it>N</it>) for any non-zero index <it>k</it> and for a unique <it>p</it> in 0,...,<it>N</it>&ndash;2, where the negative exponent denotes the multiplicative inverse of <it>gp</it> modulo <it>N</it>.  That means that we can rewrite the DFT using these new indices <it>p</it> and <it>q</it> as:</p>
+primitive root</link>), an integer <it>g</it> such that <it>n</it> = <it>gq</it> (mod <it>N</it>) for any non-zero index <it>n</it> and for a unique <it>q</it> in 0,...,<it>N</it>–2 (forming a <link xlink:type="simple" xlink:href="../942/3942.xml">
+bijection</link> from <it>q</it> to non-zero <it>n</it>).  Similarly <it>k</it> = <it>g</it>–<it>p</it>  (mod <it>N</it>) for any non-zero index <it>k</it> and for a unique <it>p</it> in 0,...,<it>N</it>–2, where the negative exponent denotes the multiplicative inverse of <it>gp</it> modulo <it>N</it>.  That means that we can rewrite the DFT using these new indices <it>p</it> and <it>q</it> as:</p>
 <p>
 
 <indent level="1">
@@ -116,7 +116,7 @@ p = 0,\dots,N-2. </math>
 (Recall that <it>xn</it> and <it>Xk</it> are implicitly periodic in <it>N</it>, and also that <it>e</it>2&amp;pi;i=1.  Thus, all indices and exponents are taken modulo <it>N</it> as required by the group arithmetic.)</p>
 <p>
 
-The final summation, above, is precisely a cyclic convolution of the two sequences <it>aq</it> and <it>bq</it> of length <it>N</it>&ndash;1 (<it>q</it> = 0,...,<it>N</it>&ndash;2) defined by:</p>
+The final summation, above, is precisely a cyclic convolution of the two sequences <it>aq</it> and <it>bq</it> of length <it>N</it>–1 (<it>q</it> = 0,...,<it>N</it>–2) defined by:</p>
 <p>
 
 <indent level="1">
@@ -131,15 +131,15 @@ Evaluating the convolution</st>
 
 <p>
 
-Since <it>N</it>&ndash;1 is composite, this convolution can be performed directly via the <link xlink:type="simple" xlink:href="../268/53268.xml">
-convolution theorem</link> and more conventional FFT algorithms.  However, that may not be efficient if <it>N</it>&ndash;1 itself has large prime factors, requiring recursive use of Rader's algorithm.  Instead, one can compute a length-(<it>N</it>&ndash;1) cyclic convolution exactly by zero-padding it to a length of at least 2(<it>N</it>&ndash;1)&ndash;1, say to a <link xlink:type="simple" xlink:href="../948/376948.xml">
+Since <it>N</it>–1 is composite, this convolution can be performed directly via the <link xlink:type="simple" xlink:href="../268/53268.xml">
+convolution theorem</link> and more conventional FFT algorithms.  However, that may not be efficient if <it>N</it>–1 itself has large prime factors, requiring recursive use of Rader's algorithm.  Instead, one can compute a length-(<it>N</it>–1) cyclic convolution exactly by zero-padding it to a length of at least 2(<it>N</it>–1)–1, say to a <link xlink:type="simple" xlink:href="../948/376948.xml">
 power of two</link>, which can then be evaluated in O(<it>N</it> log <it>N</it>) time without the recursive application of Rader's algorithm.</p>
 <p>
 
-This algorithm, then, requires O(<it>N</it>) additions plus O(<it>N</it> log <it>N</it>) time for the convolution.  In practice, the O(<it>N</it>) additions can often be performed by absorbing the additions into the convolution: if the convolution is performed by a pair of FFTs, then the sum of <it>xn</it> is given by the DC (0th) output of the FFT of <it>aq</it> plus <it>x</it>0, and <it>x</it>0 can be added to all the outputs by adding it to the DC term of the convolution prior to the inverse FFT.  Still, this algorithm requires intrinsically more operations than FFTs of nearby composite sizes, and typically takes 3&ndash;10 times as long in practice.</p>
+This algorithm, then, requires O(<it>N</it>) additions plus O(<it>N</it> log <it>N</it>) time for the convolution.  In practice, the O(<it>N</it>) additions can often be performed by absorbing the additions into the convolution: if the convolution is performed by a pair of FFTs, then the sum of <it>xn</it> is given by the DC (0th) output of the FFT of <it>aq</it> plus <it>x</it>0, and <it>x</it>0 can be added to all the outputs by adding it to the DC term of the convolution prior to the inverse FFT.  Still, this algorithm requires intrinsically more operations than FFTs of nearby composite sizes, and typically takes 3–10 times as long in practice.</p>
 <p>
 
-If Rader's algorithm is performed by using FFTs of size <it>N</it>&ndash;1 to compute the convolution, rather than by zero padding as mentioned above, the efficiency depends strongly upon <it>N</it> and the number of times that Rader's algorithm must be applied recursively.  The worst case would be if <it>N</it>&ndash;1 were 2<it>N</it>2 where <it>N</it>2 is prime, with <it>N</it>2&ndash;1 = 2<it>N</it>3 where <it>N</it>3 is prime, and so on.  In such cases, supposing that the chain of primes extended all the way down to some bounded value, the recursive application of Rader's algorithm would actually require O(<it>N</it>2) time.  Such <it>N</it>j are called <class wordnetid="107997703" confidence="0.8">
+If Rader's algorithm is performed by using FFTs of size <it>N</it>–1 to compute the convolution, rather than by zero padding as mentioned above, the efficiency depends strongly upon <it>N</it> and the number of times that Rader's algorithm must be applied recursively.  The worst case would be if <it>N</it>–1 were 2<it>N</it>2 where <it>N</it>2 is prime, with <it>N</it>2–1 = 2<it>N</it>3 where <it>N</it>3 is prime, and so on.  In such cases, supposing that the chain of primes extended all the way down to some bounded value, the recursive application of Rader's algorithm would actually require O(<it>N</it>2) time.  Such <it>N</it>j are called <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../244/89244.xml">
@@ -160,20 +160,20 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- C. M. Rader, "Discrete Fourier transforms when the number of data samples is prime," <it>Proc. IEEE</it> <b>56</b>, 1107&ndash;1108 (1968).</entry>
+ C. M. Rader, "Discrete Fourier transforms when the number of data samples is prime," <it>Proc. IEEE</it> <b>56</b>, 1107–1108 (1968).</entry>
 <entry level="1" type="bullet">
 
- S. Chu and C. Burrus, "A prime factor FTT [<it>sic</it>] algorithm using distributed arithmetic," <it> IEEE Transactions on Acoustics, Speech, and Signal Processing</it> <b>30</b> (2), 217&ndash;227 (1982).</entry>
+ S. Chu and C. Burrus, "A prime factor FTT [<it>sic</it>] algorithm using distributed arithmetic," <it> IEEE Transactions on Acoustics, Speech, and Signal Processing</it> <b>30</b> (2), 217–227 (1982).</entry>
 <entry level="1" type="bullet">
 
  Matteo Frigo and Steven G. Johnson, "<weblink xlink:type="simple" xlink:href="http://fftw.org/fftw-paper-ieee.pdf">
 The Design and Implementation of FFTW3</weblink>," <it>Proceedings of the IEEE</it> <b>93</b> (2), 216–231 (2005).</entry>
 <entry level="1" type="bullet">
 
- S. Winograd, "On Computing the Discrete Fourier Transform", <it>Proc. National Academy of Sciences USA</it>, <b>73</b>(4), 1005&ndash;1006 (1976).</entry>
+ S. Winograd, "On Computing the Discrete Fourier Transform", <it>Proc. National Academy of Sciences USA</it>, <b>73</b>(4), 1005–1006 (1976).</entry>
 <entry level="1" type="bullet">
 
- S. Winograd, "On Computing the Discrete Fourier Transform", <it>Mathematics of Computation</it>, <b>32</b>(141), 175&ndash;199 (1978).</entry>
+ S. Winograd, "On Computing the Discrete Fourier Transform", <it>Mathematics of Computation</it>, <b>32</b>(141), 175–199 (1978).</entry>
 <entry level="1" type="bullet">
 
  R. Tolimieri, M. An and C.Lu, "Algorithms for Discrete Fourier Transform and Convolution," Springer-Verlag, 2nd ed., 1997. </entry>

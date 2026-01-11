@@ -121,7 +121,7 @@ threshold voltage</link> and lowering the supply voltage. Both of these changes 
 Another method used to reduce static power consumption is the use of sleep transistors to disable entire blocks when not in use. By shutting down a leaky functional block until it is used, leakage current can be reduced significantly. For some embedded systems that only function for short periods at a time, this can dramatically reduce power consumption. Since systems that are dormant for long periods of time and "wake up" to perform a periodic activity are often in isolated locations monitoring some sort of activity, they are generally battery or solar powered and power consumption is a key design factor. </p>
 <p>
 
-Two other approaches exist to lowering the power cost of state changes. One is to reduce the operating voltage of the circuit, or to reduce the voltage change involved in a state change (making a state change only change node voltage by a fraction of the supply voltage &mdash; <link xlink:type="simple" xlink:href="../998/153998.xml">
+Two other approaches exist to lowering the power cost of state changes. One is to reduce the operating voltage of the circuit, or to reduce the voltage change involved in a state change (making a state change only change node voltage by a fraction of the supply voltage — <link xlink:type="simple" xlink:href="../998/153998.xml">
 Low voltage differential signaling</link>). This approach is limited by thermal noise within the circuit. There is a characteristic voltage proportional to the device temperature and to the <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <constant wordnetid="105858936" confidence="0.8">
@@ -131,7 +131,7 @@ Boltzmann constant</link></quantity>
 </constant>
 </concept>
 </idea>
-, which the state switching voltage must exceed in order for the circuit to be resistant to noise. This is typically on the order of 50&ndash;100 mV, for devices rated to 100 <unit_of_measurement wordnetid="113583724" confidence="0.8">
+, which the state switching voltage must exceed in order for the circuit to be resistant to noise. This is typically on the order of 50–100 mV, for devices rated to 100 <unit_of_measurement wordnetid="113583724" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
 <link xlink:type="simple" xlink:href="../040/19593040.xml">
 degrees Celsius</link></definite_quantity>

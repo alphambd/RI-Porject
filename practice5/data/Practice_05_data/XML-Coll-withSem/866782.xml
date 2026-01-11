@@ -196,21 +196,21 @@ Solaris</link></database>
 Technologies</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../455/6642455.xml">
-Doors</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Doors</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../136/1179136.xml">
 DTrace</link></software>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../745/3838745.xml">
 IPMP</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../343/3212343.xml">
-MPxIO</link>&nbsp;·  <link xlink:type="simple" xlink:href="../270/2107270.xml">
-SMF</link>&nbsp;·  <link xlink:type="simple" xlink:href="../088/6784088.xml">
-snoop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../334/5097334.xml">
-Solaris Containers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../035/14167035.xml">
-Crossbow</link>&nbsp;·  <link xlink:type="simple" xlink:href="../586/2471586.xml">
-Solaris Cluster</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../343/3212343.xml">
+MPxIO</link> ·  <link xlink:type="simple" xlink:href="../270/2107270.xml">
+SMF</link> ·  <link xlink:type="simple" xlink:href="../088/6784088.xml">
+snoop</link> ·  <link xlink:type="simple" xlink:href="../334/5097334.xml">
+Solaris Containers</link> ·  <link xlink:type="simple" xlink:href="../035/14167035.xml">
+Crossbow</link> ·  <link xlink:type="simple" xlink:href="../586/2471586.xml">
+Solaris Cluster</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -223,7 +223,7 @@ Trusted Solaris</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../693/1205693.xml">
@@ -243,14 +243,14 @@ OpenSolaris</link></col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../850/4202850.xml">
 BeleniX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../282/3065282.xml">
-Nexenta OS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../282/3065282.xml">
+Nexenta OS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../617/2121617.xml">
 SchilliX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/16350434.xml">
 MilaX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../993/13227993.xml">
+ ·  <link xlink:type="simple" xlink:href="../993/13227993.xml">
 OpenSolaris for System z</link></col>
 </row>
 </table>

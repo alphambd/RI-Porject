@@ -57,7 +57,7 @@ Marshall Coben</spouse>
 <name>
 Jane Leeves</name>
 <birthdate>
-April 18, 1961 (1961-04-18) (age&nbsp;47)</birthdate>
+April 18, 1961 (1961-04-18) (age 47)</birthdate>
 <imagesize>
 200px</imagesize>
 </parameters>
@@ -313,26 +313,26 @@ Kelsey Grammer</link></director>
 </actor>
 </artist>
 </manufacturer>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9173553029164789">
+ ·  <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../642/465642.xml">
 David Hyde Pierce</link></actor>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../133/581133.xml">
 John Mahoney</link></actor>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../303/585303.xml">
 Jane Leeves</link></actor>
 </person>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../807/481807.xml">
 Peri Gilpin</link></actor>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9173553029164789">
+ ·  <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../204/382204.xml">
 Dan Butler</link></actor>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9173553029164789">
+ ·  <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../165/922165.xml">
 Moose</link></actor>
 </col>
@@ -347,26 +347,26 @@ Characters (respective to cast)</col>
 <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../683/232683.xml">
 Frasier Crane</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
+ ·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../543/460543.xml">
 Niles Crane</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
+ ·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../221/581221.xml">
 Martin Crane</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
+ ·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../198/702198.xml">
 Daphne Moon</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
+ ·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../806/1298806.xml">
 Roz Doyle</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.8">
+ ·  <fictional_character wordnetid="109587565" confidence="0.8">
 <imaginary_being wordnetid="109483738" confidence="0.8">
 <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../941/6495941.xml">
 Bob 'Bulldog' Briscoe</link></personality>
 </imaginary_being>
 </fictional_character>
-&nbsp;·  <link>
+ ·  <link>
 Eddie</link></col>
 </row>
 <row style="height:2px">
@@ -379,12 +379,12 @@ Other characters</col>
 <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/731642.xml">
 Maris Crane</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.8">
+ ·  <fictional_character wordnetid="109587565" confidence="0.8">
 <imaginary_being wordnetid="109483738" confidence="0.8">
 <link xlink:type="simple" xlink:href="../647/515647.xml">
 Lilith Sternin</link></imaginary_being>
 </fictional_character>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <fictional_character wordnetid="109587565" confidence="0.8">
 <imaginary_being wordnetid="109483738" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -395,7 +395,7 @@ Bebe Glazer</link></agent>
 </imaginary_being>
 </fictional_character>
 </physical_entity>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../039/5698039.xml">
 Minor characters</link></actor>
 </col>
@@ -414,7 +414,7 @@ Settings</col>
 KACL</link></station>
 </facility>
 </artifact>
-&nbsp;·  <link>
+ ·  <link>
 Café Nervosa</link></col>
 </row>
 <row style="height:2px">
@@ -427,8 +427,8 @@ Creators</col>
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../436/8436.xml">
 David Angell</link></actor>
-&nbsp;·  <link xlink:type="simple" xlink:href="../129/16342129.xml">
-David Lee</link>&nbsp;·  <link xlink:type="simple" xlink:href="../050/16342050.xml">
+ ·  <link xlink:type="simple" xlink:href="../129/16342129.xml">
+David Lee</link> ·  <link xlink:type="simple" xlink:href="../050/16342050.xml">
 Peter Casey</link></col>
 </row>
 <row style="height:2px">
@@ -440,16 +440,16 @@ Peter Casey</link></col>
 Seasons</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../961/9211961.xml">
-1</link>&nbsp;·  <link xlink:type="simple" xlink:href="../537/9212537.xml">
-2</link>&nbsp;·  <link xlink:type="simple" xlink:href="../807/9212807.xml">
-3</link>&nbsp;·  <link xlink:type="simple" xlink:href="../205/9213205.xml">
-4</link>&nbsp;·  <link xlink:type="simple" xlink:href="../393/9213393.xml">
-5</link>&nbsp;·  <link xlink:type="simple" xlink:href="../591/9213591.xml">
-6</link>&nbsp;·  <link xlink:type="simple" xlink:href="../509/9308509.xml">
-7</link>&nbsp;·  <link xlink:type="simple" xlink:href="../400/12479400.xml">
-8</link>&nbsp;·  <link xlink:type="simple" xlink:href="../153/16992153.xml">
-9</link>&nbsp;·  <link xlink:type="simple" xlink:href="../681/10891681.xml">
-10</link>&nbsp;·  <link xlink:type="simple" xlink:href="../686/10891686.xml">
+1</link> ·  <link xlink:type="simple" xlink:href="../537/9212537.xml">
+2</link> ·  <link xlink:type="simple" xlink:href="../807/9212807.xml">
+3</link> ·  <link xlink:type="simple" xlink:href="../205/9213205.xml">
+4</link> ·  <link xlink:type="simple" xlink:href="../393/9213393.xml">
+5</link> ·  <link xlink:type="simple" xlink:href="../591/9213591.xml">
+6</link> ·  <link xlink:type="simple" xlink:href="../509/9308509.xml">
+7</link> ·  <link xlink:type="simple" xlink:href="../400/12479400.xml">
+8</link> ·  <link xlink:type="simple" xlink:href="../153/16992153.xml">
+9</link> ·  <link xlink:type="simple" xlink:href="../681/10891681.xml">
+10</link> ·  <link xlink:type="simple" xlink:href="../686/10891686.xml">
 11</link></col>
 </row>
 <row style="height:2px">
@@ -460,9 +460,9 @@ Seasons</link></col>
 See also</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <it><link xlink:type="simple" xlink:href="../907/5907.xml">
-Cheers</link></it>&nbsp;·  <link xlink:type="simple" xlink:href="../607/12267607.xml">
-Directors list</link>&nbsp;·  <link xlink:type="simple" xlink:href="../000/12271000.xml">
-Writers list</link>&nbsp;·  <link xlink:type="simple" xlink:href="../248/18490248.xml">
+Cheers</link></it> ·  <link xlink:type="simple" xlink:href="../607/12267607.xml">
+Directors list</link> ·  <link xlink:type="simple" xlink:href="../000/12271000.xml">
+Writers list</link> ·  <link xlink:type="simple" xlink:href="../248/18490248.xml">
 Awards and nominations list</link></col>
 </row>
 </table>

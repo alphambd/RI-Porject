@@ -163,7 +163,7 @@ complement</link> score, i.e. 80 percent result for N-S pair implies 20 percent 
 
 <indent level="1">
 
-<b>Note 2:</b> The above rule of 2-versus-1 matchpoint is actually easy to apply in practical calculation. If the board is played <it>n</it> times, the top result achieves <it>2*n-2</it> matchpoints, the next <it>2*n-4</it>, down to zero. When there are several identical results, they receive the average. However, complications occur when not every board is played equal number of times, or when an "adjusted" (director-awarded) score occurs. These cases can result in non-integer numbers of matchpoints &ndash; see <link xlink:type="simple" xlink:href="../622/17494622.xml">
+<b>Note 2:</b> The above rule of 2-versus-1 matchpoint is actually easy to apply in practical calculation. If the board is played <it>n</it> times, the top result achieves <it>2*n-2</it> matchpoints, the next <it>2*n-4</it>, down to zero. When there are several identical results, they receive the average. However, complications occur when not every board is played equal number of times, or when an "adjusted" (director-awarded) score occurs. These cases can result in non-integer numbers of matchpoints – see <link xlink:type="simple" xlink:href="../622/17494622.xml">
 Neuberg formula</link>.
 </indent>
 
@@ -448,7 +448,7 @@ Sacrifice</link>s are more frequent; e.g. going down 500 points doubled is a goo
 
  <link xlink:type="simple" xlink:href="../508/3417508.xml#xpointer(//*[./st=%22D%22])">
 Doubles</link> are more frequent, as they increase the score for the <link xlink:type="simple" xlink:href="../508/3417508.xml#xpointer(//*[./st=%22P%22])">
-penalty</link>. For example, "the magic 200" refers to the situation when a pair beats the vulnerable opponents one trick doubled &mdash; the obtained score of 200 will likely outscore all partial contracts played on other tables.</entry>
+penalty</link>. For example, "the magic 200" refers to the situation when a pair beats the vulnerable opponents one trick doubled — the obtained score of 200 will likely outscore all partial contracts played on other tables.</entry>
 <entry level="2" type="bullet">
 
  Playing in higher-scoring <link xlink:type="simple" xlink:href="../508/3417508.xml#xpointer(//*[./st=%22D%22])">
@@ -488,14 +488,14 @@ Contrast with rubber bridge</st>
 <p>
 
 Duplicate bridge, especially matchpoint games, differs significantly from <link xlink:type="simple" xlink:href="../098/994098.xml">
-rubber bridge</link>: whereas the goal in rubber bridge is to win more points than the pair of people you are playing against, in duplicate bridge the goal is to do better than other pairs playing the exact same cards. Because of this, strategies are different. In rubber (as in IMP scoring), 30 points above the line for an overtrick is unimportant and hardly worth risking a set. In match-points duplicate, it is common for those 30 points to mean you get a top score instead of average &ndash; and may be worth risking going down. In rubber, an occasional 800-point penalty is disastrous, but on matchpoints it is no worse than any other bottom score. International match points is in the middle of these extremes. Huge penalties are worse than small penalties, but 30 point differences are only moderately important.</p>
+rubber bridge</link>: whereas the goal in rubber bridge is to win more points than the pair of people you are playing against, in duplicate bridge the goal is to do better than other pairs playing the exact same cards. Because of this, strategies are different. In rubber (as in IMP scoring), 30 points above the line for an overtrick is unimportant and hardly worth risking a set. In match-points duplicate, it is common for those 30 points to mean you get a top score instead of average – and may be worth risking going down. In rubber, an occasional 800-point penalty is disastrous, but on matchpoints it is no worse than any other bottom score. International match points is in the middle of these extremes. Huge penalties are worse than small penalties, but 30 point differences are only moderately important.</p>
 <p>
 
 A more subtle difference is in the bidding of <link xlink:type="simple" xlink:href="../508/3417508.xml#xpointer(//*[./st=%22P%22])">
 partscore</link> hands. In duplicate bridge, once a pair recognizes that they are playing for part score (less than a game), their objective is to win the auction  with the minimum bid. In rubber bridge, it may occasionally be desirable to bid above this minimum as points below the line may be needed to complete a game.</p>
 <p>
 
-Duplicate bridge also has the advantage of compensating for a run of bad luck. A pair that has had poor hands all night may still have the highest score for the evening &ndash; as long as they play those cards better than the other pairs with the same poor cards (however in such cases the pair will probably have had less opportunity to exercise skill and their result will be more heavily dependent on the skill displayed by their opponents).</p>
+Duplicate bridge also has the advantage of compensating for a run of bad luck. A pair that has had poor hands all night may still have the highest score for the evening – as long as they play those cards better than the other pairs with the same poor cards (however in such cases the pair will probably have had less opportunity to exercise skill and their result will be more heavily dependent on the skill displayed by their opponents).</p>
 
 </ss2>
 </ss1>

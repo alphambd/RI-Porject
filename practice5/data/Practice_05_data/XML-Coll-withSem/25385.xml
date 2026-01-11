@@ -110,7 +110,7 @@ GCHQ</link></agency>
 <link xlink:type="simple" xlink:href="../879/18879.xml">
 MIT</link></university>
  was granted <weblink xlink:type="simple" xlink:href="http://v3.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US4405829">
-US&nbsp;patent&nbsp;4405829</weblink> for a "Cryptographic communications system and method" that used the algorithm in 1983. The patent would have expired in <link xlink:type="simple" xlink:href="../163/36163.xml">
+US patent 4405829</weblink> for a "Cryptographic communications system and method" that used the algorithm in 1983. The patent would have expired in <link xlink:type="simple" xlink:href="../163/36163.xml">
 2003</link>, but was released to the public domain by RSA on <link xlink:type="simple" xlink:href="../532/27532.xml">
 21 September</link> <link xlink:type="simple" xlink:href="../548/34548.xml">
 2000</link>. Since a paper describing the algorithm had been published in August 1977,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> prior to the December 1977 <link xlink:type="simple" xlink:href="../953/3800953.xml">
@@ -613,7 +613,7 @@ RSA Factoring Challenge</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;and <event wordnetid="100029378" confidence="0.8">
+ and <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -643,7 +643,7 @@ integer factorization</link> for a discussion of this problem.  </p>
 
 <link xlink:type="simple" xlink:href="../251/891251.xml">
 As of 2005</link>, the largest number factored by a general-purpose factoring algorithm was 663 bits long (see <link>
-RSA-200</link>), using a state-of-the-art distributed implementation.  RSA keys are typically 1024&ndash;2048 bits long. Some experts believe that 1024-bit keys may become breakable in the near term (though this is disputed); few see any way that 4096-bit keys could be broken in the foreseeable future.  Therefore, it is generally presumed that RSA is secure if <it>n</it> is sufficiently large.  If <it>n</it> is 256 <link xlink:type="simple" xlink:href="../364/3364.xml">
+RSA-200</link>), using a state-of-the-art distributed implementation.  RSA keys are typically 1024–2048 bits long. Some experts believe that 1024-bit keys may become breakable in the near term (though this is disputed); few see any way that 4096-bit keys could be broken in the foreseeable future.  Therefore, it is generally presumed that RSA is secure if <it>n</it> is sufficiently large.  If <it>n</it> is 256 <link xlink:type="simple" xlink:href="../364/3364.xml">
 bit</link>s or shorter, it can be factored in a few hours on a <link xlink:type="simple" xlink:href="../137/18457137.xml">
 personal computer</link>, using software already freely available. Keys of 512 bits (or less) have been shown to be practically breakable in <link xlink:type="simple" xlink:href="../553/34553.xml">
 1999</link> when <link>
@@ -698,7 +698,7 @@ Fermat factorization</link> for <it>n</it> be successful, if p-q, for instance i
 <activity wordnetid="100407535" confidence="0.8">
 <algorithm wordnetid="105847438" confidence="0.8">
 <link xlink:type="simple" xlink:href="../753/578753.xml">
-Pollard's p&nbsp;&amp;minus;&nbsp;1 algorithm</link></algorithm>
+Pollard's p &amp;minus; 1 algorithm</link></algorithm>
 </activity>
 </procedure>
 </psychological_feature>
@@ -901,7 +901,7 @@ Notes</st>
 SIAM News, Volume 36, Number 5, June 2003</weblink>, "Still Guarding Secrets after Years of Attacks, RSA Earns Accolades for its Founders", by Sara Robinson</entry>
 <entry id="2">
  <cite style="font-style:normal">Boneh, Dan&#32;(1999).&#32;"<weblink xlink:type="simple" xlink:href="http://crypto.stanford.edu/~dabo/abstracts/RSAattack-survey.html">
-Twenty Years of attacks on the RSA Cryptosystem</weblink>". <it>Notices of the American Mathematical Society (AMS)</it>&#32;<b>46</b>&#32;(2): pp. 203-213.</cite>&nbsp;</entry>
+Twenty Years of attacks on the RSA Cryptosystem</weblink>". <it>Notices of the American Mathematical Society (AMS)</it>&#32;<b>46</b>&#32;(2): pp. 203-213.</cite> </entry>
 <entry id="3">
 Johan Håstad, "On using RSA with Low Exponent in a Public Key Network", Crypto 85</entry>
 <entry id="4">
@@ -915,7 +915,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2F18.54902">
-10.1109/18.54902</weblink></cite>&nbsp;
+10.1109/18.54902</weblink></cite> 
 </entry>
 </reflist>
 </p>
@@ -929,11 +929,11 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Menezes-1996" style="font-style:normal" class="book">Menezes, Alfred;&#32;Paul C. van Oorschot; Scott A. Vanstone&#32;(October 1996). Handbook of Applied Cryptography.&#32;CRC Press. ISBN 0-8493-8523-7.</cite>&nbsp;</entry>
+  <cite id="Reference-Menezes-1996" style="font-style:normal" class="book">Menezes, Alfred;&#32;Paul C. van Oorschot; Scott A. Vanstone&#32;(October 1996). Handbook of Applied Cryptography.&#32;CRC Press. ISBN 0-8493-8523-7.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Rivest, R.; A. Shamir; L. Adleman&#32;(1978).&#32;"<weblink xlink:type="simple" xlink:href="http://theory.lcs.mit.edu/~rivest/rsapaper.pdf">
-A Method for Obtaining Digital Signatures and Public-Key Cryptosystems</weblink>". <it>Communications of the ACM</it>&#32;<b>21</b>&#32;(2): pp.120-126.</cite>&nbsp;</entry>
+A Method for Obtaining Digital Signatures and Public-Key Cryptosystems</weblink>". <it>Communications of the ACM</it>&#32;<b>21</b>&#32;(2): pp.120-126.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Cormen-2001" style="font-style:normal" class="book"><scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -959,7 +959,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-, 2e,&#32;MIT Press and McGraw-Hill,&#32;pp.881-887. ISBN 0-262-03293-7.</cite>&nbsp;</entry>
+, 2e,&#32;MIT Press and McGraw-Hill,&#32;pp.881-887. ISBN 0-262-03293-7.</cite> </entry>
 </list>
 </p>
 
@@ -1062,7 +1062,7 @@ Kocher's article about timing attacks</weblink></entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../222/24222.xml">
+ <link xlink:type="simple" xlink:href="../222/24222.xml">
 Public-key cryptography</link></header>
 </row>
 <row style="height:2px;">
@@ -1072,9 +1072,9 @@ Public-key cryptography</link></header>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Algorithms:</b> <link xlink:type="simple" xlink:href="../287/14050287.xml">
-CEILIDH</link>&nbsp;&#124; 
+CEILIDH</link> &#124; 
 <link xlink:type="simple" xlink:href="../406/1564406.xml">
-Cramer-Shoup</link>&nbsp;&#124; 
+Cramer-Shoup</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -1084,13 +1084,13 @@ DH</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../470/59470.xml">
-DSA</link>&nbsp;&#124; 
+DSA</link> &#124; 
 <link xlink:type="simple" xlink:href="../958/3357958.xml">
-ECDH</link>&nbsp;&#124; 
+ECDH</link> &#124; 
 <link xlink:type="simple" xlink:href="../525/450525.xml">
-ECDSA</link>&nbsp;&#124; 
+ECDSA</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -1100,31 +1100,31 @@ EKE</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../458/59458.xml">
-ElGamal encryption</link>&nbsp;&#124; 
+ElGamal encryption</link> &#124; 
 <link xlink:type="simple" xlink:href="../473/2033473.xml">
-ElGamal signature scheme</link>&nbsp;&#124; 
+ElGamal signature scheme</link> &#124; 
 <link xlink:type="simple" xlink:href="../608/598608.xml">
-GMR</link>&nbsp;&#124; 
+GMR</link> &#124; 
 <link xlink:type="simple" xlink:href="../076/3530076.xml">
-IES</link>&nbsp;&#124; 
+IES</link> &#124; 
 <link xlink:type="simple" xlink:href="../486/3200486.xml">
-Lamport</link>&nbsp;&#124; 
+Lamport</link> &#124; 
 <link xlink:type="simple" xlink:href="../447/1586447.xml">
-MQV</link>&nbsp;&#124; 
+MQV</link> &#124; 
 <link xlink:type="simple" xlink:href="../582/481582.xml">
-NTRUEncrypt</link>&nbsp;&#124; 
+NTRUEncrypt</link> &#124; 
 <link xlink:type="simple" xlink:href="../327/3513327.xml">
-NTRUSign</link>&nbsp;&#124; 
+NTRUSign</link> &#124; 
 <link xlink:type="simple" xlink:href="../685/480685.xml">
-Paillier</link>&nbsp;&#124; 
+Paillier</link> &#124; 
 <link xlink:type="simple" xlink:href="../283/451283.xml">
-Rabin</link>&nbsp;&#124; 
+Rabin</link> &#124; 
 <link xlink:type="simple" xlink:href="../385/25385.xml">
-RSA</link>&nbsp;&#124; 
+RSA</link> &#124; 
 <link xlink:type="simple" xlink:href="../536/450536.xml">
-Schnorr</link>&nbsp;&#124; 
+Schnorr</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -1134,7 +1134,7 @@ SPEKE</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -1148,7 +1148,7 @@ SRP</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -1162,7 +1162,7 @@ STS</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1184,7 +1184,7 @@ XTR</link></geographical_area>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Theory:</b> <link xlink:type="simple" xlink:href="../334/181334.xml">
-Discrete logarithm</link>&nbsp;&#124; 
+Discrete logarithm</link> &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1196,7 +1196,7 @@ Elliptic curve cryptography</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../741/1544741.xml">
 RSA problem</link></p>
 </col>
@@ -1208,25 +1208,25 @@ RSA problem</link></p>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Standardization:</b> <link>
-ANS X9F1</link>&nbsp;&#124; 
+ANS X9F1</link> &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../159/549159.xml">
 CRYPTREC</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../154/1644154.xml">
 IEEE P1363</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/497430.xml">
 NESSIE</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../099/1602099.xml">
 NSA Suite B</link></p>
 </col>
@@ -1244,13 +1244,13 @@ NSA Suite B</link></p>
 Digital signature</link></writing>
 </written_communication>
 </document>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../312/7943312.xml">
-Fingerprint</link>&nbsp;&#124; 
+Fingerprint</link> &#124; 
 <link xlink:type="simple" xlink:href="../112/194112.xml">
-PKI</link>&nbsp;&#124; 
+PKI</link> &#124; 
 <link xlink:type="simple" xlink:href="../356/296356.xml">
-Web of trust</link>&nbsp;&#124; 
+Web of trust</link> &#124; 
 <link xlink:type="simple" xlink:href="../749/5749.xml">
 Key size</link></p>
 </col>
@@ -1269,7 +1269,7 @@ Key size</link></p>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

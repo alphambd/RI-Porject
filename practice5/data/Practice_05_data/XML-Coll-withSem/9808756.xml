@@ -58,11 +58,11 @@ Policy</col>
 <link xlink:type="simple" xlink:href="../304/165304.xml">
 CFSP</link> <link xlink:type="simple" xlink:href="../130/1142130.xml">
 High Representative</link>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<link xlink:type="simple" xlink:href="../110/391110.xml">
+     <link xlink:type="simple" xlink:href="../110/391110.xml">
 Javier Solana</link>
 <link xlink:type="simple" xlink:href="../489/3577489.xml">
 ER Commissioner</link>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<person wordnetid="100007846" confidence="0.9508927676800064">
+     <person wordnetid="100007846" confidence="0.9508927676800064">
 <officeholder wordnetid="110371450" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../736/427736.xml">
 Benita Ferrero-Waldner</link></officeholder>
@@ -77,13 +77,13 @@ Candidates</link><p>
 <command wordnetid="107168131" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../190/4638190.xml">
 Croatia</link></command>
-&nbsp;·  <command wordnetid="107168131" confidence="0.9508927676800064">
+ ·  <command wordnetid="107168131" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/18720862.xml">
 FYR Macedonia</link></command>
-&nbsp;·  <command wordnetid="107168131" confidence="0.9508927676800064">
+ ·  <command wordnetid="107168131" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../036/1283036.xml">
 Turkey</link></command>
-&nbsp;·  <it><link>
+ ·  <it><link>
 Netherlands Antilles</link>''</it></p>
 </col>
 </row>
@@ -95,12 +95,12 @@ SAA states</link><p>
 <command wordnetid="107168131" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../048/10038048.xml">
 Albania</link></command>
-&nbsp;·  <link xlink:type="simple" xlink:href="../083/10038083.xml">
-Bosnia and Herzegovina</link>&nbsp;·  <link xlink:type="simple" xlink:href="../790/16896790.xml">
-Kosovo</link>&nbsp;·  <command wordnetid="107168131" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../083/10038083.xml">
+Bosnia and Herzegovina</link> ·  <link xlink:type="simple" xlink:href="../790/16896790.xml">
+Kosovo</link> ·  <command wordnetid="107168131" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../125/10038125.xml">
 Montenegro</link></command>
-&nbsp;·  <command wordnetid="107168131" confidence="0.9508927676800064">
+ ·  <command wordnetid="107168131" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../148/10038148.xml">
 Serbia</link></command>
 </p>
@@ -115,9 +115,9 @@ EFTA</link></administration>
 EEA</link><p>
 
 <link xlink:type="simple" xlink:href="../260/1078260.xml">
-Iceland</link>&nbsp;·  <link xlink:type="simple" xlink:href="../555/10011555.xml#xpointer(//*[./st=%22Liechtenstein%22])">
-Liechtenstein</link>&nbsp;·  <link xlink:type="simple" xlink:href="../602/3982602.xml">
-Norway</link>&nbsp;·  <link xlink:type="simple" xlink:href="../611/6018611.xml">
+Iceland</link> ·  <link xlink:type="simple" xlink:href="../555/10011555.xml#xpointer(//*[./st=%22Liechtenstein%22])">
+Liechtenstein</link> ·  <link xlink:type="simple" xlink:href="../602/3982602.xml">
+Norway</link> ·  <link xlink:type="simple" xlink:href="../611/6018611.xml">
 Switzerland</link></p>
 </col>
 </row>
@@ -127,10 +127,10 @@ Switzerland</link></p>
 Eastern Partnership</link><p>
 
 <link xlink:type="simple" xlink:href="../053/11949053.xml">
-Armenia</link>&nbsp;·  <link xlink:type="simple" xlink:href="../449/15721449.xml">
-Azerbaijan</link>&nbsp;·  <link xlink:type="simple" xlink:href="../475/10037475.xml">
-Georgia</link>&nbsp;·  <link xlink:type="simple" xlink:href="../558/3577558.xml">
-Moldova</link>&nbsp;·  <link xlink:type="simple" xlink:href="../265/5612265.xml">
+Armenia</link> ·  <link xlink:type="simple" xlink:href="../449/15721449.xml">
+Azerbaijan</link> ·  <link xlink:type="simple" xlink:href="../475/10037475.xml">
+Georgia</link> ·  <link xlink:type="simple" xlink:href="../558/3577558.xml">
+Moldova</link> ·  <link xlink:type="simple" xlink:href="../265/5612265.xml">
 Ukraine</link></p>
 </col>
 </row>
@@ -142,7 +142,7 @@ Mediterranean Union</link></union>
 <p>
 
 <link xlink:type="simple" xlink:href="../122/6783122.xml">
-Israel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../465/5716465.xml">
+Israel</link> ·  <link xlink:type="simple" xlink:href="../465/5716465.xml">
 Morocco</link></p>
 </col>
 </row>
@@ -172,13 +172,13 @@ Russia</link></written_agreement>
 </message>
 </relationship>
 </statement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../555/10011555.xml">
-Microstates</link>&nbsp;·  <link xlink:type="simple" xlink:href="../136/10037136.xml">
-Cape Verde</link>&nbsp;·  <link xlink:type="simple" xlink:href="../390/544390.xml">
-Territories</link>&nbsp;·  <link xlink:type="simple" xlink:href="../688/5588688.xml">
-Greenland</link>&nbsp;·  <link xlink:type="simple" xlink:href="../404/16279404.xml">
-Canada</link>&nbsp;·  <link xlink:type="simple" xlink:href="../720/2016720.xml">
-PR China</link>&nbsp;·  <relationship wordnetid="113780719" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../555/10011555.xml">
+Microstates</link> ·  <link xlink:type="simple" xlink:href="../136/10037136.xml">
+Cape Verde</link> ·  <link xlink:type="simple" xlink:href="../390/544390.xml">
+Territories</link> ·  <link xlink:type="simple" xlink:href="../688/5588688.xml">
+Greenland</link> ·  <link xlink:type="simple" xlink:href="../404/16279404.xml">
+Canada</link> ·  <link xlink:type="simple" xlink:href="../720/2016720.xml">
+PR China</link> ·  <relationship wordnetid="113780719" confidence="0.8">
 <link xlink:type="simple" xlink:href="../736/4075736.xml">
 USA</link></relationship>
 </p>
@@ -209,7 +209,7 @@ Neighbourhood Policy</link></written_agreement>
 </document>
 </message>
 </statement>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <alliance wordnetid="108293982" confidence="0.8">
 <document wordnetid="106470073" confidence="0.8">
@@ -232,11 +232,11 @@ ACP</link></written_agreement>
 </alliance>
 </message>
 </statement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../932/571932.xml">
-Economic Relations</link>&nbsp;·  <link xlink:type="simple" xlink:href="../472/11793472.xml">
-Diplomatic Missions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../631/1074631.xml">
-Security</link>&nbsp;·  <link xlink:type="simple" xlink:href="../234/2276234.xml">
-Military</link>&nbsp;·  <word wordnetid="106286395" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../932/571932.xml">
+Economic Relations</link> ·  <link xlink:type="simple" xlink:href="../472/11793472.xml">
+Diplomatic Missions</link> ·  <link xlink:type="simple" xlink:href="../631/1074631.xml">
+Security</link> ·  <link xlink:type="simple" xlink:href="../234/2276234.xml">
+Military</link> ·  <word wordnetid="106286395" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <neologism wordnetid="106294441" confidence="0.8">
 <language_unit wordnetid="106284225" confidence="0.8">
@@ -245,7 +245,7 @@ Eurosphere</link></language_unit>
 </neologism>
 </part>
 </word>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <plan_of_action wordnetid="105902545" confidence="0.8">
 <policy wordnetid="105901508" confidence="0.8">

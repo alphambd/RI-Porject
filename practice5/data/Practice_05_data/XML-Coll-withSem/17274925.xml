@@ -140,22 +140,22 @@ XML</link></format>
 The following example shows a timestamp encoded in Observations &amp; Measurements and semantically annotated with RDFa.  The semantic annotation of the timestamp describes an instance of time:Instant (time here is the namespace for an OWL-Time ontology).</p>
 <p>
 
-&nbsp;&nbsp;&nbsp;</p>
+   </p>
 <p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008-03-08T05:00:00</p>
+      2008-03-08T05:00:00</p>
 <p>
 
-&nbsp;&nbsp;&nbsp;</p>
+   </p>
 <p>
 
 The above example generates two RDF triples:</p>
 <p>
 
-&nbsp;&nbsp;&nbsp;1.  time_1 rdf:type time:Instant</p>
+   1.  time_1 rdf:type time:Instant</p>
 <p>
 
-&nbsp;&nbsp;&nbsp;2.  time_1 xs:date-time “2008-03-08T05:00:00”</p>
+   2.  time_1 xs:date-time “2008-03-08T05:00:00”</p>
 <p>
 
 The first RDF triple describes time_1 as an instance of time:Instant (subject is time_1, predicate is rdf:type, object is time:Instant).  The second describes a data-type property of time_1 specifying the time as a literal value (subject is time_1, predicate is xs:date-time, object is “2008-03-08T05:00:00”).  This example illustrates the simple mechanics of embedding semantics in an XML document using RDFa.  The semantic annotation of SWE languages enables software applications to “understand” and reason over sensor data consistently, coherently, and accurately.  </p>

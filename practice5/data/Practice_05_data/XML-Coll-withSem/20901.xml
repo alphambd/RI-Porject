@@ -478,13 +478,13 @@ Various factors make a system more vulnerable to malware:
 <list>
 <entry level="1" type="bullet">
 
-<b>Homogeneity</b> &ndash; e.g. when all computers in a network run the same OS, if you can hack that OS, you can break into any computer running it.</entry>
+<b>Homogeneity</b> – e.g. when all computers in a network run the same OS, if you can hack that OS, you can break into any computer running it.</entry>
 <entry level="1" type="bullet">
 
-<b>Defects</b> &ndash; most systems containing errors which may be exploited by malware.</entry>
+<b>Defects</b> – most systems containing errors which may be exploited by malware.</entry>
 <entry level="1" type="bullet">
 
-<b>Unconfirmed code</b> &ndash; code from a <link xlink:type="simple" xlink:href="../891/10891.xml">
+<b>Unconfirmed code</b> – code from a <link xlink:type="simple" xlink:href="../891/10891.xml">
 floppy disk</link>, <recording wordnetid="104063868" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -506,10 +506,10 @@ CD-ROM</link></medium>
 USB</link> device may be executed without the user’s agreement.</entry>
 <entry level="1" type="bullet">
 
-<b>Over-privileged users</b> &ndash; some systems allow all users to modify their internal structures.</entry>
+<b>Over-privileged users</b> – some systems allow all users to modify their internal structures.</entry>
 <entry level="1" type="bullet">
 
-<b>Over-privileged code</b> &ndash; most popular systems allow code executed by a user all rights of that user.</entry>
+<b>Over-privileged code</b> – most popular systems allow code executed by a user all rights of that user.</entry>
 </list>
 </p>
 <p>
@@ -921,7 +921,7 @@ The network clampdown</weblink>".&#32;  Computer Weekly.&#32;Retrieved on <link>
 <entry id="19">
 "<weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/2/hi/technology/6645895.stm">
 Google searches web's dark side</weblink>", BBC News&#32;(May 11, 2007).&#32;Retrieved on <link>
-2008-04-26</link>.&nbsp;</entry>
+2008-04-26</link>. </entry>
 <entry id="18">
 Zittrain, Jonathan (Mike Deehan, producer).&#32;(<link>
 2008-04-17</link>).&#32;<weblink xlink:type="simple" xlink:href="http://cyber.law.harvard.edu/interactive/events/2008/04/zittrain">
@@ -1015,10 +1015,10 @@ Main articles</col>
 Botnet</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../010/6010.xml">
-Computer worms</link>&nbsp;·  <link xlink:type="simple" xlink:href="../901/20901.xml">
-Malware</link>&nbsp;·  <link xlink:type="simple" xlink:href="../607/1569607.xml">
-Malbot</link>&nbsp;·  </col>
+ ·  <link xlink:type="simple" xlink:href="../010/6010.xml">
+Computer worms</link> ·  <link xlink:type="simple" xlink:href="../901/20901.xml">
+Malware</link> ·  <link xlink:type="simple" xlink:href="../607/1569607.xml">
+Malbot</link> ·  </col>
 </row>
 <row style="height:2px">
 
@@ -1034,14 +1034,14 @@ Notable botnets</col>
 Storm botnet</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../240/16810240.xml">
 Kraken botnet</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../772/18511772.xml">

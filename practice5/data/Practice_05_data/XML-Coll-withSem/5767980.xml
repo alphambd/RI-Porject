@@ -141,7 +141,7 @@ maximum likelihood estimator</link> based on those <math>\mathbf{X}_k \in A</mat
 </sec>
 <sec>
 <st>
- Continuous optimization&mdash;example</st>
+ Continuous optimization—example</st>
 <p>
 
 The same CE algorithm can be used for optimization, rather than estimation. 

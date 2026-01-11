@@ -235,7 +235,7 @@ Suppose that a farmer has a piece of farm land, say <it>A</it> square kilometres
 <col colspan="2">
 maximize <math> S_1 x_1 + S_2 x_2 \,</math></col>
 <col>
-(maximize the revenue &mdash; revenue is the "objective function")</col>
+(maximize the revenue — revenue is the "objective function")</col>
 </row>
 <row>
 <col>
@@ -357,7 +357,7 @@ where <math>x_3,x_4,x_5\,</math> are (non-negative) slack variables.</p>
 Which in matrix form becomes:
 <indent level="1">
 
- Maximize <it>Z</it> &nbsp;&nbsp;in:
+ Maximize <it>Z</it>   in:
 </indent>
 : <math>
   \begin{bmatrix}
@@ -1028,7 +1028,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapter 29: Linear Programming, pp.770&ndash;821.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapter 29: Linear Programming, pp.770–821.</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><link xlink:type="simple" xlink:href="../372/1709372.xml">
@@ -1051,7 +1051,7 @@ David S. Johnson</link></associate>
 </person>
 </peer>
 </physical_entity>
-&#32;(1979). .&#32;W.H. Freeman. ISBN 0-7167-1045-5.</cite>&nbsp; A6: MP1: INTEGER PROGRAMMING, pg.245.</entry>
+&#32;(1979). .&#32;W.H. Freeman. ISBN 0-7167-1045-5.</cite>  A6: MP1: INTEGER PROGRAMMING, pg.245.</entry>
 <entry level="1" type="bullet">
 
  Bernd Gärtner, Jiri Matousek (2006). <it>Understanding and Using Linear Programming</it>, Berlin: Springer. ISBN 3-540-30697-8</entry>
@@ -1065,7 +1065,7 @@ http://www.cse.iitb.ac.in/dbms/Data/Papers-Other/Algorithms/lp.ps.gz</weblink></
 http://citeseer.ist.psu.edu/291576.html</weblink></entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Michael J. Todd&#32;(February 2002).&#32;"The many facets of linear programming". <it>Mathematical Programming</it>&#32;<b>91</b>&#32;(3).</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Michael J. Todd&#32;(February 2002).&#32;"The many facets of linear programming". <it>Mathematical Programming</it>&#32;<b>91</b>&#32;(3).</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><link>
@@ -1083,7 +1083,7 @@ Mark Overmars</link></research_worker>
 </physical_entity>
 , and <link>
 Otfried Schwarzkopf</link>&#32;(2000). Computational Geometry, 2nd revised edition,&#32;<link xlink:type="simple" xlink:href="../949/1418949.xml">
-Springer-Verlag</link>. ISBN 3-540-65620-0.</cite>&nbsp; Chapter 4: Linear Programming: pp.63&ndash;94. Describes a randomized half-plane intersection algorithm for linear programming.</entry>
+Springer-Verlag</link>. ISBN 3-540-65620-0.</cite>  Chapter 4: Linear Programming: pp.63–94. Describes a randomized half-plane intersection algorithm for linear programming.</entry>
 <entry level="1" type="bullet">
 
  Jalaluddin Abdullah, <it>Optimization by the Fixed-Point Method, Version 1.97</it>. <weblink xlink:type="simple" xlink:href="http://www.optimization-online.org/DB_HTML/2007/09/1775.html">
@@ -1142,80 +1142,80 @@ Software</entry>
 
  <weblink xlink:type="simple" xlink:href="http://www.aimms.com/aimms/context/mathematical_programming/linear_programming.html">
 AIMMS Optimization Modeling</weblink> <link xlink:type="simple" xlink:href="../992/3709992.xml">
-AIMMS</link> &mdash; include <weblink xlink:type="simple" xlink:href="http://www.aimms.com/aimms/context/mathematical_programming/linear_programming.html">
+AIMMS</link> — include <weblink xlink:type="simple" xlink:href="http://www.aimms.com/aimms/context/mathematical_programming/linear_programming.html">
 linear programming</weblink> in industry solutions (free trial license available);</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://kohei.us/ooo/solver/">
-Calc Optimization Solver</weblink> &mdash; Kohei Yoshida’s spreadsheet add-in for OpenOffice.org Calc</entry>
+Calc Optimization Solver</weblink> — Kohei Yoshida’s spreadsheet add-in for OpenOffice.org Calc</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.cgal.org/Pkg/QPSolver">
-CGAL</weblink> &mdash; The Computational Geometry Algorithms Library includes a linear solver, which is exact and optimized for problems with few constraints or few variables</entry>
+CGAL</weblink> — The Computational Geometry Algorithms Library includes a linear solver, which is exact and optimized for problems with few constraints or few variables</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.coin-or.org/">
-COIN-OR</weblink> &mdash; COmputational INfrastructure for Operations Research, open-source library</entry>
+COIN-OR</weblink> — COmputational INfrastructure for Operations Research, open-source library</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.gams.com">
-GAMS</weblink> &mdash; General Algebraic Modeling System</entry>
+GAMS</weblink> — General Algebraic Modeling System</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.ilog.com/products/cplex">
-Cplex</weblink> &mdash; Commercial library for linear programming</entry>
+Cplex</weblink> — Commercial library for linear programming</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.gnu.org/software/glpk">
-GLPK</weblink> &mdash; GNU Linear Programming Kit; open source LP software </entry>
+GLPK</weblink> — GNU Linear Programming Kit; open source LP software </entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.vni.com/products/imsl/">
-IMSL Numerical Libraries</weblink> &mdash; Commercial libraries of math and statistical algorithms </entry>
+IMSL Numerical Libraries</weblink> — Commercial libraries of math and statistical algorithms </entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.maths.ed.ac.uk/~gondzio/software/hopdm.html">
-HOPDM</weblink> &mdash; Higher Order Primal Dual Method</entry>
+HOPDM</weblink> — Higher Order Primal Dual Method</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.lindo.com/">
-LINDO</weblink> &mdash; LP, IP, Global solver/modeling language</entry>
+LINDO</weblink> — LP, IP, Global solver/modeling language</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://sourceforge.net/projects/lpsolve">
-lp_solve</weblink> &mdash; open-source solver with C library</entry>
+lp_solve</weblink> — open-source solver with C library</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.mosek.com/">
-MOSEK</weblink> &mdash; Optimization software for LP,IP,QP,SOCP and MIP. Free trial is available. Free for students.</entry>
+MOSEK</weblink> — Optimization software for LP,IP,QP,SOCP and MIP. Free trial is available. Free for students.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.wolfram.com/">
-Mathematica</weblink> &mdash; General technical computing system includes large scale linear programming support</entry>
+Mathematica</weblink> — General technical computing system includes large scale linear programming support</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.ateji.com/">
-OptimJ</weblink> &mdash; Java-based algebraic modeling language; free evaluation version.</entry>
+OptimJ</weblink> — Java-based algebraic modeling language; free evaluation version.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.solver.com/">
-Premium Solver</weblink> &mdash; Spreadsheet add-in</entry>
+Premium Solver</weblink> — Spreadsheet add-in</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://WhatsOP.home.comcast.net/">
-WhatsOP</weblink> &mdash; LP modeling in 6 languages, made practical with easy "what-ifs" for students. Free Trial.</entry>
+WhatsOP</weblink> — LP modeling in 6 languages, made practical with easy "what-ifs" for students. Free Trial.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.sas.com/technologies/analytics/optimization/index.html">
-SAS</weblink> &mdash; Includes optimization modeling language and solvers for LP, MILP, QP, and NLP</entry>
+SAS</weblink> — Includes optimization modeling language and solvers for LP, MILP, QP, and NLP</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.lindo.com/">
-What's Best!</weblink> &mdash; Spreadsheet add-in</entry>
+What's Best!</weblink> — Spreadsheet add-in</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.dashoptimization.com/">
-Xpress-MP</weblink> &mdash; Optimization software free to students</entry>
+Xpress-MP</weblink> — Optimization software free to students</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.vanguardsw.com/products/planning-and-analysis/optimization/">
@@ -1244,7 +1244,7 @@ GLPK</link> with an introduction to Linear Programming by IBM</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://staff.feweb.vu.nl/tijms/">
-Orstat2000</weblink> &mdash; Includes easy-to-use modules for linear and integer programming (free for educational purposes).</entry>
+Orstat2000</weblink> — Includes easy-to-use modules for linear and integer programming (free for educational purposes).</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://trilinos.sandia.gov/">
@@ -1260,11 +1260,11 @@ SCIP</weblink> It can be used as a standalone program to solve mixed integer pro
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.optimalon.com/product_gipals32.htm">
-GIPALS32.DLL</weblink> &mdash; Linear programming callable library for Windows (free trial and academic license available).</entry>
+GIPALS32.DLL</weblink> — Linear programming callable library for Windows (free trial and academic license available).</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://abel.ee.ucla.edu/cvxopt">
-CVXOPT</weblink> &mdash; Python library that can be used for linear, second-order cone and semidefinite programming (open source, GPLv3)</entry>
+CVXOPT</weblink> — Python library that can be used for linear, second-order cone and semidefinite programming (open source, GPLv3)</entry>
 </list>
 </p>
 

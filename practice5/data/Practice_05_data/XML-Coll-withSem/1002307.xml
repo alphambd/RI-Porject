@@ -385,15 +385,15 @@ ISA</link> : <class wordnetid="107997703" confidence="0.8">
 CISC</link></group>
 </collection>
 </class>
- &nbsp;·  <class wordnetid="107997703" confidence="0.8">
+  ·  <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../622/7622.xml#xpointer(//*[./st=%22CISC_and_RISC_processors%22])">
 CISC-RISC (x86)</link></group>
 </collection>
 </class>
-&nbsp;·  <link xlink:type="simple" xlink:href="../151/685151.xml">
-EPIC</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../151/685151.xml">
+EPIC</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -406,17 +406,17 @@ OISC</link></causal_agent>
 </model>
 </person>
 </physical_entity>
-&nbsp;· <class wordnetid="107997703" confidence="0.8">
+ · <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../201/26201.xml">
 RISC</link></group>
 </collection>
 </class>
-&nbsp;·  <link xlink:type="simple" xlink:href="../706/51706.xml">
-VLIW</link>&nbsp;·  <link xlink:type="simple" xlink:href="../509/1940509.xml">
-ZISC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../019/58019.xml">
-Harvard architecture</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../706/51706.xml">
+VLIW</link> ·  <link xlink:type="simple" xlink:href="../509/1940509.xml">
+ZISC</link> ·  <link xlink:type="simple" xlink:href="../019/58019.xml">
+Harvard architecture</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -429,9 +429,9 @@ Von Neumann architecture</link></causal_agent>
 </model>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../733/80733.xml">
-32 bit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../285/148285.xml">
-64 bit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../724/1800724.xml">
+ ·  <link xlink:type="simple" xlink:href="../733/80733.xml">
+32 bit</link> ·  <link xlink:type="simple" xlink:href="../285/148285.xml">
+64 bit</link> ·  <link xlink:type="simple" xlink:href="../724/1800724.xml">
 128 bit</link></col>
 </row>
 <row style="height:2px">
@@ -448,8 +448,8 @@ Parallelism</link></col>
 Pipeline</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../314/220314.xml">
-Instruction pipelining</link>&nbsp;·  <link xlink:type="simple" xlink:href="../307/1002307.xml">
-In-Order &amp; Out-of-Order execution</link>&nbsp;·  <register wordnetid="106507041" confidence="0.8">
+Instruction pipelining</link> ·  <link xlink:type="simple" xlink:href="../307/1002307.xml">
+In-Order &amp; Out-of-Order execution</link> ·  <register wordnetid="106507041" confidence="0.8">
 <record wordnetid="106647206" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
@@ -460,7 +460,7 @@ Register renaming</link></written_record>
 </indication>
 </record>
 </register>
-&nbsp;·  <link xlink:type="simple" xlink:href="../504/319504.xml">
+ ·  <link xlink:type="simple" xlink:href="../504/319504.xml">
 Speculative execution</link></col>
 </row>
 <row style="height:2px">
@@ -471,10 +471,10 @@ Speculative execution</link></col>
 Level</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../148/14229148.xml">
-Bit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../960/245960.xml">
-Instruction</link>&nbsp;·  <link xlink:type="simple" xlink:href="../702/51702.xml">
-Superscalar</link>&nbsp;·  <link xlink:type="simple" xlink:href="../420/9467420.xml">
-Data</link>&nbsp;·  <link xlink:type="simple" xlink:href="../070/9468070.xml">
+Bit</link> ·  <link xlink:type="simple" xlink:href="../960/245960.xml">
+Instruction</link> ·  <link xlink:type="simple" xlink:href="../702/51702.xml">
+Superscalar</link> ·  <link xlink:type="simple" xlink:href="../420/9467420.xml">
+Data</link> ·  <link xlink:type="simple" xlink:href="../070/9468070.xml">
 Task</link></col>
 </row>
 <row style="height:2px">
@@ -485,9 +485,9 @@ Task</link></col>
 Threads</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../679/10520679.xml">
-Multithreading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../021/315021.xml">
-Simultaneous multithreading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../443/151443.xml">
-Hyperthreading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../877/313877.xml">
+Multithreading</link> ·  <link xlink:type="simple" xlink:href="../021/315021.xml">
+Simultaneous multithreading</link> ·  <link xlink:type="simple" xlink:href="../443/151443.xml">
+Hyperthreading</link> ·  <link xlink:type="simple" xlink:href="../877/313877.xml">
 Superthreading</link></col>
 </row>
 </table>
@@ -501,29 +501,29 @@ Superthreading</link></col>
 Types</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../505/154505.xml">
-Digital signal processor</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Digital signal processor</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../017/21017.xml">
 Microcontroller</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../205/58205.xml">
-Vector processor</link>&nbsp;·  PLDs: (<arrangement wordnetid="107938773" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../205/58205.xml">
+Vector processor</link> ·  PLDs: (<arrangement wordnetid="107938773" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <array wordnetid="107939382" confidence="0.8">
 <link xlink:type="simple" xlink:href="../969/10969.xml">
 FPGA</link></array>
 </group>
 </arrangement>
-&nbsp;·  <arrangement wordnetid="107938773" confidence="0.8">
+ ·  <arrangement wordnetid="107938773" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <array wordnetid="107939382" confidence="0.8">
 <link xlink:type="simple" xlink:href="../845/147845.xml">
 ASIC</link></array>
 </group>
 </arrangement>
-&nbsp;·  <arrangement wordnetid="107938773" confidence="0.8">
+ ·  <arrangement wordnetid="107938773" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <array wordnetid="107939382" confidence="0.8">
 <link xlink:type="simple" xlink:href="../209/12751209.xml">
@@ -550,9 +550,9 @@ Arithmetic logic unit (ALU)</link></circuit>
 </electrical_device>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../see/Linden=2C_T$ennessee.xml">
-Floating point unit (FPU)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../045/339045.xml">
-Backside Bus</link>&nbsp;·  <register wordnetid="106507041" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../see/Linden=2C_T$ennessee.xml">
+Floating point unit (FPU)</link> ·  <link xlink:type="simple" xlink:href="../045/339045.xml">
+Backside Bus</link> ·  <register wordnetid="106507041" confidence="0.8">
 <record wordnetid="106647206" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
@@ -563,9 +563,9 @@ Registers</link></written_record>
 </indication>
 </record>
 </register>
- &nbsp;·  <link xlink:type="simple" xlink:href="../112/177112.xml">
-Memory management unit (MMU)</link> &nbsp;·  <link xlink:type="simple" xlink:href="../352/528352.xml">
-Translation lookaside buffer (TLB)</link> &nbsp;·  <link xlink:type="simple" xlink:href="../181/849181.xml">
+  ·  <link xlink:type="simple" xlink:href="../112/177112.xml">
+Memory management unit (MMU)</link>  ·  <link xlink:type="simple" xlink:href="../352/528352.xml">
+Translation lookaside buffer (TLB)</link>  ·  <link xlink:type="simple" xlink:href="../181/849181.xml">
 Cache</link></col>
 </row>
 <row style="height:2px">
@@ -583,9 +583,9 @@ Flynn's taxonomy</link></group>
 </collection>
 </class>
  (<link xlink:type="simple" xlink:href="../630/1103630.xml">
-SISD</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../359/55359.xml">
-SIMD</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../666/991666.xml">
-MISD</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../139/157139.xml">
+SISD</link> &amp;bull;  <link xlink:type="simple" xlink:href="../359/55359.xml">
+SIMD</link> &amp;bull;  <link xlink:type="simple" xlink:href="../666/991666.xml">
+MISD</link> &amp;bull;  <link xlink:type="simple" xlink:href="../139/157139.xml">
 MIMD</link>)</col>
 </row>
 <row style="height:2px">
@@ -607,11 +607,11 @@ Power management</link></machine>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../130/3130.xml">
-APM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../697/2432697.xml">
+APM</link> ·  <link xlink:type="simple" xlink:href="../697/2432697.xml">
 ACPI</link> <link xlink:type="simple" xlink:href="../697/2432697.xml#xpointer(//*[./st=%22States%22])">
-(states)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../512/13891512.xml">
-Dynamic frequency scaling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../711/13933711.xml">
-Dynamic voltage scaling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../754/2817754.xml">
+(states)</link> ·  <link xlink:type="simple" xlink:href="../512/13891512.xml">
+Dynamic frequency scaling</link> ·  <link xlink:type="simple" xlink:href="../711/13933711.xml">
+Dynamic voltage scaling</link> ·  <link xlink:type="simple" xlink:href="../754/2817754.xml">
 Clock gating</link></col>
 </row>
 </table>

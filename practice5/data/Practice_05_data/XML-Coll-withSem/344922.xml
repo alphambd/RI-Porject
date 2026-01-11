@@ -30,9 +30,9 @@
 <bdy>
 
 <b>NeuroEvolution of Augmenting Topologies</b> (<b>NEAT</b>) is a <link xlink:type="simple" xlink:href="../706/440706.xml">
-neuroevolution</link> technique&mdash;a <link xlink:type="simple" xlink:href="../254/40254.xml">
+neuroevolution</link> technique—a <link xlink:type="simple" xlink:href="../254/40254.xml">
 genetic algorithm</link> for evolving <link xlink:type="simple" xlink:href="../523/21523.xml">
-artificial neural networks</link>&mdash;developed by Ken Stanley while at <link xlink:type="simple" xlink:href="../031/32031.xml">
+artificial neural networks</link>—developed by Ken Stanley while at <link xlink:type="simple" xlink:href="../031/32031.xml">
 The University of Texas at Austin</link>. It notably evolves both network weights and structure, attempting to balance between the fitness and diversity of evolved solutions. It is based on three key ideas: tracking genes with historical markings to allow crossover between different topologies, protecting innovation via speciation, and building topology incrementally from an initial, minimal structure ("complexifying"). 
 <sec>
 <st>
@@ -136,7 +136,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1162%2F106365602320169811">
-10.1162/106365602320169811</weblink>.</cite>&nbsp;</entry>
+10.1162/106365602320169811</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -145,7 +145,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Kenneth O. Stanley and Risto Miikkulainen&#32;(2002).&#32;"<weblink xlink:type="simple" xlink:href="http://nn.cs.utexas.edu/downloads/papers/stanley.gecco02_1.pdf">
-Efficient Reinforcement Learning Through Evolving Neural Network Topologies</weblink>". <it>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO-2002)</it>.</cite>&nbsp;</entry>
+Efficient Reinforcement Learning Through Evolving Neural Network Topologies</weblink>". <it>Proceedings of the Genetic and Evolutionary Computation Conference (GECCO-2002)</it>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -154,7 +154,7 @@ Efficient Reinforcement Learning Through Evolving Neural Network Topologies</web
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Kenneth O. Stanley, Bobby D. Bryant, and Risto Miikkulainen&#32;(2003).&#32;"<weblink xlink:type="simple" xlink:href="http://nn.cs.utexas.edu/downloads/papers/stanley.cec03.pdf">
-Evolving Adaptive Neural Networks with and without Adaptive Synapses</weblink>". <it>Proceedings of the 2003 IEEE Congress on Evolutionary Computation (CEC-2003)</it>.</cite>&nbsp;</entry>
+Evolving Adaptive Neural Networks with and without Adaptive Synapses</weblink>". <it>Proceedings of the 2003 IEEE Congress on Evolutionary Computation (CEC-2003)</it>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -163,7 +163,7 @@ Evolving Adaptive Neural Networks with and without Adaptive Synapses</weblink>".
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Colin Green&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://sharpneat.sourceforge.net/phasedsearch.html">
-Phased Searching with NEAT: Alternating Between Complexification And Simplification</weblink>".</cite>&nbsp;</entry>
+Phased Searching with NEAT: Alternating Between Complexification And Simplification</weblink>".</cite> </entry>
 </list>
 </p>
 <p>
@@ -172,7 +172,7 @@ Phased Searching with NEAT: Alternating Between Complexification And Simplificat
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Kenneth O. Stanley, Ryan Cornelius, Risto Miikkulainen, Thomas D’Silva, and Aliza Gold&#32;(2005).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.utexas.edu/users/nn/downloads/papers/stanley.aiide05demo.pdf">
-Real-Time Learning in the NERO Video Game</weblink>". <it>Proceedings of the Artificial Intelligence and Interactive Digital Entertainment Conference (AIIDE 2005) Demo Papers</it>.</cite>&nbsp;</entry>
+Real-Time Learning in the NERO Video Game</weblink>". <it>Proceedings of the Artificial Intelligence and Interactive Digital Entertainment Conference (AIIDE 2005) Demo Papers</it>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -181,7 +181,7 @@ Real-Time Learning in the NERO Video Game</weblink>". <it>Proceedings of the Art
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Matthew E. Taylor, Shimon Whiteson, and Peter Stone&#32;(2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.utexas.edu/~shimon/pubs/taylorgecco06.pdf">
-Comparing Evolutionary and Temporal Difference Methods in a Reinforcement Learning Domain</weblink>". <it>GECCO 2006: Proceedings of the Genetic and Evolutionary Computation Conference</it>.</cite>&nbsp;</entry>
+Comparing Evolutionary and Temporal Difference Methods in a Reinforcement Learning Domain</weblink>". <it>GECCO 2006: Proceedings of the Genetic and Evolutionary Computation Conference</it>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -190,7 +190,7 @@ Comparing Evolutionary and Temporal Difference Methods in a Reinforcement Learni
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Shimon Whiteson and Daniel Whiteson&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.utexas.edu/~shimon/pubs/whitesoniaai07.pdf">
-Stochastic Optimization for Collision Selection in High Energy Physics</weblink>". <it>IAAI 2007: Proceedings of the Nineteenth Annual Innovative Applications of Artificial Intelligence Conference</it>.</cite>&nbsp;</entry>
+Stochastic Optimization for Collision Selection in High Energy Physics</weblink>". <it>IAAI 2007: Proceedings of the Nineteenth Annual Innovative Applications of Artificial Intelligence Conference</it>.</cite> </entry>
 </list>
 </p>
 

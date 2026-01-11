@@ -108,14 +108,14 @@ The Challenge of BPM Adoption</weblink>".&#32;  eBizQ.</entry>
 <entry id="2">
  <cite style="font-style:normal" class="book">Khawar Zaman Ahmed and Cary E. Umrysh&#32;(<link>
 2001-10-17</link>).&#32;"Introduction to Enterprise Software", <weblink xlink:type="simple" xlink:href="http://www.awprofessional.com/articles/article.aspx?p=24260&amp;seqNum=3">
-Developing Enterprise Java Applications with J2EE and UML</weblink>.&#32;Addison-Wesley. ISBN 0-201-73829-5.</cite>&nbsp;</entry>
+Developing Enterprise Java Applications with J2EE and UML</weblink>.&#32;Addison-Wesley. ISBN 0-201-73829-5.</cite> </entry>
 <entry id="3">
 Chad Z. Hower.&#32;"<weblink xlink:type="simple" xlink:href="http://www.codeproject.com/gen/design/DudeWheresMyBusinessLogic.asp#_topicpageref_WhatisBusinessLogic">
 Dude, where's my business logic?</weblink>".&#32;<it>The Code Project</it>.</entry>
 <entry id="4">
 James Owen&#32;(<link>
 2003-09-19</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://www.javaworld.com/javaworld/jw-09-2003/jw-0919-iw-jrules.html">
-Bring business logic to light: JRules 4.5 tames business rules with friendly tools</weblink>", JavaWorld.&nbsp;</entry>
+Bring business logic to light: JRules 4.5 tames business rules with friendly tools</weblink>", JavaWorld. </entry>
 </reflist>
 
 </p>
@@ -129,12 +129,12 @@ Bring business logic to light: JRules 4.5 tames business rules with friendly too
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Brett McLaughlin&#32;(March 2002).&#32;"Business Logic, Part 1", <weblink xlink:type="simple" xlink:href="http://www.onjava.com/pub/a/onjava/excerpt/bldgjavaent_8/index1.html">
-Building Java Enterprise Applications, Vol I: Architecture</weblink>.&#32;O'Reilly and Associates. ISBN 0-596-00123-1.</cite>&nbsp; — McLaughlin discusses the <link>
+Building Java Enterprise Applications, Vol I: Architecture</weblink>.&#32;O'Reilly and Associates. ISBN 0-596-00123-1.</cite>  — McLaughlin discusses the <link>
 façade pattern</link> for implementing the business layer of an application.</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Kathy Bohrer&#32;(November 1997).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=284112.284140">
-Middleware isolates business logic</weblink>". <it>Object Magazine</it>&#32;<b>7</b>&#32;(9): 41&ndash;46;.&#32;New York, USA:&#32;SIGS Publications, Inc.. <symbol wordnetid="106806469" confidence="0.8">
+Middleware isolates business logic</weblink>". <it>Object Magazine</it>&#32;<b>7</b>&#32;(9): 41–46;.&#32;New York, USA:&#32;SIGS Publications, Inc.. <symbol wordnetid="106806469" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <identifier wordnetid="107270601" confidence="0.8">
@@ -146,10 +146,10 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/1055-3614">
-1055-3614</weblink>.</cite>&nbsp;</entry>
+1055-3614</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Harumi Kuno, Mike Lemon, Alan Karp, and Dorothea Beringer&#32;(2001). "Conversations + Interfaces = Business Logic".&#32;F. Casati, D. Georgakopoulos, and M.-C. Shan&#32;<it>Technologies for E-Services: Second International Workshop, TES 2001, Rome, Italy, September 14&ndash;15, 2001, Proceedings</it>&#32;<b>2193</b>, Springer Berlin / Heidelberg. <symbol wordnetid="106806469" confidence="0.8">
+  <cite style="font-style:normal">Harumi Kuno, Mike Lemon, Alan Karp, and Dorothea Beringer&#32;(2001). "Conversations + Interfaces = Business Logic".&#32;F. Casati, D. Georgakopoulos, and M.-C. Shan&#32;<it>Technologies for E-Services: Second International Workshop, TES 2001, Rome, Italy, September 14–15, 2001, Proceedings</it>&#32;<b>2193</b>, Springer Berlin / Heidelberg. <symbol wordnetid="106806469" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <identifier wordnetid="107270601" confidence="0.8">
@@ -161,11 +161,11 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0302-9743">
-0302-9743</weblink>.</cite>&nbsp;</entry>
+0302-9743</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Volker Turau&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=509011">
-A framework for automatic generation of web-based data entry applications based on XML</weblink>".&#32;<it>Proceedings of the 2002 ACM symposium on Applied computing, Madrid, Spain: Web and e-business application</it>: 1121&ndash;1126, ACM Press. ISBN 1-58113-445-2.</cite>&nbsp; &mdash; Turau presents an application framework implemented using <message wordnetid="106598915" confidence="0.8">
+A framework for automatic generation of web-based data entry applications based on XML</weblink>".&#32;<it>Proceedings of the 2002 ACM symposium on Applied computing, Madrid, Spain: Web and e-business application</it>: 1121–1126, ACM Press. ISBN 1-58113-445-2.</cite>  — Turau presents an application framework implemented using <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../826/43826.xml">
 Java Servlet</link></request>
@@ -195,7 +195,7 @@ JavaServer Pages</link></machine>
 Network-based business process management: embedding business logic in communications networks</weblink></it>". &#32;<university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../097/1568097.xml">
 Erasmus University</link></university>
-. &mdash; Pau and Vervest develop an approach for the embedding of business logic into the communications network that underlies a distributed application with a multiplicity of <link xlink:type="simple" xlink:href="../868/1637868.xml">
+. — Pau and Vervest develop an approach for the embedding of business logic into the communications network that underlies a distributed application with a multiplicity of <link xlink:type="simple" xlink:href="../868/1637868.xml">
 actor</link>s, in order to optimise the allocation of business resources from a network point of view.</entry>
 </list>
 </p>

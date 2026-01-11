@@ -114,7 +114,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/ma.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/ma.html">
 MA</weblink>)</company_type>
 <operating_income>
 ▲ <link xlink:type="simple" xlink:href="../338/18717338.xml">
@@ -200,7 +200,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/ma.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/ma.html">
 MA</weblink>) is a multinational corporation based in <link xlink:type="simple" xlink:href="../848/340848.xml">
 Purchase</link>, <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
@@ -1370,7 +1370,7 @@ Jay Loomis&#32;(<link>
 MasterCard changing name</weblink>", <newspaper wordnetid="106267145" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../448/3326448.xml">
 The Journal News</link></newspaper>
-.&nbsp;</entry>
+. </entry>
 <entry id="2">
 <weblink xlink:type="simple" xlink:href="http://www.hagens-berman.com/visa_mastercard_lawsuit">
 Visa/MasterCard Litigation</weblink>, January 1st 1996</entry>
@@ -1498,21 +1498,21 @@ Major credit cards</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../920/246920.xml">
 Visa</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../791/378791.xml">
 MasterCard</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../512/326512.xml">
 American Express</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../672/567672.xml">
 Diners Club</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../353/930353.xml">
 JCB</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../559/476559.xml">
 Discover</link></company>
 </col>
@@ -1535,19 +1535,19 @@ Centurion Card</link></col>
 Defunct credit cards</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../643/2601643.xml">
-Access</link>&nbsp;·  <link xlink:type="simple" xlink:href="../327/1004327.xml">
-Bankcard</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+Access</link> ·  <link xlink:type="simple" xlink:href="../327/1004327.xml">
+Bankcard</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../672/567672.xml">
 Carte Blanche</link></company>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../727/8231727.xml">
 Choice</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../716/909716.xml">
-enRoute</link>&nbsp;·  <link xlink:type="simple" xlink:href="../853/19011853.xml">
+ ·  <link xlink:type="simple" xlink:href="../716/909716.xml">
+enRoute</link> ·  <link xlink:type="simple" xlink:href="../853/19011853.xml">
 Everything</link></col>
 </row>
 <row style="height:2px">
@@ -1560,12 +1560,12 @@ Major debit cards</col>
 <link xlink:type="simple" xlink:href="../379/1181379.xml">
 Maestro</link> (<link xlink:type="simple" xlink:href="../828/13556828.xml">
 Eurocard</link>, <link xlink:type="simple" xlink:href="../146/859146.xml">
-Switch</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../204/3820204.xml">
-Dankort</link>&nbsp;·  <link xlink:type="simple" xlink:href="../272/3440272.xml">
-China UnionPay</link>&nbsp;·  <link xlink:type="simple" xlink:href="../505/2350505.xml">
-Carte Bleue</link>&nbsp;·  <link xlink:type="simple" xlink:href="../050/1647050.xml">
-Visa Debit</link> (Delta, Connect)&nbsp;·  <link xlink:type="simple" xlink:href="../791/1455791.xml">
-Visa Electron</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Switch</link>) ·  <link xlink:type="simple" xlink:href="../204/3820204.xml">
+Dankort</link> ·  <link xlink:type="simple" xlink:href="../272/3440272.xml">
+China UnionPay</link> ·  <link xlink:type="simple" xlink:href="../505/2350505.xml">
+Carte Bleue</link> ·  <link xlink:type="simple" xlink:href="../050/1647050.xml">
+Visa Debit</link> (Delta, Connect) ·  <link xlink:type="simple" xlink:href="../791/1455791.xml">
+Visa Electron</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">

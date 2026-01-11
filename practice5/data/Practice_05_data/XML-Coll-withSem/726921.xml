@@ -43,7 +43,7 @@ Web</link></invention>
 SOAP</link>, <link xlink:type="simple" xlink:href="../888/973888.xml">
 SAML</link>, and others.<p>
 
-XML signatures can be used to sign data&ndash;a <b>resource</b>&ndash;of any <link xlink:type="simple" xlink:href="../045/19045.xml#xpointer(//*[./st=%22Content-type%22])">
+XML signatures can be used to sign data–a <b>resource</b>–of any <link xlink:type="simple" xlink:href="../045/19045.xml#xpointer(//*[./st=%22Content-type%22])">
 type</link>, typically XML documents,  but anything that is accessible via a <link xlink:type="simple" xlink:href="../277/32277.xml">
 URL</link> can be signed. An XML signature used to sign a resource outside its containing XML document is called a <b>detached</b> signature; if it is used to sign some part of its containing document, it is called an <b>enveloped</b> signature; if it contains the signed data within itself it is called an <b>enveloping</b> signature.</p>
 
@@ -319,50 +319,50 @@ s</col>
 <link xlink:type="simple" xlink:href="../568/10025568.xml">
 Canonical XML</link></system_of_measurement>
 </standard>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../301/13873301.xml">
 CDF</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../013/164013.xml">
 CSS</link></format>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../743/8743.xml">
 DOM</link></system_of_measurement>
 </standard>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../191/13191.xml">
 HTML</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../313/52313.xml">
 MathML</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../001/248001.xml">
-OWL</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../001/248001.xml">
+OWL</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../375/10641375.xml">
 PLS</link></system_of_measurement>
 </standard>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../847/53847.xml">
 RDF</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../223/1984223.xml">
-RDF Schema</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../223/1984223.xml">
+RDF Schema</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../372/7582372.xml">
 SISR</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../704/28704.xml">
-SMIL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../215/29215.xml">
-SOAP</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../704/28704.xml">
+SMIL</link> ·  <link xlink:type="simple" xlink:href="../215/29215.xml">
+SOAP</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../488/2144488.xml">
 SRGS</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../845/2145845.xml">
-SSML</link>&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../845/2145845.xml">
+SSML</link> ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../751/27751.xml">
 SVG</link></format>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -379,76 +379,76 @@ SPARQL</link></activity>
 </event>
 </standard>
 </work>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../187/5140187.xml">
 Timed Text</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../206/177206.xml">
 VoiceXML</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../790/4030790.xml">
-WSDL</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../790/4030790.xml">
+WSDL</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <language wordnetid="106282651" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../362/424362.xml">
 XForms</link></system_of_measurement>
 </language>
 </standard>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../580/18984580.xml">
 XHTML</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../138/34138.xml">
 XML</link></format>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../328/3457328.xml">
 XML Base</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../945/6156945.xml">
 XML Events</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../793/2539793.xml">
 XML Information Set</link></system_of_measurement>
 </standard>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../449/185449.xml">
 XML Schema (W3C)</link></format>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../921/726921.xml">
 XML Signature</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../670/19086670.xml">
 XPath</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../011/85011.xml">
 XPointer</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../466/309466.xml">
 XQuery</link></system_of_measurement>
 </standard>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../211/34211.xml">
 XSL Transformations</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../295/606295.xml">
 XSL-FO</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../159/34159.xml">
-XSL</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../159/34159.xml">
+XSL</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../350/656350.xml">
 XLink</link></system_of_measurement>
@@ -467,7 +467,7 @@ Notes</col>
 <link xlink:type="simple" xlink:href="../878/6940878.xml">
 XHTML+SMIL</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../122/10376122.xml">
 XAdES</link></system_of_measurement>
@@ -482,39 +482,39 @@ XAdES</link></system_of_measurement>
 Working Drafts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../143/1186143.xml">
-CCXML</link>&nbsp;·  <link xlink:type="simple" xlink:href="../729/9921729.xml">
-CURIE</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+CCXML</link> ·  <link xlink:type="simple" xlink:href="../729/9921729.xml">
+CURIE</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../177/754177.xml">
 InkML</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../514/1837514.xml">
 XFrames</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../824/8518824.xml">
-XFDL</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../824/8518824.xml">
+XFDL</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../479/13549479.xml">
 WICD</link></system_of_measurement>
 </standard>
- &nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+  ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../657/13289657.xml">
 XHTML+MathML+SVG</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <language wordnetid="106282651" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/793475.xml">
 XBL</link></system_of_measurement>
 </language>
 </standard>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../603/13015603.xml">
 XProc</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../125/7966125.xml">
 HTML 5</link></format>
 </col>

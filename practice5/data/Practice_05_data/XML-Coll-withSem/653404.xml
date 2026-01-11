@@ -206,8 +206,8 @@ DFAs are equivalent in computing power to <link xlink:type="simple" xlink:href="
 nondeterministic finite automata</link>.</p>
 <p>
 
-On the other hand, Finite State Automata are of strictly limited power in the languages they can recognize &mdash; many simple languages, including any problem that requires more than constant space to solve, cannot be recognized by a DFA. The classical example of a simply described language that no DFA can recognize is 
-bracket language, that is, language that consists of properly paired brackets, such as (()()). More formally the language consisting of strings of the form anbn &mdash; some finite number of a's, followed by an equal number of b's. If there is no limit to <link xlink:type="simple" xlink:href="../407/25407.xml">
+On the other hand, Finite State Automata are of strictly limited power in the languages they can recognize — many simple languages, including any problem that requires more than constant space to solve, cannot be recognized by a DFA. The classical example of a simply described language that no DFA can recognize is 
+bracket language, that is, language that consists of properly paired brackets, such as (()()). More formally the language consisting of strings of the form anbn — some finite number of a's, followed by an equal number of b's. If there is no limit to <link xlink:type="simple" xlink:href="../407/25407.xml">
 recursion</link> (i.e., you can always embed another pair of brackets inside) it would require an infinite amount of states to recognize.</p>
 
 </sec>
@@ -279,7 +279,7 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- Michael Sipser, <it>Introduction to the Theory of Computation</it>. PWS, Boston. 1997. ISBN 0-534-94728-X. Section 1.1: Finite Automata, pp.31&ndash;47. Subsection "Decidable Problems Concerning Regular Languages" of section 4.1: Decidable Languages, pp.152&ndash;155.4.4 DFA can accept only regular language</entry>
+ Michael Sipser, <it>Introduction to the Theory of Computation</it>. PWS, Boston. 1997. ISBN 0-534-94728-X. Section 1.1: Finite Automata, pp.31–47. Subsection "Decidable Problems Concerning Regular Languages" of section 4.1: Decidable Languages, pp.152–155.4.4 DFA can accept only regular language</entry>
 </list>
 </p>
 

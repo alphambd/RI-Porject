@@ -701,7 +701,7 @@ Sharleen Spiteri</link></entertainer>
 </performer>
 </person>
 </physical_entity>
-</b>&nbsp;·  <b><physical_entity wordnetid="100001930" confidence="0.8">
+</b> ·  <b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <performer wordnetid="110415638" confidence="0.8">
 <musician wordnetid="110340312" confidence="0.8">
@@ -714,8 +714,8 @@ Tony McGovern</link></entertainer>
 </performer>
 </person>
 </physical_entity>
-</b>&nbsp;·  <b><link>
-Ally McErlaine</link></b>&nbsp;·  <b><physical_entity wordnetid="100001930" confidence="0.8">
+</b> ·  <b><link>
+Ally McErlaine</link></b> ·  <b><physical_entity wordnetid="100001930" confidence="0.8">
 <songwriter wordnetid="110624540" confidence="0.8">
 <composer wordnetid="109947232" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -740,16 +740,16 @@ Johnny McElhone</link></creator>
 </composer>
 </songwriter>
 </physical_entity>
-</b>&nbsp;·  <b><link>
-Eddie Campbell</link></b>&nbsp;·  <b><link>
-Michael Bannister</link></b>&nbsp;·  <b><link>
+</b> ·  <b><link>
+Eddie Campbell</link></b> ·  <b><link>
+Michael Bannister</link></b> ·  <b><link>
 Neil Payne</link></b><link>
-Richard Hynd</link>&nbsp;·  <link>
-Stuart Kerr</link>&nbsp;·  <link>
-Steve Washington</link>&nbsp;·  <link>
-Mikey Wilson</link>&nbsp;·  <link xlink:type="simple" xlink:href="../482/18698482.xml">
-Mark One</link>&nbsp;·  <link>
-Charlotte Hodson</link>&nbsp;·  <link>
+Richard Hynd</link> ·  <link>
+Stuart Kerr</link> ·  <link>
+Steve Washington</link> ·  <link>
+Mikey Wilson</link> ·  <link xlink:type="simple" xlink:href="../482/18698482.xml">
+Mark One</link> ·  <link>
+Charlotte Hodson</link> ·  <link>
 Nicole Patterson</link></col>
 </row>
 <row style="height:2px;">
@@ -762,22 +762,22 @@ Studio albums</col>
 <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../755/3418755.xml">
 Southside</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../822/3418822.xml">
 Mothers Heaven</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../797/3421797.xml">
 Ricks Road</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../145/1355145.xml">
 White on Blonde</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../085/3422085.xml">
 The Hush</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../268/3422268.xml">
 Careful What You Wish For</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../698/6168698.xml">
 Red Book</link></album>
 ''</it></col>

@@ -64,7 +64,7 @@ Google</link></company>
 . The PageRank process has been <link xlink:type="simple" xlink:href="../273/23273.xml">
 patent</link>ed (<weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=6285999">
 U.S. Patent 6,285,999</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=6285999">
-&nbsp;</weblink>). The patent is assigned to Stanford University and not to Google. Google has exclusive license rights on the patent from Stanford University. The university received 1.8M shares in exchange for the patent. The shares were sold in 2005 for $336M.</p>
+ </weblink>). The patent is assigned to Stanford University and not to Google. Google has exclusive license rights on the patent from Stanford University. The university received 1.8M shares in exchange for the patent. The shares were sold in 2005 for $336M.</p>
 
 <sec>
 <st>
@@ -585,7 +585,7 @@ nofollow</link>"<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@
 rel</link></system_of_measurement>
 </standard>
  attribute of HTML link and anchor elements, so that website developers and <link xlink:type="simple" xlink:href="../645/33645.xml">
-bloggers</link> can make links that Google will not consider for the purposes of PageRank &mdash; they are links that no longer constitute a "vote" in the PageRank system. The nofollow relationship was added in an attempt to help combat <link xlink:type="simple" xlink:href="../651/43651.xml">
+bloggers</link> can make links that Google will not consider for the purposes of PageRank — they are links that no longer constitute a "vote" in the PageRank system. The nofollow relationship was added in an attempt to help combat <link xlink:type="simple" xlink:href="../651/43651.xml">
 spamdexing</link>.</p>
 <p>
 
@@ -702,13 +702,13 @@ References</st>
 The Anatomy of a Large-Scale Hypertextual Web Search Engine</weblink>".&#32;<it>Brin, S.; Page, L</it>&#32;(1998).</entry>
 <entry id="2">
  <cite style="font-style:normal" class="book">David Vise and Mark Malseed&#32;(2005). <weblink xlink:type="simple" xlink:href="http://www.thegooglestory.com/">
-The Google Story</weblink>,&#32;37. ISBN ISBN 0-553-80457-X.</cite>&nbsp;</entry>
+The Google Story</weblink>,&#32;37. ISBN ISBN 0-553-80457-X.</cite> </entry>
 <entry id="3">
 Google Technology. <weblink xlink:type="simple" xlink:href="http://www.google.com/technology/">
 http://www.google.com/technology/</weblink></entry>
 <entry id="4">
  <cite style="font-style:normal">Sergey Brin and Lawrence Page&#32;(1998). "<weblink xlink:type="simple" xlink:href="http://www-db.stanford.edu/~backrub/google.html">
-The anatomy of a large-scale hypertextual Web search engine</weblink>".&#32;<it>Proceedings of the seventh international conference on World Wide Web 7</it>: 107-117 (Section 2.1.1 Description of PageRank Calculation).</cite>&nbsp; </entry>
+The anatomy of a large-scale hypertextual Web search engine</weblink>".&#32;<it>Proceedings of the seventh international conference on World Wide Web 7</it>: 107-117 (Section 2.1.1 Description of PageRank Calculation).</cite>  </entry>
 <entry id="5">
 "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/719287.html">
 Fast PageRank Computation via a Sparse Linear System (Extended Abstract)</weblink>".&#32;<it>Gianna M. Del Corso, Antonio Gullí, Francesco Romani</it>.</entry>
@@ -731,13 +731,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F978-3-540-74810-6">
-10.1007/978-3-540-74810-6</weblink>, </cite>&nbsp;</entry>
+10.1007/978-3-540-74810-6</weblink>, </cite> </entry>
 <entry id="9">
  <cite style="font-style:normal">Johan Bollen, Marko A. Rodriguez, and Herbert Van de Sompel.&#32;(December 2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.arxiv.org/abs/cs.GL/0601030">
-Journal Status</weblink>". <it>Scientometrics</it>&#32;<b>69</b>&#32;(3).</cite>&nbsp;</entry>
+Journal Status</weblink>". <it>Scientometrics</it>&#32;<b>69</b>&#32;(3).</cite> </entry>
 <entry id="10">
  <cite style="font-style:normal">Benjamin M. Schmidt and Matthew M. Chingos&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://www.people.fas.harvard.edu/~chingos/rankings_paper.pdf">
-Ranking Doctoral Programs by Placement: A New Method</weblink>". <it>PS: Political Science and Politics</it>&#32;<b>40</b>&#32;(July): 523–529.</cite>&nbsp;</entry>
+Ranking Doctoral Programs by Placement: A New Method</weblink>". <it>PS: Political Science and Politics</it>&#32;<b>40</b>&#32;(July): 523–529.</cite> </entry>
 <entry id="11">
 Andrea Esuli and Fabrizio Sebastiani.&#32;"<weblink xlink:type="simple" xlink:href="http://nmis.isti.cnr.it/sebastiani/Publications/ACL07.pdf">
 PageRanking WordNet synsets: An Application to Opinion-Related Properties</weblink>".&#32;<it>In Proceedings of the 35th Meeting of the Association for Computational Linguistics, Prague, CZ, 2007, pp. 424-431</it>.&#32;Retrieved on June 30, 2007.</entry>
@@ -751,13 +751,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FICALT.2006.1652568">
-10.1109/ICALT.2006.1652568</weblink>.</cite>&nbsp;</entry>
+10.1109/ICALT.2006.1652568</weblink>.</cite> </entry>
 <entry id="13">
 "<weblink xlink:type="simple" xlink:href="http://dbpubs.stanford.edu:8091/diglib/pub/projectdir/google.html">
 Working Papers Concerning the Creation of Google</weblink>".&#32;<it>Google</it>.&#32;Retrieved on November 29, 2006.</entry>
 <entry id="14">
  <cite style="font-style:normal">Cho, J., Garcia-Molina, H., and Page, L.&#32;(1998).&#32;"<weblink xlink:type="simple" xlink:href="http://dbpubs.stanford.edu:8090/pub/1998-51">
-Efficient crawling through URL ordering</weblink>". <it>Proceedings of the seventh conference on World Wide Web</it>.</cite>&nbsp;</entry>
+Efficient crawling through URL ordering</weblink>". <it>Proceedings of the seventh conference on World Wide Web</it>.</cite> </entry>
 <entry id="15">
 "<weblink xlink:type="simple" xlink:href="http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html">
 Preventing Comment Spam</weblink>".&#32;<it>Google</it>.&#32;Retrieved on Janurary 01, 2005.</entry>
@@ -774,27 +774,27 @@ Preventing Comment Spam</weblink>".&#32;<it>Google</it>.&#32;Retrieved on Janura
 <list>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Langville-2006" style="font-style:normal" class="book">Langville, Amy N.;&#32;Meyer, Carl D.&#32;(2006). Google's PageRank and Beyond: The Science of Search Engine Rankings.&#32;Princeton University Press. ISBN 0-691-12202-4.</cite>&nbsp;</entry>
+  <cite id="Reference-Langville-2006" style="font-style:normal" class="book">Langville, Amy N.;&#32;Meyer, Carl D.&#32;(2006). Google's PageRank and Beyond: The Science of Search Engine Rankings.&#32;Princeton University Press. ISBN 0-691-12202-4.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Page, Lawrence; Brin, Sergey; Motwani, Rajeev and Winograd, Terry&#32;(1999).&#32;"<weblink xlink:type="simple" xlink:href="http://dbpubs.stanford.edu:8090/pub/showDoc.Fulltext?lang=en&amp;doc=1999-66&amp;format=pdf&amp;compression=">
-The PageRank citation ranking: Bringing order to the Web</weblink>".</cite>&nbsp;</entry>
+The PageRank citation ranking: Bringing order to the Web</weblink>".</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Richardson, Matthew;&#32;Domingos, Pedro&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://www.cs.washington.edu/homes/pedrod/papers/nips01b.pdf">
-The intelligent surfer: Probabilistic combination of link and content information in PageRank</weblink>".&#32;<it>Proceedings of Advances in Neural Information Processing Systems</it>&#32;<b>14</b>.</cite>&nbsp;</entry>
+The intelligent surfer: Probabilistic combination of link and content information in PageRank</weblink>".&#32;<it>Proceedings of Advances in Neural Information Processing Systems</it>&#32;<b>14</b>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Cheng, Alice;&#32;Eric J. Friedman&#32;(<link>
 2006-06-11</link>). "<weblink xlink:type="simple" xlink:href="http://www.cs.duke.edu/nicl/netecon06/papers/ne06-sybil.pdf">
 Manipulability of PageRank under Sybil Strategies</weblink>".&#32;<it>Proceedings of the First Workshop on the Economics of Networked Systems (NetEcon06)</it>. Retrieved on <link>
-2008-01-22</link>.</cite>&nbsp;</entry>
+2008-01-22</link>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Altman, Alon;&#32;Moshe Tennenholtz&#32;(<link xlink:type="simple" xlink:href="../984/35984.xml">
 2005</link>). "<weblink xlink:type="simple" xlink:href="http://stanford.edu/~epsalon/pagerank.pdf">
 Ranking Systems: The PageRank Axioms</weblink>".&#32;<it>Proceedings of the 6th ACM conference on Electronic commerce (EC-05)</it>. Retrieved on <link>
-2008-02-05</link>.</cite>&nbsp;</entry>
+2008-02-05</link>.</cite> </entry>
 </list>
 </p>
 
@@ -865,19 +865,19 @@ Google Inc.</link></company>
 <b>Chairman/CEO</b>: <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/224584.xml">
 Eric E. Schmidt</link></celebrity>
-&nbsp;·  <b>Director/Technology President</b>: <entrepreneur wordnetid="110060352" confidence="0.9173553029164789">
+ ·  <b>Director/Technology President</b>: <entrepreneur wordnetid="110060352" confidence="0.9173553029164789">
 <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../904/60904.xml">
 Sergey Brin</link></person>
 </celebrity>
 </entrepreneur>
-&nbsp;·  <b>Director/Products President</b>: <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <b>Director/Products President</b>: <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../903/60903.xml">
 Larry Page</link></person>
 </celebrity>
-&nbsp;·  <b>CFO</b>: <link>
+ ·  <b>CFO</b>: <link>
 Patrick Pichette</link><b>Other Directors</b>: <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <rich_person wordnetid="110529231" confidence="0.8">
@@ -895,10 +895,10 @@ John Doerr</link></scholar>
 </rich_person>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../550/437550.xml">
 John L. Hennessy</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -919,17 +919,17 @@ Arthur D. Levinson</link></scholar>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../857/11949857.xml">
-Ann Mather</link>&nbsp;·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../857/11949857.xml">
+Ann Mather</link> ·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../227/1653227.xml">
 Paul Otellini</link></person>
 </celebrity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../125/7629125.xml">
-Ram Shriram</link>&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../125/7629125.xml">
+Ram Shriram</link> ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../407/254407.xml">
 Shirley M. Tilghman</link></president>
-&nbsp;·  <b>Senior Advisor</b>: <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <b>Senior Advisor</b>: <person wordnetid="100007846" confidence="0.9508927676800064">
 <vice_president wordnetid="110751265" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../706/5042706.xml">
 Al Gore</link></vice_president>
@@ -946,8 +946,8 @@ Advertising</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../238/736238.xml">
 AdSense</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../965/12008965.xml">
-Advertising Professionals</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../965/12008965.xml">
+Advertising Professionals</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -964,10 +964,10 @@ AdWords</link></institution>
 </company>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../187/3161187.xml">
 Analytics</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -980,10 +980,10 @@ Base</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../250/5757250.xml">
 Checkout</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -1000,11 +1000,11 @@ Click-to-Call</link></institution>
 </company>
 </event>
 </work>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../498/744498.xml">
 DoubleClick</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../215/18745215.xml">
-Insights for Search</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../215/18745215.xml">
+Insights for Search</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1041,13 +1041,13 @@ Answers</link></activity>
 </event>
 </market>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../444/9651444.xml">
 Apps</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../032/4730032.xml">
 Calendar</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1060,7 +1060,7 @@ Dodgeball</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1073,10 +1073,10 @@ Friend Connect</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../005/569005.xml">
 Gmail</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1089,13 +1089,13 @@ GrandCentral</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../593/502593.xml">
 Groups</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../175/1566175.xml">
 Gtalk</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <pause wordnetid="115271008" confidence="0.8">
 <extension wordnetid="115272382" confidence="0.8">
 <time_interval wordnetid="115269513" confidence="0.8">
@@ -1116,7 +1116,7 @@ Joga Bonito</link></activity>
 </extension>
 </pause>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -1133,13 +1133,13 @@ Orkut</link></activity>
 </event>
 </possession>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../828/829828.xml#xpointer(//*[./st=%22Picasa+Web+Albums%22])">
 Picasa Web Albums</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../256/2859256.xml">
 Reader</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1152,7 +1152,7 @@ Translate</link></activity>
 </service>
 </event>
 </work>
-&nbsp;· <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ · <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/10814298.xml">
 Panoramio</link></web_site>
 </col>
@@ -1167,26 +1167,26 @@ Software</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../483/12610483.xml">
 Android</link></O>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../115/5474115.xml">
 Browser Sync</link></software>
-&nbsp;·   <link xlink:type="simple" xlink:href="../401/19133401.xml">
-Chrome</link>&nbsp;·   <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·   <link xlink:type="simple" xlink:href="../401/19133401.xml">
+Chrome</link> ·   <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../796/5376796.xml">
 Code</link></web_site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../765/5376765.xml">
-Co-op</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../765/5376765.xml">
+Co-op</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/1072149.xml">
 Desktop</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../501/2126501.xml">
 Earth</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../097/11514097.xml">
 Gears</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../066/5128066.xml">
-Gmail Mobile</link>&nbsp;·  <link xlink:type="simple" xlink:href="../847/2139847.xml">
-KML</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../066/5128066.xml">
+Gmail Mobile</link> ·  <link xlink:type="simple" xlink:href="../847/2139847.xml">
+KML</link> ·  <work wordnetid="100575741" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1213,8 +1213,8 @@ Lively</link></activity>
 </contest>
 </community>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../293/14000293.xml">
-OpenSocial</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../293/14000293.xml">
+OpenSocial</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1227,22 +1227,22 @@ Pack</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../828/829828.xml">
 Picasa</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../104/10453104.xml">
 Pinyin</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../225/3747225.xml">
 SketchUp</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../175/1566175.xml">
 Talk</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../369/632369.xml">
 Toolbar</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1255,7 +1255,7 @@ Updater</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <pedal wordnetid="103903424" confidence="0.8">
 <accelerator wordnetid="102670683" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1304,10 +1304,10 @@ Alerts</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../361/16822361.xml">
 App Engine</link></software>
-&nbsp;· <work wordnetid="100575741" confidence="0.8">
+ · <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1320,7 +1320,7 @@ Bookmarks</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1345,20 +1345,20 @@ Blogger</link></activity>
 </possession>
 </social_group>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/5442405.xml">
 Docs</link></software>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../012/6052012.xml">
 FeedBurner</link></web_site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../142/11764142.xml">
-iGoogle</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../142/11764142.xml">
+iGoogle</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../581/11032581.xml">
 Jaiku</link></company>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../874/19359874.xml">
 Knol</link></web_site>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <undertaking wordnetid="100795720" confidence="0.8">
@@ -1373,7 +1373,7 @@ Library Project</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1386,19 +1386,19 @@ Map Maker</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../366/15376366.xml">
 Mashup Editor</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../319/5153319.xml">
 Notebook</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../343/4171343.xml">
 Page Creator</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../804/16002804.xml">
 Sites</link></software>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../766/3524766.xml">
 YouTube</link></company>
 </col>
@@ -1442,20 +1442,20 @@ Sitemaps</link></activity>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../097/3190097.xml">
 Books</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../470/7301470.xml">
 Code</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/1072149.xml">
 Desktop</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../875/4465875.xml">
 Finance</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../416/10619416.xml">
-GOOG-411</link>&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../416/10619416.xml">
+GOOG-411</link> ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../827/5376827.xml">
 Images</link></web_site>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1468,11 +1468,11 @@ Maps</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../004/2271004.xml">
-Moon</link>&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../004/2271004.xml">
+Moon</link> ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../299/466299.xml">
 News</link></web_site>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1485,10 +1485,10 @@ Patents</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../401/401401.xml">
 Products</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1501,7 +1501,7 @@ Scholar</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1514,13 +1514,13 @@ Street View</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../593/502593.xml">
 Usenet</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../208/1520208.xml">
 Video</link></software>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../431/12431.xml">
 Web</link></web_site>
 </col>
@@ -1533,34 +1533,34 @@ Web</link></web_site>
 See also</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../182/3660182.xml">
-Acquisitions</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+Acquisitions</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../747/286747.xml">
 Bomb</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../378/5339378.xml">
-Censorship</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../378/5339378.xml">
+Censorship</link> ·  <message wordnetid="106598915" confidence="0.8">
 <disapproval wordnetid="106709533" confidence="0.8">
 <criticism wordnetid="106710546" confidence="0.8">
 <link xlink:type="simple" xlink:href="../319/9874319.xml">
 Criticism</link></criticism>
 </disapproval>
 </message>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../754/4028754.xml">
 Google China</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../619/7043619.xml">
-Google.org</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../619/7043619.xml">
+Google.org</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../423/773423.xml">
 Googleplex</link></artifact>
 </building>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../619/7043619.xml#xpointer(//*[./st=%22Google+Foundation%22])">
-Foundation</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../619/7043619.xml#xpointer(//*[./st=%22Google+Foundation%22])">
+Foundation</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1573,8 +1573,8 @@ Health</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../696/4338696.xml">
-History</link>&nbsp;·  <deception wordnetid="100752431" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../696/4338696.xml">
+History</link> ·  <deception wordnetid="100752431" confidence="0.8">
 <trickery wordnetid="100752954" confidence="0.8">
 <falsification wordnetid="100751145" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1593,8 +1593,8 @@ Hoaxes</link></activity>
 </falsification>
 </trickery>
 </deception>
-&nbsp;·  <link>
-I'm Feeling Lucky</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link>
+I'm Feeling Lucky</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1607,21 +1607,21 @@ Labs</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <description wordnetid="106724763" confidence="0.8">
 <link xlink:type="simple" xlink:href="../756/3848756.xml">
 Logo</link></description>
 </message>
 </statement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../607/2030607.xml">
-Platform</link>&nbsp;·  <link xlink:type="simple" xlink:href="../849/1497849.xml">
-Products</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../607/2030607.xml">
+Platform</link> ·  <link xlink:type="simple" xlink:href="../849/1497849.xml">
+Products</link> ·  <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../543/2929543.xml">
 Summer of Code</link></psychological_feature>
 </event>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <businessperson wordnetid="109882716" confidence="0.8">
@@ -1657,22 +1657,22 @@ WiFi</link></activity>
 <link xlink:type="simple" xlink:href="../338/18717338.xml">
 US$</link></currency>
 16.59 billion (▲56% <link xlink:type="simple" xlink:href="../099/5752099.xml">
-FY</link> 2007)&nbsp;·  <b>Employees</b>: 19,604 full-time (<link xlink:type="simple" xlink:href="../843/15843.xml">
+FY</link> 2007) ·  <b>Employees</b>: 19,604 full-time (<link xlink:type="simple" xlink:href="../843/15843.xml">
 June 30</link>, <link xlink:type="simple" xlink:href="../825/35825.xml">
-2008</link>)&nbsp;·  <b>Stock Symbol</b>: (<company wordnetid="108058098" confidence="0.8">
+2008</link>) ·  <b>Stock Symbol</b>: (<company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=GOOG&amp;selected=GOOG">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=GOOG&amp;selected=GOOG">
 GOOG</weblink>, <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../867/197867.xml">
 LSE</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.londonstockexchange.com/en-gb/pricesnews/prices/Trigger/genericsearch.htm?bsg=true&amp;ns=GGEA">
-GGEA</weblink>)&nbsp;·  <b>Motto</b>: <link xlink:type="simple" xlink:href="../196/1788196.xml">
-Don't be evil</link>&nbsp;·  <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.google.com/">
+: <weblink xlink:type="simple" xlink:href="http://www.londonstockexchange.com/en-gb/pricesnews/prices/Trigger/genericsearch.htm?bsg=true&amp;ns=GGEA">
+GGEA</weblink>) ·  <b>Motto</b>: <link xlink:type="simple" xlink:href="../196/1788196.xml">
+Don't be evil</link> ·  <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.google.com/">
 www.google.com</weblink></col>
 </row>
 </table>

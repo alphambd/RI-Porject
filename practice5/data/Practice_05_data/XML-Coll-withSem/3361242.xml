@@ -331,8 +331,8 @@ truecolor</link>, there are <link xlink:type="simple" xlink:href="../460/1554746
 16,777,216 different possible colors</link>, and each pixel needs <link xlink:type="simple" xlink:href="../348/2507348.xml">
 24 bit</link>s, or 3 <link xlink:type="simple" xlink:href="../365/3365.xml">
 byte</link>s. A typical 640×480 <link xlink:type="simple" xlink:href="../408/426408.xml">
-VGA</link> resolution, truecolor uncompressed image needs 640×480×3&nbsp;=&nbsp;921,600 bytes (900 KiB). Limiting the image colors to 256, every pixel needs only <link xlink:type="simple" xlink:href="../148/45148.xml">
-8 bit</link>s, 1 byte, so the example image now needs only 640×480×1&nbsp;=&nbsp;307,200 bytes (300 KiB), plus 256×3&nbsp;=&nbsp;768 additional bytes to store the palette map (assuming 24-bit RGB), approximately one third of the original size. Smaller palettes (4-bit 16 colors, 2-bit 4 colors) can pack the pixels even more (to 1/6 or 1/12), obviously at cost of color accuracy. While it is acceptable for little images (<link xlink:type="simple" xlink:href="../011/355011.xml">
+VGA</link> resolution, truecolor uncompressed image needs 640×480×3 = 921,600 bytes (900 KiB). Limiting the image colors to 256, every pixel needs only <link xlink:type="simple" xlink:href="../148/45148.xml">
+8 bit</link>s, 1 byte, so the example image now needs only 640×480×1 = 307,200 bytes (300 KiB), plus 256×3 = 768 additional bytes to store the palette map (assuming 24-bit RGB), approximately one third of the original size. Smaller palettes (4-bit 16 colors, 2-bit 4 colors) can pack the pixels even more (to 1/6 or 1/12), obviously at cost of color accuracy. While it is acceptable for little images (<link xlink:type="simple" xlink:href="../011/355011.xml">
 icons</link>) or very simple graphics, to reproduce real-life images this loss of color availability becomes more of a problem. Some clever tricks, as <link xlink:type="simple" xlink:href="../732/4979732.xml">
 color quantization</link>, <link xlink:type="simple" xlink:href="../507/113507.xml">
 anti-aliasing</link>, and <link xlink:type="simple" xlink:href="../526/1243526.xml">
@@ -420,7 +420,7 @@ BMP file format</link></format>
 
 <link xlink:type="simple" xlink:href="../448/331448.xml">
 Color depth</link> denotes how many <link xlink:type="simple" xlink:href="../364/3364.xml">
-bit</link>s are employed to store color information in the image pixels: the more the colors managed, the more the bits employed. The pixel's bit patterns can be interpreted as whole integer numbers (which is the case for indexed color images' indices) or by assigning some bits for color related management, as relative intensities for every primary red-green-blue in RGB truecolor images. Indexed color palette sizes often have up to 2 raised to some power entries, which easily match pixel's depth bit patterns: 22&nbsp;=&nbsp;4, 24&nbsp;=&nbsp;16 or 28&nbsp;=&nbsp;256 are the most common choices. <extent wordnetid="105123416" confidence="0.8">
+bit</link>s are employed to store color information in the image pixels: the more the colors managed, the more the bits employed. The pixel's bit patterns can be interpreted as whole integer numbers (which is the case for indexed color images' indices) or by assigning some bits for color related management, as relative intensities for every primary red-green-blue in RGB truecolor images. Indexed color palette sizes often have up to 2 raised to some power entries, which easily match pixel's depth bit patterns: 22 = 4, 24 = 16 or 28 = 256 are the most common choices. <extent wordnetid="105123416" confidence="0.8">
 <magnitude wordnetid="105090441" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <depth wordnetid="105134547" confidence="0.8">
@@ -503,11 +503,11 @@ eye</link> has sensibility to the three primary colors in different degrees: the
 <p>
 
 A master palette built this way can be filled with up to <link xlink:type="simple" xlink:href="../770/15546770.xml#xpointer(//*[./st=%228-8-4+levels+RGB%22])">
-8R×8G×4B&nbsp;=&nbsp;256 colors</link>, but this does not leave space in the palette for reserved colors, color indices that the program could use for special purposes. It is more general to use only <link xlink:type="simple" xlink:href="../770/15546770.xml#xpointer(//*[./st=%226+level+RGB%22])">
-6R×6G×6B&nbsp;=&nbsp;216</link> (as in the <link xlink:type="simple" xlink:href="../621/286621.xml">
+8R×8G×4B = 256 colors</link>, but this does not leave space in the palette for reserved colors, color indices that the program could use for special purposes. It is more general to use only <link xlink:type="simple" xlink:href="../770/15546770.xml#xpointer(//*[./st=%226+level+RGB%22])">
+6R×6G×6B = 216</link> (as in the <link xlink:type="simple" xlink:href="../621/286621.xml">
 Web colors</link> case), <link xlink:type="simple" xlink:href="../770/15546770.xml#xpointer(//*[./st=%226-8-5+levels+RGB%22])">
-6R×8G×5B&nbsp;=&nbsp;240</link> or <link xlink:type="simple" xlink:href="../770/15546770.xml#xpointer(//*[./st=%226-7-6+levels+RGB%22])">
-6R×7G×6B&nbsp;=&nbsp;252</link>, which leave room for some reserved colors.</p>
+6R×8G×5B = 240</link> or <link xlink:type="simple" xlink:href="../770/15546770.xml#xpointer(//*[./st=%226-7-6+levels+RGB%22])">
+6R×7G×6B = 252</link>, which leave room for some reserved colors.</p>
 <p>
 
 Then, when loading the mosaic of image thumbnails (or other heterogeneous images), the program simply maps every original indexed color pixel to its most approximated in the master palette (after dumping this into the hardware color registers), and writes the result in the video buffer. Here is a sample of a simple mosaic of the four image thumbnails using a <link xlink:type="simple" xlink:href="../770/15546770.xml#xpointer(//*[./st=%226-8-5+levels+RGB%22])">

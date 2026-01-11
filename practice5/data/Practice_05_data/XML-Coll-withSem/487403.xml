@@ -25,7 +25,7 @@ key size</link> of forty bits, or five <link xlink:type="simple" xlink:href="../
 byte</link>s, for <link xlink:type="simple" xlink:href="../042/53042.xml">
 symmetric encryption</link>; this represents a relatively low level of security. A forty bit length corresponds to a total of <math>2^{40}</math> possible keys. Although this is a large number in human terms (about a <link>
 trillion</link>, nearly two hundred times the world's human population), it is possible to break this degree of encryption using a moderate amount of computing power in a <link xlink:type="simple" xlink:href="../784/53784.xml">
-brute force attack</link> &mdash; that is, trying out each possible key in turn.<p>
+brute force attack</link> — that is, trying out each possible key in turn.<p>
 
 On a typical home computer, a 40-bit key can be broken in a little under two weeks, testing a million keys per second. Using free time on a large corporate network or a set of <link>
 zombie computers</link> would reduce the time in proportion to the number of computers available. With dedicated (and rather expensive) hardware, a 40-bit key can be broken in seconds. The <company wordnetid="108058098" confidence="0.9508927676800064">

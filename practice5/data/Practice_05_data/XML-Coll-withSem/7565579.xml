@@ -46,7 +46,7 @@ FSL Functionality</st>
 
 <p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; Functional MRI</p>
+        Functional MRI</p>
 <p>
 
 FEATModel-based FMRI analysis with straightforward but powerful GUI: data preprocessing (including slice timing correction, MCFLIRT motion correction and PRELUDE+FUGUE EPI unwarping);  FILM <link>
@@ -76,7 +76,7 @@ FLOBSGeneration of optimal HRF basis functions and Bayesian activation estimatio
 SMMSpatial mixture modelling - alternative hypothesis testing using histogram mixture modelling with spatial regularisation of the voxel classification into activation and non-activation.</p>
 <p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; Structural MRI</p>
+        Structural MRI</p>
 <p>
 
 BET /
@@ -98,7 +98,7 @@ FUGUEUnwarps geometric distortion in EPI images using B0 field maps.</p>
 SIENAStructural brain change analysis, for estimating brain atrophy.</p>
 <p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; Diffusion MRI</p>
+        Diffusion MRI</p>
 <p>
 
 FDTFMRIB's Diffusion Toolbox - tools for low-level diffusion parameter reconstruction and probabilistic tractography.</p>
@@ -107,7 +107,7 @@ FDTFMRIB's Diffusion Toolbox - tools for low-level diffusion parameter reconstru
 TBSSTract-Based Spatial Statistics (part of FMRIB's Diffusion Toolbox) - voxelwise analysis of multi-subject diffusion data.</p>
 <p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; Other tools</p>
+        Other tools</p>
 <p>
 
 InferenceVarious inference/thresholding tools, including: Randomise (permutation-based inference tool for nonparametric statistical thresholding), cluster (cluster-based thresholding using GRF theory for inference), FDR (false discovery rate inference) and Glm (a GUI for creating model design matrices).</p>

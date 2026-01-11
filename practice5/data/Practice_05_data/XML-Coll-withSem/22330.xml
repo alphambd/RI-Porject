@@ -75,7 +75,7 @@ Counting rods</link></implement>
 <col>
 <link xlink:type="simple" xlink:href="../615/146615.xml">
 Japanese</link><link xlink:type="simple" xlink:href="../834/994834.xml">
-Korean</link>&nbsp;</col>
+Korean</link> </col>
 </row>
 <row>
 <header colspan="2">
@@ -94,7 +94,7 @@ Ge'ez</link></W>
 <link xlink:type="simple" xlink:href="../702/13702.xml">
 Hebrew</link><link xlink:type="simple" xlink:href="../697/166697.xml">
 Greek</link> (Ionian)<link>
-Āryabhaṭa</link>&nbsp;</col>
+Āryabhaṭa</link> </col>
 </row>
 <row>
 <header colspan="2">
@@ -252,7 +252,7 @@ base</link>-8 number system, and uses the digits 0 to 7. Numerals can be made fr
 binary</link></instrumentality>
 </artifact>
 </system>
- numerals by grouping consecutive digits into groups of three (starting from the right). For example, the binary representation for decimal 74 is 1001010, which groups into 001 001 010 &mdash; so the octal representation is 112. <p>
+ numerals by grouping consecutive digits into groups of three (starting from the right). For example, the binary representation for decimal 74 is 1001010, which groups into 001 001 010 — so the octal representation is 112. <p>
 
 In decimal systems each decimal place is a base of 10. For example:
 <indent level="1">
@@ -470,7 +470,7 @@ hexadecimal</link>, perhaps most often in modern times in conjunction with file 
 <link xlink:type="simple" xlink:href="../642/31642.xml">
 Unix</link></family>
  systems (see <link xlink:type="simple" xlink:href="../623/50623.xml">
-chmod</link>). It has the advantage of not requiring any extra symbols as digits (the hexadecimal system is base-16 and therefore needs six additional symbols beyond 0&ndash;9). It is also used for digital displays.</p>
+chmod</link>). It has the advantage of not requiring any extra symbols as digits (the hexadecimal system is base-16 and therefore needs six additional symbols beyond 0–9). It is also used for digital displays.</p>
 <p>
 
 At the time when octal originally became widely used in computing, systems such as the <link xlink:type="simple" xlink:href="../872/14872.xml">
@@ -747,7 +747,7 @@ References</st>
 <reflist>
 <entry id="1">
  <cite id="CITEREFAvelino2006" style="font-style:normal">Avelino, Heriberto&#32;(2006),&#32;"<weblink xlink:type="simple" xlink:href="http://linguistics.berkeley.edu/~avelino/Avelino_2006.pdf">
-The typology of Pame number systems and the limits of Mesoamerica as a linguistic area</weblink>",&#32;<it>Linguistic Typology</it>&#32;<b>10</b>:  41-60, </cite>&nbsp;</entry>
+The typology of Pame number systems and the limits of Mesoamerica as a linguistic area</weblink>",&#32;<it>Linguistic Typology</it>&#32;<b>10</b>:  41-60, </cite> </entry>
 <entry id="2">
 Marcia Ascher.&#32;"<weblink xlink:type="simple" xlink:href="http://links.jstor.org/sici?sici=0746-8342%28199209%2923%3A4%3C353%3AEAMVOM%3E2.0.CO%3B2-%23&amp;size=LARGE">
 Ethnomathematics: A Multicultural View of Mathematical Ideas</weblink>".&#32;  The College Mathematics Journal.&#32;Retrieved on <link>

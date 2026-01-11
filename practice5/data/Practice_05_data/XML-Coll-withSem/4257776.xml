@@ -233,16 +233,16 @@ Letchworth Garden City</link></station>
 <table style="margin: 0.5em auto; text-align: center;" class="wikitable">
 <row>
 <header>
-&nbsp; Preceding station &nbsp;</header>
+  Preceding station  </header>
 <header colspan="3">
- &nbsp; <company wordnetid="108058098" confidence="0.8">
+   <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../923/21923.xml">
 National Rail</link></institution>
 </company>
-&nbsp;</header>
+ </header>
 <header>
-&nbsp; Following station &nbsp;</header>
+  Following station  </header>
 </row>
 <row style="text-align: center;">
 <col style="border-top:solid 1px gray; ">
@@ -251,7 +251,7 @@ National Rail</link></institution>
 Hertford North</link></station>
 </col>
 <col style="background:#F400A1; border-top:solid 1px gray; ">
-&nbsp;</col>
+ </col>
 <col style="text-align: center; border-top:solid 1px gray; ">
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../715/3406715.xml">
@@ -267,7 +267,7 @@ Hertford Loop Line</link></formation>
 </arrangement>
 </col>
 <col style="background:#F400A1;border-top:solid 1px gray; ">
-&nbsp;</col>
+ </col>
 <col style="border-top:solid 1px gray; ">
 <station wordnetid="104306080" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../661/2320661.xml">

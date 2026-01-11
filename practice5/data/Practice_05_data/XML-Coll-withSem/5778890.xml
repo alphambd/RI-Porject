@@ -390,7 +390,7 @@ Floyd Landis</link></col>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -427,7 +427,7 @@ David Zabriskie</link></col>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -468,7 +468,7 @@ Bobby Julich</link></person>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -508,7 +508,7 @@ George Hincapie</link></person>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -565,7 +565,7 @@ Nathan O'Neill</link></causal_agent>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/4689264.xml">
 Australia</link></country>
 </col>
@@ -592,7 +592,7 @@ Levi Leipheimer</link></person>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -635,7 +635,7 @@ Cadel Evans</link></person>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/4689264.xml">
 Australia</link></country>
 </col>
@@ -662,7 +662,7 @@ Tom Danielson</link></person>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -698,7 +698,7 @@ Christian Vandevelde</link></col>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -736,7 +736,7 @@ Jason McCartney</link></player>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -881,9 +881,9 @@ Tour of California</link></header>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../890/5778890.xml">
-2006</link>&nbsp;&#124; 
+2006</link> &#124; 
 <link xlink:type="simple" xlink:href="../245/6150245.xml">
-2007</link>&nbsp;&#124; 
+2007</link> &#124; 
 <report wordnetid="107218470" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../048/14466048.xml">
 2008</link></report>

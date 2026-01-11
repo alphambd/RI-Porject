@@ -79,7 +79,7 @@ with</p>
  <math> {LR_N(\beta_{ML,1},\beta_{ML,2})} = L^1_N-L^2_N-\frac{K_1-K_2} {2} \log N</math>
 </indent>
 
-exceeds the positive (falls below the negative) (1&nbsp;&amp;minus;&nbsp;&amp;alpha;)-quantile of the <link xlink:type="simple" xlink:href="../462/21462.xml">
+exceeds the positive (falls below the negative) (1 &amp;minus; &amp;alpha;)-quantile of the <link xlink:type="simple" xlink:href="../462/21462.xml">
 standard normal distribution</link>. Here <it>K</it>1 and <it>K</it>2 are the numbers of parameters in models 1 and 2 respectively.</p>
 <p>
 

@@ -57,7 +57,7 @@ iii, iv, v</Criteria>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../188/30188.xml">
 Tunisia</link></country>
 </State_Party>
@@ -924,21 +924,21 @@ Amphitheatre</link> of <site wordnetid="108651247" confidence="0.950892767680006
 <link xlink:type="simple" xlink:href="../992/2453992.xml">
 El Jem</link></village>
 </site>
-&nbsp;·  
+ ·  
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../224/3360224.xml">
 Dougga/Thugga</link></site>
-&nbsp;·  
+ ·  
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <area wordnetid="108497294" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../879/3771879.xml">
 Ichkeul National Park</link></area>
 </site>
-&nbsp;·  
+ ·  
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../187/433187.xml">
 Kairouan</link></site>
-&nbsp;·  
+ ·  
 <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -956,22 +956,22 @@ Medina</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;of <site wordnetid="108651247" confidence="0.9508927676800064">
+ of <site wordnetid="108651247" confidence="0.9508927676800064">
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../941/1008941.xml">
 Sousse</link></village>
 </site>
-&nbsp;·  
-Medina&nbsp;of <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  
+Medina of <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../659/57659.xml">
 Tunis</link></village>
-&nbsp;·  
+ ·  
 Punic Town of <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../305/1360305.xml">
 Kerkuane</link></site>
-&nbsp;and its <link xlink:type="simple" xlink:href="../766/220766.xml">
-Necropolis</link>&nbsp;·  
-Site&nbsp;of <site wordnetid="108651247" confidence="0.9508927676800064">
+ and its <link xlink:type="simple" xlink:href="../766/220766.xml">
+Necropolis</link> ·  
+Site of <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../555/6555.xml">
 Carthage</link></site>
 </p>

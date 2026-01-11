@@ -96,7 +96,7 @@ Kernel</st>
 <p>
 
 A Unix <link xlink:type="simple" xlink:href="../394/50394.xml">
-kernel</link> &mdash; the core or key components of the operating system &mdash; consists of many kernel subsystems like <link xlink:type="simple" xlink:href="../806/15395806.xml">
+kernel</link> — the core or key components of the operating system — consists of many kernel subsystems like <link xlink:type="simple" xlink:href="../806/15395806.xml">
 process management</link>, <link xlink:type="simple" xlink:href="../924/66924.xml">
 memory management</link>, file management, device management and <link xlink:type="simple" xlink:href="../410/41410.xml">
 network management</link>.</p>

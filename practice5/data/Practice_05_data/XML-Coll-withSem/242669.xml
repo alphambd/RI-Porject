@@ -107,7 +107,7 @@ Weighted round robin</link></algorithm>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../827/1112827.xml">
-Random early detection</link> (RED), Weighted RED (WRED) and RED In/Out (RIO) &mdash; Lessens the possibility of <link xlink:type="simple" xlink:href="../262/4971262.xml">
+Random early detection</link> (RED), Weighted RED (WRED) and RED In/Out (RIO) — Lessens the possibility of <link xlink:type="simple" xlink:href="../262/4971262.xml">
 port queue buffer</link> <link xlink:type="simple" xlink:href="../278/9070278.xml">
 tail drop</link>s and this lowers the likelihood of <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
@@ -292,7 +292,7 @@ ambox-content" style=""</col>
 </p>
 </col>
 <col style="" class="mbox-text">
- <b>This section may  of the article</b>&nbsp;into the topic of another article, <it><link xlink:type="simple" xlink:href="../216/1536216.xml">
+ <b>This section may  of the article</b> into the topic of another article, <it><link xlink:type="simple" xlink:href="../216/1536216.xml">
 teletraffic engineering</link></it>.
 Please help <weblink xlink:type="simple" xlink:href="http://localhost:18088/wiki/index.php?title=Traffic_shaping&amp;action=edit">
 improve this section</weblink> or discuss this issue on the .</col>

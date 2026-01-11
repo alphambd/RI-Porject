@@ -128,7 +128,7 @@ Hamming weight</link> article for examples of an efficient implementation.</p>
 <p>
 
 Similarly, sorting a bit array is trivial to do in O(<it>n</it>) time using <link xlink:type="simple" xlink:href="../864/99864.xml">
-counting sort</link> &mdash; we count the number of ones <it>k</it>, fill the last <it>k</it>/<it>w</it> words with ones, set only the low <it>k</it> mod <it>w</it> bits of the next word, and set the rest to zero.</p>
+counting sort</link> — we count the number of ones <it>k</it>, fill the last <it>k</it>/<it>w</it> words with ones, set only the low <it>k</it> mod <it>w</it> bits of the next word, and set the rest to zero.</p>
 
 </ss2>
 <ss2>

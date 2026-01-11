@@ -85,7 +85,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/pru.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/pru.html">
 PRU</weblink>)</company_type>
 <foundation>
 <village wordnetid="108672738" confidence="0.9508927676800064">
@@ -141,7 +141,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/pru.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/pru.html">
 PRU</weblink>) is a <link xlink:type="simple" xlink:href="../425/17581425.xml">
 Fortune Global 500</link> and <issue wordnetid="105814650" confidence="0.8">
 <link xlink:type="simple" xlink:href="../447/276447.xml">

@@ -565,7 +565,7 @@ Sensory memory</link></activity>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../674/1215674.xml">
-Visual memory</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+Visual memory</link> ·  <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <procedure wordnetid="101023820" confidence="0.8">
@@ -576,7 +576,7 @@ Iconic memory</link></activity>
 </psychological_feature>
 </act>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <procedure wordnetid="101023820" confidence="0.8">

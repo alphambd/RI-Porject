@@ -20,7 +20,7 @@
 <bdy>
 
 In <link xlink:type="simple" xlink:href="../398/7398.xml">
-computer security</link>, a <b>key server</b> is a computer &mdash; typically running special software &mdash; which provides cryptographic <link xlink:type="simple" xlink:href="../039/53039.xml">
+computer security</link>, a <b>key server</b> is a computer — typically running special software — which provides cryptographic <link xlink:type="simple" xlink:href="../039/53039.xml">
 key</link>s to users or other programs. The users' programs can be working on the same network as the key server or on another networked computer.<p>
 
 The keys distributed by the key server are almost always provided as part of a cryptographically-protected <link>

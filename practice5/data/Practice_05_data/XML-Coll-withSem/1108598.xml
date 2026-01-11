@@ -811,7 +811,7 @@ The Compression/SHA-1 Challenge</weblink></entry>
 <entry id="2">
 "<weblink xlink:type="simple" xlink:href="http://www.cs.fit.edu/~mmahoney/compression/">
 Homepage of the PAQ compressors</weblink>".&#32;Retrieved on <link>
-2007-07-10</link>.&nbsp;"You may download, use, copy, modify, and distribute these programs under the terms of the GNU general public license"</entry>
+2007-07-10</link>. "You may download, use, copy, modify, and distribute these programs under the terms of the GNU general public license"</entry>
 <entry id="3">
 James Bowery. <weblink xlink:type="simple" xlink:href="http://groups.google.com/group/Hutter-Prize/browse_frm/thread/3f3f80c76dd14513/">
 Alexander Ratushnyak Wins First Hutter Prize Payout</weblink>. Published <link xlink:type="simple" xlink:href="../434/22434.xml">
@@ -885,13 +885,13 @@ Comparison</link>)</col>
 MPEG-4 ASP</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../802/67802.xml">
-3ivx</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+3ivx</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../801/67801.xml">
 DivX</link></format>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../851/841851.xml">
-Nero Digital</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../851/841851.xml">
+Nero Digital</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -901,7 +901,7 @@ Nero Digital</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
 <room wordnetid="104105893" confidence="0.8">
 <link xlink:type="simple" xlink:href="../657/214657.xml">
-FFmpeg&nbsp;MPEG-4</link></room>
+FFmpeg MPEG-4</link></room>
 </hypothesis>
 </library>
 </area>
@@ -910,8 +910,8 @@ FFmpeg&nbsp;MPEG-4</link></room>
 </idea>
 </model>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../289/3427289.xml">
-HDX4</link>&nbsp;·  <link xlink:type="simple" xlink:href="../544/201544.xml">
+ ·  <link xlink:type="simple" xlink:href="../289/3427289.xml">
+HDX4</link> ·  <link xlink:type="simple" xlink:href="../544/201544.xml">
 Xvid</link></col>
 </row>
 <row style="height:2px">
@@ -937,13 +937,13 @@ H.264/MPEG-4 AVC</link></system_of_measurement>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../172/4664172.xml">
 CoreAVC</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../851/841851.xml">
-Nero Digital AVC</link> &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../851/841851.xml">
+Nero Digital AVC</link>  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../231/25231.xml">
-QuickTime&nbsp;H.264</link></format>
+QuickTime H.264</link></format>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../265/1419265.xml">
+ ·  <link xlink:type="simple" xlink:href="../265/1419265.xml">
 x264</link></col>
 </row>
 <row style="height:2px">
@@ -969,8 +969,8 @@ Lossless</link></algorithm>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../291/8896291.xml">
-CorePNG</link>&nbsp;·  <link xlink:type="simple" xlink:href="../928/8201928.xml">
-FFV1</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+CorePNG</link> ·  <link xlink:type="simple" xlink:href="../928/8201928.xml">
+FFV1</link> ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -985,7 +985,7 @@ Huffyuv</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1000,7 +1000,7 @@ Lagarith</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1015,7 +1015,7 @@ MSU Lossless</link></algorithm>
 </act>
 </rule>
 </event>
- &nbsp;·  <event wordnetid="100029378" confidence="0.8">
+  ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1040,25 +1040,25 @@ SheerVideo</link></algorithm>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../851/752851.xml">
-Cinepak</link>&nbsp;· <link xlink:type="simple" xlink:href="../475/166475.xml">
-Dirac</link>&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+Cinepak</link> · <link xlink:type="simple" xlink:href="../475/166475.xml">
+Dirac</link> · <artifact wordnetid="100021939" confidence="0.8">
 <merchandise wordnetid="103748886" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <link xlink:type="simple" xlink:href="../697/2318697.xml">
 Indeo</link></commodity>
 </merchandise>
 </artifact>
-&nbsp;· <link>
-VP3</link>&nbsp;·  <link xlink:type="simple" xlink:href="../301/1654301.xml">
-VP7</link>&nbsp;· <link xlink:type="simple" xlink:href="../543/694543.xml">
-Pixlet</link>&nbsp;· <link xlink:type="simple" xlink:href="../383/14068383.xml">
-RTVideo</link>&nbsp;· <link xlink:type="simple" xlink:href="../652/1883652.xml">
-Snow</link>&nbsp;· <link xlink:type="simple" xlink:href="../914/236914.xml">
-Sorenson</link>&nbsp;· <link>
-Tarkin</link>&nbsp;· <format wordnetid="106636806" confidence="0.9508927676800064">
+ · <link>
+VP3</link> ·  <link xlink:type="simple" xlink:href="../301/1654301.xml">
+VP7</link> · <link xlink:type="simple" xlink:href="../543/694543.xml">
+Pixlet</link> · <link xlink:type="simple" xlink:href="../383/14068383.xml">
+RTVideo</link> · <link xlink:type="simple" xlink:href="../652/1883652.xml">
+Snow</link> · <link xlink:type="simple" xlink:href="../914/236914.xml">
+Sorenson</link> · <link>
+Tarkin</link> · <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../588/161588.xml">
 Theora</link></format>
-&nbsp;· <format wordnetid="106636806" confidence="0.9508927676800064">
+ · <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../169/225169.xml">
 WMV</link></format>
 </col>
@@ -1083,18 +1083,18 @@ Comparison</link>)</col>
 General</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link>
-ADPCM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../008/44008.xml">
-ATRAC</link>&nbsp;·   <link xlink:type="simple" xlink:href="../898/82898.xml">
-Dolby Digital</link>&nbsp;·   <link xlink:type="simple" xlink:href="../855/2155855.xml">
-Dolby Digital Plus</link>&nbsp;·  <link xlink:type="simple" xlink:href="../976/3036976.xml">
-DTS</link>&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ADPCM</link> ·  <link xlink:type="simple" xlink:href="../008/44008.xml">
+ATRAC</link> ·   <link xlink:type="simple" xlink:href="../898/82898.xml">
+Dolby Digital</link> ·   <link xlink:type="simple" xlink:href="../855/2155855.xml">
+Dolby Digital Plus</link> ·  <link xlink:type="simple" xlink:href="../976/3036976.xml">
+DTS</link> ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../421/670421.xml">
 Musepack</link></format>
-&nbsp;·   <link xlink:type="simple" xlink:href="../558/1632558.xml">
-TwinVQ</link>&nbsp;·   <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·   <link xlink:type="simple" xlink:href="../558/1632558.xml">
+TwinVQ</link> ·   <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../489/32489.xml">
 Vorbis</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../082/34082.xml">
 WMA</link></format>
 </col>
@@ -1108,18 +1108,18 @@ WMA</link></format>
 Speech/Voice</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../808/2915808.xml">
-iLBC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../248/8120248.xml">
-AMBE</link>&nbsp;·  <link xlink:type="simple" xlink:href="../633/1188633.xml">
-IMBE</link>&nbsp;·  <link xlink:type="simple" xlink:href="../343/4653343.xml">
-iSAC</link>&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+iLBC</link> ·  <link xlink:type="simple" xlink:href="../248/8120248.xml">
+AMBE</link> ·  <link xlink:type="simple" xlink:href="../633/1188633.xml">
+IMBE</link> ·  <link xlink:type="simple" xlink:href="../343/4653343.xml">
+iSAC</link> ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../592/1188592.xml">
 QCELP</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../129/14068129.xml">
-RTAudio</link> &nbsp;·  <link xlink:type="simple" xlink:href="../716/14785716.xml">
-Siren</link>&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../129/14068129.xml">
+RTAudio</link>  ·  <link xlink:type="simple" xlink:href="../716/14785716.xml">
+Siren</link> ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../317/62317.xml">
 Speex</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../681/6854681.xml">
+ ·  <link xlink:type="simple" xlink:href="../681/6854681.xml">
 Truespeech</link></col>
 </row>
 <row style="height:2px">
@@ -1147,29 +1147,29 @@ Lossless</link></algorithm>
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../168/694168.xml">
 Apple Lossless</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../695/4238695.xml">
-Dolby TrueHD</link>&nbsp;·  <link xlink:type="simple" xlink:href="../645/6541645.xml">
-DTS-HD Master Audio</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../695/4238695.xml">
+Dolby TrueHD</link> ·  <link xlink:type="simple" xlink:href="../645/6541645.xml">
+DTS-HD Master Audio</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../761/77761.xml">
 FLAC</link></format>
 </software>
-&nbsp;· <link>
-La</link>&nbsp;·   <software wordnetid="106566077" confidence="0.9508927676800064">
+ · <link>
+La</link> ·   <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../907/172907.xml">
 Monkey's Audio</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../189/9892189.xml">
 OptimFROG</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../487/1059487.xml">
 TTA</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../075/1078075.xml">
 WavPack</link></format>
 </software>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1208,20 +1208,20 @@ Open Source</link></col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../689/322689.xml">
 7-Zip</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../612/2147612.xml">
 Ark</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../660/2535660.xml">
 File Roller</link></software>
-&nbsp;·  <link>
-FreeArc</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link>
+FreeArc</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../286/304286.xml">
 Info-ZIP</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../299/4724299.xml">
 KGB Archiver</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1240,7 +1240,7 @@ PeaZip</link></activity>
 </information>
 </message>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../625/9202625.xml">
 The Unarchiver</link></software>
 </col>
@@ -1256,31 +1256,31 @@ Freeware</link></col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../938/4542938.xml">
 7zX</link></software>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../702/322702.xml">
 DGCA</link></format>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../799/12732799.xml">
 Filzip</link></software>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../188/946188.xml">
 GCA</link></format>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../519/1503519.xml">
 IZArc</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../754/442754.xml">
 StuffIt Expander</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../086/1504086.xml">
 TUGZip</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../570/15138570.xml">
 Zipeg</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../976/2377976.xml">
 ZipGenius</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../751/2186751.xml">
+ ·  <link xlink:type="simple" xlink:href="../751/2186751.xml">
 WinUHA</link></col>
 </row>
 <row style="height:2px">
@@ -1294,26 +1294,26 @@ Proprietary</link></col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../640/6983640.xml">
 ALZip</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../273/3043273.xml">
 Archive Utility</link></software>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../704/920704.xml">
 MacBinary</link></format>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../954/2288954.xml">
 PowerArchiver</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../029/2578029.xml">
-Squeez</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../029/2578029.xml">
+Squeez</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../117/428117.xml">
 StuffIt</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../072/2970072.xml">
 WinAce</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../427/887427.xml">
 WinRAR</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../399/147399.xml">
 WinZip</link></software>
 </col>
@@ -1329,23 +1329,23 @@ Command line</link></col>
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/1517465.xml">
 ARC</link></format>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../734/40734.xml">
 ARJ</link></format>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../836/8549836.xml">
-JAR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../255/66255.xml">
-bzip2</link>&nbsp;·  <link xlink:type="simple" xlink:href="../779/205779.xml">
-compress</link>&nbsp;·  <link xlink:type="simple" xlink:href="../783/12783.xml">
-gzip</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../836/8549836.xml">
+JAR</link> ·  <link xlink:type="simple" xlink:href="../255/66255.xml">
+bzip2</link> ·  <link xlink:type="simple" xlink:href="../779/205779.xml">
+compress</link> ·  <link xlink:type="simple" xlink:href="../783/12783.xml">
+gzip</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../286/304286.xml">
 Info-ZIP</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../695/915695.xml">
-LHA</link>&nbsp;·  <link xlink:type="simple" xlink:href="../569/1108569.xml">
-lzop</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../695/915695.xml">
+LHA</link> ·  <link xlink:type="simple" xlink:href="../569/1108569.xml">
+lzop</link> ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1360,17 +1360,17 @@ PAQ</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../769/93769.xml">
 PKZIP</link></institution>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../819/311819.xml">
-RAR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../471/1583471.xml">
-SBC</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../819/311819.xml">
+RAR</link> ·  <link xlink:type="simple" xlink:href="../471/1583471.xml">
+SBC</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../630/1727630.xml">
 UPX</link></software>
- &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../751/2186751.xml">

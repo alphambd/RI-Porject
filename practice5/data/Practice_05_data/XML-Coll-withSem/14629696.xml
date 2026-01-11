@@ -487,7 +487,7 @@ Sun-1</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -502,7 +502,7 @@ Sun-2</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -517,7 +517,7 @@ Sun-3</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -532,7 +532,7 @@ Sun386i</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -547,7 +547,7 @@ Sun-4</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -562,7 +562,7 @@ SPARCstation</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -577,15 +577,15 @@ Sun Ultra series</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../229/435229.xml">
-Sun Enterprise</link>&nbsp;·  <link xlink:type="simple" xlink:href="../820/2262820.xml">
-Sun Blade</link>&nbsp;·  <link xlink:type="simple" xlink:href="../699/2262699.xml">
-Sun Fire</link>&nbsp;·   <link xlink:type="simple" xlink:href="../663/19274663.xml">
-Java Workstation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../465/10818465.xml">
-SPARC Enterprise</link>&nbsp;·  <link xlink:type="simple" xlink:href="../615/2580615.xml">
+ ·  <link xlink:type="simple" xlink:href="../229/435229.xml">
+Sun Enterprise</link> ·  <link xlink:type="simple" xlink:href="../820/2262820.xml">
+Sun Blade</link> ·  <link xlink:type="simple" xlink:href="../699/2262699.xml">
+Sun Fire</link> ·   <link xlink:type="simple" xlink:href="../663/19274663.xml">
+Java Workstation</link> ·  <link xlink:type="simple" xlink:href="../465/10818465.xml">
+SPARC Enterprise</link> ·  <link xlink:type="simple" xlink:href="../615/2580615.xml">
 UltraSPARC T1</link> / <link xlink:type="simple" xlink:href="../717/4776717.xml">
-UltraSPARC T2</link> &nbsp;·  <link xlink:type="simple" xlink:href="../954/36954.xml">
-SPARC</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+UltraSPARC T2</link>  ·  <link xlink:type="simple" xlink:href="../954/36954.xml">
+SPARC</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -600,7 +600,7 @@ JavaStation</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -611,9 +611,9 @@ Sun Ray</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../014/7542014.xml">
-Sun Modular Datacenter</link>&nbsp;·  <link xlink:type="simple" xlink:href="../187/4583187.xml">
-Sun Grid</link>&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../014/7542014.xml">
+Sun Modular Datacenter</link> ·  <link xlink:type="simple" xlink:href="../187/4583187.xml">
+Sun Grid</link> ·  <substance wordnetid="100019613" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <material wordnetid="114580897" confidence="0.8">
 <link xlink:type="simple" xlink:href="../537/4406537.xml">
@@ -646,17 +646,17 @@ Solaris</link></database>
 OpenSolaris</link> / <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../071/29071.xml">
 SunOS</link></O>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../229/68229.xml">
 StarOffice</link></software>
  / <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../227/68227.xml">
 OpenOffice.org</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/417018.xml">
 Java Desktop System</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../908/9939908.xml">
-Sun Secure Global Desktop</link>&nbsp;· <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../908/9939908.xml">
+Sun Secure Global Desktop</link> · <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -665,7 +665,7 @@ Network File System</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../844/216844.xml">
@@ -679,18 +679,18 @@ NIS</link></instrumentality>
 NIS+</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../828/217828.xml">
 JXTA</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../658/2328658.xml">
-JavaDB</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../658/2328658.xml">
+JavaDB</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../545/19545.xml">
 MySQL</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -719,7 +719,7 @@ Java</link> (<message wordnetid="106598915" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 language</link></request>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
@@ -732,16 +732,16 @@ JVM</link></machine>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../470/1165470.xml">
-API</link>&nbsp;·  <link xlink:type="simple" xlink:href="../718/18392718.xml">
-VisualVM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../091/7585091.xml">
-Squawk</link>)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../470/1165470.xml">
+API</link> ·  <link xlink:type="simple" xlink:href="../718/18392718.xml">
+VisualVM</link> ·  <link xlink:type="simple" xlink:href="../091/7585091.xml">
+Squawk</link>) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../049/11125049.xml">
 JavaFX</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../178/214178.xml">
 NetBeans</link></software>
-&nbsp;·   <physical_entity wordnetid="100001930" confidence="0.8">
+ ·   <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -754,8 +754,8 @@ Sun Studio</link></writer>
 </person>
 </communicator>
 </physical_entity>
- &nbsp;·  <link xlink:type="simple" xlink:href="../750/42750.xml">
-EJB</link> &nbsp;·  <software wordnetid="106566077" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../750/42750.xml">
+EJB</link>  ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
@@ -786,7 +786,7 @@ Server Software</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../928/2625928.xml">
 Sun Java System Web Server</link></software>
- &nbsp;·  <system wordnetid="104377057" confidence="0.8">
+  ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../547/6243547.xml">
@@ -796,7 +796,7 @@ Sun Java System Directory Server</link></instrumentality>
  / <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../439/8993439.xml">
 OpenDS</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../345/1614345.xml">
+ ·  <link xlink:type="simple" xlink:href="../345/1614345.xml">
 Sun Java System Application Server</link> / <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../850/3077850.xml">
 GlassFish</link></software>
@@ -810,11 +810,11 @@ GlassFish</link></software>
 Virtualization Solutions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../334/5097334.xml">
-Solaris Containers</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Solaris Containers</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../696/14629696.xml">
 Sun xVM</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../832/10536832.xml">
-Logical Domains</link>&nbsp;·   <link xlink:type="simple" xlink:href="../260/8934260.xml">
+ ·  <link xlink:type="simple" xlink:href="../832/10536832.xml">
+Logical Domains</link> ·   <link xlink:type="simple" xlink:href="../260/8934260.xml">
 VirtualBox</link></col>
 </row>
 <row style="height:2px">
@@ -825,14 +825,14 @@ VirtualBox</link></col>
 Enterprise Software</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../543/7876543.xml">
-Open ESB</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Open ESB</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../179/11842179.xml">
 Sun Java System Access Manager</link></software>
  / <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../110/6743110.xml">
 OpenSSO</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../191/3185191.xml">
-JES</link>&nbsp;·  <link xlink:type="simple" xlink:href="../325/2607325.xml">
+ ·  <link xlink:type="simple" xlink:href="../191/3185191.xml">
+JES</link> ·  <link xlink:type="simple" xlink:href="../325/2607325.xml">
 Project DReaM</link></col>
 </row>
 <row style="height:2px">
@@ -849,14 +849,14 @@ Storage Products</col>
 QFS</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../693/1205693.xml">
 ZFS</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../355/18561355.xml">
@@ -873,11 +873,11 @@ Sun Open Storage</link></device>
 HPC Solutions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../392/14403392.xml">
-Sun Constellation System</link>&nbsp;·  <link xlink:type="simple" xlink:href="../629/14988629.xml">
-Sun Visualization System</link>&nbsp;·   <software wordnetid="106566077" confidence="0.9508927676800064">
+Sun Constellation System</link> ·  <link xlink:type="simple" xlink:href="../629/14988629.xml">
+Sun Visualization System</link> ·   <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/1056409.xml">
 Sun Grid Engine</link></software>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../965/1778965.xml">
@@ -894,13 +894,13 @@ Lustre</link></instrumentality>
 Sun Research</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../690/2885690.xml">
-MAJC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../264/14410264.xml">
-Proximity communication</link>&nbsp;·  <link xlink:type="simple" xlink:href="../049/3885049.xml">
-picoJava</link>&nbsp;·  <link xlink:type="simple" xlink:href="../171/1822171.xml">
-Fortress</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+MAJC</link> ·  <link xlink:type="simple" xlink:href="../264/14410264.xml">
+Proximity communication</link> ·  <link xlink:type="simple" xlink:href="../049/3885049.xml">
+picoJava</link> ·  <link xlink:type="simple" xlink:href="../171/1822171.xml">
+Fortress</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/544916.xml">
 Project Looking Glass</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../619/5011619.xml">
+ ·  <link xlink:type="simple" xlink:href="../619/5011619.xml">
 Sun Labs</link></col>
 </row>
 <row style="height:2px">
@@ -917,8 +917,8 @@ Education and Recognition</col>
 SCP</link></suitability>
 </fitness>
 </qualification>
-s&nbsp;·  <link xlink:type="simple" xlink:href="../036/6973036.xml">
-List of notable employees</link>&nbsp;·  <environment wordnetid="113934596" confidence="0.8">
+s ·  <link xlink:type="simple" xlink:href="../036/6973036.xml">
+List of notable employees</link> ·  <environment wordnetid="113934596" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <situation wordnetid="113927383" confidence="0.8">
 <link xlink:type="simple" xlink:href="../941/998941.xml">
@@ -939,7 +939,7 @@ Community</col>
 <link xlink:type="simple" xlink:href="../789/177789.xml">
 Java Community Process</link></request>
 </message>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -950,7 +950,7 @@ OpenJDK</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <chip wordnetid="103020034" confidence="0.8">
+ ·  <chip wordnetid="103020034" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <microprocessor wordnetid="103760310" confidence="0.8">

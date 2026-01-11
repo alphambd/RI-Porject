@@ -1158,7 +1158,7 @@ Wall Doxey State Park</link></geographical_area>
 </p>
 <p>
 
-<b>Arkansas:</b>&nbsp;&nbsp;&nbsp;&nbsp;<village wordnetid="108672738" confidence="0.9508927676800064">
+<b>Arkansas:</b>    <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../942/106942.xml">
 Horseshoe Lake</link></village>
  - <position wordnetid="108621598" confidence="0.8">
@@ -1244,7 +1244,7 @@ Tunica</link></village>
 </p>
 <p>
 
-<b>Arkansas:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<village wordnetid="108672738" confidence="0.9508927676800064">
+<b>Arkansas:</b>     <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../945/106945.xml">
 Marion</link></village>
  - <village wordnetid="108672738" confidence="0.9508927676800064">
@@ -1270,7 +1270,7 @@ Fayette</link></county>
  - <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../687/91687.xml">
 Tipton</link></county>
-&nbsp;&nbsp;
+  
 <b>Mississippi:</b> <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../834/94834.xml">
 DeSoto</link></county>
@@ -1283,7 +1283,7 @@ Tate</link></county>
  - <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../740/94740.xml">
 Tunica</link></county>
-&nbsp;&nbsp;
+  
 <b>Arkansas:</b> <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../483/97483.xml">
 Crittenden</link></county>

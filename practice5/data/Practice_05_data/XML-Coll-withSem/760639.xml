@@ -2093,7 +2093,7 @@ Callback File System</weblink> a virtual file system for Windows</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../137/19363137.xml">
-Cascade File System</link> &ndash; provides file system access to <software wordnetid="106566077" confidence="0.9508927676800064">
+Cascade File System</link> – provides file system access to <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../868/144868.xml">
 Subversion</link></software>
  and <system wordnetid="104377057" confidence="0.8">
@@ -2182,7 +2182,7 @@ WebDAV</link></database>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../997/10997.xml">
 Freenet</link></software>
- &ndash; Decentralized, censorship-resistant</entry>
+ – Decentralized, censorship-resistant</entry>
 <entry level="1" type="bullet">
 
 <link>
@@ -2234,7 +2234,7 @@ massively parallel processing</link>)</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../922/145922.xml">
-plumber (Plan 9)</link> (interprocess communication &ndash; pipes)</entry>
+plumber (Plan 9)</link> (interprocess communication – pipes)</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://pramfs.sourceforge.net/">
@@ -2275,7 +2275,7 @@ tmpfs</link></entry>
 UMSDOS</link></instrumentality>
 </artifact>
 </system>
- &ndash; FAT file system extended to store permissions and metadata, used for Linux.</entry>
+ – FAT file system extended to store permissions and metadata, used for Linux.</entry>
 <entry level="1" type="bullet">
 
 <system wordnetid="104377057" confidence="0.8">
@@ -2285,11 +2285,11 @@ UMSDOS</link></instrumentality>
 UnionFS</link></instrumentality>
 </artifact>
 </system>
- &ndash; stackable unification file system, which can appear to merge the contents of several directories (branches), while keeping their physical content separate</entry>
+ – stackable unification file system, which can appear to merge the contents of several directories (branches), while keeping their physical content separate</entry>
 <entry level="1" type="bullet">
 
 <link>
-mini fo</link> (The mini fanout overlay file system) &ndash; Redirects modifying operations to a writeable location called "storage directory", and leaving the original data in the "base directory" untouched. When reading, the file system merges the modifed and original data so that only the newest versions will appear.</entry>
+mini fo</link> (The mini fanout overlay file system) – Redirects modifying operations to a writeable location called "storage directory", and leaving the original data in the "base directory" untouched. When reading, the file system merges the modifed and original data so that only the newest versions will appear.</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../530/3002530.xml">
@@ -2326,7 +2326,7 @@ devfs</link></entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../577/1773577.xml">
-procfs</link> &ndash; pseudo-file system, used to access kernel information about processes</entry>
+procfs</link> – pseudo-file system, used to access kernel information about processes</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../643/2841643.xml">
@@ -2395,7 +2395,7 @@ Solid File System</weblink> - (SolFS) cross-platform single-file virtual file sy
 EFS</link></instrumentality>
 </artifact>
 </system>
- &ndash; Encrypted file system for <link xlink:type="simple" xlink:href="../890/18890.xml">
+ – Encrypted file system for <link xlink:type="simple" xlink:href="../890/18890.xml">
 Microsoft Windows</link> systems. An extension of <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">

@@ -30,7 +30,7 @@ CCD</link></detector>
 </instrumentality>
 </artifact>
  (typically, an inexpensive <link xlink:type="simple" xlink:href="../171/92171.xml">
-webcam</link>).  The CCD is enclosed in a light-proof container, and operated at a high gain.  The resulting images are not perfectly black&mdash;they contain noise.  The LavaRnd system takes noisy data from the CCD and runs it through an algorithm called the <weblink xlink:type="simple" xlink:href="http://www.lavarnd.org/what/digital-blender.html">
+webcam</link>).  The CCD is enclosed in a light-proof container, and operated at a high gain.  The resulting images are not perfectly black—they contain noise.  The LavaRnd system takes noisy data from the CCD and runs it through an algorithm called the <weblink xlink:type="simple" xlink:href="http://www.lavarnd.org/what/digital-blender.html">
 Digital Blender</weblink> to produce data that is more uniformly random.  The resulting data is much more random than typical <link xlink:type="simple" xlink:href="../210/23210.xml">
 pseudorandom numbers</link>.<p>
 

@@ -70,9 +70,9 @@ XTP3TPA</weblink>; CDA03; MGC5627; RS21C6</col>
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
   <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1913672">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1913672">
 1913672</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=11329">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=11329">
 11329</weblink></col>
 </row>
 
@@ -222,7 +222,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Stelzl U, Worm U, Lalowski M, et al.&#32;(2005).&#32;"A human protein-protein interaction network: a resource for annotating the proteome.". <it>Cell</it>&#32;<b>122</b>&#32;(6): 957–68. <document wordnetid="106470073" confidence="0.8">
@@ -233,7 +233,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cell.2005.08.029">
-10.1016/j.cell.2005.08.029</weblink>. PMID 16169070.</cite>&nbsp;</entry>
+10.1016/j.cell.2005.08.029</weblink>. PMID 16169070.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Rual JF, Venkatesan K, Hao T, et al.&#32;(2005).&#32;"Towards a proteome-scale map of the human protein-protein interaction network.". <it>Nature</it>&#32;<b>437</b>&#32;(7062): 1173–8. <document wordnetid="106470073" confidence="0.8">
@@ -244,7 +244,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature04209">
-10.1038/nature04209</weblink>. PMID 16189514.</cite>&nbsp;</entry>
+10.1038/nature04209</weblink>. PMID 16189514.</cite> </entry>
 </list>
 </p>
 

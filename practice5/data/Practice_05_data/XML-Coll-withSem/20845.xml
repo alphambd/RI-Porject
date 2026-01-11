@@ -636,7 +636,7 @@ Order preservation</entry>
 <entry level="1" type="indent">
 
  Multiplication by a positive number preserves <link xlink:type="simple" xlink:href="../924/361924.xml">
-order</link>: if <it>a</it>&nbsp;&amp;gt;&nbsp;0, then if <it>b</it>&nbsp;&amp;gt;&nbsp;<it>c</it> then <it>ab</it>&nbsp;&amp;gt;&nbsp;<it>ac</it>.  Multiplication by a negative number <b>reverses</b> order: if <it>a</it>&nbsp;&nbsp;0 and <it>b</it>&nbsp;&amp;gt;&nbsp;<it>c</it> then <it>ab</it>&nbsp;&nbsp;<it>ac</it>.</entry>
+order</link>: if <it>a</it> &amp;gt; 0, then if <it>b</it> &amp;gt; <it>c</it> then <it>ab</it> &amp;gt; <it>ac</it>.  Multiplication by a negative number <b>reverses</b> order: if <it>a</it>  0 and <it>b</it> &amp;gt; <it>c</it> then <it>ab</it>  <it>ac</it>.</entry>
 </list>
 </p>
 <p>
@@ -672,7 +672,7 @@ Proofs</st>
 <p>
 
 Not all of these properties are independent; some are a consequence of the others. A property that can be proven from the others is the zero property of multiplication. It is proven by means of the <link xlink:type="simple" xlink:href="../118/103118.xml">
-distributive property</link>. We assume all the usual properties of addition and subtraction, and &amp;minus;<it>x</it> means the same as 0&nbsp;&amp;minus;&nbsp;<it>x</it>.</p>
+distributive property</link>. We assume all the usual properties of addition and subtraction, and &amp;minus;<it>x</it> means the same as 0 &amp;minus; <it>x</it>.</p>
 <p>
 
 <indent level="1">
@@ -698,7 +698,7 @@ So we have proven:</p>
 <math>x\cdot 0 = 0</math>
 </indent>
 
-The identity (&amp;minus;1)&nbsp;·&nbsp;<it>x</it>&nbsp;=&nbsp;&amp;minus;<it>x</it> can also be proven using the distributive property:</p>
+The identity (&amp;minus;1) · <it>x</it> = &amp;minus;<it>x</it> can also be proven using the distributive property:</p>
 <p>
 
 <indent level="1">
@@ -716,7 +716,7 @@ The identity (&amp;minus;1)&nbsp;·&nbsp;<it>x</it>&nbsp;=&nbsp;&amp;minus;<it>x
 </math>
 </indent>
 
-The proof that (&amp;minus;1)&nbsp;·&nbsp;(&amp;minus;1)&nbsp;=&nbsp;1 is now easy:</p>
+The proof that (&amp;minus;1) · (&amp;minus;1) = 1 is now easy:</p>
 <p>
 
 <indent level="1">
@@ -1093,7 +1093,7 @@ References</st>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><link xlink:type="simple" xlink:href="../636/6694636.xml">
-Boyer, Carl B.</link> (revised by Merzbach, Uta C.)&#32;(1991). History of Mathematics.&#32;John Wiley and Sons, Inc.. ISBN 0-471-54397-7.</cite>&nbsp;</entry>
+Boyer, Carl B.</link> (revised by Merzbach, Uta C.)&#32;(1991). History of Mathematics.&#32;John Wiley and Sons, Inc.. ISBN 0-471-54397-7.</cite> </entry>
 </list>
 </p>
 

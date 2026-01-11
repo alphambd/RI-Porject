@@ -76,7 +76,7 @@ HM Treasury</link></institution>
 HM Revenue and Customs</link>
 ----
 <link xlink:type="simple" xlink:href="../503/890503.xml">
-Income tax</link>&nbsp;·  <liabilities wordnetid="113396054" confidence="0.8">
+Income tax</link> ·  <liabilities wordnetid="113396054" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <charge wordnetid="113400798" confidence="0.8">
 <tax wordnetid="113308999" confidence="0.8">
@@ -89,15 +89,15 @@ PAYE</link></levy>
 </liabilities>
 
 <link xlink:type="simple" xlink:href="../067/217067.xml">
-VAT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../844/316844.xml">
+VAT</link> ·  <link xlink:type="simple" xlink:href="../844/316844.xml">
 National Insurance</link>
 <link xlink:type="simple" xlink:href="../441/594441.xml">
 Corporation tax</link>
 <link xlink:type="simple" xlink:href="../994/2008994.xml">
-Inheritance tax</link>&nbsp;·  <link xlink:type="simple" xlink:href="../358/1618358.xml">
+Inheritance tax</link> ·  <link xlink:type="simple" xlink:href="../358/1618358.xml">
 Stamp duty</link>
 <link xlink:type="simple" xlink:href="../878/505878.xml#xpointer(//*[./st=%22United+Kingdom%22])">
-Capital gains tax</link>&nbsp;·  <link xlink:type="simple" xlink:href="../886/376886.xml">
+Capital gains tax</link> ·  <link xlink:type="simple" xlink:href="../886/376886.xml">
 Excise tax</link>
 <link xlink:type="simple" xlink:href="../910/6156910.xml">
 Motoring taxes</link></col>
@@ -110,8 +110,8 @@ Local government</link></header>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../661/156661.xml">
-Council Tax</link>&nbsp;·  <link xlink:type="simple" xlink:href="../250/856250.xml">
-Rates</link>&nbsp;·  <link xlink:type="simple" xlink:href="../045/6056045.xml">
+Council Tax</link> ·  <link xlink:type="simple" xlink:href="../250/856250.xml">
+Rates</link> ·  <link xlink:type="simple" xlink:href="../045/6056045.xml">
 Business rates</link></col>
 </row>
 <row>
@@ -123,7 +123,7 @@ Taxation by country|Taxation by country</p>
 <p>
 
 <link xlink:type="simple" xlink:href="../953/4822953.xml">
-Australia</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../735/11683735.xml">
+Australia</link> &amp;bull;  <link xlink:type="simple" xlink:href="../735/11683735.xml">
 British Virgin Islands</link>
 <liabilities wordnetid="113396054" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
@@ -136,31 +136,31 @@ Canada</link></levy>
 </charge>
 </possession>
 </liabilities>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../753/14672753.xml">
-China</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../926/14318926.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../753/14672753.xml">
+China</link> &amp;bull;  <link xlink:type="simple" xlink:href="../926/14318926.xml">
 Colombia</link>
 <link xlink:type="simple" xlink:href="../279/2673279.xml">
-France</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../553/1612553.xml">
-Germany</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../636/5391636.xml">
+France</link> &amp;bull;  <link xlink:type="simple" xlink:href="../553/1612553.xml">
+Germany</link> &amp;bull;  <link xlink:type="simple" xlink:href="../636/5391636.xml">
 Hong Kong</link>
 <link xlink:type="simple" xlink:href="../302/7997302.xml">
-India</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../037/2632037.xml">
-Indonesia</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../092/1973092.xml">
+India</link> &amp;bull;  <link xlink:type="simple" xlink:href="../037/2632037.xml">
+Indonesia</link> &amp;bull;  <link xlink:type="simple" xlink:href="../092/1973092.xml">
 Ireland</link>
 <link xlink:type="simple" xlink:href="../011/4236011.xml">
-Netherlands</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../334/3489334.xml">
+Netherlands</link> &amp;bull;  <link xlink:type="simple" xlink:href="../334/3489334.xml">
 New Zealand</link>
 <link xlink:type="simple" xlink:href="../945/8669945.xml">
-Peru</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../654/5550654.xml">
+Peru</link> &amp;bull;  <link xlink:type="simple" xlink:href="../654/5550654.xml">
 Russia</link>
 <link xlink:type="simple" xlink:href="../568/2348568.xml">
-Singapore</link>&nbsp;&amp;bull;   <link xlink:type="simple" xlink:href="../406/18892406.xml">
+Singapore</link> &amp;bull;   <link xlink:type="simple" xlink:href="../406/18892406.xml">
 Switzerland</link>
 <link xlink:type="simple" xlink:href="../909/9933909.xml">
-Tanzania</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../503/890503.xml">
+Tanzania</link> &amp;bull;  <link xlink:type="simple" xlink:href="../503/890503.xml">
 United Kingdom</link>
 <link xlink:type="simple" xlink:href="../552/30552.xml">
-United States</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../067/217067.xml">
+United States</link> &amp;bull;  <link xlink:type="simple" xlink:href="../067/217067.xml">
 European Union</link></p>
 
 
@@ -749,7 +749,7 @@ BBC News</link></program>
 </announcement>
 </message>
 </statement>
-&#32;(2001-09-17).&nbsp;</entry>
+&#32;(2001-09-17). </entry>
 <entry id="3">
  see "The Customer is always right" Tax Advisor February 2003.</entry>
 <entry id="4">
@@ -854,33 +854,33 @@ Non-police law enforcement agencies of the United Kingdom</link></header>
 National</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../341/4478341.xml">
-Child Exploitation and Online Protection Centre</link>&nbsp;·  <link xlink:type="simple" xlink:href="../806/651806.xml">
-HM Revenue and Customs</link>&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+Child Exploitation and Online Protection Centre</link> ·  <link xlink:type="simple" xlink:href="../806/651806.xml">
+HM Revenue and Customs</link> ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../221/2268221.xml">
 Joint Terrorism Analysis Centre</link></agency>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../251/15620251.xml">
 National Counter Terrorism Security Office</link></agency>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <right wordnetid="105174653" confidence="0.8">
 <link xlink:type="simple" xlink:href="../959/2525959.xml">
 National Extremism Tactical Co-ordination Unit</link></right>
 </agency>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../242/17038242.xml">
 National Wildlife Crime Unit</link></agency>
 </administrative_unit>
-&nbsp;·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../839/429839.xml">
 Serious Fraud Office (SFO)</link></law_enforcement_agency>
-&nbsp;·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/16195149.xml">
 UK Border Agency</link></law_enforcement_agency>
 </col>
@@ -905,8 +905,8 @@ Environment Agency</link></administration>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../308/361308.xml">
-Health and Safety Executive</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../308/361308.xml">
+Health and Safety Executive</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
@@ -923,8 +923,8 @@ Her Majesty's Prison Service</link></administration>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../586/6520586.xml">
-Marine and Fisheries Agency</link>&nbsp;·  <link xlink:type="simple" xlink:href="../665/462665.xml">
+ ·  <link xlink:type="simple" xlink:href="../586/6520586.xml">
+Marine and Fisheries Agency</link> ·  <link xlink:type="simple" xlink:href="../665/462665.xml">
 Serious Organised Crime Agency (SOCA)</link></col>
 </row>
 <row style="height:2px">
@@ -935,9 +935,9 @@ Serious Organised Crime Agency (SOCA)</link></col>
 Scotland</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../308/361308.xml">
-Health and Safety Executive</link>&nbsp;·  <link xlink:type="simple" xlink:href="../453/3149453.xml">
-Scottish Crime and Drug Enforcement Agency (SCDEA)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../171/2904171.xml">
-Scottish Environmental Protection Agency</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+Health and Safety Executive</link> ·  <link xlink:type="simple" xlink:href="../453/3149453.xml">
+Scottish Crime and Drug Enforcement Agency (SCDEA)</link> ·  <link xlink:type="simple" xlink:href="../171/2904171.xml">
+Scottish Environmental Protection Agency</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
@@ -958,7 +958,7 @@ Scottish Fisheries Protection Agency</link></group>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../510/3899510.xml">
 Scottish Prison Service</link></agency>
@@ -973,7 +973,7 @@ Scottish Prison Service</link></agency>
 Northern Ireland</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../730/16990730.xml">
-Health and Safety Executive for Northern Ireland</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+Health and Safety Executive for Northern Ireland</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
@@ -988,7 +988,7 @@ Northern Ireland Prison Service</link></administration>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../449/17141449.xml">
+ ·  <link xlink:type="simple" xlink:href="../449/17141449.xml">
 Organised Crime Task Force</link></col>
 </row>
 <row style="height:2px">
@@ -1134,12 +1134,12 @@ Chancellor of the Exchequer</link></military_officer>
 </physical_entity>
 </skilled_worker>
  and <link xlink:type="simple" xlink:href="../773/266773.xml">
-Second Lord of the Treasury</link>&nbsp;·  <office wordnetid="103841666" confidence="0.9508927676800064">
+Second Lord of the Treasury</link> ·  <office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../990/316990.xml">
 Chief Secretary to the Treasury</link></office>
-&nbsp;·  <link xlink:type="simple" xlink:href="../386/1087386.xml">
-Financial Secretary to the Treasury</link>&nbsp;·  <link xlink:type="simple" xlink:href="../359/1087359.xml">
-Economic Secretary to the Treasury</link>&nbsp;·  <link xlink:type="simple" xlink:href="../800/12020800.xml">
+ ·  <link xlink:type="simple" xlink:href="../386/1087386.xml">
+Financial Secretary to the Treasury</link> ·  <link xlink:type="simple" xlink:href="../359/1087359.xml">
+Economic Secretary to the Treasury</link> ·  <link xlink:type="simple" xlink:href="../800/12020800.xml">
 Exchequer Secretary to the Treasury</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="3">
 <image width="50px" src="HM_Treasury_east_entrance.jpg">
@@ -1154,9 +1154,9 @@ Exchequer Secretary to the Treasury</link></col>
 Bodies</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../826/1718826.xml">
-Office of Government Commerce</link>&nbsp;·  <link xlink:type="simple" xlink:href="../379/810379.xml">
-OGCBuying.Solutions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../526/3028526.xml">
-National Savings and Investments</link>&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+Office of Government Commerce</link> ·  <link xlink:type="simple" xlink:href="../379/810379.xml">
+OGCBuying.Solutions</link> ·  <link xlink:type="simple" xlink:href="../526/3028526.xml">
+National Savings and Investments</link> ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <medium_of_exchange wordnetid="113372961" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
@@ -1171,15 +1171,15 @@ Royal Mint</link></currency>
 </medium_of_exchange>
 </standard>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <executive_agency wordnetid="108123696" confidence="0.8">
 <link xlink:type="simple" xlink:href="../578/1674578.xml">
 UK Debt Management Office</link></executive_agency>
 </agency>
 </administrative_unit>
-&nbsp;·  <link xlink:type="simple" xlink:href="../806/651806.xml">
-HM Revenue and Customs</link>&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../806/651806.xml">
+HM Revenue and Customs</link> ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <executive_agency wordnetid="108123696" confidence="0.8">
 <link xlink:type="simple" xlink:href="../135/3542135.xml">
@@ -1222,24 +1222,24 @@ United Kingdom Government</link></executive_branch>
 Ministerial departments</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../111/433111.xml">
-Attorney General's Office</link>&nbsp;·  <office wordnetid="103841666" confidence="0.9508927676800064">
+Attorney General's Office</link> ·  <office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/301434.xml">
 Cabinet Office</link></office>
-&nbsp;·  <link xlink:type="simple" xlink:href="../191/5020191.xml">
-Communities and Local Government</link>&nbsp;·  <link xlink:type="simple" xlink:href="../087/11992087.xml">
-Department for Business, Enterprise and Regulatory Reform</link>&nbsp;·  <link xlink:type="simple" xlink:href="../463/11990463.xml">
-Department for Children, Schools and Families</link>&nbsp;·  <link xlink:type="simple" xlink:href="../357/373357.xml">
-Department for Culture, Media and Sport</link>&nbsp;·  <link xlink:type="simple" xlink:href="../413/19590413.xml">
-Department of Energy and Climate Change</link>&nbsp;·  <link xlink:type="simple" xlink:href="../477/301477.xml">
-Department for Environment, Food and Rural Affairs</link>&nbsp;·  <link xlink:type="simple" xlink:href="../282/11991282.xml">
-Department for Innovation, Universities and Skills</link>&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../191/5020191.xml">
+Communities and Local Government</link> ·  <link xlink:type="simple" xlink:href="../087/11992087.xml">
+Department for Business, Enterprise and Regulatory Reform</link> ·  <link xlink:type="simple" xlink:href="../463/11990463.xml">
+Department for Children, Schools and Families</link> ·  <link xlink:type="simple" xlink:href="../357/373357.xml">
+Department for Culture, Media and Sport</link> ·  <link xlink:type="simple" xlink:href="../413/19590413.xml">
+Department of Energy and Climate Change</link> ·  <link xlink:type="simple" xlink:href="../477/301477.xml">
+Department for Environment, Food and Rural Affairs</link> ·  <link xlink:type="simple" xlink:href="../282/11991282.xml">
+Department for Innovation, Universities and Skills</link> ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../311/247311.xml">
 Department for International Development</link></agency>
 </administrative_unit>
-&nbsp;·  <link xlink:type="simple" xlink:href="../847/548847.xml">
-Department for Transport</link>&nbsp;·  <link xlink:type="simple" xlink:href="../987/652987.xml">
-Department for Work and Pensions</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../847/548847.xml">
+Department for Transport</link> ·  <link xlink:type="simple" xlink:href="../987/652987.xml">
+Department for Work and Pensions</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1260,15 +1260,15 @@ Department of Health</link></group>
 </division>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../653/59653.xml">
-Foreign and Commonwealth Office</link>&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../653/59653.xml">
+Foreign and Commonwealth Office</link> ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../235/14408235.xml">
 Government Equalities Office</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <issuer wordnetid="108055150" confidence="0.8">
 <priesthood wordnetid="108113443" confidence="0.8">
@@ -1287,8 +1287,8 @@ HM Treasury</link></institution>
 </issuer>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../695/225695.xml">
-Home Office</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../695/225695.xml">
+Home Office</link> ·  <body wordnetid="107965085" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1309,7 +1309,7 @@ Ministry of Defence</link></group>
 </building>
 </structure>
 </body>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1330,21 +1330,21 @@ Ministry of Justice</link></group>
 </division>
 </social_group>
 </body>
-&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../520/857520.xml">
 Northern Ireland Office</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../283/1142283.xml">
 Office of the Leader of the House of Commons</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1359,7 +1359,7 @@ Scotland Office</link></administration>
 </division>
 </social_group>
 </body>
-&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <politics wordnetid="113840719" confidence="0.8">
 <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
@@ -1406,14 +1406,14 @@ Charity Commission for England and Wales</link></institution>
 </department>
 </administrative_unit>
 </division>
-&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../319/8810319.xml">
 Commissioners for the Reduction of the National Debt</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <forest wordnetid="108438533" confidence="0.8">
@@ -1428,7 +1428,7 @@ Crown Estate</link></group>
 </department>
 </administrative_unit>
 </division>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <body wordnetid="107965085" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1455,21 +1455,21 @@ Crown Prosecution Service</link></administration>
 </department>
 </body>
 </work>
-&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../844/429844.xml">
 Export Credits Guarantee Department</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../848/429848.xml">
 Food Standards Agency</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1490,7 +1490,7 @@ Forestry Commission</link></administration>
 </division>
 </social_group>
 </body>
-&nbsp;·  <possession wordnetid="100032613" confidence="0.8">
+ ·  <possession wordnetid="100032613" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <payment wordnetid="113278375" confidence="0.8">
@@ -1511,8 +1511,8 @@ Government Actuary's Department</link></cost>
 </administrative_unit>
 </division>
 </possession>
-&nbsp;·  <link xlink:type="simple" xlink:href="../806/651806.xml">
-HM Revenue and Customs</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../806/651806.xml">
+HM Revenue and Customs</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <college wordnetid="108278169" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -1521,17 +1521,17 @@ National School of Government</link></group>
 </college>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../482/301482.xml">
-Office for Standards in Education, Children's Services and Skills</link>&nbsp;·  <link xlink:type="simple" xlink:href="../114/2914114.xml">
-Office of Fair Trading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../309/2014309.xml">
-Gas and Electricity Markets Authority</link>&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../482/301482.xml">
+Office for Standards in Education, Children's Services and Skills</link> ·  <link xlink:type="simple" xlink:href="../114/2914114.xml">
+Office of Fair Trading</link> ·  <link xlink:type="simple" xlink:href="../309/2014309.xml">
+Gas and Electricity Markets Authority</link> ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../348/1622348.xml">
 Office of Rail Regulation</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <occupation wordnetid="100582388" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1548,29 +1548,29 @@ Parliamentary Counsel Office</link></activity>
 </administrative_unit>
 </division>
 </occupation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../372/18553372.xml">
-Postal Services Commission</link>&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../372/18553372.xml">
+Postal Services Commission</link> ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../058/11168058.xml">
 Public Works Loan Board</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <link xlink:type="simple" xlink:href="../748/1764748.xml">
-Revenue and Customs Prosecutions Office</link>&nbsp;·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../748/1764748.xml">
+Revenue and Customs Prosecutions Office</link> ·  <law_enforcement_agency wordnetid="108348815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../839/429839.xml">
 Serious Fraud Office</link></law_enforcement_agency>
-&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../568/16155568.xml">
 UK Statistics Authority</link></department>
 </administrative_unit>
 </division>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../147/11866147.xml">
 UK Trade &amp; Investment</link></company>
-&nbsp;·  <control wordnetid="105196375" confidence="0.8">
+ ·  <control wordnetid="105196375" confidence="0.8">
 <authority wordnetid="105196582" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">

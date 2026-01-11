@@ -104,7 +104,7 @@ Eudoxus of Cnidus</link></scholar>
 <link xlink:type="simple" xlink:href="../308/308.xml">
 Aristotle</link></philosopher>
 </person>
- (about 330 BC) hinted at it in his <it>Topics</it>, 158b, 29&ndash;35.</p>
+ (about 330 BC) hinted at it in his <it>Topics</it>, 158b, 29–35.</p>
 
 </sec>
 <sec>
@@ -184,7 +184,7 @@ The extended Euclidean algorithm</st>
 <it>Main article: <link xlink:type="simple" xlink:href="../438/99438.xml">
 extended Euclidean algorithm</link></it>
 </indent>
-By keeping track of the quotients occurring during the algorithm, one can also determine integers <it>p</it> and <it>q</it> with <it>ap</it>&nbsp;+&nbsp;<it>bq</it>&nbsp;=&nbsp;gcd(<it>a</it>,&nbsp;<it>b</it>).
+By keeping track of the quotients occurring during the algorithm, one can also determine integers <it>p</it> and <it>q</it> with <it>ap</it> + <it>bq</it> = gcd(<it>a</it>, <it>b</it>).
 This is known as the extended Euclidean algorithm.</p>
 
 </ss1>
@@ -340,15 +340,15 @@ Observe that <it>a</it> &amp;ge; <it>b</it> in each call.  If initially, <it>b</
 Proof</st>
 <p>
 
-Suppose <it>a</it> and <it>b</it> are the natural numbers whose gcd has to be determined. Now, suppose <it>b</it>&nbsp;&amp;gt;&nbsp;0,  and the remainder of the division of <it>a</it> by <it>b</it> is <it>r</it>.  Therefore <it>a</it>&nbsp;=&nbsp;<it>qb</it>&nbsp;+&nbsp;<it>r</it> where <it>q</it> is the quotient of the division. </p>
+Suppose <it>a</it> and <it>b</it> are the natural numbers whose gcd has to be determined. Now, suppose <it>b</it> &amp;gt; 0,  and the remainder of the division of <it>a</it> by <it>b</it> is <it>r</it>.  Therefore <it>a</it> = <it>qb</it> + <it>r</it> where <it>q</it> is the quotient of the division. </p>
 <p>
 
-Any common divisor of <it>a</it> and <it>b</it> is also a divisor of <it>r</it>. To see why this is true, consider that <it>r</it> can be written as <it>r</it>&nbsp;=&nbsp;<it>a</it>&nbsp;&amp;minus;&nbsp;<it>qb</it>. Now, if there is a  common divisor <it>d</it> of <it>a</it> and <it>b</it> such that <it>a</it>&nbsp;=&nbsp;<it>sd</it> and <it>b</it>&nbsp;=&nbsp;<it>td</it>, then  <it>r</it>&nbsp;=&nbsp;(<it>s</it>&amp;minus;<it>qt</it>)<it>d</it>. Since all these numbers, including <it>s</it>&amp;minus;<it>qt</it>, are whole numbers, it can be seen that <it>r</it> is divisible by <it>d</it>.</p>
+Any common divisor of <it>a</it> and <it>b</it> is also a divisor of <it>r</it>. To see why this is true, consider that <it>r</it> can be written as <it>r</it> = <it>a</it> &amp;minus; <it>qb</it>. Now, if there is a  common divisor <it>d</it> of <it>a</it> and <it>b</it> such that <it>a</it> = <it>sd</it> and <it>b</it> = <it>td</it>, then  <it>r</it> = (<it>s</it>&amp;minus;<it>qt</it>)<it>d</it>. Since all these numbers, including <it>s</it>&amp;minus;<it>qt</it>, are whole numbers, it can be seen that <it>r</it> is divisible by <it>d</it>.</p>
 <p>
 
 The above analysis is true for any divisor <it>d</it>; thus, the greatest common divisor of <it>a</it> and <it>b</it> is also the greatest common divisor of <it>b</it> and <it>r</it>. Therefore it is enough if we continue searching for the greatest common divisor with the numbers <it>b</it> and <it>r</it>.
 Since <it>r</it> is smaller in <link xlink:type="simple" xlink:href="../991/991.xml">
-absolute value</link> than <it>b</it>, we will reach <it>r</it>&nbsp;=&nbsp;0 after finitely many steps.</p>
+absolute value</link> than <it>b</it>, we will reach <it>r</it> = 0 after finitely many steps.</p>
 
 </sec>
 <sec>
@@ -412,7 +412,7 @@ Relation with continued fractions</st>
 
 The quotients that appear when the Euclidean algorithm is applied to the inputs <it>a</it> and <it>b</it> are precisely the numbers occurring in the <link xlink:type="simple" xlink:href="../802/46802.xml">
 continued fraction</link> representation of <it>a</it>/<it>b</it>. 
-Take for instance the example of <it>a</it>&nbsp;=&nbsp;1071 and <it>b</it>&nbsp;=&nbsp;1029 used above. 
+Take for instance the example of <it>a</it> = 1071 and <it>b</it> = 1029 used above. 
 Here is the calculation with highlighted quotients:
 <indent level="1">
 
@@ -604,7 +604,7 @@ The Art of Computer Programming</link></publication>
 </creation>
 </product>
 </work>
-</it>, Volume 2: <it>Seminumerical Algorithms</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89684-2. Sections 4.5.2&ndash;4.5.3, pp.333&ndash;379.</entry>
+</it>, Volume 2: <it>Seminumerical Algorithms</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89684-2. Sections 4.5.2–4.5.3, pp.333–379.</entry>
 <entry level="1" type="bullet">
 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -630,7 +630,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 31.2: Greatest common divisor, pp.856&ndash;862.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 31.2: Greatest common divisor, pp.856–862.</entry>
 <entry level="1" type="bullet">
 
 <link>

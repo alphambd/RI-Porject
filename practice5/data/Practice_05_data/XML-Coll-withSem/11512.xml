@@ -41,7 +41,7 @@ number theory</link>; this article gives an overview of the available techniques
 A DFT decomposes a <link xlink:type="simple" xlink:href="../838/27838.xml">
 sequence</link> of values into components of different frequencies.  This operation is useful in many fields (see <link xlink:type="simple" xlink:href="../811/8811.xml">
 discrete Fourier transform</link> for properties and applications of the transform) but computing it directly from the definition is often too slow to be practical.  An FFT is a way to compute the same result more quickly: computing a DFT of <it>N</it> points in the obvious way, using the definition, takes <link xlink:type="simple" xlink:href="../578/44578.xml">
-O(<it>N</it> 2)</link> arithmetical operations, while an FFT  can compute the same result in only O(<it>N</it> log <it>N</it>) operations.  The difference in speed can be substantial, especially for long data sets where <it>N</it> may be in the thousands or millions&mdash;in practice, the computation time can be reduced by several <link xlink:type="simple" xlink:href="../657/22657.xml">
+O(<it>N</it> 2)</link> arithmetical operations, while an FFT  can compute the same result in only O(<it>N</it> log <it>N</it>) operations.  The difference in speed can be substantial, especially for long data sets where <it>N</it> may be in the thousands or millions—in practice, the computation time can be reduced by several <link xlink:type="simple" xlink:href="../657/22657.xml">
 orders of magnitude</link> in such cases, and the improvement is roughly <link xlink:type="simple" xlink:href="../863/81863.xml">
 proportional to</link> <it>N</it>/log(<it>N</it>).  This huge improvement made many DFT-based algorithms practical; FFTs are of great importance to a wide variety of applications, from <link xlink:type="simple" xlink:href="../TN$$/HT$C$_T$yT$N$.xml">
 digital signal processing</link> and solving <link xlink:type="simple" xlink:href="../564/52564.xml">
@@ -63,7 +63,7 @@ k = 0,\dots,N-1. </math>
 An FFT is any method to compute the same results in O(<it>N</it> log <it>N</it>) operations.</p>
 <p>
 
-To illustrate the savings of an FFT, consider the count of complex multiplications and additions.  Evaluating the DFT's sums directly involves <it>N</it>2 complex multiplies and <it>N</it>2 complex additions [of which ''O''(''N'') operations can be saved by eliminating trivial operations such as multiplications by 1].  The well-known radix-2 Cooley-Tukey FFT algorithm, for <it>N</it> a power of 2, can compute the same result with only (<it>N</it>/2)&nbsp;log2&nbsp;<it>N</it> complex multiplies (again, ignoring simplifications of multiplications by 1 and similar) and <it>N</it>&nbsp;log2<it>N</it> complex additions.   In practice, actual performance on modern computers is usually dominated by factors other than arithmetic and is a complicated subject (see, e.g., Johnson &amp; Frigo, 2007), but the overall improvement from &amp;Theta;(<it>N</it>2) to &amp;Theta;(<it>N</it> log <it>N</it>) remains.</p>
+To illustrate the savings of an FFT, consider the count of complex multiplications and additions.  Evaluating the DFT's sums directly involves <it>N</it>2 complex multiplies and <it>N</it>2 complex additions [of which ''O''(''N'') operations can be saved by eliminating trivial operations such as multiplications by 1].  The well-known radix-2 Cooley-Tukey FFT algorithm, for <it>N</it> a power of 2, can compute the same result with only (<it>N</it>/2) log2 <it>N</it> complex multiplies (again, ignoring simplifications of multiplications by 1 and similar) and <it>N</it> log2<it>N</it> complex additions.   In practice, actual performance on modern computers is usually dominated by factors other than arithmetic and is a complicated subject (see, e.g., Johnson &amp; Frigo, 2007), but the overall improvement from &amp;Theta;(<it>N</it>2) to &amp;Theta;(<it>N</it> log <it>N</it>) remains.</p>
 <p>
 
 In general, FFT algorithms depend upon the <link xlink:type="simple" xlink:href="../341/82341.xml">
@@ -271,7 +271,7 @@ Winograd</link></associate>
 </peer>
 </physical_entity>
  algorithm, which factorizes <math>z^N-1</math> into <link>
-cyclotomic polynomial</link>s&mdash;these often have coefficients of 1, 0, or &amp;minus;1, and therefore require few (if any) multiplications, so Winograd can be used to obtain minimal-multiplication FFTs and is often used to find efficient algorithms for small factors.  Indeed, Winograd showed that the DFT can be computed with only <math>O(N)</math> irrational multiplications, leading to a proven achievable lower bound on the number of multiplications for power-of-two sizes; unfortunately, this comes at the cost of many more additions, a tradeoff no longer favorable on modern <link xlink:type="simple" xlink:href="../218/5218.xml">
+cyclotomic polynomial</link>s—these often have coefficients of 1, 0, or &amp;minus;1, and therefore require few (if any) multiplications, so Winograd can be used to obtain minimal-multiplication FFTs and is often used to find efficient algorithms for small factors.  Indeed, Winograd showed that the DFT can be computed with only <math>O(N)</math> irrational multiplications, leading to a proven achievable lower bound on the number of multiplications for power-of-two sizes; unfortunately, this comes at the cost of many more additions, a tradeoff no longer favorable on modern <link xlink:type="simple" xlink:href="../218/5218.xml">
 processor</link>s with <link xlink:type="simple" xlink:href="../see/Linden=2C_T$ennessee.xml">
 hardware multipliers</link>. In particular, Winograd also makes use of the PFA as well as an algorithm by Rader for FFTs of <it>prime</it> sizes.</p>
 <p>
@@ -455,9 +455,9 @@ Other generalizations</st>
 
 <p>
 
-An <it>O</it>(<it>N</it>5/2 log&nbsp;<it>N</it>) generalization to <link xlink:type="simple" xlink:href="../056/203056.xml">
-spherical harmonics</link> on the sphere <it>S</it>2 with <it>N</it>2 nodes was described by Mohlenkamp (1999), along with an algorithm conjectured (but not proven) to have <it>O</it>(<it>N</it>2 log2&nbsp;<it>N</it>) complexity; Mohlenkamp also provides an implementation in the <weblink xlink:type="simple" xlink:href="http://www.math.ohiou.edu/~mjm/research/libftsh.html">
-libftsh library</weblink>.  A spherical-harmonic algorithm with <it>O</it>(<it>N</it>2 log&nbsp;<it>N</it>) complexity is described by Rokhlin and Tygert (2006).</p>
+An <it>O</it>(<it>N</it>5/2 log <it>N</it>) generalization to <link xlink:type="simple" xlink:href="../056/203056.xml">
+spherical harmonics</link> on the sphere <it>S</it>2 with <it>N</it>2 nodes was described by Mohlenkamp (1999), along with an algorithm conjectured (but not proven) to have <it>O</it>(<it>N</it>2 log2 <it>N</it>) complexity; Mohlenkamp also provides an implementation in the <weblink xlink:type="simple" xlink:href="http://www.math.ohiou.edu/~mjm/research/libftsh.html">
+libftsh library</weblink>.  A spherical-harmonic algorithm with <it>O</it>(<it>N</it>2 log <it>N</it>) complexity is described by Rokhlin and Tygert (2006).</p>
 <p>
 
 Various groups have also published "FFT" algorithms for non-equispaced data, as reviewed in Potts <it>et al.</it> (2001).  Such algorithms do not strictly compute the DFT (which is only defined for equispaced data), but rather some approximation thereof (a <link>
@@ -625,7 +625,7 @@ A New Principle for Fast Fourier Transformation</weblink>, <it>IEEE Acoustics, S
 <entry level="1" type="bullet">
 
  Cooley, James W., and <link xlink:type="simple" xlink:href="../974/415974.xml">
-John W. Tukey</link>, 1965, "An algorithm for the machine calculation of complex Fourier series," <it>Math. Comput.</it> <b>19</b>: 297&ndash;301.</entry>
+John W. Tukey</link>, 1965, "An algorithm for the machine calculation of complex Fourier series," <it>Math. Comput.</it> <b>19</b>: 297–301.</entry>
 <entry level="1" type="bullet">
 
  <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -659,15 +659,15 @@ Algorithms meeting the lower bounds on the multiplicative complexity of length-<
 <entry level="1" type="bullet">
 
  ------- and M. Vetterli, 1990, <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016/0165-1684(90)90158-U">
-Fast Fourier transforms: a tutorial review and a state of the art</weblink> , <it>Signal Processing</it> <b>19</b>: 259&ndash;299.</entry>
+Fast Fourier transforms: a tutorial review and a state of the art</weblink> , <it>Signal Processing</it> <b>19</b>: 259–299.</entry>
 <entry level="1" type="bullet">
 
  A. Edelman, P. McCorquodale, and S. Toledo, 1999, <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137/S1064827597316266">
-The Future Fast Fourier Transform?</weblink> , <it>SIAM J. Sci. Computing</it> <b>20</b>: 1094&ndash;1114.</entry>
+The Future Fast Fourier Transform?</weblink> , <it>SIAM J. Sci. Computing</it> <b>20</b>: 1094–1114.</entry>
 <entry level="1" type="bullet">
 
  Funda Ergün, 1995, <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145/225058.225167">
-Testing multivariate linear functions: Overcoming the generator bottleneck</weblink> , <it>Proc. 27th ACM Symposium on the Theory of Computing</it>: 407&ndash;416.</entry>
+Testing multivariate linear functions: Overcoming the generator bottleneck</weblink> , <it>Proc. 27th ACM Symposium on the Theory of Computing</it>: 407–416.</entry>
 <entry level="1" type="bullet">
 
 M. Frigo and S. G. Johnson, 2005, "<weblink xlink:type="simple" xlink:href="http://fftw.org/fftw-paper-ieee.pdf">
@@ -679,18 +679,18 @@ The Design and Implementation of FFTW3</weblink>," <it>Proceedings of the IEEE</
 <link xlink:type="simple" xlink:href="../125/6125.xml">
 Carl Friedrich Gauss</link></scientist>
 </person>
-, 1866. "Nachlass: Theoria interpolationis methodo nova tractata," <it>Werke</it> band <b>3</b>, 265&ndash;327. Göttingen: Königliche Gesellschaft der Wissenschaften.</entry>
+, 1866. "Nachlass: Theoria interpolationis methodo nova tractata," <it>Werke</it> band <b>3</b>, 265–327. Göttingen: Königliche Gesellschaft der Wissenschaften.</entry>
 <entry level="1" type="bullet">
 
- W. M. Gentleman and G. Sande, 1966, "Fast Fourier transforms&mdash;for fun and profit," <it>Proc. AFIPS</it> <b>29</b>: 563&ndash;578.</entry>
+ W. M. Gentleman and G. Sande, 1966, "Fast Fourier transforms—for fun and profit," <it>Proc. AFIPS</it> <b>29</b>: 563–578.</entry>
 <entry level="1" type="bullet">
 
  H. Guo and C. S. Burrus, 1996, <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1117/12.255236">
-Fast approximate Fourier transform via wavelets transform</weblink> , <it>Proc. SPIE Intl. Soc. Opt. Eng.</it> <b>2825</b>: 250&ndash;259.</entry>
+Fast approximate Fourier transform via wavelets transform</weblink> , <it>Proc. SPIE Intl. Soc. Opt. Eng.</it> <b>2825</b>: 250–259.</entry>
 <entry level="1" type="bullet">
 
  ------- and G. A. Sitton, 1994, <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109/ICASSP.1994.389994">
-The Quick Discrete Fourier Transform</weblink> , <it>Proc. IEEE Conf. Acoust. Speech and Sig. Processing (ICASSP)</it> <b>3</b>: 445&ndash;448.</entry>
+The Quick Discrete Fourier Transform</weblink> , <it>Proc. IEEE Conf. Acoust. Speech and Sig. Processing (ICASSP)</it> <b>3</b>: 445–448.</entry>
 <entry level="1" type="bullet">
 
  Michael T. Heideman and C. Sidney Burrus, 1986, <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1164785">
@@ -698,7 +698,7 @@ On the number of multiplications necessary to compute a length-<math>2^n</math> 
 <entry level="1" type="bullet">
 
  -------- and D. H. Johnson, 1984, <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1162257">
-Gauss and the history of the fast Fourier transform</weblink>, <it>IEEE ASSP Magazine</it> <b>1</b>: 14&ndash;21.</entry>
+Gauss and the history of the fast Fourier transform</weblink>, <it>IEEE ASSP Magazine</it> <b>1</b>: 14–21.</entry>
 <entry level="1" type="bullet">
 
  S. G. Johnson and M. Frigo, 2007. "<weblink xlink:type="simple" xlink:href="http://www.fftw.org/newsplit.pdf">
@@ -713,7 +713,7 @@ Note on a lower bound of the linear complexity of the fast Fourier transform</we
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007/BF01261607">
-M. J. Mohlenkamp, 1999, "A fast transform for spherical harmonics", <it>J. Fourier Anal. Appl.</it> <b>5</b>, 159&ndash;184.</weblink> (<weblink xlink:type="simple" xlink:href="http://www.math.ohiou.edu/~mjm/research/MOHLEN1999P.pdf">
+M. J. Mohlenkamp, 1999, "A fast transform for spherical harmonics", <it>J. Fourier Anal. Appl.</it> <b>5</b>, 159–184.</weblink> (<weblink xlink:type="simple" xlink:href="http://www.math.ohiou.edu/~mjm/research/MOHLEN1999P.pdf">
 preprint</weblink>)</entry>
 <entry level="1" type="bullet">
 
@@ -738,20 +738,20 @@ Fast algorithms for spherical harmonic expansions</weblink>," <it>SIAM J. Sci. C
 <entry level="1" type="bullet">
 
  James C. Schatzman, 1996, <weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=240432">
-Accuracy of the discrete Fourier transform and the fast Fourier transform</weblink>, <it>SIAM J. Sci. Comput.</it> <b>17</b>: 1150&ndash;1166.</entry>
+Accuracy of the discrete Fourier transform and the fast Fourier transform</weblink>, <it>SIAM J. Sci. Comput.</it> <b>17</b>: 1150–1166.</entry>
 <entry level="1" type="bullet">
 
  O. V. Shentov, S. K. Mitra, U. Heute, and A. N. Hossen, 1995, <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016/0165-1684(94)00103-7">
-Subband DFT. I. Definition, interpretations and extensions</weblink> , <it>Signal Processing</it> <b>41</b>: 261&ndash;277.</entry>
+Subband DFT. I. Definition, interpretations and extensions</weblink> , <it>Signal Processing</it> <b>41</b>: 261–277.</entry>
 <entry level="1" type="bullet">
 
  H. V. Sorensen, D. L. Jones, M. T. Heideman, and C. S. Burrus, 1987, <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1165220">
-Real-valued fast Fourier transform algorithms</weblink>, <it>IEEE Trans. Acoust. Speech Sig. Processing</it> <b>ASSP-35</b>: 849&ndash;863.  See also <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1165284">
+Real-valued fast Fourier transform algorithms</weblink>, <it>IEEE Trans. Acoust. Speech Sig. Processing</it> <b>ASSP-35</b>: 849–863.  See also <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1165284">
 Corrections to "Real-valued fast Fourier transform algorithms"</weblink></entry>
 <entry level="1" type="bullet">
 
  Peter D. Welch, 1969, <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1162035">
-A fixed-point fast Fourier transform error analysis</weblink>, <it>IEEE Trans. Audio Electroacoustics</it> <b>17</b>: 151&ndash;157.</entry>
+A fixed-point fast Fourier transform error analysis</weblink>, <it>IEEE Trans. Audio Electroacoustics</it> <b>17</b>: 151–157.</entry>
 <entry level="1" type="bullet">
 
  S. Winograd, 1978, <weblink xlink:type="simple" xlink:href="http://www.jstor.org/view/00255718/di970565/97p0015m/0">

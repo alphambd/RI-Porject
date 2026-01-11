@@ -49,7 +49,7 @@ electron</link>s in a <idea wordnetid="105833840" confidence="0.8">
 conductor</link></concept>
 </idea>
 . However, there will be a <link xlink:type="simple" xlink:href="../573/27573.xml">
-superfluid</link>&ndash;<link xlink:type="simple" xlink:href="../949/2740949.xml">
+superfluid</link>–<link xlink:type="simple" xlink:href="../949/2740949.xml">
 Mott insulator</link> transition<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> if the <link xlink:type="simple" xlink:href="../911/696911.xml">
 interaction energy</link> between the atoms becomes larger than the hopping energy when the well depth is very large.  In the Mott insulator phase, atoms will be trapped in the potential minima and cannot move freely, which is similar to the electrons in an <link xlink:type="simple" xlink:href="../326/16878326.xml">
 insulator</link>. Atoms in an optical lattice provide an ideal quantum system where  all parameters can be controlled. Thus they can be used to study effects that are difficult to observe in real crystals. They are also promising candidates for <link xlink:type="simple" xlink:href="../274/25274.xml">
@@ -62,7 +62,7 @@ periodicity</link>. The well depth of the optical lattice can be tuned in <link 
 real time</link> by changing the power of the laser, which is normally controlled by an AOM (<link xlink:type="simple" xlink:href="../722/1855722.xml">
 acousto-optic modulator</link>). The periodicity of the optical lattice can be tuned by changing the <link xlink:type="simple" xlink:href="../125/33125.xml">
 wavelength</link> of the laser or by changing the relative angle between the two laser beams. The real-time control of the periodicity of the lattice is still a challenging task. Because the wavelength of the laser cannot be varied over a large range in real time, the periodicity of the lattice is normally controlled by the relative angle between the laser beams.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> However, it is difficult to keep the lattice stable while changing the relative angles, since the interference is sensitive to the relative <link xlink:type="simple" xlink:href="../578/217578.xml">
-phase</link> between the laser beams. Recently, a novel method of real-time control of the lattice periodicity was demonstrated,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref> in which the center fringe moved less than 2.7&nbsp;&amp;mu;m while the lattice periodicity was changed from 0.96 to 11.2&nbsp;&amp;mu;m. Whether this method can keep atoms (or other particles) trapped while changing the lattice periodicity remains to be tested experimentally.  Such <link xlink:type="simple" xlink:href="../162/1162.xml">
+phase</link> between the laser beams. Recently, a novel method of real-time control of the lattice periodicity was demonstrated,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref> in which the center fringe moved less than 2.7 &amp;mu;m while the lattice periodicity was changed from 0.96 to 11.2 &amp;mu;m. Whether this method can keep atoms (or other particles) trapped while changing the lattice periodicity remains to be tested experimentally.  Such <link xlink:type="simple" xlink:href="../162/1162.xml">
 accordion</link> lattices are useful for controlling untracold atoms in optical lattices, where small spacing is essential for quantum tunneling, and large spacing enables single-site manipulation and spatially resolved detection.</p>
 <p>
 
@@ -82,7 +82,7 @@ References</st>
 Bloch, Immanuel&#32;(April 10, 2004).&#32;"<weblink xlink:type="simple" xlink:href="http://physicsworld.com/cws/article/print/19273">
 Quantum gases in optical lattices</weblink>".&#32;  IOP.</entry>
 <entry id="2">
- <cite style="font-style:normal">Greiner, Markus; Mandel, Olaf; Esslinger, Tilman; Hänsch, Theodor W.; Bloch, Immanuel&#32;(January 3,2002).&#32;"Quantum phase transition from a superfluid to a Mott insulator in a gas of ultracold atoms". <it>Nature</it>&#32;<b>415</b>: 39&ndash;44. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Greiner, Markus; Mandel, Olaf; Esslinger, Tilman; Hänsch, Theodor W.; Bloch, Immanuel&#32;(January 3,2002).&#32;"Quantum phase transition from a superfluid to a Mott insulator in a gas of ultracold atoms". <it>Nature</it>&#32;<b>415</b>: 39–44. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -90,9 +90,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2F415039a">
-10.1038/415039a</weblink>.</cite>&nbsp;</entry>
+10.1038/415039a</weblink>.</cite> </entry>
 <entry id="3">
- <cite style="font-style:normal">Brennen, Gavin K.; Caves, Carlton; Jessen, Poul S.; Deutsch, Ivan H.&#32;(1999).&#32;"Quantum logic gates in optical lattices". <it>Phys. Rev. Lett.</it>&#32;<b>82</b>&#32;(5): 1060&ndash;1063. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Brennen, Gavin K.; Caves, Carlton; Jessen, Poul S.; Deutsch, Ivan H.&#32;(1999).&#32;"Quantum logic gates in optical lattices". <it>Phys. Rev. Lett.</it>&#32;<b>82</b>&#32;(5): 1060–1063. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -100,9 +100,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1103%2FPhysRevLett.82.1060">
-10.1103/PhysRevLett.82.1060</weblink>.</cite>&nbsp;</entry>
+10.1103/PhysRevLett.82.1060</weblink>.</cite> </entry>
 <entry id="4">
- <cite style="font-style:normal">Fallani, Leonardo; Fort, Chiara; Lye, Jessica; Inguscio, Massimo&#32;(May 2005).&#32;"Bose-Einstein condensate in an optical lattice with tunable spacing: transport and static properties". <it>Optics Express</it>&#32;<b>13</b>&#32;(11): 4303&ndash;4313. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Fallani, Leonardo; Fort, Chiara; Lye, Jessica; Inguscio, Massimo&#32;(May 2005).&#32;"Bose-Einstein condensate in an optical lattice with tunable spacing: transport and static properties". <it>Optics Express</it>&#32;<b>13</b>&#32;(11): 4303–4313. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -110,9 +110,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1364%2FOPEX.13.004303">
-10.1364/OPEX.13.004303</weblink>.</cite>&nbsp;</entry>
+10.1364/OPEX.13.004303</weblink>.</cite> </entry>
 <entry id="5">
- <cite style="font-style:normal">Li, T. C.; Kelkar,H.; Medellin, D.; Raizen, M. G.&#32;(April 3, 2008).&#32;"Real-time control of the periodicity of a standing wave: an optical accordion". <it>Optics Express</it>&#32;<b>16</b>&#32;(8): 5465&ndash;5470. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Li, T. C.; Kelkar,H.; Medellin, D.; Raizen, M. G.&#32;(April 3, 2008).&#32;"Real-time control of the periodicity of a standing wave: an optical accordion". <it>Optics Express</it>&#32;<b>16</b>&#32;(8): 5465–5470. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -120,9 +120,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1364%2FOE.16.005465">
-10.1364/OE.16.005465</weblink>.</cite>&nbsp;</entry>
+10.1364/OE.16.005465</weblink>.</cite> </entry>
 <entry id="6">
- <cite style="font-style:normal">MacDonald, M. P.; Spalding, G. C.; Dholakia, K.&#32;(November 27, 2003).&#32;"Microfluidic sorting in an optical lattice". <it>Nature</it>&#32;<b>426</b>: 421&ndash;424. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">MacDonald, M. P.; Spalding, G. C.; Dholakia, K.&#32;(November 27, 2003).&#32;"Microfluidic sorting in an optical lattice". <it>Nature</it>&#32;<b>426</b>: 421–424. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -130,7 +130,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature02144">
-10.1038/nature02144</weblink>.</cite>&nbsp;</entry>
+10.1038/nature02144</weblink>.</cite> </entry>
 </reflist>
 </p>
 

@@ -667,7 +667,7 @@ The Daily Bruin - UCPD: no plans to buy tasers</weblink></entry>
 UCPD Stun Gun Use Sparks Protests - Daily Nexus</weblink></entry>
 <entry id="6">
 Lin II, Rong-Gong&#32;(<link>
-2006-11-22</link>).&#32;"Taser use limited at most UC campuses", Los Angeles Times.&nbsp;</entry>
+2006-11-22</link>).&#32;"Taser use limited at most UC campuses", Los Angeles Times. </entry>
 </reflist>
 </p>
 
@@ -701,46 +701,46 @@ Campuses</col>
 <link xlink:type="simple" xlink:href="../922/31922.xml">
 Berkeley</link></ranking>
 </university>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../924/31924.xml">
 Davis</link></ranking>
 </university>
-&nbsp;· <law_school wordnetid="108283051" confidence="0.9508927676800064">
+ · <law_school wordnetid="108283051" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../044/507044.xml">
 Hastings</link></law_school>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../757/44757.xml">
 Irvine</link></ranking>
 </university>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../765/37765.xml">
 Los Angeles</link></ranking>
 </university>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../644/477644.xml">
 Merced</link></university>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../311/230311.xml">
 Riverside</link></ranking>
 </university>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../927/31927.xml">
 San Diego</link></ranking>
 </university>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../920/31920.xml">
 San Francisco</link></university>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../917/211917.xml">
 Santa Barbara</link></ranking>
 </university>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../923/31923.xml">
 Santa Cruz</link></university>
 </col>
@@ -755,14 +755,14 @@ Hospitals</col>
 <hospital wordnetid="103540595" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../052/2632052.xml">
 UC Davis Medical Center</link></hospital>
-&nbsp;· <hospital wordnetid="103540595" confidence="0.9508927676800064">
+ · <hospital wordnetid="103540595" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../410/2533410.xml">
 UC Irvine Medical Center</link></hospital>
-&nbsp;· <link xlink:type="simple" xlink:href="../738/1185738.xml">
-UCLA Medical Center</link>&nbsp;· <hospital wordnetid="103540595" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../738/1185738.xml">
+UCLA Medical Center</link> · <hospital wordnetid="103540595" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../979/2651979.xml">
 UCSD Medical Center</link></hospital>
-&nbsp;· <link xlink:type="simple" xlink:href="../619/2610619.xml">
+ · <link xlink:type="simple" xlink:href="../619/2610619.xml">
 UCSF Medical Center</link></col>
 </row>
 <row style="height:2px">
@@ -775,10 +775,10 @@ Research</col>
 <lab wordnetid="103629986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../214/62214.xml">
 Lawrence Berkeley National Laboratory</link></lab>
-&nbsp;· <lab wordnetid="103629986" confidence="0.9508927676800064">
+ · <lab wordnetid="103629986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../039/39039.xml">
 Lawrence Livermore National Laboratory</link></lab>
-&nbsp;· <site wordnetid="108651247" confidence="0.8">
+ · <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <position wordnetid="108621598" confidence="0.8">
 <center wordnetid="108523483" confidence="0.8">
@@ -803,7 +803,7 @@ Los Alamos National Laboratory</link></geographical_area>
 <telescope wordnetid="104403638" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../314/203314.xml">
 W. M. Keck Observatory</link></telescope>
-&nbsp;· <observatory wordnetid="103839671" confidence="0.9508927676800064">
+ · <observatory wordnetid="103839671" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../521/213521.xml">
 James Lick Observatory</link></observatory>
 </col>

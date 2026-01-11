@@ -389,7 +389,7 @@ XML schema</link></system_of_measurement>
 text editor</link>, and can be exported from the application to be shared with others.</p>
 <p>
 
-The Shareaza Security Centre maintains a list&mdash;the X-Ray Security Filter&mdash;which helps to protect from <practice wordnetid="100410247" confidence="0.8">
+The Shareaza Security Centre maintains a list—the X-Ray Security Filter—which helps to protect from <practice wordnetid="100410247" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -708,14 +708,14 @@ Michael Stokes</link></col>
 Technology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../141/192141.xml">
-Distributed hash table</link>&nbsp;·  <link>
-GWC</link>&nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+Distributed hash table</link> ·  <link>
+GWC</link> ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../388/2497388.xml">
 Tiger Tree hash</link></function>
 </mathematical_relation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../921/1427921.xml">
-Magnet URI scheme</link>&nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../921/1427921.xml">
+Magnet URI scheme</link> ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link>
 SHA-1</link></function>
@@ -730,11 +730,11 @@ SHA-1</link></function>
 Terminology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../853/1995853.xml">
-Gnutella crawler</link>&nbsp;·  <link>
-Node</link>&nbsp;·  <link xlink:type="simple" xlink:href="../669/1014669.xml">
-Overlay network</link>&nbsp;·  <link xlink:type="simple" xlink:href="../909/225909.xml">
-Servent</link>&nbsp;·  <link xlink:type="simple" xlink:href="../073/31073.xml">
-TCP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../042/32042.xml">
+Gnutella crawler</link> ·  <link>
+Node</link> ·  <link xlink:type="simple" xlink:href="../669/1014669.xml">
+Overlay network</link> ·  <link xlink:type="simple" xlink:href="../909/225909.xml">
+Servent</link> ·  <link xlink:type="simple" xlink:href="../073/31073.xml">
+TCP</link> ·  <link xlink:type="simple" xlink:href="../042/32042.xml">
 UDP</link></col>
 </row>
 <row style="height:2px">
@@ -746,8 +746,8 @@ UDP</link></col>
 Software</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../550/496550.xml">
-Adagio</link>&nbsp;·  <link xlink:type="simple" xlink:href="../568/18977568.xml">
-FileScope</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Adagio</link> ·  <link xlink:type="simple" xlink:href="../568/18977568.xml">
+FileScope</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -758,10 +758,10 @@ GnucDNA</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../337/12337.xml">
 Gnucleus</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -772,9 +772,9 @@ Kiwi Alpha</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../645/19645.xml">
-Morpheus</link> &nbsp;· <link>
-Panthera</link>&nbsp;·   <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../645/19645.xml">
+Morpheus</link>  · <link>
+Panthera</link> ·   <work wordnetid="100575741" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -797,7 +797,7 @@ Shareaza</link></activity>
 </person>
 </physical_entity>
 </work>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -808,7 +808,7 @@ TrustyFiles</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../923/418923.xml#xpointer(//*[./st=%22Clients%22])">
+ ·  <link xlink:type="simple" xlink:href="../923/418923.xml#xpointer(//*[./st=%22Clients%22])">
 Comparison of G2 software</link></col>
 </row>
 </table>
@@ -852,10 +852,10 @@ Justin Frankel</link></causal_agent>
 </person>
 </blogger>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../099/1692099.xml">
 Tom Pepper</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -872,7 +872,7 @@ Spencer Kimball</link></employee>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../048/1969048.xml">
 Gene Kan</link></person>
 </col>
@@ -889,8 +889,8 @@ Technology</col>
 <link xlink:type="simple" xlink:href="../388/2497388.xml">
 Tiger Tree hash</link></function>
 </mathematical_relation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../141/192141.xml">
-Distributed hash table</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../141/192141.xml">
+Distributed hash table</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -899,10 +899,10 @@ Query flooding</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/538434.xml">
 I2P</link></software>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -915,7 +915,7 @@ TLS</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -924,7 +924,7 @@ NAT traversal</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../921/1427921.xml">
+ ·  <link xlink:type="simple" xlink:href="../921/1427921.xml">
 Magnet URI scheme</link></col>
 </row>
 <row style="height:2px">
@@ -935,8 +935,8 @@ Magnet URI scheme</link></col>
 Terminology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../909/225909.xml">
-Servent</link>&nbsp;·  <link xlink:type="simple" xlink:href="../669/1014669.xml">
-Overlay network</link>&nbsp;·  <link xlink:type="simple" xlink:href="../853/1995853.xml">
+Servent</link> ·  <link xlink:type="simple" xlink:href="../669/1014669.xml">
+Overlay network</link> ·  <link xlink:type="simple" xlink:href="../853/1995853.xml">
 Gnutella crawler</link></col>
 </row>
 <row style="height:2px">
@@ -956,7 +956,7 @@ Software</link></rule>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../921/173921.xml">
-GiFT</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+GiFT</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -967,17 +967,17 @@ GnucDNA</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../964/243964.xml">
-gtk-gnutella</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../964/243964.xml">
+gtk-gnutella</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../588/601588.xml">
 KCeasy</link></software>
- &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../956/17956.xml">
 LimeWire</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../168/13019168.xml">
 Phex</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -1000,7 +1000,7 @@ Shareaza</link></activity>
 </person>
 </physical_entity>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../698/13200698.xml">
+ ·  <link xlink:type="simple" xlink:href="../698/13200698.xml">
 historical clients</link></col>
 </row>
 </table>

@@ -111,7 +111,7 @@ The <b>smoothsort</b> algorithm <weblink xlink:type="simple" xlink:href="http://
 http://www.cs.utexas.edu/users/EWD/ewd07xx/EWD796a.PDF</weblink> <weblink xlink:type="simple" xlink:href="http://www.cs.utexas.edu/~EWD/transcriptions/EWD07xx/EWD796a.html">
 http://www.cs.utexas.edu/~EWD/transcriptions/EWD07xx/EWD796a.html</weblink> is a variation of heapsort developed by <link xlink:type="simple" xlink:href="../018/10018.xml">
 Edsger Dijkstra</link> in 1981. Like heapsort, smoothsort's upper bound is <link xlink:type="simple" xlink:href="../578/44578.xml">
-O</link>(<it>n</it> log&nbsp;<it>n</it>). The advantage of smoothsort is that it comes closer to O(<it>n</it>) time if the input is already sorted to some degree, whereas heapsort averages O(<it>n</it> log&nbsp;<it>n</it>) regardless of the initial sorted state. Due to its complexity, smoothsort is rarely used.</entry>
+O</link>(<it>n</it> log <it>n</it>). The advantage of smoothsort is that it comes closer to O(<it>n</it>) time if the input is already sorted to some degree, whereas heapsort averages O(<it>n</it> log <it>n</it>) regardless of the initial sorted state. Due to its complexity, smoothsort is rarely used.</entry>
 </list>
 </p>
 

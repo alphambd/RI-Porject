@@ -103,7 +103,7 @@ Marathi Television channels</link></header>
 • <it><network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../467/383467.xml">
 DD Sahyadri</link></network>
-</it>&nbsp;
+</it> 
 • <it><artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -115,7 +115,7 @@ Zee Marathi</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-</it>&nbsp;
+</it> 
 • <it><artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -127,7 +127,7 @@ ETV Marathi</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-</it>&nbsp;
+</it> 
 • <it><artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -139,7 +139,7 @@ Mi Marathi</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-</it>&nbsp;
+</it> 
 • <it><artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -151,11 +151,11 @@ Zee 24 taas</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-</it>&nbsp;
+</it> 
 • <it><channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../210/11942210.xml">
 Star Majha</link></channel>
-</it>&nbsp;
+</it> 
 • <it><diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <show wordnetid="100520257" confidence="0.8">
@@ -171,7 +171,7 @@ Zee Talkies</link></activity>
 </show>
 </event>
 </diversion>
-</it>&nbsp;
+</it> 
 • <it><artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -183,9 +183,9 @@ Lokmat IBN</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-</it>&nbsp;
+</it> 
 • <it><link>
-SAAM Marathi</link></it>&nbsp;</p>
+SAAM Marathi</link></it> </p>
 </col>
 </row>
 </table>

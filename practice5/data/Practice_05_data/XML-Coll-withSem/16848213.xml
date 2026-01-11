@@ -58,11 +58,11 @@ GABRD</weblink>; MGC45284</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=137163">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=137163">
 137163</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95622">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:95622">
 95622</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=55489">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=55489">
 55489</weblink></col>
 </row>
 
@@ -256,7 +256,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cell.2006.03.032">
-10.1016/j.cell.2006.03.032</weblink>. PMID 16713569.</cite>&nbsp;</entry>
+10.1016/j.cell.2006.03.032</weblink>. PMID 16713569.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Gregory SG, Barlow KF, McLay KE, et al.&#32;(2006).&#32;"The DNA sequence and biological annotation of human chromosome 1.". <it>Nature</it>&#32;<b>441</b>&#32;(7091): 315–21. <document wordnetid="106470073" confidence="0.8">
@@ -267,7 +267,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature04727">
-10.1038/nature04727</weblink>. PMID 16710414.</cite>&nbsp;</entry>
+10.1038/nature04727</weblink>. PMID 16710414.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Kimura K, Wakamatsu A, Suzuki Y, et al.&#32;(2006).&#32;"Diversification of transcriptional modulation: large-scale identification and characterization of putative alternative promoters of human genes.". <it>Genome Res.</it>&#32;<b>16</b>&#32;(1): 55–65. <document wordnetid="106470073" confidence="0.8">
@@ -278,7 +278,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.4039406">
-10.1101/gr.4039406</weblink>. PMID 16344560.</cite>&nbsp;</entry>
+10.1101/gr.4039406</weblink>. PMID 16344560.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Rual JF, Venkatesan K, Hao T, et al.&#32;(2005).&#32;"Towards a proteome-scale map of the human protein-protein interaction network.". <it>Nature</it>&#32;<b>437</b>&#32;(7062): 1173–8. <document wordnetid="106470073" confidence="0.8">
@@ -289,7 +289,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature04209">
-10.1038/nature04209</weblink>. PMID 16189514.</cite>&nbsp;</entry>
+10.1038/nature04209</weblink>. PMID 16189514.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Lenzen KP, Heils A, Lorenz S, et al.&#32;(2005).&#32;"Association analysis of the Arg220His variation of the human gene encoding the GABA delta subunit with idiopathic generalized epilepsy.". <it>Epilepsy Res.</it>&#32;<b>65</b>&#32;(1-2): 53–7. <document wordnetid="106470073" confidence="0.8">
@@ -300,7 +300,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.eplepsyres.2005.04.005">
-10.1016/j.eplepsyres.2005.04.005</weblink>. PMID 16023832.</cite>&nbsp;</entry>
+10.1016/j.eplepsyres.2005.04.005</weblink>. PMID 16023832.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Gerhard DS, Wagner L, Feingold EA, et al.&#32;(2004).&#32;"The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).". <it>Genome Res.</it>&#32;<b>14</b>&#32;(10B): 2121–7. <document wordnetid="106470073" confidence="0.8">
@@ -311,7 +311,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2596504">
-10.1101/gr.2596504</weblink>. PMID 15489334.</cite>&nbsp;</entry>
+10.1101/gr.2596504</weblink>. PMID 15489334.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -322,16 +322,16 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Windpassinger C, Kroisel PM, Wagner K, Petek E&#32;(2002).&#32;"The human gamma-aminobutyric acid A receptor delta (GABRD) gene: molecular characterisation and tissue-specific expression.". <it>Gene</it>&#32;<b>292</b>&#32;(1-2): 25–31. PMID 12119096.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Windpassinger C, Kroisel PM, Wagner K, Petek E&#32;(2002).&#32;"The human gamma-aminobutyric acid A receptor delta (GABRD) gene: molecular characterisation and tissue-specific expression.". <it>Gene</it>&#32;<b>292</b>&#32;(1-2): 25–31. PMID 12119096.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Emberger W, Windpassinger C, Petek E, et al.&#32;(2000).&#32;"Assignment of the human GABAA receptor delta-subunit gene (GABRD) to chromosome band 1p36.3 distal to marker NIB1364 by radiation hybrid mapping.". <it>Cytogenet. Cell Genet.</it>&#32;<b>89</b>&#32;(3-4): 281–2. PMID 10965146.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Emberger W, Windpassinger C, Petek E, et al.&#32;(2000).&#32;"Assignment of the human GABAA receptor delta-subunit gene (GABRD) to chromosome band 1p36.3 distal to marker NIB1364 by radiation hybrid mapping.". <it>Cytogenet. Cell Genet.</it>&#32;<b>89</b>&#32;(3-4): 281–2. PMID 10965146.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Sommer B, Poustka A, Spurr NK, Seeburg PH&#32;(1991).&#32;"The murine GABAA receptor delta-subunit gene: structure and assignment to human chromosome 1.". <it>DNA Cell Biol.</it>&#32;<b>9</b>&#32;(8): 561–8. PMID 2176788.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Sommer B, Poustka A, Spurr NK, Seeburg PH&#32;(1991).&#32;"The murine GABAA receptor delta-subunit gene: structure and assignment to human chromosome 1.". <it>DNA Cell Biol.</it>&#32;<b>9</b>&#32;(8): 561–8. PMID 2176788.</cite> </entry>
 </list>
 </p>
 
@@ -568,7 +568,7 @@ GABA A</link></body_part>
 <link xlink:type="simple" xlink:href="../746/18351746.xml">
 θ</link></channel>
 </transmission>
-)&nbsp;&amp;bull; <structure wordnetid="105225602" confidence="0.8">
+) &amp;bull; <structure wordnetid="105225602" confidence="0.8">
 <receptor wordnetid="105608868" confidence="0.8">
 <part wordnetid="109385911" confidence="0.8">
 <body_part wordnetid="105220461" confidence="0.8">
@@ -615,22 +615,22 @@ Glycine</link></body_part>
 <link xlink:type="simple" xlink:href="../512/14696512.xml">
 α1</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../236/15236236.xml">
 α2</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../877/18360877.xml">
 α3</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../901/18360901.xml">
 α4</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../707/15070707.xml">
 β</link></channel>
@@ -650,80 +650,80 @@ Nicotinic acetylcholine</link></col>
 <link xlink:type="simple" xlink:href="../741/14759741.xml">
 α1</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../741/14879741.xml">
 α2</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../935/14755935.xml">
 α3</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../721/14725721.xml">
 α4</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../630/14876630.xml">
 α5</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../012/16859012.xml">
 α6</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../915/14477915.xml">
 α7</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../542/15351542.xml">
 α9</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../953/18359953.xml">
 α10</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../791/15067791.xml">
 β1</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../479/14755479.xml">
 β2</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../631/14876631.xml">
 β3</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../623/14760623.xml">
 β4</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../746/14879746.xml">
 δ</link></channel>
 </transmission>
-&nbsp;&amp;bull; <transmission wordnetid="106251781" confidence="0.8">
+ &amp;bull; <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../541/14756541.xml">
 ε</link></channel>
 </transmission>
 <it>pentamers:</it> <link xlink:type="simple" xlink:href="../734/14862734.xml">
-(α4)2(β2)3</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../757/14862757.xml">
-(α7)5</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../892/14496892.xml">
-(α1)2(β4)3 - Ganglion type</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../688/14499688.xml">
+(α4)2(β2)3</link> &amp;bull; <link xlink:type="simple" xlink:href="../757/14862757.xml">
+(α7)5</link> &amp;bull; <link xlink:type="simple" xlink:href="../892/14496892.xml">
+(α1)2(β4)3 - Ganglion type</link> &amp;bull; <link xlink:type="simple" xlink:href="../688/14499688.xml">
 (α1)2β1δε - Muscle type</link></col>
 </row>
 </table>
@@ -767,7 +767,7 @@ AMPA</link></body_part>
 <link xlink:type="simple" xlink:href="../524/14776524.xml">
 4</link></channel>
 </transmission>
-)&nbsp;&amp;bull; <structure wordnetid="105225602" confidence="0.8">
+) &amp;bull; <structure wordnetid="105225602" confidence="0.8">
 <receptor wordnetid="105608868" confidence="0.8">
 <part wordnetid="109385911" confidence="0.8">
 <body_part wordnetid="105220461" confidence="0.8">
@@ -801,7 +801,7 @@ Kainate</link></body_part>
 <link xlink:type="simple" xlink:href="../776/15070776.xml">
 5</link></channel>
 </transmission>
-) &nbsp;&amp;bull; <structure wordnetid="105225602" confidence="0.8">
+)  &amp;bull; <structure wordnetid="105225602" confidence="0.8">
 <receptor wordnetid="105608868" confidence="0.8">
 <part wordnetid="109385911" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">

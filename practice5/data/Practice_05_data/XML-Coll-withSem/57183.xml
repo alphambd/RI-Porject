@@ -51,7 +51,7 @@ The distinction between operating system and middleware functionality is, to som
 
 In simulation technology, <it>middleware</it> is generally used in the context of the <link>
 high level architecture</link> (HLA) that applies to many distributed simulations. It is a layer of software that lies between the application code and the <link>
-run-time infrastructure</link>. Middleware generally consists of a library of functions, and enables a number of applications &ndash; simulations or federates in HLA terminology &ndash; to page these functions from the common library rather than re-create them for each application</p>
+run-time infrastructure</link>. Middleware generally consists of a library of functions, and enables a number of applications – simulations or federates in HLA terminology – to page these functions from the common library rather than re-create them for each application</p>
 
 <sec>
 <st>

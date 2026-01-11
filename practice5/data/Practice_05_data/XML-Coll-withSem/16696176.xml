@@ -56,13 +56,13 @@ African Futsal Championship</link></Regional_name>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../176/16696176.xml">
 Libya</link></team>
  3-6 <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/16496939.xml">
 Morocco</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Morocco.svg">
+ <image width="22x20px" src="Flag_of_Morocco.svg">
 <caption>
 
 border 
@@ -140,11 +140,11 @@ Africa</link></location>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../176/16696176.xml">
 Libya</link></team>
  20–3 <link>
-Syria</link>&nbsp;<image width="22x20px" src="Flag_of_Syria.svg">
+Syria</link> <image width="22x20px" src="Flag_of_Syria.svg">
 <caption>
 
 border 
@@ -175,11 +175,11 @@ FFFFFF</leftarm2>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../176/16696176.xml">
 Libya</link></team>
  1-9 <link xlink:type="simple" xlink:href="../667/19496667.xml">
-Egypt</link>&nbsp;<image width="22x20px" src="Flag_of_Egypt.svg">
+Egypt</link> <image width="22x20px" src="Flag_of_Egypt.svg">
 <caption>
 
 border 
@@ -870,7 +870,7 @@ September 13</link>, <link xlink:type="simple" xlink:href="../825/35825.xml">
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../749/12548749.xml">
 Italy</link></team>
 </col>
@@ -894,7 +894,7 @@ October 01</link>, <link xlink:type="simple" xlink:href="../825/35825.xml">
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../563/18124563.xml">
+ <link xlink:type="simple" xlink:href="../563/18124563.xml">
 Uruguay</link></col>
 <col>
 D</col>
@@ -916,7 +916,7 @@ October 03</link>, <link xlink:type="simple" xlink:href="../825/35825.xml">
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../576/10477576.xml">
 Spain</link></team>
 </col>
@@ -940,7 +940,7 @@ October 05</link>, <link xlink:type="simple" xlink:href="../825/35825.xml">
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../545/7560545.xml">
 Iran</link></team>
 </col>
@@ -964,7 +964,7 @@ October 07</link>, <link xlink:type="simple" xlink:href="../825/35825.xml">
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../999/19052999.xml">
+ <link xlink:type="simple" xlink:href="../999/19052999.xml">
 Czech Republic</link></col>
 <col>
 L</col>
@@ -985,7 +985,7 @@ December 19</link></col>
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Lithuania</link></col>
 
 <col>
@@ -1005,7 +1005,7 @@ December 20</link></col>
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Ireland</link></col>
 
 <col>
@@ -1025,7 +1025,7 @@ December 21</link></col>
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../979/19705979.xml">
+ <link xlink:type="simple" xlink:href="../979/19705979.xml">
 England</link></col>
 
 <col>
@@ -1096,7 +1096,7 @@ Pan Arab Games</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;| <event wordnetid="100029378" confidence="0.8">
+ | <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1105,7 +1105,7 @@ Gulf Cup of Nations</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;| <event wordnetid="100029378" confidence="0.8">
+ | <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1149,7 +1149,7 @@ Arab Cup Winners' Cup</link></psychological_feature>
 </contest>
 </social_event>
 </event>
- (defunct) &nbsp;| <event wordnetid="100029378" confidence="0.8">
+ (defunct)  | <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1178,64 +1178,64 @@ Football teams</header>
  <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../197/1090197.xml">
 Bahrain</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../102/2681102.xml">
 Comoros</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../981/1262981.xml">
 Djibouti</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../953/1022953.xml">
 Egypt</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../652/1039652.xml">
 Iraq</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../065/1090065.xml">
 Jordan</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../857/1041857.xml">
 Kuwait</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../183/1205183.xml">
 Lebanon</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../136/1103136.xml">
 Libya</link></team>
  <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../981/1234981.xml">
 Mauritania</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../865/1024865.xml">
 Morocco</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../231/1111231.xml">
 Oman</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../455/1302455.xml">
 Palestine</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../350/1111350.xml">
 Qatar</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../359/1032359.xml">
 Saudi Arabia</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../063/1235063.xml">
 Somalia</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../575/1095575.xml">
 Sudan</link></team>
   <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../669/1131669.xml">
 Syria</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../953/1029953.xml">
 Tunisia</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../396/1044396.xml">
 United Arab Emirates</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../184/1291184.xml">
 Yemen</link></team>
 </col>
@@ -1256,34 +1256,34 @@ Futsal teams</header>
 <row style="text-align:center;">
 <col >
  <link>
-Bahrain</link>&nbsp;| <link>
-Comoros</link>&nbsp;| <link>
-Djibouti</link>&nbsp;| <link xlink:type="simple" xlink:href="../667/19496667.xml">
-Egypt</link>&nbsp;| <link>
-Iraq</link>&nbsp;| <link>
-Jordan</link>&nbsp;| <link xlink:type="simple" xlink:href="../124/19049124.xml">
-Kuwait</link>&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+Bahrain</link> | <link>
+Comoros</link> | <link>
+Djibouti</link> | <link xlink:type="simple" xlink:href="../667/19496667.xml">
+Egypt</link> | <link>
+Iraq</link> | <link>
+Jordan</link> | <link xlink:type="simple" xlink:href="../124/19049124.xml">
+Kuwait</link> | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../681/17337681.xml">
 Lebanon</link></team>
-&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+ | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../176/16696176.xml">
 Libya</link></team>
  <link>
-Mauritania</link>&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+Mauritania</link> | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/16496939.xml">
 Morocco</link></team>
-&nbsp;| <link>
-Oman</link>&nbsp;| <link>
-Palestine</link>&nbsp;| <link>
-Qatar</link>&nbsp;| <link>
-Saudi Arabia</link>&nbsp;| <link>
-Somalia</link>&nbsp;| <link>
+ | <link>
+Oman</link> | <link>
+Palestine</link> | <link>
+Qatar</link> | <link>
+Saudi Arabia</link> | <link>
+Somalia</link> | <link>
 Sudan</link> <link>
-Syria</link>&nbsp;| <team wordnetid="108208560" confidence="0.9508927676800064">
+Syria</link> | <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../991/17404991.xml">
 Tunisia</link></team>
-&nbsp;| <link>
-United Arab Emirates</link>&nbsp;| <link>
+ | <link>
+United Arab Emirates</link> | <link>
 Yemen</link></col>
 </row>
 </table>
@@ -1306,7 +1306,7 @@ Yemen</link></col>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../633/17633.xml">
 Libya</link></country>
 topics</header>
@@ -1338,8 +1338,8 @@ Politics</link></psychological_feature>
 <conflict wordnetid="100958896" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../087/656087.xml">
 Italo-Turkish War</link></conflict>
-&nbsp;·  <link xlink:type="simple" xlink:href="../692/9115692.xml#xpointer(//*[./st=%22Libya=2C+Tunisia=2C+Algeria+and+Morocco%22])">
-Coptic Orthodoxy</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../692/9115692.xml#xpointer(//*[./st=%22Libya=2C+Tunisia=2C+Algeria+and+Morocco%22])">
+Coptic Orthodoxy</link> ·  <message wordnetid="106598915" confidence="0.8">
 <aggression wordnetid="100964569" confidence="0.8">
 <violence wordnetid="100965404" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
@@ -1358,12 +1358,12 @@ Libyan Jewish population</link></psychological_feature>
 </violence>
 </aggression>
 </message>
-&nbsp;·  <chancellor wordnetid="109906986" confidence="0.9508927676800064">
+ ·  <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../097/4296097.xml">
 Prime Minister</link></chancellor>
-&nbsp;·  <link xlink:type="simple" xlink:href="../968/4501968.xml">
-General People's Congress</link>&nbsp;·  <link xlink:type="simple" xlink:href="../189/893189.xml">
-Heads of Government</link>&nbsp;·  <link xlink:type="simple" xlink:href="../228/426228.xml">
+ ·  <link xlink:type="simple" xlink:href="../968/4501968.xml">
+General People's Congress</link> ·  <link xlink:type="simple" xlink:href="../189/893189.xml">
+Heads of Government</link> ·  <link xlink:type="simple" xlink:href="../228/426228.xml">
 Heads of State</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="7">
 <image width="76px" src="Coat_of_arms_of_Libya.svg">
@@ -1403,13 +1403,13 @@ Municipalities</link></urban_area>
 </administrative_district>
 </region>
 </subdivision>
-&nbsp;·  <link xlink:type="simple" xlink:href="../371/343371.xml">
-Cities</link>&nbsp;·  <link xlink:type="simple" xlink:href="../006/19006.xml">
-Mediterranean Sea</link>&nbsp;·  <link xlink:type="simple" xlink:href="../807/17807.xml">
-Transport</link>&nbsp;·  <link xlink:type="simple" xlink:href="../806/17806.xml">
-Communications</link>&nbsp;·  <link xlink:type="simple" xlink:href="../803/17803.xml">
-Demographics</link>&nbsp;·  
-Companies of Libya|Companies&nbsp;·  <link xlink:type="simple" xlink:href="../422/649422.xml">
+ ·  <link xlink:type="simple" xlink:href="../371/343371.xml">
+Cities</link> ·  <link xlink:type="simple" xlink:href="../006/19006.xml">
+Mediterranean Sea</link> ·  <link xlink:type="simple" xlink:href="../807/17807.xml">
+Transport</link> ·  <link xlink:type="simple" xlink:href="../806/17806.xml">
+Communications</link> ·  <link xlink:type="simple" xlink:href="../803/17803.xml">
+Demographics</link> ·  
+Companies of Libya|Companies ·  <link xlink:type="simple" xlink:href="../422/649422.xml">
 Great Manmade River</link></col>
 </row>
 <row style="height:2px">
@@ -1425,17 +1425,17 @@ Culture</link></col>
 <link xlink:type="simple" xlink:href="../246/28246.xml">
 Indigenous religion</link></causal_agent>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../143/990143.xml">
-Music</link>&nbsp;·  <link xlink:type="simple" xlink:href="../373/14510373.xml">
-Literature</link>&nbsp;·  <link xlink:type="simple" xlink:href="../367/3793367.xml">
-Scouts and Girl Guides</link>&nbsp;·  
+ ·  <link xlink:type="simple" xlink:href="../143/990143.xml">
+Music</link> ·  <link xlink:type="simple" xlink:href="../373/14510373.xml">
+Literature</link> ·  <link xlink:type="simple" xlink:href="../367/3793367.xml">
+Scouts and Girl Guides</link> ·  
 Sport in Libya|Sport (<team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../136/1103136.xml">
 National football team</link></team>
-&nbsp;·  <team wordnetid="108208560" confidence="0.9508927676800064">
+ ·  <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../176/16696176.xml">
 National futsal team</link></team>
-&nbsp;·  <link xlink:type="simple" xlink:href="../765/6841765.xml">
+ ·  <link xlink:type="simple" xlink:href="../765/6841765.xml">
 Libya 2014</link>)</col>
 </row>
 <row style="height:2px">
@@ -1448,11 +1448,11 @@ Languages</col>
 <language wordnetid="106282651" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../803/803.xml">
 Arabic</link></language>
-&nbsp;·  <language wordnetid="106282651" confidence="0.8">
+ ·  <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../611/3680611.xml">
 Tamahaq</link></language>
-&nbsp;·  <link xlink:type="simple" xlink:href="../693/4693.xml">
-Berber</link>&nbsp;·  <class wordnetid="107997703" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../693/4693.xml">
+Berber</link> ·  <class wordnetid="107997703" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../368/2960368.xml">
 Tebu</link></class>
 </col>

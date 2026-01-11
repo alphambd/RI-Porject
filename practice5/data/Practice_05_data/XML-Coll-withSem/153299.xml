@@ -330,7 +330,7 @@ Sturm's theorem</link></proposition>
 </theorem>
 </message>
 </statement>
-.) If <it>g</it>(<it>x</it>)&nbsp;= 1, then <it>p</it>(<it>x</it>) has no multiple roots and we can safely use those other root-finding algorithms which work best when there are no multiple roots, and then exit.</entry>
+.) If <it>g</it>(<it>x</it>) = 1, then <it>p</it>(<it>x</it>) has no multiple roots and we can safely use those other root-finding algorithms which work best when there are no multiple roots, and then exit.</entry>
 <entry level="1" type="number">
 
  Now suppose that there is a multiple root.  Notice that <it>g</it>(<it>x</it>) will have a root of the same multiplicity at <it>r</it> that <it>p</it>′(<it>x</it>) has and the degree of the polynomial <it>g</it>(<it>x</it>) will generally be much less than that of <it>p</it>(<it>x</it>).  Recursively call this routine, i.e. go back to step #1 above, using <it>g</it>(<it>x</it>) in place of <it>p</it>(<it>x</it>).  Now suppose that we have found the roots of <it>g</it>(<it>x</it>), i.e. we have factored it.</entry>
@@ -346,7 +346,7 @@ Sturm's theorem</link></proposition>
 Example</st>
 <p>
 
-Suppose <it>p</it>(<it>x</it>)&nbsp;= <it>x</it>3+<it>x</it>2−5<it>x</it>+3 is the function whose roots we want to find.  We calculate <it>p</it>′(<it>x</it>)&nbsp;= 3<it>x</it>2+2<it>x</it>−5.  Now divide <it>p</it>′(<it>x</it>) into <it>p</it>(<it>x</it>) to get <it>p</it>(<it>x</it>)&nbsp;= <it>p</it>′(<it>x</it>)·((1/3)<it>x</it>+(1/9))+((−32/9)<it>x</it>+(32/9)).  Divide the remainder by −32/9 to get <it>x</it>−1 which is monic.  Divide <it>x</it>−1 into <it>p</it>′(<it>x</it>) to get <it>p</it>′(<it>x</it>)&nbsp;= (<it>x</it>−1)·(3<it>x</it>+5)+0.  Since the remainder is zero, <it>g</it>(<it>x</it>)&nbsp;= <it>x</it>−1.  So the multiple root of <it>p</it>(<it>x</it>) is <it>r</it>&nbsp;= 1.  Dividing <it>p</it>(<it>x</it>) by (<it>x</it>−1)2, we get <it>p</it>(<it>x</it>)&nbsp;= (<it>x</it>+3)(<it>x</it>−1)2 so the other root is −3, a single root.</p>
+Suppose <it>p</it>(<it>x</it>) = <it>x</it>3+<it>x</it>2−5<it>x</it>+3 is the function whose roots we want to find.  We calculate <it>p</it>′(<it>x</it>) = 3<it>x</it>2+2<it>x</it>−5.  Now divide <it>p</it>′(<it>x</it>) into <it>p</it>(<it>x</it>) to get <it>p</it>(<it>x</it>) = <it>p</it>′(<it>x</it>)·((1/3)<it>x</it>+(1/9))+((−32/9)<it>x</it>+(32/9)).  Divide the remainder by −32/9 to get <it>x</it>−1 which is monic.  Divide <it>x</it>−1 into <it>p</it>′(<it>x</it>) to get <it>p</it>′(<it>x</it>) = (<it>x</it>−1)·(3<it>x</it>+5)+0.  Since the remainder is zero, <it>g</it>(<it>x</it>) = <it>x</it>−1.  So the multiple root of <it>p</it>(<it>x</it>) is <it>r</it> = 1.  Dividing <it>p</it>(<it>x</it>) by (<it>x</it>−1)2, we get <it>p</it>(<it>x</it>) = (<it>x</it>+3)(<it>x</it>−1)2 so the other root is −3, a single root.</p>
 
 </ss1>
 <ss1>

@@ -326,19 +326,19 @@ Stations:</col>
 <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../699/6941699.xml">
 WAJI - Fort Wayne</link></radio_station>
- &nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+  ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../850/17546850.xml">
 WIKY - Evansville</link></radio_station>
- &nbsp;·  <link>
-WITZ - Jasper</link> &nbsp;·  <link>
-WITZ - Jasper</link> &nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+  ·  <link>
+WITZ - Jasper</link>  ·  <link>
+WITZ - Jasper</link>  ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../049/5664049.xml">
 WKVI - Knox</link></radio_station>
- &nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+  ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../049/5664049.xml">
 WKVI - Knox</link></radio_station>
- &nbsp;·  <link>
-WLKI - Angola</link> &nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+  ·  <link>
+WLKI - Angola</link>  ·  <artifact wordnetid="100021939" confidence="0.8">
 <radio_station wordnetid="104044119" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -349,24 +349,24 @@ WMRS - Monticello</link></broadcasting_station>
 </facility>
 </radio_station>
 </artifact>
- &nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+  ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../530/7833530.xml">
 WNSN - South Bend</link></radio_station>
- &nbsp;·  <link xlink:type="simple" xlink:href="../934/14977934.xml">
-WPGW - Portland</link> &nbsp;·  <link>
-WPHZ - Orleans</link> &nbsp;·  <link>
-WROI - Rochester</link> &nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+  ·  <link xlink:type="simple" xlink:href="../934/14977934.xml">
+WPGW - Portland</link>  ·  <link>
+WPHZ - Orleans</link>  ·  <link>
+WROI - Rochester</link>  ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../284/7880284.xml">
 WRWM - Fishers</link></radio_station>
- &nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+  ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../284/7880284.xml">
 WRWM - Lawrence</link></radio_station>
- &nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+  ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../392/3803392.xml">
 WSHW - Frankfort</link></radio_station>
- &nbsp;·  <link>
-WSMM - New Carlisle</link> &nbsp;·  <link>
-WUME - Paoli</link> &nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+  ·  <link>
+WSMM - New Carlisle</link>  ·  <link>
+WUME - Paoli</link>  ·  <artifact wordnetid="100021939" confidence="0.8">
 <radio_station wordnetid="104044119" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -377,9 +377,9 @@ WYXB - Indianapolis</link></broadcasting_station>
 </facility>
 </radio_station>
 </artifact>
- &nbsp;·  <link>
-WZBD - Berne</link> &nbsp;·  <link>
-WZDM - Vincennes</link> &nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+  ·  <link>
+WZBD - Berne</link>  ·  <link>
+WZDM - Vincennes</link>  ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../529/8554529.xml">
 WZZY - Winchester</link></radio_station>
 </col>

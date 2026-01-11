@@ -75,7 +75,7 @@ Inclusion-exclusion principle in probability</st>
 
 In <link xlink:type="simple" xlink:href="../934/22934.xml">
 probability</link>, for events <it>A</it>1, ..., <it>An</it> in a <link xlink:type="simple" xlink:href="../325/43325.xml">
-probability space</link> <math>\scriptstyle(\Omega,\mathcal{F},\mathbb{P})</math>, the inclusion-exclusion principle becomes for <it>n</it>&nbsp;=&nbsp;2</p>
+probability space</link> <math>\scriptstyle(\Omega,\mathcal{F},\mathbb{P})</math>, the inclusion-exclusion principle becomes for <it>n</it> = 2</p>
 <p>
 
 <indent level="1">
@@ -83,7 +83,7 @@ probability space</link> <math>\scriptstyle(\Omega,\mathcal{F},\mathbb{P})</math
 <math>\mathbb{P}(A_1\cup A_2)=\mathbb{P}(A_1)+\mathbb{P}(A_2)-\mathbb{P}(A_1\cap A_2),</math>
 </indent>
 
-for <it>n</it>&nbsp;=&nbsp;3</p>
+for <it>n</it> = 3</p>
 <p>
 
 <indent level="1">
@@ -148,7 +148,7 @@ for <link xlink:type="simple" xlink:href="../790/240790.xml">
 indicator function</link>s. There are at least two ways to do this:</p>
 <p>
 
-<b>First possibility:</b> If suffices to do this for every <it>x</it> in the union of <it>A</it>1, ..., <it>An</it>. Suppose <it>x</it> belongs to exactly <it>m</it> sets with 1&nbsp;≤&nbsp;<it>m</it>&nbsp;≤&nbsp;<it>n</it>, for simplicity of notation say <it>A</it>1, ..., <it>Am</it>. Then the identity at <it>x</it> reduces to</p>
+<b>First possibility:</b> If suffices to do this for every <it>x</it> in the union of <it>A</it>1, ..., <it>An</it>. Suppose <it>x</it> belongs to exactly <it>m</it> sets with 1 ≤ <it>m</it> ≤ <it>n</it>, for simplicity of notation say <it>A</it>1, ..., <it>Am</it>. Then the identity at <it>x</it> reduces to</p>
 <p>
 
 <indent level="1">
@@ -157,7 +157,7 @@ indicator function</link>s. There are at least two ways to do this:</p>
 </indent>
 
 The number of subsets of cardinality <it>k</it> of an <it>m</it>-element set is the combinatorical interpretation of the <link xlink:type="simple" xlink:href="../668/4668.xml">
-binomial coefficient</link> <math>\textstyle\binom mk</math>&nbsp;. Since <math>\textstyle1=\binom m0</math>&nbsp;, we have</p>
+binomial coefficient</link> <math>\textstyle\binom mk</math> . Since <math>\textstyle1=\binom m0</math> , we have</p>
 <p>
 
 <indent level="1">
@@ -165,7 +165,7 @@ binomial coefficient</link> <math>\textstyle\binom mk</math>&nbsp;. Since <math>
 <math>\binom m0 =\sum_{k=1}^m (-1)^{k-1}\binom mk.</math>
 </indent>
 
-Putting all terms to the left-hand side of the equation, we obtain the expansion for (1&nbsp;–&nbsp;1)<it>m</it> given by the <link xlink:type="simple" xlink:href="../677/4677.xml">
+Putting all terms to the left-hand side of the equation, we obtain the expansion for (1 – 1)<it>m</it> given by the <link xlink:type="simple" xlink:href="../677/4677.xml">
 binomial theorem</link>, hence we see that (*) is true for <it>x</it>.</p>
 <p>
 
@@ -244,7 +244,7 @@ Derangements</st>
 
 A well-known application of the inclusion-exclusion principle is to the combinatorial problem of counting all <link xlink:type="simple" xlink:href="../132/162132.xml">
 derangement</link>s of a finite set.  A <it>derangement</it> of a set <it>A</it> is a <link xlink:type="simple" xlink:href="../942/3942.xml">
-bijection</link> from <it>A</it> into itself that has no fixed points. Via the inclusion-exclusion principle one can show that if the cardinality of <it>A</it> is <it>n</it>, then the number of derangements is [''n''!&nbsp;/&nbsp;''e''] where [''x''] denotes the <link xlink:type="simple" xlink:href="../388/3134388.xml">
+bijection</link> from <it>A</it> into itself that has no fixed points. Via the inclusion-exclusion principle one can show that if the cardinality of <it>A</it> is <it>n</it>, then the number of derangements is [''n''! / ''e''] where [''x''] denotes the <link xlink:type="simple" xlink:href="../388/3134388.xml">
 nearest integer</link> to <it>x</it>; a detailed proof is available <link xlink:type="simple" xlink:href="../182/4915182.xml#xpointer(//*[./st=%22Number+of+permutations+that+are+derangements%22])">
 here</link>.</p>
 <p>

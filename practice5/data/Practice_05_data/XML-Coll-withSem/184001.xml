@@ -184,7 +184,7 @@ Microcomputer System</link></personal_computer>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -195,10 +195,10 @@ Atom</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.9508927676800064">
+ ·  <computer wordnetid="103082979" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../885/18950885.xml">
 BBC Micro (aka Proton)</link></computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -209,7 +209,7 @@ Electron</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -220,7 +220,7 @@ Communicator</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -231,7 +231,7 @@ Business Computer</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -242,10 +242,10 @@ BBC Master</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../145/63145.xml">
-Archimedes range</link>&nbsp;·  <link xlink:type="simple" xlink:href="../645/62645.xml">
-Risc PC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../062/18330062.xml">
-A7000</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../145/63145.xml">
+Archimedes range</link> ·  <link xlink:type="simple" xlink:href="../645/62645.xml">
+Risc PC</link> ·  <link xlink:type="simple" xlink:href="../062/18330062.xml">
+A7000</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -256,7 +256,7 @@ Network Computer</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -267,7 +267,7 @@ Set-Top Box</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../128/224128.xml">
+ ·  <link xlink:type="simple" xlink:href="../128/224128.xml">
 Phoebe</link></col>
 </row>
 <row style="height:2px">
@@ -280,19 +280,19 @@ Operating systems</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../154/3451154.xml">
 Acorn MOS</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../024/16848024.xml">
 Panos</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../001/184001.xml">
 Arthur</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../593/245593.xml">
 ARX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../931/724931.xml">
 RISC iX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../999/167999.xml">
 RISC OS</link></O>
 </col>

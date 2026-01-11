@@ -135,7 +135,7 @@ Despite Shannon's proof of its security, the one-time pad has serious drawbacks 
  secure generation and exchange of the one-time pad material, which must be at least as long as the message</entry>
 <entry level="1" type="bullet">
 
- careful treatment to make sure that it continues to remain secret from any adversary, and is disposed of correctly preventing any reuse in whole or part &mdash; hence "one time". See <link xlink:type="simple" xlink:href="../415/1230415.xml">
+ careful treatment to make sure that it continues to remain secret from any adversary, and is disposed of correctly preventing any reuse in whole or part — hence "one time". See <link xlink:type="simple" xlink:href="../415/1230415.xml">
 data remanence</link> for a discussion of difficulties in completely erasing computer media.</entry>
 </list>
 </p>
@@ -188,7 +188,7 @@ Gilbert Vernam</link></decoder>
 AT&amp;T</link></company>
 ) invented and later patented in 1919 (<weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=1310719">
 U.S. Patent 1,310,719</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=1310719">
-&nbsp;</weblink>) a cipher based on <link xlink:type="simple" xlink:href="../247/31247.xml">
+ </weblink>) a cipher based on <link xlink:type="simple" xlink:href="../247/31247.xml">
 Teletype</link> machine technology. Each character in a message was electrically combined with a character on a <link xlink:type="simple" xlink:href="../761/49761.xml">
 paper tape</link> key. Captain <physical_entity wordnetid="100001930" confidence="0.8">
 <skilled_worker wordnetid="110605985" confidence="0.8">
@@ -375,7 +375,7 @@ Similar to above, if a number is negative, 26 is added to make the number positi
 
 Thus, Bob recovers Alice's plaintext, the message "HELLO". Both Alice and Bob destroy the key sheet immediately after use, thus preventing reuse and an attack against the cipher. The <link xlink:type="simple" xlink:href="../958/16958.xml">
 KGB</link> often issued its <link xlink:type="simple" xlink:href="../501/10501.xml">
-agents</link> one-time pads printed on tiny sheets of "flash paper"&mdash;paper chemically converted to <link xlink:type="simple" xlink:href="../246/58246.xml">
+agents</link> one-time pads printed on tiny sheets of "flash paper"—paper chemically converted to <link xlink:type="simple" xlink:href="../246/58246.xml">
 nitrocellulose</link>, which burns almost instantly and leaves no ash.</p>
 <p>
 
@@ -737,7 +737,7 @@ grid reference</link>s) are encoded and the ciphertext is read out letter by let
 <p>
 
 A related notion is the <link xlink:type="simple" xlink:href="../989/838989.xml#xpointer(//*[./st=%22One-time+code%22])">
-one-time code</link>&mdash;a signal, used only once, eg "Alpha" for "mission completed" and "Bravo" for "mission failed" cannot be "decrypted" in any reasonable sense of the word. Understanding the message will require additional information, often 'depth' of repetition, or some <link xlink:type="simple" xlink:href="../015/480015.xml">
+one-time code</link>—a signal, used only once, eg "Alpha" for "mission completed" and "Bravo" for "mission failed" cannot be "decrypted" in any reasonable sense of the word. Understanding the message will require additional information, often 'depth' of repetition, or some <link xlink:type="simple" xlink:href="../015/480015.xml">
 traffic analysis</link>. However, such strategies (though often used by real operatives, and <link xlink:type="simple" xlink:href="../850/3850.xml">
 baseball</link> coaches) are not a cryptographic one-time pad in any significant sense.</p>
 
@@ -754,9 +754,9 @@ While one-time pads provide perfect secrecy if generated and used properly, smal
 <entry level="1" type="bullet">
 
 In <link xlink:type="simple" xlink:href="../622/34622.xml">
-1944</link>&ndash;<link xlink:type="simple" xlink:href="../624/34624.xml">
+1944</link>–<link xlink:type="simple" xlink:href="../624/34624.xml">
 1945</link>, the US Army's <link>
-Signal Security Agency</link> was able to solve a one-time pad system used by the German Foreign Office for its high-level traffic, codenamed GEE (Erskine, 2001). GEE was insecure because the pads were not completely random &mdash; the machine used to generate the pads produced predictable output.</entry>
+Signal Security Agency</link> was able to solve a one-time pad system used by the German Foreign Office for its high-level traffic, codenamed GEE (Erskine, 2001). GEE was insecure because the pads were not completely random — the machine used to generate the pads produced predictable output.</entry>
 </list>
 </p>
 <p>
@@ -1085,17 +1085,17 @@ Chiffriergerätebau : One-Time-Pad (German), with photo</weblink>".&#32;Retrieve
 2006-07-24</link>.</entry>
 <entry id="3">
  <cite id="Reference-Kahn-1967" style="font-style:normal" class="book">Kahn, David&#32;(1967). <link xlink:type="simple" xlink:href="../052/578052.xml">
-The Codebreakers</link>.&#32;Macmillan,&#32;398 ff. ISBN 0-684-83130-9.</cite>&nbsp;</entry>
+The Codebreakers</link>.&#32;Macmillan,&#32;398 ff. ISBN 0-684-83130-9.</cite> </entry>
 <entry id="4">
- <cite style="font-style:normal">Shannon, Claude&#32;(1949).&#32;"Communication Theory of Secrecy Systems". <it>Bell System Technical Journal</it>&#32;<b>28</b>&#32;(4): 656–715.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Shannon, Claude&#32;(1949).&#32;"Communication Theory of Secrecy Systems". <it>Bell System Technical Journal</it>&#32;<b>28</b>&#32;(4): 656–715.</cite> </entry>
 <entry id="5">
 "<weblink xlink:type="simple" xlink:href="http://www.nsa.gov/venona/index.cfm">
 NSA Venona page</weblink>".</entry>
 <entry id="6">
- <cite id="Reference-Marks-1998" style="font-style:normal" class="book">Marks, Leo&#32;(1998). Between Silk and Cyanide: a Codemaker's Story, 1941-1945.&#32;HarperCollins. ISBN 0-684-86780-X.</cite>&nbsp;</entry>
+ <cite id="Reference-Marks-1998" style="font-style:normal" class="book">Marks, Leo&#32;(1998). Between Silk and Cyanide: a Codemaker's Story, 1941-1945.&#32;HarperCollins. ISBN 0-684-86780-X.</cite> </entry>
 <entry id="7">
-S. N. Molotkov, “Quantum cryptography and V. A. Kotel’nikov’s one-time key and sampling theorems,” PHYS-USP <b>49</b>, 750-761 (2006), article available to journal subscribers in&nbsp;English <weblink xlink:type="simple" xlink:href="http://www.turpion.org/php/paper.phtml?journal_id=pu&amp;paper_id=6050">
-http://www.turpion.org/php/paper.phtml?journal_id=pu&amp;paper_id=6050</weblink> and openly in&nbsp;Russian <weblink xlink:type="simple" xlink:href="http://www.ufn.ru/ru/articles/2006/7/k/">
+S. N. Molotkov, “Quantum cryptography and V. A. Kotel’nikov’s one-time key and sampling theorems,” PHYS-USP <b>49</b>, 750-761 (2006), article available to journal subscribers in English <weblink xlink:type="simple" xlink:href="http://www.turpion.org/php/paper.phtml?journal_id=pu&amp;paper_id=6050">
+http://www.turpion.org/php/paper.phtml?journal_id=pu&amp;paper_id=6050</weblink> and openly in Russian <weblink xlink:type="simple" xlink:href="http://www.ufn.ru/ru/articles/2006/7/k/">
 http://www.ufn.ru/ru/articles/2006/7/k/</weblink></entry>
 <entry id="8">
 Schneier, Bruce.&#32;"<weblink xlink:type="simple" xlink:href="http://www.schneier.com/crypto-gram-0210.html#7">
@@ -1136,7 +1136,7 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- Erskine, Ralph, "Enigma's Security: What the Germans Really Knew", in "Action this Day", edited by Ralph Erskine and Michael Smith, pp 370&ndash;386, 2001.</entry>
+ Erskine, Ralph, "Enigma's Security: What the Germans Really Knew", in "Action this Day", edited by Ralph Erskine and Michael Smith, pp 370–386, 2001.</entry>
 </list>
 </p>
 

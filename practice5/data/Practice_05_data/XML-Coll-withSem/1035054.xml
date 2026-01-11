@@ -81,22 +81,22 @@ Typical Gunning fog indices of selected magazines</st>
 <list>
 <entry level="1" type="bullet">
 
-12 &mdash; <it><link xlink:type="simple" xlink:href="../743/149743.xml">
+12 — <it><link xlink:type="simple" xlink:href="../743/149743.xml">
 Atlantic Monthly</link>''</it></entry>
 <entry level="1" type="bullet">
 
-11 &mdash; <it><link xlink:type="simple" xlink:href="../600/31600.xml">
+11 — <it><link xlink:type="simple" xlink:href="../600/31600.xml">
 TIME</link></it>, <it><link xlink:type="simple" xlink:href="../078/297078.xml">
 Harper's</link>''</it></entry>
 <entry level="1" type="bullet">
 
-10 &mdash; <it><magazine wordnetid="106595351" confidence="0.9508927676800064">
+10 — <it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../169/214169.xml">
 Newsweek</link></magazine>
 ''</it></entry>
 <entry level="1" type="bullet">
 
-9 &mdash; <it><work wordnetid="104599396" confidence="0.8">
+9 — <it><work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <magazine wordnetid="106595351" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -120,7 +120,7 @@ Reader's Digest</link></publication>
 ''</it></entry>
 <entry level="1" type="bullet">
 
-8 &mdash; <it><work wordnetid="104599396" confidence="0.8">
+8 — <it><work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <magazine wordnetid="106595351" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -144,7 +144,7 @@ Ladies' Home Journal</link></publication>
 ''</it></entry>
 <entry level="1" type="bullet">
 
-7 &mdash; <it><work wordnetid="104599396" confidence="0.8">
+7 — <it><work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <magazine wordnetid="106595351" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -168,7 +168,7 @@ True Confessions</link></publication>
 ''</it></entry>
 <entry level="1" type="bullet">
 
-6 &mdash; <link xlink:type="simple" xlink:href="../231/6231.xml">
+6 — <link xlink:type="simple" xlink:href="../231/6231.xml">
 Comic books</link></entry>
 </list>
 </p>

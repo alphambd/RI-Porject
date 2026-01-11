@@ -174,7 +174,7 @@ public switched telephone network</link> (<link xlink:type="simple" xlink:href="
 PSTN</link>) is designed to accommodate the offered traffic intensity with only a small loss. The <link xlink:type="simple" xlink:href="../954/1522954.xml">
 performance</link> of loss systems is quantified by their <link xlink:type="simple" xlink:href="../212/41212.xml">
 grade of service</link>, driven by the assumption that if insufficient capacity is available, the call is refused and lost.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> Alternatively, overflow systems make use of <link xlink:type="simple" xlink:href="../465/925465.xml">
-alternative routes</link> to divert calls via different paths &mdash; even these systems have a finite or maximum traffic carrying capacity.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></p>
+alternative routes</link> to divert calls via different paths — even these systems have a finite or maximum traffic carrying capacity.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></p>
 <p>
 
 However, the use of queueing in PSTNs allows the systems to queue their customers' requests until free resources become available. This means that if traffic intensity levels exceed available capacity, customers' calls are here no longer lost; they instead wait until they can be served.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref> This method is used in queueing customers for the next available operator.</p>
@@ -227,13 +227,13 @@ Poisson distribution</link></distribution>
 <list>
 <entry level="1" type="bullet">
 
-<it>Pure-chance traffic</it> &ndash; Call arrivals and departures are random and independent events.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
+<it>Pure-chance traffic</it> – Call arrivals and departures are random and independent events.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
 <entry level="1" type="bullet">
 
-<it>Statistical equilibrium</it> &ndash; Probabilities within the system do not change.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
+<it>Statistical equilibrium</it> – Probabilities within the system do not change.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
 <entry level="1" type="bullet">
 
-<it>Full availability</it> &ndash; All incoming traffic can be routed to any other customer within the network.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
+<it>Full availability</it> – All incoming traffic can be routed to any other customer within the network.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
 <entry level="1" type="bullet">
 
 <it>Congestion is cleared as soon as servers are free</it>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
@@ -385,7 +385,7 @@ Flood, J.E. <it>Telecommunications Switching, Traffic and Networks</it>, Chapter
 <entry id="5">
 Bose S.J., <it>Chapter 1 - An Introduction to Queueing Systems</it>, Kluwer/Plenum Publishers, 2002.</entry>
 <entry id="6">
-Penttinen A., <it>Chapter 8 &ndash; Queueing Systems</it>, Lecture Notes: S-38.145 - Introduction to Teletraffic Theory.</entry>
+Penttinen A., <it>Chapter 8 – Queueing Systems</it>, Lecture Notes: S-38.145 - Introduction to Teletraffic Theory.</entry>
 </reflist>
 </p>
 
@@ -398,19 +398,19 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Gross-1998" style="font-style:normal" class="book">Gross, Donald;&#32;Carl M. Harris&#32;(1998). Fundamentals of Queueing Theory.&#32;Wiley.</cite>&nbsp;</entry>
+  <cite id="Reference-Gross-1998" style="font-style:normal" class="book">Gross, Donald;&#32;Carl M. Harris&#32;(1998). Fundamentals of Queueing Theory.&#32;Wiley.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Deitel-1984" style="font-style:normal" class="book">Deitel, Harvey M.&#32;[1982]&#32;(1984). <weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=79046&amp;dl=GUIDE&amp;coll=GUIDE">
-An introduction to operating systems</weblink>, revisited first edition,&#32;Addison-Wesley,&#32;673. ISBN 0-201-14502-2.</cite>&nbsp; chap.15, pp.380-412</entry>
+An introduction to operating systems</weblink>, revisited first edition,&#32;Addison-Wesley,&#32;673. ISBN 0-201-14502-2.</cite>  chap.15, pp.380-412</entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Lazowska-1984" style="font-style:normal" class="book">Lazowska, Edward D.;&#32;John Zahorjan, G. Scott Graham, Kenneth C. Sevcik&#32;(1984). <weblink xlink:type="simple" xlink:href="http://www.cs.washington.edu/homes/lazowska/qsp/">
-Quantitative System Performance: Computer System Analysis Using Queueing Network Models</weblink>.&#32;Prentice-Hall, Inc.</cite>&nbsp;</entry>
+Quantitative System Performance: Computer System Analysis Using Queueing Network Models</weblink>.&#32;Prentice-Hall, Inc.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Zukerman, Moshe. <weblink xlink:type="simple" xlink:href="http://www.ee.unimelb.edu.au/staff/mzu/classnotes.pdf">
-Introduction to Queueing Theory and Stochastic Teletraffic Models</weblink>.</cite>&nbsp;</entry>
+Introduction to Queueing Theory and Stochastic Teletraffic Models</weblink>.</cite> </entry>
 </list>
 </p>
 

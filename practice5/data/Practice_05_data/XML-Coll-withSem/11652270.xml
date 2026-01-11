@@ -124,10 +124,10 @@ power</link></concept>
 <entry level="1" type="number">
 
 Vehicle <link xlink:type="simple" xlink:href="../211/59211.xml">
-altitude</link> must be less than or equal to 5,500&nbsp;feet (1,700&nbsp;m). </entry>
+altitude</link> must be less than or equal to 5,500 feet (1,700 m). </entry>
 <entry level="1" type="number">
 
-Ambient temperature must be less than or equal to 100&nbsp;°F (38&nbsp;°C) at sea level to 86°F at 5,500&nbsp;feet (1,700&nbsp;m). </entry>
+Ambient temperature must be less than or equal to 100 °F (38 °C) at sea level to 86°F at 5,500 feet (1,700 m). </entry>
 <entry level="1" type="number">
 
 <link xlink:type="simple" xlink:href="../277/1047277.xml">
@@ -223,7 +223,7 @@ In <link xlink:type="simple" xlink:href="../593/764593.xml">
 urban</link> or <link xlink:type="simple" xlink:href="../908/28908.xml">
 suburban</link> driving, this happens relatively often, to the point that NTE standards are applicable only a very small portion of the operation <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref>
 or, in some cases, not at all. The <link xlink:type="simple" xlink:href="../934/22934.xml">
-probability</link> of the engine remaining within the NTE zone for over 30 seconds also decreases with the advent of high-power engines. For example, if the power required to maintain a motorcoach or an over-the-road truck at highway cruising speed is somewhere around 150&nbsp;hp (110&nbsp;kW), the probability that a 475&nbsp;hp (354&nbsp;kW) engine will consistently operate at loads above 30%, without “dips” to lower power levels, can be relatively small.   </p>
+probability</link> of the engine remaining within the NTE zone for over 30 seconds also decreases with the advent of high-power engines. For example, if the power required to maintain a motorcoach or an over-the-road truck at highway cruising speed is somewhere around 150 hp (110 kW), the probability that a 475 hp (354 kW) engine will consistently operate at loads above 30%, without “dips” to lower power levels, can be relatively small.   </p>
 <p>
 
 These concerns were confirmed by studies carried out by <university wordnetid="108286163" confidence="0.9508927676800064">
@@ -490,7 +490,7 @@ PDF</link></format>
 </language>
 </information>
 </message>
-&nbsp;(26.5&nbsp;<link xlink:type="simple" xlink:href="../755/149755.xml">
+ (26.5 <link xlink:type="simple" xlink:href="../755/149755.xml">
 KiB</link>).</entry>
 <entry level="1" type="bullet">
 
@@ -512,7 +512,7 @@ PDF</link></format>
 </language>
 </information>
 </message>
-&nbsp;(141&nbsp;<link xlink:type="simple" xlink:href="../755/149755.xml">
+ (141 <link xlink:type="simple" xlink:href="../755/149755.xml">
 KiB</link>) for <link xlink:type="simple" xlink:href="../436/182436.xml">
 heavy</link> <link xlink:type="simple" xlink:href="../749/183749.xml">
 duty</link> and <link xlink:type="simple" xlink:href="../897/25897.xml">

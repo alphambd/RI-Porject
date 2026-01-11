@@ -160,22 +160,22 @@ AN/APQ-13</link></instrument>
 </measuring_instrument>
 </instrumentality>
 </artifact>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../167/7898167.xml">
 AN/APS-2F</link></network>
 </group>
 </system>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../909/7897909.xml">
 AN/CPS-9</link></network>
 </group>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../372/5357372.xml">
-AN/FPS-41</link>&nbsp;·  <link>
+ ·  <link xlink:type="simple" xlink:href="../372/5357372.xml">
+AN/FPS-41</link> ·  <link>
 AN/FPS-77</link></col>
 </row>
 <row style="height:2px">
@@ -192,31 +192,31 @@ Weather Surveillance Radars</col>
 WSR-1 and -1A</link></network>
 </group>
 </system>
-&nbsp;·  <link>
-WSR-3</link>&nbsp;·  <link>
-WSR-4</link>&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <link>
+WSR-3</link> ·  <link>
+WSR-4</link> ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../761/314761.xml">
 WSR-57</link></network>
 </group>
 </system>
-&nbsp;·   <system wordnetid="108435388" confidence="0.8">
+ ·   <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../758/314758.xml">
 WSR-74C and -74S</link></network>
 </group>
 </system>
- &nbsp;·  <link>
-WSR100-S</link>&nbsp;·   <system wordnetid="108435388" confidence="0.8">
+  ·  <link>
+WSR100-S</link> ·   <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../409/314409.xml">
 WSR-88D (NEXRAD)</link></network>
 </group>
 </system>
-&nbsp;·  <link>
+ ·  <link>
 TDWR</link></col>
 </row>
 <row style="height:2px">
@@ -227,23 +227,23 @@ TDWR</link></col>
 Research radars</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../172/4957172.xml">
-ADRAD</link>&nbsp;·  <link xlink:type="simple" xlink:href="../469/5971469.xml">
-ARMOR</link>&nbsp;·  <link>
-Cimarron</link>&nbsp;·  <link>
-CORAD</link>&nbsp;·  <link>
-CSU-CHILL</link>&nbsp;·  <link>
-CSU-Pawnee</link>&nbsp;·  <link xlink:type="simple" xlink:href="../312/10127312.xml">
-DOW</link>&nbsp;·  <link xlink:type="simple" xlink:href="../087/15870087.xml">
-KPOL</link>&nbsp;·  <link>
-NOAA/ETL</link>&nbsp;·   <link>
-<it>NOAA Ron Brown</it>'s Doppler</link> &nbsp;·  <link xlink:type="simple" xlink:href="../627/5396627.xml">
-NPOL</link>&nbsp;·   <link>
-NSSL 10 cm Doppler</link> &nbsp;·   <link xlink:type="simple" xlink:href="../878/697878.xml">
+ADRAD</link> ·  <link xlink:type="simple" xlink:href="../469/5971469.xml">
+ARMOR</link> ·  <link>
+Cimarron</link> ·  <link>
+CORAD</link> ·  <link>
+CSU-CHILL</link> ·  <link>
+CSU-Pawnee</link> ·  <link xlink:type="simple" xlink:href="../312/10127312.xml">
+DOW</link> ·  <link xlink:type="simple" xlink:href="../087/15870087.xml">
+KPOL</link> ·  <link>
+NOAA/ETL</link> ·   <link>
+<it>NOAA Ron Brown</it>'s Doppler</link>  ·  <link xlink:type="simple" xlink:href="../627/5396627.xml">
+NPOL</link> ·   <link>
+NSSL 10 cm Doppler</link>  ·   <link xlink:type="simple" xlink:href="../878/697878.xml">
 PAR</link> at <link xlink:type="simple" xlink:href="../922/2095922.xml">
-NSSL</link> &nbsp;·  <link>
-SKYWATER</link>&nbsp;·  <link>
-SMART-R</link>&nbsp;·  <link xlink:type="simple" xlink:href="../979/2615979.xml">
-TOGA</link>&nbsp;·  <link xlink:type="simple" xlink:href="../687/1106687.xml">
+NSSL</link>  ·  <link>
+SKYWATER</link> ·  <link>
+SMART-R</link> ·  <link xlink:type="simple" xlink:href="../979/2615979.xml">
+TOGA</link> ·  <link xlink:type="simple" xlink:href="../687/1106687.xml">
 UND</link></col>
 </row>
 </table>

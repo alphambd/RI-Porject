@@ -33,7 +33,7 @@ The <b>Hadamard code</b>, named after <person wordnetid="100007846" confidence="
 Jacques Hadamard</link></scientist>
 </person>
 , is a system used for signal <link xlink:type="simple" xlink:href="../375/10375.xml">
-error detection and correction</link>.  It is one of the family of [2''n'',&nbsp;''n''&nbsp;+&nbsp;1,&nbsp;2''n''&nbsp;&amp;minus;&nbsp;1] codes. Especially for large <it>n</it> it has a poor rate but it is capable of correcting many errors. 
+error detection and correction</link>.  It is one of the family of [2''n'', ''n'' + 1, 2''n'' &amp;minus; 1] codes. Especially for large <it>n</it> it has a poor rate but it is capable of correcting many errors. 
 <sec>
 <st>
 Construction</st>
@@ -57,11 +57,11 @@ Hadamard matrix</link></difficulty>
 </problem>
 </state>
 </condition>
- of order 2<it>n</it> the codewords are constructed by taking the rows of <it>H</it> and &amp;minus;<it>H</it> as codewords, where each &amp;minus;1 is replaced by 0. In this way 2<it>n</it>&nbsp;+&nbsp;1 code words are constructed that each have a length of 2<it>n</it>. Since the rows of a Hadamard matrix are orthogonal the minimum distance is 2<it>n</it>&nbsp;-&nbsp;1. In this way a [2''n'',&nbsp;''n''&nbsp;+&nbsp;1,&nbsp;2''n''&nbsp;&amp;minus;&nbsp;1] code is constructed.</p>
+ of order 2<it>n</it> the codewords are constructed by taking the rows of <it>H</it> and &amp;minus;<it>H</it> as codewords, where each &amp;minus;1 is replaced by 0. In this way 2<it>n</it> + 1 code words are constructed that each have a length of 2<it>n</it>. Since the rows of a Hadamard matrix are orthogonal the minimum distance is 2<it>n</it> - 1. In this way a [2''n'', ''n'' + 1, 2''n'' &amp;minus; 1] code is constructed.</p>
 <p>
 
 The code can also be constructed by creating the <link xlink:type="simple" xlink:href="../570/10557570.xml">
-parity-check matrix</link> which consists of all 2<it>n</it>&nbsp;&amp;minus;&nbsp;1 vectors containing an odd number of 1s, or by using a recursive encoding process.</p>
+parity-check matrix</link> which consists of all 2<it>n</it> &amp;minus; 1 vectors containing an odd number of 1s, or by using a recursive encoding process.</p>
 
 </sec>
 <sec>
@@ -69,16 +69,16 @@ parity-check matrix</link> which consists of all 2<it>n</it>&nbsp;&amp;minus;&nb
 Decoding</st>
 <p>
 
-The code has minimum distance 2<it>n</it>&nbsp;&amp;minus;&nbsp;1 and hence can correct at most <it>t</it> = 2<it>n</it>&nbsp;&amp;minus;&nbsp;2&nbsp;&amp;minus;&nbsp;1 errors. The algorithm below achieves this.</p>
+The code has minimum distance 2<it>n</it> &amp;minus; 1 and hence can correct at most <it>t</it> = 2<it>n</it> &amp;minus; 2 &amp;minus; 1 errors. The algorithm below achieves this.</p>
 <p>
 
 When a code word is received it is first transformed to a 1/&amp;minus;1 vector <it>v</it> by changing all 0s to &amp;minus;1. Compute 
-(<it>v</it>&nbsp;<it>H</it>T). The entry with the maximum absolute value corresponds to the row taken as a code word. If it is positive the code word came from <it>H</it>, if it is negative the code word came from &amp;minus;<it>H</it>.</p>
+(<it>v</it> <it>H</it>T). The entry with the maximum absolute value corresponds to the row taken as a code word. If it is positive the code word came from <it>H</it>, if it is negative the code word came from &amp;minus;<it>H</it>.</p>
 <p>
 
 <it>Proof:</it> If there were
-no errors the product (<it>v</it>&nbsp;<it>H</it>T) would consist of only zero's and one entry of  +/&amp;minus;2<it>n</it>. If there are errors in <it>v</it> then, in absolute value, some of the zeros become larger and the maximum becomes smaller. Each error that occurs can change a zero with 2. So the zeros can become at most 0 + 2<it>t</it> = <it>2n</it>&nbsp;&amp;minus;&nbsp;1&nbsp;&amp;minus;&nbsp;2. The maximum
-can decrease at most to 2<it>n</it>&nbsp;&amp;minus;&nbsp;2<it>t</it> = 2<it>n</it>&nbsp;&amp;minus;&nbsp;2<it>n</it>&nbsp;&amp;minus;&nbsp;1&nbsp;+&nbsp;2 = 2<it>n</it>&nbsp;&amp;minus;&nbsp;1&nbsp;+&nbsp;2. So the maximum that points to the correct row will always be larger in absolute value than the other values in the row.</p>
+no errors the product (<it>v</it> <it>H</it>T) would consist of only zero's and one entry of  +/&amp;minus;2<it>n</it>. If there are errors in <it>v</it> then, in absolute value, some of the zeros become larger and the maximum becomes smaller. Each error that occurs can change a zero with 2. So the zeros can become at most 0 + 2<it>t</it> = <it>2n</it> &amp;minus; 1 &amp;minus; 2. The maximum
+can decrease at most to 2<it>n</it> &amp;minus; 2<it>t</it> = 2<it>n</it> &amp;minus; 2<it>n</it> &amp;minus; 1 + 2 = 2<it>n</it> &amp;minus; 1 + 2. So the maximum that points to the correct row will always be larger in absolute value than the other values in the row.</p>
 
 </sec>
 <sec>

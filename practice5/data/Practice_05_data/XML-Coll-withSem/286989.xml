@@ -270,11 +270,11 @@ IMC conditions</link>, and strong surface winds.</entry>
 SIGMET</link>s (Significant Meteorological Information)</entry>
 <entry level="2" type="bullet">
 
- Convective: Issued for an area of thunderstorms affecting an area of 3,000&nbsp;square miles (7,800&nbsp;km2) or greater, a line of thunderstorms at least 60&nbsp;nmi (110&nbsp;km) long, and/or severe or embedded thunderstorms affecting any area that are expected to last 30 minutes or longer.</entry>
+ Convective: Issued for an area of thunderstorms affecting an area of 3,000 square miles (7,800 km2) or greater, a line of thunderstorms at least 60 nmi (110 km) long, and/or severe or embedded thunderstorms affecting any area that are expected to last 30 minutes or longer.</entry>
 <entry level="2" type="bullet">
 
- Non-convective: Issued for severe or greater turbulence over a 3,000&nbsp;square miles (7,800&nbsp;km2) area, severe or greater icing over a 3,000&nbsp;square miles (7,800&nbsp;km2), or <link xlink:type="simple" xlink:href="../627/1536627.xml">
-IMC conditions</link> over a 3,000&nbsp;square miles (7,800&nbsp;km2) area due to dust, sand, or volcanic ash.</entry>
+ Non-convective: Issued for severe or greater turbulence over a 3,000 square miles (7,800 km2) area, severe or greater icing over a 3,000 square miles (7,800 km2), or <link xlink:type="simple" xlink:href="../627/1536627.xml">
+IMC conditions</link> over a 3,000 square miles (7,800 km2) area due to dust, sand, or volcanic ash.</entry>
 </list>
 </p>
 
@@ -1128,22 +1128,22 @@ Department of the Interior</link></agency>
 <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../535/161535.xml">
 National Park Service</link></agency>
-&nbsp;• <link xlink:type="simple" xlink:href="../289/75289.xml">
-Fish and Wildlife Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../237/513237.xml">
-Bureau of Indian Affairs</link>&nbsp;• <link xlink:type="simple" xlink:href="../139/54139.xml">
-Bureau of Land Management</link>&nbsp;• <link xlink:type="simple" xlink:href="../010/1705010.xml">
-Minerals Management Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../685/3475685.xml">
-Office of Surface Mining, Reclamation, and Enforcement</link>&nbsp;• <agency wordnetid="108337324" confidence="0.9508927676800064">
+ • <link xlink:type="simple" xlink:href="../289/75289.xml">
+Fish and Wildlife Service</link> • <link xlink:type="simple" xlink:href="../237/513237.xml">
+Bureau of Indian Affairs</link> • <link xlink:type="simple" xlink:href="../139/54139.xml">
+Bureau of Land Management</link> • <link xlink:type="simple" xlink:href="../010/1705010.xml">
+Minerals Management Service</link> • <link xlink:type="simple" xlink:href="../685/3475685.xml">
+Office of Surface Mining, Reclamation, and Enforcement</link> • <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../640/191640.xml">
 Geological Survey</link></agency>
-&nbsp;• <control wordnetid="105196375" confidence="0.8">
+ • <control wordnetid="105196375" confidence="0.8">
 <authority wordnetid="105196582" confidence="0.8">
 <power wordnetid="105190804" confidence="0.8">
 <link xlink:type="simple" xlink:href="../065/388065.xml">
 Bureau of Reclamation</link></power>
 </authority>
 </control>
-&nbsp;• <link xlink:type="simple" xlink:href="../076/706076.xml">
+ • <link xlink:type="simple" xlink:href="../076/706076.xml">
 Office of Insular Affairs</link></col>
 </row>
 <row style="height:2px">
@@ -1158,11 +1158,11 @@ Atmospheric Administration</link></b></col>
 <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../989/286989.xml">
 National Weather Service</link></agency>
-&nbsp;• <link xlink:type="simple" xlink:href="../043/900043.xml">
-National Ocean Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../435/854435.xml">
-National Geodetic Survey</link>&nbsp;• <link xlink:type="simple" xlink:href="../876/37876.xml">
-National Oceanic and Atmospheric Administration</link>&nbsp;• <link xlink:type="simple" xlink:href="../106/1705106.xml">
-National Marine Fisheries Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../106/2080106.xml">
+ • <link xlink:type="simple" xlink:href="../043/900043.xml">
+National Ocean Service</link> • <link xlink:type="simple" xlink:href="../435/854435.xml">
+National Geodetic Survey</link> • <link xlink:type="simple" xlink:href="../876/37876.xml">
+National Oceanic and Atmospheric Administration</link> • <link xlink:type="simple" xlink:href="../106/1705106.xml">
+National Marine Fisheries Service</link> • <link xlink:type="simple" xlink:href="../106/2080106.xml">
 Office of Oceanic and Atmospheric Research</link></col>
 </row>
 <row style="height:2px">
@@ -1176,14 +1176,14 @@ Department of Energy</link></agency>
 </b></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../125/10034125.xml">
-Energy Efficiency and Renewable Energy</link>&nbsp;• <agency wordnetid="108337324" confidence="0.9508927676800064">
+Energy Efficiency and Renewable Energy</link> • <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../673/1704673.xml">
 Energy Information Administration</link></agency>
-&nbsp;• <agency wordnetid="108337324" confidence="0.9508927676800064">
+ • <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../976/56976.xml">
 Federal Energy Regulatory Commission</link></agency>
-&nbsp;• <link>
-Biological and Environmental Research</link>&nbsp;• <link>
+ • <link>
+Biological and Environmental Research</link> • <link>
 Office of Environmental Management</link></col>
 </row>
 <row style="height:2px">
@@ -1197,32 +1197,32 @@ Department of Agriculture</link></agency>
 </b></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../212/503212.xml">
-Farm Service Agency</link>&nbsp;• <link xlink:type="simple" xlink:href="../694/1704694.xml">
-Foreign Agricultural Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../092/1707092.xml">
-Risk Management Agency</link>&nbsp;• <link xlink:type="simple" xlink:href="../918/3409918.xml">
-Food Safety and Inspection Service</link>&nbsp;• <agency wordnetid="108337324" confidence="0.9508927676800064">
+Farm Service Agency</link> • <link xlink:type="simple" xlink:href="../694/1704694.xml">
+Foreign Agricultural Service</link> • <link xlink:type="simple" xlink:href="../092/1707092.xml">
+Risk Management Agency</link> • <link xlink:type="simple" xlink:href="../918/3409918.xml">
+Food Safety and Inspection Service</link> • <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../652/42652.xml">
 Forest Service</link></agency>
-&nbsp;• <agency wordnetid="108337324" confidence="0.9508927676800064">
+ • <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../028/745028.xml">
 Natural Resources Conservation Service</link></agency>
-&nbsp;• <link xlink:type="simple" xlink:href="../124/1707124.xml">
-Rural Business-Cooperative Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../148/1707148.xml">
-Office of Community Development</link>&nbsp;• <link xlink:type="simple" xlink:href="../203/1707203.xml">
-Rural Housing Service</link> &nbsp;• <administrative_unit wordnetid="108077292" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../124/1707124.xml">
+Rural Business-Cooperative Service</link> • <link xlink:type="simple" xlink:href="../148/1707148.xml">
+Office of Community Development</link> • <link xlink:type="simple" xlink:href="../203/1707203.xml">
+Rural Housing Service</link>  • <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../406/140406.xml">
 Rural Utilities Service</link></agency>
 </administrative_unit>
-&nbsp;• <link xlink:type="simple" xlink:href="../977/1332977.xml">
-Food and Nutrition Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../242/1707242.xml">
-Center for Nutrition Policy and Promotion</link>&nbsp;• <link xlink:type="simple" xlink:href="../535/1706535.xml">
-Agricultural Marketing Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../918/416918.xml">
-Animal and Plant Health Inspection Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../244/1711244.xml">
-Grain Inspection, Packers and Stockyards Administration</link>&nbsp;• <link xlink:type="simple" xlink:href="../892/251892.xml">
-Agricultural Research Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../270/397270.xml">
-Cooperative State Research, Education, and Extension Service</link>&nbsp;• <link xlink:type="simple" xlink:href="../590/1263590.xml">
-Economic Research Service</link>&nbsp;• <work wordnetid="100575741" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../977/1332977.xml">
+Food and Nutrition Service</link> • <link xlink:type="simple" xlink:href="../242/1707242.xml">
+Center for Nutrition Policy and Promotion</link> • <link xlink:type="simple" xlink:href="../535/1706535.xml">
+Agricultural Marketing Service</link> • <link xlink:type="simple" xlink:href="../918/416918.xml">
+Animal and Plant Health Inspection Service</link> • <link xlink:type="simple" xlink:href="../244/1711244.xml">
+Grain Inspection, Packers and Stockyards Administration</link> • <link xlink:type="simple" xlink:href="../892/251892.xml">
+Agricultural Research Service</link> • <link xlink:type="simple" xlink:href="../270/397270.xml">
+Cooperative State Research, Education, and Extension Service</link> • <link xlink:type="simple" xlink:href="../590/1263590.xml">
+Economic Research Service</link> • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1235,7 +1235,7 @@ National Agricultural Statistics Service</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <link xlink:type="simple" xlink:href="../920/2645920.xml">
+ • <link xlink:type="simple" xlink:href="../920/2645920.xml">
 Agricultural Stabilization and Conservation Service</link></col>
 </row>
 </table>
@@ -1271,13 +1271,13 @@ Danish Meteorological Institute</link></agency>
 </department>
 </administrative_unit>
 </division>
-&nbsp;· 
+ · 
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../074/3372074.xml">
 Deutscher Wetterdienst</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <institute wordnetid="108407330" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
@@ -1287,23 +1287,23 @@ Instituto de Meteorologia</link></agency>
 </association>
 </administrative_unit>
 </institute>
-&nbsp;· 
+ · 
 <link>
-Météo-France</link>&nbsp;· 
+Météo-France</link> · 
 <link xlink:type="simple" xlink:href="../353/17974353.xml">
-Meteo Swiss</link>&nbsp;· 
+Meteo Swiss</link> · 
 <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../671/319671.xml">
 Met Office</link></agency>
-&nbsp;· 
+ · 
 <link>
-Met Éireann</link>&nbsp;· 
+Met Éireann</link> · 
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../182/9019182.xml">
 Norwegian Meteorological Institute</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <institute wordnetid="108407330" confidence="0.8">
 <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
@@ -1321,7 +1321,7 @@ Royal Netherlands Meteorological Institute (KNMI)</link></administration>
 </social_group>
 </body>
 </institute>
-&nbsp;· 
+ · 
 <institute wordnetid="108407330" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
@@ -1331,15 +1331,15 @@ Finnish Meteorological Institute</link></agency>
 </association>
 </administrative_unit>
 </institute>
-&nbsp;· 
+ · 
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../760/7024760.xml">
 Czech Hydrometeorological Institute</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../914/4062914.xml">
-Swedish Meteorological and Hydrological Institute</link>&nbsp;· 
+Swedish Meteorological and Hydrological Institute</link> · 
 <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1353,7 +1353,7 @@ Royal Meteorological Institute</link></administration>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;· 
+ · 
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../991/8622991.xml">
@@ -1373,13 +1373,13 @@ Asia</col>
 <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../742/2570742.xml">
 Hong Kong Observatory</link></agency>
-&nbsp;· 
+ · 
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../816/2178816.xml">
 India Meteorological Department</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <center wordnetid="108523483" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -1393,27 +1393,27 @@ Japan Meteorological Agency</link></agency>
 </area>
 </center>
 </region>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../916/3704916.xml">
-Philippine Atmospheric, Geophysical and Astronomical Services Administration</link>&nbsp;· 
+Philippine Atmospheric, Geophysical and Astronomical Services Administration</link> · 
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../348/5371348.xml">
 Central Weather Bureau (Taiwan)</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../445/15540445.xml">
 China Meteorological Administration</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../814/482814.xml">
 Afghanistan Meteorological Authority</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
@@ -1423,7 +1423,7 @@ Pakistan Meteorological Department</link></agency>
 </department>
 </administrative_unit>
 </division>
-&nbsp;· 
+ · 
 <link>
 Direcção dos Serviços Meteorológicos e Geofisicos</link></p>
 </col>
@@ -1441,11 +1441,11 @@ Americas</col>
 <link xlink:type="simple" xlink:href="../393/59393.xml">
 Meteorological Service of Canada</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../989/286989.xml">
 National Weather Service</link></agency>
-&nbsp;· 
+ · 
 <link>
 Servicio Meteorológico Nacional</link></p>
 </col>
@@ -1463,11 +1463,11 @@ Oceania</col>
 <link xlink:type="simple" xlink:href="../114/4088114.xml">
 Meteorological Service of New Zealand Limited</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <agency wordnetid="108337324" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../661/1804661.xml">
 Bureau of Meteorology (Australia)</link></agency>
-&nbsp;· 
+ · 
 <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1497,7 +1497,7 @@ Africa</col>
 <link xlink:type="simple" xlink:href="../004/3596004.xml">
 South African Weather Service</link></agency>
 </administrative_unit>
-&nbsp;· 
+ · 
 <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">

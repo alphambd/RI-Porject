@@ -24,7 +24,7 @@
 The <b>Viterbi algorithm</b> is a <link xlink:type="simple" xlink:href="../297/125297.xml">
 dynamic programming</link> <link xlink:type="simple" xlink:href="../775/775.xml">
 algorithm</link> for finding the most <link xlink:type="simple" xlink:href="../968/44968.xml">
-likely</link> sequence of hidden states &ndash; called the <b>Viterbi path</b> &ndash; that results in a sequence of observed events, especially in the context of <physical_entity wordnetid="100001930" confidence="0.8">
+likely</link> sequence of hidden states – called the <b>Viterbi path</b> – that results in a sequence of observed events, especially in the context of <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -289,7 +289,7 @@ References</st>
 <entry level="1" type="bullet">
 
  Andrew J. Viterbi. <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1054010">
-Error bounds for convolutional codes and an asymptotically optimum decoding algorithm</weblink>, <it>IEEE Transactions on Information Theory</it> 13(2):260&ndash;269, April 1967.  (The Viterbi decoding algorithm is described in section IV.)</entry>
+Error bounds for convolutional codes and an asymptotically optimum decoding algorithm</weblink>, <it>IEEE Transactions on Information Theory</it> 13(2):260–269, April 1967.  (The Viterbi decoding algorithm is described in section IV.)</entry>
 </list>
 </p>
 <p>
@@ -298,7 +298,7 @@ Error bounds for convolutional codes and an asymptotically optimum decoding algo
 <entry level="1" type="bullet">
 
  G. D. Forney. <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/search/wrapper.jsp?arnumber=1450960">
-The Viterbi algorithm</weblink>. <it>Proceedings of the IEEE</it> 61(3):268&ndash;278, March 1973.</entry>
+The Viterbi algorithm</weblink>. <it>Proceedings of the IEEE</it> 61(3):268–278, March 1973.</entry>
 </list>
 </p>
 <p>
@@ -307,7 +307,7 @@ The Viterbi algorithm</weblink>. <it>Proceedings of the IEEE</it> 61(3):268&ndas
 <entry level="1" type="bullet">
 
  L. R. Rabiner. <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109/5.18626">
-A tutorial on hidden Markov models and selected applications in speech recognition</weblink> . <it>Proceedings of the IEEE</it> 77(2):257&ndash;286, February 1989.  (Describes the forward algorithm and Viterbi algorithm for HMMs).</entry>
+A tutorial on hidden Markov models and selected applications in speech recognition</weblink> . <it>Proceedings of the IEEE</it> 77(2):257–286, February 1989.  (Describes the forward algorithm and Viterbi algorithm for HMMs).</entry>
 </list>
 </p>
 <p>

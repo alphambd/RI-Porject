@@ -48,7 +48,7 @@
 <image width="150px" src="Edsger_Wybe_Dijkstra.jpg">
 </image>
 <death_date>
-August 6, 2002 (aged&nbsp;72)</death_date>
+August 6, 2002 (aged 72)</death_date>
 <birth_date>
 May 11, 1930(1930-05-11)</birth_date>
 <birth_place>
@@ -164,7 +164,7 @@ Association for Computing Machinery</link></organization>
 
 <b>Edsger Wybe Dijkstra</b> (<link xlink:type="simple" xlink:href="../452/19452.xml">
 May 11</link>, <link xlink:type="simple" xlink:href="../911/34911.xml">
-1930</link> &ndash; <link xlink:type="simple" xlink:href="../019/1019.xml">
+1930</link> – <link xlink:type="simple" xlink:href="../019/1019.xml">
 August 6</link>, <link xlink:type="simple" xlink:href="../502/35502.xml">
 2002</link>; pronounced ) was a <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
@@ -292,7 +292,7 @@ operating system rings</link></causal_agent>
 </physical_entity>
 ; and the <link xlink:type="simple" xlink:href="../557/164557.xml">
 semaphore</link> construct for coordinating multiple processors and programs. Another concept due to Dijkstra in the field of distributed computing is that of <link xlink:type="simple" xlink:href="../281/661281.xml">
-self-stabilization</link> &ndash; an alternative way to ensure the reliability of the system. Dijkstra's algorithm is used in SPF, <link xlink:type="simple" xlink:href="../809/45809.xml">
+self-stabilization</link> – an alternative way to ensure the reliability of the system. Dijkstra's algorithm is used in SPF, <link xlink:type="simple" xlink:href="../809/45809.xml">
 Shortest Path First</link>, which is used in the routing protocol OSPF, <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
@@ -567,7 +567,7 @@ Considered Harmful</link>",
 University of Texas <weblink xlink:type="simple" xlink:href="http://www.cs.utexas.edu/users/EWD/">
  online EWD archive</weblink>.</entry>
 <entry id="3">
- <cite id="Reference-Dijkstra-1982" style="font-style:normal" class="book">Dijkstra, Edsger W.&#32;(1982). Selected Writings on Computing: A Personal Perspective.&#32;Berlin:&#32;Springer-Verlag. ISBN 9780387906522.</cite>&nbsp;
+ <cite id="Reference-Dijkstra-1982" style="font-style:normal" class="book">Dijkstra, Edsger W.&#32;(1982). Selected Writings on Computing: A Personal Perspective.&#32;Berlin:&#32;Springer-Verlag. ISBN 9780387906522.</cite> 
 </entry>
 <entry id="4">
 University of Texas, <weblink xlink:type="simple" xlink:href="http://www.utexas.edu/faculty/council/2002-2003/memorials/Dijkstra/dijkstra.html">
@@ -601,7 +601,7 @@ Communications of the ACM</link></publication>
 </creation>
 </product>
 </work>
-</it>&#32;<b>11</b>&#32;(3): 147&ndash;148. <document wordnetid="106470073" confidence="0.8">
+</it>&#32;<b>11</b>&#32;(3): 147–148. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -621,7 +621,7 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0001-0782">
-0001-0782</weblink>.</cite>&nbsp; (EWD215)</entry>
+0001-0782</weblink>.</cite>  (EWD215)</entry>
 </list>
 </p>
 <p>
@@ -631,7 +631,7 @@ ISSN</link></system_of_measurement>
 
   <cite style="font-style:normal">Dijkstra, E. W.&#32;(May 1982).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html">
 How do we tell truths that might hurt?</weblink>". <it><link xlink:type="simple" xlink:href="../658/1226658.xml">
-SIGPLAN Notice</link></it>&#32;<b>17</b>&#32;(5): 13&ndash;15. <document wordnetid="106470073" confidence="0.8">
+SIGPLAN Notice</link></it>&#32;<b>17</b>&#32;(5): 13–15. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -651,7 +651,7 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0362-1340">
-0362-1340</weblink>.</cite>&nbsp; (EWD498)</entry>
+0362-1340</weblink>.</cite>  (EWD498)</entry>
 </list>
 </p>
 
@@ -806,51 +806,51 @@ laureate</link>s</header>
 <link xlink:type="simple" xlink:href="../462/300462.xml">
 Perlis</link></scientist>
 </person>
- (1966)&nbsp;·  
+ (1966) ·  
 <link xlink:type="simple" xlink:href="../463/472463.xml">
-Wilkes</link> (1967)&nbsp;·  
+Wilkes</link> (1967) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../326/99326.xml">
 Hamming</link></scientist>
 </person>
- (1968)&nbsp;·  
+ (1968) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../639/19639.xml">
 Minsky</link></scientist>
 </person>
- (1969)&nbsp;·  
+ (1969) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../380/301380.xml">
 Wilkinson</link></scientist>
 </person>
- (1970)&nbsp;·  
+ (1970) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../362/308362.xml">
 McCarthy</link></scientist>
 </person>
- (1971)&nbsp;·  
+ (1971) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/10018.xml">
 Dijkstra</link></scientist>
 </person>
- (1972)&nbsp;·  
+ (1972) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../387/301387.xml">
 Bachman</link></scientist>
 </person>
- (1973)&nbsp;·  
+ (1973) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../095/8095.xml">
 Knuth</link></scientist>
 </person>
- (1974)&nbsp;·  
+ (1974) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../300/287300.xml">
@@ -861,7 +861,7 @@ Newell</link></scientist>
 <link xlink:type="simple" xlink:href="../205/14205.xml">
 Simon</link></scientist>
 </person>
- (1975)&nbsp;·  
+ (1975) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../404/298404.xml">
@@ -872,43 +872,43 @@ Rabin</link></scientist>
 <link xlink:type="simple" xlink:href="../875/161875.xml">
 Scott</link></scientist>
 </person>
- (1976)&nbsp;·  
+ (1976) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../331/71331.xml">
 Backus</link></scientist>
 </person>
- (1977)&nbsp;·  
+ (1977) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../900/301900.xml">
 Floyd</link></scientist>
 </person>
- (1978)&nbsp;·  
+ (1978) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../163/259163.xml">
 Iverson</link></scientist>
 </person>
- (1979)&nbsp;·  
+ (1979) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/39434.xml">
 Hoare</link></scientist>
 </person>
- (1980)&nbsp;·  
+ (1980) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../548/93548.xml">
 Codd</link></scientist>
 </person>
- (1981)&nbsp;·  
+ (1981) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../432/39432.xml">
 Cook</link></scientist>
 </person>
- (1982)&nbsp;·  
+ (1982) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../747/10817747.xml">
@@ -919,19 +919,19 @@ Thompson</link></scientist>
 <link xlink:type="simple" xlink:href="../218/8218.xml">
 Ritchie</link></scientist>
 </person>
- (1983)&nbsp;·  
+ (1983) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/21642.xml">
 Wirth</link></scientist>
 </person>
- (1984)&nbsp;·  
+ (1984) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../763/298763.xml">
 Karp</link></scientist>
 </person>
- (1985)&nbsp;·  
+ (1985) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/299443.xml">
@@ -942,39 +942,39 @@ Hopcroft</link></scientist>
 <link xlink:type="simple" xlink:href="../127/46127.xml">
 Tarjan</link></scientist>
 </person>
- (1986)&nbsp;·  
+ (1986) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../915/301915.xml">
 Cocke</link></scientist>
 </person>
- (1987)&nbsp;·  
+ (1987) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../122/78122.xml">
 Sutherland</link></scientist>
 </person>
- (1988)&nbsp;·  
+ (1988) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../413/303413.xml">
 Kahan</link></scientist>
 </person>
- (1989)&nbsp;·  
+ (1989) ·  
 <link>
-Corbató</link> (1990)&nbsp;·  
+Corbató</link> (1990) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../547/93547.xml">
 Milner</link></scientist>
 </person>
- (1991)&nbsp;·  
+ (1991) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../249/77249.xml">
 Lampson</link></scientist>
 </person>
- (1992)&nbsp;·  
+ (1992) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../842/305842.xml">
@@ -1003,7 +1003,7 @@ Stearns</link></associate>
 </person>
 </peer>
 </physical_entity>
- (1993)&nbsp;·  
+ (1993) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../517/307517.xml">
@@ -1014,43 +1014,43 @@ Feigenbaum</link></scientist>
 <link xlink:type="simple" xlink:href="../669/307669.xml">
 Reddy</link></scientist>
 </person>
- (1994)&nbsp;·  
+ (1994) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../357/308357.xml">
 Blum</link></scientist>
 </person>
- (1995)&nbsp;·  
+ (1995) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../365/308365.xml">
 Pnueli</link></scientist>
 </person>
- (1996)&nbsp;·  
+ (1996) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../081/8081.xml">
 Engelbart</link></scientist>
 </person>
- (1997)&nbsp;·  
+ (1997) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../367/308367.xml">
 Gray</link></scientist>
 </person>
- (1998)&nbsp;·  
+ (1998) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../652/11652.xml">
 Brooks</link></scientist>
 </person>
- (1999)&nbsp;·  
+ (1999) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/299560.xml">
 Yao</link></scientist>
 </person>
- (2000)&nbsp;·  
+ (2000) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../188/64188.xml">
@@ -1061,7 +1061,7 @@ Ole-Johan Dahl</link></scientist>
 <link xlink:type="simple" xlink:href="../741/72741.xml">
 Kristen Nygaard</link></scientist>
 </person>
- (2001)&nbsp;·  
+ (2001) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../057/68057.xml">
@@ -1077,13 +1077,13 @@ Adi Shamir</link></scientist>
 <link xlink:type="simple" xlink:href="../886/249886.xml">
 Leonard Adleman</link></scientist>
 </person>
- (2002)&nbsp;·  
+ (2002) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../449/1449.xml">
 Alan Kay</link></scientist>
 </person>
- (2003)&nbsp;·  
+ (2003) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../433/32433.xml">
@@ -1094,17 +1094,17 @@ Vint Cerf</link></scientist>
 <link xlink:type="simple" xlink:href="../802/365802.xml">
 Bob Kahn</link></scientist>
 </person>
- (2004)&nbsp;·  
+ (2004) ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../731/58731.xml">
 Peter Naur</link></scientist>
 </person>
- (2005)&nbsp;·  
+ (2005) ·  
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../739/9352739.xml">
 Frances E. Allen</link></scientist>
- (2006)&nbsp;·  
+ (2006) ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <honoree wordnetid="110183757" confidence="0.8">

@@ -182,7 +182,7 @@ Guy Steele</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry
 <p>
 
 In 1989, Donald Knuth released new versions of TeX and <link xlink:type="simple" xlink:href="../263/44263.xml">
-METAFONT</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%228%22])">8</ref> Despite his desire to keep the program stable, Knuth realised that 128&nbsp;different characters for the text input were not enough to accommodate foreign languages; the main change in version 3.0 of TeX is thus the ability to work with 8-bits inputs, allowing 256 different characters in the text input.</p>
+METAFONT</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%228%22])">8</ref> Despite his desire to keep the program stable, Knuth realised that 128 different characters for the text input were not enough to accommodate foreign languages; the main change in version 3.0 of TeX is thus the ability to work with 8-bits inputs, allowing 256 different characters in the text input.</p>
 <p>
 
 Since version 3, TeX has used an idiosyncratic <link xlink:type="simple" xlink:href="../901/920901.xml">
@@ -444,9 +444,9 @@ command line</link> utility.<ref xlink:type="simple" xlink:href="#xpointer(//ref
 If no suitable line break can be found for a line, the system will try to <link xlink:type="simple" xlink:href="../347/59347.xml">
 hyphen</link>ate a word. The original version of TeX used a <link xlink:type="simple" xlink:href="../189/2842189.xml">
 hyphenation algorithm</link> based on a set of rules for the removal of prefixes and suffixes of words, and for deciding if it should insert a break between the two consonants in a pattern of the form <link xlink:type="simple" xlink:href="../693/32693.xml">
-vowel</link>&ndash;<link xlink:type="simple" xlink:href="../641/5641.xml">
-consonant</link>&ndash;<link xlink:type="simple" xlink:href="../641/5641.xml">
-consonant</link>&ndash;<link xlink:type="simple" xlink:href="../693/32693.xml">
+vowel</link>–<link xlink:type="simple" xlink:href="../641/5641.xml">
+consonant</link>–<link xlink:type="simple" xlink:href="../641/5641.xml">
+consonant</link>–<link xlink:type="simple" xlink:href="../693/32693.xml">
 vowel</link> (which is possible most of the time).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2219%22])">19</ref> TeX82 uses a new hyphenation algorithm, designed by <link>
 Frank Liang</link> in 1983, to assign priorities to breakpoints in letter groups. A list of hyphenation patterns is first generated automatically from a corpus of hyphenated words (a list of 50,000 words). If TeX must find the acceptable hyphenation positions in the word <it>encyclopedia</it>, for example, it will consider all the subwords of the extended word <it>.encyclopedia.</it>, where <it>.</it> is a special marker to indicate the beginning or end of the word. The list of subwords include all the subwords of length 1 (<it>.</it>, <it>e</it>, <it>n</it>, <it>c</it>, <it>y</it>, etc), of length 2 (<it>.e</it>, <it>en</it>, <it>nc</it>, etc), etc, up to the subword of length 14, which is the word itself, including the markers. TeX will then look into its list of hyphenation patterns, and find subwords for which it has calculated the desirability of hyphenation at each position. In the case of our word, 11 such patterns can be matched, namely 
 1c4l4, 1cy, 1d4i3a, 4edi, e3dia, 2i1a, ope5d, 2p2ed, 3pedi, pedia4, y1c. For each position in the word, TeX will calculate the <it>maximum value</it> obtained among all matching pattern, yielding en1cy1c4l4o3p4e5d4i3a4. Finally, the acceptable positions are those indicated by an <link xlink:type="simple" xlink:href="../135/143135.xml">
@@ -761,7 +761,7 @@ Greek</link></W>
 chi</link>). TeX is the abbreviation of <it>τέχνη</it> (ΤΕΧΝΗ – technē), Greek for both "art" and "craft", which is also the root word of <it>technical</it>.  English speakers often pronounce it /ˈtɛk/, like the first syllable of <it>technical</it>.</p>
 <p>
 
-The name is properly typeset with the "E" below the baseline and reduced spacing between the letters. This is done, as Donald Knuth mentions in his TeXBook, to distinguish ΤeΧ from other system names such as TEX, the Text EXecutive processor (developed by Honeywell Information Systems).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2234%22])">34</ref> Fans like to proliferate names from the word “TeX” &mdash; such as <it>TeXnician</it> (user of TeX software), <it>TeXpert</it>, <it>TeXhacker</it> (TeX programmer), <it>TeXmaster</it> (competent TeX programmer), <it>TeXhax</it>, and <it>TeXnique</it>.</p>
+The name is properly typeset with the "E" below the baseline and reduced spacing between the letters. This is done, as Donald Knuth mentions in his TeXBook, to distinguish ΤeΧ from other system names such as TEX, the Text EXecutive processor (developed by Honeywell Information Systems).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2234%22])">34</ref> Fans like to proliferate names from the word “TeX” — such as <it>TeXnician</it> (user of TeX software), <it>TeXpert</it>, <it>TeXhacker</it> (TeX programmer), <it>TeXmaster</it> (competent TeX programmer), <it>TeXhax</it>, and <it>TeXnique</it>.</p>
 
 </sec>
 <sec>
@@ -888,7 +888,7 @@ literate programming</link>, it contains plenty of human-readable documentation.
  Donald E. Knuth. <it>Digital Typography</it> (CSLI lecture notes, no 78). Center for the Study of Language and Information, 1999. ISBN 1-57586-010-4.</entry>
 <entry level="1" type="bullet">
 
- Donald E. Knuth and Michael F. Plass. <it>Breaking Paragraphs Into Lines</it>, Software &mdash; Practice and Experience <b>11</b> (1981), 1119&ndash;1184. Reprinted as chapter 3 of <it>Digital Typography</it>, p. 67&ndash;155.</entry>
+ Donald E. Knuth and Michael F. Plass. <it>Breaking Paragraphs Into Lines</it>, Software — Practice and Experience <b>11</b> (1981), 1119–1184. Reprinted as chapter 3 of <it>Digital Typography</it>, p. 67–155.</entry>
 <entry level="1" type="bullet">
 
  <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -910,7 +910,7 @@ Stanford University</link></university>
 <entry level="1" type="bullet">
 
  Nelson H.F. Beebe. <it><weblink xlink:type="simple" xlink:href="http://www.tug.org/TUGboat/Articles/tb25-1/beebe-2003keynote.pdf">
-25 Years of TeX and METAFONT: Looking Back and Looking Forward</weblink></it>, TUGboat <b>25</b> (2004), 7&ndash;30.</entry>
+25 Years of TeX and METAFONT: Looking Back and Looking Forward</weblink></it>, TUGboat <b>25</b> (2004), 7–30.</entry>
 <entry level="1" type="bullet">
 
  Michael Vulis, <it>Modern TeX and Its Applications</it>, CRC Press, 1992. ISBN 0-8493-4431-X</entry>
@@ -929,7 +929,7 @@ Stanford University</link></university>
 <reflist>
 <entry id="1">
 "<weblink xlink:type="simple" xlink:href="http://gcc.gnu.org/ml/java/1999-q2/msg00419.html">
-Per Bothner (assistant of Knuth) discusses authorship</weblink>".&nbsp;"Knuth definitely wrote most of the code himself, at least for the Metafont re-write, for which I have personal knowledge.  However, some of his students (such as Michael Plass and John Hob by) did work on the algorithms used in TeX and Metafont."</entry>
+Per Bothner (assistant of Knuth) discusses authorship</weblink>". "Knuth definitely wrote most of the code himself, at least for the Metafont re-write, for which I have personal knowledge.  However, some of his students (such as Michael Plass and John Hob by) did work on the algorithms used in TeX and Metafont."</entry>
 <entry id="2">
 Beccari, Claudio&#32;(1997).&#32;"<weblink xlink:type="simple" xlink:href="http://www.tug.org/TUGboat/Articles/tb18-1/tb54becc.pdf">
 Typesetting mathematics for science and technology according to ISO31XI</weblink>".&#32;<it>TUGboat</it>.</entry>
@@ -953,10 +953,10 @@ Donald E. Knuth. <it>TEXDR.AFT</it>, chapter 24 of the book <it>Digital Typograp
 Knuth and Plass, p. 144</entry>
 <entry id="7">
 Donald E. Knuth, <it><weblink xlink:type="simple" xlink:href="http://maps.aanhet.net/maps/pdf/16_15.pdf">
-Knuth meets NTG members</weblink></it>, NTG: MAPS. <b>16</b> (1996), 38&ndash;49. Reprinted as <it>Questions and Answers, III</it>, chapter 33 of <it>Digital Typography</it>, p. 648.</entry>
+Knuth meets NTG members</weblink></it>, NTG: MAPS. <b>16</b> (1996), 38–49. Reprinted as <it>Questions and Answers, III</it>, chapter 33 of <it>Digital Typography</it>, p. 648.</entry>
 <entry id="8">
 Donald E. Knuth. <weblink xlink:type="simple" xlink:href="http://www.tug.org/TUGboat/Articles/tb10-3/tb25knut.pdf">
-<it>The New Versions of TeX and METAFONT''</it></weblink>, TUGboat <b>10</b> (1989), 325&ndash;328; <b>11</b> (1990), 12. Reprinted as chapter 29 of <it>Digital Typography</it>.</entry>
+<it>The New Versions of TeX and METAFONT''</it></weblink>, TUGboat <b>10</b> (1989), 325–328; <b>11</b> (1990), 12. Reprinted as chapter 29 of <it>Digital Typography</it>.</entry>
 <entry id="9">
 Donald E. Knuth. <weblink xlink:type="simple" xlink:href="http://www.ntg.nl/maps/05/34.pdf">
 <it>The future of TeX and METAFONT''</it></weblink>, NTG journal MAPS (1990), 489. Reprinted as chapter 30 of <it>Digital Typography</it>, p. 571.</entry>
@@ -968,10 +968,10 @@ Donald E. Knuth and Pierre MacKay. <weblink xlink:type="simple" xlink:href="http
 <entry id="12">
 Donald E. Knuth, <it>The TeXbook</it>, Ch. 16: Typing Math Formulas, p. 127.</entry>
 <entry id="13">
-Donald E. Knuth. <it>Questions and Answers II</it>, TUGboat <b>17</b> (1996), 355&ndash;367. Reprinted as chapter 32 of <it>Digital Typography</it>, p. 620.</entry>
+Donald E. Knuth. <it>Questions and Answers II</it>, TUGboat <b>17</b> (1996), 355–367. Reprinted as chapter 32 of <it>Digital Typography</it>, p. 620.</entry>
 <entry id="14">
 Donald E. Knuth. <weblink xlink:type="simple" xlink:href="http://www.tug.org/TUGboat/Articles/tb10-1/tb23knut.pdf">
-<it>Typesetting Concrete Mathematics''</it></weblink>, TUGboat <b>10</b> (1989), 31&ndash;36, 342. Reprinted as chapter 18 of <it>Digital Typography</it>.</entry>
+<it>Typesetting Concrete Mathematics''</it></weblink>, TUGboat <b>10</b> (1989), 31–36, 342. Reprinted as chapter 18 of <it>Digital Typography</it>.</entry>
 <entry id="15">
 Michael P. Barnett. <it>Computer Typesetting: Experiments and Prospects</it>. <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../685/5685.xml">
@@ -992,7 +992,7 @@ Interview of Donald E. Knuth</weblink> (PDF file, also available in <format word
 <link xlink:type="simple" xlink:href="../191/13191.xml">
 HTML</link></format>
  at <weblink xlink:type="simple" xlink:href="http://www.advogato.org/article/28.html">
-http://www.advogato.org/article/28.html</weblink>), TUGboat <b>21</b> (2000), 103&ndash;110.</entry>
+http://www.advogato.org/article/28.html</weblink>), TUGboat <b>21</b> (2000), 103–110.</entry>
 <entry id="16">
 Knuth and Plass</entry>
 <entry id="19">
@@ -1001,7 +1001,7 @@ Liang, p. 3</entry>
 GNU Project, <it><weblink xlink:type="simple" xlink:href="http://www.gnu.org/software/textutils/manual/textutils/html_node/textutils_9.html#SEC9">
 GNU text utilities manual, 4.1 fmt: Reformat paragraph text</weblink></it>. 2000.</entry>
 <entry id="21">
-<it>The TeXbook</it>, Appendix H: Hyphenation, pp. 449&ndash;455.</entry>
+<it>The TeXbook</it>, Appendix H: Hyphenation, pp. 449–455.</entry>
 <entry id="20">
 Liang, PhD thesis</entry>
 <entry id="23">

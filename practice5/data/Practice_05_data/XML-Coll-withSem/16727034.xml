@@ -192,7 +192,7 @@ The operating system communicates with the computing nodes using the Ethernet ne
 Two nodes are placed together on a daughter card with one DIMM socket and a 4:1 Ethernet hub for off-card communications. The daughter cards have two connectors, one carrying the internode communications network and one carrying power, Ethernet, clock and other house keeping facilities.</p>
 <p>
 
-Thirty-two daughter cards are placed in two rows on a motherboard that supports 800&nbsp;Mbit/s off-board Ethernet communications. Eight motherboards are placed in crates with two backplanes supporting four motherboards each. Each crate consists of 512 processor nodes a and a 26 hypercube communications network. One node consumes about 5&nbsp;W of power and each crate is air and water cooled. A complete system can consist of any number of crates up to several 10,000 computing nodes.</p>
+Thirty-two daughter cards are placed in two rows on a motherboard that supports 800 Mbit/s off-board Ethernet communications. Eight motherboards are placed in crates with two backplanes supporting four motherboards each. Each crate consists of 512 processor nodes a and a 26 hypercube communications network. One node consumes about 5 W of power and each crate is air and water cooled. A complete system can consist of any number of crates up to several 10,000 computing nodes.</p>
 
 </ss2>
 <ss1>

@@ -156,9 +156,9 @@ telephone</link>s</header>
 Basic</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
 <link>
-Magneto</link>&nbsp;·  <link>
-50AL (Candlestick)</link>&nbsp;·  <link>
-A1</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Magneto</link> ·  <link>
+50AL (Candlestick)</link> ·  <link>
+A1</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
 <telephone wordnetid="104401088" confidence="0.8">
@@ -169,7 +169,7 @@ A1</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
 </equipment>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
 <telephone wordnetid="104401088" confidence="0.8">
@@ -180,7 +180,7 @@ A1</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
 </equipment>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
 <telephone wordnetid="104401088" confidence="0.8">
@@ -191,7 +191,7 @@ A1</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
 </equipment>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
 <telephone wordnetid="104401088" confidence="0.8">
@@ -222,7 +222,7 @@ Special</col>
 </equipment>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
 <telephone wordnetid="104401088" confidence="0.8">
@@ -233,7 +233,7 @@ Trimline</link></electronic_equipment>
 </equipment>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
 <telephone wordnetid="104401088" confidence="0.8">
@@ -244,7 +244,7 @@ Princess</link></electronic_equipment>
 </equipment>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
 <telephone wordnetid="104401088" confidence="0.8">
@@ -269,14 +269,14 @@ Related topics</col>
 <link xlink:type="simple" xlink:href="../554/588554.xml">
 Bell System</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../611/12611.xml">
 GTE</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../149/4733149.xml">
-Stromberg Carlson</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../149/4733149.xml">
+Stromberg Carlson</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../044/66044.xml">
 ITT</link></company>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <interior_designer wordnetid="110210648" confidence="0.8">

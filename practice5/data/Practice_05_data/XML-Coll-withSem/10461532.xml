@@ -123,7 +123,7 @@ To start, the attacker utilizes the IV as the first 3 elements in <it>K</it>.  S
 After the third step, the attacker can possibly, but not definitely, derive the fourth byte of the key using the keystream output <math>O</math> by computing <math>\left (O - j - S\left [i\right ]\right ) \bmod n = K\left [i\right ]</math>, with the value <math>i = 3</math> at this step.</p>
 <p>
 
-At this point, the attacker does not yet have the fourth byte of the key.  This algorithm does not regenerate the next byte of the key; it generates a possible value of the key.  By collecting multiple messages&mdash;for example WEP packets&mdash;and repeating these steps, she will generate a number of different possible values.  The correct value appears significantly more frequently than any other; the attacker can determine the value of the key by recognizing this value and selecting it as the next byte.  At this point, she can start the attack over again on the fifth byte of the key.</p>
+At this point, the attacker does not yet have the fourth byte of the key.  This algorithm does not regenerate the next byte of the key; it generates a possible value of the key.  By collecting multiple messages—for example WEP packets—and repeating these steps, she will generate a number of different possible values.  The correct value appears significantly more frequently than any other; the attacker can determine the value of the key by recognizing this value and selecting it as the next byte.  At this point, she can start the attack over again on the fifth byte of the key.</p>
 <p>
 
 Although the attacker cannot attack words of the key out of order, she can store messages for later sequential attack on later words once she knows earlier words.  Again, she only needs messages with weak IVs, and can discard others.  Through this process, she can gather a large number of messages for attack on the entire key; in fact, she can store only a short portion of the beginning of those messages, just enough to carry the attack out as far as the word of the key the IV will allow her to attack.</p>
@@ -153,7 +153,7 @@ Although the attacker cannot attack words of the key out of order, she can store
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

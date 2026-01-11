@@ -209,7 +209,7 @@ Moshav</link>im</col>
 <kibbutz wordnetid="108056873" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../323/18035323.xml">
 Alma</link></kibbutz>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -220,18 +220,18 @@ Amirim</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../732/6877732.xml">
-Avivim</link>&nbsp;·  <kibbutz wordnetid="108056873" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../732/6877732.xml">
+Avivim</link> ·  <kibbutz wordnetid="108056873" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../191/17364191.xml">
 Dovev</link></kibbutz>
-&nbsp;·  <link xlink:type="simple" xlink:href="../907/17267907.xml">
-Dalton</link>&nbsp;·  <kibbutz wordnetid="108056873" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../907/17267907.xml">
+Dalton</link> ·  <kibbutz wordnetid="108056873" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../311/17364311.xml">
 Hazon</link></kibbutz>
-&nbsp;·  <link xlink:type="simple" xlink:href="../832/17517832.xml">
-Kerem Ben Zimra</link>&nbsp;·  <link xlink:type="simple" xlink:href="../928/17993928.xml">
-Kfar Hoshen</link>&nbsp;·  <link xlink:type="simple" xlink:href="../363/17364363.xml">
-Kfar Shamai</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../832/17517832.xml">
+Kerem Ben Zimra</link> ·  <link xlink:type="simple" xlink:href="../928/17993928.xml">
+Kfar Hoshen</link> ·  <link xlink:type="simple" xlink:href="../363/17364363.xml">
+Kfar Shamai</link> ·  <region wordnetid="108630985" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -248,10 +248,10 @@ Meron</link></geographical_area>
 </village>
 </point>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../928/17993928.xml">
-Safsufa</link>&nbsp;·  <link xlink:type="simple" xlink:href="../419/17416419.xml">
-Shezor</link>&nbsp;·  <link xlink:type="simple" xlink:href="../373/17416373.xml">
-Shefer</link>&nbsp;·  <link xlink:type="simple" xlink:href="../247/17712247.xml">
+ ·  <link xlink:type="simple" xlink:href="../928/17993928.xml">
+Safsufa</link> ·  <link xlink:type="simple" xlink:href="../419/17416419.xml">
+Shezor</link> ·  <link xlink:type="simple" xlink:href="../373/17416373.xml">
+Shefer</link> ·  <link xlink:type="simple" xlink:href="../247/17712247.xml">
 Tefahot</link></col>
 </row>
 <row style="height:2px">
@@ -260,7 +260,7 @@ Tefahot</link></col>
 <row>
 <col style=";;" class="navbox-group">
 <link xlink:type="simple" xlink:href="../647/9795647.xml">
-Communal&nbsp;settlements</link></col>
+Communal settlements</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
@@ -279,7 +279,7 @@ Amuka</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -296,7 +296,7 @@ Bar Yohai</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -305,7 +305,7 @@ Birya</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -322,8 +322,8 @@ Inbar</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../878/19037878.xml">
-Kalanit</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../878/19037878.xml">
+Kalanit</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -340,7 +340,7 @@ Kfar Hananya</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -357,7 +357,7 @@ Livnim</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -391,7 +391,7 @@ Arab villages</col>
 Ein al-Asad</link> (<group wordnetid="100031264" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../632/8632.xml">
 Druze</link></group>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../610/18250610.xml">
+) ·  <link xlink:type="simple" xlink:href="../610/18250610.xml">
 Rehaniya</link> (<link xlink:type="simple" xlink:href="../545/602545.xml">
 Circassian</link>)</col>
 </row>

@@ -162,7 +162,7 @@ IBM</link></company>
 CP-67</link> for the <link xlink:type="simple" xlink:href="../785/59785.xml">
 System/370</link>, released in 1972 as <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link>. The term <it>hypervisor call</it>, or <it>hypercall</it>, referred to the <link xlink:type="simple" xlink:href="../546/1441546.xml">
-paravirtualization</link> interface, by which a "guest" operating system could access services directly from the (higher-level) control program &ndash; analogous to making a "supervisor call" to the (same level) operating system. The term "<link xlink:type="simple" xlink:href="../761/41761.xml">
+paravirtualization</link> interface, by which a "guest" operating system could access services directly from the (higher-level) control program – analogous to making a "supervisor call" to the (same level) operating system. The term "<link xlink:type="simple" xlink:href="../761/41761.xml">
 supervisor</link>" refers to the operating system <link xlink:type="simple" xlink:href="../394/50394.xml">
 kernel</link>, which on IBM mainframes runs in <it>supervisor state</it>.</p>
 
@@ -203,7 +203,7 @@ CP/CMS</link></O>
  was part of IBM's attempt to build robust <link xlink:type="simple" xlink:href="../958/30958.xml">
 time-sharing</link> systems for its <link xlink:type="simple" xlink:href="../266/20266.xml">
 mainframe</link> computers. By running multiple operating systems simultaneously, the hypervisor increased system robustness and stability: Even if one operating system crashed, the others would continue working without interruption. Indeed, this even allowed <link xlink:type="simple" xlink:href="../901/220901.xml#xpointer(//*[./st=%22Beta%22])">
-beta</link> or experimental versions of operating systems &ndash; or even of new hardware<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> &ndash; to be deployed and debugged, without jeopardizing the stable main production system, and without requiring costly additional development systems.</p>
+beta</link> or experimental versions of operating systems – or even of new hardware<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> – to be deployed and debugged, without jeopardizing the stable main production system, and without requiring costly additional development systems.</p>
 <p>
 
 IBM's <link xlink:type="simple" xlink:href="../785/59785.xml">
@@ -538,7 +538,7 @@ References</st>
 <reflist>
 <entry id="1">
 <it>IBM Systems Virtualization</it>, IBM Corporation, Version 2 Release 1 (2005), available on-line at <weblink xlink:type="simple" xlink:href="http://publib.boulder.ibm.com/infocenter/eserver/v1r2/topic/eicay/eicay.pdf">
-publib.boulder.ibm.com</weblink> &ndash; description of basic concepts</entry>
+publib.boulder.ibm.com</weblink> – description of basic concepts</entry>
 <entry id="2">
 See <link xlink:type="simple" xlink:href="../460/8177460.xml">
 History of CP/CMS</link> for virtual hardware simulation in the development of the <link xlink:type="simple" xlink:href="../785/59785.xml">

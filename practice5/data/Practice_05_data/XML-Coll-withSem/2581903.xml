@@ -436,23 +436,23 @@ Systems management</link></instrumentality>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Dayley-2006" style="font-style:normal" class="book">Dayley, Brad&#32;(2006). Novell ZENworks 7 Suite Administrator's Handbook.&#32;<link xlink:type="simple" xlink:href="../366/169366.xml">
-Novell Press</link>. ISBN 978-0-672-32846-6.</cite>&nbsp;</entry>
+Novell Press</link>. ISBN 978-0-672-32846-6.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Tanner-2006" style="font-style:normal" class="book">Tanner, Ron&#32;(2006). Novell ZENworks 7 Linux Management Administrator's Handbook.&#32;<link xlink:type="simple" xlink:href="../366/169366.xml">
-Novell Press</link>. ISBN 978-0-672-32784-1.</cite>&nbsp;</entry>
+Novell Press</link>. ISBN 978-0-672-32784-1.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Dayley-2005" style="font-style:normal" class="book">Dayley, Brad&#32;(2005). ZENworks 6.5 Suite Administrator's Handbook.&#32;<link xlink:type="simple" xlink:href="../366/169366.xml">
-Novell Press</link>. ISBN 978-0-7897-3204-0.</cite>&nbsp;</entry>
+Novell Press</link>. ISBN 978-0-7897-3204-0.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Dayley-2003" style="font-style:normal" class="book">Dayley, Brad&#32;(2003). Novell ZENworks for Desktops 4 Administrator's Handbook.&#32;<link xlink:type="simple" xlink:href="../366/169366.xml">
-Novell Press</link>. ISBN 978-0-7897-2985-9.</cite>&nbsp;</entry>
+Novell Press</link>. ISBN 978-0-7897-2985-9.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Dayley-2003" style="font-style:normal" class="book">Dayley, Brad&#32;(2003). Novell ZENworks for Servers 3 Administrator's Handbook.&#32;<link xlink:type="simple" xlink:href="../366/169366.xml">
-Novell Press</link>. ISBN 978-0-7897-2986-6.</cite>&nbsp;</entry>
+Novell Press</link>. ISBN 978-0-7897-2986-6.</cite> </entry>
 </list>
 </p>
 
@@ -506,16 +506,16 @@ Identity and Systems Management</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../364/2581364.xml">
 eDirectory</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../903/2581903.xml">
 ZENworks</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../656/3650656.xml">
 Identity Manager</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../127/14062127.xml">
 Access Manager</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../826/7716826.xml">
 BorderManager</link></software>
 </col>
@@ -531,14 +531,14 @@ Linux Operating Systems</link></O>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../620/2399620.xml">
-openSUSE</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+openSUSE</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../626/2694626.xml">
 SUSE Linux Enterprise Server</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../108/1251108.xml">
@@ -561,7 +561,7 @@ Workgroup Collaboration</col>
 Open Enterprise Server</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -572,7 +572,7 @@ GroupWise</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../188/363188.xml">
 NetWare</link></O>
 </col>
@@ -587,14 +587,14 @@ Projects</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../191/3721191.xml">
 AppArmor</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../630/145630.xml">
-Evolution</link>&nbsp;·  <link xlink:type="simple" xlink:href="../591/2909591.xml">
-iFolder</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../630/145630.xml">
+Evolution</link> ·  <link xlink:type="simple" xlink:href="../591/2909591.xml">
+iFolder</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../902/1263902.xml">
 Mono</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../382/58382.xml">
-YaST</link>&nbsp;·  <link xlink:type="simple" xlink:href="../865/18717865.xml">
-openSUSE Project</link>&nbsp;·  <link xlink:type="simple" xlink:href="../519/15448519.xml">
+ ·  <link xlink:type="simple" xlink:href="../382/58382.xml">
+YaST</link> ·  <link xlink:type="simple" xlink:href="../865/18717865.xml">
+openSUSE Project</link> ·  <link xlink:type="simple" xlink:href="../519/15448519.xml">
 openSUSE Build Service</link></col>
 </row>
 <row style="height:2px">
@@ -611,7 +611,7 @@ Training and Certification</col>
 Certified Novell Administrator</link></suitability>
 </fitness>
 </qualification>
-&nbsp;·  <qualification wordnetid="104717139" confidence="0.8">
+ ·  <qualification wordnetid="104717139" confidence="0.8">
 <fitness wordnetid="104716864" confidence="0.8">
 <suitability wordnetid="104715487" confidence="0.8">
 <link xlink:type="simple" xlink:href="../977/1845977.xml">
@@ -644,11 +644,11 @@ Major</link></scholar>
 </good_person>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../405/11238405.xml">
-Fairclough</link>&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../405/11238405.xml">
+Fairclough</link> ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../311/762311.xml">
 Noorda</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <executive wordnetid="110069645" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -663,7 +663,7 @@ Hovespian</link></head>
 </person>
 </executive>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -672,7 +672,7 @@ Merkey</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/224584.xml">
 Schmidt</link></celebrity>
 </col>

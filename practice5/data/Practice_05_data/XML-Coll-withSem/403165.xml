@@ -190,7 +190,7 @@ References</st>
 <entry level="1" type="number">
 
   <cite id="endnote_CLRS01" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <cite style="font-style:normal" class="book"><scientist wordnetid="110560637" confidence="0.9508927676800064">
+<b>^</b></cite>  <cite style="font-style:normal" class="book"><scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../475/4108475.xml">
 Thomas H. Cormen</link></scientist>
 , <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -213,13 +213,13 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-, second edition,&#32;MIT Press and McGraw-Hill,&#32;643&ndash;700. ISBN 0-262-53196-8.</cite>&nbsp;</entry>
+, second edition,&#32;MIT Press and McGraw-Hill,&#32;643–700. ISBN 0-262-53196-8.</cite> </entry>
 <entry level="1" type="number">
 
   <cite id="endnote_GR97" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <cite style="font-style:normal"><link>
+<b>^</b></cite>  <cite style="font-style:normal"><link>
 Andrew V. Goldberg</link> and <link>
-S. Rao</link>&#32;(1998).&#32;"Beyond the flow decomposition barrier". <it>J. assoc. Comput. Mach.</it>&#32;<b>45</b>: 753&ndash;782. <document wordnetid="106470073" confidence="0.8">
+S. Rao</link>&#32;(1998).&#32;"Beyond the flow decomposition barrier". <it>J. assoc. Comput. Mach.</it>&#32;<b>45</b>: 753–782. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -227,13 +227,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F290179.290181">
-10.1145/290179.290181</weblink>.</cite>&nbsp;</entry>
+10.1145/290179.290181</weblink>.</cite> </entry>
 <entry level="1" type="number">
 
   <cite id="endnote_GT88" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <cite style="font-style:normal"><link>
+<b>^</b></cite>  <cite style="font-style:normal"><link>
 Andrew V. Goldberg</link> and <link xlink:type="simple" xlink:href="../127/46127.xml">
-Robert E. Tarjan</link>&#32;(1988).&#32;"A new approach to the maximum-flow problem". <it>Journal of the ACM</it>&#32;<b>35</b>: 921&ndash;940.&#32;ACM Press. <document wordnetid="106470073" confidence="0.8">
+Robert E. Tarjan</link>&#32;(1988).&#32;"A new approach to the maximum-flow problem". <it>Journal of the ACM</it>&#32;<b>35</b>: 921–940.&#32;ACM Press. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -253,11 +253,11 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0004-5411">
-0004-5411</weblink>.</cite>&nbsp;</entry>
+0004-5411</weblink>.</cite> </entry>
 <entry level="1" type="number">
 
   <cite id="endnote_HA99" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <cite style="font-style:normal"><link>
+<b>^</b></cite>  <cite style="font-style:normal"><link>
 Joseph Cheriyan</link> and <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -281,7 +281,7 @@ Kurt Mehlhorn</link></associate>
 </person>
 </peer>
 </physical_entity>
-&#32;(1999).&#32;"An analysis of the highest-level selection rule in the preflow-push max-flow algorithm". <it>Information Processing Letters</it>&#32;<b>69</b>: 239&ndash;242. <document wordnetid="106470073" confidence="0.8">
+&#32;(1999).&#32;"An analysis of the highest-level selection rule in the preflow-push max-flow algorithm". <it>Information Processing Letters</it>&#32;<b>69</b>: 239–242. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -289,14 +289,14 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0020-0190%2899%2900019-8">
-10.1016/S0020-0190(99)00019-8</weblink>.</cite>&nbsp;</entry>
+10.1016/S0020-0190(99)00019-8</weblink>.</cite> </entry>
 <entry level="1" type="number">
 
   <cite id="endnote_ST83" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <cite style="font-style:normal"><link>
+<b>^</b></cite>  <cite style="font-style:normal"><link>
 Daniel D. Sleator</link> and <link xlink:type="simple" xlink:href="../127/46127.xml">
 Robert E. Tarjan</link>&#32;(1983).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.cmu.edu/~sleator/papers/dynamic-trees.pdf">
-A data structure for dynamic trees</weblink>". <it>Journal of Computer and System Sciences</it>&#32;<b>26</b>: 362&ndash;391. <document wordnetid="106470073" confidence="0.8">
+A data structure for dynamic trees</weblink>". <it>Journal of Computer and System Sciences</it>&#32;<b>26</b>: 362–391. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -316,14 +316,14 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0022-0000">
-0022-0000</weblink>.</cite>&nbsp;</entry>
+0022-0000</weblink>.</cite> </entry>
 <entry level="1" type="number">
 
   <cite id="endnote_ST85" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <cite style="font-style:normal"><link>
+<b>^</b></cite>  <cite style="font-style:normal"><link>
 Daniel D. Sleator</link> and <link xlink:type="simple" xlink:href="../127/46127.xml">
 Robert E. Tarjan</link>&#32;(1985).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf">
-Self-adjusting binary search trees</weblink>". <it>Journal of the ACM</it>&#32;<b>32</b>: 652&ndash;686.&#32;ACM Press. <document wordnetid="106470073" confidence="0.8">
+Self-adjusting binary search trees</weblink>". <it>Journal of the ACM</it>&#32;<b>32</b>: 652–686.&#32;ACM Press. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -343,7 +343,7 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0004-5411">
-0004-5411</weblink>.</cite>&nbsp;</entry>
+0004-5411</weblink>.</cite> </entry>
 </list>
 </p>
 

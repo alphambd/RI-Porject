@@ -265,7 +265,7 @@ POSIX</link></system_of_measurement>
 </standard>
  model and decided to rewrite the kernel to be much more compatible at a lower level. The result was QNX 4.  During this time Patrick Hayden, while working as an intern, along with Robin Burgener (a full time QNX employee at the time), developed a new concept for a <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=5745759">
 windowing system</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=5745759">
-&nbsp;</weblink>.  This patented concept was developed into the embeddable <link xlink:type="simple" xlink:href="../293/12293.xml">
+ </weblink>.  This patented concept was developed into the embeddable <link xlink:type="simple" xlink:href="../293/12293.xml">
 GUI</link> named Photon microGUI. QNX also provided a version of the <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -457,7 +457,7 @@ Bibliography</st>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Dan Hildebrand&#32;(1992).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=759105&amp;dl=ACM&amp;coll=&amp;CFID=15151515&amp;CFTOKEN=6184618">
-An Architectural Overview of QNX</weblink>". <it>Proceedings of the Workshop on Micro-kernels and Other Kernel Architectures</it>: 113–126. ISBN 1-880446-42-1.</cite>&nbsp;</entry>
+An Architectural Overview of QNX</weblink>". <it>Proceedings of the Workshop on Micro-kernels and Other Kernel Architectures</it>: 113–126. ISBN 1-880446-42-1.</cite> </entry>
 </list>
 </p>
 
@@ -535,7 +535,7 @@ Real-time operating system</link>s (RTOS)</header>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../710/14415710.xml">
 ChibiOS/RT</link></O>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -552,15 +552,15 @@ Contiki</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../172/51172.xml">
 DNIX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../524/7275524.xml">
 DSOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../225/432225.xml">
-eCos</link>&nbsp;·  <link xlink:type="simple" xlink:href="../204/1146204.xml">
-Embedded Linux</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../225/432225.xml">
+eCos</link> ·  <link xlink:type="simple" xlink:href="../204/1146204.xml">
+Embedded Linux</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -573,56 +573,56 @@ EROS</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../217/2152217.xml">
 FreeRTOS</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../980/867980.xml">
 LynxOS</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../256/160256.xml">
 MenuetOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../242/18921242.xml">
-MERT</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../242/18921242.xml">
+MERT</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../339/903339.xml">
 Nucleus RTOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../001/16260001.xml">
-Open AT OS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../001/16260001.xml">
+Open AT OS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../093/39093.xml">
 OS-9</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../503/431503.xml">
 OSE</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../926/85926.xml">
-pSOS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../926/85926.xml">
+pSOS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../179/2161179.xml">
 Prex</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../184/65184.xml">
 QNX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../130/1209130.xml">
 RMX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../342/62342.xml">
 RSX-11</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../309/69309.xml">
 RT-11</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../806/3673806.xml">
 RTEMS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../232/419232.xml">
-RTLinux</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../232/419232.xml">
+RTLinux</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../313/3302313.xml">
 SINTRAN III</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../446/72446.xml">
 Symbian OS</link></O>
-&nbsp;·   <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·   <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../550/10735550.xml">
 Talon DSP RTOS</link></O>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -635,19 +635,19 @@ THEOS</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../433/30433.xml">
 TPF</link></O>
-&nbsp;·  <family wordnetid="108078020" confidence="0.8">
+ ·  <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../483/519483.xml">
 TRON</link></family>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../567/327567.xml">
 VRTX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../105/157105.xml">
 VxWorks</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../360/230360.xml">
 Windows CE</link></O>
 </col>
@@ -683,13 +683,13 @@ operating system</link>s</header>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/22nd_century.xml">
 AIX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/18932622.xml">
 BSD</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../229/294229.xml">
 DragonFly BSD</link></O>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -698,32 +698,32 @@ FreeBSD</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <link xlink:type="simple" xlink:href="../875/11875.xml">
-GNU</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../875/11875.xml">
+GNU</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../704/36704.xml">
 HP-UX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../537/14537.xml">
-IRIX</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../537/14537.xml">
+IRIX</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../980/867980.xml">
 LynxOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/18977.xml">
 MINIX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../495/21495.xml">
-NetBSD</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../495/21495.xml">
+NetBSD</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../571/18949571.xml">
 OpenBSD</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../226/24226.xml">
 Plan 9</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../184/65184.xml">
 QNX</link></O>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -732,10 +732,10 @@ Research Unix</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../906/1579906.xml">
 SCO OpenServer</link></O>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -748,14 +748,14 @@ Solaris</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link>
-System V</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link>
+System V</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../275/38275.xml">
 Tru64</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../105/157105.xml">
 VxWorks</link></O>
-&nbsp;·  <it>
+ ·  <it>
 Unix variants|more''</it></col>
 </row>
 </table>

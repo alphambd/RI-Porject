@@ -220,7 +220,7 @@ References</st>
 Cristen, P &amp; T: Febrl - Freely extensible biomedical record linkage (Manual, release 0.3) p.9</weblink></entry>
 <entry id="2">
  <cite style="font-style:normal">Elmagarmid, Ahmed; Panagiotis G. Ipeirotis, Vassilios Verykios&#32;(Jan 2007).&#32;"<weblink xlink:type="simple" xlink:href="http://doi.ieeecomputersociety.org/10.1109/TKDE.2007.9">
-Duplicate Record Detection: A Survey</weblink>"&#32;(PDF). <it>IEEE Transactions on Knowledge and Data Engineering</it>&#32;<b>19</b>&#32;(1): pp. 1&ndash;16. <document wordnetid="106470073" confidence="0.8">
+Duplicate Record Detection: A Survey</weblink>"&#32;(PDF). <it>IEEE Transactions on Knowledge and Data Engineering</it>&#32;<b>19</b>&#32;(1): pp. 1–16. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -229,7 +229,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FTKDE.2007.9">
 10.1109/TKDE.2007.9</weblink>. Retrieved on <link>
-2008-06-24</link>.</cite>&nbsp;</entry>
+2008-06-24</link>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal"><physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
@@ -260,8 +260,8 @@ Dunn, Halbert L.</link></associate>
 Record Linkage</weblink>"&#32;(PDF). <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../266/9210266.xml">
 American Journal of Public Health</link></periodical>
-</it>&#32;<b>36</b>&#32;(12): pp. 1412&ndash;1416. Retrieved on <link>
-2008-05-31</link>.</cite>&nbsp;</entry>
+</it>&#32;<b>36</b>&#32;(12): pp. 1412–1416. Retrieved on <link>
+2008-05-31</link>.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal"><skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
@@ -314,7 +314,7 @@ Fellegi, Ivan</link></scholar>
 A Theory for Record Linkage</weblink>"&#32;(Fee required). <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../313/16179313.xml">
 Journal of the American Statistical Association</link></periodical>
-</it>&#32;<b>64</b>&#32;(328): pp. 1183&ndash;1210. <document wordnetid="106470073" confidence="0.8">
+</it>&#32;<b>64</b>&#32;(328): pp. 1183–1210. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -323,7 +323,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2286061">
 10.2307/2286061</weblink>. Retrieved on <link>
-2008-05-31</link>.</cite>&nbsp;</entry>
+2008-05-31</link>.</cite> </entry>
 </reflist>
 </p>
 

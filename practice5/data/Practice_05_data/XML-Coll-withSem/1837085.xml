@@ -91,7 +91,7 @@ special function</link>s, the same notation denotes the <it>rising</it> factoria
 one-to-one function</link>s that map a size-<it>n</it> set into a size-<it>x</it> set.</p>
 <p>
 
-Let <it>f</it> be any function from a size-<it>n</it> set <it>A</it> into a size-<it>x</it> set <it>B</it>.  For any <it>u</it>&nbsp;∈&nbsp;<it>B</it>, let <it>f</it> &amp;minus;1(<it>u</it>) = {<it>v</it>&nbsp;∈&nbsp;<it>A</it> : <it>f</it>(<it>v</it>) = <it>u</it>}.  Then {<it>f</it> &amp;minus;1(<it>u</it>) : <it>u</it>&nbsp;∈&nbsp;<it>B</it>} is a partition of <it>A</it>, coming from the <link xlink:type="simple" xlink:href="../259/9259.xml">
+Let <it>f</it> be any function from a size-<it>n</it> set <it>A</it> into a size-<it>x</it> set <it>B</it>.  For any <it>u</it> ∈ <it>B</it>, let <it>f</it> &amp;minus;1(<it>u</it>) = {<it>v</it> ∈ <it>A</it> : <it>f</it>(<it>v</it>) = <it>u</it>}.  Then {<it>f</it> &amp;minus;1(<it>u</it>) : <it>u</it> ∈ <it>B</it>} is a partition of <it>A</it>, coming from the <link xlink:type="simple" xlink:href="../259/9259.xml">
 equivalence relation</link> of "being in the same <link xlink:type="simple" xlink:href="../892/6603892.xml">
 fiber</link>".  This equivalence relation is called the "<link xlink:type="simple" xlink:href="../095/330095.xml">
 kernel</link>" of the function <it>f</it>.  Any function from <it>A</it> into <it>B</it> factors into

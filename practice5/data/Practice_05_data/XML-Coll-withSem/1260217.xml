@@ -122,7 +122,7 @@ The Levins model</st>
 Levins' original model applied to a metapopulation distributed over many patches of suitable habitat with significantly less interaction between patches than within a patch.  Population dynamics within a patch were simplified to the point where only presence and absence were considered.  Each patch in his model is either populated or not.  </p>
 <p>
 
-Let <it>N</it> be the fraction of patches occupied at a given time.  During a time step, each occupied patch can become unoccupied with an extinction probability <it>e</it>.  Additionally, 1&nbsp;−&nbsp;<it>N</it> of the patches are unoccupied.  Each of these may become populated by colonization.  Let <it>c</it> be a constant rate of <link xlink:type="simple" xlink:href="../872/3450872.xml">
+Let <it>N</it> be the fraction of patches occupied at a given time.  During a time step, each occupied patch can become unoccupied with an extinction probability <it>e</it>.  Additionally, 1 − <it>N</it> of the patches are unoccupied.  Each of these may become populated by colonization.  Let <it>c</it> be a constant rate of <link xlink:type="simple" xlink:href="../872/3450872.xml">
 propagule</link> generation for each of the <it>N</it> occupied patches.  This yields a probability of <it>cN</it> for each unoccupied patch to be colonized.  So for each time step, the change in the proportion of occupied patches, <it>dN/dt</it>, is</p>
 <p>
 

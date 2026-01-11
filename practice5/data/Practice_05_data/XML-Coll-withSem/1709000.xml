@@ -763,7 +763,7 @@ Museums and galleries in London</link></header>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;National museums and galleries</header>
+ National museums and galleries</header>
 </row>
 <row style="height:2px;">
 
@@ -773,14 +773,14 @@ Museums and galleries in London</link></header>
 <library wordnetid="103660909" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../361/18934361.xml">
 British Library</link></library>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../675/4675.xml">
 British Museum</link></museum>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../432/187432.xml">
 Imperial War Museum</link></museum>
  (<link xlink:type="simple" xlink:href="../436/1722436.xml">
-Churchill Museum and Cabinet War Rooms</link>&nbsp;·  <conveyance wordnetid="103100490" confidence="0.8">
+Churchill Museum and Cabinet War Rooms</link> ·  <conveyance wordnetid="103100490" confidence="0.8">
 <vessel wordnetid="104530566" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <craft wordnetid="103125870" confidence="0.8">
@@ -811,13 +811,13 @@ HMS Belfast</link></military_vehicle>
 </building>
 </vessel>
 </conveyance>
-)&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+) ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/1507867.xml">
 National Army Museum</link></museum>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../616/98616.xml">
 National Gallery</link></museum>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../753/333753.xml">
 National Maritime Museum</link></museum>
  (<structure wordnetid="104341686" confidence="0.8">
@@ -827,7 +827,7 @@ National Maritime Museum</link></museum>
 Queen's House</link></artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -842,7 +842,7 @@ Royal Observatory</link></museum>
 </artifact>
 </building>
 </structure>
-)&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+) ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -855,13 +855,13 @@ Natural History Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../402/537402.xml">
 National Portrait Gallery</link></museum>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../951/152951.xml">
 Science Museum</link></museum>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <depository wordnetid="103177349" confidence="0.8">
 <museum wordnetid="103800563" confidence="0.8">
@@ -873,10 +873,10 @@ Tate</link></museum>
  (<museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../452/18449452.xml">
 Tate Britain</link></museum>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../119/31119.xml">
 Tate Modern</link></museum>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../275/97275.xml">
+) ·  <link xlink:type="simple" xlink:href="../275/97275.xml">
 Victoria and Albert Museum</link> (<structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -903,7 +903,7 @@ Museum of Childhood</link></museum>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<body wordnetid="105216365" confidence="0.8">
+ <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../308/99308.xml">
 English Heritage</link></natural_object>
@@ -918,7 +918,7 @@ English Heritage</link></natural_object>
 <building wordnetid="102913152" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../175/229175.xml">
 Apsley House</link></building>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -933,7 +933,7 @@ Chiswick House</link></plot>
 </location>
 </region>
 </site>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -946,7 +946,7 @@ Down House</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <mansion wordnetid="103719053" confidence="0.8">
@@ -963,7 +963,7 @@ Eltham Palace</link></palace>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -976,14 +976,14 @@ Jewel Tower</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../000/1709000.xml">
 Kenwood House (Iveagh Bequest)</link></artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <partition wordnetid="103894379" confidence="0.8">
 <defensive_structure wordnetid="103171356" confidence="0.8">
@@ -996,7 +996,7 @@ London Wall</link></wall>
 </partition>
 </artifact>
 </structure>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1007,7 +1007,7 @@ Marble Hill House</link></geographical_area>
 </location>
 </region>
 </site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <geographic_point wordnetid="108578706" confidence="0.8">
@@ -1026,7 +1026,7 @@ Ranger's House (Wernher Collection)</link></geographical_area>
 </point>
 </region>
 </site>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <memorial wordnetid="103743902" confidence="0.8">
@@ -1058,7 +1058,7 @@ Winchester Palace</link></palace>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<organization wordnetid="108008335" confidence="0.9508927676800064">
+ <organization wordnetid="108008335" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../078/99078.xml">
 National Trust</link></organization>
 </header>
@@ -1081,12 +1081,12 @@ National Trust</link></organization>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <possession wordnetid="100032613" confidence="0.8">
+ ·  <possession wordnetid="100032613" confidence="0.8">
 <property wordnetid="113244109" confidence="0.8">
 <link xlink:type="simple" xlink:href="../899/4933899.xml">
 Blewcoat School</link></property>
 </possession>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1099,35 +1099,35 @@ Carlyle's House</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../911/3273911.xml">
 Eastbury Manor House</link></artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../335/1703335.xml">
 Fenton House</link></artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../687/424687.xml">
 George Inn</link></artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../530/17559530.xml">
 Lindsey House (restricted)</link></artifact>
 </building>
 </structure>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1142,7 +1142,7 @@ Morden Hall Park</link></geographical_area>
 </park>
 </possession>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1157,7 +1157,7 @@ Osterley Park</link></plot>
 </location>
 </park>
 </region>
-&nbsp;·  <creation wordnetid="103129123" confidence="0.8">
+ ·  <creation wordnetid="103129123" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1174,7 +1174,7 @@ Red House</link></museum>
 </building>
 </structure>
 </creation>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
@@ -1185,7 +1185,7 @@ Roman Baths</link></property>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../716/4087716.xml">
@@ -1205,7 +1205,7 @@ Sutton House</link></artifact>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Other museums and galleries</header>
+ Other museums and galleries</header>
 </row>
 <row style="height:2px;">
 
@@ -1213,7 +1213,7 @@ Sutton House</link></artifact>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../258/156258.xml">
-Barbican Art Gallery</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Barbican Art Gallery</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <depository wordnetid="103177349" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
@@ -1226,11 +1226,11 @@ Courtauld Gallery</link></institution>
 </depository>
 </facility>
 </artifact>
-&nbsp;·  <link>
-Dalí Universe</link>&nbsp;·   <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <link>
+Dalí Universe</link> ·   <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../232/1703232.xml">
 Design Museum</link></museum>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1243,7 +1243,7 @@ Dulwich Picture Gallery</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1256,10 +1256,10 @@ Estorick Collection</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../838/194838.xml">
 Foundling Museum</link></museum>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1272,7 +1272,7 @@ Freud Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1285,7 +1285,7 @@ Geffrye Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1298,7 +1298,7 @@ Guildhall Art Gallery</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1311,7 +1311,7 @@ Handel House Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1324,7 +1324,7 @@ The Hayward</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1337,7 +1337,7 @@ Hogarth's House</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1350,10 +1350,10 @@ Horniman Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../705/513705.xml">
 Institute of Contemporary Arts</link></museum>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1366,10 +1366,10 @@ Leighton House Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../432/1179432.xml">
 London Transport Museum</link></museum>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1390,13 +1390,13 @@ Museum of Garden History</link></geographical_area>
 </building>
 </structure>
 </region>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../286/381286.xml">
 Museum of London</link></museum>
  (<museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../354/1337354.xml">
 Museum in Docklands</link></museum>
-)&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+) ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1409,7 +1409,7 @@ Petrie Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1423,10 +1423,10 @@ Queen's Gallery</link></museum>
 </building>
 </structure>
  (<link xlink:type="simple" xlink:href="../110/12278110.xml">
-Royal Collection</link>)&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+Royal Collection</link>) ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../778/161778.xml">
 Royal Academy of Arts</link></museum>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1439,7 +1439,7 @@ Saatchi Gallery</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1452,7 +1452,7 @@ Serpentine Gallery</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1465,7 +1465,7 @@ Sherlock Holmes Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1478,7 +1478,7 @@ Sir John Soane's Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1491,11 +1491,11 @@ Wallace Collection</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../138/16995138.xml">
 Wellcome Collection</link></museum>
-&nbsp;·  <link xlink:type="simple" xlink:href="../067/1039067.xml">
-Whitechapel Art Gallery</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../067/1039067.xml">
+Whitechapel Art Gallery</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1539,7 +1539,7 @@ Parks and open spaces in London</link></header>
 <park wordnetid="108615149" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../915/10092915.xml">
 Addington Hills</link></park>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1550,7 +1550,7 @@ Addington Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1567,7 +1567,7 @@ Artillery Ground</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1578,7 +1578,7 @@ Ashburton Playing Fields</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·   <region wordnetid="108630985" confidence="0.8">
+ ·   <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1589,7 +1589,7 @@ Ashburton Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1600,7 +1600,7 @@ Alexandra Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1612,7 +1612,7 @@ Barking Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1625,7 +1625,7 @@ Barn Elms</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1636,7 +1636,7 @@ Bartlett Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·   <region wordnetid="108630985" confidence="0.8">
+ ·   <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1647,10 +1647,10 @@ Battersea Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../398/4345398.xml">
 Becontree Heath</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1661,7 +1661,7 @@ Bedfords Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1672,7 +1672,7 @@ Belair Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1683,7 +1683,7 @@ Bermondsey Spa Gardens</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1694,13 +1694,13 @@ Bingfield Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../894/93894.xml">
 Blackheath</link></site>
-&nbsp;·  <park wordnetid="108615149" confidence="0.9508927676800064">
+ ·  <park wordnetid="108615149" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../387/406387.xml">
 Brockwell Park</link></park>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1715,7 +1715,7 @@ Bunhill Fields</link></geographical_area>
 </park>
 </region>
 </site>
-&nbsp;·   <region wordnetid="108630985" confidence="0.8">
+ ·   <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1726,7 +1726,7 @@ Burgess Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1737,7 +1737,7 @@ Bushy Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1749,7 +1749,7 @@ Carshalton Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <junction wordnetid="103605722" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -1766,8 +1766,8 @@ Camberwell Green</link></geographical_area>
 </junction>
 </point>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../729/9369729.xml">
-Cannon Hill Common</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../729/9369729.xml">
+Cannon Hill Common</link> ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1778,7 +1778,7 @@ Cannizaro Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1793,10 +1793,10 @@ Chiswick House</link></plot>
 </location>
 </region>
 </site>
-&nbsp;·  <park wordnetid="108615149" confidence="0.9508927676800064">
+ ·  <park wordnetid="108615149" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../650/577650.xml">
 Clapham Common</link></park>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <playing_field wordnetid="108570758" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1811,8 +1811,8 @@ Clissold Park</link></bowling_green>
 </park>
 </playing_field>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../426/3524426.xml">
-Coldfall Wood</link>&nbsp;·   <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../426/3524426.xml">
+Coldfall Wood</link> ·   <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1823,8 +1823,8 @@ Coram's Fields</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <link>
-Crystal Palace Park</link>&nbsp;·  
+ ·  <link>
+Crystal Palace Park</link> ·  
 <region wordnetid="108630985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1844,7 +1844,7 @@ Danson Park</link></causal_agent>
 </person>
 </physical_entity>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1855,7 +1855,7 @@ Dulwich Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -1878,7 +1878,7 @@ Duppas Hill</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1892,10 +1892,10 @@ Eel Brook Common</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <park wordnetid="108615149" confidence="0.9508927676800064">
+ ·  <park wordnetid="108615149" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/372434.xml">
 Epping Forest</link></park>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1906,7 +1906,7 @@ Erith Marshes</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1918,7 +1918,7 @@ Figges Marsh</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <playing_field wordnetid="108570758" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1933,7 +1933,7 @@ Finsbury Park</link></bowling_green>
 </park>
 </playing_field>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1944,7 +1944,7 @@ Foots Cray Meadows</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -1961,7 +1961,7 @@ Fryent Country Park</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1973,7 +1973,7 @@ Golders Hill Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·   <region wordnetid="108630985" confidence="0.8">
+ ·   <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1984,7 +1984,7 @@ Grangewood Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1995,7 +1995,7 @@ Green Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2012,7 +2012,7 @@ Greenwich Park</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2023,7 +2023,7 @@ Grove Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2034,7 +2034,7 @@ Grovelands Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -2054,10 +2054,10 @@ Hackney Downs</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../553/669553.xml">
 Hackney Marshes</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2068,7 +2068,7 @@ Haggerston Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2079,7 +2079,7 @@ Hainault Forest Country Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2090,7 +2090,7 @@ Hampstead Heath</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2101,7 +2101,7 @@ Hampton Court Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2114,7 +2114,7 @@ Harrow Weald</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2125,7 +2125,7 @@ Highbury Fields</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2136,10 +2136,10 @@ Highgate Wood</link></geographical_area>
 </location>
 </park>
 </region>
- &nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+  ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../779/593779.xml">
 Holland Park</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2150,7 +2150,7 @@ Hornchurch Country Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2167,7 +2167,7 @@ Hyde Park</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2179,7 +2179,7 @@ Island Gardens</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2191,7 +2191,7 @@ Jubilee Gardens</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -2209,7 +2209,7 @@ Kennington Park</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2220,17 +2220,17 @@ Kensington Gardens</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../000/1709000.xml">
 Kenwood</link></artifact>
 </building>
 </structure>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/26304.xml">
 Kew Gardens</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2241,11 +2241,11 @@ Kilburn Grange Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  
+ ·  
 <trail wordnetid="109460312" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../151/1702151.xml">
 Lee Valley Park</link></trail>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <isogon wordnetid="113866515" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2276,7 +2276,7 @@ Lincoln's Inn Fields</link></quadrilateral>
 </park>
 </isogon>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -2295,7 +2295,7 @@ London Fields</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <center wordnetid="108523483" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -2310,7 +2310,7 @@ London Wetland Centre</link></geographical_area>
 </area>
 </center>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2322,7 +2322,7 @@ Mile End Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2333,7 +2333,7 @@ Mitcham Common</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2350,7 +2350,7 @@ Mitcham Cricket Green</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2365,10 +2365,10 @@ Morden Hall Park</link></geographical_area>
 </park>
 </possession>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../771/1289771.xml">
 Morden Park</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2379,7 +2379,7 @@ Mudchute Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2391,7 +2391,7 @@ Newington Gardens</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -2410,7 +2410,7 @@ Newington Green</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2422,7 +2422,7 @@ Oaks Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2439,10 +2439,10 @@ Old Deer Park</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../180/2444180.xml">
 Old Oak Common</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2457,7 +2457,7 @@ Osterley Park</link></plot>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2476,7 +2476,7 @@ Oxleas Wood</link></group>
 </location>
 </park>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2488,8 +2488,8 @@ Parliament Hill</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../938/1627938.xml">
-Parsons Green</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../938/1627938.xml">
+Parsons Green</link> ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2500,14 +2500,14 @@ Plumstead Common</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../451/382451.xml">
 Primrose Hill</link></site>
-&nbsp;·  
+ ·  
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../921/2376921.xml">
 Queen's Park</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <substance wordnetid="100019613" confidence="0.8">
 <wood wordnetid="115098161" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -2528,7 +2528,7 @@ Queen's Wood</link></material>
 </wood>
 </substance>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2540,7 +2540,7 @@ Railway Fields</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2551,7 +2551,7 @@ Regent's Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2568,10 +2568,10 @@ Richmond Green</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <park wordnetid="108615149" confidence="0.9508927676800064">
+ ·  <park wordnetid="108615149" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../742/150742.xml">
 Richmond Park</link></park>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <port wordnetid="108633957" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <geographic_point wordnetid="108578706" confidence="0.8">
@@ -2588,7 +2588,7 @@ Russia Dock Woodland</link></geographical_area>
 </point>
 </port>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2600,7 +2600,7 @@ South Norwood Country Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2611,7 +2611,7 @@ Southwark Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2622,7 +2622,7 @@ St. James's Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2633,7 +2633,7 @@ Stave Hill</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2644,7 +2644,7 @@ Stoke Newington Common</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2655,7 +2655,7 @@ Streatham Common</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2666,14 +2666,14 @@ Sydenham Wells Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·   <structure wordnetid="104341686" confidence="0.8">
+ ·   <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../558/1600558.xml">
 Syon Park</link></artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2685,7 +2685,7 @@ Tooting Commons</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2696,7 +2696,7 @@ Tottenham Marshes</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2707,7 +2707,7 @@ Trent Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  
+ ·  
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -2721,14 +2721,14 @@ Valence Park</link></room>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../217/2513217.xml">
 Valentines Park</link></artifact>
 </building>
 </structure>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2739,7 +2739,7 @@ Victoria Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2750,7 +2750,7 @@ Victoria Tower Gardens</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2763,7 +2763,7 @@ Walthamstow Marshes</link></geographical_area>
 </park>
 </region>
 </site>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2775,7 +2775,7 @@ Wandsworth Common</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2786,7 +2786,7 @@ Wanstead Flats</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -2803,7 +2803,7 @@ Wanstead Park</link></geographical_area>
 </building>
 </structure>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2814,7 +2814,7 @@ Waterlow Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2825,10 +2825,10 @@ West Ham Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· <park wordnetid="108615149" confidence="0.9508927676800064">
+ · <park wordnetid="108615149" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../057/8675057.xml">
 Wildspace Conservation Park</link></park>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -2845,8 +2845,8 @@ Wimbledon Park</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../318/761318.xml">
-Wimbledon and Putney Commons</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../318/761318.xml">
+Wimbledon and Putney Commons</link> ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2857,10 +2857,10 @@ Winn's Common</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·   <park wordnetid="108615149" confidence="0.9508927676800064">
+ ·   <park wordnetid="108615149" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../059/4522059.xml">
 Woodside Green</link></park>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2890,67 +2890,67 @@ Wormwood Scrubs</link></district>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../718/10708718.xml">
-Barking&nbsp;and Dagenham</link>&nbsp;&amp;bull;  
+Barking and Dagenham</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../538/2874538.xml">
-Barnet</link>&nbsp;&amp;bull;  
+Barnet</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../492/2782492.xml">
-Bexley</link>&nbsp;&amp;bull;  
+Bexley</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../924/2917924.xml">
-Brent</link>&nbsp;&amp;bull;  
+Brent</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../667/2793667.xml">
-Bromley</link>&nbsp;&amp;bull;  
+Bromley</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../039/2876039.xml">
-Camden</link>&nbsp;&amp;bull;  
+Camden</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../498/2800498.xml">
-Croydon</link>&nbsp;&amp;bull;  
+Croydon</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../840/2896840.xml">
-Ealing</link>&nbsp;&amp;bull;  
+Ealing</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../421/2869421.xml">
-Enfield</link>&nbsp;&amp;bull;  
+Enfield</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../693/2782693.xml">
-Greenwich</link>&nbsp;&amp;bull;  
+Greenwich</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../290/2853290.xml">
-Hackney</link>&nbsp;&amp;bull;  
+Hackney</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../258/2927258.xml">
-Hammersmith&nbsp;and Fulham</link>&nbsp;&amp;bull;  
+Hammersmith and Fulham</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../194/2837194.xml">
-Haringey</link>&nbsp;&amp;bull;  
+Haringey</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../173/2882173.xml">
-Harrow</link>&nbsp;&amp;bull;  
+Harrow</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../426/2824426.xml">
-Havering</link>&nbsp;&amp;bull;  
+Havering</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../836/2838836.xml">
-Hillingdon</link>&nbsp;&amp;bull;  
+Hillingdon</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../975/2895975.xml">
-Hounslow</link>&nbsp;&amp;bull;  
+Hounslow</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../469/2891469.xml">
-Islington</link>&nbsp;&amp;bull;  
+Islington</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../170/2919170.xml">
-Kensington&nbsp;and Chelsea</link>&nbsp;&amp;bull;  
+Kensington and Chelsea</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../210/2900210.xml">
-Kingston</link>&nbsp;&amp;bull;  
+Kingston</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../714/2823714.xml">
-Lambeth</link>&nbsp;&amp;bull;  
+Lambeth</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../930/2808930.xml">
-Lewisham</link>&nbsp;&amp;bull;  
+Lewisham</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../600/2913600.xml">
-Merton</link>&nbsp;&amp;bull;  
+Merton</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../581/2852581.xml">
-Newham</link>&nbsp;&amp;bull;  
+Newham</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../106/2847106.xml">
-Redbridge</link>&nbsp;&amp;bull;  
+Redbridge</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../084/2898084.xml">
-Richmond</link>&nbsp;&amp;bull;  
+Richmond</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../050/2817050.xml">
-Southwark</link>&nbsp;&amp;bull;  
+Southwark</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../187/2824187.xml">
-Sutton</link>&nbsp;&amp;bull;  
+Sutton</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../157/2830157.xml">
-Tower&nbsp;Hamlets</link>&nbsp;&amp;bull;  
+Tower Hamlets</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../939/2854939.xml">
-Waltham&nbsp;Forest</link>&nbsp;&amp;bull;  
+Waltham Forest</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../950/5639950.xml">
-Wandsworth</link>&nbsp;&amp;bull;  
+Wandsworth</link> &amp;bull;  
 <link xlink:type="simple" xlink:href="../336/2925336.xml">
 Westminster</link></p>
 </col>

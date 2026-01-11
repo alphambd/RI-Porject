@@ -93,7 +93,7 @@ Concurrency and Python</weblink>".&#32;  <magazine wordnetid="106595351" confide
 Dr. Dobb's Journal</link></magazine>
 &#32;(<link>
 2008-02-03</link>).&#32;Retrieved on <link>
-2008-07-12</link>.&nbsp;"The GIL is a lock that is used to protect all the critical sections in Python. Hence, even if you have multiple CPUs, only one thread may be doing "pythony" things at a time."</entry>
+2008-07-12</link>. "The GIL is a lock that is used to protect all the critical sections in Python. Hence, even if you have multiple CPUs, only one thread may be doing "pythony" things at a time."</entry>
 <entry id="2">
 <weblink xlink:type="simple" xlink:href="http://docs.python.org/api/threads.html">
 Python/C API Reference Manual: Thread State and the Global Interpreter Lock</weblink></entry>

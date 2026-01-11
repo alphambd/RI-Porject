@@ -280,7 +280,7 @@ Upper Atmosphere Research Satellite</link></equipment>
 </artifact>
 </satellite>
 </b> (UARS) observations. Data from the UARS is available from the <weblink xlink:type="simple" xlink:href="http://daac.gsfc.nasa.gov/data/">
-GES Distributed Active Archive Center</weblink> (DAAC). The UARS satellite was launched in 1991 by the Space Shuttle Discovery. It is 35&nbsp;feet (11&nbsp;m) long, 15&nbsp;feet (4.6&nbsp;m) in diameter, weighs 13,000 pounds, and carries 10 instruments. UARS orbits at an altitude of 375&nbsp;miles (604&nbsp;km) with an orbital inclination of 57 degrees. UARS measured ozone and chemical compounds found in the ozone layer which affect ozone chemistry and processes. UARS also measured winds and temperatures in the stratosphere as well as the energy input from the Sun. Together, these helped define the role of the upper atmosphere in climate and climate variability.</entry>
+GES Distributed Active Archive Center</weblink> (DAAC). The UARS satellite was launched in 1991 by the Space Shuttle Discovery. It is 35 feet (11 m) long, 15 feet (4.6 m) in diameter, weighs 13,000 pounds, and carries 10 instruments. UARS orbits at an altitude of 375 miles (604 km) with an orbital inclination of 57 degrees. UARS measured ozone and chemical compounds found in the ozone layer which affect ozone chemistry and processes. UARS also measured winds and temperatures in the stratosphere as well as the energy input from the Sun. Together, these helped define the role of the upper atmosphere in climate and climate variability.</entry>
 </list>
 </p>
 <p>
@@ -484,8 +484,8 @@ Earth orbit</link></header>
 Concepts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto; padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../597/46597.xml">
-Earth observation satellite</link>&nbsp;·  <link xlink:type="simple" xlink:href="../398/12398.xml">
-Geographic information system (GIS)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../727/264727.xml">
+Earth observation satellite</link> ·  <link xlink:type="simple" xlink:href="../398/12398.xml">
+Geographic information system (GIS)</link> ·  <link xlink:type="simple" xlink:href="../727/264727.xml">
 Weather satellite</link></col>
 </row>
 </table>
@@ -499,7 +499,7 @@ Weather satellite</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible expanded navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Current projects</header>
+ Current projects</header>
 </row>
 <row style="height:2px;">
 
@@ -533,15 +533,15 @@ SeaWiFS</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../710/5066710.xml">
 TRMM</link></plan>
 </idea>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.9508927676800064">
+ ·  <satellite wordnetid="104137444" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../823/473823.xml">
 Landsat 7</link></satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -550,7 +550,7 @@ QuikSCAT</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -571,7 +571,7 @@ Terra</link></higher_cognitive_process>
 </artifact>
 </satellite>
 </process>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -584,8 +584,8 @@ ACRIMSAT</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../318/1202318.xml">
-NMP</link>/EO-1&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../318/1202318.xml">
+NMP</link>/EO-1 ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -594,7 +594,7 @@ Jason 1</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -603,8 +603,8 @@ Meteor 3M</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
--1/Sage III&nbsp;·  <link xlink:type="simple" xlink:href="../077/1111077.xml">
-GRACE</link>&nbsp;·  <conveyance wordnetid="103100490" confidence="0.8">
+-1/Sage III ·  <link xlink:type="simple" xlink:href="../077/1111077.xml">
+GRACE</link> ·  <conveyance wordnetid="103100490" confidence="0.8">
 <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -617,7 +617,7 @@ Aqua</link></equipment>
 </artifact>
 </satellite>
 </conveyance>
-&nbsp;·  ADEOS II&nbsp;/ Midori II&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  ADEOS II / Midori II ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <measuring_instrument wordnetid="103733925" confidence="0.8">
@@ -634,8 +634,8 @@ ICESat</link></instrument>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <link xlink:type="simple" xlink:href="../411/2725411.xml">
-SORCE</link>&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../411/2725411.xml">
+SORCE</link> ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -644,7 +644,7 @@ Aura</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -653,7 +653,7 @@ CloudSat</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -662,7 +662,7 @@ CALIPSO</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -671,7 +671,7 @@ Hydros</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -680,7 +680,7 @@ NPOESS</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -689,8 +689,8 @@ OCO</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <link>
-ESSP</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link>
+ESSP</link> ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -703,7 +703,7 @@ Aquarius</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../318/1202318.xml">
+ ·  <link xlink:type="simple" xlink:href="../318/1202318.xml">
 NMP</link>/EO-3</col>
 </row>
 <row style="height:2px">
@@ -735,7 +735,7 @@ Aqua</link></equipment>
 </artifact>
 </satellite>
 </conveyance>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -744,7 +744,7 @@ Aura</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -753,7 +753,7 @@ PARASOL</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -762,7 +762,7 @@ CALIPSO</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -771,7 +771,7 @@ CloudSat</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -790,8 +790,8 @@ OCO</link></equipment>
 Other satellites</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../184/13295184.xml">
-CBERS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../881/3266881.xml">
-COSMIC</link>&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+CBERS</link> ·  <link xlink:type="simple" xlink:href="../881/3266881.xml">
+COSMIC</link> ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -800,7 +800,7 @@ DMSP</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -809,7 +809,7 @@ DMC</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -818,7 +818,7 @@ Envisat</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -827,7 +827,7 @@ EROS</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -836,8 +836,8 @@ ERS</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <link xlink:type="simple" xlink:href="../846/3743846.xml">
-Fengyun</link>&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../846/3743846.xml">
+Fengyun</link> ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -846,7 +846,7 @@ GOES</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -855,7 +855,7 @@ Hydros</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -864,7 +864,7 @@ IKONOS</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -873,7 +873,7 @@ Landsat</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -882,7 +882,7 @@ MetOp</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -891,7 +891,7 @@ Meteor</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -904,7 +904,7 @@ Meteosat</link></instrument>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -913,8 +913,8 @@ MTSAT</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <link xlink:type="simple" xlink:href="../670/5865670.xml">
-NOAA-N'</link>&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../670/5865670.xml">
+NOAA-N'</link> ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -923,7 +923,7 @@ QuickBird</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <measuring_instrument wordnetid="103733925" confidence="0.8">
@@ -940,10 +940,10 @@ RADARSAT-1</link></instrument>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
+ ·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../447/1373447.xml">
 RADARSAT-2</link></spacecraft>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -952,7 +952,7 @@ SPOT</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.9508927676800064">
+ ·  <satellite wordnetid="104137444" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../117/5620117.xml">
 TerraSAR-X</link></satellite>
 </col>
@@ -971,7 +971,7 @@ TerraSAR-X</link></satellite>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Former projects</header>
+ Former projects</header>
 </row>
 <row style="height:2px;">
 
@@ -979,7 +979,7 @@ TerraSAR-X</link></satellite>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../949/390949.xml">
-Nimbus program</link>&nbsp;·  <conveyance wordnetid="103100490" confidence="0.8">
+Nimbus program</link> ·  <conveyance wordnetid="103100490" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -994,7 +994,7 @@ Project Vanguard</link></vehicle>
 </artifact>
 </idea>
 </conveyance>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <measuring_instrument wordnetid="103733925" confidence="0.8">
@@ -1011,7 +1011,7 @@ SEASAT</link></instrument>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -1020,7 +1020,7 @@ TOPEX/Poseidon</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <link xlink:type="simple" xlink:href="../381/746381.xml">
+ ·  <link xlink:type="simple" xlink:href="../381/746381.xml">
 TIROS</link></col>
 </row>
 </table>

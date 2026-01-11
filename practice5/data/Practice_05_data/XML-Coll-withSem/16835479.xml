@@ -55,11 +55,11 @@ ACTL7A</weblink>;</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=604303">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=604303">
 604303</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1343051">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1343051">
 1343051</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=7613">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=7613">
 7613</weblink></col>
 </row>
 
@@ -220,7 +220,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1146%2Fannurev.cellbio.15.1.341">
-10.1146/annurev.cellbio.15.1.341</weblink>. PMID 10611965.</cite>&nbsp;</entry>
+10.1146/annurev.cellbio.15.1.341</weblink>. PMID 10611965.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Rual JF, Venkatesan K, Hao T, et al.&#32;(2005).&#32;"Towards a proteome-scale map of the human protein-protein interaction network.". <it>Nature</it>&#32;<b>437</b>&#32;(7062): 1173–8. <document wordnetid="106470073" confidence="0.8">
@@ -231,7 +231,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature04209">
-10.1038/nature04209</weblink>. PMID 16189514.</cite>&nbsp;</entry>
+10.1038/nature04209</weblink>. PMID 16189514.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Gerhard DS, Wagner L, Feingold EA, et al.&#32;(2004).&#32;"The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).". <it>Genome Res.</it>&#32;<b>14</b>&#32;(10B): 2121–7. <document wordnetid="106470073" confidence="0.8">
@@ -242,7 +242,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2596504">
-10.1101/gr.2596504</weblink>. PMID 15489334.</cite>&nbsp;</entry>
+10.1101/gr.2596504</weblink>. PMID 15489334.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Humphray SJ, Oliver K, Hunt AR, et al.&#32;(2004).&#32;"DNA sequence and analysis of human chromosome 9.". <it>Nature</it>&#32;<b>429</b>&#32;(6990): 369–74. <document wordnetid="106470073" confidence="0.8">
@@ -253,7 +253,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature02465">
-10.1038/nature02465</weblink>. PMID 15164053.</cite>&nbsp;</entry>
+10.1038/nature02465</weblink>. PMID 15164053.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Garvalov BK, Higgins TE, Sutherland JD, et al.&#32;(2003).&#32;"The conformational state of Tes regulates its zyxin-dependent recruitment to focal adhesions.". <it>J. Cell Biol.</it>&#32;<b>161</b>&#32;(1): 33–9. <document wordnetid="106470073" confidence="0.8">
@@ -264,10 +264,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1083%2Fjcb.200211015">
-10.1083/jcb.200211015</weblink>. PMID 12695497.</cite>&nbsp;</entry>
+10.1083/jcb.200211015</weblink>. PMID 12695497.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Coutts AS, MacKenzie E, Griffith E, Black DM&#32;(2003).&#32;"TES is a novel focal adhesion protein with a role in cell spreading.". <it>J. Cell. Sci.</it>&#32;<b>116</b>&#32;(Pt 5): 897–906. PMID 12571287.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Coutts AS, MacKenzie E, Griffith E, Black DM&#32;(2003).&#32;"TES is a novel focal adhesion protein with a role in cell spreading.". <it>J. Cell. Sci.</it>&#32;<b>116</b>&#32;(Pt 5): 897–906. PMID 12571287.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -278,7 +278,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Chadwick BP, Mull J, Helbling LA, et al.&#32;(1999).&#32;"Cloning, mapping, and expression of two novel actin genes, actin-like-7A (ACTL7A) and actin-like-7B (ACTL7B), from the familial dysautonomia candidate region on 9q31.". <it>Genomics</it>&#32;<b>58</b>&#32;(3): 302–9. <document wordnetid="106470073" confidence="0.8">
@@ -289,7 +289,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fgeno.1999.5848">
-10.1006/geno.1999.5848</weblink>. PMID 10373328.</cite>&nbsp;</entry>
+10.1006/geno.1999.5848</weblink>. PMID 10373328.</cite> </entry>
 </list>
 </p>
 

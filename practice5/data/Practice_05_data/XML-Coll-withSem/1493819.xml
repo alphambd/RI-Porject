@@ -550,13 +550,13 @@ NUTS 2</link>:</b> <region wordnetid="108630039" confidence="0.8">
 <link xlink:type="simple" xlink:href="../415/379415.xml">
 Inner London</link></location>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630039" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <link xlink:type="simple" xlink:href="../426/379426.xml">
 Outer London</link></location>
 </region>
-&nbsp;·  
+ ·  
 <b><link xlink:type="simple" xlink:href="../110/349110.xml">
 Boundary Commission</link>:</b> 
 <region wordnetid="108630985" confidence="0.8">
@@ -566,7 +566,7 @@ Boundary Commission</link>:</b>
 North London</link></district>
 </location>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <district wordnetid="108552138" confidence="0.8">
@@ -587,7 +587,7 @@ Planning</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <link xlink:type="simple" xlink:href="../305/424305.xml">
-Central</link>&nbsp;·  
+Central</link> ·  
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <district wordnetid="108552138" confidence="0.8">
@@ -595,7 +595,7 @@ Central</link>&nbsp;·
 East</link></district>
 </location>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <district wordnetid="108552138" confidence="0.8">
@@ -603,7 +603,7 @@ East</link></district>
 North</link></district>
 </location>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <district wordnetid="108552138" confidence="0.8">
@@ -611,7 +611,7 @@ North</link></district>
 South</link></district>
 </location>
 </region>
-&nbsp;·  
+ ·  
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <district wordnetid="108552138" confidence="0.8">
@@ -637,7 +637,7 @@ Informal</col>
 East End</link></district>
 </location>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">

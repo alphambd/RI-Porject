@@ -180,7 +180,7 @@ To alleviate this limitation, almost all Windows system DLLs are pre-mapped at d
 <p>
 
 A sharing technique Windows calls "memory mapping" (not to be confused with <link xlink:type="simple" xlink:href="../157/335157.xml">
-Memory-mapped I/O</link>) is sometimes able to allow multiple processes to share an instance of a DLL loaded into memory. However, the reality is that Windows is not always able to share one instance of a DLL loaded by multiple processes.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> Windows requires each compiled program to know where in <it>its</it> address space each DLL will be accessed &mdash; there is no support for position independence. </p>
+Memory-mapped I/O</link>) is sometimes able to allow multiple processes to share an instance of a DLL loaded into memory. However, the reality is that Windows is not always able to share one instance of a DLL loaded by multiple processes.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> Windows requires each compiled program to know where in <it>its</it> address space each DLL will be accessed — there is no support for position independence. </p>
 <p>
 
 A DLL specifies its <it>desired</it> base address when it is created (Visual C++ defaults to an offset of 0x10000000) but if multiple DLLs have the same desired base address, a program cannot relocate them all to that base offset and must specify new offsets when linking. When the Windows <structure wordnetid="104341686" confidence="0.8">
@@ -295,7 +295,7 @@ Microsoft Developer Network</link></web_site>
 </artifact>
 </computer>
 </it>.&#32;Retrieved on <link>
-2007-04-26</link>.&nbsp;"Sharing common DLLs does provide a significant savings on memory load. But Windows is not always able to share one instance of a DLL that is loaded by multiple processes."</entry>
+2007-04-26</link>. "Sharing common DLLs does provide a significant savings on memory load. But Windows is not always able to share one instance of a DLL that is loaded by multiple processes."</entry>
 </reflist>
 </p>
 
@@ -322,7 +322,7 @@ John R. Levine</link></scholar>
 </person>
 </physical_entity>
 &#32;(October 1999).&#32;"<weblink xlink:type="simple" xlink:href="http://www.iecc.com/linker/linker08.html">
-Chapter 8: Loading and overlays</weblink>", Linkers and Loaders.&#32;Morgan-Kauffman. ISBN 1-55860-496-0.</cite>&nbsp;</entry>
+Chapter 8: Loading and overlays</weblink>", Linkers and Loaders.&#32;Morgan-Kauffman. ISBN 1-55860-496-0.</cite> </entry>
 </list>
 </p>
 

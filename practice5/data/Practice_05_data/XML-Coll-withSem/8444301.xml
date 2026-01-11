@@ -156,7 +156,7 @@ Most Sudoku puzzles will be solved in just a few seconds with this method, but t
 </p>
 <p>
 
-Solving this puzzle by brute-force requires a large number of iterations because it has a low number of clues (17), the top row has no clues at all, and the solution has "987654321" as its first row.  Thus a brute-force solver will spend an enormous amount of time "counting" upward before it arrives at the final grid which satisfies the puzzle.   If one iteration is defined as one attempt to place one value in one cell, then this puzzles requires 641,580,843 iterations to solve.  These iterations do not include the work involved at each step to learn if each digit entered  is valid or not (required for every iteration).  Based on the specific construction of the computer code, programmers have found the solution time for this puzzle to be between 30 and 45 minutes with a computer processor running at 3&nbsp;GHz.  Many programmers have developed variations of the brute force algorithm which will solve this puzzle in a minute or less with a 3&nbsp;GHz computer processor.</p>
+Solving this puzzle by brute-force requires a large number of iterations because it has a low number of clues (17), the top row has no clues at all, and the solution has "987654321" as its first row.  Thus a brute-force solver will spend an enormous amount of time "counting" upward before it arrives at the final grid which satisfies the puzzle.   If one iteration is defined as one attempt to place one value in one cell, then this puzzles requires 641,580,843 iterations to solve.  These iterations do not include the work involved at each step to learn if each digit entered  is valid or not (required for every iteration).  Based on the specific construction of the computer code, programmers have found the solution time for this puzzle to be between 30 and 45 minutes with a computer processor running at 3 GHz.  Many programmers have developed variations of the brute force algorithm which will solve this puzzle in a minute or less with a 3 GHz computer processor.</p>
 <p>
 
 One programmer has created charts of the progression of a pointer as it advances through the 81 positions of a sudoku using a brute force algorithm.  An example is the chart for the solution to a sudoku "Star Burst Leo" shown here.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></p>
@@ -672,7 +672,7 @@ Label: Easter Monster
 <p>
 
 Rating Program: gsf's sudoku q1 (Processing time) 
-Rating: 4m19s@2&nbsp;GHz 
+Rating: 4m19s@2 GHz 
 Poster: tarek 
 Label: tarek071223170000-052 
 ..1..4.......6.3.5...9.....8.....7.3.......285...7.6..3...8...6..92......4...1... 

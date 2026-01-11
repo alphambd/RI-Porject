@@ -180,7 +180,7 @@ Krater</link></shape>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <accessory wordnetid="102671780" confidence="0.8">
 <clothing wordnetid="103051540" confidence="0.8">
@@ -199,35 +199,35 @@ Kylix</link></shape>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../070/2471070.xml">
 Oenochoe</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../572/2710572.xml">
 Skyphos</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../048/2826048.xml">
 Psykter</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../590/12201590.xml">
 Kyathos</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <spatial_property wordnetid="105062748" confidence="0.8">
@@ -244,21 +244,21 @@ Rhyton</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../501/2826501.xml">
 Kantharos</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../492/12201492.xml">
 Askos</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <unit_of_measurement wordnetid="113583724" confidence="0.8">
+ ·  <unit_of_measurement wordnetid="113583724" confidence="0.8">
 <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
@@ -285,35 +285,35 @@ Perfume Shapes and Wedding Shapes</col>
 Lebes Gamikos</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../613/2826613.xml">
 Loutrophoros</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../216/1502216.xml">
 Epinetron</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../635/2826635.xml">
 Alabastron</link></shape>
 </property>
 </spatial_property>
- &nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+  ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../286/2076286.xml">
 Aryballos</link></shape>
 </property>
 </spatial_property>
- &nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+  ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../374/2826374.xml">
@@ -336,14 +336,14 @@ Funerary Shapes and Cultic Shapes</col>
 Lekythos</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../613/2826613.xml">
 Loutrophoros</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../706/12201706.xml">
@@ -360,21 +360,21 @@ Phiale</link></shape>
 Storage Shapes</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../812/51812.xml">
-Amphora</link>&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+Amphora</link> ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../785/1501785.xml">
 Lebes</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../447/3222447.xml">
 Pithos</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <spatial_property wordnetid="105062748" confidence="0.8">
+ ·  <spatial_property wordnetid="105062748" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <shape wordnetid="105064037" confidence="0.8">
 <link xlink:type="simple" xlink:href="../652/2826652.xml">
@@ -391,10 +391,10 @@ Stamnos</link></shape>
 Techniques</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../406/1457406.xml">
-Red-figure</link>&nbsp;·  <link xlink:type="simple" xlink:href="../046/1076046.xml">
-Black-figure</link>&nbsp;·  <link xlink:type="simple" xlink:href="../253/8143253.xml">
-Bilingual pottery</link>&nbsp;·  <link xlink:type="simple" xlink:href="../672/6418672.xml">
-Six's technique</link>&nbsp;·  <link xlink:type="simple" xlink:href="../366/6474366.xml">
+Red-figure</link> ·  <link xlink:type="simple" xlink:href="../046/1076046.xml">
+Black-figure</link> ·  <link xlink:type="simple" xlink:href="../253/8143253.xml">
+Bilingual pottery</link> ·  <link xlink:type="simple" xlink:href="../672/6418672.xml">
+Six's technique</link> ·  <link xlink:type="simple" xlink:href="../366/6474366.xml">
 White-ground</link></col>
 </row>
 <row style="height:2px">
@@ -405,7 +405,7 @@ White-ground</link></col>
 Painters</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../315/6430315.xml">
-List of Greek Vase Painters</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+List of Greek Vase Painters</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <painter wordnetid="110391653" confidence="0.8">
@@ -418,7 +418,7 @@ Amasis Painter</link></creator>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <potter wordnetid="110460806" confidence="0.8">
@@ -439,7 +439,7 @@ Exekias</link></creator>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <potter wordnetid="110460806" confidence="0.8">
@@ -460,7 +460,7 @@ Pioneer Group</link></creator>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <painter wordnetid="110391653" confidence="0.8">
@@ -473,7 +473,7 @@ Douris</link></creator>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <painter wordnetid="110391653" confidence="0.8">
@@ -486,7 +486,7 @@ Meidias Painter</link></creator>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <potter wordnetid="110460806" confidence="0.8">
@@ -523,10 +523,10 @@ Special Topics in Greek Pottery</col>
 Typology</link></shape>
 </property>
 </spatial_property>
-&nbsp;·  <link xlink:type="simple" xlink:href="../007/8238007.xml">
-Kalos inscription</link>&nbsp;·  <link xlink:type="simple" xlink:href="../933/1053933.xml">
-Symposium</link>&nbsp;·  <link xlink:type="simple" xlink:href="../977/6438977.xml">
-Corpus vasorum antiquorum</link>&nbsp;·  <anthropologist wordnetid="109796323" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../007/8238007.xml">
+Kalos inscription</link> ·  <link xlink:type="simple" xlink:href="../933/1053933.xml">
+Symposium</link> ·  <link xlink:type="simple" xlink:href="../977/6438977.xml">
+Corpus vasorum antiquorum</link> ·  <anthropologist wordnetid="109796323" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -553,8 +553,8 @@ John Beazley</link></scholar>
 </physical_entity>
 </peer>
 </anthropologist>
-&nbsp;·  <link xlink:type="simple" xlink:href="../082/6432082.xml">
-Panathenaic Amphorae</link>&nbsp;·  <link xlink:type="simple" xlink:href="../787/9068787.xml">
+ ·  <link xlink:type="simple" xlink:href="../082/6432082.xml">
+Panathenaic Amphorae</link> ·  <link xlink:type="simple" xlink:href="../787/9068787.xml">
 South Italian</link></col>
 </row>
 </table>

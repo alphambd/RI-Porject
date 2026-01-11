@@ -84,7 +84,7 @@ Telford &amp; Wrekin</LEA>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../316/9316.xml">
 England</link></country>
 </country>
@@ -431,7 +431,7 @@ Primary</col>
 Buildwas Primary School</link></institution>
 </educational_institution>
 </school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/7857027.xml">
 Priorslee Primary School</link></school>
 </col>
@@ -446,21 +446,21 @@ Comprehensive</col>
 <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/14256298.xml">
 Charlton School</link></school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../174/15470174.xml">
 Hadley Learning Community</link></school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../888/3992888.xml">
 Idsall School</link></school>
-&nbsp;·  <link xlink:type="simple" xlink:href="../359/2972359.xml">
-Marches School and Technology College</link>&nbsp;· <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../359/2972359.xml">
+Marches School and Technology College</link> · <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../295/4503295.xml">
 Oldbury Wells School</link></school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../272/2882272.xml">
 Thomas Telford School</link></school>
-&nbsp;·  <link>
-The Priory School</link> &nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <link>
+The Priory School</link>  ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../187/15968187.xml">
 Wakeman School</link></school>
 </col>
@@ -487,7 +487,7 @@ Sixth form colleges</col>
 <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../801/11454801.xml">
 Shrewsbury Sixth Form College</link></school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../242/2954242.xml">
 New College Telford</link></school>
 </col>
@@ -502,7 +502,7 @@ Grammar</col>
 <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../171/277171.xml">
 Adams' Grammar School</link></school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../904/11773904.xml">
 Newport Girls High School</link></school>
 </col>
@@ -525,10 +525,10 @@ Moor Park School</link></institution>
 </school>
 </boarding_school>
 </private_school>
- &nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+  ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../815/13980815.xml">
 Prestfelde School</link></school>
- &nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+  ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../604/18004604.xml">
 Packwood Haugh School</link></school>
 </col>
@@ -551,7 +551,7 @@ Ellesmere College</link></institution>
 </school>
 </boarding_school>
 </private_school>
-&nbsp;·  <private_school wordnetid="108411170" confidence="0.8">
+ ·  <private_school wordnetid="108411170" confidence="0.8">
 <boarding_school wordnetid="108411701" confidence="0.8">
 <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
@@ -562,17 +562,17 @@ Oswestry School</link></institution>
 </school>
 </boarding_school>
 </private_school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.8">
+ ·  <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../797/4040797.xml">
 Shrewsbury High School</link></institution>
 </educational_institution>
 </school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../966/188966.xml">
 Shrewsbury School</link></school>
-&nbsp;·  <school wordnetid="108276720" confidence="0.9508927676800064">
+ ·  <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../305/3427305.xml">
 Wrekin College</link></school>
 </col>

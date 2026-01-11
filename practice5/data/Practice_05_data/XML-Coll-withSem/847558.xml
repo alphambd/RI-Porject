@@ -99,13 +99,13 @@ Predictive Analytics</link></causal_agent>
 <table align="center">
 <row>
 <header colspan="2">
-&nbsp;</header>
+ </header>
 <header colspan="2" align="center">
 actual value</header>
 </row>
 <row>
 <header colspan="2">
-&nbsp;</header>
+ </header>
 <header>
 <it>p''</it></header>
 <header>
@@ -157,13 +157,13 @@ Fraudulent</link>.  This model correctly predicts 9,700 non-fraudulent cases, an
 <table align="center">
 <row>
 <header colspan="2">
-&nbsp;</header>
+ </header>
 <header colspan="2" align="center">
 actual value</header>
 </row>
 <row>
 <header colspan="2">
-&nbsp;</header>
+ </header>
 <header>
 <it>p''</it></header>
 <header>

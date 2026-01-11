@@ -60,9 +60,9 @@ Catania</link></urban_area>
 </caption>
 </image>
 <topspeed>
-120&nbsp;km/h</topspeed>
+120 km/h</topspeed>
 <weight>
-72&nbsp;<link xlink:type="simple" xlink:href="../150/533150.xml">
+72 <link xlink:type="simple" xlink:href="../150/533150.xml">
 tons</link></weight>
 <railroad>
 <link xlink:type="simple" xlink:href="../952/931952.xml">
@@ -79,22 +79,22 @@ TIBB</link></builder>
 <transmission>
 19/65 gear ratio</transmission>
 <tractiveeffort>
-168&nbsp;kN</tractiveeffort>
+168 kN</tractiveeffort>
 <uicclass>
 <link xlink:type="simple" xlink:href="../660/3190660.xml">
 Bo-Bo</link></uicclass>
 <wheelbase>
-7.350&nbsp;m between bogies3.150&nbsp;m between axles in each bogie</wheelbase>
+7.350 m between bogies3.150 m between axles in each bogie</wheelbase>
 <electricsystem>
 3,000 V DC</electricsystem>
 <wheeldiameter>
-1.250&nbsp;m</wheeldiameter>
+1.250 m</wheeldiameter>
 <poweroutput>
-1,500&nbsp;kW</poweroutput>
+1,500 kW</poweroutput>
 <name>
 FS class E424</name>
 <length>
-15.540&nbsp;m</length>
+15.540 m</length>
 <tractionmotors>
 DC series</tractionmotors>
 <firstrundate>
@@ -120,7 +120,7 @@ electric locomotive</link>s. They were built in <link xlink:type="simple" xlink:
 History</st>
 <p>
 
-A design for a small multi-service Bo-Bo locomotive, with speed up to 90&nbsp;km/h, had been devised by <physical_entity wordnetid="100001930" confidence="0.8">
+A design for a small multi-service Bo-Bo locomotive, with speed up to 90 km/h, had been devised by <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <engineer wordnetid="109615807" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -264,7 +264,7 @@ The <it>Avviatore Automatico</it> wheel that rotates during rheostatic exclusion
 Originally more than one units could be coupled and be remote commanded by the first locomotive using a system called <it>Commando Multiplo</it>; on the central part of the cab there also was a door that enabled the crew to pass from one locomotive to another in case of problems. However, safety issues, and the not perfect reliability of this system (there were no instruments indicating the status of the slave locomotive, so it wasn't certain if it correctly made a transition of not, for example), made it to be abandoned and then dismounted.</p>
 <p>
 
-11 units received compound-type motors, enabling a very fine speed control, in a range included between 25 and 50&nbsp;km/h in series combination, and 50 - 100&nbsp;km/h in parallel.</p>
+11 units received compound-type motors, enabling a very fine speed control, in a range included between 25 and 50 km/h in series combination, and 50 - 100 km/h in parallel.</p>
 
 </sec>
 <sec>
@@ -325,66 +325,66 @@ locomotive</link>s</b></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;font-size:95%;;;" class="navbox-list navbox-odd">
 <b>Electric 3,000 V DC:</b> <link>
-E326</link>&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+E326</link> | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/15720173.xml">
 E402A</link></locomotive>
-&nbsp;| <link>
-E405</link>&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <link>
+E405</link> | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../495/12676495.xml">
 E424</link></locomotive>
-&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../951/10889951.xml">
 E428</link></locomotive>
-&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../332/10704332.xml">
 E444</link></locomotive>
-&nbsp;| <link>
-E447</link>&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <link>
+E447</link> | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../801/10706801.xml">
 E464</link></locomotive>
-&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../684/10888684.xml">
 E626</link></locomotive>
-&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../513/10756513.xml">
 E632/E633/E652</link></locomotive>
-&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../649/5600649.xml">
 E636</link></locomotive>
-&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../621/4004621.xml">
 E645/646</link></locomotive>
-&nbsp;| <link xlink:type="simple" xlink:href="../138/10166138.xml">
-E656</link>&nbsp;<b>Poli-current:</b> <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <link xlink:type="simple" xlink:href="../138/10166138.xml">
+E656</link> <b>Poli-current:</b> <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/15720173.xml">
 E402B</link></locomotive>
-&nbsp;| <link xlink:type="simple" xlink:href="../513/19076513.xml">
-E403</link>&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <link xlink:type="simple" xlink:href="../513/19076513.xml">
+E403</link> | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../899/5494899.xml">
 E412</link></locomotive>
-&nbsp; <b>Electric 25 kV AC:</b> <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+  <b>Electric 25 kV AC:</b> <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../514/15709514.xml">
 E491/2</link></locomotive>
-&nbsp; <b>Diesel:</b> <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+  <b>Diesel:</b> <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../839/18397839.xml">
 D341</link></locomotive>
-&nbsp;| <link>
-D343</link>&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <link>
+D343</link> | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../983/18435983.xml">
 D345</link></locomotive>
-&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+ | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../738/18407738.xml">
 D443</link></locomotive>
-&nbsp;| <link>
-D445</link>&nbsp;<p>
+ | <link>
+D445</link> <p>
 
 <b>Shunters</b> <b>Old 10,600 V AC Three-Phase:</b> <link>
-E472</link>&nbsp;<b>Old 3,600 V AC Three-Phase:</b> <link>
-E330</link>&nbsp;| <link>
-E432</link>&nbsp;| <locomotive wordnetid="103684823" confidence="0.9508927676800064">
+E472</link> <b>Old 3,600 V AC Three-Phase:</b> <link>
+E330</link> | <link>
+E432</link> | <locomotive wordnetid="103684823" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../761/18450761.xml">
 E550</link></locomotive>
-&nbsp;</p>
+ </p>
 </col>
 </row>
 </table>

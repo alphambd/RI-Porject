@@ -332,7 +332,7 @@ ECHELON</link></entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../712/231712.xml">
-Communications Security Establishment</link> (CSE) &mdash; Canadian intelligence agency.</entry>
+Communications Security Establishment</link> (CSE) — Canadian intelligence agency.</entry>
 </list>
 </p>
 
@@ -1415,7 +1415,7 @@ CRYPTREC</link></system_of_measurement>
 <entry level="2" type="bullet">
 
 <link xlink:type="simple" xlink:href="../990/662990.xml">
-CMEA</link> &mdash; cipher used in US cellphones, found to have weaknesses.</entry>
+CMEA</link> — cipher used in US cellphones, found to have weaknesses.</entry>
 <entry level="2" type="bullet">
 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
@@ -1431,7 +1431,7 @@ Data Encryption Standard</link></cipher>
 <entry level="2" type="bullet">
 
 <link xlink:type="simple" xlink:href="../184/663184.xml">
-DEAL</link> &mdash; an AES candidate derived from DES</entry>
+DEAL</link> — an AES candidate derived from DES</entry>
 <entry level="2" type="bullet">
 
 <message wordnetid="106253690" confidence="0.8">
@@ -1451,7 +1451,7 @@ FEAL</link></cipher>
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../423/631423.xml">
 GDES</link></cipher>
- &mdash; a <cipher wordnetid="106254239" confidence="0.9508927676800064">
+ — a <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/7978.xml">
 DES</link></cipher>
  variant designed to speed up encryption.</entry>
@@ -3195,7 +3195,7 @@ Cryptool</link></software>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

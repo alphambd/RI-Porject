@@ -136,7 +136,7 @@ Box-counting and Renormalization</st>
 To investigate self-similarity in networks, we use the box-counting method and renormalization. Fig.(3a) shows this procedure using a network composed of 8 nodes. </p>
 <p>
 
-For each size <it>lB</it>, boxes are chosen randomly (as in the cluster growing method) until the network is covered, A box consists of nodes separated by a distance <it>l</it>&nbsp;&nbsp;<it>lB</it>. Then each box is replaced by a node(renormalization). The  renormalized nodes are connected if there is at least one link between the unrenormalized boxes. This procedure is repeated until the network collapses to one node. Each of these boxes has an effective mass (the number of nodes in it) which can be used as shown above to measure the fractal dimension of the network. In Fig.(3b), renormalization is applied to a WWW network through three steps for <it>lB</it>&nbsp;=&nbsp;3.</p>
+For each size <it>lB</it>, boxes are chosen randomly (as in the cluster growing method) until the network is covered, A box consists of nodes separated by a distance <it>l</it>  <it>lB</it>. Then each box is replaced by a node(renormalization). The  renormalized nodes are connected if there is at least one link between the unrenormalized boxes. This procedure is repeated until the network collapses to one node. Each of these boxes has an effective mass (the number of nodes in it) which can be used as shown above to measure the fractal dimension of the network. In Fig.(3b), renormalization is applied to a WWW network through three steps for <it>lB</it> = 3.</p>
 <p>
 
 Fig.(5) shows the invariance of the degree distribution <it>P</it>(<it>k</it>) under the renormalization performed as a function of the box size on the world wide web. The networks are also invariant under multiple renormalizations applied for a fixed box size <it>lB</it>. This invariance suggests that the networks are self-similar on multiple length scales.</p>
@@ -235,7 +235,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1142%2FS0217984907012773">
-10.1142/S0217984907012773</weblink>.</cite>&nbsp;</entry>
+10.1142/S0217984907012773</weblink>.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Shanker, O.&#32;(2007).&#32;"Graph Zeta Function and Dimension of Complex Network". <it>Modern Physics Letters B</it>&#32;<b>21(11)</b>: 639–644. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -245,7 +245,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1142%2FS0217984907013146">
-10.1142/S0217984907013146</weblink>.</cite>&nbsp;</entry>
+10.1142/S0217984907013146</weblink>.</cite> </entry>
 </reflist>
 </p>
 

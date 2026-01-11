@@ -447,11 +447,11 @@ Visual Studio</link></software>
 Team System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../866/898866.xml">
 Express</link></software>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../040/13522040.xml">
-VSTO</link>&nbsp;·  <link>
+) ·  <link xlink:type="simple" xlink:href="../040/13522040.xml">
+VSTO</link> ·  <link>
 VSTA</link></col>
 </row>
 <row style="height:2px">
@@ -467,10 +467,10 @@ Expression Studio</link></software>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../895/2978895.xml">
 Web</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../125/1183125.xml">
 Blend</link></software>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <editor wordnetid="110044879" confidence="0.8">
@@ -483,7 +483,7 @@ Design</link></causal_agent>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <merchandise wordnetid="103748886" confidence="0.8">
@@ -502,7 +502,7 @@ Media</link></thinker>
 </artifact>
 </person>
 </physical_entity>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <merchandise wordnetid="103748886" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <link xlink:type="simple" xlink:href="../583/11169583.xml">
@@ -525,11 +525,11 @@ Visual Basic</link></programming_language>
  (<programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../996/208996.xml">
 VB.NET</link></programming_language>
-)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../204/166204.xml">
 Visual C++</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../995/5607995.xml">
-Visual C#</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../995/5607995.xml">
+Visual C#</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -538,7 +538,7 @@ Visual J#</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
@@ -549,7 +549,7 @@ Visual FoxPro</link></implement>
 </instrumentality>
 </artifact>
 </system>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -570,19 +570,19 @@ ASP.NET</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../348/1179348.xml">
 IronPython</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../234/11002234.xml">
 IronRuby</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../871/14465871.xml">
 PowerShell</link></programming_language>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../631/626631.xml">
-XAML</link>&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../631/626631.xml">
+XAML</link> ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../964/239964.xml">
 F#</link></programming_language>
 </col>
@@ -600,7 +600,7 @@ frameworks</col>
 Windows API</link> / <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../733/2671733.xml">
 SDK</link></software>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -615,9 +615,9 @@ SDK</link></software>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <link xlink:type="simple" xlink:href="../801/1750801.xml">
+ ·  <link xlink:type="simple" xlink:href="../801/1750801.xml">
 Managed code frameworks</link> (<link xlink:type="simple" xlink:href="../979/1707979.xml">
-Presentation</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Presentation</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -630,8 +630,8 @@ Communication</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../163/3846163.xml">
-Workflow</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../163/3846163.xml">
+Workflow</link> ·  <work wordnetid="100575741" confidence="0.8">
 <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -650,19 +650,19 @@ CardSpace</link></activity>
 </artifact>
 </system>
 </work>
-)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/9731719.xml">
 Silverlight</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../616/550616.xml">
 XNA</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../038/4270038.xml">
-ASP.NET AJAX</link>&nbsp;·  <link xlink:type="simple" xlink:href="../337/13706337.xml">
-LINQ</link>&nbsp;·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
-ADO.NET</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../038/4270038.xml">
+ASP.NET AJAX</link> ·  <link xlink:type="simple" xlink:href="../337/13706337.xml">
+LINQ</link> ·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
+ADO.NET</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../506/8506.xml">
 DirectX</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/7894099.xml">
 Robotics Studio</link></software>
 </col>
@@ -691,11 +691,11 @@ Express</link></instrumentality>
 </artifact>
 </system>
  (<link xlink:type="simple" xlink:href="../180/10069180.xml">
-Windows Internal Database</link>)&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+Windows Internal Database</link>) ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../478/11487478.xml">
 Compact</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../585/11005585.xml">
-Management Studio</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../585/11005585.xml">
+Management Studio</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -704,7 +704,7 @@ Business Intelligence Development Studio</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../939/1609939.xml">
@@ -723,8 +723,8 @@ SQL services</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../239/2687239.xml">
 Analysis</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../408/4198408.xml">
-Reporting</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../408/4198408.xml">
+Reporting</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -733,7 +733,7 @@ Integration</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../595/4881595.xml">
+ ·  <link xlink:type="simple" xlink:href="../595/4881595.xml">
 Notification</link></col>
 </row>
 <row style="height:2px">
@@ -754,10 +754,10 @@ Visual FoxPro</link></implement>
 </instrumentality>
 </artifact>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../935/20935.xml">
 Microsoft Access</link></software>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -789,7 +789,7 @@ Source control</col>
 Team Foundation Server</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../646/3015646.xml">
+ ·  <link xlink:type="simple" xlink:href="../646/3015646.xml">
 Visual SourceSafe</link></col>
 </row>
 <row style="height:2px">
@@ -800,15 +800,15 @@ Visual SourceSafe</link></col>
 Driver development</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../077/252077.xml">
-Windows Driver Model</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Windows Driver Model</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../667/3669667.xml">
 Windows Driver Foundation</link></software>
  (<link xlink:type="simple" xlink:href="../476/3669476.xml">
-KMDF</link>&nbsp;·  <link xlink:type="simple" xlink:href="../572/4211572.xml">
-UMDF</link>)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+KMDF</link> ·  <link xlink:type="simple" xlink:href="../572/4211572.xml">
+UMDF</link>) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../954/3634954.xml">
 Windows Driver Kit</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../489/4982489.xml">
 Windows Logo Kit</link></software>
 </col>

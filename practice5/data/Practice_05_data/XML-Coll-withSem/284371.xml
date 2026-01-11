@@ -105,7 +105,7 @@ So the typical RCU update sequence goes something like the following: </p>
 </p>
 <p>
 
-Step (2) above is the key idea underlying RCU's deferred destruction. The ability to wait until all readers are done allows RCU readers to use much lighter-weight synchronization &mdash; in some cases, absolutely no synchronization at all. In contrast, in more conventional lock-based schemes, readers must use heavy-weight synchronization in order to prevent an updater from deleting the data structure out from under them. This is because lock-based updaters typically update data items in place, and must therefore exclude readers. In contrast, RCU-based updaters typically take advantage of the fact that writes to single aligned pointers are atomic on modern CPUs, allowing atomic insertion, removal, and replacement of data items in a linked structure without disrupting readers. Concurrent RCU readers can then continue accessing the old versions, and can dispense with the atomic operations, memory barriers, and cache misses that are so expensive on modern <link xlink:type="simple" xlink:href="../318/50318.xml">
+Step (2) above is the key idea underlying RCU's deferred destruction. The ability to wait until all readers are done allows RCU readers to use much lighter-weight synchronization — in some cases, absolutely no synchronization at all. In contrast, in more conventional lock-based schemes, readers must use heavy-weight synchronization in order to prevent an updater from deleting the data structure out from under them. This is because lock-based updaters typically update data items in place, and must therefore exclude readers. In contrast, RCU-based updaters typically take advantage of the fact that writes to single aligned pointers are atomic on modern CPUs, allowing atomic insertion, removal, and replacement of data items in a linked structure without disrupting readers. Concurrent RCU readers can then continue accessing the old versions, and can dispense with the atomic operations, memory barriers, and cache misses that are so expensive on modern <link xlink:type="simple" xlink:href="../318/50318.xml">
 SMP</link> computer systems, even in absence of lock contention.</p>
 <p>
 
@@ -627,7 +627,7 @@ Exploiting Deferred Destruction: An Analysis of Read-Copy-Update Techniques in O
 
  <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=5442758">
 U.S. Patent 5,442,758</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=5442758">
-&nbsp;</weblink> (1995) "Apparatus and method for achieving reduced overhead mutual exclusion and maintaining coherency in a multiprocessor system utilizing execution history and thread monitoring"</entry>
+ </weblink> (1995) "Apparatus and method for achieving reduced overhead mutual exclusion and maintaining coherency in a multiprocessor system utilizing execution history and thread monitoring"</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.cs.toronto.edu/~tomhart/perflab/ipdps06.tgz">
@@ -664,7 +664,7 @@ Linux Journal</link></web_site>
 </creation>
 </computer>
 </work>
-</it>.</cite>&nbsp;</entry>
+</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://lwn.net/Articles/202847/">

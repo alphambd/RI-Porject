@@ -98,10 +98,10 @@ degenerate</link>), and these orbitals are counted together for the purposes of 
 <p>
 
 An electron shell is the set of atomic orbitals which share the same <link xlink:type="simple" xlink:href="../481/532481.xml">
-principal quantum number</link>, <it>n</it> (the number before the letter in the orbital label): hence the 3s-orbital, the 3p-orbitals and the 3d-orbitals all form part of the third shell. An electron shell can accommodate 2<it>n</it>2 electrons, ie the first shell can accommodate 2&nbsp;electrons, the second shell 8&nbsp;electrons, the third shell 18&nbsp;electrons, etc.</p>
+principal quantum number</link>, <it>n</it> (the number before the letter in the orbital label): hence the 3s-orbital, the 3p-orbitals and the 3d-orbitals all form part of the third shell. An electron shell can accommodate 2<it>n</it>2 electrons, ie the first shell can accommodate 2 electrons, the second shell 8 electrons, the third shell 18 electrons, etc.</p>
 <p>
 
-A subshell is the set of orbitals which have the same orbital label (ie, the same values for <it>n</it> and <it>l</it>). Hence the three 2p-orbitals form a subshell, which can accommodate six electrons, as do the three 4p-orbitals or the five 3d-orbitals. The number of electrons which can be placed in a subshell is given by 2(2<it>l</it>+1): that is two electrons in an "s"&nbsp;subshell, six electrons in a "p"&nbsp;subshell, ten electrons in a "d"&nbsp;subshell and fourteen electrons in an "f"&nbsp;subshell.</p>
+A subshell is the set of orbitals which have the same orbital label (ie, the same values for <it>n</it> and <it>l</it>). Hence the three 2p-orbitals form a subshell, which can accommodate six electrons, as do the three 4p-orbitals or the five 3d-orbitals. The number of electrons which can be placed in a subshell is given by 2(2<it>l</it>+1): that is two electrons in an "s" subshell, six electrons in a "p" subshell, ten electrons in a "d" subshell and fourteen electrons in an "f" subshell.</p>
 <p>
 
 The numbers of electrons that can occupy each shell and each subshell arise from the equations of quantum mechanics,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> in particular the Pauli exclusion principle, which states that no two electrons in the same atom can have the same values of the four <link xlink:type="simple" xlink:href="../405/532405.xml">
@@ -121,25 +121,25 @@ Atomic orbital</link></it>
 </indent>
 Physicists and chemists use a standard notation to describe the electron configurations of atoms and molecules. For atoms, the notation consists of a string of atomic orbital labels (eg, 1s, 3d, 4f) with the number of electrons assigned to each orbital (or set of orbitals sharing the same label) placed as a superscript. For example, <link xlink:type="simple" xlink:href="../255/13255.xml">
 hydrogen</link> has one electron in the s-orbital of the first shell, so its configuration is written 1s1. <link xlink:type="simple" xlink:href="../561/17561.xml">
-Lithium</link> has two electrons in the 1s-subshell and one in the (higher-energy) 2s-subshell, so its configuration is written 1s2&nbsp;2s1 (pronounced "one-ess-two, two-ess-one").  <link xlink:type="simple" xlink:href="../318/23318.xml">
+Lithium</link> has two electrons in the 1s-subshell and one in the (higher-energy) 2s-subshell, so its configuration is written 1s2 2s1 (pronounced "one-ess-two, two-ess-one").  <link xlink:type="simple" xlink:href="../318/23318.xml">
 Phosphorus</link> (<link xlink:type="simple" xlink:href="../673/673.xml">
-atomic number</link> 15), is as follows: 1s2&nbsp;2s2&nbsp;2p6&nbsp;3s2&nbsp;3p3.</p>
+atomic number</link> 15), is as follows: 1s2 2s2 2p6 3s2 3p3.</p>
 <p>
 
 For atoms with many electrons, this notation can become lengthy and so an abbreviated notation is used, noting that the first few subshells are identical to those of one or another of the <link xlink:type="simple" xlink:href="../140/21140.xml">
 noble gas</link>es.  Phosphorus, for instance, differs from <link xlink:type="simple" xlink:href="../273/21273.xml">
-neon</link> (1s2&nbsp;2s2&nbsp;2p6) only by the presence of a third shell.  Thus, the electron configuration of neon is pulled out, and phosphorus is written as follows: [Ne]&nbsp;3s2&nbsp;3p3. This convention is useful as it is the electrons in the outermost shell which most determine the chemistry of the element. </p>
+neon</link> (1s2 2s2 2p6) only by the presence of a third shell.  Thus, the electron configuration of neon is pulled out, and phosphorus is written as follows: [Ne] 3s2 3p3. This convention is useful as it is the electrons in the outermost shell which most determine the chemistry of the element. </p>
 <p>
 
 The order of writing the orbitals is not completely fixed: some sources group all orbitals with the same value of <it>n</it> together, while other sources (as here) follow the order given by <link xlink:type="simple" xlink:href="../211/67211.xml#xpointer(//*[./st=%22Aufbau+principle%22])">
-Madelung's rule</link>. Hence the electron configuration of iron can be written as [Ar]&nbsp;3d6&nbsp;4s2 (keeping the 3d-electrons with the 3s- and 3p-electrons which are implied by the configuration of argon) or as [Ar]&nbsp;4s2&nbsp;3d6 (following the Aufbau principle, see below).</p>
+Madelung's rule</link>. Hence the electron configuration of iron can be written as [Ar] 3d6 4s2 (keeping the 3d-electrons with the 3s- and 3p-electrons which are implied by the configuration of argon) or as [Ar] 4s2 3d6 (following the Aufbau principle, see below).</p>
 <p>
 
 The superscript 1 for a singly-occupied orbital is not compulsory.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> It is quite common to see the letters of the orbital labels (s, p, d, f) written in an italic or slanting typeface, although the <link xlink:type="simple" xlink:href="../870/14870.xml">
 International Union of Pure and Applied Chemistry</link> (IUPAC) recommends a normal typeface (as used here). The choice of letters originates from a now-obsolete system of categorizing <link xlink:type="simple" xlink:href="../320/177320.xml">
 spectral lines</link> as "sharp", "principal", "diffuse" and "fine", based on their observed <link xlink:type="simple" xlink:href="../202/610202.xml">
 fine structure</link>: their modern usage indicates orbitals with an . <link xlink:type="simple" xlink:href="../573/532573.xml">
-azimuthal quantum number</link>, <it>l</it>, of 0, 1, 2 or 3 respectively. After "f", the sequence continues alphabetically "g", "h", "i"… (<it>l</it>&nbsp;= 4, 5, 6…), although orbitals of these types are rarely required.</p>
+azimuthal quantum number</link>, <it>l</it>, of 0, 1, 2 or 3 respectively. After "f", the sequence continues alphabetically "g", "h", "i"… (<it>l</it> = 4, 5, 6…), although orbitals of these types are rarely required.</p>
 <p>
 
 The electron configurations of molecules are written in a similar way, except that <link xlink:type="simple" xlink:href="../614/19614.xml">
@@ -163,7 +163,7 @@ periodicity</link> in the properties of the elements might be explained by the e
 Bohr model</link></concept>
 </idea>
  of the atom, in which the electron shells were orbits at a fixed distance from the nucleus. Bohr's original configuration's would seem strange to a present-day chemist: <link xlink:type="simple" xlink:href="../127/27127.xml">
-sulfur</link> was given as 2.4.4.6 instead of 1s2&nbsp;2s2&nbsp;2p6&nbsp;3s2&nbsp;3p4.</p>
+sulfur</link> was given as 2.4.4.6 instead of 1s2 2s2 2p6 3s2 3p4.</p>
 <p>
 
 The following year, <physical_entity wordnetid="100001930" confidence="0.8">
@@ -176,7 +176,7 @@ The following year, <physical_entity wordnetid="100001930" confidence="0.8">
 <professional wordnetid="110480253" confidence="0.8">
 <educator wordnetid="110045713" confidence="0.8">
 <link xlink:type="simple" xlink:href="../013/7692013.xml">
-E.&nbsp;C.&nbsp;Stoner</link></educator>
+E. C. Stoner</link></educator>
 </professional>
 </adult>
 </scientist>
@@ -247,7 +247,7 @@ German</link></language>
 The approximate order of filling of atomic orbitals, following the arrows.
 </caption>
 </image>
-The principle works very well (for the ground states of the atoms) for the first 18&nbsp;elements, then increasingly less well for the following 100&nbsp;elements. The modern form of the Aufbau principle describes an order of orbital energies given by Madelung's rule, first stated by <physical_entity wordnetid="100001930" confidence="0.8">
+The principle works very well (for the ground states of the atoms) for the first 18 elements, then increasingly less well for the following 100 elements. The modern form of the Aufbau principle describes an order of orbital energies given by Madelung's rule, first stated by <physical_entity wordnetid="100001930" confidence="0.8">
 <physicist wordnetid="110428004" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -288,7 +288,7 @@ The periodic table</st>
 
 The form of the <link xlink:type="simple" xlink:href="../053/23053.xml">
 periodic table</link> is closely related to the electron configuration of the atoms of the elements. For example, all the elements of <link xlink:type="simple" xlink:href="../282/161282.xml">
-group 2</link> have an electron configuration of [E]&nbsp;<it>n</it>s2 (where [E] is an inert gas configuration), and have notable similarities in their chemical properties. The outermost electron shell is often referred to as the "valence shell" and (to a first approximation) determines the chemical properties. It should be remembered that the similarities in the chemical properties were remarked more than a century before the idea of electron configuration,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref> It is not clear how far Madelung's rule <it>explains</it> (rather than simply describes) the periodic table,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref> although some properties (such as the common +2 <link xlink:type="simple" xlink:href="../452/38452.xml">
+group 2</link> have an electron configuration of [E] <it>n</it>s2 (where [E] is an inert gas configuration), and have notable similarities in their chemical properties. The outermost electron shell is often referred to as the "valence shell" and (to a first approximation) determines the chemical properties. It should be remembered that the similarities in the chemical properties were remarked more than a century before the idea of electron configuration,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref> It is not clear how far Madelung's rule <it>explains</it> (rather than simply describes) the periodic table,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref> although some properties (such as the common +2 <link xlink:type="simple" xlink:href="../452/38452.xml">
 oxidation state</link> in the first row of the transition metals) would obviously be different with a different order of orbital filling.</p>
 
 </ss1>
@@ -316,15 +316,15 @@ The naive application of the Aufbau principle leads to a well-known <link xlink:
 paradox</link> (or apparent paradox) in the basic chemistry of the <link xlink:type="simple" xlink:href="../364/30364.xml">
 transition metal</link>s. <link xlink:type="simple" xlink:href="../055/23055.xml">
 Potassium</link> and <link xlink:type="simple" xlink:href="../668/5668.xml">
-calcium</link> appear in the periodic table before the transition metals, and have electron configurations [Ar]&nbsp;4s1 and [Ar]&nbsp;4s2 respectively, ie the 4s-orbital is filled before the 3d-orbital. This is in line with Madelung's rule, as the 4s-orbital has <it>n</it>+<it>l</it>&nbsp; = 4 (<it>n</it>&nbsp;= 4, <it>l</it>&nbsp;= 0) while the 3d-orbital has <it>n</it>+<it>l</it>&nbsp; = 5 (<it>n</it>&nbsp;= 3, <it>l</it>&nbsp;= 2). However, <link xlink:type="simple" xlink:href="../669/5669.xml">
+calcium</link> appear in the periodic table before the transition metals, and have electron configurations [Ar] 4s1 and [Ar] 4s2 respectively, ie the 4s-orbital is filled before the 3d-orbital. This is in line with Madelung's rule, as the 4s-orbital has <it>n</it>+<it>l</it>  = 4 (<it>n</it> = 4, <it>l</it> = 0) while the 3d-orbital has <it>n</it>+<it>l</it>  = 5 (<it>n</it> = 3, <it>l</it> = 2). However, <link xlink:type="simple" xlink:href="../669/5669.xml">
 chromium</link> and <link xlink:type="simple" xlink:href="../293/125293.xml">
-copper</link> have electron configurations [Ar]&nbsp;3d5&nbsp;4s1 and [Ar]&nbsp;3d10&nbsp;4s1 respectively, ie one electron has passed from the 4s-orbital to a 3d-orbital to generate a half-filled or filled subshell. In this case, the usual explanation is that "half-filled or completely-filled subshells are particularly stable arrangements of electrons".</p>
+copper</link> have electron configurations [Ar] 3d5 4s1 and [Ar] 3d10 4s1 respectively, ie one electron has passed from the 4s-orbital to a 3d-orbital to generate a half-filled or filled subshell. In this case, the usual explanation is that "half-filled or completely-filled subshells are particularly stable arrangements of electrons".</p>
 <p>
 
 The apparent paradox arises when electrons are <it>removed</it> from the transition metal atoms to form <link xlink:type="simple" xlink:href="../787/18963787.xml">
 ion</link>s. The first electrons to be ionized come not from the 3d-orbital, as one would expect if it were "higher in energy", but from the 4s-orbital. The same is true when chemical compounds are formed. <link xlink:type="simple" xlink:href="../127/2483127.xml">
 Chromium hexacarbonyl</link> can be described as a chromium atom (not ion, it is in the <link xlink:type="simple" xlink:href="../452/38452.xml">
-oxidation state</link>&nbsp;0) surrounded by six <link xlink:type="simple" xlink:href="../136/6136.xml">
+oxidation state</link> 0) surrounded by six <link xlink:type="simple" xlink:href="../136/6136.xml">
 carbon monoxide</link> <link xlink:type="simple" xlink:href="../589/18589.xml">
 ligand</link>s: it is <link xlink:type="simple" xlink:href="../315/8315.xml">
 diamagnetic</link>, and the electron configuration of the central chromium atom is described as 3d6, ie the electron which was in the 4s-orbital in the free atom has passed into a 3d-orbital on forming the compound. This interchange of electrons between 4s and 3d is universal among the first series of the transition metals.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2214%22])">14</ref></p>
@@ -349,11 +349,11 @@ speed of light</link>. In general, these relativistic effects<ref xlink:type="si
 <col colspan="3" align="center">
 <b>Period 5</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3" align="center">
 <b>Period 6</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3" align="center">
 <b>Period 7</b></col>
 </row>
@@ -365,7 +365,7 @@ speed of light</link>. In general, these relativistic effects<ref xlink:type="si
 <col>
 <b>Electron Configuration</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <b>Element</b></col>
 <col>
@@ -373,7 +373,7 @@ speed of light</link>. In general, these relativistic effects<ref xlink:type="si
 <col>
 <b>Electron Configuration</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <b>Element</b></col>
 <col>
@@ -391,7 +391,7 @@ Yttrium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s2 4d1</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../744/17744.xml">
 Lanthanum</link></col>
@@ -401,7 +401,7 @@ Lanthanum</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 5d1</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../899/899.xml">
 Actinium</link></col>
@@ -413,9 +413,9 @@ Rn</link>&#93; 7s2 6d1</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../674/5674.xml">
 Cerium</link></col>
@@ -425,7 +425,7 @@ Cerium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f1 5d1</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../044/30044.xml">
 Thorium</link></col>
@@ -437,9 +437,9 @@ Rn</link>&#93; 7s2 6d2</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../720/251720.xml">
 Praseodymium</link></col>
@@ -449,7 +449,7 @@ Praseodymium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f3</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../322/23322.xml">
 Protactinium</link></col>
@@ -461,9 +461,9 @@ Rn</link>&#93; 7s2 5f2 6d1</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../276/21276.xml">
 Neodymium</link></col>
@@ -473,7 +473,7 @@ Neodymium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f4</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../743/31743.xml">
 Uranium</link></col>
@@ -485,9 +485,9 @@ Rn</link>&#93; 7s2 5f3 6d1</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../321/23321.xml">
 Promethium</link></col>
@@ -497,7 +497,7 @@ Promethium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f5</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../277/21277.xml">
 Neptunium</link></col>
@@ -509,9 +509,9 @@ Rn</link>&#93; 7s2 5f4 6d1</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../121/27121.xml">
 Samarium</link></col>
@@ -521,7 +521,7 @@ Samarium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f6</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../684/7987684.xml">
 Plutonium</link></col>
@@ -533,9 +533,9 @@ Rn</link>&#93; 7s2 5f6</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../477/9477.xml">
 Europium</link></col>
@@ -545,7 +545,7 @@ Europium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f7</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../900/900.xml">
 Americium</link></col>
@@ -557,9 +557,9 @@ Rn</link>&#93; 7s2 5f7</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../243/12243.xml">
 Gadolinium</link></col>
@@ -569,7 +569,7 @@ Gadolinium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f7 5d1</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../675/5675.xml">
 Curium</link></col>
@@ -581,9 +581,9 @@ Rn</link>&#93; 7s2 5f7 6d1</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../045/30045.xml">
 Terbium</link></col>
@@ -593,7 +593,7 @@ Terbium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f9</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../758/3758.xml">
 Berkelium</link></col>
@@ -605,15 +605,15 @@ Rn</link>&#93; 7s2 5f9</col>
 </row>
 <row>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -625,7 +625,7 @@ Zirconium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s2 4d2</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../466/13466.xml">
 Hafnium</link></col>
@@ -635,9 +635,9 @@ Hafnium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f14 5d2</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -649,7 +649,7 @@ Niobium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s1 4d4</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../048/30048.xml">
 Tantalium</link></col>
@@ -659,9 +659,9 @@ Tantalium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f14 5d3</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -673,7 +673,7 @@ Molybdenum</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s1 4d5</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../046/30046.xml">
 Tungsten</link></col>
@@ -683,9 +683,9 @@ Tungsten</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f14 5d4</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -697,7 +697,7 @@ Technetium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s2 4d5</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../603/25603.xml">
 Rhenium</link></col>
@@ -707,9 +707,9 @@ Rhenium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f14 5d5</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -721,7 +721,7 @@ Ruthenium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s1 4d7</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../304/22304.xml">
 Osmium</link></col>
@@ -731,9 +731,9 @@ Osmium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f14 5d6</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -745,7 +745,7 @@ Rhodium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s1 4d8</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../752/14752.xml">
 Iridium</link></col>
@@ -755,9 +755,9 @@ Iridium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f14 5d7</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -769,7 +769,7 @@ Palladium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 4d10</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../324/23324.xml">
 Platinum</link></col>
@@ -779,9 +779,9 @@ Platinum</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s1 4f14 5d9</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -793,7 +793,7 @@ Silver</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s1 4d10</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../240/12240.xml">
 Gold</link></col>
@@ -803,9 +803,9 @@ Gold</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s1 4f14 5d10</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -817,7 +817,7 @@ Cadmium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s2 4d10</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <mercury wordnetid="114645346" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../142/18617142.xml">
@@ -829,9 +829,9 @@ Mercury</link></mercury>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f14 5d10</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -843,7 +843,7 @@ Indium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../594/10624594.xml">
 Kr</link>&#93; 5s2 4d10 5p1</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
  <link xlink:type="simple" xlink:href="../309/30309.xml">
 Thallium</link></col>
@@ -853,9 +853,9 @@ Thallium</link></col>
  &#91;<link xlink:type="simple" xlink:href="../139/34139.xml">
 Xe</link>&#93; 6s2 4f14 5d10 6p1</col>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3">
-&nbsp;</col>
+ </col>
 </row>
 </table>
 </p>
@@ -894,7 +894,7 @@ molecule</link>s, the situation becomes more complex, as each molecule has a dif
 molecular orbital</link>s are labelled according to their <link xlink:type="simple" xlink:href="../798/10986798.xml">
 symmetry</link>,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2219%22])">19</ref> rather than the <link xlink:type="simple" xlink:href="../206/1206.xml">
 atomic orbital</link> labels used for atoms and monoatomic ions: hence, the electron configuration of the <link xlink:type="simple" xlink:href="../303/22303.xml">
-dioxygen</link> molecule, O2, is 1σg2&nbsp;1σu2&nbsp;2σg2&nbsp;2σu2&nbsp;1πu4&nbsp;3σg2&nbsp;1πg2.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> The term 1πg2 represents the two electrons in the two degenerate π*-orbitals (antibonding). From <link xlink:type="simple" xlink:href="../086/1682086.xml">
+dioxygen</link> molecule, O2, is 1σg2 1σu2 2σg2 2σu2 1πu4 3σg2 1πg2.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> The term 1πg2 represents the two electrons in the two degenerate π*-orbitals (antibonding). From <link xlink:type="simple" xlink:href="../086/1682086.xml">
 Hund's rules</link>, these electrons have parallel spins in the <link xlink:type="simple" xlink:href="../033/4930033.xml">
 ground state</link>, and so dioxygen has a net <link xlink:type="simple" xlink:href="../979/540979.xml">
 magnetic moment</link> (it is <link xlink:type="simple" xlink:href="../750/23750.xml">
@@ -963,7 +963,7 @@ Periodic Table Group</link></entry>
 <list>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Jolly-1991" style="font-style:normal" class="book">Jolly, William L.&#32;(1991). Modern Inorganic Chemistry, 2nd&nbsp;Edition,&#32;New York:&#32;McGraw-Hill,&#32;pp:&nbsp;1–23. ISBN 0-07-112651-1.</cite>&nbsp;</entry>
+ <cite id="Reference-Jolly-1991" style="font-style:normal" class="book">Jolly, William L.&#32;(1991). Modern Inorganic Chemistry, 2nd Edition,&#32;New York:&#32;McGraw-Hill,&#32;pp: 1–23. ISBN 0-07-112651-1.</cite> </entry>
 </list>
 
 <reflist>
@@ -1016,7 +1016,7 @@ The full form of the configuration notation is a mathematical product, so 3p3 in
 Bohr, Niels</link></scientist>
 </person>
 &#32;(1923).&#32;"Über die Anwendung der Quantumtheorie auf den Atombau. I.". <it><link>
-Z. Phys.</link></it>&#32;<b>13</b>.</cite>&nbsp;</entry>
+Z. Phys.</link></it>&#32;<b>13</b>.</cite> </entry>
 <entry id="6">
  <cite style="font-style:normal"><physical_entity wordnetid="100001930" confidence="0.8">
 <physicist wordnetid="110428004" confidence="0.8">
@@ -1050,7 +1050,7 @@ Phil. Mag. (6th Ser.)</link></publication>
 </creation>
 </product>
 </work>
-</it>&#32;<b>48</b>: 719–36.</cite>&nbsp;</entry>
+</it>&#32;<b>48</b>: 719–36.</cite> </entry>
 <entry id="7">
  <cite style="font-style:normal"><person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -1058,8 +1058,8 @@ Phil. Mag. (6th Ser.)</link></publication>
 Pauli, Wolfgang</link></scientist>
 </person>
 &#32;(1925).&#32;"Über den Einfluss der Geschwindigkeitsabhändigkeit der elektronmasse auf den Zeemaneffekt". <it><link>
-Z. Phys.</link></it>&#32;<b>31</b>: 373.</cite>&nbsp; English translation from  <cite style="font-style:normal">Scerri, Eric R.&#32;(1991).&#32;"<weblink xlink:type="simple" xlink:href="http://www.chem.ucla.edu/dept/Faculty/scerri/pdf/BJPS.pdf">
-The Electron Configuration Model, Quantum Mechanics and Reduction</weblink>". <it>Br. J. Phil. Sci.</it>&#32;<b>42</b>&#32;(3): 309–25.</cite>&nbsp;</entry>
+Z. Phys.</link></it>&#32;<b>31</b>: 373.</cite>  English translation from  <cite style="font-style:normal">Scerri, Eric R.&#32;(1991).&#32;"<weblink xlink:type="simple" xlink:href="http://www.chem.ucla.edu/dept/Faculty/scerri/pdf/BJPS.pdf">
+The Electron Configuration Model, Quantum Mechanics and Reduction</weblink>". <it>Br. J. Phil. Sci.</it>&#32;<b>42</b>&#32;(3): 309–25.</cite> </entry>
 <entry id="8">
  <cite id="Reference-Madelung-1936" style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
 <physicist wordnetid="110428004" confidence="0.8">
@@ -1072,7 +1072,7 @@ Madelung, Erwin</link></scientist>
 </person>
 </physicist>
 </physical_entity>
-&#32;(1936). Mathematische Hilfsmittel des Physikers.&#32;Berlin:&#32;Springer.</cite>&nbsp;</entry>
+&#32;(1936). Mathematische Hilfsmittel des Physikers.&#32;Berlin:&#32;Springer.</cite> </entry>
 <entry id="9">
 <link xlink:type="simple" xlink:href="../870/14870.xml">
 International Union of Pure and Applied Chemistry</link>. "<weblink xlink:type="simple" xlink:href="http://goldbook.iupac.org/AT06996.html">
@@ -1104,7 +1104,7 @@ Johann Wolfgang Döbereiner</link> in 1817.</entry>
 How Good Is the Quantum Mechanical Explanation of the Periodic System?</weblink>". <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/7518027.xml">
 J. Chem. Ed.</link></periodical>
-</it>&#32;<b>75</b>&#32;(11): 1384–85.</cite>&nbsp;  <cite style="font-style:normal">Ostrovsky, V.N.&#32;(2005).&#32;"<weblink xlink:type="simple" xlink:href="http://www.springerlink.com/content/p2rqg32684034736/fulltext.pdf">
+</it>&#32;<b>75</b>&#32;(11): 1384–85.</cite>   <cite style="font-style:normal">Ostrovsky, V.N.&#32;(2005).&#32;"<weblink xlink:type="simple" xlink:href="http://www.springerlink.com/content/p2rqg32684034736/fulltext.pdf">
 On Recent Discussion Concerning Quantum Justification of the Periodic Table of the Elements</weblink>". <it>Foundations of Chemistry</it>&#32;<b>7</b>&#32;(3): 235–39. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
@@ -1113,12 +1113,12 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2Fs10698-005-2141-y">
-10.1007/s10698-005-2141-y</weblink>.</cite>&nbsp; <weblink xlink:type="simple" xlink:href="http://www.springerlink.com/content/p2rqg32684034736/fulltext.pdf?page=1">
+10.1007/s10698-005-2141-y</weblink>.</cite>  <weblink xlink:type="simple" xlink:href="http://www.springerlink.com/content/p2rqg32684034736/fulltext.pdf?page=1">
 Abstract</weblink>.</entry>
 <entry id="13">
 Electrons are <link xlink:type="simple" xlink:href="../352/15352.xml">
 identical particle</link>s, a fact which is sometimes referred to as "indistiguishability of electrons". A one-electron solution to a many-electron system would imply that the electrons could be distinguished from one another, and there is strong experimental evidence that they can't be. The exact solution of a many-electron system is a <link xlink:type="simple" xlink:href="../187/102187.xml">
-<it>n</it>-body problem</link> with <it>n</it>&nbsp;≥ 3 (the nucleus counts as one of the "bodies"): such problems have evaded <link xlink:type="simple" xlink:href="../396/48396.xml">
+<it>n</it>-body problem</link> with <it>n</it> ≥ 3 (the nucleus counts as one of the "bodies"): such problems have evaded <link xlink:type="simple" xlink:href="../396/48396.xml">
 analytical solution</link> since at least the time of <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../902/17902.xml">
@@ -1132,7 +1132,7 @@ There are some cases in the second and third series where the electron remains i
 Why the 4s Orbital is Occupied before the 3d</weblink>". <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/7518027.xml">
 J. Chem. Ed.</link></periodical>
-</it>&#32;<b>73</b>&#32;(6): 498–503.</cite>&nbsp; <weblink xlink:type="simple" xlink:href="http://adsabs.harvard.edu/abs/1996JChEd..73..498M">
+</it>&#32;<b>73</b>&#32;(6): 498–503.</cite>  <weblink xlink:type="simple" xlink:href="http://adsabs.harvard.edu/abs/1996JChEd..73..498M">
 Abstract</weblink>.</entry>
 <entry id="17">
 <link xlink:type="simple" xlink:href="../870/14870.xml">
@@ -1164,7 +1164,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0009-2614%2802%2900919-3">
-10.1016/S0009-2614(02)00919-3</weblink>.</cite>&nbsp;</entry>
+10.1016/S0009-2614(02)00919-3</weblink>.</cite> </entry>
 <entry id="19">
 The labels are written in lowercase to indicate that the correspond to one-electron functions. They are numbered consecutively for each symmetry type (<link xlink:type="simple" xlink:href="../695/12695.xml">
 irreduceable representation</link> in the <link xlink:type="simple" xlink:href="../520/911520.xml">
@@ -1174,7 +1174,7 @@ point group</link> for the molecule), starting from the orbital of lowest energy
  <cite style="font-style:normal">Pyykkö, Pekka&#32;(1988).&#32;"Relativistic effects in structural chemistry". <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../535/3199535.xml">
 Chem. Rev.</link></periodical>
-</it>&#32;<b>88</b>: 563–94.</cite>&nbsp;</entry>
+</it>&#32;<b>88</b>: 563–94.</cite> </entry>
 </reflist>
 </p>
 

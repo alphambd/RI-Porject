@@ -203,12 +203,12 @@ English</link></language>
 Flag of São Paulo (state)
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../379/229379.xml">
+ <link xlink:type="simple" xlink:href="../379/229379.xml">
 State of</link> <link>
 São Paulo</link>, <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/3383.xml">
 Brazil</link></country>
-&nbsp;<image width="22x20px" src="Flag_of_Brazil.svg">
+ <image width="22x20px" src="Flag_of_Brazil.svg">
 <caption>
 
 Flag of Brazil
@@ -227,7 +227,7 @@ Flag of Brazil
 Government</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link>
-Governors</link>&nbsp;·  <link>
+Governors</link> ·  <link>
 Senators</link></col>
 </row>
 <row style="height:2px">
@@ -271,7 +271,7 @@ Sports</col>
 Auto racing</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.15em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-even">
 <link>
-Autódromo José Carlos Pace</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Autódromo José Carlos Pace</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <driver wordnetid="110034906" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <operator wordnetid="110378412" confidence="0.8">
@@ -291,18 +291,18 @@ Ayrton Senna</link></operator>
 Football</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.15em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../036/1447036.xml">
-Campeonato Paulista de Futebol</link>&nbsp;·  <club wordnetid="108227214" confidence="0.9508927676800064">
+Campeonato Paulista de Futebol</link> ·  <club wordnetid="108227214" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../241/187241.xml">
 Corinthians</link></club>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <club wordnetid="108227214" confidence="0.8">
 <link xlink:type="simple" xlink:href="../243/187243.xml">
 Palmeiras</link></club>
 </association>
-&nbsp;·  <club wordnetid="108227214" confidence="0.9508927676800064">
+ ·  <club wordnetid="108227214" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../246/187246.xml">
 Santos</link></club>
-&nbsp;·  <link>
+ ·  <link>
 São Paulo</link></col>
 </row>
 </table>
@@ -319,7 +319,7 @@ São Paulo</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible expanded navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;background:#E3E3E3;" class="navbox-title">
-&nbsp;<link>
+ <link>
 Cities</link>by population</header>
 </row>
 <row style="height:2px;">
@@ -345,17 +345,17 @@ São Paulo</link></col>
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../514/63514.xml">
 Campinas</link></village>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../076/1035076.xml">
 Guarulhos</link></city>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../295/1071295.xml">
 Osasco</link></city>
-&nbsp;·  <link>
-Ribeirão Preto</link>&nbsp;·  <link>
-Santo André</link>&nbsp;·  <link>
-São Bernardo do Campo</link>&nbsp;·  <link>
-São José dos Campos</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Ribeirão Preto</link> ·  <link>
+Santo André</link> ·  <link>
+São Bernardo do Campo</link> ·  <link>
+São José dos Campos</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -384,12 +384,12 @@ Sorocaba</link></urban_area>
 <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../710/998710.xml">
 Barueri</link></city>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../756/998756.xml">
 Bauru</link></city>
-&nbsp;·  <link>
-Carapicuíba</link>&nbsp;·  <link>
-Diadema</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Carapicuíba</link> ·  <link>
+Diadema</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -406,42 +406,42 @@ Embu</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../101/1032101.xml">
 Franca</link></city>
-&nbsp;·  <link>
-Guarujá</link>&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <link>
+Guarujá</link> ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../575/1044575.xml">
 Itaquaquecetuba</link></city>
-&nbsp;·  <link>
-Jacareí</link>&nbsp;·  <link>
-Jundiaí</link>&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <link>
+Jacareí</link> ·  <link>
+Jundiaí</link> ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../809/433809.xml">
 Limeira</link></city>
-&nbsp;·  <link>
-Marília</link>&nbsp;·  <link>
-Mauá</link>&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <link>
+Marília</link> ·  <link>
+Mauá</link> ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../493/1020493.xml">
 Mogi das Cruzes</link></city>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../218/514218.xml">
 Piracicaba</link></city>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../222/1133222.xml">
 Praia Grande</link></city>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../302/1136302.xml">
 Presidente Prudente</link></city>
-&nbsp;·  <link>
-Santos</link>&nbsp;·  <link>
-São Carlos</link>&nbsp;·  <link>
-São José do Rio Preto</link>&nbsp;·  <link>
-São Vicente</link>&nbsp;·  <link>
-Sumaré</link>&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <link>
+Santos</link> ·  <link>
+São Carlos</link> ·  <link>
+São José do Rio Preto</link> ·  <link>
+São Vicente</link> ·  <link>
+Sumaré</link> ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../159/5853159.xml">
 Suzano</link></city>
-&nbsp;·  <link>
-Taboão da Serra</link>&nbsp;·  <link>
+ ·  <link>
+Taboão da Serra</link> ·  <link>
 Taubaté</link></col>
 </row>
 <row style="height:2px">
@@ -452,8 +452,8 @@ Taubaté</link></col>
 100,000+</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-even">
 <link>
-Americana</link>&nbsp;·  <link>
-Araçatuba</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+Americana</link> ·  <link>
+Araçatuba</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -474,7 +474,7 @@ Araraquara</link></urban_area>
 </village>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -491,10 +491,10 @@ Araras</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../600/607600.xml">
 Atibaia</link></city>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -511,8 +511,8 @@ Barretos</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Birigüi</link> &nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Birigüi</link>  ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -529,8 +529,8 @@ Botucatu</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Bragança Paulista</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Bragança Paulista</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -547,14 +547,14 @@ Catanduva</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../135/1002135.xml">
 Cotia</link></city>
-&nbsp;·  <link>
-Cubatão</link>&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <link>
+Cubatão</link> ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../076/1032076.xml">
 Ferraz de Vasconcelos</link></city>
- &nbsp;·  <region wordnetid="108630985" confidence="0.8">
+  ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -571,12 +571,12 @@ Francisco Morato</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../114/1032114.xml">
 Franco da Rocha</link></city>
-&nbsp;·  <link>
-Guaratinguetá</link>&nbsp;·  <link>
-Hortolândia</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Guaratinguetá</link> ·  <link>
+Hortolândia</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -593,7 +593,7 @@ Indaiatuba</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -610,13 +610,13 @@ Itapecerica da Serra</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../506/1044506.xml">
 Itapetininga</link></village>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../537/1044537.xml">
 Itapevi</link></city>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -637,12 +637,12 @@ Itu</link></urban_area>
 </village>
 </administrative_district>
 </region>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/1048383.xml">
 Jandira</link></city>
-&nbsp;·  <link>
-Jaú</link>&nbsp;·  <link>
-Mogi Guaçu</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Jaú</link> ·  <link>
+Mogi Guaçu</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -659,16 +659,16 @@ Pindamonhangaba</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Poá</link>&nbsp;·  <link>
-Ribeirão Pires</link>&nbsp;·  <link>
-Rio Claro</link>&nbsp;·  <link>
-Salto</link>&nbsp;·  <link>
-Santa Bárbara d'Oeste</link>&nbsp;·  <link>
-Santana de Parnaíba</link>&nbsp;·  <link>
-São Caetano do Sul</link>&nbsp;·  <link>
-Sertãozinho</link>&nbsp;·  <link>
-Tatuí</link>&nbsp;·  <link>
+ ·  <link>
+Poá</link> ·  <link>
+Ribeirão Pires</link> ·  <link>
+Rio Claro</link> ·  <link>
+Salto</link> ·  <link>
+Santa Bárbara d'Oeste</link> ·  <link>
+Santana de Parnaíba</link> ·  <link>
+São Caetano do Sul</link> ·  <link>
+Sertãozinho</link> ·  <link>
+Tatuí</link> ·  <link>
 Várzea Paulista</link></col>
 </row>
 </table>
@@ -685,7 +685,7 @@ Várzea Paulista</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible expanded navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;background:#E3E3E3;" class="navbox-title">
-&nbsp;<link>
+ <link>
 Mesoregion</link></header>
 </row>
 <row style="height:2px;">
@@ -722,7 +722,7 @@ Araras</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -739,9 +739,9 @@ Conchal</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Cordeirópolis</link>&nbsp;·  <link>
-Iracemápolis</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Cordeirópolis</link> ·  <link>
+Iracemápolis</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -758,11 +758,11 @@ Leme</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../809/433809.xml">
 Limeira</link></city>
-&nbsp;·  <link>
-Santa Cruz da Conceição</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Santa Cruz da Conceição</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -789,7 +789,7 @@ Santa Gertrudes</link></urban_area>
 Piracicaba</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link>
-Águas de São Pedro</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+Águas de São Pedro</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -806,7 +806,7 @@ Capivari</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -823,7 +823,7 @@ Charqueada</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -840,7 +840,7 @@ Jumirim</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -857,10 +857,10 @@ Mombuca</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../218/514218.xml">
 Piracicaba</link></city>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -877,7 +877,7 @@ Rafard</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -894,8 +894,8 @@ Rio das Pedras</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Saltinho</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Saltinho</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -912,8 +912,8 @@ Santa Maria da Serra</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-São Pedro</link>&nbsp;·  <link>
+ ·  <link>
+São Pedro</link> ·  <link>
 Tietê</link></col>
 </row>
 <row style="height:2px">
@@ -940,9 +940,9 @@ Brotas</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Corumbataí</link>&nbsp;·  <link>
-Ipeúna</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Corumbataí</link> ·  <link>
+Ipeúna</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -959,8 +959,8 @@ Itirapina</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Rio Claro</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Rio Claro</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1000,30 +1000,30 @@ Southeast Region, Brazil</link></region>
 border 
 </caption>
 </image>
-&nbsp;<link>
-Espírito Santo</link>&nbsp;·  <image width="22x20px" src="Bandeira_de_Minas_Gerais.svg">
+ <link>
+Espírito Santo</link> ·  <image width="22x20px" src="Bandeira_de_Minas_Gerais.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../651/222651.xml">
 Minas Gerais</link></country>
-&nbsp;·  <image width="22x20px" src="Bandeira_do_Estado_de_São_Paulo.svg">
+ ·  <image width="22x20px" src="Bandeira_do_Estado_de_São_Paulo.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<link>
-São Paulo</link>&nbsp;·  <image width="22x20px" src="Bandeira_Estado_RiodeJaneiro_Brasil2.svg">
+ <link>
+São Paulo</link> ·  <image width="22x20px" src="Bandeira_Estado_RiodeJaneiro_Brasil2.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../419/229419.xml">
 Rio de Janeiro</link></country>
 </col>

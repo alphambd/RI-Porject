@@ -58,7 +58,7 @@ style="background: #F8EABA; text-align: center;" colspan="2"</header>
 style="background: #F8EABA; text-align: center;" colspan="2"</header>
 <col colspan="2" style="width: 30%; background: #F8EABA; text-align: center;">
  Except where noted otherwise, data are given for materials in their <link xlink:type="simple" xlink:href="../224/240224.xml">
-standard state(at 25&nbsp;°C, 100&nbsp;kPa)</link></col>
+standard state(at 25 °C, 100 kPa)</link></col>
 </row>
 </table>
 <p>
@@ -253,7 +253,7 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal" class="book">Horton, Derek;&#32;Wander, J.D.&#32;(1980). The Carbohydrates Vol IB.&#32;New York:&#32;Academic Press,&#32;727-728. ISBN 042-556351-5.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Horton, Derek;&#32;Wander, J.D.&#32;(1980). The Carbohydrates Vol IB.&#32;New York:&#32;Academic Press,&#32;727-728. ISBN 042-556351-5.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Roseman S.&#32;(2001).&#32;"Reflections on glycobiology"&#32;(free full text). <it><link xlink:type="simple" xlink:href="../742/4964742.xml">
 J. Biol. Chem.</link></it>&#32;<b>276</b>&#32;(45): 41527–42. <document wordnetid="106470073" confidence="0.8">
@@ -264,11 +264,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fjbc.R100053200">
-10.1074/jbc.R100053200</weblink>. PMID 11553646.</cite>&nbsp;</entry>
+10.1074/jbc.R100053200</weblink>. PMID 11553646.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Ghosh S, Blumenthal HJ, Davidson E, Roseman S.&#32;(1960).&#32;"<weblink xlink:type="simple" xlink:href="http://www.jbc.org/cgi/reprint/235/5/1265">
 Glucosamine metabolism. V. Enzymatic synthesis of glucosamine 6-phosphate</weblink>". <it><link xlink:type="simple" xlink:href="../742/4964742.xml">
-J. Biol. Chem.</link></it>. PMID 13827775.</cite>&nbsp;</entry>
+J. Biol. Chem.</link></it>. PMID 13827775.</cite> </entry>
 <entry id="4">
  <weblink xlink:type="simple" xlink:href="http://www.chem.qmul.ac.uk/iubmb/enzyme/reaction/polysacc/UDPGlcN.html">
 International Union of Biochemistry and Molecular Biology</weblink></entry>
@@ -282,7 +282,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1152%2Fajpendo.00329.2005">
-10.1152/ajpendo.00329.2005</weblink>. PMID 16339923.</cite>&nbsp;</entry>
+10.1152/ajpendo.00329.2005</weblink>. PMID 16339923.</cite> </entry>
 <entry id="6">
 Laverty S, Sandy JD, Celeste C, Vachon P, Marier JF, Plaas AH. "Synovial fluid levels and serum pharmacokinetics in a large animal model following treatment with oral glucosamine at clinically relevant doses," <it>Arthritis Rheum</it>, 2005 Jan; 52(1):181-91. PMID 15641100.</entry>
 <entry id="7">
@@ -376,7 +376,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2Fart.22728">
-10.1002/art.22728</weblink>. PMID 17599746.</cite>&nbsp;</entry>
+10.1002/art.22728</weblink>. PMID 17599746.</cite> </entry>
 <entry id="47">
 Reginster J.Y. The efficacy of glucosamine sulfate in osteoarthritis: financial and nonfinancial conflict of interest. Arthritis &amp; Rheumatism, 2007; 56 (7): 2105-2110</entry>
 <entry id="44">
@@ -688,7 +688,7 @@ Pyrazolidine/Butylpyrazolidine</link></material>
 s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../472/5238472.xml">
-Ampyrone</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Ampyrone</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -699,10 +699,10 @@ Clofezone</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../992/13590992.xml">
-Kebuzone</link>&nbsp;·  <link xlink:type="simple" xlink:href="../884/2988884.xml">
-Metamizole</link>&nbsp;·  <link xlink:type="simple" xlink:href="../608/13574608.xml">
-Mofebutazone</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../992/13590992.xml">
+Kebuzone</link> ·  <link xlink:type="simple" xlink:href="../884/2988884.xml">
+Metamizole</link> ·  <link xlink:type="simple" xlink:href="../608/13574608.xml">
+Mofebutazone</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -713,8 +713,8 @@ Oxyphenbutazone</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../651/1956651.xml">
-Phenazone</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../651/1956651.xml">
+Phenazone</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <medicine wordnetid="103740161" confidence="0.8">
@@ -727,7 +727,7 @@ Phenylbutazone</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="109190918" confidence="0.8">
 <link xlink:type="simple" xlink:href="../985/6582985.xml">
@@ -763,9 +763,9 @@ Aceclofenac</link></aliphatic_compound>
 </methane_series>
 </compound>
 </substance>
-&nbsp;·  <link xlink:type="simple" xlink:href="../911/13590911.xml">
-Acemetacin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../950/13590950.xml">
-Alclofenac</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../911/13590911.xml">
+Acemetacin</link> ·  <link xlink:type="simple" xlink:href="../950/13590950.xml">
+Alclofenac</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -776,8 +776,8 @@ Bromfenac</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../940/13590940.xml">
-Bumadizone</link>&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../940/13590940.xml">
+Bumadizone</link> ·  <substance wordnetid="100019613" confidence="0.8">
 <compound wordnetid="114818238" confidence="0.8">
 <acid wordnetid="114607521" confidence="0.8">
 <chemical wordnetid="114806838" confidence="0.8">
@@ -790,9 +790,9 @@ Bufexamac</link></material>
 </acid>
 </compound>
 </substance>
-&nbsp;·  <link xlink:type="simple" xlink:href="../650/359650.xml">
-Diclofenac</link>&nbsp;·  <link xlink:type="simple" xlink:href="../830/13590830.xml">
-Difenpiramide</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../650/359650.xml">
+Diclofenac</link> ·  <link xlink:type="simple" xlink:href="../830/13590830.xml">
+Difenpiramide</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -803,9 +803,9 @@ Etodolac</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../518/13574518.xml">
-Fentiazac</link>&nbsp;·  <link xlink:type="simple" xlink:href="../744/1206744.xml">
-Indometacin</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../518/13574518.xml">
+Fentiazac</link> ·  <link xlink:type="simple" xlink:href="../744/1206744.xml">
+Indometacin</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -816,8 +816,8 @@ Ketorolac</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../926/13590926.xml">
-Lonazolac</link>&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../926/13590926.xml">
+Lonazolac</link> ·  <substance wordnetid="100019613" confidence="0.8">
 <compound wordnetid="114818238" confidence="0.8">
 <acid wordnetid="114607521" confidence="0.8">
 <chemical wordnetid="114806838" confidence="0.8">
@@ -830,7 +830,7 @@ Oxametacin</link></material>
 </acid>
 </compound>
 </substance>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -841,7 +841,7 @@ Proglumetacin</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -852,7 +852,7 @@ Sulindac</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -863,7 +863,7 @@ Tolmetin</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -905,7 +905,7 @@ Ampiroxicam</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -916,7 +916,7 @@ Droxicam</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -927,7 +927,7 @@ Lornoxicam</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -938,7 +938,7 @@ Meloxicam</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -949,7 +949,7 @@ Piroxicam</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -989,10 +989,10 @@ Alminoprofen</link></aliphatic_compound>
 </methane_series>
 </compound>
 </substance>
-&nbsp;·  <link xlink:type="simple" xlink:href="../720/13590720.xml">
-Benoxaprofen</link>&nbsp;·  <link xlink:type="simple" xlink:href="../686/13590686.xml">
-Dexibuprofen</link>&nbsp;·  <link xlink:type="simple" xlink:href="../567/13590567.xml">
-Dexketoprofen</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../720/13590720.xml">
+Benoxaprofen</link> ·  <link xlink:type="simple" xlink:href="../686/13590686.xml">
+Dexibuprofen</link> ·  <link xlink:type="simple" xlink:href="../567/13590567.xml">
+Dexketoprofen</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1003,9 +1003,9 @@ Fenbufen</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../733/13590733.xml">
-Fenoprofen</link>&nbsp;·  <link xlink:type="simple" xlink:href="../647/13590647.xml">
-Flunoxaprofen</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../733/13590733.xml">
+Fenoprofen</link> ·  <link xlink:type="simple" xlink:href="../647/13590647.xml">
+Flunoxaprofen</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1016,7 +1016,7 @@ Flurbiprofen</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <knowledge_domain wordnetid="105999266" confidence="0.8">
 <life_science wordnetid="106037298" confidence="0.8">
@@ -1041,7 +1041,7 @@ Ibuprofen</link></drug>
 </knowledge_domain>
 </substance>
 </physical_entity>
-&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+ ·  <substance wordnetid="100019613" confidence="0.8">
 <compound wordnetid="114818238" confidence="0.8">
 <acid wordnetid="114607521" confidence="0.8">
 <chemical wordnetid="114806838" confidence="0.8">
@@ -1054,7 +1054,7 @@ Ibuproxam</link></material>
 </acid>
 </compound>
 </substance>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1065,7 +1065,7 @@ Indoprofen</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <medicine wordnetid="103740161" confidence="0.8">
@@ -1078,7 +1078,7 @@ Ketoprofen</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <medicine wordnetid="103740161" confidence="0.8">
@@ -1091,7 +1091,7 @@ Naproxen</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1102,9 +1102,9 @@ Oxaprozin</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../710/13590710.xml">
-Pirprofen</link>&nbsp;·  <link xlink:type="simple" xlink:href="../933/9036933.xml">
-Suprofen</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../710/13590710.xml">
+Pirprofen</link> ·  <link xlink:type="simple" xlink:href="../933/9036933.xml">
+Suprofen</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1162,8 +1162,8 @@ Flufenamic acid</link></aliphatic_compound>
 </methane_series>
 </compound>
 </substance>
-&nbsp;·  <link xlink:type="simple" xlink:href="../486/13574486.xml">
-Meclofenamic acid</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../486/13574486.xml">
+Meclofenamic acid</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1174,7 +1174,7 @@ Mefenamic acid</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../841/5691841.xml">
+ ·  <link xlink:type="simple" xlink:href="../841/5691841.xml">
 Tolfenamic acid</link></col>
 </row>
 <row style="height:2px">
@@ -1206,7 +1206,7 @@ Celecoxib</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1217,7 +1217,7 @@ Etoricoxib</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1228,7 +1228,7 @@ Lumiracoxib</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1239,7 +1239,7 @@ Parecoxib</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1250,7 +1250,7 @@ Rofecoxib</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../845/648845.xml">
+ ·  <link xlink:type="simple" xlink:href="../845/648845.xml">
 Valdecoxib</link></col>
 </row>
 <row style="height:2px">
@@ -1261,10 +1261,10 @@ Valdecoxib</link></col>
 Other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../585/5863585.xml">
-Nabumetone</link>&nbsp;·  <link xlink:type="simple" xlink:href="../494/13574494.xml">
-Niflumic acid</link>&nbsp;·  <link xlink:type="simple" xlink:href="../530/13590530.xml">
-Azapropazone</link>&nbsp;·  <link xlink:type="simple" xlink:href="../915/792915.xml">
-Glucosamine</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Nabumetone</link> ·  <link xlink:type="simple" xlink:href="../494/13574494.xml">
+Niflumic acid</link> ·  <link xlink:type="simple" xlink:href="../530/13590530.xml">
+Azapropazone</link> ·  <link xlink:type="simple" xlink:href="../915/792915.xml">
+Glucosamine</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1275,8 +1275,8 @@ Benzydamine</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../173/1072173.xml">
-Glycosaminoglycan</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../173/1072173.xml">
+Glycosaminoglycan</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1287,10 +1287,10 @@ Magnesium salicylate</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../499/13590499.xml">
-Proquazone</link>&nbsp;·  <link xlink:type="simple" xlink:href="../837/27837.xml">
-Superoxide dismutase/Orgotein</link>&nbsp;·  <link xlink:type="simple" xlink:href="../829/1484829.xml">
-Nimesulide</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../499/13590499.xml">
+Proquazone</link> ·  <link xlink:type="simple" xlink:href="../837/27837.xml">
+Superoxide dismutase/Orgotein</link> ·  <link xlink:type="simple" xlink:href="../829/1484829.xml">
+Nimesulide</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="114778436" confidence="0.8">
@@ -1301,17 +1301,17 @@ Feprazone</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="109190918" confidence="0.8">
 <link xlink:type="simple" xlink:href="../178/3337178.xml">
 Diacerein</link></agent>
 </causal_agent>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../451/13590451.xml">
-Morniflumate</link>&nbsp;·  <link xlink:type="simple" xlink:href="../437/13590437.xml">
-Tenidap</link>&nbsp;·  <link xlink:type="simple" xlink:href="../718/12938718.xml">
-Oxaceprol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../825/504825.xml">
+ ·  <link xlink:type="simple" xlink:href="../451/13590451.xml">
+Morniflumate</link> ·  <link xlink:type="simple" xlink:href="../437/13590437.xml">
+Tenidap</link> ·  <link xlink:type="simple" xlink:href="../718/12938718.xml">
+Oxaceprol</link> ·  <link xlink:type="simple" xlink:href="../825/504825.xml">
 Chondroitin sulfate</link></col>
 </row>
 </table>
@@ -1377,8 +1377,8 @@ Sodium aurothiomalate</link></agent>
 </causal_agent>
 </compound>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../078/13591078.xml">
-Sodium aurothiosulfate</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../078/13591078.xml">
+Sodium aurothiosulfate</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <compound wordnetid="105870180" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="109190918" confidence="0.8">
@@ -1387,7 +1387,7 @@ Auranofin</link></agent>
 </causal_agent>
 </compound>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <carcinogen wordnetid="114793812" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1398,7 +1398,7 @@ Aurothioglucose</link></agent>
 </carcinogen>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../069/13591069.xml">
+ ·  <link xlink:type="simple" xlink:href="../069/13591069.xml">
 Aurotioprol</link></col>
 </row>
 <row style="height:2px">

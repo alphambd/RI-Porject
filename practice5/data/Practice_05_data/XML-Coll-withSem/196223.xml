@@ -29,7 +29,7 @@ A series of three rotors from an Enigma machine, used by Germany during World Wa
 
 In <link xlink:type="simple" xlink:href="../432/18934432.xml">
 cryptography</link>, a <b>rotor machine</b> is an electro-mechanical device used for <link xlink:type="simple" xlink:href="../294/10294.xml">
-encrypting</link> and decrypting secret messages. Rotor machines were the cryptographic state-of-the-art for a brief but prominent period of history; they were in widespread use in the 1930s&ndash;1950s. The most famous example is the <artifact wordnetid="100021939" confidence="0.8">
+encrypting</link> and decrypting secret messages. Rotor machines were the cryptographic state-of-the-art for a brief but prominent period of history; they were in widespread use in the 1930s–1950s. The most famous example is the <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <machine wordnetid="103699975" confidence="0.8">
@@ -59,7 +59,7 @@ Background</st>
 
 In <link xlink:type="simple" xlink:href="../892/705892.xml">
 classical cryptography</link>, one of the earliest encryption methods was the simple <link xlink:type="simple" xlink:href="../356/48356.xml">
-substitution cipher</link>, where letters in a message were systematically replaced using some secret scheme. <it>Monoalphabetic</it> substitution ciphers used only a single replacement scheme &mdash; sometimes termed an "alphabet"; this could be easily broken, for example, by using <link xlink:type="simple" xlink:href="../934/157934.xml">
+substitution cipher</link>, where letters in a message were systematically replaced using some secret scheme. <it>Monoalphabetic</it> substitution ciphers used only a single replacement scheme — sometimes termed an "alphabet"; this could be easily broken, for example, by using <link xlink:type="simple" xlink:href="../934/157934.xml">
 frequency analysis</link>. Somewhat more secure were schemes involving multiple alphabets, <link xlink:type="simple" xlink:href="../918/157918.xml">
 polyalphabetic cipher</link>s. Because such schemes were implemented by hand, only a handful of different alphabets could be used; anything more complex would be impractical. However, using only a few alphabets left the ciphers vulnerable to attack. The invention of rotor machines mechanised polyalphabetic encryption, providing a practical way to use a much larger number of alphabets.</p>
 <p>
@@ -204,7 +204,7 @@ The concept of a rotor machine occurred to a number of inventors independently a
 In 2003, it emerged that the first inventors were two <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../478/198478.xml">
 Dutch naval officers</link></military_unit>
-, Theo A. van Hengel (1875 &ndash; 1939) and R. P. C. Spengler (1875 &ndash; 1955) in 1915 (De Leeuw, 2003). Previously, the invention had been ascribed to four inventors working independently and at much the same time: <artifact wordnetid="100021939" confidence="0.8">
+, Theo A. van Hengel (1875 – 1939) and R. P. C. Spengler (1875 – 1955) in 1915 (De Leeuw, 2003). Previously, the invention had been ascribed to four inventors working independently and at much the same time: <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <machine wordnetid="103699975" confidence="0.8">
@@ -407,7 +407,7 @@ Enigma machine</link></machine>
 </instrumentality>
 </artifact>
  used during World War II, of which there were a number of variants.
-The standard Enigma model, Enigma I, used three rotors. At the end of the stack of rotors was an additional rotor-like disk, wired such that the inputs were connected electrically back out to some other contact on the same side &ndash; in some sense, half of a normal rotor. When current was sent into most of these machines it would travel through the rotors and out the other side to the lamps, but in the Enigma it was "reflected" back through the disks before going to the lamps. The advantage to this system was that there was nothing that had to be done to the setup in order to decrypt a message; the machine was symmetrical at all times.  The reflector guaranteed that no letter could be enciphered as itself, so an A could never turn back into an A, which helped British efforts to break the cipher. <it>See</it> <link xlink:type="simple" xlink:href="../175/872175.xml">
+The standard Enigma model, Enigma I, used three rotors. At the end of the stack of rotors was an additional rotor-like disk, wired such that the inputs were connected electrically back out to some other contact on the same side – in some sense, half of a normal rotor. When current was sent into most of these machines it would travel through the rotors and out the other side to the lamps, but in the Enigma it was "reflected" back through the disks before going to the lamps. The advantage to this system was that there was nothing that had to be done to the setup in order to decrypt a message; the machine was symmetrical at all times.  The reflector guaranteed that no letter could be enciphered as itself, so an A could never turn back into an A, which helped British efforts to break the cipher. <it>See</it> <link xlink:type="simple" xlink:href="../175/872175.xml">
 Cryptanalysis of the Enigma</link>.</p>
 <p>
 
@@ -465,10 +465,10 @@ SD</link></agency>
 . The German Army version was the Enigma the <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../936/22936.xml">
 Poles</link></country>
- broke in the early 1930s not long after it was first used. They passed their progress on to the French and British in July 1939, and the British and French continued to break German Army Enigma &mdash; along with <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ broke in the early 1930s not long after it was first used. They passed their progress on to the French and British in July 1939, and the British and French continued to break German Army Enigma — along with <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../885/17885.xml">
 Luftwaffe</link></military_unit>
- Enigma traffic &mdash; until French cryptanalysis (at Station <link xlink:type="simple" xlink:href="../987/621987.xml">
+ Enigma traffic — until French cryptanalysis (at Station <link xlink:type="simple" xlink:href="../987/621987.xml">
 PC Bruno</link>) was shut down. The British continued breaking Enigma and, assisted eventually by the United States, extended the work to German Naval Enigma traffic, most especially to and from <link xlink:type="simple" xlink:href="../888/31888.xml">
 U-boat</link>s during the <link xlink:type="simple" xlink:href="../765/57765.xml">
 Battle of the Atlantic</link>.</p>
@@ -801,7 +801,7 @@ Friedrich L. Bauer</link></scientist>
  Cipher A. Deavours, Louis Kruh, "Machine Cryptography and Modern Cryptanalysis", Artech House, 1985. ISBN 0-89006-161-0.</entry>
 <entry level="1" type="bullet">
 
- Karl de Leeuw, "The Dutch invention of the rotor machine, 1915 - 1923." Cryptologia 27(1), January 2003, pp73&ndash;94.</entry>
+ Karl de Leeuw, "The Dutch invention of the rotor machine, 1915 - 1923." Cryptologia 27(1), January 2003, pp73–94.</entry>
 </list>
 </p>
 
@@ -841,7 +841,7 @@ Timeline of Cipher Machines</weblink></entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;Cipher machines</header>
+ Cipher machines</header>
 </row>
 <row style="height:2px;">
 
@@ -859,7 +859,7 @@ CCM</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -869,8 +869,8 @@ Enigma</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
-M&nbsp;&ndash; 
+ &#124; 
+M – 
 125 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -880,7 +880,7 @@ Fialka</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -890,7 +890,7 @@ Hebern</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -900,7 +900,7 @@ HX-63</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -910,7 +910,7 @@ KL-7</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -920,7 +920,7 @@ Lacida</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -930,7 +930,7 @@ M-325</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -940,7 +940,7 @@ Mercury</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -950,7 +950,7 @@ NEMA</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -960,7 +960,7 @@ OMI</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -970,7 +970,7 @@ Portex</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -980,7 +980,7 @@ SIGABA</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -990,7 +990,7 @@ SIGCUM</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1000,7 +1000,7 @@ Singlet</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1020,7 +1020,7 @@ Typex</link></machine>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Mechanical:</b> <link xlink:type="simple" xlink:href="../993/854993.xml">
-Bazeries cylinder</link>&nbsp;&#124; 
+Bazeries cylinder</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1028,7 +1028,7 @@ Bazeries cylinder</link>&nbsp;&#124;
 C-36</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1036,7 +1036,7 @@ C-36</link></device>
 C-52</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1044,7 +1044,7 @@ C-52</link></device>
 CD-57</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1052,7 +1052,7 @@ CD-57</link></device>
 Cipher disk</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1060,7 +1060,7 @@ Cipher disk</link></device>
 HC-9</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1068,7 +1068,7 @@ HC-9</link></device>
 Kryha</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1076,7 +1076,7 @@ Kryha</link></device>
 Jefferson disk</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1088,7 +1088,7 @@ M-94</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1096,13 +1096,13 @@ M-94</link></cipher>
 M-209</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../199/1582199.xml">
 Reihenschieber</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1130,7 +1130,7 @@ Scytale</link></cipher>
 5-UCO</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1138,7 +1138,7 @@ Scytale</link></cipher>
 BID 770</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1146,7 +1146,7 @@ BID 770</link></device>
 KW-26</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1154,9 +1154,9 @@ KW-26</link></device>
 KW-37</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../173/301173.xml">
-Lorenz SZ 40/42</link>&nbsp;&#124; 
+Lorenz SZ 40/42</link> &#124; 
 <link xlink:type="simple" xlink:href="../403/304403.xml">
 Siemens and Halske T52</link></p>
 </col>
@@ -1169,9 +1169,9 @@ Siemens and Halske T52</link></p>
 
 <b><link xlink:type="simple" xlink:href="../035/1560035.xml">
 Secure voice</link>:</b> <link xlink:type="simple" xlink:href="../593/10500593.xml">
-BID 150</link>&nbsp;&#124; 
+BID 150</link> &#124; 
 <link xlink:type="simple" xlink:href="../526/18918526.xml">
-FASCINATOR</link>&nbsp;&#124; 
+FASCINATOR</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1179,7 +1179,7 @@ FASCINATOR</link>&nbsp;&#124;
 KY-3</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1187,7 +1187,7 @@ KY-3</link></device>
 KY-57</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1195,7 +1195,7 @@ KY-57</link></device>
 KY-58</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1203,7 +1203,7 @@ KY-58</link></device>
 KY-68</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1211,11 +1211,11 @@ KY-68</link></device>
 OMNI</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../994/1058994.xml">
-SCIP</link>&nbsp;&#124; 
+SCIP</link> &#124; 
 <link>
-Sectéra Secure Module</link>&nbsp;&#124; 
+Sectéra Secure Module</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1223,7 +1223,7 @@ Sectéra Secure Module</link>&nbsp;&#124;
 SIGSALY</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1231,7 +1231,7 @@ SIGSALY</link></device>
 STE</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1239,7 +1239,7 @@ STE</link></device>
 STU-II</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1247,7 +1247,7 @@ STU-II</link></device>
 STU-III</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1265,7 +1265,7 @@ VINSON</link></device>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Miscellaneous:</b> <link xlink:type="simple" xlink:href="../726/1383726.xml">
-JADE</link>&nbsp;&#124; 
+JADE</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1273,7 +1273,7 @@ JADE</link>&nbsp;&#124;
 KG-84</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1281,9 +1281,9 @@ KG-84</link></device>
 KL-43</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../481/3429481.xml">
-Noreen</link>&nbsp;&#124; 
+Noreen</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1291,7 +1291,7 @@ Noreen</link>&nbsp;&#124;
 PURPLE</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1299,7 +1299,7 @@ PURPLE</link></device>
 Pinwheel</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1324,7 +1324,7 @@ Rockex</link></device>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

@@ -55,7 +55,7 @@ Public</link></institution>
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbolANAT&amp;selectedANAT">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbolANAT&amp;selectedANAT">
 ANAT</weblink>)</company_type>
 <homepage>
 <weblink xlink:type="simple" xlink:href="http://www.anico.com">
@@ -99,7 +99,7 @@ USD</link> (2007)<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=ANAT&amp;selected=ANAT">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=ANAT&amp;selected=ANAT">
 ANAT</weblink>) is a major <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -428,7 +428,7 @@ Bishop's Palace</link></attraction>
 </show>
 </social_event>
 </event>
- &nbsp;•
+  •
 <career wordnetid="100583246" confidence="0.9508927676800064">
 <image wordnetid="105928118" confidence="0.9508927676800064">
 <feature wordnetid="105849789" confidence="0.9508927676800064">
@@ -436,7 +436,7 @@ Bishop's Palace</link></attraction>
 <it>Elissa</it> (ship}</link></feature>
 </image>
 </career>
- &nbsp;•
+  •
 <garrison wordnetid="103420559" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <military_installation wordnetid="103763133" confidence="0.8">
@@ -448,7 +448,7 @@ Fort Crockett</link></military_post>
 </military_installation>
 </artifact>
 </garrison>
- &nbsp;•
+  •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
@@ -460,7 +460,7 @@ Galveston Island State Park</link></attraction>
 </show>
 </social_event>
 </event>
- &nbsp;•
+  •
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -480,7 +480,7 @@ Galveston Railroad Museum</link></attraction>
 </event>
 </facility>
 </artifact>
- &nbsp;•
+  •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
@@ -492,7 +492,7 @@ Galveston Seawall</link></attraction>
 </show>
 </social_event>
 </event>
- &nbsp;•
+  •
 <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -500,7 +500,7 @@ Galveston Seawall</link></attraction>
 Galveston Island Trolley</link></instrumentality>
 </artifact>
 </system>
- &nbsp;•
+  •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
@@ -512,7 +512,7 @@ Grand 1894 Opera House</link></attraction>
 </show>
 </social_event>
 </event>
- &nbsp;•
+  •
 <passageway wordnetid="103895585" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -532,11 +532,11 @@ Lone Star Flight Museum</link></hallway>
 </facility>
 </artifact>
 </passageway>
- &nbsp;•
+  •
 <menagerie wordnetid="103745146" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../662/470662.xml">
 Moody Gardens</link></menagerie>
- &nbsp;•
+  •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
@@ -548,7 +548,7 @@ Ocean Star Offshore Drilling Rig &amp; Museum</link></attraction>
 </show>
 </social_event>
 </event>
-&nbsp;•
+ •
 <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <position wordnetid="108621598" confidence="0.8">
@@ -566,11 +566,11 @@ Rosenberg Library</link></geographical_area>
 </position>
 </region>
 </site>
- &nbsp;•
+  •
 <building wordnetid="102913152" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../113/6224113.xml">
 St. Mary Cathedral Basilica</link></building>
- &nbsp;•
+  •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
@@ -582,7 +582,7 @@ Schlitterbahn Galveston Island Waterpark</link></attraction>
 </show>
 </social_event>
 </event>
- &nbsp;•
+  •
 <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <landmark wordnetid="108624891" confidence="0.8">
@@ -602,11 +602,11 @@ Strand National Historic Landmark District</link></attraction>
 </landmark>
 </point>
 </position>
- &nbsp;•
+  •
 <link>
-USS&nbsp;<it>Cavalla</it>&nbsp;(SS-244)</link> &nbsp;•
+USS <it>Cavalla</it> (SS-244)</link>  •
 <link>
-USS&nbsp;<it>Stewart</it>&nbsp;(DE-238)</link>&nbsp;•</col>
+USS <it>Stewart</it> (DE-238)</link> •</col>
 </row>
 <row>
 <header bgcolor="#ccccff">
@@ -615,23 +615,23 @@ Companies</header>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../129/8387129.xml">
 American National Insurance Company</link></company>
- &nbsp;•
+  •
 <newspaper wordnetid="106267145" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../767/3704767.xml">
 The Galveston County Daily News</link></newspaper>
- &nbsp;•
+  •
 <foundation wordnetid="113790712" confidence="0.8">
 <link xlink:type="simple" xlink:href="../607/17588607.xml">
 Moody Foundation</link></foundation>
- &nbsp;•
+  •
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../107/11177107.xml">
 Moody National Bank</link></company>
- &nbsp;•
+  •
 <link xlink:type="simple" xlink:href="../020/11354020.xml">
-Port of Galveston</link> &nbsp;•
+Port of Galveston</link>  •
 <link xlink:type="simple" xlink:href="../631/10133631.xml">
-Texas First Bank</link> &nbsp;•
+Texas First Bank</link>  •
 <airport wordnetid="102692232" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../572/4058572.xml">
 Scholes International Airport at Galveston</link></airport>
@@ -664,17 +664,17 @@ First Battle of Galveston</link></ending>
 </group_action>
 </military_action>
 </victory>
- &nbsp;•
+  •
 <link xlink:type="simple" xlink:href="../067/2472067.xml">
-Second Battle of Galveston</link> &nbsp;•
+Second Battle of Galveston</link>  •
 <hurricane wordnetid="111467018" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../542/19262542.xml">
 Galveston Hurricane of 1900</link></hurricane>
- &nbsp;•
+  •
 <link xlink:type="simple" xlink:href="../564/2884564.xml">
-Galveston Movement</link> &nbsp;•
+Galveston Movement</link>  •
 <link>
-History of the Jews in Galveston, Texas </link> &nbsp;•
+History of the Jews in Galveston, Texas </link>  •
 <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <landmark wordnetid="108624891" confidence="0.8">
@@ -709,26 +709,26 @@ Galveston College</link></group>
 </social_group>
 </university>
 </body>
- &nbsp;•
+  •
 <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../740/2310740.xml">
 Galveston Independent School District</link></school>
- &nbsp;•
+  •
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../604/1373604.xml">
 Texas A&amp;M University at Galveston</link></university>
- &nbsp;•
+  •
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../953/526953.xml">
 University of Texas Medical Branch</link></university>
-&nbsp;•</col>
+ •</col>
 </row>
 <row>
 <header bgcolor="#ccccff">
 Healthcare</header>
 <col bgcolor="#eeeeee">
 <link xlink:type="simple" xlink:href="../554/16554.xml">
-John Sealy Hospital</link> &nbsp;•
+John Sealy Hospital</link>  •
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -740,43 +740,43 @@ Shriners Burns Hospital at Galveston</link></hospital>
 </artifact>
 </building>
 </structure>
- &nbsp;•
+  •
 <link>
-Transitional Learning Center</link> &nbsp;•
+Transitional Learning Center</link>  •
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../953/526953.xml">
 University of Texas Medical Branch</link></university>
-&nbsp;•</col>
+ •</col>
 </row>
 <row>
 <header bgcolor="#ccccff">
 Media</header>
 <col>
 <b><link xlink:type="simple" xlink:href="../831/29831.xml">
-Television</link>:</b> &nbsp;•
+Television</link>:</b>  •
 <link xlink:type="simple" xlink:href="../846/3318846.xml">
-KLTJ (Daystar)</link> &nbsp;• 
+KLTJ (Daystar)</link>  • 
 <link xlink:type="simple" xlink:href="../361/2005361.xml">
-KTMD (Telemundo)</link> &nbsp;•<p>
+KTMD (Telemundo)</link>  •<p>
 
 <b><link xlink:type="simple" xlink:href="../509/113509.xml">
-AM Radio</link>:</b> &nbsp;•
+AM Radio</link>:</b>  •
 <link>
-KGBC</link> &nbsp;•
+KGBC</link>  •
 <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../850/17210850.xml">
 KHCB</link></radio_station>
- &nbsp;•
+  •
 <link xlink:type="simple" xlink:href="../052/11117052.xml">
-KLNT</link> &nbsp;•
+KLNT</link>  •
 <b><link xlink:type="simple" xlink:href="../203/1607203.xml">
-FM Radio</link>:</b> &nbsp;•
+FM Radio</link>:</b>  •
 <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../894/17640894.xml">
 KOVE</link></radio_station>
- &nbsp;•
+  •
 <link>
-KPTI</link>&nbsp;•</p>
+KPTI</link> •</p>
 </col>
 </row>
 </table>

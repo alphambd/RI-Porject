@@ -570,10 +570,10 @@ landmarks</header>
 Buildings &amp; Structures</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../247/3961247.xml">
-Convention and Exhibition Centre</link>&nbsp;· <building wordnetid="102913152" confidence="0.9508927676800064">
+Convention and Exhibition Centre</link> · <building wordnetid="102913152" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../398/8574398.xml">
 Finger Wharf</link></building>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <mercantile_establishment wordnetid="103748162" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -588,7 +588,7 @@ Queen Victoria Building</link></plaza>
 </building>
 </mercantile_establishment>
 </structure>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <observatory wordnetid="103839671" confidence="0.8">
@@ -597,19 +597,19 @@ Observatory</link></observatory>
 </artifact>
 </building>
 </structure>
-&nbsp;· <batch wordnetid="113774404" confidence="0.9508927676800064">
+ · <batch wordnetid="113774404" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../955/2766955.xml">
 Mint</link></batch>
-&nbsp;· <building wordnetid="102913152" confidence="0.9508927676800064">
+ · <building wordnetid="102913152" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../222/28222.xml">
 Opera House</link></building>
-&nbsp;· <bridge wordnetid="102898711" confidence="0.9508927676800064">
+ · <bridge wordnetid="102898711" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../267/28267.xml">
 Harbour Bridge</link></bridge>
-&nbsp;· <skyscraper wordnetid="104233124" confidence="0.9508927676800064">
+ · <skyscraper wordnetid="104233124" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/522978.xml">
 Sydney Tower</link></skyscraper>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <city_hall wordnetid="103036022" confidence="0.8">
@@ -618,31 +618,31 @@ Town Hall</link></city_hall>
 </artifact>
 </building>
 </structure>
-&nbsp;· <memorial wordnetid="106688522" confidence="0.9508927676800064">
+ · <memorial wordnetid="106688522" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../423/946423.xml">
 War Memorial</link></memorial>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../912/14251912.xml">
 The Toaster</link></artifact>
 </building>
 </structure>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../757/525757.xml">
 Kirribilli House</link></artifact>
 </building>
 </structure>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../624/6511624.xml">
 Parliament House</link></artifact>
 </building>
 </structure>
-&nbsp;· <garrison wordnetid="103420559" confidence="0.8">
+ · <garrison wordnetid="103420559" confidence="0.8">
 <tower wordnetid="104460130" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
@@ -663,7 +663,7 @@ Fort Denison</link></museum>
 </structure>
 </tower>
 </garrison>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <mercantile_establishment wordnetid="103748162" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -690,7 +690,7 @@ Precincts</col>
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../567/368567.xml">
 Bondi Beach</link></site>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -701,7 +701,7 @@ Chinatown</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <port wordnetid="108633957" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <geographic_point wordnetid="108578706" confidence="0.8">
@@ -722,10 +722,10 @@ Darling Harbour</link></section>
 </point>
 </port>
 </region>
-&nbsp;· <site wordnetid="108651247" confidence="0.9508927676800064">
+ · <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../927/1028927.xml">
 Kings Cross</link></site>
-&nbsp;· <site wordnetid="108651247" confidence="0.9508927676800064">
+ · <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/559785.xml">
 The Rocks</link></site>
 </col>
@@ -748,11 +748,11 @@ Bicentennial Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· 
+ · 
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../157/1117157.xml">
 Centennial Park</link></site>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -763,7 +763,7 @@ Chinese Garden of Friendship</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
@@ -780,7 +780,7 @@ The Domain</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -791,7 +791,7 @@ Hyde Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;· <body wordnetid="107965085" confidence="0.8">
+ · <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -810,7 +810,7 @@ Royal Botanic Gardens</link></administration>
 </event>
 </social_group>
 </body>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -833,7 +833,7 @@ Cultural Institutions</col>
 <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../510/2075510.xml">
 Art Gallery of New South Wales</link></museum>
-&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+ · <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <depository wordnetid="103177349" confidence="0.8">
 <museum wordnetid="103800563" confidence="0.8">
@@ -842,10 +842,10 @@ Australian Museum</link></museum>
 </depository>
 </facility>
 </artifact>
-&nbsp;· <museum wordnetid="103800563" confidence="0.9508927676800064">
+ · <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../743/1995743.xml">
 Australian National Maritime Museum</link></museum>
-&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+ · <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <depository wordnetid="103177349" confidence="0.8">
 <museum wordnetid="103800563" confidence="0.8">
@@ -854,8 +854,8 @@ Museum of Contemporary Art</link></museum>
 </depository>
 </facility>
 </artifact>
-&nbsp;· <link xlink:type="simple" xlink:href="../873/5527873.xml">
-Museum of Sydney</link>&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../873/5527873.xml">
+Museum of Sydney</link> · <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <depository wordnetid="103177349" confidence="0.8">
 <museum wordnetid="103800563" confidence="0.8">
@@ -864,7 +864,7 @@ Powerhouse Museum</link></museum>
 </depository>
 </facility>
 </artifact>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -881,10 +881,10 @@ Sydney Aquarium</link></attraction>
 </artifact>
 </building>
 </structure>
-&nbsp;· <menagerie wordnetid="103745146" confidence="0.9508927676800064">
+ · <menagerie wordnetid="103745146" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../547/593547.xml">
 Taronga Zoo</link></menagerie>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -897,7 +897,7 @@ State Library</link></room>
 </artifact>
 </building>
 </structure>
-&nbsp;· <music_school wordnetid="108283649" confidence="0.8">
+ · <music_school wordnetid="108283649" confidence="0.8">
 <conservatory wordnetid="108287436" confidence="0.8">
 <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
@@ -922,10 +922,10 @@ Sports</col>
 <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../614/521614.xml">
 Football Stadium</link></stadium>
-&nbsp;· <land wordnetid="109334396" confidence="0.9508927676800064">
+ · <land wordnetid="109334396" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/773497.xml">
 Cricket Ground</link></land>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -942,10 +942,10 @@ Olympic Park</link></venue>
 </park>
 </area>
 </region>
-&nbsp;· <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ · <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../480/342480.xml">
 ANZ Stadium</link></stadium>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <path wordnetid="109387222" confidence="0.8">
@@ -980,11 +980,11 @@ Central Station</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· <link xlink:type="simple" xlink:href="../626/3622626.xml">
-Monorail</link>&nbsp;· <airport wordnetid="102692232" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../626/3622626.xml">
+Monorail</link> · <airport wordnetid="102692232" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../313/266313.xml">
 Sydney Airport</link></airport>
-&nbsp;· <link xlink:type="simple" xlink:href="../125/304125.xml">
+ · <link xlink:type="simple" xlink:href="../125/304125.xml">
 Underground Railway</link></col>
 </row>
 <row style="height:2px">
@@ -1005,10 +1005,10 @@ Entertainment Centre</link></venue>
 </location>
 </area>
 </region>
-&nbsp;· <hotel wordnetid="103542333" confidence="0.9508927676800064">
+ · <hotel wordnetid="103542333" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../049/2579049.xml">
 Star City Casino</link></hotel>
-&nbsp;· <military_action wordnetid="100952963" confidence="0.8">
+ · <military_action wordnetid="100952963" confidence="0.8">
 <group_action wordnetid="101080366" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -1033,7 +1033,7 @@ Fox Studios Australia</link></institution>
 </event>
 </group_action>
 </military_action>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <theater wordnetid="104417809" confidence="0.8">
@@ -1042,7 +1042,7 @@ State Theatre</link></theater>
 </artifact>
 </building>
 </structure>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <theater wordnetid="104417809" confidence="0.8">
@@ -1051,7 +1051,7 @@ Plaza Theatre</link></theater>
 </artifact>
 </building>
 </structure>
-&nbsp;· <amusement_park wordnetid="108494231" confidence="0.9508927676800064">
+ · <amusement_park wordnetid="108494231" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../913/1040913.xml">
 Luna Park</link></amusement_park>
 </col>

@@ -209,8 +209,8 @@ V</link> <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22W%22])">
 W</link> <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22X%22])">
 X</link> <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22Y%22])">
 Y</link> <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22Z%22])">
-Z</link> &nbsp; <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22See+also%22])">
-See also</link>&nbsp;</col>
+Z</link>   <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22See+also%22])">
+See also</link> </col>
 </row>
 </table>
 __NOTOC__</p>
@@ -980,7 +980,7 @@ E.M. Clarke</link></recipient>
 , E.A. Emerson, and A.P. Sistla, <organization wordnetid="108008335" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/30th_century.xml">
 ACM</link></organization>
- Trans. on Programming Languages and Systems, 8(2), pp. 244&ndash;263, <link xlink:type="simple" xlink:href="../761/34761.xml">
+ Trans. on Programming Languages and Systems, 8(2), pp. 244–263, <link xlink:type="simple" xlink:href="../761/34761.xml">
 1986</link>.</entry>
 <entry level="1" type="bullet">
 

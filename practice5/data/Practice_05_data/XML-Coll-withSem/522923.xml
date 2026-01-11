@@ -239,7 +239,7 @@ Compass</link></room>
 <list>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Gospodnetic-2004" style="font-style:normal" class="book">Gospodnetic, Otis;&#32;Erik Hatcher&#32;(2004). Lucene in Action.&#32;Manning Publications. ISBN 978-1-932394-28-3.</cite>&nbsp;</entry>
+  <cite id="Reference-Gospodnetic-2004" style="font-style:normal" class="book">Gospodnetic, Otis;&#32;Erik Hatcher&#32;(2004). Lucene in Action.&#32;Manning Publications. ISBN 978-1-932394-28-3.</cite> </entry>
 </list>
 </p>
 
@@ -397,7 +397,7 @@ Apache Software Foundation</link></institution>
 Top level projects</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../265/7528265.xml">
-ActiveMQ</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ActiveMQ</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -414,13 +414,13 @@ Ant</link></room>
 </instrumentality>
 </artifact>
 </structure>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../581/2581.xml">
 Apache HTTP Server</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../377/1825377.xml">
-APR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../039/1789039.xml">
-Beehive</link>&nbsp;·  <link xlink:type="simple" xlink:href="../708/11719708.xml">
-Cayenne</link>&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../377/1825377.xml">
+APR</link> ·  <link xlink:type="simple" xlink:href="../039/1789039.xml">
+Beehive</link> ·  <link xlink:type="simple" xlink:href="../708/11719708.xml">
+Cayenne</link> ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -429,28 +429,28 @@ Cocoon</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <link xlink:type="simple" xlink:href="../733/4642733.xml">
-Commons</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../733/4642733.xml">
+Commons</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../206/11787206.xml">
 CXF</link></software>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../658/2328658.xml">
 Derby</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../620/3672620.xml">
 Directory</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../169/12082169.xml">
-Excalibur</link>&nbsp;·  <link xlink:type="simple" xlink:href="../027/9951027.xml">
-Felix</link>&nbsp;·  <link xlink:type="simple" xlink:href="../792/5252792.xml">
-Forrest</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../169/12082169.xml">
+Excalibur</link> ·  <link xlink:type="simple" xlink:href="../027/9951027.xml">
+Felix</link> ·  <link xlink:type="simple" xlink:href="../792/5252792.xml">
+Forrest</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <worker wordnetid="109632518" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -465,9 +465,9 @@ Geronimo</link></waiter>
 </worker>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../719/9172719.xml">
-Gump</link>&nbsp;·  <link xlink:type="simple" xlink:href="../308/5919308.xml">
-Hadoop</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../719/9172719.xml">
+Gump</link> ·  <link xlink:type="simple" xlink:href="../308/5919308.xml">
+Hadoop</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -478,16 +478,16 @@ Harmony</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../573/1885573.xml">
-HiveMind</link>&nbsp;·  <link xlink:type="simple" xlink:href="../076/3946076.xml">
-iBATIS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../426/2889426.xml">
-Jackrabbit</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../573/1885573.xml">
+HiveMind</link> ·  <link xlink:type="simple" xlink:href="../076/3946076.xml">
+iBATIS</link> ·  <link xlink:type="simple" xlink:href="../426/2889426.xml">
+Jackrabbit</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../167/15896167.xml">
 James</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../725/795725.xml">
 Lenya</link></software>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -496,9 +496,9 @@ Maven</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <link>
-mod_perl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../978/7449978.xml">
-MyFaces</link>&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <link>
+mod_perl</link> ·  <link xlink:type="simple" xlink:href="../978/7449978.xml">
+MyFaces</link> ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -513,7 +513,7 @@ OFBiz</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <worker wordnetid="109632518" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -528,8 +528,8 @@ OpenEJB</link></waiter>
 </worker>
 </person>
 </physical_entity>
-&nbsp;·   <link xlink:type="simple" xlink:href="../781/9490781.xml">
-OpenJPA</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·   <link xlink:type="simple" xlink:href="../781/9490781.xml">
+OpenJPA</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -540,16 +540,16 @@ POI</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../777/7529777.xml">
 Roller</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link>
-Shale</link>&nbsp;·  <link xlink:type="simple" xlink:href="../137/274137.xml">
-SpamAssassin</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link>
+Shale</link> ·  <link xlink:type="simple" xlink:href="../137/274137.xml">
+SpamAssassin</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -560,7 +560,7 @@ stdcxx</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -569,7 +569,7 @@ Struts</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -578,13 +578,13 @@ Tapestry</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <link xlink:type="simple" xlink:href="../698/200698.xml">
-Tomcat</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../698/200698.xml">
+Tomcat</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../093/9073093.xml">
 Tuscany</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../690/2285690.xml">
-Velocity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../392/1934392.xml">
-Wicket</link>&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../690/2285690.xml">
+Velocity</link> ·  <link xlink:type="simple" xlink:href="../392/1934392.xml">
+Wicket</link> ·  <software wordnetid="106566077" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
@@ -617,9 +617,9 @@ XMLBeans</link></parser>
 Other projects</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../182/55182.xml">
-Jakarta Project</link>&nbsp;·  <link xlink:type="simple" xlink:href="../923/522923.xml">
-Apache Lucene</link>&nbsp;·  <link xlink:type="simple" xlink:href="../521/1004521.xml">
-Apache XML</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+Jakarta Project</link> ·  <link xlink:type="simple" xlink:href="../923/522923.xml">
+Apache Lucene</link> ·  <link xlink:type="simple" xlink:href="../521/1004521.xml">
+Apache XML</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -642,10 +642,10 @@ Apache Incubator</link></web_site>
 Sub-projects</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../000/3275000.xml">
-BCEL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../739/1956739.xml">
-BSF</link>&nbsp;·  <link xlink:type="simple" xlink:href="../307/7985307.xml">
-Cactus</link>&nbsp;·  <link xlink:type="simple" xlink:href="../363/11335363.xml">
-Camel</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+BCEL</link> ·  <link xlink:type="simple" xlink:href="../739/1956739.xml">
+BSF</link> ·  <link xlink:type="simple" xlink:href="../307/7985307.xml">
+Cactus</link> ·  <link xlink:type="simple" xlink:href="../363/11335363.xml">
+Camel</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -654,14 +654,14 @@ JMeter</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../045/332045.xml">
 Slide</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <software wordnetid="106566077" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -686,7 +686,7 @@ Xerces</link></room>
 </artifact>
 </software>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -697,15 +697,15 @@ Batik</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../271/632271.xml">
-FOP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../868/3291868.xml">
-Log4j</link>&nbsp;·  <link xlink:type="simple" xlink:href="../735/9094735.xml">
-XAP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../398/185398.xml">
-River</link>&nbsp;·  <link>
-ServiceMix</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../271/632271.xml">
+FOP</link> ·  <link xlink:type="simple" xlink:href="../868/3291868.xml">
+Log4j</link> ·  <link xlink:type="simple" xlink:href="../735/9094735.xml">
+XAP</link> ·  <link xlink:type="simple" xlink:href="../398/185398.xml">
+River</link> ·  <link>
+ServiceMix</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../743/7529743.xml">
 Log4Net</link></software>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -716,9 +716,9 @@ Abdera</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../260/11243260.xml">
-Ivy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../215/15603215.xml">
-ODE</link>&nbsp;·  <link xlink:type="simple" xlink:href="../448/5719448.xml">
+ ·  <link xlink:type="simple" xlink:href="../260/11243260.xml">
+Ivy</link> ·  <link xlink:type="simple" xlink:href="../215/15603215.xml">
+ODE</link> ·  <link xlink:type="simple" xlink:href="../448/5719448.xml">
 JSPWiki</link></col>
 </row>
 <row style="height:2px;">
@@ -727,7 +727,7 @@ JSPWiki</link></col>
 <row>
 <col colspan="2" style=";" class="navbox-abovebelow">
 <b>License</b>: <link xlink:type="simple" xlink:href="../908/145908.xml">
-Apache License</link>&nbsp;·  <b>Website</b>: http://apache.org/</col>
+Apache License</link> ·  <b>Website</b>: http://apache.org/</col>
 </row>
 </table>
 </col>

@@ -31,11 +31,11 @@ density matrix</link> of a system <math>(A,B)</math> composed of two subsystems 
 |-style="height:3pt"
 |nowrap rowspan="2"|<math>
 E_{CMI}(\varrho_{A, B}) = \frac{1}{2}\min_{\varrho_{A,B,\Lambda}\in K}S(A:B | \Lambda) 
-</math>,&nbsp;
-|&nbsp;
-|nowrap rowspan="2" align="right"|&nbsp;<b>Eq.(1)</b>
+</math>, 
+| 
+|nowrap rowspan="2" align="right"| <b>Eq.(1)</b>
 |-style="height:2pt"
-|style="border-top:3px dotted #e5e5e5; width:99%;"|&nbsp;
+|style="border-top:3px dotted #e5e5e5; width:99%;"| 
 |-
 |}</p>
 <p>
@@ -69,11 +69,11 @@ mutual information</link>, a measure of correlations, as</p>
 |-style="height:3pt"
 |nowrap rowspan="2"|<math>
 H(A:B) =H(A) + H(B) - H(A, B)\,
-</math>.&nbsp;
-|&nbsp;
-|nowrap rowspan="2" align="right"|&nbsp;<b>Eq.(2)</b>
+</math>. 
+| 
+|nowrap rowspan="2" align="right"| <b>Eq.(2)</b>
 |-style="height:2pt"
-|style="border-top:3px dotted #e5e5e5; width:99%;"|&nbsp;
+|style="border-top:3px dotted #e5e5e5; width:99%;"| 
 |-
 |}</p>
 <p>
@@ -91,11 +91,11 @@ For three random variables <math>A,B,C</math>, it defines the CMI as</p>
 H(A : B | \Lambda)&amp;=&amp; H(A|\Lambda)+ H(B | \Lambda)- H(A, B | \Lambda)\\
 &amp;=&amp;H(A, \Lambda)+H(B, \Lambda)-H(\Lambda)-H(A, B, \Lambda)
 \end{matrix}
-</math>.&nbsp;
-|&nbsp;
-|nowrap rowspan="2" align="right"|&nbsp;<b>Eq.(3)</b>
+</math>. 
+| 
+|nowrap rowspan="2" align="right"| <b>Eq.(3)</b>
 |-style="height:2pt"
-|style="border-top:3px dotted #e5e5e5; width:99%;"|&nbsp;
+|style="border-top:3px dotted #e5e5e5; width:99%;"| 
 |-
 |}</p>
 <p>
@@ -116,11 +116,11 @@ partial trace</link> of <math>\varrho_{A, B, \Lambda}</math> with respect to one
 |-style="height:3pt"
 |nowrap rowspan="2"|<math>
 S(A:B) = S(\varrho_{A}) + S(\varrho_{B}) -S(\varrho_{A, B})
-\,</math>,&nbsp;
-|&nbsp;
-|nowrap rowspan="2" align="right"|&nbsp;<b>Eq.(4)</b>
+\,</math>, 
+| 
+|nowrap rowspan="2" align="right"| <b>Eq.(4)</b>
 |-style="height:2pt"
-|style="border-top:3px dotted #e5e5e5; width:99%;"|&nbsp;
+|style="border-top:3px dotted #e5e5e5; width:99%;"| 
 |-
 |}</p>
 <p>
@@ -140,11 +140,11 @@ S(\varrho_{A, \Lambda})
 +S(\varrho_{B, \Lambda})
 -S(\varrho_\Lambda)
 -S(\varrho_{A, B, \Lambda})
-\,</math>.&nbsp;
-|&nbsp;
-|nowrap rowspan="2" align="right"|&nbsp;<b>Eq.(5)</b>
+\,</math>. 
+| 
+|nowrap rowspan="2" align="right"| <b>Eq.(5)</b>
 |-style="height:2pt"
-|style="border-top:3px dotted #e5e5e5; width:99%;"|&nbsp;
+|style="border-top:3px dotted #e5e5e5; width:99%;"| 
 |-
 |}</p>
 <p>
@@ -163,11 +163,11 @@ Consider three random variables <math>A,B, \Lambda</math> with probability distr
 |-style="height:3pt"
 |nowrap rowspan="2"|<math>
 P(a, b, \lambda) = P(a| \lambda) P(b | \lambda) P(\lambda)\,
-</math>,&nbsp;
-|&nbsp;
-|nowrap rowspan="2" align="right"|&nbsp;<b>Eq.(6)</b>
+</math>, 
+| 
+|nowrap rowspan="2" align="right"| <b>Eq.(6)</b>
 |-style="height:2pt"
-|style="border-top:3px dotted #e5e5e5; width:99%;"|&nbsp;
+|style="border-top:3px dotted #e5e5e5; width:99%;"| 
 |-
 |}</p>
 <p>
@@ -208,11 +208,11 @@ One can define a classical CMI entanglement by</p>
 |-style="height:3pt"
 |nowrap rowspan="2"|<math>
 E_{CMI}( P_{A,B}) = \min_{P_{A, B, \Lambda}\in K} H(A: B |\Lambda)
-</math>,&nbsp;
-|&nbsp;
-|nowrap rowspan="2" align="right"|&nbsp;<b>Eq.(7)</b>
+</math>, 
+| 
+|nowrap rowspan="2" align="right"| <b>Eq.(7)</b>
 |-style="height:2pt"
-|style="border-top:3px dotted #e5e5e5; width:99%;"|&nbsp;
+|style="border-top:3px dotted #e5e5e5; width:99%;"| 
 |-
 |}</p>
 <p>
@@ -231,11 +231,11 @@ Suppose <math>w_\lambda</math> for <math>\lambda=1,2,...,dim(\Lambda)</math> is 
 |-style="height:3pt"
 |nowrap rowspan="2"|<math>
 \varrho_{A, B, \Lambda}=\sum_\lambda \varrho_A^\lambda \varrho_B^\lambda w_\lambda |\lambda\rangle\langle\lambda|
-\,</math>&nbsp;
-|&nbsp;
-|nowrap rowspan="2" align="right"|&nbsp;<b>Eq.(8)</b>
+\,</math> 
+| 
+|nowrap rowspan="2" align="right"| <b>Eq.(8)</b>
 |-style="height:2pt"
-|style="border-top:3px dotted #e5e5e5; width:99%;"|&nbsp;
+|style="border-top:3px dotted #e5e5e5; width:99%;"| 
 |-
 |}</p>
 <p>

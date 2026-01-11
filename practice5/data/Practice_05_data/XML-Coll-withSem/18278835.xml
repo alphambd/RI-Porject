@@ -251,7 +251,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2F36.942551">
-10.1109/36.942551</weblink>.</cite>&nbsp;</entry>
+10.1109/36.942551</weblink>.</cite> </entry>
 <entry id="8">
 <weblink xlink:type="simple" xlink:href="http://www.eurockot.com/alist.asp?cnt=20040811&amp;main=3&amp;subm=97#">
 ESA's Salty Mission from Plesetsk in 2008</weblink> The Rockot Missions. Eurolaunch Launch Service Provider</entry>
@@ -319,7 +319,7 @@ Guiana Space Centre</link></geographical_area>
 </center>
 </region>
 </site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -344,9 +344,9 @@ Esrange</link></geographical_area>
 Programmes</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../500/1176500.xml">
-Aurora Programme</link> &nbsp;·  <link xlink:type="simple" xlink:href="../172/18287172.xml">
-Living Planet (Earth Observation, Earth Watch) Programme</link> &nbsp;·  <link xlink:type="simple" xlink:href="../849/1752849.xml">
-Orfeo Programme</link> &nbsp;·   <link>
+Aurora Programme</link>  ·  <link xlink:type="simple" xlink:href="../172/18287172.xml">
+Living Planet (Earth Observation, Earth Watch) Programme</link>  ·  <link xlink:type="simple" xlink:href="../849/1752849.xml">
+Orfeo Programme</link>  ·   <link>
 Technology Transfer Programme</link></col>
 </row>
 <row style="height:2px">
@@ -357,12 +357,12 @@ Technology Transfer Programme</link></col>
 Related</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../000/610000.xml">
-EUMETSAT</link>&nbsp;·   <link xlink:type="simple" xlink:href="../505/6310505.xml">
-European Space Camp</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+EUMETSAT</link> ·   <link xlink:type="simple" xlink:href="../505/6310505.xml">
+European Space Camp</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../112/3112.xml">
 Arianespace</link></company>
- &nbsp;·  <link xlink:type="simple" xlink:href="../637/17888637.xml">
-Planetary Science Archive</link>  &nbsp;·  <link xlink:type="simple" xlink:href="../896/18077896.xml">
+  ·  <link xlink:type="simple" xlink:href="../637/17888637.xml">
+Planetary Science Archive</link>   ·  <link xlink:type="simple" xlink:href="../896/18077896.xml">
 GEWEX</link></col>
 </row>
 <row style="height:2px">
@@ -404,8 +404,8 @@ Current</col>
 Already launched</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../607/15721607.xml">
-Artemis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../961/227961.xml">
-ATV</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+Artemis</link> ·  <link xlink:type="simple" xlink:href="../961/227961.xml">
+ATV</link> ·  <process wordnetid="105701363" confidence="0.8">
 <failure wordnetid="100066636" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
@@ -428,7 +428,7 @@ Cluster</link></higher_cognitive_process>
 </inquiry>
 </failure>
 </process>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -437,8 +437,8 @@ Columbus</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../691/208691.xml">
-Corot</link>&nbsp;·  <satellite wordnetid="104137444" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../691/208691.xml">
+Corot</link> ·  <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -447,15 +447,15 @@ Envisat</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <link>
-ERS-2</link>&nbsp;·  <link xlink:type="simple" xlink:href="../195/3143195.xml">
-GIOVE-A</link>&nbsp;·  <link xlink:type="simple" xlink:href="../195/3143195.xml">
-GIOVE-B</link>&nbsp;· <link xlink:type="simple" xlink:href="../009/13009.xml">
-Galileo positioning system</link>&nbsp;·  <telescope wordnetid="104403638" confidence="0.9508927676800064">
+ ·  <link>
+ERS-2</link> ·  <link xlink:type="simple" xlink:href="../195/3143195.xml">
+GIOVE-A</link> ·  <link xlink:type="simple" xlink:href="../195/3143195.xml">
+GIOVE-B</link> · <link xlink:type="simple" xlink:href="../009/13009.xml">
+Galileo positioning system</link> ·  <telescope wordnetid="104403638" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../203/40203.xml">
 Hubble Space Telescope</link></telescope>
-&nbsp;·  <link xlink:type="simple" xlink:href="../187/1529187.xml">
-Integral</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../187/1529187.xml">
+Integral</link> ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -472,10 +472,10 @@ Mars Express</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../370/7629370.xml">
-MetOp-A</link>&nbsp;·  <link xlink:type="simple" xlink:href="../100/179100.xml">
-Rosetta</link>&nbsp;·  <link xlink:type="simple" xlink:href="../362/350362.xml">
-SOHO</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../370/7629370.xml">
+MetOp-A</link> ·  <link xlink:type="simple" xlink:href="../100/179100.xml">
+Rosetta</link> ·  <link xlink:type="simple" xlink:href="../362/350362.xml">
+SOHO</link> ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -492,10 +492,10 @@ Ulysses</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <telescope wordnetid="104403638" confidence="0.9508927676800064">
+ ·  <telescope wordnetid="104403638" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../960/227960.xml">
 XMM-Newton</link></telescope>
-&nbsp;·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
+ ·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../260/839260.xml">
 Venus Express</link></spacecraft>
 </col>
@@ -516,14 +516,14 @@ ADM-Aeolus</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
+ ·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../228/551228.xml">
 BepiColombo</link></spacecraft>
-&nbsp;·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
+ ·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../431/1024431.xml">
 Chandrayaan-1</link></spacecraft>
-&nbsp;·  <link xlink:type="simple" xlink:href="../235/1931235.xml">
-CryoSat-2</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../235/1931235.xml">
+CryoSat-2</link> ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -536,11 +536,11 @@ Don Quijote</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
+ ·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../669/1193669.xml">
 ExoMars</link></spacecraft>
-&nbsp;·  <link xlink:type="simple" xlink:href="../009/13009.xml">
-Galileo positioning system</link>&nbsp;·  <magnifier wordnetid="103709206" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../009/13009.xml">
+Galileo positioning system</link> ·  <magnifier wordnetid="103709206" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
 <scientific_instrument wordnetid="104147495" confidence="0.8">
 <instrument wordnetid="103574816" confidence="0.8">
@@ -567,15 +567,15 @@ Gaia</link></higher_cognitive_process>
 </scientific_instrument>
 </problem_solving>
 </magnifier>
-&nbsp;·  <link xlink:type="simple" xlink:href="../435/2717435.xml">
-GOCE</link>&nbsp;· <telescope wordnetid="104403638" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../435/2717435.xml">
+GOCE</link> · <telescope wordnetid="104403638" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../577/1172577.xml">
 Herschel Space Observatory</link></telescope>
-&nbsp;·  <link xlink:type="simple" xlink:href="../038/423038.xml">
-KEO</link>&nbsp;·  <telescope wordnetid="104403638" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../038/423038.xml">
+KEO</link> ·  <telescope wordnetid="104403638" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../221/434221.xml">
 James Webb Space Telescope</link></telescope>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -588,9 +588,9 @@ LISA Pathfinder</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../775/1529775.xml">
-Planck Satellite</link>&nbsp;·  <link xlink:type="simple" xlink:href="../835/18278835.xml">
-SMOS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../081/15038081.xml">
+ ·  <link xlink:type="simple" xlink:href="../775/1529775.xml">
+Planck Satellite</link> ·  <link xlink:type="simple" xlink:href="../835/18278835.xml">
+SMOS</link> ·  <link xlink:type="simple" xlink:href="../081/15038081.xml">
 Proba-2</link></col>
 </row>
 </table>
@@ -604,8 +604,8 @@ Proba-2</link></col>
 Future</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../991/4478991.xml">
-Crew Space Transportation System</link>&nbsp;·  <link xlink:type="simple" xlink:href="../708/9890708.xml">
-Cosmic Vision</link>&nbsp;·  <magnifier wordnetid="103709206" confidence="0.8">
+Crew Space Transportation System</link> ·  <link xlink:type="simple" xlink:href="../708/9890708.xml">
+Cosmic Vision</link> ·  <magnifier wordnetid="103709206" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -620,7 +620,7 @@ XEUS</link></telescope>
 </instrumentality>
 </artifact>
 </magnifier>
-&nbsp;·  <magnifier wordnetid="103709206" confidence="0.8">
+ ·  <magnifier wordnetid="103709206" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -635,10 +635,10 @@ Darwin Mission</link></telescope>
 </instrumentality>
 </artifact>
 </magnifier>
-&nbsp;·  <link xlink:type="simple" xlink:href="../914/1096914.xml">
-EADS Phoenix</link>&nbsp;·  <link xlink:type="simple" xlink:href="../800/11252800.xml">
-FLPP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../085/4410085.xml">
-IXV</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../914/1096914.xml">
+EADS Phoenix</link> ·  <link xlink:type="simple" xlink:href="../800/11252800.xml">
+FLPP</link> ·  <link xlink:type="simple" xlink:href="../085/4410085.xml">
+IXV</link> ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -655,7 +655,7 @@ Mars Sample Return Mission</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">

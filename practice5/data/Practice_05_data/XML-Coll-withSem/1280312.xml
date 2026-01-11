@@ -231,7 +231,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F324133.324140">
-10.1145/324133.324140</weblink>.</cite>&nbsp;</entry>
+10.1145/324133.324140</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">J. M. Kleinberg&#32;(2000).&#32;"Navigation in a small world". <it>Nature</it>&#32;<b>406</b>: 845. <document wordnetid="106470073" confidence="0.8">
@@ -242,10 +242,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2F35022643">
-10.1038/35022643</weblink>.</cite>&nbsp;</entry>
+10.1038/35022643</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Kleinberg, Jon;&#32;Éva Tardos&#32;(2006). Algorithm Design.&#32;Addison-Wesley, Boston. ISBN 0321295358.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Kleinberg, Jon;&#32;Éva Tardos&#32;(2006). Algorithm Design.&#32;Addison-Wesley, Boston. ISBN 0321295358.</cite> </entry>
 </list>
 </p>
 
@@ -308,8 +308,8 @@ Notices of the American Mathematical Society</link></publication>
 </creation>
 </product>
 </work>
-</it>&#32;<b>54</b>&#32;(6): pp.740&ndash;743. Retrieved on <link>
-2008-01-15</link>.</cite>&nbsp;</entry>
+</it>&#32;<b>54</b>&#32;(6): pp.740–743. Retrieved on <link>
+2008-01-15</link>.</cite> </entry>
 </list>
 </p>
 
@@ -342,7 +342,7 @@ winners</header>
 <link xlink:type="simple" xlink:href="../127/46127.xml">
 Tarjan</link></scientist>
 </person>
- (1982)&nbsp;· 
+ (1982) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -366,11 +366,11 @@ Valiant</link></associate>
 </person>
 </peer>
 </physical_entity>
- (1986)&nbsp;· 
+ (1986) · 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../454/3533454.xml">
 Razborov</link></scientist>
- (1990)&nbsp;· 
+ (1990) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -382,13 +382,13 @@ Wigderson</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
- (1994)&nbsp;· 
+ (1994) · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../338/68338.xml">
 Shor</link></scientist>
 </person>
- (1998)&nbsp;· 
+ (1998) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <honoree wordnetid="110183757" confidence="0.8">
@@ -414,7 +414,7 @@ Sudan</link></educator>
 </honoree>
 </person>
 </physical_entity>
- (2002)&nbsp;·  
+ (2002) ·  
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../312/1280312.xml">
 Kleinberg</link></scientist>

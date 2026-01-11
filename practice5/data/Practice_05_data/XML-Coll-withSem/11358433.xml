@@ -208,25 +208,25 @@ Eclipse Foundation</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../214/237214.xml">
-AspectJ</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+AspectJ</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../119/11454119.xml">
 BIRT</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../247/12868247.xml">
-Buckminster</link>&nbsp;·  <environment wordnetid="113934596" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../247/12868247.xml">
+Buckminster</link> ·  <environment wordnetid="113934596" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <situation wordnetid="113927383" confidence="0.8">
 <link xlink:type="simple" xlink:href="../958/216958.xml">
 Eclipse</link></situation>
 </state>
 </environment>
-&nbsp;·  <link xlink:type="simple" xlink:href="../160/13888160.xml">
-Equinox</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../160/13888160.xml">
+Equinox</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../379/13019379.xml">
 EclipseLink</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../205/468205.xml">
-Standard Widget Toolkit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../538/13501538.xml">
-Mylyn</link>&nbsp;·  <link xlink:type="simple" xlink:href="../284/6549284.xml">
-JFace</link>&nbsp;·  <link xlink:type="simple" xlink:href="../436/13790436.xml">
+ ·  <link xlink:type="simple" xlink:href="../205/468205.xml">
+Standard Widget Toolkit</link> ·  <link xlink:type="simple" xlink:href="../538/13501538.xml">
+Mylyn</link> ·  <link xlink:type="simple" xlink:href="../284/6549284.xml">
+JFace</link> ·  <link xlink:type="simple" xlink:href="../436/13790436.xml">
 Rich AJAX Platform</link></col>
 </row>
 <row style="height:2px;">
@@ -235,7 +235,7 @@ Rich AJAX Platform</link></col>
 <row>
 <col colspan="2" style=";" class="navbox-abovebelow">
 <b>License</b>: <link xlink:type="simple" xlink:href="../373/3596373.xml">
-Eclipse Public License</link>&nbsp;·  <b>Website</b>: http://www.eclipse.org</col>
+Eclipse Public License</link> ·  <b>Website</b>: http://www.eclipse.org</col>
 </row>
 </table>
 </col>

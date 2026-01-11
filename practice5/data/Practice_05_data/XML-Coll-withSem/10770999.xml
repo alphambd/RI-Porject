@@ -49,7 +49,7 @@ Example</st>
 
 Consider for example a sequence of <link xlink:type="simple" xlink:href="../685/25685.xml">
 random variable</link>s, each of which takes a value from the ternary <link xlink:type="simple" xlink:href="../670/670.xml">
-alphabet</link> {<it>a</it>,&nbsp;<it>b</it>,&nbsp;<it>c</it>}. Specifically, consider the string <it>aaabcaaabcaaabcaaabc...aaabc</it> constructed from infinite concatenations of the sub-string <it>aaabc</it>.</p>
+alphabet</link> {<it>a</it>, <it>b</it>, <it>c</it>}. Specifically, consider the string <it>aaabcaaabcaaabcaaabc...aaabc</it> constructed from infinite concatenations of the sub-string <it>aaabc</it>.</p>
 <p>
 
 The VOM model of maximal order 2 can approximate the above string using <it>only</it> the following five <link xlink:type="simple" xlink:href="../791/5791.xml">
@@ -251,7 +251,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FTIT.1983.1056741">
-10.1109/TIT.1983.1056741</weblink>.</cite>&nbsp;</entry>
+10.1109/TIT.1983.1056741</weblink>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Shmilovici, A.; Ben-Gal, I.&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://www.springerlink.com/content/a447865604519210/">
 Using a VOM Model for Reconstructing Potential Coding Regions in EST Sequences</weblink>". <it>Computational Statistics</it>&#32;<b>22</b>&#32;(1): 49–69. <document wordnetid="106470073" confidence="0.8">
@@ -262,10 +262,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2Fs00180-007-0021-8">
-10.1007/s00180-007-0021-8</weblink>.</cite>&nbsp;</entry>
+10.1007/s00180-007-0021-8</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Begleiter, R.; El-Yaniv, R. and Yona, G.&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://www.jair.org/media/1491/live-1491-2335-jair.pdf">
-On Prediction Using Variable Order Markov Models</weblink>". <it>Journal of Artificial Intelligence Research</it>&#32;<b>22</b>: 385–421.</cite>&nbsp;</entry>
+On Prediction Using Variable Order Markov Models</weblink>". <it>Journal of Artificial Intelligence Research</it>&#32;<b>22</b>: 385–421.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Ben-Gal, I.; Morag, G. and Shmilovici, A.&#32;(2003).&#32;"<weblink xlink:type="simple" xlink:href="http://www.eng.tau.ac.il/~bengal/Technometrics_final.pdf">
 CSPC: A Monitoring Procedure for State Dependent Processes</weblink>". <it>Technometrics</it>&#32;<b>45</b>&#32;(4): 293–311. <document wordnetid="106470073" confidence="0.8">
@@ -276,10 +276,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1198%2F004017003000000122">
-10.1198/004017003000000122</weblink>.</cite>&nbsp;</entry>
+10.1198/004017003000000122</weblink>.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Bratko, A.; Cormack, G. V., Filipic, B., Lynam, T. and Zupan, B.&#32;(2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.jmlr.org/papers/volume7/bratko06a/bratko06a.pdf">
-Spam Filtering Using Statistical Data Compression Models</weblink>". <it>Journal of Machine Learning Research</it>&#32;<b>7</b>: 2673–2698.</cite>&nbsp;</entry>
+Spam Filtering Using Statistical Data Compression Models</weblink>". <it>Journal of Machine Learning Research</it>&#32;<b>7</b>: 2673–2698.</cite> </entry>
 </reflist>
 </p>
 

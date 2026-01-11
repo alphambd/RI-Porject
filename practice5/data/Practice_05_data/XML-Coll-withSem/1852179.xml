@@ -819,16 +819,16 @@ Films</col>
 <it><movie wordnetid="106613686" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/511622.xml">
 National Lampoon's Vacation</link></movie>
-</it>&nbsp;&amp;bull;  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../179/1852179.xml">
 National Lampoon's European Vacation</link></movie>
-</it>&nbsp;&amp;bull;  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../221/1125221.xml">
 National Lampoon's Christmas Vacation</link></movie>
-</it>&nbsp;&amp;bull;  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../067/2255067.xml">
 Vegas Vacation</link></movie>
-</it>&nbsp;&amp;bull;  </col>
+</it> &amp;bull;  </col>
 </row>
 <row style="height:2px">
 
@@ -844,16 +844,16 @@ Cast</col>
 Chevy Chase</link></manufacturer>
 </person>
 </comedian>
-&nbsp;&amp;bull;  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ &amp;bull;  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../611/701611.xml">
 Beverly D'Angelo</link></actor>
-&nbsp;&amp;bull;  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ &amp;bull;  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../460/325460.xml">
 Randy Quaid</link></actor>
-&nbsp;&amp;bull;  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ &amp;bull;  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../925/3888925.xml">
 Miriam Flynn</link></actor>
-&nbsp;&amp;bull;  <actress wordnetid="109767700" confidence="0.9173553029164789">
+ &amp;bull;  <actress wordnetid="109767700" confidence="0.9173553029164789">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../444/2243444.xml">
 Dana Barron</link></actor>
@@ -870,11 +870,11 @@ Crew</col>
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../587/277587.xml">
 Harold Ramis</link></actor>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../467/102467.xml">
-John Hughes</link>&nbsp;&amp;bull;  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../467/102467.xml">
+John Hughes</link> &amp;bull;  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../215/972215.xml">
 Amy Heckerling</link></actor>
-&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -889,7 +889,7 @@ Jeremiah S. Chechik</link></director>
 </leader>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../134/2270134.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../134/2270134.xml">
 Matty Simmons</link></col>
 </row>
 <row style="height:2px">

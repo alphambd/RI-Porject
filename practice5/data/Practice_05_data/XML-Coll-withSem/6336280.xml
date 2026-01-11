@@ -249,7 +249,7 @@ AIDS orphans</weblink>".&#32;  Avert.&#32;Retrieved on <link>
 2006-10-08</link>.</entry>
 <entry id="5">
  <cite id="CITEREFMarris2007" style="font-style:normal">Marris, Emma&#32;(July 4, 2007),&#32;"<weblink xlink:type="simple" xlink:href="http://www.nature.com/news/2007/070702/full/070702-10.html">
-AIDS harms the environment</weblink>",&#32;<it>News @ Nature.com</it>, </cite>&nbsp;</entry>
+AIDS harms the environment</weblink>",&#32;<it>News @ Nature.com</it>, </cite> </entry>
 <entry id="6">
  <weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/1/hi/world/africa/826742.stm">
 BBC News: Controversy dogs Aids forum</weblink></entry>
@@ -261,7 +261,7 @@ BBC News: South African split over Aids</weblink> </entry>
 South Africa's Aids action plan</weblink>".&#32;  the International Marketing Council of South Africa&#32;(2007-03-15).</entry>
 <entry id="9">
 Blandy, Fran&#32;(2006-08-16).&#32;"<weblink xlink:type="simple" xlink:href="http://www.mg.co.za/articlepage.aspx?area=/breaking_news/breaking_news__national/&amp;articleid=280903">
-'Dr Beetroot' hits back at media over Aids exhibition</weblink>", Mail &amp; Guardian Online.&nbsp;</entry>
+'Dr Beetroot' hits back at media over Aids exhibition</weblink>", Mail &amp; Guardian Online. </entry>
 <entry id="10">
 <weblink xlink:type="simple" xlink:href="http://news.scotsman.com/topics.cfm?tid=460&amp;id=1344522006">
 Garlic AIDS cure minister sidelined</weblink> 12 Sep 2006</entry>
@@ -336,10 +336,10 @@ Portal:South Africa</entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../221/17416221.xml">
 South Africa</link></country>
-&nbsp;<link xlink:type="simple" xlink:href="../649/374649.xml">
+ <link xlink:type="simple" xlink:href="../649/374649.xml">
 topics</link></header>
 </row>
 <row style="height:2px;">
@@ -351,15 +351,15 @@ topics</link></header>
 History</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../271/169271.xml">
-Cape Colony</link>&nbsp;·  <country wordnetid="108544813" confidence="0.9508927676800064">
+Cape Colony</link> ·  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../208/180208.xml">
 Orange Free State</link></country>
-&nbsp;·  <country wordnetid="108544813" confidence="0.9508927676800064">
+ ·  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../343/28343.xml">
 Transvaal</link></country>
-&nbsp;·  <link xlink:type="simple" xlink:href="../527/2200527.xml">
-Apartheid</link>&nbsp;·  <link xlink:type="simple" xlink:href="../376/27376.xml">
-Foreign relations</link>&nbsp;·  <link xlink:type="simple" xlink:href="../456/1356456.xml">
+ ·  <link xlink:type="simple" xlink:href="../527/2200527.xml">
+Apartheid</link> ·  <link xlink:type="simple" xlink:href="../376/27376.xml">
+Foreign relations</link> ·  <link xlink:type="simple" xlink:href="../456/1356456.xml">
 Nuclear programme</link></col>
 </row>
 <row style="height:2px">
@@ -381,10 +381,10 @@ Provinces</link></geographical_area>
 </location>
 </region>
 </subdivision>
-&nbsp;·  <link xlink:type="simple" xlink:href="../678/4039678.xml">
-Municipalities</link>&nbsp;·  <link xlink:type="simple" xlink:href="../817/211817.xml">
-Cities</link>&nbsp;·  <link xlink:type="simple" xlink:href="../620/579620.xml">
-Towns</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../678/4039678.xml">
+Municipalities</link> ·  <link xlink:type="simple" xlink:href="../817/211817.xml">
+Cities</link> ·  <link xlink:type="simple" xlink:href="../620/579620.xml">
+Towns</link> ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <national_park wordnetid="108600992" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -397,9 +397,9 @@ National parks</link></geographical_area>
 </national_park>
 </park>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../864/5284864.xml">
-Rivers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../754/661754.xml">
-Postal codes</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../864/5284864.xml">
+Rivers</link> ·  <link xlink:type="simple" xlink:href="../754/661754.xml">
+Postal codes</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <phone_number wordnetid="106426111" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <telecommunication wordnetid="106271778" confidence="0.8">
@@ -423,16 +423,16 @@ Telephone codes</link></medium>
 Politics</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../610/441610.xml">
-Constitution</link>&nbsp;·  <link xlink:type="simple" xlink:href="../389/396389.xml">
-Political parties</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+Constitution</link> ·  <link xlink:type="simple" xlink:href="../389/396389.xml">
+Political parties</link> ·  <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../093/924093.xml">
 Elections</link></psychological_feature>
 </event>
-&nbsp;·  <military wordnetid="108199025" confidence="0.9508927676800064">
+ ·  <military wordnetid="108199025" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../869/1161869.xml">
 Military</link></military>
-&nbsp;·  <link xlink:type="simple" xlink:href="../194/1228194.xml">
+ ·  <link xlink:type="simple" xlink:href="../194/1228194.xml">
 Police</link></col>
 </row>
 <row style="height:2px">
@@ -444,7 +444,7 @@ Police</link></col>
 Culture</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../406/1903406.xml">
-Art</link>&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+Art</link> ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -461,13 +461,13 @@ Cinema</link></psychological_feature>
 </artifact>
 </creation>
 </product>
-&nbsp;·  <link xlink:type="simple" xlink:href="../548/1646548.xml">
-Cuisine</link>&nbsp;·  <link xlink:type="simple" xlink:href="../481/3290481.xml">
-Education</link>&nbsp;·  <link xlink:type="simple" xlink:href="../028/1210028.xml">
-Language</link>&nbsp;·  <link xlink:type="simple" xlink:href="../708/8375708.xml">
-Literature</link>&nbsp;·  <link xlink:type="simple" xlink:href="../411/246411.xml">
-Music</link>&nbsp;·  <link xlink:type="simple" xlink:href="../223/336223.xml">
-Poets</link>&nbsp;·  <holiday wordnetid="115183428" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../548/1646548.xml">
+Cuisine</link> ·  <link xlink:type="simple" xlink:href="../481/3290481.xml">
+Education</link> ·  <link xlink:type="simple" xlink:href="../028/1210028.xml">
+Language</link> ·  <link xlink:type="simple" xlink:href="../708/8375708.xml">
+Literature</link> ·  <link xlink:type="simple" xlink:href="../411/246411.xml">
+Music</link> ·  <link xlink:type="simple" xlink:href="../223/336223.xml">
+Poets</link> ·  <holiday wordnetid="115183428" confidence="0.8">
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <calendar_day wordnetid="115157041" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
@@ -480,16 +480,16 @@ Public holidays</link></day>
 </calendar_day>
 </fundamental_quantity>
 </holiday>
-&nbsp;·  <link xlink:type="simple" xlink:href="../068/13673068.xml">
-Religion</link>&nbsp;·  <link xlink:type="simple" xlink:href="../546/10147546.xml">
-Sport</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../068/13673068.xml">
+Religion</link> ·  <link xlink:type="simple" xlink:href="../546/10147546.xml">
+Sport</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../102/1472102.xml">
 Media</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../429/1717429.xml">
+ ·  <link xlink:type="simple" xlink:href="../429/1717429.xml">
 Scouts</link></col>
 </row>
 <row style="height:2px">
@@ -501,12 +501,12 @@ Scouts</link></col>
 Other topics</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../380/11380.xml">
-Notable South Africans</link>&nbsp;·  <link xlink:type="simple" xlink:href="../280/6336280.xml">
-HIV/AIDS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../373/27373.xml">
-Communications</link>&nbsp;·  <link xlink:type="simple" xlink:href="../374/27374.xml">
-Transport</link>&nbsp;·  <link xlink:type="simple" xlink:href="../535/521535.xml">
-Companies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../455/6551455.xml">
-Crime in South Africa</link> &nbsp;· <link xlink:type="simple" xlink:href="../665/15410665.xml">
+Notable South Africans</link> ·  <link xlink:type="simple" xlink:href="../280/6336280.xml">
+HIV/AIDS</link> ·  <link xlink:type="simple" xlink:href="../373/27373.xml">
+Communications</link> ·  <link xlink:type="simple" xlink:href="../374/27374.xml">
+Transport</link> ·  <link xlink:type="simple" xlink:href="../535/521535.xml">
+Companies</link> ·  <link xlink:type="simple" xlink:href="../455/6551455.xml">
+Crime in South Africa</link>  · <link xlink:type="simple" xlink:href="../665/15410665.xml">
 Tourism</link></col>
 </row>
 </table>
@@ -538,14 +538,14 @@ AIDS</link>topics</header>
 HIV</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../170/14170.xml">
-HIV</link>&nbsp;·  <link xlink:type="simple" xlink:href="../927/2846927.xml">
-HIV structure and genome</link>&nbsp;·  <link xlink:type="simple" xlink:href="../845/28845.xml">
-Safe sex</link>&nbsp;·  <link xlink:type="simple" xlink:href="../553/339553.xml">
-HIV test</link>&nbsp;·  <link xlink:type="simple" xlink:href="../838/2530838.xml">
-CDC Classification System for HIV Infection</link>&nbsp;·  <link xlink:type="simple" xlink:href="../970/2378970.xml">
-HIV disease progression rates</link>&nbsp;·  <link xlink:type="simple" xlink:href="../473/147473.xml">
-HIV vaccine</link>&nbsp;·  <link xlink:type="simple" xlink:href="../680/2513680.xml">
-WHO Disease Staging System for HIV Infection and Disease</link>&nbsp;·  <disorder wordnetid="114052403" confidence="0.8">
+HIV</link> ·  <link xlink:type="simple" xlink:href="../927/2846927.xml">
+HIV structure and genome</link> ·  <link xlink:type="simple" xlink:href="../845/28845.xml">
+Safe sex</link> ·  <link xlink:type="simple" xlink:href="../553/339553.xml">
+HIV test</link> ·  <link xlink:type="simple" xlink:href="../838/2530838.xml">
+CDC Classification System for HIV Infection</link> ·  <link xlink:type="simple" xlink:href="../970/2378970.xml">
+HIV disease progression rates</link> ·  <link xlink:type="simple" xlink:href="../473/147473.xml">
+HIV vaccine</link> ·  <link xlink:type="simple" xlink:href="../680/2513680.xml">
+WHO Disease Staging System for HIV Infection and Disease</link> ·  <disorder wordnetid="114052403" confidence="0.8">
 <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <physical_condition wordnetid="114034177" confidence="0.8">
@@ -554,8 +554,8 @@ AIDS dementia complex</link></physical_condition>
 </state>
 </condition>
 </disorder>
-&nbsp;·  <link xlink:type="simple" xlink:href="../312/203312.xml">
-Antiretroviral drug</link>&nbsp;·  <link xlink:type="simple" xlink:href="../653/30653.xml">
+ ·  <link xlink:type="simple" xlink:href="../312/203312.xml">
+Antiretroviral drug</link> ·  <link xlink:type="simple" xlink:href="../653/30653.xml">
 Tuberculosis coinfection</link></col>
 </row>
 <row style="height:2px">
@@ -566,8 +566,8 @@ Tuberculosis coinfection</link></col>
 History</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../491/2340491.xml">
-AIDS origin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../554/2340554.xml">
-AIDS pandemic</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+AIDS origin</link> ·  <link xlink:type="simple" xlink:href="../554/2340554.xml">
+AIDS pandemic</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <depository wordnetid="103177349" confidence="0.8">
 <museum wordnetid="103800563" confidence="0.8">
@@ -576,7 +576,7 @@ AIDS Museum</link></museum>
 </depository>
 </facility>
 </artifact>
-&nbsp;·  <record wordnetid="106647206" confidence="0.8">
+ ·  <record wordnetid="106647206" confidence="0.8">
 <chronology wordnetid="106503224" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
@@ -609,8 +609,8 @@ International AIDS Conference</link></conference>
 </gathering>
 </meeting>
 </social_group>
-&nbsp;·  <link xlink:type="simple" xlink:href="../857/1284857.xml">
-International AIDS Society</link>&nbsp;·  <look wordnetid="100877127" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../857/1284857.xml">
+International AIDS Society</link> ·  <look wordnetid="100877127" confidence="0.8">
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <time wordnetid="115122231" confidence="0.8">
@@ -635,7 +635,7 @@ World AIDS Day</link></sensing>
 </time_period>
 </fundamental_quantity>
 </look>
-&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <politics wordnetid="113840719" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
@@ -652,13 +652,13 @@ Treatment Action Campaign</link></psychological_feature>
 </change>
 </event>
 </politics>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../259/105259.xml">
 Joint United Nations Programme on HIV/AIDS (UNAIDS)</link></agency>
 </administrative_unit>
-&nbsp;·  <link xlink:type="simple" xlink:href="../161/1238161.xml">
-President's Emergency Plan for AIDS Relief (PEPFAR)</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../161/1238161.xml">
+President's Emergency Plan for AIDS Relief (PEPFAR)</link> ·  <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -669,11 +669,11 @@ NAMES Project AIDS Memorial Quilt</link></attraction>
 </show>
 </social_event>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../736/368736.xml">
-HIV and AIDS misconceptions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../161/3156161.xml">
-List of HIV-positive people</link>&nbsp;·  <link xlink:type="simple" xlink:href="../204/2111204.xml">
-People With AIDS Self-Empowerment Movement</link>&nbsp;·  
-HIV-positive fictional characters|HIV&ndash;positive fictional characters&nbsp;·  <link xlink:type="simple" xlink:href="../389/2507389.xml">
+ ·  <link xlink:type="simple" xlink:href="../736/368736.xml">
+HIV and AIDS misconceptions</link> ·  <link xlink:type="simple" xlink:href="../161/3156161.xml">
+List of HIV-positive people</link> ·  <link xlink:type="simple" xlink:href="../204/2111204.xml">
+People With AIDS Self-Empowerment Movement</link> ·  
+HIV-positive fictional characters|HIV–positive fictional characters ·  <link xlink:type="simple" xlink:href="../389/2507389.xml">
 AIDS advocacy</link></col>
 </row>
 <row style="height:2px">
@@ -697,7 +697,7 @@ Denialism</link></hypothesis>
 Duesberg hypothesis</link></hypothesis>
 </proposal>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../915/1939915.xml">
+ ·  <link xlink:type="simple" xlink:href="../915/1939915.xml">
 Group for the Scientific Reappraisal of the HIV-AIDS Hypothesis</link></col>
 </row>
 </table>
@@ -711,8 +711,8 @@ Group for the Scientific Reappraisal of the HIV-AIDS Hypothesis</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../554/2340554.xml">
-AIDS pandemic</link>by region&nbsp;/ country</header>
+ <link xlink:type="simple" xlink:href="../554/2340554.xml">
+AIDS pandemic</link>by region / country</header>
 </row>
 <row style="height:2px;">
 
@@ -726,7 +726,7 @@ AIDS pandemic</link>by region&nbsp;/ country</header>
 Africa</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../280/6336280.xml">
-South Africa</link>&nbsp;·  <link xlink:type="simple" xlink:href="../416/13597416.xml">
+South Africa</link> ·  <link xlink:type="simple" xlink:href="../416/13597416.xml">
 Uganda</link></col>
 </row>
 <row style="height:2px">
@@ -748,7 +748,7 @@ United States</link></col>
 Asia</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../781/6021781.xml">
-China (PRC)</link>&nbsp;·  <pathological_state wordnetid="114051917" confidence="0.8">
+China (PRC)</link> ·  <pathological_state wordnetid="114051917" confidence="0.8">
 <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <physical_condition wordnetid="114034177" confidence="0.8">
@@ -759,10 +759,10 @@ India</link></ill_health>
 </state>
 </condition>
 </pathological_state>
-&nbsp;·  <link xlink:type="simple" xlink:href="../841/9644841.xml">
-Japan</link>&nbsp;·  <link xlink:type="simple" xlink:href="../124/8837124.xml">
-Myanmar (Burma)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../282/7325282.xml">
-Pakistan</link>&nbsp;·  <link xlink:type="simple" xlink:href="../324/5505324.xml">
+ ·  <link xlink:type="simple" xlink:href="../841/9644841.xml">
+Japan</link> ·  <link xlink:type="simple" xlink:href="../124/8837124.xml">
+Myanmar (Burma)</link> ·  <link xlink:type="simple" xlink:href="../282/7325282.xml">
+Pakistan</link> ·  <link xlink:type="simple" xlink:href="../324/5505324.xml">
 Taiwan (ROC)</link></col>
 </row>
 <row style="height:2px">
@@ -847,111 +847,111 @@ Sovereign states</link></col>
 <p>
 
 <link>
-Algeria</link>&nbsp;· 
+Algeria</link> · 
 <link>
-Angola</link>&nbsp;· 
+Angola</link> · 
 <link>
-Benin</link>&nbsp;· 
+Benin</link> · 
 <link>
-Botswana</link>&nbsp;· 
+Botswana</link> · 
 <link>
-Burkina Faso</link>&nbsp;· 
+Burkina Faso</link> · 
 <link>
-Burundi</link>&nbsp;· 
+Burundi</link> · 
 <link>
-Cameroon</link>&nbsp;· 
+Cameroon</link> · 
 <link>
-Cape Verde</link>&nbsp;· 
+Cape Verde</link> · 
 <link>
-Central African Republic</link>&nbsp;· 
+Central African Republic</link> · 
 <link>
-Chad</link>&nbsp;· 
+Chad</link> · 
 <link>
-Comoros</link>&nbsp;· 
+Comoros</link> · 
 <link>
-Democratic Republic of the Congo</link>&nbsp;· 
+Democratic Republic of the Congo</link> · 
 <link>
-Republic of the Congo</link>&nbsp;· 
+Republic of the Congo</link> · 
 <link>
-Côte d'Ivoire (Ivory Coast)</link>&nbsp;· 
+Côte d'Ivoire (Ivory Coast)</link> · 
 <link>
-Djibouti</link>&nbsp;· 
+Djibouti</link> · 
 <link>
-Egypt</link>1&nbsp;· 
+Egypt</link>1 · 
 <link>
-Equatorial Guinea</link>&nbsp;· 
+Equatorial Guinea</link> · 
 <link>
-Eritrea</link>&nbsp;· 
+Eritrea</link> · 
 <link>
-Ethiopia</link>&nbsp;· 
+Ethiopia</link> · 
 <link>
-Gabon</link>&nbsp;· 
+Gabon</link> · 
 <link>
-The Gambia</link>&nbsp;· 
+The Gambia</link> · 
 <link>
-Ghana</link>&nbsp;· 
+Ghana</link> · 
 <link>
-Guinea</link>&nbsp;· 
+Guinea</link> · 
 <link>
-Guinea-Bissau</link>&nbsp;· 
+Guinea-Bissau</link> · 
 <link>
-Kenya</link>&nbsp;· 
+Kenya</link> · 
 <link>
-Lesotho</link>&nbsp;· 
+Lesotho</link> · 
 <link>
-Liberia</link>&nbsp;· 
+Liberia</link> · 
 <link>
-Libya</link>&nbsp;· 
+Libya</link> · 
 <link>
-Madagascar</link>&nbsp;· 
+Madagascar</link> · 
 <link>
-Malawi</link>&nbsp;· 
+Malawi</link> · 
 <link>
-Mali</link>&nbsp;· 
+Mali</link> · 
 <link>
-Mauritania</link>&nbsp;· 
+Mauritania</link> · 
 <link>
-Mauritius</link>&nbsp;· 
+Mauritius</link> · 
 <link>
-Morocco</link>&nbsp;· 
+Morocco</link> · 
 <link>
-Mozambique</link>&nbsp;· 
+Mozambique</link> · 
 <link>
-Namibia</link>&nbsp;· 
+Namibia</link> · 
 <link>
-Niger</link>&nbsp;· 
+Niger</link> · 
 <link>
-Nigeria</link>&nbsp;· 
+Nigeria</link> · 
 <link>
-Rwanda</link>&nbsp;· 
+Rwanda</link> · 
 <it><link>
-Sahrawi Arab Democratic Republic</link></it>&nbsp;· 
+Sahrawi Arab Democratic Republic</link></it> · 
 <link>
-São Tomé and Príncipe</link>&nbsp;· 
+São Tomé and Príncipe</link> · 
 <link>
-Senegal</link>&nbsp;· 
+Senegal</link> · 
 <link>
-Seychelles</link>&nbsp;· 
+Seychelles</link> · 
 <link>
-Sierra Leone</link>&nbsp;· 
+Sierra Leone</link> · 
 <link>
-Somalia</link>&nbsp;· 
+Somalia</link> · 
 <link>
-South Africa</link>&nbsp;· 
+South Africa</link> · 
 <link>
-Sudan</link>&nbsp;· 
+Sudan</link> · 
 <link>
-Swaziland</link>&nbsp;· 
+Swaziland</link> · 
 <link>
-Tanzania</link>&nbsp;· 
+Tanzania</link> · 
 <link>
-Togo</link>&nbsp;· 
+Togo</link> · 
 <link>
-Tunisia</link>&nbsp;· 
+Tunisia</link> · 
 <link>
-Uganda</link>&nbsp;· 
+Uganda</link> · 
 <link>
-Zambia</link>&nbsp;· 
+Zambia</link> · 
 <link>
 Zimbabwe</link></p>
 </col>
@@ -980,26 +980,26 @@ territories</link></col>
 <p>
 
 <link>
-Canary Islands</link>&nbsp;/  <link>
-Ceuta</link>&nbsp;/  <link>
-Melilla</link> (Spain)&nbsp;· 
+Canary Islands</link> /  <link>
+Ceuta</link> /  <link>
+Melilla</link> (Spain) · 
 <link>
-Madeira</link> (Portugal)&nbsp;· 
+Madeira</link> (Portugal) · 
 <link>
-Mayotte</link>&nbsp;/  <link>
-Réunion</link> (France)&nbsp;· 
+Mayotte</link> /  <link>
+Réunion</link> (France) · 
 <link>
-Puntland</link>&nbsp;· 
+Puntland</link> · 
 <link>
-St. Helena</link> (UK)&nbsp;· 
+St. Helena</link> (UK) · 
 <link>
-Socotra</link> (Yemen)&nbsp;· 
+Socotra</link> (Yemen) · 
 <it><link>
-Somaliland</link></it>&nbsp;· 
+Somaliland</link></it> · 
 <link>
-Southern Sudan</link>&nbsp;· 
+Southern Sudan</link> · 
 <it><link>
-Western Sahara</link></it>&nbsp;· 
+Western Sahara</link></it> · 
 <link>
 Zanzibar</link>(Tanzania)</p>
 </col>
@@ -1012,7 +1012,7 @@ Zanzibar</link>(Tanzania)</p>
 <it>Italics</it> indicate an <link xlink:type="simple" xlink:href="../670/523670.xml">
 unrecognised or partially recognised country</link>. 
 1 <link xlink:type="simple" xlink:href="../678/1775678.xml">
-Transcontinental country</link>.&nbsp;</col>
+Transcontinental country</link>. </col>
 </row>
 </table>
 </col>

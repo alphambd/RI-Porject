@@ -343,7 +343,7 @@ Salon lists gtk-gnutella as one of the top five gnutella clients. (2002)</weblin
 <list>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Wang-2004" style="font-style:normal" class="book">Wang, Wallace&#32;(2004). Steal this file sharing book.&#32;San Francisco:&#32;No Starch Press. ISBN 1-59327-050-X.</cite>&nbsp;</entry>
+  <cite id="Reference-Wang-2004" style="font-style:normal" class="book">Wang, Wallace&#32;(2004). Steal this file sharing book.&#32;San Francisco:&#32;No Starch Press. ISBN 1-59327-050-X.</cite> </entry>
 <entry level="1" type="bullet">
 
  Ganslandt, Björn&#32;(2000).&#32;"<weblink xlink:type="simple" xlink:href="http://www.linux-magazine.com/issue/01/Gnutella.pdf">
@@ -436,10 +436,10 @@ Justin Frankel</link></causal_agent>
 </person>
 </blogger>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../099/1692099.xml">
 Tom Pepper</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -456,7 +456,7 @@ Spencer Kimball</link></employee>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../048/1969048.xml">
 Gene Kan</link></person>
 </col>
@@ -473,8 +473,8 @@ Technology</col>
 <link xlink:type="simple" xlink:href="../388/2497388.xml">
 Tiger Tree hash</link></function>
 </mathematical_relation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../141/192141.xml">
-Distributed hash table</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../141/192141.xml">
+Distributed hash table</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -483,10 +483,10 @@ Query flooding</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/538434.xml">
 I2P</link></software>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -499,7 +499,7 @@ TLS</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -508,7 +508,7 @@ NAT traversal</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../921/1427921.xml">
+ ·  <link xlink:type="simple" xlink:href="../921/1427921.xml">
 Magnet URI scheme</link></col>
 </row>
 <row style="height:2px">
@@ -519,8 +519,8 @@ Magnet URI scheme</link></col>
 Terminology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../909/225909.xml">
-Servent</link>&nbsp;·  <link xlink:type="simple" xlink:href="../669/1014669.xml">
-Overlay network</link>&nbsp;·  <link xlink:type="simple" xlink:href="../853/1995853.xml">
+Servent</link> ·  <link xlink:type="simple" xlink:href="../669/1014669.xml">
+Overlay network</link> ·  <link xlink:type="simple" xlink:href="../853/1995853.xml">
 Gnutella crawler</link></col>
 </row>
 <row style="height:2px">
@@ -540,7 +540,7 @@ Software</link></rule>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../921/173921.xml">
-GiFT</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+GiFT</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -551,17 +551,17 @@ GnucDNA</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../964/243964.xml">
-gtk-gnutella</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../964/243964.xml">
+gtk-gnutella</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../588/601588.xml">
 KCeasy</link></software>
- &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../956/17956.xml">
 LimeWire</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../168/13019168.xml">
 Phex</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -584,7 +584,7 @@ Shareaza</link></activity>
 </person>
 </physical_entity>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../698/13200698.xml">
+ ·  <link xlink:type="simple" xlink:href="../698/13200698.xml">
 historical clients</link></col>
 </row>
 </table>

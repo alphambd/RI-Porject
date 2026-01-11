@@ -161,10 +161,10 @@ J. B. Wells. <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.ed
 "Typability and type checking in the second-order lambda-calculus are equivalent and undecidable."</weblink> Tech. Rep. 93-011, Comput. Sci. Dept., Boston Univ., 1993.</entry>
 </reflist>
 
-<cite id="Reference-Brookshear-1989" style="font-style:normal" class="book">Brookshear, J. Glenn&#32;(1989). Theory of Computation: Formal Languages, Automata, and Complexity.&#32;Redwood City, California:&#32;Benjamin/Cummings Publishing Company, Inc..</cite>&nbsp; Appendix C includes impossibility of algorithms deciding if a grammar contains ambiguities, and impossibility of verifying program correctness by an algorithm as example of Halting Problem.</p>
+<cite id="Reference-Brookshear-1989" style="font-style:normal" class="book">Brookshear, J. Glenn&#32;(1989). Theory of Computation: Formal Languages, Automata, and Complexity.&#32;Redwood City, California:&#32;Benjamin/Cummings Publishing Company, Inc..</cite>  Appendix C includes impossibility of algorithms deciding if a grammar contains ambiguities, and impossibility of verifying program correctness by an algorithm as example of Halting Problem.</p>
 <p>
 
-<cite id="Reference-Moret-1991" style="font-style:normal" class="book">Moret, B. M. E.&#32;(1991). Algorithms from P to NP, volume 1 - Design and Efficiency.&#32;Redwood City, California:&#32;Benjamin/Cummings Publishing Company, Inc..</cite>&nbsp; Discusses intractability of problems with algorithms having exponential performance in Chapter 2, "Mathematical techniques for the analysis of algorithms."</p>
+<cite id="Reference-Moret-1991" style="font-style:normal" class="book">Moret, B. M. E.&#32;(1991). Algorithms from P to NP, volume 1 - Design and Efficiency.&#32;Redwood City, California:&#32;Benjamin/Cummings Publishing Company, Inc..</cite>  Discusses intractability of problems with algorithms having exponential performance in Chapter 2, "Mathematical techniques for the analysis of algorithms."</p>
 
 
 </sec>

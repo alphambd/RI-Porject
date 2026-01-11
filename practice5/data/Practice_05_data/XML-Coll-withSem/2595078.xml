@@ -319,8 +319,8 @@ Body</link></col>
 Framework</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;text-align:left; width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../704/851704.xml">
-Automobile platform</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../124/1399124.xml">
-Body-on-frame</link>&nbsp;&amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
+Automobile platform</link> &amp;bull;  <link xlink:type="simple" xlink:href="../124/1399124.xml">
+Body-on-frame</link> &amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -339,13 +339,13 @@ Bumper</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;&amp;bull;  <property wordnetid="104916342" confidence="0.8">
+ &amp;bull;  <property wordnetid="104916342" confidence="0.8">
 <manner wordnetid="104928903" confidence="0.8">
 <link xlink:type="simple" xlink:href="../509/2305509.xml">
 Cabrio coach</link></manner>
 </property>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../330/183330.xml">
-Chassis</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../330/183330.xml">
+Chassis</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <accessory wordnetid="102671780" confidence="0.8">
 <clothing wordnetid="103051540" confidence="0.8">
@@ -358,7 +358,7 @@ Continental tire</link></covering>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;&amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
+ &amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -377,16 +377,16 @@ Crumple zone</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../750/4051750.xml">
-Dagmar bumpers</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../553/10528553.xml">
-Decklid</link>&nbsp;&amp;bull;  <part wordnetid="113809207" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../750/4051750.xml">
+Dagmar bumpers</link> &amp;bull;  <link xlink:type="simple" xlink:href="../553/10528553.xml">
+Decklid</link> &amp;bull;  <part wordnetid="113809207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../283/5193283.xml">
 Fender</link></part>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../016/3509016.xml">
-Fender skirts</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../526/1029526.xml">
-Grille</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../575/470575.xml">
-Hood</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../608/16584608.xml">
-Hood scoop</link>&nbsp;&amp;bull;  <idea wordnetid="105833840" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../016/3509016.xml">
+Fender skirts</link> &amp;bull;  <link xlink:type="simple" xlink:href="../526/1029526.xml">
+Grille</link> &amp;bull;  <link xlink:type="simple" xlink:href="../575/470575.xml">
+Hood</link> &amp;bull;  <link xlink:type="simple" xlink:href="../608/16584608.xml">
+Hood scoop</link> &amp;bull;  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -395,8 +395,8 @@ Monocoque construction</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../997/17483997.xml">
-Overhang</link>&nbsp;&amp;bull;   <occupation wordnetid="100582388" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../997/17483997.xml">
+Overhang</link> &amp;bull;   <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -415,10 +415,10 @@ Pillar</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../408/4559408.xml">
-Pontoon fenders</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../906/4923906.xml">
-Quarter panel</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../505/659505.xml">
-Shaker scoop</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../408/4559408.xml">
+Pontoon fenders</link> &amp;bull;  <link xlink:type="simple" xlink:href="../906/4923906.xml">
+Quarter panel</link> &amp;bull;  <link xlink:type="simple" xlink:href="../505/659505.xml">
+Shaker scoop</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <accessory wordnetid="102671780" confidence="0.8">
 <clothing wordnetid="103051540" confidence="0.8">
@@ -431,8 +431,8 @@ Spoiler</link></covering>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../000/3145000.xml">
-Subframe</link>&nbsp;&amp;bull;  <property wordnetid="104916342" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../000/3145000.xml">
+Subframe</link> &amp;bull;  <property wordnetid="104916342" confidence="0.8">
 <manner wordnetid="104928903" confidence="0.8">
 <link xlink:type="simple" xlink:href="../375/1935375.xml">
 Tonneau</link></manner>
@@ -447,7 +447,7 @@ Tonneau</link></manner>
 Compartments</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;text-align:left; width:auto;;background:#f5f5f5;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../472/2109472.xml">
-Trunk/Boot</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../575/470575.xml">
+Trunk/Boot</link> &amp;bull;  <link xlink:type="simple" xlink:href="../575/470575.xml">
 Hood/Bonnet</link></col>
 </row>
 <row style="height:2px">
@@ -459,11 +459,11 @@ Hood/Bonnet</link></col>
 Doors</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;text-align:left; width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../993/1638993.xml">
-Butterfly doors</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../594/1073594.xml">
-Gull-wing door</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../708/2329708.xml">
-Scissor doors</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../350/523350.xml">
-Suicide door</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../825/17931825.xml">
-Sliding doors</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../824/17934824.xml">
+Butterfly doors</link> &amp;bull;  <link xlink:type="simple" xlink:href="../594/1073594.xml">
+Gull-wing door</link> &amp;bull;  <link xlink:type="simple" xlink:href="../708/2329708.xml">
+Scissor doors</link> &amp;bull;  <link xlink:type="simple" xlink:href="../350/523350.xml">
+Suicide door</link> &amp;bull;  <link xlink:type="simple" xlink:href="../825/17931825.xml">
+Sliding doors</link> &amp;bull;  <link xlink:type="simple" xlink:href="../824/17934824.xml">
 Canopy door</link></col>
 </row>
 <row style="height:2px">
@@ -487,8 +487,8 @@ Glass</link></covering>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;text-align:left; width:auto;;background:#f5f5f5;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../381/4798381.xml">
-Greenhouse</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../979/996979.xml">
-Sunroof</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+Greenhouse</link> &amp;bull;  <link xlink:type="simple" xlink:href="../979/996979.xml">
+Sunroof</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <accessory wordnetid="102671780" confidence="0.8">
 <clothing wordnetid="103051540" confidence="0.8">
@@ -501,9 +501,9 @@ Power window</link></covering>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../793/11033793.xml">
-Quarter glass</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../664/254664.xml">
-Windshield/Windscreen</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../713/402713.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../793/11033793.xml">
+Quarter glass</link> &amp;bull;  <link xlink:type="simple" xlink:href="../664/254664.xml">
+Windshield/Windscreen</link> &amp;bull;  <link xlink:type="simple" xlink:href="../713/402713.xml">
 Windshield/Windscreen wiper</link></col>
 </row>
 <row style="height:2px">
@@ -526,19 +526,19 @@ Curb feeler</link></covering>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../768/263768.xml">
-Bumper sticker</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../460/2118460.xml">
-Hood ornament</link>&nbsp;&amp;bull;  <substance wordnetid="100019613" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../768/263768.xml">
+Bumper sticker</link> &amp;bull;  <link xlink:type="simple" xlink:href="../460/2118460.xml">
+Hood ornament</link> &amp;bull;  <substance wordnetid="100019613" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <material wordnetid="114580897" confidence="0.8">
 <link xlink:type="simple" xlink:href="../212/1513212.xml">
 Japan Black paint</link></material>
 </part>
 </substance>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../901/7422901.xml">
-Monsoonshield</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../332/5519332.xml">
-Nerf bar</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../037/65037.xml">
-Tire/Tyre</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../901/7422901.xml">
+Monsoonshield</link> &amp;bull;  <link xlink:type="simple" xlink:href="../332/5519332.xml">
+Nerf bar</link> &amp;bull;  <link xlink:type="simple" xlink:href="../037/65037.xml">
+Tire/Tyre</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <accessory wordnetid="102671780" confidence="0.8">
 <clothing wordnetid="103051540" confidence="0.8">
@@ -551,7 +551,7 @@ Tow hitch</link></covering>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../031/3296031.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../031/3296031.xml">
 Truck accessory</link></col>
 </row>
 </table>
@@ -573,9 +573,9 @@ Equipment</link></col>
 Lighting</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;text-align:left; width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../077/2352077.xml">
-Daytime running lamp</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../780/418780.xml">
-Headlamp</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../760/5999760.xml">
-Hidden headlamps</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+Daytime running lamp</link> &amp;bull;  <link xlink:type="simple" xlink:href="../780/418780.xml">
+Headlamp</link> &amp;bull;  <link xlink:type="simple" xlink:href="../760/5999760.xml">
+Hidden headlamps</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <source_of_illumination wordnetid="104263760" confidence="0.8">
 <lamp wordnetid="103636248" confidence="0.8">
@@ -586,10 +586,10 @@ High-intensity discharge lamp</link></device>
 </source_of_illumination>
 </instrumentality>
 </artifact>
-&nbsp;&amp;bull;  <equipment wordnetid="103294048" confidence="0.9508927676800064">
+ &amp;bull;  <equipment wordnetid="103294048" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../853/59853.xml">
 Retroreflector</link></equipment>
-&nbsp;&amp;bull;  <plant_part wordnetid="113086908" confidence="0.8">
+ &amp;bull;  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <bulb wordnetid="113134059" confidence="0.8">
 <stalk wordnetid="113129165" confidence="0.8">
@@ -600,7 +600,7 @@ Sealed beam</link></plant_organ>
 </bulb>
 </natural_object>
 </plant_part>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../104/3499104.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../104/3499104.xml">
 Trafficators</link></col>
 </row>
 <row style="height:2px">
@@ -611,8 +611,8 @@ Trafficators</link></col>
 Legal and other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;text-align:left; width:auto;;background:#f5f5f5;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../136/166136.xml">
-Vehicle Identification Number</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../221/237221.xml">
-Vehicle registration plate</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+Vehicle Identification Number</link> &amp;bull;  <link xlink:type="simple" xlink:href="../221/237221.xml">
+Vehicle registration plate</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <sports_equipment wordnetid="104285146" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <home_plate wordnetid="103528901" confidence="0.8">
@@ -627,8 +627,8 @@ Vanity plate</link></baseball_equipment>
 </instrumentality>
 </sports_equipment>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../832/1529832.xml">
-Parktronic</link>&nbsp;&amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../832/1529832.xml">
+Parktronic</link> &amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -639,7 +639,7 @@ Motor vehicle theft</link></activity>
 </act>
 </event>
 </occupation>
-&nbsp;&amp;bull;  <substance wordnetid="100019613" confidence="0.8">
+ &amp;bull;  <substance wordnetid="100019613" confidence="0.8">
 <chemical wordnetid="114806838" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <material wordnetid="114580897" confidence="0.8">
@@ -648,7 +648,7 @@ Windshield/Windscreen washer fluid</link></material>
 </part>
 </chemical>
 </substance>
-&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+ &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <accessory wordnetid="102671780" confidence="0.8">
 <clothing wordnetid="103051540" confidence="0.8">
@@ -710,9 +710,9 @@ Backup camera</link></activity>
 </technology>
 </occupation>
 </application>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../496/3183496.xml">
-Boost gauge</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../462/662462.xml">
-Buzzer</link>&nbsp;&amp;bull;  <computer wordnetid="103082979" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../496/3183496.xml">
+Boost gauge</link> &amp;bull;  <link xlink:type="simple" xlink:href="../462/662462.xml">
+Buzzer</link> &amp;bull;  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
@@ -733,9 +733,9 @@ Carputer</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../853/12073853.xml">
-Electronic instrument cluster</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../772/4160772.xml">
-Fuel gauge</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../853/12073853.xml">
+Electronic instrument cluster</link> &amp;bull;  <link xlink:type="simple" xlink:href="../772/4160772.xml">
+Fuel gauge</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../866/11866.xml">
@@ -749,7 +749,7 @@ Global Positioning System</link></instrumentality>
 Automotive navigation system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+ &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <instrument wordnetid="103574816" confidence="0.8">
@@ -758,15 +758,15 @@ Head-up display</link></instrument>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../212/3541212.xml">
-Idiot light</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../804/5087804.xml">
-Malfunction Indicator Lamp</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../887/181887.xml">
-Night vision</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../877/72877.xml">
-Odometer</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../302/1325302.xml">
-Radar detector</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../863/18405863.xml">
-LIDAR detector</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../681/576681.xml">
-Speedometer</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../487/233487.xml">
-Tachometer</link>&nbsp;&amp;bull;  <computer wordnetid="103082979" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../212/3541212.xml">
+Idiot light</link> &amp;bull;  <link xlink:type="simple" xlink:href="../804/5087804.xml">
+Malfunction Indicator Lamp</link> &amp;bull;  <link xlink:type="simple" xlink:href="../887/181887.xml">
+Night vision</link> &amp;bull;  <link xlink:type="simple" xlink:href="../877/72877.xml">
+Odometer</link> &amp;bull;  <link xlink:type="simple" xlink:href="../302/1325302.xml">
+Radar detector</link> &amp;bull;  <link xlink:type="simple" xlink:href="../863/18405863.xml">
+LIDAR detector</link> &amp;bull;  <link xlink:type="simple" xlink:href="../681/576681.xml">
+Speedometer</link> &amp;bull;  <link xlink:type="simple" xlink:href="../487/233487.xml">
+Tachometer</link> &amp;bull;  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
@@ -801,13 +801,13 @@ Controls</col>
 <link xlink:type="simple" xlink:href="../477/295477.xml">
 Bowden cable</link></part>
 </invention>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../555/267555.xml">
-Cruise control (speed control)</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../923/1364923.xml">
-Electronic throttle control</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../135/5033135.xml">
-Gear stick</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../798/3509798.xml">
-Hand brake</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../827/3707827.xml">
-Manettino dial</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../013/772013.xml">
-Steering wheel</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../019/4707019.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../555/267555.xml">
+Cruise control (speed control)</link> &amp;bull;  <link xlink:type="simple" xlink:href="../923/1364923.xml">
+Electronic throttle control</link> &amp;bull;  <link xlink:type="simple" xlink:href="../135/5033135.xml">
+Gear stick</link> &amp;bull;  <link xlink:type="simple" xlink:href="../798/3509798.xml">
+Hand brake</link> &amp;bull;  <link xlink:type="simple" xlink:href="../827/3707827.xml">
+Manettino dial</link> &amp;bull;  <link xlink:type="simple" xlink:href="../013/772013.xml">
+Steering wheel</link> &amp;bull;  <link xlink:type="simple" xlink:href="../019/4707019.xml">
 Throttle</link></col>
 </row>
 <row style="height:2px">
@@ -841,8 +841,8 @@ Key</link></covering>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../426/533426.xml">
-Car alarm</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../426/533426.xml">
+Car alarm</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <accessory wordnetid="102671780" confidence="0.8">
 <clothing wordnetid="103051540" confidence="0.8">
@@ -855,15 +855,15 @@ Immobiliser</link></covering>
 </accessory>
 </commodity>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../022/76022.xml">
-Klaxon</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../022/76022.xml">
+Klaxon</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../646/369646.xml">
 Automatic vehicle location</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../903/2365903.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../903/2365903.xml">
 VIN etching</link></col>
 </row>
 <row style="height:2px">
@@ -894,8 +894,8 @@ Airbag</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../793/6235793.xml">
-Armrest</link>&nbsp;&amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../793/6235793.xml">
+Armrest</link> &amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -914,9 +914,9 @@ Automatic seat belt</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../292/2642292.xml">
-Bench seat</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../844/2248844.xml">
-Bucket seat</link>&nbsp;&amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../292/2642292.xml">
+Bench seat</link> &amp;bull;  <link xlink:type="simple" xlink:href="../844/2248844.xml">
+Bucket seat</link> &amp;bull;  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -935,8 +935,8 @@ Child safety lock</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../340/4582340.xml">
-Rumble seat</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../474/51474.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../340/4582340.xml">
+Rumble seat</link> &amp;bull;  <link xlink:type="simple" xlink:href="../474/51474.xml">
 Seat belt</link></col>
 </row>
 <row style="height:2px">
@@ -947,23 +947,23 @@ Seat belt</link></col>
 Other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;text-align:left; width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../088/7221088.xml">
-Air conditioning</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../356/905356.xml">
-Ancillary power</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../427/78427.xml">
-Car audio</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../395/789395.xml">
-Car phone</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../341/6237341.xml">
-Center console</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../797/725797.xml">
-Dashboard</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../265/6270265.xml">
-Flat tire</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../999/725999.xml">
-Glove compartment</link>&nbsp;&amp;bull;  <connection wordnetid="103091374" confidence="0.8">
+Air conditioning</link> &amp;bull;  <link xlink:type="simple" xlink:href="../356/905356.xml">
+Ancillary power</link> &amp;bull;  <link xlink:type="simple" xlink:href="../427/78427.xml">
+Car audio</link> &amp;bull;  <link xlink:type="simple" xlink:href="../395/789395.xml">
+Car phone</link> &amp;bull;  <link xlink:type="simple" xlink:href="../341/6237341.xml">
+Center console</link> &amp;bull;  <link xlink:type="simple" xlink:href="../797/725797.xml">
+Dashboard</link> &amp;bull;  <link xlink:type="simple" xlink:href="../265/6270265.xml">
+Flat tire</link> &amp;bull;  <link xlink:type="simple" xlink:href="../999/725999.xml">
+Glove compartment</link> &amp;bull;  <connection wordnetid="103091374" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../615/3502615.xml">
 Motorola connector</link></instrumentality>
 </artifact>
 </connection>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../488/1677488.xml">
-Power steering</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../512/1630512.xml">
-Rear-view mirror</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../027/8214027.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../488/1677488.xml">
+Power steering</link> &amp;bull;  <link xlink:type="simple" xlink:href="../512/1630512.xml">
+Rear-view mirror</link> &amp;bull;  <link xlink:type="simple" xlink:href="../027/8214027.xml">
 Sun visor</link></col>
 </row>
 </table>
@@ -975,7 +975,7 @@ Sun visor</link></col>
 <row>
 <col colspan="2" style=";" class="navbox-abovebelow">
 <b>
-Portal</b>&nbsp;&amp;bull;  <b>
+Portal</b> &amp;bull;  <b>
 Automobiles|Category</b></col>
 </row>
 </table>

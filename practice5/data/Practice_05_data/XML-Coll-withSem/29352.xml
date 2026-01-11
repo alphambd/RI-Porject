@@ -161,7 +161,7 @@ Flash</link>.
 There is no other algorithm with less data movement.</p>
 <p>
 
-Finally, selection sort is greatly outperformed on larger arrays by Θ(<it>n</it>&nbsp;log&nbsp;<it>n</it>) <link xlink:type="simple" xlink:href="../154/201154.xml">
+Finally, selection sort is greatly outperformed on larger arrays by Θ(<it>n</it> log <it>n</it>) <link xlink:type="simple" xlink:href="../154/201154.xml">
 divide-and-conquer</link> algorithms such as <link xlink:type="simple" xlink:href="../249/3268249.xml">
 quicksort</link> and <link xlink:type="simple" xlink:href="../039/20039.xml">
 mergesort</link>. However, insertion sort or selection sort are both typically faster for small arrays (i.e. fewer than 10-20 elements). A useful optimization in practice for the recursive algorithms is to switch to insertion sort or selection sort for "small enough" sublists.</p>
@@ -179,7 +179,7 @@ Heapsort</link></algorithm>
  greatly improves the basic algorithm by using an <link xlink:type="simple" xlink:href="../635/3669635.xml">
 implicit</link> <link xlink:type="simple" xlink:href="../996/13996.xml">
 heap</link> <link xlink:type="simple" xlink:href="../519/8519.xml">
-data structure</link> to speed up finding and removing the lowest datum. If implemented correctly, the heap will allow finding the next lowest element in Θ(log&nbsp;<it>n</it>) time instead of Θ(<it>n</it>) for the inner loop in normal selection sort, reducing the total running time to Θ(<it>n</it>&nbsp;log&nbsp;<it>n</it>).</p>
+data structure</link> to speed up finding and removing the lowest datum. If implemented correctly, the heap will allow finding the next lowest element in Θ(log <it>n</it>) time instead of Θ(<it>n</it>) for the inner loop in normal selection sort, reducing the total running time to Θ(<it>n</it> log <it>n</it>).</p>
 <p>
 
 A bidirectional variant of selection sort, called <link xlink:type="simple" xlink:href="../482/159482.xml">
@@ -218,14 +218,14 @@ Dictionary of Algorithms and Data Structures</link>.</entry>
 <link xlink:type="simple" xlink:href="../095/8095.xml">
 Donald Knuth</link></scientist>
 </person>
-. <it>The Art of Computer Programming</it>, Volume 3: <it>Sorting and Searching</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0. Pages 138&ndash;141 of Section 5.2.3: Sorting by Selection.</entry>
+. <it>The Art of Computer Programming</it>, Volume 3: <it>Sorting and Searching</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0. Pages 138–141 of Section 5.2.3: Sorting by Selection.</entry>
 <entry level="1" type="bullet">
 
  Anany Levitin. <it>Introduction to the Design &amp; Analysis of Algorithms</it>, 2nd Edition. ISBN 0-321-35828-7. Section 3.1: Selection Sort, pp 98-100.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../755/2819755.xml">
-Robert Sedgewick (computer scientist)</link>. <it>Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching: Fundamentals, Data Structures, Sorting, Searching Pts. 1-4</it>, Second Edition. Addison-Wesley Longman, 1998. ISBN 0201350882. Pages 273&ndash;274</entry>
+Robert Sedgewick (computer scientist)</link>. <it>Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching: Fundamentals, Data Structures, Sorting, Searching Pts. 1-4</it>, Second Edition. Addison-Wesley Longman, 1998. ISBN 0201350882. Pages 273–274</entry>
 </list>
 </p>
 

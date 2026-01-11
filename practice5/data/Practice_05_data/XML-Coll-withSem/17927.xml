@@ -902,17 +902,17 @@ Array</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../368/1368.xml">
-Assembly</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../368/1368.xml">
+Assembly</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../101/174101.xml">
 Compiled</link></subject>
 </message>
- &nbsp;·  <link xlink:type="simple" xlink:href="../605/2581605.xml">
-Concurrent</link> &nbsp;·  <link xlink:type="simple" xlink:href="../103/560103.xml">
-Curly bracket</link> &nbsp;·  <link>
-Data-oriented</link> &nbsp;·  <link xlink:type="simple" xlink:href="../378/2468378.xml">
-Data-structured</link> &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../605/2581605.xml">
+Concurrent</link>  ·  <link xlink:type="simple" xlink:href="../103/560103.xml">
+Curly bracket</link>  ·  <link>
+Data-oriented</link>  ·  <link xlink:type="simple" xlink:href="../378/2468378.xml">
+Data-structured</link>  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -921,7 +921,7 @@ Dataflow</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -930,9 +930,9 @@ Declarative</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../239/519239.xml">
-Domain-specific</link> &nbsp;·  <link xlink:type="simple" xlink:href="../398/53398.xml">
-Esoteric</link> &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../239/519239.xml">
+Domain-specific</link>  ·  <link xlink:type="simple" xlink:href="../398/53398.xml">
+Esoteric</link>  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -941,7 +941,7 @@ Extensible</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -950,7 +950,7 @@ Functional</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -959,15 +959,15 @@ Imperative</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../089/15089.xml">
-Interpreted</link> &nbsp;·  <link xlink:type="simple" xlink:href="../de)/17927_(Z$I$P$_code).xml">
-Logic</link> &nbsp;·  <link xlink:type="simple" xlink:href="../683/20683.xml">
-Machine</link> &nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../089/15089.xml">
+Interpreted</link>  ·  <link xlink:type="simple" xlink:href="../de)/17927_(Z$I$P$_code).xml">
+Logic</link>  ·  <link xlink:type="simple" xlink:href="../683/20683.xml">
+Machine</link>  ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../560/20560.xml">
 Macro</link></concept>
 </idea>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -976,7 +976,7 @@ Metaprogramming</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -985,14 +985,14 @@ Multi-paradigm</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../497/365497.xml">
-Non-English-based</link> &nbsp;·  <link xlink:type="simple" xlink:href="../758/22758.xml">
-Object-oriented</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../497/365497.xml">
+Non-English-based</link>  ·  <link xlink:type="simple" xlink:href="../758/22758.xml">
+Object-oriented</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../595/605595.xml">
 Off-side rule</link></subject>
 </message>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1001,7 +1001,7 @@ Pipeline</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1010,7 +1010,7 @@ Procedural</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1019,7 +1019,7 @@ Prototype-based</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1028,10 +1028,10 @@ Reflective</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link>
-Rule-based</link> &nbsp;·  <link xlink:type="simple" xlink:href="../524/29524.xml">
-Scripting</link> &nbsp;·  <link xlink:type="simple" xlink:href="../347/2211347.xml">
-Synchronous</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link>
+Rule-based</link>  ·  <link xlink:type="simple" xlink:href="../524/29524.xml">
+Scripting</link>  ·  <link xlink:type="simple" xlink:href="../347/2211347.xml">
+Synchronous</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../268/499268.xml">
 Visual</link></subject>

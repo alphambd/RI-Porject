@@ -95,7 +95,7 @@ axons</link>, <link xlink:type="simple" xlink:href="../131/8131.xml">
 dendrites</link> and <link xlink:type="simple" xlink:href="../809/27809.xml">
 synapses</link>) which constitute one of its most significant information processing elements (see <link xlink:type="simple" xlink:href="../245/21245.xml">
 Neuroscience</link>). In a neural network model, simple <link xlink:type="simple" xlink:href="../771/349771.xml">
-nodes</link> (called variously "neurons", "neurodes", "PEs" ("processing elements") or "units") are connected together to form a network of nodes &mdash; hence the term "neural network." While a neural network does not have to be adaptive per se, its practical use comes with algorithms designed to alter the strength (weights) of the connections in the network to produce a desired signal flow.</p>
+nodes</link> (called variously "neurons", "neurodes", "PEs" ("processing elements") or "units") are connected together to form a network of nodes — hence the term "neural network." While a neural network does not have to be adaptive per se, its practical use comes with algorithms designed to alter the strength (weights) of the connections in the network to produce a desired signal flow.</p>
 <p>
 
 These networks are also similar to the <link xlink:type="simple" xlink:href="../672/1726672.xml">
@@ -211,7 +211,7 @@ When <math>N \rightarrow \infty</math> some form of online learning must be used
 
 <it>See also: <link xlink:type="simple" xlink:href="../033/52033.xml">
 Optimization (mathematics)</link>, <link xlink:type="simple" xlink:href="../926/1565926.xml">
-Estimation theory</link>,&nbsp;and <link xlink:type="simple" xlink:href="../488/233488.xml">
+Estimation theory</link>, and <link xlink:type="simple" xlink:href="../488/233488.xml">
 Machine learning</link></it>
 </indent>
 
@@ -1288,7 +1288,7 @@ Patents</st>
 
  Arima, et al., <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=5293457">
 U.S. Patent 5,293,457</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=5293457">
-&nbsp;</weblink>,"<it>Neural network integrated circuit device having self-organizing function</it>".  March 8, 1994.</entry>
+ </weblink>,"<it>Neural network integrated circuit device having self-organizing function</it>".  March 8, 1994.</entry>
 </list>
 </p>
 
@@ -1320,7 +1320,7 @@ Bar-Yam, Yaneer</link></educator>
 </person>
 </physical_entity>
 &#32;(2003). <weblink xlink:type="simple" xlink:href="http://necsi.org/publications/dcs/Bar-YamChap2.pdf">
-Dynamics of Complex Systems, Chapter 2</weblink>.</cite>&nbsp;</entry>
+Dynamics of Complex Systems, Chapter 2</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1346,7 +1346,7 @@ Bar-Yam, Yaneer</link></educator>
 </person>
 </physical_entity>
 &#32;(2003). <weblink xlink:type="simple" xlink:href="http://necsi.org/publications/dcs/Bar-YamChap3.pdf">
-Dynamics of Complex Systems, Chapter 3</weblink>.</cite>&nbsp;</entry>
+Dynamics of Complex Systems, Chapter 3</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1372,11 +1372,11 @@ Bar-Yam, Yaneer</link></educator>
 </person>
 </physical_entity>
 &#32;(2005). <weblink xlink:type="simple" xlink:href="http://necsi.org/publications/mtw/">
-Making Things Work</weblink>.</cite>&nbsp; Please see Chapter 3</entry>
+Making Things Work</weblink>.</cite>  Please see Chapter 3</entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Bhadeshia H. K. D. H.&#32;(1992).&#32;"<weblink xlink:type="simple" xlink:href="http://www.msm.cam.ac.uk/phase-trans/abstracts/neural.review.pdf">
-Neural Networks in Materials Science</weblink>". <it>ISIJ International</it>&#32;<b>39</b>: 966&ndash;979.</cite>&nbsp;</entry>
+Neural Networks in Materials Science</weblink>". <it>ISIJ International</it>&#32;<b>39</b>: 966–979.</cite> </entry>
 <entry level="1" type="bullet">
 
  Bhagat, P.M. (2005) <it>Pattern Recognition in Industry</it>, Elsevier. ISBN 0-08-044538-1</entry>
@@ -1412,7 +1412,7 @@ electronic version</weblink></entry>
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Egmont-Petersen, M., de Ridder, D., Handels, H.&#32;(2002).&#32;"Image processing with neural networks - a review". <it>Pattern Recognition</it>&#32;<b>35</b>: 2279&ndash;2301. <document wordnetid="106470073" confidence="0.8">
+  <cite style="font-style:normal">Egmont-Petersen, M., de Ridder, D., Handels, H.&#32;(2002).&#32;"Image processing with neural networks - a review". <it>Pattern Recognition</it>&#32;<b>35</b>: 2279–2301. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -1420,7 +1420,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0031-3203%2801%2900178-9">
-10.1016/S0031-3203(01)00178-9</weblink>.</cite>&nbsp;</entry>
+10.1016/S0031-3203(01)00178-9</weblink>.</cite> </entry>
 </list>
 </p>
 <p>

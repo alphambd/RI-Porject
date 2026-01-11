@@ -537,17 +537,17 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F98163.98167">
-10.1145/98163.98167</weblink>.</cite>&nbsp;</entry>
+10.1145/98163.98167</weblink>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Lamport, Leslie&#32;(1978).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#implementation">
 The Implementation of Reliable Distributed Multiprocess Systems</weblink>”. <it>Computer Networks</it>&#32;<b>2</b>: 95–114. Retrieved on <link>
-2008-03-13</link>.</cite>&nbsp;</entry>
+2008-03-13</link>.</cite> </entry>
 <entry id="3">
 Lamport, Leslie&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#lower-bound">
 Lower Bounds for Asynchronous Consensus</weblink>".</entry>
 <entry id="4">
  <cite style="font-style:normal">Lamport, Leslie; Mike Massa&#32;(2004).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#web-dsn-submission">
-Cheap Paxos</weblink>”. <it>Proceedings of the International Conference on Dependable Systems and Networks (DSN 2004)</it>.</cite>&nbsp;</entry>
+Cheap Paxos</weblink>”. <it>Proceedings of the International Conference on Dependable Systems and Networks (DSN 2004)</it>.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Lamport, Leslie; Robert Shostak, Marshall Pease&#32;(July 1982).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#byz">
 The Byzantine Generals Problem</weblink>”. <it>ACM Transactions on Programming Languages and Systems</it>&#32;<b>4</b>&#32;(3): 382–401. <document wordnetid="106470073" confidence="0.8">
@@ -559,7 +559,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F357172.357176">
 10.1145/357172.357176</weblink>. Retrieved on <link>
-2007-02-02</link>.</cite>&nbsp;</entry>
+2007-02-02</link>.</cite> </entry>
 <entry id="6">
  <cite style="font-style:normal">Lamport, Leslie&#32;(1984).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#using-time">
 Using Time Instead of Timeout for Fault-Tolerant Distributed Systems</weblink>”. <it>ACM Transactions on Programming Languages and Systems</it>&#32;<b>6</b>&#32;(2): 254–280. <document wordnetid="106470073" confidence="0.8">
@@ -571,7 +571,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F2993.2994">
 10.1145/2993.2994</weblink>. Retrieved on <link>
-2008-03-13</link>.</cite>&nbsp;</entry>
+2008-03-13</link>.</cite> </entry>
 <entry id="7">
  <cite style="font-style:normal">Birman, Kenneth; Thomas Joseph&#32;(1987).&#32;“<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=37515&amp;dl=ACM&amp;coll=GUIDE">
 Exploiting virtual synchrony in distributed systems</weblink>”. <it>Proceedings of the 11th ACM Symposium on Operating systems principles (SOSP)</it>&#32;<b>21</b>: 123. <document wordnetid="106470073" confidence="0.8">
@@ -583,7 +583,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F37499.37515">
 10.1145/37499.37515</weblink>. Retrieved on <link>
-2008-03-13</link>.</cite>&nbsp;</entry>
+2008-03-13</link>.</cite> </entry>
 <entry id="8">
 Lampson, Butler&#32;(1996).&#32;"<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/lampson/58-Consensus/Abstract.html">
 How to Build a Highly Available System Using Consensus</weblink>".&#32;Retrieved on <link>
@@ -599,7 +599,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F359545.359563">
 10.1145/359545.359563</weblink>. Retrieved on <link>
-2007-02-02</link>.</cite>&nbsp;</entry>
+2007-02-02</link>.</cite> </entry>
 <entry id="10">
 Lamport, Leslie&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#lower-bound">
 Lower Bounds for Asynchronous Consensus</weblink>".</entry>
@@ -608,15 +608,15 @@ Lamport, Leslie&#32;(2005).&#32;"<weblink xlink:type="simple" xlink:href="http:/
 Fast Paxos</weblink>".</entry>
 <entry id="12">
  <cite style="font-style:normal">Lamport, Leslie&#32;(2005).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#generalized">
-Generalized Consensus and Paxos</weblink>”.</cite>&nbsp;</entry>
+Generalized Consensus and Paxos</weblink>”.</cite> </entry>
 <entry id="13">
  <cite style="font-style:normal">Fischer, Michael&#32;(1985).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#using-time">
 Impossibility of Distributed Consensus with One Faulty
 Process</weblink>”. <it>Journal of the Association for Computing Machinery</it>&#32;<b>32</b>&#32;(2): 347–382. Retrieved on <link>
-2008-03-13</link>.</cite>&nbsp;</entry>
+2008-03-13</link>.</cite> </entry>
 <entry id="14">
  <cite style="font-style:normal">Chandra, Tushar; Robert Griesemer, Joshua Redstone&#32;(2007).&#32;“<weblink xlink:type="simple" xlink:href="http://labs.google.com/papers/paxos_made_live.html">
-Paxos Made Live – An Engineering Perspective</weblink>”. <it>PODC '07: 26th ACM Symposium on Principles of Distributed Computing</it>.</cite>&nbsp;</entry>
+Paxos Made Live – An Engineering Perspective</weblink>”. <it>PODC '07: 26th ACM Symposium on Principles of Distributed Computing</it>.</cite> </entry>
 <entry id="15">
  <cite style="font-style:normal">Lamport, Leslie&#32;(May 1998).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#lamport-paxos">
 The Part-Time Parliament</weblink>”. <it>ACM Transactions on Computer Systems</it>&#32;<b>16</b>&#32;(2): 133–169. <document wordnetid="106470073" confidence="0.8">
@@ -628,7 +628,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F279227.279229">
 10.1145/279227.279229</weblink>. Retrieved on <link>
-2007-02-02</link>.</cite>&nbsp;</entry>
+2007-02-02</link>.</cite> </entry>
 </reflist>
 </p>
 

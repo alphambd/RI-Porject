@@ -85,7 +85,7 @@ OpenVMS</link></O>
 operating system</link>, the <link xlink:type="simple" xlink:href="../461/215461.xml">
 command</link> directory is used to list the <link xlink:type="simple" xlink:href="../077/7077.xml">
 file</link>s inside a <link xlink:type="simple" xlink:href="../027/5515027.xml">
-directory</link>.  By default&mdash;that is, when the user simply types directory&mdash;it will list only the names of the files.  By adding the <it>switch</it> /owner (to form the command directory/owner), the user can instruct the directory command to also display the ownership of the files.</p>
+directory</link>.  By default—that is, when the user simply types directory—it will list only the names of the files.  By adding the <it>switch</it> /owner (to form the command directory/owner), the user can instruct the directory command to also display the ownership of the files.</p>
 <p>
 
 The format of switches varies widely between operating systems.  Under the OpenVMS operating system, switches are entered in the form command/switch_1/switch_2/switch_3=value <it>etc.</it>  The form /switch=value is used to provide an <link xlink:type="simple" xlink:href="../065/25065.xml">

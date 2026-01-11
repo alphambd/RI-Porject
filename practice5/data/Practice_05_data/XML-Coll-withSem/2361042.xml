@@ -1088,22 +1088,22 @@ Recommended</header>
 <header>
 Processor</header>
 <col>
-1&nbsp;<link xlink:type="simple" xlink:href="../121/14121.xml">
+1 <link xlink:type="simple" xlink:href="../121/14121.xml">
 GHz</link> (<link xlink:type="simple" xlink:href="../198/34198.xml">
-x86</link>) or 1.4&nbsp;GHz (<link xlink:type="simple" xlink:href="../374/244374.xml">
+x86</link>) or 1.4 GHz (<link xlink:type="simple" xlink:href="../374/244374.xml">
 x64</link>)</col>
 <col>
-2&nbsp;GHz or faster</col>
+2 GHz or faster</col>
 </row>
 <row>
 <header>
 Memory</header>
 <col>
-512&nbsp;<link xlink:type="simple" xlink:href="../918/19918.xml">
+512 <link xlink:type="simple" xlink:href="../918/19918.xml">
 MB</link> <link xlink:type="simple" xlink:href="../847/25847.xml">
 RAM</link>(may limit performance and some features)</col>
 <col>
-2&nbsp;GB RAM or higher 
+2 GB RAM or higher 
 <list>
 <entry level="1" type="bullet">
 
@@ -1127,10 +1127,10 @@ Super VGA (800 x 600) or higher resolution</col>
 <header>
 Hard drive disk free space</header>
 <col>
-10&nbsp;<link xlink:type="simple" xlink:href="../570/12570.xml">
+10 <link xlink:type="simple" xlink:href="../570/12570.xml">
 GB</link></col>
 <col>
-40&nbsp;GB or higher
+40 GB or higher
 Note that computers with more than 16GB of RAM require more disk space for paging, hibernation, and dump files.</col>
 </row>
 <row>
@@ -1315,7 +1315,7 @@ Windows 7 Server to be 'minor release'</weblink>".&#32;  ZDNet.&#32;Retrieved on
 Brant, Martijn&#32;(<link>
 2008-08-13</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://www.martijnbrant.net/2008/08/microsoft-nl-confirms-windows-server-2008-r2-is-in-fact-windows-7/">
 Microsoft NL confirms Windows Server 2008 R2 is in fact Windows 7?</weblink>".&#32;Retrieved on <link>
-2008-09-18</link>.&nbsp;</entry>
+2008-09-18</link>. </entry>
 <entry id="22">
 Foley, Mary Jo&#32;(2008-08-18).&#32;"<weblink xlink:type="simple" xlink:href="http://blogs.zdnet.com/microsoft/?p=1534">
 Scratch that. Windows Server 2008 R2 still lives</weblink>".&#32;Retrieved on <link>
@@ -1353,7 +1353,7 @@ MSDN Developer Center for Windows Server 2008</weblink></entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.microsoft.com/technet/itsolutions/network/evaluate/new_network.mspx">
-New Networking Features in Windows Server 2008 and Windows Vista</weblink> &mdash; lengthy article from Microsoft Technet covering new networking features in detail</entry>
+New Networking Features in Windows Server 2008 and Windows Vista</weblink> — lengthy article from Microsoft Technet covering new networking features in detail</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://go.microsoft.com/fwlink/?LinkId=87080">
@@ -1434,7 +1434,7 @@ Microsoft Windows</link></header>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
 MS-DOS</link></O>
-&nbsp;/ <O wordnetid="106832680" confidence="0.9508927676800064">
+ / <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../486/454486.xml">
 9x</link></O>
 </col>
@@ -1442,25 +1442,25 @@ MS-DOS</link></O>
 <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../387/67387.xml">
 1.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../153/188153.xml">
 2.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../084/11173084.xml">
 2.1x</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../400/168400.xml">
 3.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/167719.xml">
 3.1x</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../064/34064.xml">
 95</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../433/75433.xml">
 98</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/75458.xml">
 Me</link></version>
 </col>
@@ -1478,36 +1478,36 @@ NT</link></family>
 <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../882/984882.xml">
 NT 3.1</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../884/984884.xml">
 NT 3.5</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../885/984885.xml">
 NT 3.51</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../680/795680.xml">
 NT 4.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../941/33941.xml">
 2000</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../879/33879.xml">
 XP</link></version>
  (<link xlink:type="simple" xlink:href="../671/16898671.xml">
-editions</link>)&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+editions</link>) ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../068/208068.xml">
 Server 2003</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../127/1932127.xml">
 Fundamentals for Legacy PCs</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../648/2289648.xml">
 Vista</link></version>
  (<link xlink:type="simple" xlink:href="../352/8996352.xml">
-editions</link>)&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+editions</link>) ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../011/8821011.xml">
 Home Server</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../042/2361042.xml">
 Server 2008</link></version>
 </col>
@@ -1525,22 +1525,22 @@ CE</link></O>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../360/230360.xml">
 CE 1.0</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../360/230360.xml">
 CE 2.0</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../389/610389.xml">
 CE 3.0</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../360/230360.xml">
 CE 4.0</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../047/2503047.xml">
 CE 5.0</link></O>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../542/5151542.xml">
 CE 6.0</link></version>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../656/1275656.xml">
 Mobile</link></O>
 </col>
@@ -1555,7 +1555,7 @@ Upcoming</col>
 <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../123/326123.xml">
 7</link></version>
-&nbsp;·  <link xlink:type="simple" xlink:href="../148/19561148.xml">
+ ·  <link xlink:type="simple" xlink:href="../148/19561148.xml">
 Cloud</link></col>
 </row>
 <row style="height:2px">
@@ -1576,7 +1576,7 @@ Cairo</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -1587,10 +1587,10 @@ Nashville</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../460/1497460.xml">
 Neptune</link></version>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -1601,7 +1601,7 @@ Odyssey</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <b>Related:</b> <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <b>Related:</b> <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/22409.xml">
 OS/2</link></O>
 </col>

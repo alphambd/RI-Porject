@@ -213,8 +213,8 @@ Lego</link></language_unit>
 </hallmark>
 </name>
 
-&nbsp;·  <link xlink:type="simple" xlink:href="../997/1922997.xml">
-History of Lego</link>&nbsp;·  <link xlink:type="simple" xlink:href="../380/1390380.xml">
+ ·  <link xlink:type="simple" xlink:href="../997/1922997.xml">
+History of Lego</link> ·  <link xlink:type="simple" xlink:href="../380/1390380.xml">
 Timeline</link></col>
 </row>
 <row style="height:2px;">
@@ -225,22 +225,22 @@ Timeline</link></col>
 Products</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../301/1922301.xml">
-Themes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../842/3551842.xml">
-Computer and video games</link>&nbsp;·  <game wordnetid="100456199" confidence="0.9508927676800064">
+Themes</link> ·  <link xlink:type="simple" xlink:href="../842/3551842.xml">
+Computer and video games</link> ·  <game wordnetid="100456199" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../436/10163436.xml">
 Board games</link></game>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../590/975590.xml">
 Duplo</link></subject>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../591/1318591.xml">
 Lego Baby</link></subject>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../938/2202938.xml">
-Minifigure</link>s&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../938/2202938.xml">
+Minifigure</link>s ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../765/295765.xml">
 Lego Technic</link></subject>
@@ -271,10 +271,10 @@ Ole Kirk Christiansen</link></creator>
 </person>
 </expert>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../303/5538303.xml">
 Godtfred Kirk Christiansen</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <rich_person wordnetid="110529231" confidence="0.8">
 <billionaire wordnetid="110529684" confidence="0.8">
@@ -285,7 +285,7 @@ Kjeld Kirk Kristiansen</link></causal_agent>
 </rich_person>
 </person>
 </physical_entity>
-&nbsp;·  <link>
+ ·  <link>
 Jørgen Vig Knudstorp</link></col>
 </row>
 <row style="height:2px">
@@ -303,13 +303,13 @@ Legoland</link></institution>
 <amusement_park wordnetid="108494231" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../601/5317601.xml">
 Legoland Billund</link></amusement_park>
-&nbsp;·  <amusement_park wordnetid="108494231" confidence="0.9508927676800064">
+ ·  <amusement_park wordnetid="108494231" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../572/18501572.xml">
 Legoland California</link></amusement_park>
-&nbsp;·  <amusement_park wordnetid="108494231" confidence="0.9508927676800064">
+ ·  <amusement_park wordnetid="108494231" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../607/5317607.xml">
 Legoland Deutschland</link></amusement_park>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
@@ -334,8 +334,8 @@ Legoland Windsor</link></institution>
 Events/Conventions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../625/2461625.xml">
-BrickFest</link>&nbsp;·  <link xlink:type="simple" xlink:href="../701/12030701.xml">
-Brickworld</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+BrickFest</link> ·  <link xlink:type="simple" xlink:href="../701/12030701.xml">
+Brickworld</link> ·  <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -344,7 +344,7 @@ FIRST Lego League</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../008/10285008.xml">
 Robofest</link></subject>
@@ -372,15 +372,15 @@ The Brick Testament</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../560/146560.xml">
 Brickfilm</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../052/5965052.xml">
-Clone Bricks</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../052/5965052.xml">
+Clone Bricks</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -393,15 +393,15 @@ Irregular Webcomic!</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <scale wordnetid="113850304" confidence="0.8">
+ ·  <scale wordnetid="113850304" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../364/2765364.xml">
 L gauge</link></system_of_measurement>
 </standard>
 </scale>
-&nbsp;·  <link xlink:type="simple" xlink:href="../517/255517.xml">
-LDraw</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../517/255517.xml">
+LDraw</link> ·  <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <survey wordnetid="100644503" confidence="0.8">
@@ -418,15 +418,15 @@ Serious Play</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../072/5563072.xml">
-Lego Club Magazine</link>&nbsp;·  <link xlink:type="simple" xlink:href="../798/852798.xml">
-LUGNET</link> &nbsp;·  <link xlink:type="simple" xlink:href="../412/306412.xml">
-MLCAD</link>&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../072/5563072.xml">
+Lego Club Magazine</link> ·  <link xlink:type="simple" xlink:href="../798/852798.xml">
+LUGNET</link>  ·  <link xlink:type="simple" xlink:href="../412/306412.xml">
+MLCAD</link> ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../185/8179185.xml">
 Modulex</link></institution>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../385/8265385.xml">
+ ·  <link xlink:type="simple" xlink:href="../385/8265385.xml">
 My Own Creation</link></col>
 </row>
 </table>

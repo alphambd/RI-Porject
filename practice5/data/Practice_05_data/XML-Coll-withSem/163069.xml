@@ -303,7 +303,7 @@ Common contractual fund</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <work wordnetid="100575741" confidence="0.8">
+ • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -316,10 +316,10 @@ Fond commun de placement</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <link xlink:type="simple" xlink:href="../675/851675.xml">
-Investment trust</link>&nbsp;•  <link xlink:type="simple" xlink:href="../907/2286907.xml">
-Unit trust</link>&nbsp;• <link xlink:type="simple" xlink:href="../597/226597.xml">
-Mutual fund</link>&nbsp;• <work wordnetid="100575741" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../675/851675.xml">
+Investment trust</link> •  <link xlink:type="simple" xlink:href="../907/2286907.xml">
+Unit trust</link> • <link xlink:type="simple" xlink:href="../597/226597.xml">
+Mutual fund</link> • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -332,7 +332,7 @@ ICVC</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <work wordnetid="100575741" confidence="0.8">
+ • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -345,8 +345,8 @@ SICAV</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <link xlink:type="simple" xlink:href="../889/3052889.xml">
-Unit Investment Trust</link>&nbsp;• <work wordnetid="100575741" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../889/3052889.xml">
+Unit Investment Trust</link> • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -359,7 +359,7 @@ Exchange-traded fund</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <work wordnetid="100575741" confidence="0.8">
+ • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -372,7 +372,7 @@ Offshore fund</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <work wordnetid="100575741" confidence="0.8">
+ • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -420,7 +420,7 @@ Passive management</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <process wordnetid="105701363" confidence="0.8">
+ • <process wordnetid="105701363" confidence="0.8">
 <market wordnetid="101097292" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -442,8 +442,8 @@ Value</link></higher_cognitive_process>
 </market>
 </process>
  or <link xlink:type="simple" xlink:href="../834/3304834.xml">
-Growth investing</link>&nbsp;• <link xlink:type="simple" xlink:href="../412/14412.xml">
-Hedge fund</link>&nbsp;• <work wordnetid="100575741" confidence="0.8">
+Growth investing</link> • <link xlink:type="simple" xlink:href="../412/14412.xml">
+Hedge fund</link> • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -456,7 +456,7 @@ Socially responsible investing</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <work wordnetid="100575741" confidence="0.8">
+ • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -469,8 +469,8 @@ Fund of funds</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <link xlink:type="simple" xlink:href="../187/5466187.xml">
-Manager of managers</link>&nbsp;• <link xlink:type="simple" xlink:href="../012/106012.xml">
+ • <link xlink:type="simple" xlink:href="../187/5466187.xml">
+Manager of managers</link> • <link xlink:type="simple" xlink:href="../012/106012.xml">
 Index fund</link></col>
 </row>
 <row style="height:2px">
@@ -491,7 +491,7 @@ Efficient market hypothesis</link></activity>
 </act>
 </event>
 </market>
-&nbsp;•  <work wordnetid="100575741" confidence="0.8">
+ •  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -504,8 +504,8 @@ Net asset value</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <link xlink:type="simple" xlink:href="../069/163069.xml">
-Open-end(ed) fund</link>&nbsp;• <link xlink:type="simple" xlink:href="../072/163072.xml">
+ • <link xlink:type="simple" xlink:href="../069/163069.xml">
+Open-end(ed) fund</link> • <link xlink:type="simple" xlink:href="../072/163072.xml">
 Closed-end(ed) fund</link></col>
 </row>
 <row style="height:2px">
@@ -516,7 +516,7 @@ Closed-end(ed) fund</link></col>
 Related Topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../436/2152436.xml">
-List of asset management firms</link>&nbsp;• <work wordnetid="100575741" confidence="0.8">
+List of asset management firms</link> • <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -529,7 +529,7 @@ Umbrella fund</link></activity>
 </service>
 </event>
 </work>
-&nbsp;• <link xlink:type="simple" xlink:href="../504/3371504.xml">
+ • <link xlink:type="simple" xlink:href="../504/3371504.xml">
 UCITS</link></col>
 </row>
 </table>

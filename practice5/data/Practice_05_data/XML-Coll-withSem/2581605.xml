@@ -238,18 +238,18 @@ Ada</link></entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../510/933510.xml">
-Afnix</link> &ndash; concurrent access to data is protected automatically (previously called <it>Aleph</it>, but unrelated to <it>Alef</it>)</entry>
+Afnix</link> – concurrent access to data is protected automatically (previously called <it>Aleph</it>, but unrelated to <it>Alef</it>)</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../217/1935217.xml">
-Alef</link> &ndash; concurrent language with threads and message passing, used for systems programming in early versions of <O wordnetid="106832680" confidence="0.9508927676800064">
+Alef</link> – concurrent language with threads and message passing, used for systems programming in early versions of <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../226/24226.xml">
 Plan 9 from Bell Labs</link></O>
 </entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../195/4245195.xml">
-Alice</link> &ndash; extension to <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+Alice</link> – extension to <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../337/100337.xml">
 Standard ML</link></programming_language>
 , adds support for concurrency via futures.</entry>
@@ -260,18 +260,18 @@ CDL (Concurrent Description Language)</weblink>, a machine-translatable, composa
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../803/945803.xml">
-Cilk</link> &ndash; a concurrent <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+Cilk</link> – a concurrent <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../021/6021.xml">
 C</link></programming_language>
 </entry>
 <entry level="1" type="bullet">
 
 <link>
-Cω</link> &ndash; C Omega, a research language extending C#, uses asynchronous communication</entry>
+Cω</link> – C Omega, a research language extending C#, uses asynchronous communication</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.jg.inf.ethz.ch/components">
-Composita</weblink> &ndash; a component language for structured parallel programming </entry>
+Composita</weblink> – a component language for structured parallel programming </entry>
 <entry level="1" type="bullet">
 
 <link>
@@ -279,21 +279,21 @@ Concurrent C</link>.</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../878/161878.xml">
-Concurrent Clean</link> &ndash; a functional programming language, similar to <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+Concurrent Clean</link> – a functional programming language, similar to <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../630/13630.xml">
 Haskell</link></programming_language>
 </entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../178/2037178.xml">
-Concurrent ML</link> &ndash; a concurrent extension of <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+Concurrent ML</link> – a concurrent extension of <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../337/100337.xml">
 Standard ML</link></programming_language>
 </entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../343/9637343.xml">
-Concurrent Pascal</link> &ndash; by <physical_entity wordnetid="100001930" confidence="0.8">
+Concurrent Pascal</link> – by <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <pioneer wordnetid="110434725" confidence="0.8">
@@ -354,24 +354,24 @@ Curry</link></entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../046/1377046.xml">
-E</link> &ndash; uses promises, ensures deadlocks cannot occur</entry>
+E</link> – uses promises, ensures deadlocks cannot occur</entry>
 <entry level="1" type="bullet">
 
 <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../838/9838.xml">
 Eiffel</link></programming_language>
- &ndash; through its <link xlink:type="simple" xlink:href="../365/6867365.xml">
+ – through its <link xlink:type="simple" xlink:href="../365/6867365.xml">
 SCOOP</link> mechanism based on the concepts of Design by Contract</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../646/9646.xml">
-Erlang</link> &ndash; uses asynchronous message passing with nothing shared</entry>
+Erlang</link> – uses asynchronous message passing with nothing shared</entry>
 <entry level="1" type="bullet">
 
 <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../340/323340.xml">
 Io</link></programming_language>
- &ndash; actor-based concurrency</entry>
+ – actor-based concurrency</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../771/4051771.xml">
@@ -385,7 +385,7 @@ JoCaml</link></software>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../745/2225745.xml">
-Join Java</link> &ndash; concurrent language based on the <message wordnetid="106598915" confidence="0.8">
+Join Java</link> – concurrent language based on the <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 Java programming language</link></request>
@@ -394,15 +394,15 @@ Java programming language</link></request>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../786/502786.xml">
-Joule</link> &ndash; dataflow language, communicates by message passing</entry>
+Joule</link> – dataflow language, communicates by message passing</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../256/4249256.xml">
-Concurrent Haskell</link> &ndash; lazy, pure functional language operating concurrent processes on shared memory</entry>
+Concurrent Haskell</link> – lazy, pure functional language operating concurrent processes on shared memory</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../298/236298.xml">
-Limbo</link> &ndash; relative of <link xlink:type="simple" xlink:href="../217/1935217.xml">
+Limbo</link> – relative of <link xlink:type="simple" xlink:href="../217/1935217.xml">
 Alef</link>, used for systems programming in <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../928/507928.xml">
 Inferno (operating system)</link></O>
@@ -412,41 +412,41 @@ Inferno (operating system)</link></O>
 <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../605/940605.xml">
 MultiLisp</link></language>
- &ndash; <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ – <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../119/28119.xml">
 Scheme</link></programming_language>
  variant extended to support parallelism</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../660/22660.xml">
-occam</link> &ndash; influenced heavily by <link>
+occam</link> – influenced heavily by <link>
 Communicating Sequential Processes</link> (CSP).</entry>
 <entry level="2" type="bullet">
 
 <link xlink:type="simple" xlink:href="../775/2079775.xml">
-occam-π</link> &ndash; a modern variant of <link xlink:type="simple" xlink:href="../660/22660.xml">
+occam-π</link> – a modern variant of <link xlink:type="simple" xlink:href="../660/22660.xml">
 occam</link>, which incorporates ideas from Milner's <link xlink:type="simple" xlink:href="../373/420373.xml">
 π-calculus</link></entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../244/13345244.xml">
-Orc</link> &ndash; a heavily concurrent, nondeterministic language based on <language wordnetid="106282651" confidence="0.8">
+Orc</link> – a heavily concurrent, nondeterministic language based on <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/155430.xml">
 Kleene algebra</link></language>
 .</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../916/256916.xml">
-Oz</link> &ndash; multiparadigm language, supports shared-state and message-passing concurrency, and futures</entry>
+Oz</link> – multiparadigm language, supports shared-state and message-passing concurrency, and futures</entry>
 <entry level="2" type="bullet">
 
 <link xlink:type="simple" xlink:href="../556/2317556.xml">
-Mozart Programming System</link> &ndash; <link xlink:type="simple" xlink:href="../193/81193.xml">
+Mozart Programming System</link> – <link xlink:type="simple" xlink:href="../193/81193.xml">
 multiplatform</link> Oz</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../312/6751312.xml">
-Pict</link> &ndash; essentially an executable implementation of Milner's <link xlink:type="simple" xlink:href="../373/420373.xml">
+Pict</link> – essentially an executable implementation of Milner's <link xlink:type="simple" xlink:href="../373/420373.xml">
 π-calculus</link></entry>
 <entry level="1" type="bullet">
 
@@ -469,17 +469,17 @@ Stackless Python</link></execution>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../513/2344513.xml">
-SALSA</link> &ndash; actor language with token-passing, join, and first-class continuations for distributed computing over the Internet</entry>
+SALSA</link> – actor language with token-passing, join, and first-class continuations for distributed computing over the Internet</entry>
 <entry level="1" type="bullet">
 
 <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../510/3254510.xml">
 Scala</link></programming_language>
- &ndash; a general purpose programming language designed to express common programming patterns in a concise, elegant, and type-safe way</entry>
+ – a general purpose programming language designed to express common programming patterns in a concise, elegant, and type-safe way</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../875/485875.xml">
-SR</link> &ndash; research language</entry>
+SR</link> – research language</entry>
 </list>
 </p>
 <p>
@@ -617,7 +617,7 @@ Bibliography</st>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book">Filman, Robert E.;&#32;Daniel P. Friedman. <weblink xlink:type="simple" xlink:href="http://ic.arc.nasa.gov/people/filman/text/dpl/dpl.html">
-Coordinated Computing: Tools and Techniques for Distributed Software origyear=1984</weblink>.&#32;New York:&#32;McGraw-Hill,&#32;370. ISBN 0-07-022439-0.</cite>&nbsp;</entry>
+Coordinated Computing: Tools and Techniques for Distributed Software origyear=1984</weblink>.&#32;New York:&#32;McGraw-Hill,&#32;370. ISBN 0-07-022439-0.</cite> </entry>
 </list>
 </p>
 <p>
@@ -626,7 +626,7 @@ Coordinated Computing: Tools and Techniques for Distributed Software origyear=19
 <entry level="1" type="bullet">
 
  <cite id="Reference-Taubenfeld-2006" style="font-style:normal" class="book">Taubenfeld, Gadi&#32;(2006). <weblink xlink:type="simple" xlink:href="http://www.faculty.idc.ac.il/gadi/book.htm">
-Synchronization Algorithms and Concurrent Programming</weblink>.&#32;Pearson / Prentice Hall,&#32;433. ISBN 0131972596.</cite>&nbsp;</entry>
+Synchronization Algorithms and Concurrent Programming</weblink>.&#32;Pearson / Prentice Hall,&#32;433. ISBN 0131972596.</cite> </entry>
 </list>
 </p>
 
@@ -669,17 +669,17 @@ Array</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../368/1368.xml">
-Assembly</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../368/1368.xml">
+Assembly</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../101/174101.xml">
 Compiled</link></subject>
 </message>
- &nbsp;·  <link xlink:type="simple" xlink:href="../605/2581605.xml">
-Concurrent</link> &nbsp;·  <link xlink:type="simple" xlink:href="../103/560103.xml">
-Curly bracket</link> &nbsp;·  <link>
-Data-oriented</link> &nbsp;·  <link xlink:type="simple" xlink:href="../378/2468378.xml">
-Data-structured</link> &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../605/2581605.xml">
+Concurrent</link>  ·  <link xlink:type="simple" xlink:href="../103/560103.xml">
+Curly bracket</link>  ·  <link>
+Data-oriented</link>  ·  <link xlink:type="simple" xlink:href="../378/2468378.xml">
+Data-structured</link>  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -688,7 +688,7 @@ Dataflow</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -697,9 +697,9 @@ Declarative</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../239/519239.xml">
-Domain-specific</link> &nbsp;·  <link xlink:type="simple" xlink:href="../398/53398.xml">
-Esoteric</link> &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../239/519239.xml">
+Domain-specific</link>  ·  <link xlink:type="simple" xlink:href="../398/53398.xml">
+Esoteric</link>  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -708,7 +708,7 @@ Extensible</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -717,7 +717,7 @@ Functional</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -726,15 +726,15 @@ Imperative</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../089/15089.xml">
-Interpreted</link> &nbsp;·  <link xlink:type="simple" xlink:href="../de)/17927_(Z$I$P$_code).xml">
-Logic</link> &nbsp;·  <link xlink:type="simple" xlink:href="../683/20683.xml">
-Machine</link> &nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../089/15089.xml">
+Interpreted</link>  ·  <link xlink:type="simple" xlink:href="../de)/17927_(Z$I$P$_code).xml">
+Logic</link>  ·  <link xlink:type="simple" xlink:href="../683/20683.xml">
+Machine</link>  ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../560/20560.xml">
 Macro</link></concept>
 </idea>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -743,7 +743,7 @@ Metaprogramming</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -752,14 +752,14 @@ Multi-paradigm</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../497/365497.xml">
-Non-English-based</link> &nbsp;·  <link xlink:type="simple" xlink:href="../758/22758.xml">
-Object-oriented</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../497/365497.xml">
+Non-English-based</link>  ·  <link xlink:type="simple" xlink:href="../758/22758.xml">
+Object-oriented</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../595/605595.xml">
 Off-side rule</link></subject>
 </message>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -768,7 +768,7 @@ Pipeline</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -777,7 +777,7 @@ Procedural</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -786,7 +786,7 @@ Prototype-based</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -795,10 +795,10 @@ Reflective</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link>
-Rule-based</link> &nbsp;·  <link xlink:type="simple" xlink:href="../524/29524.xml">
-Scripting</link> &nbsp;·  <link xlink:type="simple" xlink:href="../347/2211347.xml">
-Synchronous</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link>
+Rule-based</link>  ·  <link xlink:type="simple" xlink:href="../524/29524.xml">
+Scripting</link>  ·  <link xlink:type="simple" xlink:href="../347/2211347.xml">
+Synchronous</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../268/499268.xml">
 Visual</link></subject>

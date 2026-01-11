@@ -410,7 +410,7 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal">P. Weiner&#32;(1973). "Linear pattern matching algorithm".&#32;<it>14th Annual IEEE Symposium on Switching and Automata Theory</it>: 1-11.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">P. Weiner&#32;(1973). "Linear pattern matching algorithm".&#32;<it>14th Annual IEEE Symposium on Switching and Automata Theory</it>: 1-11.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Edward M. McCreight&#32;(1976).&#32;"<weblink xlink:type="simple" xlink:href="http://doi.acm.org/10.1145/321941.321946">
 A Space-Economical Suffix Tree Construction Algorithm</weblink>". <it>Journal of the ACM</it>&#32;<b>23</b>&#32;(2): 262--272. <document wordnetid="106470073" confidence="0.8">
@@ -421,7 +421,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F321941.321946">
-10.1145/321941.321946</weblink>.</cite>&nbsp;</entry>
+10.1145/321941.321946</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">E. Ukkonen&#32;(1995).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.helsinki.fi/u/ukkonen/SuffixT1withFigs.pdf">
 On-line construction of suffix trees</weblink>". <it>Algorithmica</it>&#32;<b>14</b>&#32;(3): 249--260. <document wordnetid="106470073" confidence="0.8">
@@ -432,7 +432,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF01206331">
-10.1007/BF01206331</weblink>.</cite>&nbsp;</entry>
+10.1007/BF01206331</weblink>.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">R. Giegerich and S. Kurtz&#32;(1997).&#32;"<weblink xlink:type="simple" xlink:href="http://www.zbh.uni-hamburg.de/staff/kurtz/papers/GieKur1997.pdf">
 From Ukkonen to McCreight and Weiner: A Unifying View of Linear-Time Suffix Tree Construction</weblink>". <it>Algorithmica</it>&#32;<b>19</b>&#32;(3): 331--353. <document wordnetid="106470073" confidence="0.8">
@@ -443,14 +443,14 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FPL00009177">
-10.1007/PL00009177</weblink>.</cite>&nbsp;
+10.1007/PL00009177</weblink>.</cite> 
 </entry>
 <entry id="5">
- <cite id="Reference-Gusfield-1999" style="font-style:normal" class="book">Gusfield, Dan&#32;[1997]&#32;(1999). Algorithms on Strings, Trees and Sequences: Computer Science and Computational Biology.&#32;USA:&#32;Cambridge University Press. ISBN 0-521-58519-8.</cite>&nbsp;
+ <cite id="Reference-Gusfield-1999" style="font-style:normal" class="book">Gusfield, Dan&#32;[1997]&#32;(1999). Algorithms on Strings, Trees and Sequences: Computer Science and Computational Biology.&#32;USA:&#32;Cambridge University Press. ISBN 0-521-58519-8.</cite> 
 </entry>
 <entry id="6">
  <cite style="font-style:normal">Martin Farach&#32;(1997). "<weblink xlink:type="simple" xlink:href="ftp://dimacs.rutgers.edu/pub/dimacs/TechnicalReports/TechReports/1996/96-48.ps.gz">
-Optimal suffix tree construction with large alphabets</weblink>".&#32;<it>Foundations of Computer Science, 38th Annual Symposium on</it>: 137--143.</cite>&nbsp;
+Optimal suffix tree construction with large alphabets</weblink>".&#32;<it>Foundations of Computer Science, 38th Annual Symposium on</it>: 137--143.</cite> 
 </entry>
 <entry id="7">
  <cite style="font-style:normal">Ricardo A. Baeza-Yates and Gaston H. Gonnet&#32;(1996).&#32;"Fast text searching for regular expressions or automaton searching on tries". <it>Journal of the ACM</it>&#32;<b>43</b>: 915--936.&#32;ACM Press. <document wordnetid="106470073" confidence="0.8">
@@ -473,10 +473,10 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0004-5411">
-0004-5411</weblink>.</cite>&nbsp;
+0004-5411</weblink>.</cite> 
 </entry>
 <entry id="8">
- <cite style="font-style:normal">Oren Zamir and Oren Etzioni&#32;(1998). "Web document clustering: a feasibility demonstration".&#32;<it>SIGIR '98: Proceedings of the 21st annual international ACM SIGIR conference on Research and development in information retrieval</it>: 46--54, ACM.</cite>&nbsp;
+ <cite style="font-style:normal">Oren Zamir and Oren Etzioni&#32;(1998). "Web document clustering: a feasibility demonstration".&#32;<it>SIGIR '98: Proceedings of the 21st annual international ACM SIGIR conference on Research and development in information retrieval</it>: 46--54, ACM.</cite> 
 </entry>
 </reflist>
 </p>

@@ -66,7 +66,7 @@ If the move is rejected the current histogram bin is incremented. The visits his
 
 The visits histogram ''H''(''E'') is then reset to zero, and the modification factor reduced, typically to the square root of the previous factor, to produce a finer estimate of ''g''(''E''). 
 
-The algorithm works because the move function is, by definition, sampling from the true density of states. So if acceptance by the reciprocal of the density of states produces and even histogram, the estimate must be accurate. In fact ''H''(''E'') can never reach perfect flatness, so some criterion must be used &mdash; typically 10% difference or less between the highest and lowest entry. 
+The algorithm works because the move function is, by definition, sampling from the true density of states. So if acceptance by the reciprocal of the density of states produces and even histogram, the estimate must be accurate. In fact ''H''(''E'') can never reach perfect flatness, so some criterion must be used — typically 10% difference or less between the highest and lowest entry. 
 
 The density of states is temperature independent. However, it can be used to determine what the state of the system will be in for any given temperature. 
 

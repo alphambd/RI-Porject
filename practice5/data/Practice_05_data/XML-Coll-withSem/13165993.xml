@@ -1163,7 +1163,7 @@ The Dillinger Escape Plan</link></group>
 <link xlink:type="simple" xlink:href="../831/1799831.xml">
 Ben Weinman</link></artist>
 </musician>
-</b>&nbsp;·  <b><physical_entity wordnetid="100001930" confidence="0.8">
+</b> ·  <b><physical_entity wordnetid="100001930" confidence="0.8">
 <vegan wordnetid="110747424" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <guitarist wordnetid="110151760" confidence="0.8">
@@ -1188,12 +1188,12 @@ Liam Wilson</link></entertainer>
 </person>
 </vegan>
 </physical_entity>
-</b>&nbsp;·  <b><musician wordnetid="110340312" confidence="0.9173553029164789">
+</b> ·  <b><musician wordnetid="110340312" confidence="0.9173553029164789">
 <artist wordnetid="109812338" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../757/1599757.xml">
 Greg Puciato</link></artist>
 </musician>
-</b>&nbsp;·  <b><physical_entity wordnetid="100001930" confidence="0.8">
+</b> ·  <b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <drummer wordnetid="110036929" confidence="0.8">
 <performer wordnetid="110415638" confidence="0.8">
@@ -1210,7 +1210,7 @@ Gil Sharone</link></percussionist>
 </drummer>
 </person>
 </physical_entity>
-</b>&nbsp;·  <b><physical_entity wordnetid="100001930" confidence="0.8">
+</b> ·  <b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <guitarist wordnetid="110151760" confidence="0.8">
 <performer wordnetid="110415638" confidence="0.8">
@@ -1242,10 +1242,10 @@ Chris Pennie</link></percussionist>
 </drummer>
 </person>
 </physical_entity>
-&nbsp;·  James Love&nbsp;·  <artist wordnetid="109812338" confidence="0.9508927676800064">
+ ·  James Love ·  <artist wordnetid="109812338" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../438/3620438.xml">
 Brian Benoit</link></artist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <performer wordnetid="110415638" confidence="0.8">
 <singer wordnetid="110599806" confidence="0.8">
@@ -1260,7 +1260,7 @@ Dimitri Minakakis</link></entertainer>
 </performer>
 </person>
 </physical_entity>
-&nbsp;·  John Fulton&nbsp;·  Derek Brantley</b></col>
+ ·  John Fulton ·  Derek Brantley</b></col>
 </row>
 <row style="height:2px;">
 
@@ -1283,10 +1283,10 @@ s</col>
 <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../067/846067.xml">
 Calculating Infinity</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../958/845958.xml">
 Miss Machine</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../993/13165993.xml">
 Ire Works</link></album>
 ''</it></col>
@@ -1310,13 +1310,13 @@ EPs</link></kind>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <it><link xlink:type="simple" xlink:href="../819/848819.xml">
-The Dillinger Escape Plan</link></it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+The Dillinger Escape Plan</link></it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../770/848770.xml">
 Under the Running Board</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../096/846096.xml">
 Irony Is a Dead Scene</link></album>
-</it>&nbsp;·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
+</it> ·  <it><album wordnetid="106591815" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../551/5645551.xml">
 Plagiarism</link></album>
 ''</it></col>
@@ -1328,7 +1328,7 @@ Plagiarism</link></album>
 <col style=";background: #EEEEEE;;" class="navbox-group">
 Live Albums</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
-&nbsp;·  <it>Miss Machine: Live DVD''</it></col>
+ ·  <it>Miss Machine: Live DVD''</it></col>
 </row>
 <row style="height:2px">
 
@@ -1340,7 +1340,7 @@ Singles</col>
 "<medium wordnetid="106254669" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../429/15751429.xml">
 Milk Lizard</link></medium>
-"&nbsp;·  "Black Bubblegum"</col>
+" ·  "Black Bubblegum"</col>
 </row>
 </table>
 </col>

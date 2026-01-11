@@ -357,8 +357,8 @@ Window management topics</link></header>
 Techniques</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../103/2652103.xml">
-Tiling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../934/451934.xml">
-Stacking</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Tiling</link> ·  <link xlink:type="simple" xlink:href="../934/451934.xml">
+Stacking</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -373,7 +373,7 @@ Compositing</link></director>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../191/17044191.xml">
+ ·  <link xlink:type="simple" xlink:href="../191/17044191.xml">
 Re-parenting</link></col>
 </row>
 <row style="height:2px">
@@ -398,8 +398,8 @@ Awesome</link></director>
 </leader>
 </person>
 </physical_entity>
- &nbsp;·  <link xlink:type="simple" xlink:href="../714/7108714.xml">
-dwm</link> &nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../714/7108714.xml">
+dwm</link>  ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -414,7 +414,7 @@ Ion</link></director>
 </leader>
 </person>
 </physical_entity>
- &nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+  ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -429,7 +429,7 @@ Wmii</link></director>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -444,9 +444,9 @@ Ratpoison</link></director>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../397/3393397.xml">
-stumpwm</link>&nbsp;·  <link xlink:type="simple" xlink:href="../710/10974710.xml">
-xmonad</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../397/3393397.xml">
+stumpwm</link> ·  <link xlink:type="simple" xlink:href="../710/10974710.xml">
+xmonad</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -461,10 +461,10 @@ Xerox Star</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../387/67387.xml">
 Windows 1.0</link></version>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../365/87365.xml">
 GEM</link></O>
 (2.0 and Later)</col>
@@ -479,33 +479,33 @@ Stacking Examples</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../969/79969.xml">
 Enlightenment</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../262/229262.xml">
 Blackbox</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../562/254562.xml">
-Presentation Manager</link>&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../562/254562.xml">
+Presentation Manager</link> ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../153/188153.xml">
 Windows 2.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../064/34064.xml">
 Windows 95</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../433/75433.xml">
 Windows 98</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/75458.xml">
 Windows Me</link></version>
-&nbsp;·  <family wordnetid="108078020" confidence="0.8">
+ ·  <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../438/33438.xml">
 Windows NT</link></family>
  - <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../879/33879.xml">
 Windows XP</link></version>
-&nbsp;·  <link xlink:type="simple" xlink:href="../635/205635.xml">
-Mac OS 9</link> and earlier&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../635/205635.xml">
+Mac OS 9</link> and earlier ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../365/87365.xml">
 GEM</link></O>
- 1.1&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ 1.1 ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -544,7 +544,7 @@ Beryl</link></director>
 </leader>
 </person>
 </physical_entity>
- (Discontinued)&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ (Discontinued) ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -559,7 +559,7 @@ Compiz</link></director>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  <component wordnetid="105868954" confidence="0.9508927676800064">
+ ·  <component wordnetid="105868954" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../347/2933347.xml">
 Desktop Window Manager</link></component>
  (with <structure wordnetid="104341686" confidence="0.8">
@@ -573,13 +573,13 @@ Windows Aero</link></framework>
 </window>
 </artifact>
 </structure>
-)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../380/524380.xml">
 Metacity</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../940/543940.xml">
 KWin</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../309/471309.xml">
+ ·  <link xlink:type="simple" xlink:href="../309/471309.xml">
 Aqua</link> (with the <physical_entity wordnetid="100001930" confidence="0.8">
 <system wordnetid="104377057" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -613,11 +613,11 @@ Systems</link> with <link xlink:type="simple" xlink:href="../217/876217.xml">
 WMs</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../304/18933304.xml">
-Amiga OS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../043/20043.xml">
-Mac OS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+Amiga OS</link> ·  <link xlink:type="simple" xlink:href="../043/20043.xml">
+Mac OS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/22409.xml">
 OS/2</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../154/34154.xml">
+ ·  <link xlink:type="simple" xlink:href="../154/34154.xml">
 Xerox PARC</link> (<computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -648,12 +648,12 @@ Xerox Star</link></workstation>
 </instrumentality>
 </artifact>
 </computer>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../890/18890.xml">
-Microsoft Windows</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+) ·  <link xlink:type="simple" xlink:href="../890/18890.xml">
+Microsoft Windows</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../365/87365.xml">
 MS-DOS with GEM</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../077/12098077.xml">
-Atari TOS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../077/12098077.xml">
+Atari TOS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../999/167999.xml">
 RISC OS</link></O>
 </col>
@@ -666,18 +666,18 @@ RISC OS</link></O>
 Components</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../217/876217.xml">
-Window Manager</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Window Manager</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../181/6601181.xml">
 Window decorator</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../000/17460000.xml">
-Dock (computing)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../397/455397.xml">
-Title bar</link>&nbsp;·  <link xlink:type="simple" xlink:href="../410/455410.xml">
-Task bar</link>&nbsp;·  <link xlink:type="simple" xlink:href="../410/455410.xml">
-System tray</link>&nbsp;· <link xlink:type="simple" xlink:href="../879/18566879.xml">
+ ·  <link xlink:type="simple" xlink:href="../000/17460000.xml">
+Dock (computing)</link> ·  <link xlink:type="simple" xlink:href="../397/455397.xml">
+Title bar</link> ·  <link xlink:type="simple" xlink:href="../410/455410.xml">
+Task bar</link> ·  <link xlink:type="simple" xlink:href="../410/455410.xml">
+System tray</link> · <link xlink:type="simple" xlink:href="../879/18566879.xml">
 Pager (GUI)</link></col>
 </row>
 <row style="height:2px">
@@ -688,31 +688,31 @@ Pager (GUI)</link></col>
 Related Reading</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../967/151967.xml">
-Windowing system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../334/68334.xml">
-Desktop environment</link>&nbsp;·  <link xlink:type="simple" xlink:href="../705/769705.xml">
-GUI widget</link>&nbsp;·  <link xlink:type="simple" xlink:href="../147/34147.xml">
-X window system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../345/68345.xml">
-X window manager</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Windowing system</link> ·  <link xlink:type="simple" xlink:href="../334/68334.xml">
+Desktop environment</link> ·  <link xlink:type="simple" xlink:href="../705/769705.xml">
+GUI widget</link> ·  <link xlink:type="simple" xlink:href="../147/34147.xml">
+X window system</link> ·  <link xlink:type="simple" xlink:href="../345/68345.xml">
+X window manager</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/22497.xml">
 OpenGL</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../506/8506.xml">
 DirectX</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../214/390214.xml">
-GPU</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../214/390214.xml">
+GPU</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../056/7056.xml">
 Mouse (computing)</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../281/18842281.xml">
-Keyboard</link>&nbsp;·  <link>
-WIMP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../293/12293.xml">
-GUI</link>&nbsp;·  <link xlink:type="simple" xlink:href="../558/222558.xml">
-Widget toolkit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../204/25204.xml">
-Qt</link>&nbsp;·  <link xlink:type="simple" xlink:href="../156/46156.xml">
-GTK</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../281/18842281.xml">
+Keyboard</link> ·  <link>
+WIMP</link> ·  <link xlink:type="simple" xlink:href="../293/12293.xml">
+GUI</link> ·  <link xlink:type="simple" xlink:href="../558/222558.xml">
+Widget toolkit</link> ·  <link xlink:type="simple" xlink:href="../204/25204.xml">
+Qt</link> ·  <link xlink:type="simple" xlink:href="../156/46156.xml">
+GTK</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <undertaking wordnetid="100795720" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -725,15 +725,15 @@ AIGLX</link></activity>
 </undertaking>
 </event>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../861/1577861.xml">
-XGL</link>&nbsp;·  <environment wordnetid="113934596" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../861/1577861.xml">
+XGL</link> ·  <environment wordnetid="113934596" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <situation wordnetid="113927383" confidence="0.8">
 <link xlink:type="simple" xlink:href="../397/2281397.xml">
 Shell (computing)</link></situation>
 </state>
 </environment>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -748,7 +748,7 @@ Painter's algorithm</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../963/5381963.xml">
+ ·  <link xlink:type="simple" xlink:href="../963/5381963.xml">
 Resolution independence</link></col>
 </row>
 </table>

@@ -49,7 +49,7 @@ Diving</link></psychological_feature>
 <col>
 3 m springboard</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -66,14 +66,14 @@ men</link></diving>
 </event>
 </col>
 <col>
-&nbsp;</col>
+ </col>
 
 </row>
 <row>
 <col>
 10 m platform</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -90,7 +90,7 @@ men</link></diving>
 </event>
 </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -111,7 +111,7 @@ women</link></diving>
 <col>
 Plain high diving</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -128,7 +128,7 @@ men</link></diving>
 </event>
 </col>
 <col>
-&nbsp;</col>
+ </col>
 
 </row>
 </table>
@@ -162,7 +162,7 @@ Medalists</st>
 <col style="width:12em">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -188,11 +188,11 @@ Greta Johansson</link></swimmer>
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 Sweden</link></political_unit>
 </state>
-&nbsp;(SWE)''</it></col>
+ (SWE)''</it></col>
 <col style="width:12em">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -214,11 +214,11 @@ Lisa Regnell</link></medalist>
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 Sweden</link></political_unit>
 </state>
-&nbsp;(SWE)''</it></col>
+ (SWE)''</it></col>
 <col style="width:12em">
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -240,7 +240,7 @@ Isabelle White</link></medalist>
 <link xlink:type="simple" xlink:href="../418/6084418.xml">
 Great Britain</link></political_unit>
 </state>
-&nbsp;(GBR)''</it></col>
+ (GBR)''</it></col>
 </row>
 </table>
 </p>
@@ -282,7 +282,7 @@ Score</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -303,7 +303,7 @@ Greta Johansson</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -320,7 +320,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -337,7 +337,7 @@ Lisa Regnell</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -354,7 +354,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -371,7 +371,7 @@ Isabelle White</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../418/6084418.xml">
 GBR</link></political_unit>
@@ -388,8 +388,8 @@ GBR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../943/19567943.xml">
-Tora Larsson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../943/19567943.xml">
+Tora Larsson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -406,8 +406,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../902/19567902.xml">
-Selma Andersson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../902/19567902.xml">
+Selma Andersson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -424,8 +424,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../844/19567844.xml">
-Elsa Andersson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../844/19567844.xml">
+Elsa Andersson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -442,8 +442,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../245/19568245.xml">
-Willy Thulin</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../245/19568245.xml">
+Willy Thulin</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -460,8 +460,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link>
-Märta Adlerz</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Märta Adlerz</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -496,8 +496,8 @@ Score</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../816/19567816.xml">
-Ella Eklund</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../816/19567816.xml">
+Ella Eklund</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -514,8 +514,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../745/19567745.xml">
-Elsa Regnell</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../745/19567745.xml">
+Elsa Regnell</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -532,8 +532,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../130/19568130.xml">
-Gerda Johansson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../130/19568130.xml">
+Gerda Johansson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -550,8 +550,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../147/19568147.xml">
-Dagmar Nilsson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../147/19568147.xml">
+Dagmar Nilsson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -568,8 +568,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link>
-Ester Edström</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Ester Edström</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -586,8 +586,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_Habsburg_Monarchy.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../468/19568468.xml">
-Hanny Kellner</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../468/19568468.xml">
+Hanny Kellner</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../425/7431425.xml">
 AUT</link></political_unit>
@@ -628,7 +628,7 @@ Score</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -649,7 +649,7 @@ Greta Johansson</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -666,7 +666,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -683,7 +683,7 @@ Lisa Regnell</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -700,7 +700,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -717,7 +717,7 @@ Isabelle White</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../418/6084418.xml">
 GBR</link></political_unit>
@@ -734,8 +734,8 @@ GBR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../745/19567745.xml">
-Elsa Regnell</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../745/19567745.xml">
+Elsa Regnell</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -752,8 +752,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../816/19567816.xml">
-Ella Eklund</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../816/19567816.xml">
+Ella Eklund</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -770,8 +770,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../844/19567844.xml">
-Elsa Andersson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../844/19567844.xml">
+Elsa Andersson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -788,8 +788,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../902/19567902.xml">
-Selma Andersson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../902/19567902.xml">
+Selma Andersson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -806,8 +806,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../943/19567943.xml">
-Tora Larsson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../943/19567943.xml">
+Tora Larsson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -868,7 +868,7 @@ Olympic Diving Champions in Women's 10 metre Platform</link></header>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -889,7 +889,7 @@ Greta Johansson</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(SWE) •
+ (SWE) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -903,7 +903,7 @@ Greta Johansson</link></swimmer>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -920,7 +920,7 @@ Stefanie Clausen</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(DEN) •
+ (DEN) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -934,7 +934,7 @@ Stefanie Clausen</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -951,7 +951,7 @@ Caroline Smith</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -965,7 +965,7 @@ Caroline Smith</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1009,7 +1009,7 @@ Elizabeth Becker-Pinkston</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1026,7 +1026,7 @@ Dorothy Poynton-Hill</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1040,7 +1040,7 @@ Dorothy Poynton-Hill</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1057,7 +1057,7 @@ Victoria Manalo Draves</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA)  •
+ (USA)  •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1084,7 +1084,7 @@ Victoria Manalo Draves</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1101,7 +1101,7 @@ Pat McCormick</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA)  •
+ (USA)  •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1115,8 +1115,8 @@ Pat McCormick</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<link>
-Ingrid Krämer</link>&nbsp;(EUA) •
+: <link>
+Ingrid Krämer</link> (EUA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1130,7 +1130,7 @@ Ingrid Krämer</link>&nbsp;(EUA) •
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1147,7 +1147,7 @@ Lesley Bush</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1161,8 +1161,8 @@ Lesley Bush</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<link>
-Milena Duchková</link>&nbsp;(TCH) •
+: <link>
+Milena Duchková</link> (TCH) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1176,7 +1176,7 @@ Milena Duchková</link>&nbsp;(TCH) •
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1193,7 +1193,7 @@ Ulrika Knape</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(SWE) •
+ (SWE) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1207,8 +1207,8 @@ Ulrika Knape</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<link xlink:type="simple" xlink:href="../663/19483663.xml">
-Elena Vaytsekhovskaya</link>&nbsp;(URS) •
+: <link xlink:type="simple" xlink:href="../663/19483663.xml">
+Elena Vaytsekhovskaya</link> (URS) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1222,8 +1222,8 @@ Elena Vaytsekhovskaya</link>&nbsp;(URS) •
 </contest>
 </social_event>
 </event>
-:&nbsp;<link>
-Martina Jäschke</link>&nbsp;(GDR)&nbsp;•
+: <link>
+Martina Jäschke</link> (GDR) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1237,7 +1237,7 @@ Martina Jäschke</link>&nbsp;(GDR)&nbsp;•
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1254,7 +1254,7 @@ Zhou Jihong</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(CHN) •
+ (CHN) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1268,8 +1268,8 @@ Zhou Jihong</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<link xlink:type="simple" xlink:href="../264/18850264.xml">
-Xu Yanmei</link>&nbsp;(CHN) •
+: <link xlink:type="simple" xlink:href="../264/18850264.xml">
+Xu Yanmei</link> (CHN) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1296,7 +1296,7 @@ Xu Yanmei</link>&nbsp;(CHN) •
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1313,7 +1313,7 @@ Fu Mingxia</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(CHN) •
+ (CHN) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1327,7 +1327,7 @@ Fu Mingxia</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1348,7 +1348,7 @@ Laura Wilkinson</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1362,7 +1362,7 @@ Laura Wilkinson</link></swimmer>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1379,10 +1379,10 @@ Chantelle Newbery</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(AUS) •
+ (AUS) •
 <link xlink:type="simple" xlink:href="../532/18662532.xml">
-2008</link>:&nbsp;<link xlink:type="simple" xlink:href="../992/18691992.xml">
-Chen Ruolin</link>&nbsp;(CHN)</p>
+2008</link>: <link xlink:type="simple" xlink:href="../992/18691992.xml">
+Chen Ruolin</link> (CHN)</p>
 </col>
 </row>
 </table>

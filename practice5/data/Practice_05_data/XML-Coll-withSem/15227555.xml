@@ -56,9 +56,9 @@ TELO2</weblink>; hCLK2; DKFZp434A073; FLJ10924; KIAA0683; c305C8.3</col>
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
   <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1918968">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1918968">
 1918968</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=41107">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=41107">
 41107</weblink></col>
 </row>
 
@@ -186,10 +186,10 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Ishikawa K, Nagase T, Suyama M, et al.&#32;(1998).&#32;"Prediction of the coding sequences of unidentified human genes. X. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro.". <it>DNA Res.</it>&#32;<b>5</b>&#32;(3): 169–76. PMID 9734811.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Ishikawa K, Nagase T, Suyama M, et al.&#32;(1998).&#32;"Prediction of the coding sequences of unidentified human genes. X. The complete sequences of 100 new cDNA clones from brain which can code for large proteins in vitro.". <it>DNA Res.</it>&#32;<b>5</b>&#32;(3): 169–76. PMID 9734811.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Daniels RJ, Peden JF, Lloyd C, et al.&#32;(2001).&#32;"Sequence, structure and pathology of the fully annotated terminal 2 Mb of the short arm of human chromosome 16.". <it>Hum. Mol. Genet.</it>&#32;<b>10</b>&#32;(4): 339–52. PMID 11157797.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Daniels RJ, Peden JF, Lloyd C, et al.&#32;(2001).&#32;"Sequence, structure and pathology of the fully annotated terminal 2 Mb of the short arm of human chromosome 16.". <it>Hum. Mol. Genet.</it>&#32;<b>10</b>&#32;(4): 339–52. PMID 11157797.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Wiemann S, Weil B, Wellenreuther R, et al.&#32;(2001).&#32;"Toward a catalog of human genes and proteins: sequencing and analysis of 500 novel complete protein coding human cDNAs.". <it>Genome Res.</it>&#32;<b>11</b>&#32;(3): 422–35. <document wordnetid="106470073" confidence="0.8">
@@ -200,7 +200,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.154701">
-10.1101/gr.154701</weblink>. PMID 11230166.</cite>&nbsp;</entry>
+10.1101/gr.154701</weblink>. PMID 11230166.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Simpson JC, Wellenreuther R, Poustka A, et al.&#32;(2001).&#32;"Systematic subcellular localization of novel proteins identified by large-scale cDNA sequencing.". <it>EMBO Rep.</it>&#32;<b>1</b>&#32;(3): 287–92. <document wordnetid="106470073" confidence="0.8">
@@ -211,7 +211,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fembo-reports%2Fkvd058">
-10.1093/embo-reports/kvd058</weblink>. PMID 11256614.</cite>&nbsp;</entry>
+10.1093/embo-reports/kvd058</weblink>. PMID 11256614.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -222,7 +222,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Jiang N, Bénard CY, Kébir H, et al.&#32;(2003).&#32;"Human CLK2 links cell cycle progression, apoptosis, and telomere length regulation.". <it>J. Biol. Chem.</it>&#32;<b>278</b>&#32;(24): 21678–84. <document wordnetid="106470073" confidence="0.8">
@@ -233,7 +233,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fjbc.M300286200">
-10.1074/jbc.M300286200</weblink>. PMID 12670948.</cite>&nbsp;</entry>
+10.1074/jbc.M300286200</weblink>. PMID 12670948.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ota T, Suzuki Y, Nishikawa T, et al.&#32;(2004).&#32;"Complete sequencing and characterization of 21,243 full-length human cDNAs.". <it>Nat. Genet.</it>&#32;<b>36</b>&#32;(1): 40–5. <document wordnetid="106470073" confidence="0.8">
@@ -244,7 +244,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fng1285">
-10.1038/ng1285</weblink>. PMID 14702039.</cite>&nbsp;</entry>
+10.1038/ng1285</weblink>. PMID 14702039.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ballif BA, Villén J, Beausoleil SA, et al.&#32;(2005).&#32;"Phosphoproteomic analysis of the developing mouse brain.". <it>Mol. Cell Proteomics</it>&#32;<b>3</b>&#32;(11): 1093–101. <document wordnetid="106470073" confidence="0.8">
@@ -255,7 +255,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fmcp.M400085-MCP200">
-10.1074/mcp.M400085-MCP200</weblink>. PMID 15345747.</cite>&nbsp;</entry>
+10.1074/mcp.M400085-MCP200</weblink>. PMID 15345747.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Stelzl U, Worm U, Lalowski M, et al.&#32;(2005).&#32;"A human protein-protein interaction network: a resource for annotating the proteome.". <it>Cell</it>&#32;<b>122</b>&#32;(6): 957–68. <document wordnetid="106470073" confidence="0.8">
@@ -266,7 +266,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cell.2005.08.029">
-10.1016/j.cell.2005.08.029</weblink>. PMID 16169070.</cite>&nbsp;</entry>
+10.1016/j.cell.2005.08.029</weblink>. PMID 16169070.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ewing RM, Chu P, Elisma F, et al.&#32;(2007).&#32;"Large-scale mapping of human protein-protein interactions by mass spectrometry.". <it>Mol. Syst. Biol.</it>&#32;<b>3</b>: 89. <document wordnetid="106470073" confidence="0.8">
@@ -277,7 +277,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fmsb4100134">
-10.1038/msb4100134</weblink>. PMID 17353931.</cite>&nbsp;</entry>
+10.1038/msb4100134</weblink>. PMID 17353931.</cite> </entry>
 </list>
 </p>
 

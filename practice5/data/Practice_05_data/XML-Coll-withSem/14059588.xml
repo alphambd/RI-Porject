@@ -566,8 +566,8 @@ People's Republic of China</link></country>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../588/14059588.xml">
-Bioenergy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../693/14598693.xml">
-Coal</link>&nbsp;·  <link xlink:type="simple" xlink:href="../399/381399.xml">
+Bioenergy</link> ·  <link xlink:type="simple" xlink:href="../693/14598693.xml">
+Coal</link> ·  <link xlink:type="simple" xlink:href="../399/381399.xml">
 Hydroelectricity</link> (<plant wordnetid="103956922" confidence="0.8">
 <obstruction wordnetid="103839993" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
@@ -585,7 +585,7 @@ Gezhouba Dam</link></building_complex>
 </structure>
 </obstruction>
 </plant>
-&nbsp;·  <plant wordnetid="103956922" confidence="0.8">
+ ·  <plant wordnetid="103956922" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <building_complex wordnetid="102914991" confidence="0.8">
@@ -594,7 +594,7 @@ Guangdong Pumped Power Station</link></building_complex>
 </artifact>
 </structure>
 </plant>
-&nbsp;· <plant wordnetid="103956922" confidence="0.8">
+ · <plant wordnetid="103956922" confidence="0.8">
 <obstruction wordnetid="103839993" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
@@ -611,12 +611,12 @@ Jinping 1 Hydropower Station</link></building_complex>
 </structure>
 </obstruction>
 </plant>
-&nbsp;·  <dam wordnetid="103160309" confidence="0.9508927676800064">
+ ·  <dam wordnetid="103160309" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../192/65192.xml">
 Three Gorges Dam</link></dam>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../377/12899377.xml">
-Nuclear</link>&nbsp;·  <link xlink:type="simple" xlink:href="../533/15479533.xml">
-Solar</link>&nbsp;·  <link xlink:type="simple" xlink:href="../411/13897411.xml">
+) ·  <link xlink:type="simple" xlink:href="../377/12899377.xml">
+Nuclear</link> ·  <link xlink:type="simple" xlink:href="../533/15479533.xml">
+Solar</link> ·  <link xlink:type="simple" xlink:href="../411/13897411.xml">
 Wind</link></p>
 </col>
 </row>
@@ -627,7 +627,7 @@ Wind</link></p>
 <col colspan="2" style=";background:lavender;" class="navbox-abovebelow">
 <link xlink:type="simple" xlink:href="../698/11588698.xml">
 Energy policy of China</link>
-&nbsp;·  <link xlink:type="simple" xlink:href="../279/13556279.xml">
+ ·  <link xlink:type="simple" xlink:href="../279/13556279.xml">
 Renewable energy in China</link></col>
 </row>
 </table>

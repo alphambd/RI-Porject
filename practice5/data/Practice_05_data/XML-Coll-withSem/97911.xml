@@ -70,10 +70,10 @@ gel electrophoresis</link>, where an electric field is used to "pull" or "push" 
 SEC is a widely used technique for the purification and analysis of synthetic and biological polymers, such as <link xlink:type="simple" xlink:href="../634/23634.xml">
 proteins</link>, <link xlink:type="simple" xlink:href="../978/23978.xml">
 polysaccharides</link> and <link xlink:type="simple" xlink:href="../496/21496.xml">
-nucleic acids</link>.  Biologists and biochemists typically use a gel medium &mdash; usually <link xlink:type="simple" xlink:href="../674/498674.xml">
+nucleic acids</link>.  Biologists and biochemists typically use a gel medium — usually <link xlink:type="simple" xlink:href="../674/498674.xml">
 polyacrylamide</link>, <link xlink:type="simple" xlink:href="../217/1179217.xml">
 dextran</link> or <link xlink:type="simple" xlink:href="../635/2635.xml">
-agarose</link> &mdash; and filter under low pressure.  Polymer chemists typically use either a <link xlink:type="simple" xlink:href="../710/43710.xml">
+agarose</link> — and filter under low pressure.  Polymer chemists typically use either a <link xlink:type="simple" xlink:href="../710/43710.xml">
 silica</link> or crosslinked <link xlink:type="simple" xlink:href="../393/168393.xml">
 polystyrene</link> medium under a higher pressure. These media are known as the <b>stationary phase</b>.</p>
 <p>
@@ -397,8 +397,8 @@ Chromatography</link></header>
 Techniques</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../061/1434061.xml">
-Affinity chromatography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../469/1514469.xml">
-Column chromatography</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+Affinity chromatography</link> ·  <link xlink:type="simple" xlink:href="../469/1514469.xml">
+Column chromatography</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
@@ -415,18 +415,18 @@ Electrochromatography</link></activity>
 </event>
 </know-how>
 </technique>
-&nbsp;· <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+ · <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../651/168651.xml">
 High performance liquid chromatography</link></chemical_analysis>
-&nbsp;·  <link xlink:type="simple" xlink:href="../246/1787246.xml">
-Ion chromatography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../940/1232940.xml">
-Micellar electrokinetic chromatography</link>&nbsp;·  <link>
-Normal phase chromatography</link>&nbsp;· <link xlink:type="simple" xlink:href="../552/1250552.xml">
-Paper chromatography</link> &nbsp;·   <link xlink:type="simple" xlink:href="../294/5979294.xml">
-Reversed-phase chromatography</link> &nbsp;·  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../246/1787246.xml">
+Ion chromatography</link> ·  <link xlink:type="simple" xlink:href="../940/1232940.xml">
+Micellar electrokinetic chromatography</link> ·  <link>
+Normal phase chromatography</link> · <link xlink:type="simple" xlink:href="../552/1250552.xml">
+Paper chromatography</link>  ·   <link xlink:type="simple" xlink:href="../294/5979294.xml">
+Reversed-phase chromatography</link>  ·  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../911/97911.xml">
 Size exclusion chromatography</link></chemical_analysis>
-&nbsp;·  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+ ·  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../225/2152225.xml">
 Thin layer chromatography</link></chemical_analysis>
 </col>
@@ -445,10 +445,10 @@ Hyphenated methods</col>
 Gas chromatography-mass spectrometry</link></method>
 </know-how>
 </technique>
-&nbsp;·  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+ ·  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../378/2378378.xml">
 Liquid chromatography-mass spectrometry</link></chemical_analysis>
-&nbsp;·  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+ ·  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../440/12033440.xml">
 Pyrolysis gas chromatography mass spectrometry</link></chemical_analysis>
 </col>
@@ -461,10 +461,10 @@ Pyrolysis gas chromatography mass spectrometry</link></chemical_analysis>
 Theory</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../198/3826198.xml">
-Distribution constant</link>&nbsp;·  <link xlink:type="simple" xlink:href="../767/6474767.xml">
-Freundlich equation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../752/14153752.xml">
-Kovats retention index</link>&nbsp;·  <link xlink:type="simple" xlink:href="../259/13337259.xml">
-Retention factor</link>&nbsp;·  <link xlink:type="simple" xlink:href="../205/2971205.xml">
+Distribution constant</link> ·  <link xlink:type="simple" xlink:href="../767/6474767.xml">
+Freundlich equation</link> ·  <link xlink:type="simple" xlink:href="../752/14153752.xml">
+Kovats retention index</link> ·  <link xlink:type="simple" xlink:href="../259/13337259.xml">
+Retention factor</link> ·  <link xlink:type="simple" xlink:href="../205/2971205.xml">
 Van Deemter equation</link></col>
 </row>
 <row style="height:2px">
@@ -477,11 +477,11 @@ Prominent publications</col>
 <periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../512/11763512.xml">
 Biomedical Chromatography</link></periodical>
-&nbsp;·  <link>
- Journal of Chromatographic Science</link>&nbsp;·  <link xlink:type="simple" xlink:href="../753/14243753.xml">
-Journal of Chromatography A</link>&nbsp;·  <link xlink:type="simple" xlink:href="../265/19514265.xml">
-Journal of Chromatography B</link>&nbsp;·  <link>
-Journal of Liquid Chromatography &amp; Related Technologies</link>&nbsp;·   <link>
+ ·  <link>
+ Journal of Chromatographic Science</link> ·  <link xlink:type="simple" xlink:href="../753/14243753.xml">
+Journal of Chromatography A</link> ·  <link xlink:type="simple" xlink:href="../265/19514265.xml">
+Journal of Chromatography B</link> ·  <link>
+Journal of Liquid Chromatography &amp; Related Technologies</link> ·   <link>
 Journal of Separation Science</link></col>
 </row>
 <row style="height:2px;">

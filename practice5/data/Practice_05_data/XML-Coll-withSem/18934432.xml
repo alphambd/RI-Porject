@@ -132,7 +132,7 @@ scytale</link> (rhymes with Italy), probably much like this modern reconstructio
 <it>Main article: <link xlink:type="simple" xlink:href="../066/520066.xml">
 History of cryptography</link></it>
 </indent>
-Before the modern era, cryptography was concerned solely with message confidentiality (i.e., encryption) &mdash; conversion of <link xlink:type="simple" xlink:href="../062/18985062.xml">
+Before the modern era, cryptography was concerned solely with message confidentiality (i.e., encryption) — conversion of <link xlink:type="simple" xlink:href="../062/18985062.xml">
 messages</link> from a comprehensible form into an incomprehensible one, and back again at the other end, rendering it unreadable by interceptors or eavesdroppers without secret knowledge (namely, the key needed for decryption of that message). In recent decades, the field has expanded beyond confidentiality concerns to include techniques for message integrity checking, sender/receiver identity <link xlink:type="simple" xlink:href="../967/47967.xml">
 authentication</link>, <link xlink:type="simple" xlink:href="../644/59644.xml">
 digital signature</link>s, <link xlink:type="simple" xlink:href="../153/515153.xml">
@@ -251,7 +251,7 @@ Auguste Kerckhoffs</link></decoder>
 Kerckhoffs' principle</link>; alternatively and more bluntly, it was restated by <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/5693.xml">
 Claude Shannon</link></scientist>
- as <it>Shannon's Maxim</it> &mdash; 'the enemy knows the system'.</p>
+ as <it>Shannon's Maxim</it> — 'the enemy knows the system'.</p>
 <p>
 
 Various physical devices and aids have been used to assist with ciphers. One of the earliest may have been the <link xlink:type="simple" xlink:href="../487/148487.xml">
@@ -306,7 +306,7 @@ multi-cylinder</link></device>
 </artifact>
  (reinvented independently by <link xlink:type="simple" xlink:href="../047/401047.xml">
 Bazeries</link> around 1900). Several mechanical encryption/decryption devices were invented early in the 20th century, and many patented, among them <link xlink:type="simple" xlink:href="../223/196223.xml">
-rotor machine</link>s &mdash; most famously the <artifact wordnetid="100021939" confidence="0.8">
+rotor machine</link>s — most famously the <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <machine wordnetid="103699975" confidence="0.8">
@@ -355,7 +355,7 @@ smart card</link> capabilities. The 3 by 5 mm chip embedded in the card is shown
 </p>
 <p>
 
-Extensive open academic research into cryptography is relatively recent &mdash; it began only in the mid-1970s with the public specification of DES (the <cipher wordnetid="106254239" confidence="0.9508927676800064">
+Extensive open academic research into cryptography is relatively recent — it began only in the mid-1970s with the public specification of DES (the <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/7978.xml">
 Data Encryption Standard</link></cipher>
 ) by the US Government's <link xlink:type="simple" xlink:href="../675/535675.xml">
@@ -543,7 +543,7 @@ Martin Hellman</link></scholar>
 </cryptanalyst>
 </person>
 </physical_entity>
- proposed the notion of <it>public-key</it> (also, more generally, called <it>asymmetric key</it>) cryptography in which two different but mathematically related keys are used &mdash; a <it>public</it> key  and a <it>private</it> key.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2216%22])">16</ref>  A public key system is so constructed that calculation of one key (the 'private key') is computationally infeasible from the other (the 'public key'), even though they are necessarily related. Instead, both keys are generated secretly, as an interrelated pair.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref> The  historian <physical_entity wordnetid="100001930" confidence="0.8">
+ proposed the notion of <it>public-key</it> (also, more generally, called <it>asymmetric key</it>) cryptography in which two different but mathematically related keys are used — a <it>public</it> key  and a <it>private</it> key.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2216%22])">16</ref>  A public key system is so constructed that calculation of one key (the 'private key') is computationally infeasible from the other (the 'public key'), even though they are necessarily related. Instead, both keys are generated secretly, as an interrelated pair.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref> The  historian <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -821,7 +821,7 @@ Cryptographic primitives</st>
 <p>
 
 Much of the theoretical work in cryptography concerns <link xlink:type="simple" xlink:href="../985/4928985.xml">
-cryptographic <it>primitives''</it></link> &mdash; algorithms with basic cryptographic properties &mdash; and their relationship to other cryptographic problems. More complicated cryptographic tools are then built from these basic primitives. Complex functionality in an application must be built in using combinations of these algorithms and assorted protocols. Such combinations are called <link xlink:type="simple" xlink:href="../383/506383.xml">
+cryptographic <it>primitives''</it></link> — algorithms with basic cryptographic properties — and their relationship to other cryptographic problems. More complicated cryptographic tools are then built from these basic primitives. Complex functionality in an application must be built in using combinations of these algorithms and assorted protocols. Such combinations are called <link xlink:type="simple" xlink:href="../383/506383.xml">
 cryptosystems</link> and it is they which users actually encounter. Examples include <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../080/23080.xml">
@@ -1417,7 +1417,7 @@ Liddell and Scott's Greek-English Lexicon. Oxford University Press. (1984)</entr
 <entry id="2">
  <cite style="font-style:normal">&#32;"<weblink xlink:type="simple" xlink:href="http://www.merriam-webster.com/dictionary/cryptology/">
 Cryptology (definition)</weblink>".&#32;<it>Merriam-Webster's Collegiate Dictionary</it>&#32;(11th edition).&#32;Merriam-Webster.&#32;Retrieved on <link>
-2008-02-01</link>.</cite>&nbsp;</entry>
+2008-02-01</link>.</cite> </entry>
 <entry id="3">
 <it>Kama Sutra</it>, Sir Richard F. Burton, translator, Part I, Chapter III, 44th and 45th arts.</entry>
 <entry id="4">
@@ -1457,9 +1457,9 @@ Cryptologia</link></publication>
 </creation>
 </product>
 </work>
-</it> <b>16</b> (2): 97&ndash;126</entry>
+</it> <b>16</b> (2): 97–126</entry>
 <entry id="6">
- <cite style="font-style:normal" class="book">Hakim, Joy&#32;(1995). A History of Us: War, Peace and all that Jazz.&#32;New York:&#32;Oxford University Press. ISBN 0-19-509514-6.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Hakim, Joy&#32;(1995). A History of Us: War, Peace and all that Jazz.&#32;New York:&#32;Oxford University Press. ISBN 0-19-509514-6.</cite> </entry>
 <entry id="7">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
@@ -1607,7 +1607,7 @@ A. Shamir</link></scientist>
 </person>
 , <link xlink:type="simple" xlink:href="../886/249886.xml">
 L. Adleman</link>. <weblink xlink:type="simple" xlink:href="http://theory.lcs.mit.edu/~rivest/rsapaper.pdf">
-A Method for Obtaining Digital Signatures and Public-Key Cryptosystems</weblink>. Communications of the ACM, Vol. 21 (2), pp.120&ndash;126. 1978. Previously released as an MIT "Technical Memo" in April 1977, and published in <person wordnetid="100007846" confidence="0.9508927676800064">
+A Method for Obtaining Digital Signatures and Public-Key Cryptosystems</weblink>. Communications of the ACM, Vol. 21 (2), pp.120–126. 1978. Previously released as an MIT "Technical Memo" in April 1977, and published in <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../435/20435.xml">
 Martin Gardner</link></person>
 's <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
@@ -1647,7 +1647,7 @@ A. Shamir. "How to share a secret."  In <it>Communications of the ACM</it>, volu
 G. Blakley. "Safeguarding cryptographic keys."  In <it>Proceedings of AFIPS 1979</it>, volume 48, pp. 313–317, June 1979.</entry>
 <entry id="29">
 S. Brands, <weblink xlink:type="simple" xlink:href="http://scholar.google.com/url?sa=U&amp;q=http://ftp.se.kde.org/pub/security/docs/ecash/crypto93.ps.gz">
-"Untraceable Off-line Cash in Wallets with Observers"</weblink>, In <it>Advances in Cryptology &mdash; Proceedings of <link xlink:type="simple" xlink:href="../977/40977.xml">
+"Untraceable Off-line Cash in Wallets with Observers"</weblink>, In <it>Advances in Cryptology — Proceedings of <link xlink:type="simple" xlink:href="../977/40977.xml">
 CRYPTO</link></it>, Springer-Verlag, 1994.</entry>
 <entry id="28">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -1709,7 +1709,7 @@ Levy, Steven</link></journalist>
 </communicator>
 </blogger>
 </physical_entity>
-&#32;(2001). "Crypto: How the Code Rebels Beat the Government &mdash; Saving Privacy in the Digital Age.&#32;<company wordnetid="108058098" confidence="0.8">
+&#32;(2001). "Crypto: How the Code Rebels Beat the Government — Saving Privacy in the Digital Age.&#32;<company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../953/551953.xml">
 Penguin Books</link></institution>
@@ -1726,7 +1726,7 @@ OCLC</link></institution>
 </company>
 </commercial_enterprise>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/oclc/244148644+48066852+48846639">
-244148644 48066852 48846639</weblink>.</cite>&nbsp;</entry>
+244148644 48066852 48846639</weblink>.</cite> </entry>
 <entry id="42">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1769,7 +1769,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :10.1147/rd.383.0243 (inactive <link>
-2008-06-24</link>) .</cite>&nbsp;
+2008-06-24</link>) .</cite> 
 </entry>
 <entry id="44">
 <weblink xlink:type="simple" xlink:href="http://www.copyright.gov/legislation/dmca.pdf">
@@ -1965,7 +1965,7 @@ OCLC</link></institution>
 </company>
 </commercial_enterprise>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/oclc/16832704">
-16832704</weblink>.</cite>&nbsp; Excellent coverage of many classical ciphers and cryptography concepts and of the "modern" DES and RSA systems.</entry>
+16832704</weblink>.</cite>  Excellent coverage of many classical ciphers and cryptography concepts and of the "modern" DES and RSA systems.</entry>
 </list>
 </p>
 
@@ -2011,7 +2011,7 @@ Declassified U.S. Government Documents on Cryptography</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.cryptool.org/download/CrypToolPresentation-en-1_4_20.pdf">
- Overview and Applications of Cryptology</weblink> by the CrypTool Team;  PDF;  3,8&nbsp;MB  --  July 2008</entry>
+ Overview and Applications of Cryptology</weblink> by the CrypTool Team;  PDF;  3,8 MB  --  July 2008</entry>
 </list>
 
 <image width="150px" src="">
@@ -2030,7 +2030,7 @@ Declassified U.S. Government Documents on Cryptography</weblink></entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">
@@ -2121,8 +2121,8 @@ Espionage</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../171/1256171.xml">
-Agent handling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../101/1144101.xml">
-Black op</link>&nbsp;· <technique wordnetid="105665146" confidence="0.8">
+Agent handling</link> ·  <link xlink:type="simple" xlink:href="../101/1144101.xml">
+Black op</link> · <technique wordnetid="105665146" confidence="0.8">
 <operation wordnetid="114008806" confidence="0.8">
 <operation wordnetid="100955060" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -2147,23 +2147,23 @@ Black bag operation</link></activity>
 </operation>
 </operation>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../741/655741.xml">
 Concealment device</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../432/18934432.xml">
-Cryptography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../639/655639.xml">
-Dead drop</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../432/18934432.xml">
+Cryptography</link> ·  <link xlink:type="simple" xlink:href="../639/655639.xml">
+Dead drop</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../656/372656.xml">
 Eavesdropping</link></method>
 </know-how>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <law wordnetid="108441203" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
@@ -2176,11 +2176,11 @@ False flag</link></group>
 </know-how>
 </law>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../181/14711181.xml">
-Honeypot (espionage)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../508/15508.xml">
-Industrial espionage</link>&nbsp;·  <link xlink:type="simple" xlink:href="../414/220414.xml">
-Interrogation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../358/848358.xml">
-Non-official cover</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../181/14711181.xml">
+Honeypot (espionage)</link> ·  <link xlink:type="simple" xlink:href="../508/15508.xml">
+Industrial espionage</link> ·  <link xlink:type="simple" xlink:href="../414/220414.xml">
+Interrogation</link> ·  <link xlink:type="simple" xlink:href="../358/848358.xml">
+Non-official cover</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <representative wordnetid="110522035" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -2199,8 +2199,8 @@ Official cover</link></negotiator>
 </communicator>
 </representative>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../733/28733.xml">
-Steganography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../231/87231.xml">
+ ·  <link xlink:type="simple" xlink:href="../733/28733.xml">
+Steganography</link> ·  <link xlink:type="simple" xlink:href="../231/87231.xml">
 Surveillance</link></col>
 </row>
 </table>
@@ -2238,22 +2238,22 @@ Human Intelligence</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../830/14193830.xml">
 Clandestine HUMINT</link> (<link xlink:type="simple" xlink:href="../181/14711181.xml">
-recruiting</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+recruiting</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../661/14338661.xml">
 operational techniques</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../408/14590408.xml">
-Covert action</link>&nbsp;·  <operation wordnetid="114008806" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../408/14590408.xml">
+Covert action</link> ·  <operation wordnetid="114008806" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <action wordnetid="114006945" confidence="0.8">
 <link xlink:type="simple" xlink:href="../593/14366593.xml">
 Direct action</link></action>
 </state>
 </operation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../092/14558092.xml">
+ ·  <link xlink:type="simple" xlink:href="../092/14558092.xml">
 Clandestine cell system</link>)<power wordnetid="105190804" confidence="0.8">
 <influence wordnetid="105194151" confidence="0.8">
 <force wordnetid="105194578" confidence="0.8">
@@ -2270,7 +2270,7 @@ organizations</link></force>
 </power>
 )<link xlink:type="simple" xlink:href="../501/10501.xml">
 Espionage</link> (<link xlink:type="simple" xlink:href="../171/1256171.xml">
-Agent handling</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+Agent handling</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <operation wordnetid="114008806" confidence="0.8">
 <operation wordnetid="100955060" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -2295,30 +2295,30 @@ Black bag operation</link></activity>
 </operation>
 </operation>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../741/655741.xml">
 Concealment device</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../432/18934432.xml">
-Cryptography</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../432/18934432.xml">
+Cryptography</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../036/14006036.xml">
 Cut-out</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../639/655639.xml">
-Dead drop</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../639/655639.xml">
+Dead drop</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../656/372656.xml">
 Eavesdropping</link></method>
 </know-how>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <law wordnetid="108441203" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
@@ -2331,19 +2331,19 @@ False flag operations</link></group>
 </know-how>
 </law>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../181/14711181.xml">
-Honeypot</link>&nbsp;·  <link xlink:type="simple" xlink:href="../358/848358.xml">
-Non-official cover</link>&nbsp;·  <link xlink:type="simple" xlink:href="../414/220414.xml">
-Interrogation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../704/156704.xml">
-Numbers messaging</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../181/14711181.xml">
+Honeypot</link> ·  <link xlink:type="simple" xlink:href="../358/848358.xml">
+Non-official cover</link> ·  <link xlink:type="simple" xlink:href="../414/220414.xml">
+Interrogation</link> ·  <link xlink:type="simple" xlink:href="../704/156704.xml">
+Numbers messaging</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../622/1253622.xml">
 One-way voice link</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../733/28733.xml">
-Steganography</link>&nbsp;·   <link xlink:type="simple" xlink:href="../231/87231.xml">
+ ·  <link xlink:type="simple" xlink:href="../733/28733.xml">
+Steganography</link> ·   <link xlink:type="simple" xlink:href="../231/87231.xml">
 Surveillance</link>)</col>
 </row>
 <row style="height:2px">
@@ -2356,11 +2356,11 @@ SIGINT/
 Signals Intelligence</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../670/13762670.xml">
-SIGINT by Alliances, Nations and Industries</link>&nbsp;·  <link xlink:type="simple" xlink:href="../445/13801445.xml">
-SIGINT Operational Platforms by Nation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../961/13813961.xml">
-SIGINT in Modern History</link>&nbsp;·   <link xlink:type="simple" xlink:href="../781/184781.xml">
-TEMPEST</link>&nbsp;·  <link xlink:type="simple" xlink:href="../724/820724.xml">
-Direction finding</link>&nbsp;·  <operation wordnetid="100955060" confidence="0.8">
+SIGINT by Alliances, Nations and Industries</link> ·  <link xlink:type="simple" xlink:href="../445/13801445.xml">
+SIGINT Operational Platforms by Nation</link> ·  <link xlink:type="simple" xlink:href="../961/13813961.xml">
+SIGINT in Modern History</link> ·   <link xlink:type="simple" xlink:href="../781/184781.xml">
+TEMPEST</link> ·  <link xlink:type="simple" xlink:href="../724/820724.xml">
+Direction finding</link> ·  <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -2385,8 +2385,8 @@ MASINT/
 Measurement andSignature Intelligence</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../881/13789881.xml">
-Electro-optical</link>&nbsp;·  <link xlink:type="simple" xlink:href="../530/13784530.xml">
-Nuclear</link>&nbsp;·  <process wordnetid="100029677" confidence="0.8">
+Electro-optical</link> ·  <link xlink:type="simple" xlink:href="../530/13784530.xml">
+Nuclear</link> ·  <process wordnetid="100029677" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <phenomenon wordnetid="100034213" confidence="0.8">
 <consequence wordnetid="111410625" confidence="0.8">
@@ -2395,8 +2395,8 @@ Geophysical</link></consequence>
 </phenomenon>
 </physical_entity>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../744/13789744.xml">
-Radar</link>&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../744/13789744.xml">
+Radar</link> ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2411,8 +2411,8 @@ Radiofrequency</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../270/13783270.xml">
-Materials</link>&nbsp;·  <link xlink:type="simple" xlink:href="../677/17177677.xml">
+ ·  <link xlink:type="simple" xlink:href="../270/13783270.xml">
+Materials</link> ·  <link xlink:type="simple" xlink:href="../677/17177677.xml">
 Casualty estimation</link></col>
 </row>
 <row style="height:2px">
@@ -2423,9 +2423,9 @@ Casualty estimation</link></col>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 OSINT/<link xlink:type="simple" xlink:href="../199/387199.xml">
-Open Source Intelligence</link>&nbsp;·  IMINT/<link xlink:type="simple" xlink:href="../746/159746.xml">
-Imagery Intelligence</link>&nbsp;·  FININT/<link xlink:type="simple" xlink:href="../481/7453481.xml">
-Financial Intelligence</link>&nbsp;·  TECHINT/<link xlink:type="simple" xlink:href="../324/335324.xml">
+Open Source Intelligence</link> ·  IMINT/<link xlink:type="simple" xlink:href="../746/159746.xml">
+Imagery Intelligence</link> ·  FININT/<link xlink:type="simple" xlink:href="../481/7453481.xml">
+Financial Intelligence</link> ·  TECHINT/<link xlink:type="simple" xlink:href="../324/335324.xml">
 Technical intelligence</link></col>
 </row>
 </table>
@@ -2441,9 +2441,9 @@ Intelligence
 analysismanagement</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../253/4448253.xml">
-Intelligence analysis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../316/14549316.xml">
-Cognitive traps for intelligence analysis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../561/17068561.xml">
-Words of Estimative Probability</link>&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+Intelligence analysis</link> ·  <link xlink:type="simple" xlink:href="../316/14549316.xml">
+Cognitive traps for intelligence analysis</link> ·  <link xlink:type="simple" xlink:href="../561/17068561.xml">
+Words of Estimative Probability</link> ·  <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -2456,7 +2456,7 @@ Analysis of Competing Hypotheses</link></publication>
 </creation>
 </product>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../890/17159890.xml">
+ ·  <link xlink:type="simple" xlink:href="../890/17159890.xml">
 Intelligence cycle (target-centric approach)</link></col>
 </row>
 <row style="height:2px">
@@ -2469,10 +2469,10 @@ Intelligence
 disseminationmanagement</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../867/14103867.xml">
-Intelligence cycle security</link>&nbsp;·  <link xlink:type="simple" xlink:href="../030/238030.xml">
-Counter-intelligence</link>&nbsp;·  <link xlink:type="simple" xlink:href="../104/14093104.xml">
-Counter-intelligence and counter-terrorism organizations</link>&nbsp;·  <link xlink:type="simple" xlink:href="../439/14114439.xml">
-List of counterintelligence organizations</link>&nbsp;·  <link xlink:type="simple" xlink:href="../807/14093807.xml">
+Intelligence cycle security</link> ·  <link xlink:type="simple" xlink:href="../030/238030.xml">
+Counter-intelligence</link> ·  <link xlink:type="simple" xlink:href="../104/14093104.xml">
+Counter-intelligence and counter-terrorism organizations</link> ·  <link xlink:type="simple" xlink:href="../439/14114439.xml">
+List of counterintelligence organizations</link> ·  <link xlink:type="simple" xlink:href="../807/14093807.xml">
 Counterintelligence failures</link></col>
 </row>
 </table>

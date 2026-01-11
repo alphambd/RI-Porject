@@ -111,15 +111,15 @@ Desktop</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../111/10937111.xml">
 ArcView</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../347/10790347.xml">
-ArcEditor</link> &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <link xlink:type="simple" xlink:href="../347/10790347.xml">
+ArcEditor</link>  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../206/4071206.xml">
 ArcInfo</link></software>
- &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../795/2046795.xml">
 ArcView 3.x</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../019/4071019.xml">
-ArcReader</link> &nbsp;·  <ball wordnetid="113899404" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../019/4071019.xml">
+ArcReader</link>  ·  <ball wordnetid="113899404" confidence="0.8">
 <sphere wordnetid="113899200" confidence="0.8">
 <round_shape wordnetid="113865483" confidence="0.8">
 <shape wordnetid="100027807" confidence="0.8">
@@ -138,14 +138,14 @@ ArcGIS Explorer</link></shape>
 Server</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../931/7166931.xml">
-ArcGIS Server</link> &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ArcGIS Server</link>  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../228/2544228.xml">
 ArcSDE</link></software>
- &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../855/962855.xml">
 ArcIMS</link></software>
- &nbsp;·  <link>
-ArcGIS Image Server</link> &nbsp;·  <link xlink:type="simple" xlink:href="../902/7168902.xml">
+  ·  <link>
+ArcGIS Image Server</link>  ·  <link xlink:type="simple" xlink:href="../902/7168902.xml">
 ArcWeb Services</link></col>
 </row>
 <row style="height:2px">
@@ -156,7 +156,7 @@ ArcWeb Services</link></col>
 Developer</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../763/18410763.xml">
-ArcGIS Engine</link> &nbsp;·  <link>
+ArcGIS Engine</link>  ·  <link>
 ArcObjects</link></col>
 </row>
 </table>

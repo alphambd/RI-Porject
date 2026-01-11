@@ -48,7 +48,7 @@ Smoothing a piecewise linear curve with the Douglas-Peucker algorithm
 </caption>
 </image>
 
-The starting curve is an ordered set of points or lines and the distance dimension <it>&amp;epsilon;</it>&nbsp;&amp;gt;&nbsp;0. The original (unsmoothed) curve is shown in 0 and the final output curve is shown in blue on row 4.</p>
+The starting curve is an ordered set of points or lines and the distance dimension <it>&amp;epsilon;</it> &amp;gt; 0. The original (unsmoothed) curve is shown in 0 and the final output curve is shown in blue on row 4.</p>
 
 
 <p>

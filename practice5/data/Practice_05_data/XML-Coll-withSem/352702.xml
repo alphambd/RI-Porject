@@ -368,9 +368,9 @@ row-major order</link>, respectively; the difference between these indexings is 
 where the inner sum is a DFT of size <it>N</it>2, the outer sum is a DFT of size <it>N</it>1, and the [...] bracketed term is the twiddle factor.</p>
 <p>
 
-An arbitrary radix <it>r</it> (as well as mixed radices) can be employed, as was shown by both Cooley and Tukey<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> as well as Gauss (who gave examples of radix-3 and radix-6 steps).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref>  Cooley and Tukey originally assumed that the radix butterfly required O(<it>r</it>2) work and hence reckoned the complexity for a radix <it>r</it> to be O(<it>r</it>2&nbsp;<it>N</it>/<it>r</it>&nbsp;log<it>rN</it>) = O(<it>N</it>&nbsp;log2(<it>N</it>)&nbsp;<it>r</it>/log2<it>r</it>); from calculation of values of <it>r</it>/log2<it>r</it> for integer values of <it>r</it> from 2 to 12 the optimal radix is found to be 3 (the closest integer to <it><link xlink:type="simple" xlink:href="../633/9633.xml">
-e</link></it>, which minimizes <it>r</it>/log2<it>r</it>).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref>  This analysis was erroneous, however: the radix-butterfly is also a DFT and can be performed via an FFT algorithm in O(<it>r</it>  log <it>r</it>) operations, hence the radix <it>r</it> actually cancels in the complexity O(<it>r</it>&nbsp;log(<it>r</it>)&nbsp;<it>N</it>/<it>r</it>&nbsp;log<it>rN</it>), and the optimal <it>r</it> is determined by more complicated considerations.  In practice, quite large <it>r</it> (32 or 64) are important in practice in order to effectively exploit e.g. the large number of <link xlink:type="simple" xlink:href="../432/486432.xml">
-processor register</link>s on modern processors, and even a unbounded radix <it>r</it>=&amp;radic;<it>N</it> also achieves O(<it>N</it>&nbsp;log&nbsp;<it>N</it>) complexity and has theoretical and practical advantages for large <it>N</it> as mentioned above.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%228%22])">8</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%229%22])">9</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2210%22])">10</ref></p>
+An arbitrary radix <it>r</it> (as well as mixed radices) can be employed, as was shown by both Cooley and Tukey<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> as well as Gauss (who gave examples of radix-3 and radix-6 steps).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref>  Cooley and Tukey originally assumed that the radix butterfly required O(<it>r</it>2) work and hence reckoned the complexity for a radix <it>r</it> to be O(<it>r</it>2 <it>N</it>/<it>r</it> log<it>rN</it>) = O(<it>N</it> log2(<it>N</it>) <it>r</it>/log2<it>r</it>); from calculation of values of <it>r</it>/log2<it>r</it> for integer values of <it>r</it> from 2 to 12 the optimal radix is found to be 3 (the closest integer to <it><link xlink:type="simple" xlink:href="../633/9633.xml">
+e</link></it>, which minimizes <it>r</it>/log2<it>r</it>).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref>  This analysis was erroneous, however: the radix-butterfly is also a DFT and can be performed via an FFT algorithm in O(<it>r</it>  log <it>r</it>) operations, hence the radix <it>r</it> actually cancels in the complexity O(<it>r</it> log(<it>r</it>) <it>N</it>/<it>r</it> log<it>rN</it>), and the optimal <it>r</it> is determined by more complicated considerations.  In practice, quite large <it>r</it> (32 or 64) are important in practice in order to effectively exploit e.g. the large number of <link xlink:type="simple" xlink:href="../432/486432.xml">
+processor register</link>s on modern processors, and even a unbounded radix <it>r</it>=&amp;radic;<it>N</it> also achieves O(<it>N</it> log <it>N</it>) complexity and has theoretical and practical advantages for large <it>N</it> as mentioned above.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%228%22])">8</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%229%22])">9</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2210%22])">10</ref></p>
 
 </sec>
 <sec>
@@ -408,26 +408,26 @@ References</st>
 
 <reflist>
 <entry id="1">
- Gauss, Carl Friedrich,  "Nachlass: Theoria interpolationis methodo nova tractata", Werke, Band 3, 265&ndash;327 (Königliche Gesellschaft der Wissenschaften, Göttingen, 1866)</entry>
+ Gauss, Carl Friedrich,  "Nachlass: Theoria interpolationis methodo nova tractata", Werke, Band 3, 265–327 (Königliche Gesellschaft der Wissenschaften, Göttingen, 1866)</entry>
 <entry id="2">
-Heideman, M. T., D. H. Johnson, and C. S. Burrus, "Gauss and the history of the fast Fourier transform," IEEE ASSP Magazine, 1, (4), 14&ndash;21 (1984)</entry>
+Heideman, M. T., D. H. Johnson, and C. S. Burrus, "Gauss and the history of the fast Fourier transform," IEEE ASSP Magazine, 1, (4), 14–21 (1984)</entry>
 <entry id="3">
-Cooley, James W., and John W. Tukey, "An algorithm for the machine calculation of complex Fourier series," <it>Math. Comput.</it> <b>19</b>, 297&ndash;301 (1965).</entry>
+Cooley, James W., and John W. Tukey, "An algorithm for the machine calculation of complex Fourier series," <it>Math. Comput.</it> <b>19</b>, 297–301 (1965).</entry>
 <entry id="4">
-Cooley, James W., Peter A. W. Lewis, and Peter D. Welch, "Historical notes on the fast Fourier transform," <it>IEEE Trans. on Audio and Electroacoustics</it> <b>15</b> (2), 76&ndash;79 (1967).
+Cooley, James W., Peter A. W. Lewis, and Peter D. Welch, "Historical notes on the fast Fourier transform," <it>IEEE Trans. on Audio and Electroacoustics</it> <b>15</b> (2), 76–79 (1967).
 </entry>
 <entry id="5">
 Rockmore, Daniel N. , <it>Comput. Sci. Eng.</it> <b>2</b> (1), 60 (2000). <weblink xlink:type="simple" xlink:href="http://www.cs.dartmouth.edu/~rockmore/cse-fft.pdf">
-The FFT &mdash; an algorithm the whole family can use</weblink> Special issue on "top ten algorithms of the century "<weblink xlink:type="simple" xlink:href="http://amath.colorado.edu/resources/archive/topten.pdf">
+The FFT — an algorithm the whole family can use</weblink> Special issue on "top ten algorithms of the century "<weblink xlink:type="simple" xlink:href="http://amath.colorado.edu/resources/archive/topten.pdf">
  </weblink></entry>
 <entry id="6">
-Danielson, G. C., and C. Lanczos, "Some improvements in practical Fourier analysis and their application to X-ray scattering from liquids," <it>J. Franklin Inst.</it> <b>233</b>, 365&ndash;380 and 435&ndash;452 (1942).</entry>
+Danielson, G. C., and C. Lanczos, "Some improvements in practical Fourier analysis and their application to X-ray scattering from liquids," <it>J. Franklin Inst.</it> <b>233</b>, 365–380 and 435–452 (1942).</entry>
 <entry id="7">
-Duhamel, P., and M. Vetterli, "Fast Fourier transforms: a tutorial review and a state of the art," <it>Signal Processing</it> <b>19</b>, 259&ndash;299 (1990)</entry>
+Duhamel, P., and M. Vetterli, "Fast Fourier transforms: a tutorial review and a state of the art," <it>Signal Processing</it> <b>19</b>, 259–299 (1990)</entry>
 <entry id="8">
-Gentleman W. M., and G. Sande, "Fast Fourier transforms&mdash;for fun and profit," <it>Proc. AFIPS</it> <b>29</b>, 563&ndash;578 (1966).</entry>
+Gentleman W. M., and G. Sande, "Fast Fourier transforms—for fun and profit," <it>Proc. AFIPS</it> <b>29</b>, 563–578 (1966).</entry>
 <entry id="9">
- Bailey, David H., "FFTs in external or hierarchical memory," <it>J. Supercomputing</it> <b>4</b> (1), 23&ndash;35 (1990)</entry>
+ Bailey, David H., "FFTs in external or hierarchical memory," <it>J. Supercomputing</it> <b>4</b> (1), 23–35 (1990)</entry>
 <entry id="10">
 M. Frigo, C.E. Leiserson, H. Prokop, and S. Ramachandran. Cache-oblivious algorithms. In <it>Proceedings of the 40th IEEE Symposium on Foundations of Computer Science</it> (FOCS 99), p.285-297. 1999. <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/iel5/6604/17631/00814600.pdf?arnumber=814600">
 Extended abstract at IEEE</weblink>, <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/307799.html">
@@ -435,33 +435,33 @@ at Citeseer</weblink>.</entry>
 <entry id="11">
 Cooley, J. W., P. Lewis and P. Welch, "The Fast Fourier Transform and its Applications", <it>IEEE Trans on Education</it> <b>12</b>, 1, 28-34 (1969)</entry>
 <entry id="12">
- Karp, Alan H., "Bit reversal on uniprocessors," <it>SIAM Review</it> <b>38</b> (1), 1&ndash;26 (1996)</entry>
+ Karp, Alan H., "Bit reversal on uniprocessors," <it>SIAM Review</it> <b>38</b> (1), 1–26 (1996)</entry>
 <entry id="13">
- Carter, Larry and Kang Su Gatlin, "Towards an optimal bit-reversal permutation program," <it>Proc. 39th Ann. Symp. on Found. of Comp. Sci. (FOCS)</it>, 544&ndash;553 (1998).</entry>
+ Carter, Larry and Kang Su Gatlin, "Towards an optimal bit-reversal permutation program," <it>Proc. 39th Ann. Symp. on Found. of Comp. Sci. (FOCS)</it>, 544–553 (1998).</entry>
 <entry id="14">
- Rubio, M., P. Gómez, and K. Drouiche, "A new superfast bit reversal algorithm," <it>Intl. J. Adaptive Control and Signal Processing</it> <b>16</b>, 703&ndash;707 (2002)</entry>
+ Rubio, M., P. Gómez, and K. Drouiche, "A new superfast bit reversal algorithm," <it>Intl. J. Adaptive Control and Signal Processing</it> <b>16</b>, 703–707 (2002)</entry>
 <entry id="15">
-Stockham, T. G., "High speed convolution and correlation", <it>Spring Joint Computer Conference, Proc. AFIPS</it> <b>28</b>, 229&ndash;233 (1966)</entry>
+Stockham, T. G., "High speed convolution and correlation", <it>Spring Joint Computer Conference, Proc. AFIPS</it> <b>28</b>, 229–233 (1966)</entry>
 <entry id="17">
-Pease, M. C."An adaptation of the fast Fourier transform for parallel processing", <it>J. ACM</it> <b>15</b> (2), 252&ndash;264 (1968)</entry>
+Pease, M. C."An adaptation of the fast Fourier transform for parallel processing", <it>J. ACM</it> <b>15</b> (2), 252–264 (1968)</entry>
 <entry id="16">
-Swarztrauber, P. N., "Vectorizing the FFTs", in G. Rodrigue (Ed.), <it>Parallel Computations</it> (Academic Press, New York, 1982), pp. 51&ndash;83.</entry>
+Swarztrauber, P. N., "Vectorizing the FFTs", in G. Rodrigue (Ed.), <it>Parallel Computations</it> (Academic Press, New York, 1982), pp. 51–83.</entry>
 <entry id="19">
 Frigo, Matteo and Steven G. Johnson: <it>FFTW</it>, http://www.fftw.org/. A free (<link xlink:type="simple" xlink:href="../683/18938683.xml">
 GPL</link>) C library for computing discrete Fourier transforms in one or more dimensions, of arbitrary size, using the Cooley-Tukey algorithm</entry>
 <entry id="18">
-Singleton, Richard C., "On computing the fast Fourier transform", <it>Commun. of the ACM</it> <b>10</b> (1967), 647&ndash;654</entry>
+Singleton, Richard C., "On computing the fast Fourier transform", <it>Commun. of the ACM</it> <b>10</b> (1967), 647–654</entry>
 <entry id="21">
-Johnson, H. W. and C. S. Burrus, "An in-place in-order radix-2 FFT," <it>Proc. ICASSP</it>, 28A.2.1&ndash;28A.2.4 (1984)</entry>
+Johnson, H. W. and C. S. Burrus, "An in-place in-order radix-2 FFT," <it>Proc. ICASSP</it>, 28A.2.1–28A.2.4 (1984)</entry>
 <entry id="20">
 Frigo, M. and S. G. Johnson,  <it>Proceedings of the IEEE</it> <b>93</b> (2), 216–231 (2005)<weblink xlink:type="simple" xlink:href="http://fftw.org/fftw-paper-ieee.pdf">
 The Design and Implementation of FFTW3</weblink></entry>
 <entry id="23">
-Qian, Z., C. Lu, M. An, and R. Tolimieri, "Self-sorting in-place FFT algorithm with minimum working space," <it>IEEE Trans. ASSP</it> <b>52</b> (10), 2835&ndash;2836 (1994)</entry>
+Qian, Z., C. Lu, M. An, and R. Tolimieri, "Self-sorting in-place FFT algorithm with minimum working space," <it>IEEE Trans. ASSP</it> <b>52</b> (10), 2835–2836 (1994)</entry>
 <entry id="22">
- Temperton, C., "Self-sorting in-place fast Fourier transform," <it>SIAM J. Sci. Stat. Comput.</it> <b>12</b> (4), 808&ndash;823 (1991)</entry>
+ Temperton, C., "Self-sorting in-place fast Fourier transform," <it>SIAM J. Sci. Stat. Comput.</it> <b>12</b> (4), 808–823 (1991)</entry>
 <entry id="24">
-Hegland, M., "A self-sorting in-place fast Fourier transform algorithm suitable for vector and parallel processing," <it>Numerische Mathematik</it> <b>68</b> (4), 507&ndash;547 (1994)</entry>
+Hegland, M., "A self-sorting in-place fast Fourier transform algorithm suitable for vector and parallel processing," <it>Numerische Mathematik</it> <b>68</b> (4), 507–547 (1994)</entry>
 </reflist>
 </p>
 

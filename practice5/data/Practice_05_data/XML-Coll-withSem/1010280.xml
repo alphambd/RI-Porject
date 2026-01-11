@@ -533,7 +533,7 @@ journaling</link></instrumentality>
 
 Most <link xlink:type="simple" xlink:href="../194/22194.xml">
 operating system</link>s provide a file system, as a file system is an integral part of any modern operating system. Early <link xlink:type="simple" xlink:href="../144/48144.xml">
-microcomputer</link> operating systems' only real task was file management &mdash; a fact reflected in their names (see <link xlink:type="simple" xlink:href="../146/8146.xml">
+microcomputer</link> operating systems' only real task was file management — a fact reflected in their names (see <link xlink:type="simple" xlink:href="../146/8146.xml">
 DOS</link>). Some early operating systems had a separate component for handling file systems which was called a <link xlink:type="simple" xlink:href="../773/147773.xml">
 disk operating system</link>. On some microcomputers, the disk operating system was loaded separately from the rest of the operating system. On early operating systems, there was usually support for only one, native, unnamed file system; for example, <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../146/45146.xml">
@@ -557,7 +557,7 @@ folder</link>).</p>
 <p>
 
 In a flat file system, there are no <link xlink:type="simple" xlink:href="../027/5515027.xml">
-subdirectories</link>&mdash;everything is stored at the same (<system wordnetid="104377057" confidence="0.8">
+subdirectories</link>—everything is stored at the same (<system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../871/158871.xml">
@@ -1179,7 +1179,7 @@ Linux Filesystem Benchmarks</weblink></entry>
 March 16</link>, <link xlink:type="simple" xlink:href="../825/35825.xml">
 2008</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://arstechnica.com/articles/paedia/past-present-future-file-systems.ars">
 From BFS to ZFS: past, present, and future of file systems</weblink>", arstechnica.com.&#32;Retrieved on <link>
-2008-03-18</link>.&nbsp;</entry>
+2008-03-18</link>. </entry>
 </list>
 </p>
 

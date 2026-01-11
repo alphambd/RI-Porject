@@ -82,7 +82,7 @@ East</col>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -124,7 +124,7 @@ David Cutcliffe</link></trainer>
 </row>
 <row>
 <header>
-Offensive&nbsp;scheme</header>
+Offensive scheme</header>
 <col style="vertical-align:middle;">
 Pro Style</col>
 </row>
@@ -153,14 +153,14 @@ Johnny Chavis</link></trainer>
 </row>
 <row>
 <header>
-Base&nbsp;defense</header>
+Base defense</header>
 <col style="vertical-align:middle;">
  <link xlink:type="simple" xlink:href="../826/1372826.xml#xpointer(//*[./st=%224-3%22])">
 4-3</link>Multiple</col>
 </row>
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../361/1119361.xml">
@@ -172,11 +172,11 @@ Neyland Stadium</link></stadium>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link>
+ &amp;laquo; <link>
 2005</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../985/8840985.xml">
-2007</link>&nbsp;&amp;raquo;</col>
+2007</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -297,7 +297,7 @@ Result</header>
 <col>
 5:30 p.m.</col>
 <col>
- &#35;12&nbsp;<link xlink:type="simple" xlink:href="../401/7589401.xml">
+ &#35;12 <link xlink:type="simple" xlink:href="../401/7589401.xml">
 California</link></col>
 <col align="center">
 &#35;23</col>
@@ -315,7 +315,7 @@ Knoxville, TN</link></village>
 ESPN</link></channel>
 </col>
 <col>
-<b>W</b>&nbsp;35-18&nbsp;</col>
+<b>W</b> 35-18 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -335,7 +335,7 @@ Neyland Stadium • Knoxville, TN</col>
  <link xlink:type="simple" xlink:href="../733/101733.xml">
 PPV</link></col>
 <col>
-<b>W</b>&nbsp;31-30&nbsp;</col>
+<b>W</b> 31-30 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -343,7 +343,7 @@ PPV</link></col>
 <col>
 8:00 p.m.</col>
 <col>
- &#35;6&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ &#35;6 <physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
@@ -373,7 +373,7 @@ Neyland Stadium • Knoxville, TN</col>
 CBS</link></network>
 </col>
 <col>
-<b>L</b>&nbsp;21-20&nbsp;</col>
+<b>L</b> 21-20 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -392,7 +392,7 @@ Neyland Stadium • Knoxville, TN</col>
 <col>
 PPV</col>
 <col>
-<b>W</b>&nbsp;33-7&nbsp;</col>
+<b>W</b> 33-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -400,7 +400,7 @@ PPV</col>
 <col>
 12:00 p.m.</col>
 <col>
- at&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../169/628169.xml">
 Memphis</link></university>
 </col>
@@ -425,7 +425,7 @@ Memphis, TN</link></village>
 <col>
 ESPN</col>
 <col>
-<b>W</b>&nbsp;41-7&nbsp;</col>
+<b>W</b> 41-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -433,7 +433,7 @@ ESPN</col>
 <col>
 7:45 p.m.</col>
 <col>
- at&nbsp;&#35;9&nbsp;<link xlink:type="simple" xlink:href="../212/8763212.xml">
+ at &#35;9 <link xlink:type="simple" xlink:href="../212/8763212.xml">
 Georgia</link></col>
 <col align="center">
 &#35;14</col>
@@ -456,7 +456,7 @@ Athens, GA</link></village>
 <col>
 ESPN</col>
 <col>
-<b>W</b>&nbsp;51-33&nbsp;</col>
+<b>W</b> 51-33 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -486,7 +486,7 @@ Third Saturday in October</link></competition>
 <col>
 CBS</col>
 <col>
-<b>W</b>&nbsp;16-13&nbsp;</col>
+<b>W</b> 16-13 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -494,7 +494,7 @@ CBS</col>
 <col>
 7:45 p.m.</col>
 <col>
- at&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../887/963887.xml">
 South Carolina</link></university>
 </col>
@@ -519,7 +519,7 @@ Columbia, SC</link></village>
 <col>
 ESPN</col>
 <col>
-<b>W</b>&nbsp;31-24&nbsp;</col>
+<b>W</b> 31-24 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -527,7 +527,7 @@ ESPN</col>
 <col>
 3:30 p.m.</col>
 <col>
- &#35;13&nbsp;<fundamental_quantity wordnetid="113575869" confidence="0.8">
+ &#35;13 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../515/5999515.xml">
@@ -542,7 +542,7 @@ Neyland Stadium • Knoxville, TN</col>
 <col>
 CBS</col>
 <col>
-<b>L</b>&nbsp;28-24&nbsp;</col>
+<b>L</b> 28-24 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -550,7 +550,7 @@ CBS</col>
 <col>
 7:00 p.m.</col>
 <col>
- at&nbsp;&#35;11&nbsp;<link xlink:type="simple" xlink:href="../269/9015269.xml">
+ at &#35;11 <link xlink:type="simple" xlink:href="../269/9015269.xml">
 Arkansas</link></col>
 <col align="center">
 &#35;15</col>
@@ -576,7 +576,7 @@ Fayetteville, AR</link></village>
 ESPN2</link></channel>
 </col>
 <col>
-<b>L</b>&nbsp;31-14&nbsp;</col>
+<b>L</b> 31-14 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -584,7 +584,7 @@ ESPN2</link></channel>
 <col>
 12:30 p.m.</col>
 <col>
- at&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../250/282250.xml">
 Vanderbilt</link></university>
 </col>
@@ -610,7 +610,7 @@ Nashville, TN</link></village>
  <link xlink:type="simple" xlink:href="../168/6159168.xml">
 LFS</link></col>
 <col>
-<b>W</b>&nbsp;39-10&nbsp;</col>
+<b>W</b> 39-10 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -629,7 +629,7 @@ Neyland Stadium • Knoxville, TN</col>
 <col>
 LFS</col>
 <col>
-<b>W</b>&nbsp;17-12&nbsp;</col>
+<b>W</b> 17-12 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -637,7 +637,7 @@ LFS</col>
 <col>
 11:00 a.m.</col>
 <col>
- vs.&nbsp;<link xlink:type="simple" xlink:href="../016/6128016.xml">
+ vs. <link xlink:type="simple" xlink:href="../016/6128016.xml">
 Penn State</link></col>
 <col align="center">
 &#35;18</col>
@@ -671,7 +671,7 @@ Outback Bowl</link></psychological_feature>
 <col>
 ESPN</col>
 <col>
-<b>L</b>&nbsp;20-10&nbsp;</col>
+<b>L</b> 20-10 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -2796,38 +2796,38 @@ Eastern Division</col>
 <link xlink:type="simple" xlink:href="../ago/Near_N$orth_S$ide=2C_C$hicago.xml">
 Florida</link></ranking>
 </university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../005/965005.xml">
 Gators</link></sport>
 </it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../232/378232.xml">
 Georgia</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../795/3885795.xml">
 Bulldogs</link></sport>
 </it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../368/284368.xml">
 Kentucky</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../960/2627960.xml">
 Wildcats</link></sport>
 </it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../887/963887.xml">
-South&nbsp;Carolina</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+South Carolina</link></university>
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../851/6160851.xml">
 Gamecocks</link></sport>
 </it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../111/290111.xml">
 Tennessee</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../011/965011.xml">
 Volunteers</link></sport>
-</it>&nbsp;&amp;&nbsp;<it><link xlink:type="simple" xlink:href="../756/4542756.xml">
-Lady&nbsp;Vols</link></it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
+</it> &amp; <it><link xlink:type="simple" xlink:href="../756/4542756.xml">
+Lady Vols</link></it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../250/282250.xml">
 Vanderbilt</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../249/1962249.xml">
 Commodores</link></sport>
 </it>)</p>
@@ -2844,38 +2844,38 @@ Western Division</col>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../950/327950.xml">
 Alabama</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/1570819.xml">
-Crimson&nbsp;Tide</link></sport>
+Crimson Tide</link></sport>
 </it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../857/296857.xml">
 Arkansas</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../296/335296.xml">
 Razorbacks</link></sport>
-</it>&nbsp;&amp;&nbsp;<it><link xlink:type="simple" xlink:href="../561/2690561.xml">
+</it> &amp; <it><link xlink:type="simple" xlink:href="../561/2690561.xml">
 Lady'Backs</link></it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../945/327945.xml">
 Auburn</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../228/967228.xml">
 Tigers</link></sport>
 </it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../905/277905.xml">
 LSU</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../079/4587079.xml">
 Tigers</link></sport>
 </it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../542/65542.xml">
 Ole Miss</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../234/1962234.xml">
 Rebels</link></sport>
 </it>) • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../165/211165.xml">
-Mississippi&nbsp;State</link></university>
-&nbsp;(<it><sport wordnetid="100523513" confidence="0.9508927676800064">
+Mississippi State</link></university>
+ (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../319/7401319.xml">
 Bulldogs</link></sport>
 </it>)</p>

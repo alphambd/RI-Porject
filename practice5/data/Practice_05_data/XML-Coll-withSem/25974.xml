@@ -159,7 +159,7 @@ radiosity</link> of patch <it>i</it>.</entry>
  <it>Ri</it> is the reflectivity of the patch, giving reflected energy by multiplying by the incident energy (the energy which arrives from other patches).</entry>
 <entry level="1" type="bullet">
 
- All <it>j</it> (<math>j \ne i</math>) in the rendered environment are integrated for <it>BjFji</it>&nbsp;<it>dAj</it>, to determine the energy leaving each patch <it>j</it> that arrives at patch <it>i</it>.</entry>
+ All <it>j</it> (<math>j \ne i</math>) in the rendered environment are integrated for <it>BjFji</it> <it>dAj</it>, to determine the energy leaving each patch <it>j</it> that arrives at patch <it>i</it>.</entry>
 <entry level="1" type="bullet">
 
  <it>Fij</it> is the constant-valued <link xlink:type="simple" xlink:href="../779/14861779.xml">

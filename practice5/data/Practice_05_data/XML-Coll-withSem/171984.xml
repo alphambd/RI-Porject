@@ -371,7 +371,7 @@ Further reading</st>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book">Gary V. Vaughan, Ben Elliston, Tom Tromey, and Ian Lance Taylor&#32;(October 2000). <weblink xlink:type="simple" xlink:href="http://www.sourceware.org/autobook">
-GNU Autoconf, Automake, and Libtool</weblink>, 1st edition,&#32;New Riders. ISBN 1-57870-190-2.</cite>&nbsp;</entry>
+GNU Autoconf, Automake, and Libtool</weblink>, 1st edition,&#32;New Riders. ISBN 1-57870-190-2.</cite> </entry>
 </list>
 </p>
 
@@ -447,10 +447,10 @@ GNU Manifesto</link></medium>
 </artifact>
 </creation>
 </product>
-&nbsp;·  <group wordnetid="100031264" confidence="0.8">
+ ·  <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../437/18949437.xml">
 Free Software Foundation</link></group>
-&nbsp;·  <link xlink:type="simple" xlink:href="../064/9374064.xml">
+ ·  <link xlink:type="simple" xlink:href="../064/9374064.xml">
 History of free software</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="9">
 <image width="64px" src="Heckert_GNU_white.svg">
@@ -469,10 +469,10 @@ GNU is not a gnu
 Licences</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../683/18938683.xml">
-GNU General Public License</link>&nbsp;·  <link xlink:type="simple" xlink:href="../073/13073.xml">
-GNU Lesser General Public License</link>&nbsp;·  <link xlink:type="simple" xlink:href="../801/6842801.xml">
-Affero General Public License</link>&nbsp;·  <link xlink:type="simple" xlink:href="../782/18938782.xml">
-GNU Free Documentation License</link>&nbsp;·  <link xlink:type="simple" xlink:href="../406/390406.xml">
+GNU General Public License</link> ·  <link xlink:type="simple" xlink:href="../073/13073.xml">
+GNU Lesser General Public License</link> ·  <link xlink:type="simple" xlink:href="../801/6842801.xml">
+Affero General Public License</link> ·  <link xlink:type="simple" xlink:href="../782/18938782.xml">
+GNU Free Documentation License</link> ·  <link xlink:type="simple" xlink:href="../406/390406.xml">
 GPL linking exception</link></col>
 </row>
 <row style="height:2px">
@@ -484,14 +484,14 @@ Software</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../875/11875.xml">
 GNU</link> (<link xlink:type="simple" xlink:href="../973/8820973.xml">
-variants</link>)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+variants</link>) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../236/13236.xml">
 Hurd</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../362/12362.xml">
-GNOME</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../362/12362.xml">
+GNOME</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/7404018.xml">
 Gnuzilla</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -508,7 +508,7 @@ IceCat</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -519,8 +519,8 @@ Gnash</link></causal_agent>
 </player>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../547/4547.xml">
-Bash</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../547/4547.xml">
+Bash</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -533,8 +533,8 @@ GCC</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../234/18933234.xml">
-GNU Emacs</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../234/18933234.xml">
+GNU Emacs</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -545,8 +545,8 @@ glibc</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../194/940194.xml">
-Coreutils</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../194/940194.xml">
+Coreutils</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -555,7 +555,7 @@ Build system</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../936/774936.xml">
+ ·  <link xlink:type="simple" xlink:href="../936/774936.xml">
 Other GNU packages and programs</link></col>
 </row>
 <row style="height:2px">
@@ -566,8 +566,8 @@ Other GNU packages and programs</link></col>
 Public speakers</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../966/801966.xml">
-Robert J. Chassell</link>&nbsp;·  <link>
-Loïc Dachary</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Robert J. Chassell</link> ·  <link>
+Loïc Dachary</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -584,7 +584,7 @@ Ricardo Galli</link></research_worker>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <reformer wordnetid="110515194" confidence="0.8">
@@ -603,7 +603,7 @@ Georg C. F. Greve</link></causal_agent>
 </person>
 </disputant>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -616,26 +616,26 @@ Federico Heinz</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <research_worker wordnetid="110523076" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../645/3306645.xml">
 Benjamin Mako Hill</link></research_worker>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../799/1609799.xml">
 Bradley M. Kuhn</link></person>
-&nbsp;·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/383972.xml">
 Eben Moglen</link></celebrity>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9173553029164789">
+ ·  <president wordnetid="110468559" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../143/3434143.xml">
 Richard Stallman</link></person>
 </president>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../380/12284380.xml">
 John Sullivan</link></person>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../587/7122587.xml">
 Leonard H. Tower Jr.</link></scientist>
 </col>
@@ -662,7 +662,7 @@ GNU/Linux naming controversy</link></speech_act>
 </dispute>
 </event>
 </controversy>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">

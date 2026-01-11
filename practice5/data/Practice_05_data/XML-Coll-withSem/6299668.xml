@@ -923,10 +923,10 @@ OSFI website</weblink>, Office of the Superintendent of Financial Institutions, 
 <header colspan="2" style=";color:black; background-color:white;" class="navbox-title">
 <image width="20x20px" src="Maple_Leaf_(from_roundel).png">
 </image>
-&nbsp;&nbsp;<b><region wordnetid="108630039" confidence="0.9508927676800064">
+  <b><region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
-&nbsp;<link xlink:type="simple" xlink:href="../675/381675.xml">
+ <link xlink:type="simple" xlink:href="../675/381675.xml">
 topics</link></b></header>
 </row>
 <row style="height:2px;">
@@ -958,13 +958,13 @@ Timeline</link></written_record>
 <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../828/159828.xml">
 New France (to 1763)</link></country>
-&nbsp;·  <link xlink:type="simple" xlink:href="../309/5075309.xml">
-Under British Control (1763-1867)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../375/5075375.xml">
-Post-Confederation (1867-1914)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../440/5075440.xml">
-World Wars and Interwar Years (1914-1945)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../488/5075488.xml">
-1945-1960</link>&nbsp;·  <link xlink:type="simple" xlink:href="../508/5075508.xml">
-1960-1981</link>&nbsp;·  <link xlink:type="simple" xlink:href="../542/5075542.xml">
-1982-1992</link>&nbsp;·  <link xlink:type="simple" xlink:href="../564/5075564.xml">
+ ·  <link xlink:type="simple" xlink:href="../309/5075309.xml">
+Under British Control (1763-1867)</link> ·  <link xlink:type="simple" xlink:href="../375/5075375.xml">
+Post-Confederation (1867-1914)</link> ·  <link xlink:type="simple" xlink:href="../440/5075440.xml">
+World Wars and Interwar Years (1914-1945)</link> ·  <link xlink:type="simple" xlink:href="../488/5075488.xml">
+1945-1960</link> ·  <link xlink:type="simple" xlink:href="../508/5075508.xml">
+1960-1981</link> ·  <link xlink:type="simple" xlink:href="../542/5075542.xml">
+1982-1992</link> ·  <link xlink:type="simple" xlink:href="../564/5075564.xml">
 since 1992</link></col>
 </row>
 <row style="height:2px">
@@ -975,10 +975,10 @@ since 1992</link></col>
 Topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto; padding:0.25em 0; line-height:1.4em;;background:transparent;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../176/384176.xml">
-Military</link>&nbsp;·  <link xlink:type="simple" xlink:href="../743/598743.xml">
-Economy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../515/991515.xml">
-Constitution</link>&nbsp;·  <link xlink:type="simple" xlink:href="../066/397066.xml">
-Slavery</link>&nbsp;·  
+Military</link> ·  <link xlink:type="simple" xlink:href="../743/598743.xml">
+Economy</link> ·  <link xlink:type="simple" xlink:href="../515/991515.xml">
+Constitution</link> ·  <link xlink:type="simple" xlink:href="../066/397066.xml">
+Slavery</link> ·  
 Current events</col>
 </row>
 </table>
@@ -994,23 +994,23 @@ Politics</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.35em 0; line-height:1.5em;background:white;color:black;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../789/290789.xml">
 Law</link> (<link xlink:type="simple" xlink:href="../411/7411.xml">
-Constitution</link>)&nbsp;·  <monarchy wordnetid="108363812" confidence="0.9508927676800064">
+Constitution</link>) ·  <monarchy wordnetid="108363812" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../504/56504.xml">
 The Crown</link></monarchy>
-&nbsp;·  <link xlink:type="simple" xlink:href="../152/38152.xml">
-Governor General</link>&nbsp;·  <parliament wordnetid="108319198" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../152/38152.xml">
+Governor General</link> ·  <parliament wordnetid="108319198" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../446/87446.xml">
 Parliament</link></parliament>
  (<link xlink:type="simple" xlink:href="../498/123498.xml">
-Senate</link>&nbsp;·  <legislature wordnetid="108163273" confidence="0.9508927676800064">
+Senate</link> ·  <legislature wordnetid="108163273" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../313/64313.xml">
 House of Commons</link></legislature>
-)&nbsp;·  <office wordnetid="103841666" confidence="0.9508927676800064">
+) ·  <office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../135/24135.xml">
 Prime Minister</link></office>
  (<link xlink:type="simple" xlink:href="../823/255823.xml">
-List</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../141/924141.xml">
-Elections</link>&nbsp;·  <link xlink:type="simple" xlink:href="../694/1124694.xml">
+List</link>) ·  <link xlink:type="simple" xlink:href="../141/924141.xml">
+Elections</link> ·  <link xlink:type="simple" xlink:href="../694/1124694.xml">
 Courts</link> (<social_group wordnetid="107950920" confidence="0.8">
 <assembly wordnetid="108163792" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
@@ -1022,9 +1022,9 @@ Supreme Court</link></group>
 </gathering>
 </assembly>
 </social_group>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../792/182792.xml">
-Military</link>&nbsp;·  <link xlink:type="simple" xlink:href="../683/4833683.xml">
-Local Government</link>&nbsp;·  <link xlink:type="simple" xlink:href="../608/307608.xml">
+) ·  <link xlink:type="simple" xlink:href="../792/182792.xml">
+Military</link> ·  <link xlink:type="simple" xlink:href="../683/4833683.xml">
+Local Government</link> ·  <link xlink:type="simple" xlink:href="../608/307608.xml">
 Foreign relations of Canada</link></col>
 </row>
 <row style="height:2px">
@@ -1046,7 +1046,7 @@ Regions</link></b>(west to east)</col>
 <link xlink:type="simple" xlink:href="../715/177715.xml">
 Coast Mountains</link></geological_formation>
 </range>
-&nbsp;·  <highland wordnetid="109302616" confidence="0.8">
+ ·  <highland wordnetid="109302616" confidence="0.8">
 <natural_elevation wordnetid="109366317" confidence="0.8">
 <range wordnetid="109403734" confidence="0.8">
 <tableland wordnetid="109453008" confidence="0.8">
@@ -1057,7 +1057,7 @@ Interior Plateau</link></geological_formation>
 </range>
 </natural_elevation>
 </highland>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <state wordnetid="108654360" confidence="0.8">
@@ -1068,7 +1068,7 @@ Columbia Mountains</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <natural_elevation wordnetid="109366317" confidence="0.8">
+ ·  <natural_elevation wordnetid="109366317" confidence="0.8">
 <mountain wordnetid="109359803" confidence="0.8">
 <range wordnetid="109403734" confidence="0.8">
 <geological_formation wordnetid="109287968" confidence="0.8">
@@ -1077,7 +1077,7 @@ Rocky Mountains</link></geological_formation>
 </range>
 </mountain>
 </natural_elevation>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <region wordnetid="108630039" confidence="0.8">
 <grassland wordnetid="108598301" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1096,37 +1096,37 @@ Prairies</link></group>
 </grassland>
 </region>
 </region>
-&nbsp;·  <region wordnetid="108630039" confidence="0.8">
+ ·  <region wordnetid="108630039" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <link xlink:type="simple" xlink:href="../100/519100.xml">
 Western Canada</link></location>
 </region>
-&nbsp;·  <region wordnetid="108630039" confidence="0.8">
+ ·  <region wordnetid="108630039" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <link xlink:type="simple" xlink:href="../987/79987.xml">
 Northern Canada</link></location>
 </region>
-&nbsp;·  <military_unit wordnetid="108198398" confidence="0.8">
+ ·  <military_unit wordnetid="108198398" confidence="0.8">
 <division wordnetid="108213205" confidence="0.8">
 <army_unit wordnetid="108190754" confidence="0.8">
 <link xlink:type="simple" xlink:href="../230/Nokia_6230.xml">
 Canadian Shield</link></army_unit>
 </division>
 </military_unit>
-&nbsp;·  <link xlink:type="simple" xlink:href="../010/12010.xml">
-Great Lakes</link>&nbsp;·  <region wordnetid="108630039" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../010/12010.xml">
+Great Lakes</link> ·  <region wordnetid="108630039" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <link xlink:type="simple" xlink:href="../562/413562.xml">
 Central Canada</link></location>
 </region>
-&nbsp;·  <military_unit wordnetid="108198398" confidence="0.8">
+ ·  <military_unit wordnetid="108198398" confidence="0.8">
 <division wordnetid="108213205" confidence="0.8">
 <army_unit wordnetid="108190754" confidence="0.8">
 <link xlink:type="simple" xlink:href="../126/11497126.xml">
 Saint Lawrence Lowlands</link></army_unit>
 </division>
 </military_unit>
-&nbsp;·  <natural_elevation wordnetid="109366317" confidence="0.8">
+ ·  <natural_elevation wordnetid="109366317" confidence="0.8">
 <mountain wordnetid="109359803" confidence="0.8">
 <range wordnetid="109403734" confidence="0.8">
 <geological_formation wordnetid="109287968" confidence="0.8">
@@ -1135,7 +1135,7 @@ Appalachian Mountains</link></geological_formation>
 </range>
 </mountain>
 </natural_elevation>
-&nbsp;·  <natural_elevation wordnetid="109366317" confidence="0.8">
+ ·  <natural_elevation wordnetid="109366317" confidence="0.8">
 <mountain wordnetid="109359803" confidence="0.8">
 <range wordnetid="109403734" confidence="0.8">
 <geological_formation wordnetid="109287968" confidence="0.8">
@@ -1144,12 +1144,12 @@ Arctic Cordillera</link></geological_formation>
 </range>
 </mountain>
 </natural_elevation>
-&nbsp;·  <region wordnetid="108630039" confidence="0.8">
+ ·  <region wordnetid="108630039" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <link xlink:type="simple" xlink:href="../095/71095.xml">
 Atlantic Canada</link></location>
 </region>
-&nbsp;·  <region wordnetid="108630039" confidence="0.8">
+ ·  <region wordnetid="108630039" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <link xlink:type="simple" xlink:href="../382/7382.xml">
 Maritimes</link></location>
@@ -1165,23 +1165,23 @@ Topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto; padding:0.25em 0; line-height:1.4em;;background:transparent;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../084/6690084.xml">
 Animals</link> (<link xlink:type="simple" xlink:href="../401/11366401.xml">
-Mammals</link>&nbsp;·  <link xlink:type="simple" xlink:href="../679/609679.xml">
-Reptiles</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../761/75761.xml">
-Cities</link>&nbsp;·  <link xlink:type="simple" xlink:href="../042/10329042.xml#xpointer(//*[./st=%22Canada%22])">
-Wettest-known tropical cyclones</link>&nbsp;·  <link xlink:type="simple" xlink:href="../228/1364228.xml">
-Extreme communities</link>&nbsp;·  <link xlink:type="simple" xlink:href="../152/330152.xml">
-Islands</link>&nbsp;·  <natural_elevation wordnetid="109366317" confidence="0.8">
+Mammals</link> ·  <link xlink:type="simple" xlink:href="../679/609679.xml">
+Reptiles</link>) ·  <link xlink:type="simple" xlink:href="../761/75761.xml">
+Cities</link> ·  <link xlink:type="simple" xlink:href="../042/10329042.xml#xpointer(//*[./st=%22Canada%22])">
+Wettest-known tropical cyclones</link> ·  <link xlink:type="simple" xlink:href="../228/1364228.xml">
+Extreme communities</link> ·  <link xlink:type="simple" xlink:href="../152/330152.xml">
+Islands</link> ·  <natural_elevation wordnetid="109366317" confidence="0.8">
 <mountain wordnetid="109359803" confidence="0.8">
 <geological_formation wordnetid="109287968" confidence="0.8">
 <link xlink:type="simple" xlink:href="../495/12679495.xml">
 Mountains</link></geological_formation>
 </mountain>
 </natural_elevation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../118/585118.xml">
-National parks</link>&nbsp;·  <link xlink:type="simple" xlink:href="../440/5076440.xml">
-Plants</link>&nbsp;·  <link xlink:type="simple" xlink:href="../130/519130.xml">
-Regions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../126/321126.xml">
-Rivers</link>&nbsp;·  <amorphous_shape wordnetid="113867492" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../118/585118.xml">
+National parks</link> ·  <link xlink:type="simple" xlink:href="../440/5076440.xml">
+Plants</link> ·  <link xlink:type="simple" xlink:href="../130/519130.xml">
+Regions</link> ·  <link xlink:type="simple" xlink:href="../126/321126.xml">
+Rivers</link> ·  <amorphous_shape wordnetid="113867492" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <crack wordnetid="109258715" confidence="0.8">
 <vent wordnetid="109470550" confidence="0.8">
@@ -1210,20 +1210,20 @@ Volcanoes</link></space>
 Economy</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.35em 0; line-height:1.5em;background:white;color:black;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../789/5133789.xml">
-Agriculture</link>&nbsp;·  <link xlink:type="simple" xlink:href="../668/6299668.xml">
-Banking</link>&nbsp;·  <central_bank wordnetid="108349916" confidence="0.9508927676800064">
+Agriculture</link> ·  <link xlink:type="simple" xlink:href="../668/6299668.xml">
+Banking</link> ·  <central_bank wordnetid="108349916" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/3230405.xml">
 Bank of Canada</link></central_bank>
-&nbsp;·  <currency wordnetid="113385913" confidence="0.9508927676800064">
+ ·  <currency wordnetid="113385913" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../846/101846.xml">
 Canadian dollar</link></currency>
-&nbsp;·  <link xlink:type="simple" xlink:href="../196/5196.xml">
-Communications</link>&nbsp;·  <link xlink:type="simple" xlink:href="../000/7000.xml">
-Companies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../741/811741.xml">
-Health care</link>&nbsp;·  <exchange wordnetid="111409538" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../196/5196.xml">
+Communications</link> ·  <link xlink:type="simple" xlink:href="../000/7000.xml">
+Companies</link> ·  <link xlink:type="simple" xlink:href="../741/811741.xml">
+Health care</link> ·  <exchange wordnetid="111409538" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/205584.xml">
 Toronto Stock Exchange</link></exchange>
-&nbsp;·  <liabilities wordnetid="113396054" confidence="0.8">
+ ·  <liabilities wordnetid="113396054" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <charge wordnetid="113400798" confidence="0.8">
 <tax wordnetid="113308999" confidence="0.8">
@@ -1234,8 +1234,8 @@ Taxation</link></levy>
 </charge>
 </possession>
 </liabilities>
-&nbsp;·  <link xlink:type="simple" xlink:href="../197/5197.xml">
-Transportation</link>&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../197/5197.xml">
+Transportation</link> ·  <politics wordnetid="113840719" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
@@ -1268,9 +1268,9 @@ Immigration</link></datum>
 </demographic>
 </information>
 </statistic>
-&nbsp;·  <link xlink:type="simple" xlink:href="../320/701320.xml">
-Languages</link>&nbsp;·  <link xlink:type="simple" xlink:href="../703/594703.xml">
-Religion</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../320/701320.xml">
+Languages</link> ·  <link xlink:type="simple" xlink:href="../703/594703.xml">
+Religion</link> ·  <work wordnetid="100575741" confidence="0.8">
 <statistic wordnetid="106021499" confidence="0.8">
 <census wordnetid="100653388" confidence="0.8">
 <information wordnetid="105816287" confidence="0.8">
@@ -1295,7 +1295,7 @@ Religion</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
 </census>
 </statistic>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <statistic wordnetid="106021499" confidence="0.8">
 <census wordnetid="100653388" confidence="0.8">
 <information wordnetid="105816287" confidence="0.8">
@@ -1320,7 +1320,7 @@ Religion</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
 </census>
 </statistic>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../228/621228.xml">
+ ·  <link xlink:type="simple" xlink:href="../228/621228.xml">
 List of population of Canada by years</link></col>
 </row>
 <row style="height:2px">
@@ -1331,8 +1331,8 @@ List of population of Canada by years</link></col>
 Top 100s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto; padding:0.25em 0; line-height:1.4em;;background:transparent;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../164/414164.xml">
-Metro areas</link>&nbsp;·  <link xlink:type="simple" xlink:href="../133/6063133.xml">
-Urban areas</link>&nbsp;·  <link xlink:type="simple" xlink:href="../659/413659.xml">
+Metro areas</link> ·  <link xlink:type="simple" xlink:href="../133/6063133.xml">
+Urban areas</link> ·  <link xlink:type="simple" xlink:href="../659/413659.xml">
 Municipalities</link></col>
 </row>
 </table>
@@ -1347,37 +1347,37 @@ Municipalities</link></col>
 Culture</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.35em 0; line-height:1.5em;background:white;color:black;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../219/3128219.xml">
-Architecture</link>&nbsp;·  <link xlink:type="simple" xlink:href="../089/17214089.xml">
-Art</link>&nbsp;·  <link xlink:type="simple" xlink:href="../435/376435.xml">
-Cinema</link>&nbsp;·  <link xlink:type="simple" xlink:href="../108/43108.xml">
-Famous Canadians</link>&nbsp;·  <link xlink:type="simple" xlink:href="../354/843354.xml">
-Holidays</link>&nbsp;·  <link xlink:type="simple" xlink:href="../245/6059245.xml">
-Identity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../803/64803.xml">
-Literature</link>&nbsp;·  <link xlink:type="simple" xlink:href="../269/248269.xml">
+Architecture</link> ·  <link xlink:type="simple" xlink:href="../089/17214089.xml">
+Art</link> ·  <link xlink:type="simple" xlink:href="../435/376435.xml">
+Cinema</link> ·  <link xlink:type="simple" xlink:href="../108/43108.xml">
+Famous Canadians</link> ·  <link xlink:type="simple" xlink:href="../354/843354.xml">
+Holidays</link> ·  <link xlink:type="simple" xlink:href="../245/6059245.xml">
+Identity</link> ·  <link xlink:type="simple" xlink:href="../803/64803.xml">
+Literature</link> ·  <link xlink:type="simple" xlink:href="../269/248269.xml">
 Music</link> (<music_genre wordnetid="107071942" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../644/6635644.xml">
 Blues</link></music_genre>
-&nbsp;·  <link xlink:type="simple" xlink:href="../168/1282168.xml">
-Celtic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../235/1651235.xml">
-Classical</link>&nbsp;·  <property wordnetid="104916342" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../168/1282168.xml">
+Celtic</link> ·  <link xlink:type="simple" xlink:href="../235/1651235.xml">
+Classical</link> ·  <property wordnetid="104916342" confidence="0.8">
 <manner wordnetid="104928903" confidence="0.8">
 <link xlink:type="simple" xlink:href="../660/1348660.xml">
 Hip hop</link></manner>
 </property>
-&nbsp;·  <property wordnetid="104916342" confidence="0.8">
+ ·  <property wordnetid="104916342" confidence="0.8">
 <manner wordnetid="104928903" confidence="0.8">
 <link xlink:type="simple" xlink:href="../791/1319791.xml">
 Rock</link></manner>
 </property>
-)&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+) ·  <politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link xlink:type="simple" xlink:href="../410/1151410.xml">
 Nationalism</link></social_relation>
 </politics>
-&nbsp;·  <link xlink:type="simple" xlink:href="../780/1948780.xml">
-Protection of</link>&nbsp;·  <link xlink:type="simple" xlink:href="../583/1603583.xml">
-Sport</link>&nbsp;·  <link xlink:type="simple" xlink:href="../889/13554889.xml">
-Olympics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../195/376195.xml">
+ ·  <link xlink:type="simple" xlink:href="../780/1948780.xml">
+Protection of</link> ·  <link xlink:type="simple" xlink:href="../583/1603583.xml">
+Sport</link> ·  <link xlink:type="simple" xlink:href="../889/13554889.xml">
+Olympics</link> ·  <link xlink:type="simple" xlink:href="../195/376195.xml">
 Theatre</link></col>
 </row>
 <row style="height:2px">
@@ -1391,18 +1391,18 @@ Symbols</link></col>
 <coat wordnetid="103057021" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../004/144004.xml">
 Coat of Arms</link></coat>
-&nbsp;·  <link xlink:type="simple" xlink:href="../891/2293891.xml">
-Flags</link>&nbsp;·  <flag wordnetid="103354903" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../891/2293891.xml">
+Flags</link> ·  <flag wordnetid="103354903" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../066/97066.xml">
 National Flag</link></flag>
-&nbsp;·  <link xlink:type="simple" xlink:href="../558/203558.xml">
-Provincial and territorial</link>&nbsp;·  <symbol wordnetid="106806469" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../558/203558.xml">
+Provincial and territorial</link> ·  <symbol wordnetid="106806469" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <link xlink:type="simple" xlink:href="../653/989653.xml">
 Regional tartans</link></signal>
 </symbol>
-&nbsp;·  <link xlink:type="simple" xlink:href="../153/5182153.xml">
-Royal symbols</link>&nbsp;·  <link xlink:type="simple" xlink:href="../647/18962647.xml">
+ ·  <link xlink:type="simple" xlink:href="../153/5182153.xml">
+Royal symbols</link> ·  <link xlink:type="simple" xlink:href="../647/18962647.xml">
 Heraldry</link></col>
 </row>
 </table>

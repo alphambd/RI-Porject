@@ -55,8 +55,8 @@ Ayurveda</link></instrumentality>
 </concept>
 </idea>
 </system>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../738/7738.xml">
-Chiropractic</link>&nbsp;&amp;bull;  <work wordnetid="100575741" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../738/7738.xml">
+Chiropractic</link> &amp;bull;  <work wordnetid="100575741" confidence="0.8">
 <treatment wordnetid="100658082" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <care wordnetid="100654885" confidence="0.8">
@@ -75,31 +75,31 @@ Herbalism</link></activity>
 </event>
 </treatment>
 </work>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../229/14229.xml">
-Homeopathy</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../229/14229.xml">
+Homeopathy</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../819/68819.xml">
 Naturopathic medicine</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../591/74591.xml">
-Osteopathy</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../591/74591.xml">
+Osteopathy</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../992/5992.xml">
 Traditional Chinese medicine</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../857/457857.xml">
-Traditional medicine</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../857/457857.xml">
+Traditional medicine</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../701/1043701.xml">
 Unani</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../537/1537.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../537/1537.xml">
 Acupuncture</link></col>
 </row>
 <row>
@@ -118,10 +118,10 @@ NCCAM classifications</link></system_of_measurement>
 <row>
 <col colspan="2" style="text-align:center; " class="">
 
-Alternative medical systems|Alternative medical systems&nbsp;&amp;bull;  
-Mind-body interventions|Mind-body interventions&nbsp;&amp;bull;  
-Biologically based therapies|Biologically based therapies&nbsp;&amp;bull;  
-Manipulative therapy|Manipulative therapy&nbsp;&amp;bull;  
+Alternative medical systems|Alternative medical systems &amp;bull;  
+Mind-body interventions|Mind-body interventions &amp;bull;  
+Biologically based therapies|Biologically based therapies &amp;bull;  
+Manipulative therapy|Manipulative therapy &amp;bull;  
 Energy therapies|Energy therapies</col>
 </row>
 <row>
@@ -131,7 +131,7 @@ See also</header>
 <row>
 <col colspan="2" style="text-align:center; " class="">
 <link xlink:type="simple" xlink:href="../845/1845.xml">
-Alternative medicine</link>&nbsp;&amp;bull;  <scale wordnetid="113850304" confidence="0.8">
+Alternative medicine</link> &amp;bull;  <scale wordnetid="113850304" confidence="0.8">
 <index wordnetid="113851067" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
@@ -140,8 +140,8 @@ Glossary of alternative medicine</link></system_of_measurement>
 </standard>
 </index>
 </scale>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../156/288156.xml">
-List of branches of alternative medicine</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../365/624365.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../156/288156.xml">
+List of branches of alternative medicine</link> &amp;bull;  <link xlink:type="simple" xlink:href="../365/624365.xml">
 List of people in alternative medicine</link></col>
 </row>
 <row>
@@ -165,7 +165,7 @@ Many plants synthesize substances that are useful to the maintenance of health i
 aromatic</link> substances, most of which are <link xlink:type="simple" xlink:href="../865/23865.xml">
 phenols</link> or their oxygen-substituted derivatives such as <link xlink:type="simple" xlink:href="../983/61983.xml">
 tannins</link>. Many are <link xlink:type="simple" xlink:href="../309/226309.xml">
-secondary metabolite</link>s, of which at least 12,000 have been isolated &mdash; a number estimated to be less than 10% of the total. In many cases, these substances (particularly the <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
+secondary metabolite</link>s, of which at least 12,000 have been isolated — a number estimated to be less than 10% of the total. In many cases, these substances (particularly the <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
 alkaloid</link>s) serve as plant defense mechanisms against predation by microorganisms, insects, and <link xlink:type="simple" xlink:href="../568/44568.xml">
 herbivore</link>s.  Many of the <link xlink:type="simple" xlink:href="../296/13296.xml">
 herb</link>s and <link xlink:type="simple" xlink:href="../897/26897.xml">
@@ -1805,11 +1805,11 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal">Lai PK&#32;(Jun 2004).&#32;"Antimicrobial and chemopreventive properties of herbs and spices". <it>Curr Med Chem</it>: 1451–60. PMID 15180577.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Lai PK&#32;(Jun 2004).&#32;"Antimicrobial and chemopreventive properties of herbs and spices". <it>Curr Med Chem</it>: 1451–60. PMID 15180577.</cite> </entry>
 <entry id="2">
- <cite style="font-style:normal">Tapsell LC&#32;(Aug 2006).&#32;"Health benefits of herbs and spices: the past, the present, the future". <it>Med J Aust</it>&#32;<b>1</b>. PMID 17022438.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Tapsell LC&#32;(Aug 2006).&#32;"Health benefits of herbs and spices: the past, the present, the future". <it>Med J Aust</it>&#32;<b>1</b>. PMID 17022438.</cite> </entry>
 <entry id="3">
- <cite style="font-style:normal">Aggarwal BB, Sundaram C, Malani N, Ichikawa H&#32;(2007).&#32;"Curcumin: the Indian solid gold". <it>Adv. Exp. Med. Biol.</it>&#32;<b>595</b>: 1–75. PMID 17569205.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Aggarwal BB, Sundaram C, Malani N, Ichikawa H&#32;(2007).&#32;"Curcumin: the Indian solid gold". <it>Adv. Exp. Med. Biol.</it>&#32;<b>595</b>: 1–75. PMID 17569205.</cite> </entry>
 <entry id="4">
  <cite id="CITEREFGirish_Dwivedi2007" style="font-style:normal">Girish Dwivedi, Shridhar Dwivedi&#32;(2007),&#32;<it><weblink xlink:type="simple" xlink:href="http://medind.nic.in/iae/t07/i4/iaet07i4p243.pdf">
 History of Medicine: Sushruta – the Clinician – Teacher par Excellence</weblink></it>, <body wordnetid="107965085" confidence="0.8">
@@ -1827,20 +1827,20 @@ National Informatics Centre</link></group>
 </priesthood>
 </social_group>
 </body>
-, .&#32;Retrieved on 7 October 2008</cite>&nbsp;</entry>
+, .&#32;Retrieved on 7 October 2008</cite> </entry>
 <entry id="5">
 "<weblink xlink:type="simple" xlink:href="http://www.nlm.nih.gov/exhibition/islamic_medical/islamic_11.html">
 Pharmaceutics and Alchemy</weblink>".</entry>
 <entry id="6">
- <cite id="CITEREFFahd" style="font-style:normal">Fahd, Toufic,&#32;"Botany and agriculture", pp. 815</cite>&nbsp;, in  <cite class="inline">(<link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFMorelonRashed1996%22])">
-Morelon &amp; Rashed 1996</link>, pp.&nbsp;813-52)</cite></entry>
+ <cite id="CITEREFFahd" style="font-style:normal">Fahd, Toufic,&#32;"Botany and agriculture", pp. 815</cite> , in  <cite class="inline">(<link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFMorelonRashed1996%22])">
+Morelon &amp; Rashed 1996</link>, pp. 813-52)</cite></entry>
 <entry id="7">
 Diane Boulanger (2002), "The Islamic Contribution to Science, Mathematics and Technology", <it>OISE Papers</it>, in <it>STSE Education</it>, Vol. 3.</entry>
 <entry id="8">
  <cite id="CITEREFHuff2003" style="font-style:normal">Huff, Toby&#32;(2003),&#32;<it>The Rise of Early Modern Science: Islam, China, and the West</it>, <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../199/73199.xml">
 Cambridge University Press</link></company>
-, p. 218, ISBN 0521529948</cite>&nbsp;</entry>
+, p. 218, ISBN 0521529948</cite> </entry>
 <entry id="9">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1862,7 +1862,7 @@ Philip K. Hitti</link></educator>
 Dr. Z. Idrisi, PhD (2005). <weblink xlink:type="simple" xlink:href="http://www.muslimheritage.com/uploads/AgricultureRevolution2.pdf">
 The Muslim Agricultural Revolution and its influence on Europe</weblink>. The Foundation for Science, Technology and Civilization, UK.</entry>
 <entry id="11">
- <cite id="CITEREFJacquart" style="font-style:normal">Jacquart, Danielle,&#32;"Islamic Pharmacology in the Middle Ages: Theories and Substances",&#32;<it>European Review</it>&#32;<b>16</b>(2):  219–227 [223]</cite>&nbsp;</entry>
+ <cite id="CITEREFJacquart" style="font-style:normal">Jacquart, Danielle,&#32;"Islamic Pharmacology in the Middle Ages: Theories and Substances",&#32;<it>European Review</it>&#32;<b>16</b>(2):  219–227 [223]</cite> </entry>
 <entry id="12">
 Dr. Z. Idrisi, PhD (2005). <weblink xlink:type="simple" xlink:href="http://www.muslimheritage.com/uploads/AgricultureRevolution2.pdf">
 The Muslim Agricultural Revolution and its influence on Europe</weblink>. The Foundation for Science, Technology and Civilization, UK.</entry>
@@ -1881,7 +1881,7 @@ D. Craig Brater and Walter J. Daly (2000), "Clinical pharmacology in the Middle 
 <entry id="18">
 Bernard S. Bloom, Aurelia Retbi, Sandrine Dahan, Egon Jonsson (2000), "Evaluation Of Randomized Controlled Trials On Complementary And Alternative Medicine", <it>International Journal of Technology Assessment in Health Care</it> <b>16</b> (1), p. 13–21 [19].</entry>
 <entry id="21">
- <cite style="font-style:normal">&#32;"Biotechnology and the developing world"&#32;&#32;(2002). <it>Electronic Journal of Biotechnology</it>.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Biotechnology and the developing world"&#32;&#32;(2002). <it>Electronic Journal of Biotechnology</it>.</cite> </entry>
 <entry id="20">
 Walter J. Daly and D. Craig Brater (2000), "Medieval contributions to the search for truth in clinical medicine", <it>Perspectives in Biology and Medicine</it> <b>43</b> (4), p. 530–540 [536], <firm wordnetid="108059870" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
@@ -1929,9 +1929,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F3434847">
-10.2307/3434847</weblink>.</cite>&nbsp;</entry>
+10.2307/3434847</weblink>.</cite> </entry>
 <entry id="28">
- <cite style="font-style:normal">&#32;"The role of ethnopharmacology in drug development"&#32;&#32;(1990). <it>Ciba Found Symp.</it>&#32;<b>154</b>: 2–11. PMID : 2086037.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"The role of ethnopharmacology in drug development"&#32;&#32;(1990). <it>Ciba Found Symp.</it>&#32;<b>154</b>: 2–11. PMID : 2086037.</cite> </entry>
 <entry id="31">
  <cite style="font-style:normal"><link>
 Stepp, J</link>&#32;(June 2004).&#32;"The role of weeds as sources of pharmaceuticals". <it>Journal of Ethnopharmacology</it>&#32;<b>92</b>&#32;(2-3): 163–166. <document wordnetid="106470073" confidence="0.8">
@@ -1942,14 +1942,14 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.jep.2004.03.002">
-10.1016/j.jep.2004.03.002</weblink>.</cite>&nbsp;</entry>
+10.1016/j.jep.2004.03.002</weblink>.</cite> </entry>
 <entry id="30">
- <cite id="CITEREF" style="font-style:normal"><it>Summary Report for the European Union</it>, 2000-2005, QLK5-CT-2000-00111</cite>&nbsp;</entry>
+ <cite id="CITEREF" style="font-style:normal"><it>Summary Report for the European Union</it>, 2000-2005, QLK5-CT-2000-00111</cite> </entry>
 <entry id="34">
 "<weblink xlink:type="simple" xlink:href="http://www.bmj.com/cgi/content/full/329/7479/1408">
 The Story of a Wonder Drug</weblink>".</entry>
 <entry id="35">
- <cite style="font-style:normal">Andrew Vickers,  Catherine Zollman&#32;(16).&#32;"ABC of complementary medicine: Herbal medicine - Clinical review". <it>British Medical Journal</it>.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Andrew Vickers,  Catherine Zollman&#32;(16).&#32;"ABC of complementary medicine: Herbal medicine - Clinical review". <it>British Medical Journal</it>.</cite> </entry>
 <entry id="32">
  <cite style="font-style:normal"><link>
 Stepp, J</link>&#32;(April 2001).&#32;"The importance of weeds in ethnopharmacology". <it>Journal of Ethnopharmacology</it>&#32;<b>75</b>&#32;(1): 19–23. <document wordnetid="106470073" confidence="0.8">
@@ -1960,21 +1960,21 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0378-8741%2800%2900385-8">
-10.1016/S0378-8741(00)00385-8</weblink>.</cite>&nbsp;</entry>
+10.1016/S0378-8741(00)00385-8</weblink>.</cite> </entry>
 <entry id="33">
 "<weblink xlink:type="simple" xlink:href="http://4e.plantphys.net/article.php?ch=13&amp;id=313">
 Unraveling the Function of Secondary Metabolites</weblink>".
 </entry>
 <entry id="38">
- <cite style="font-style:normal">&#32;"Synergy and other interactions in phytomedicines"&#32;&#32;(2001). <it>Phytomedicine</it>&#32;<b>8</b>&#32;(5): 401–409. PMID : 11695885.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Synergy and other interactions in phytomedicines"&#32;&#32;(2001). <it>Phytomedicine</it>&#32;<b>8</b>&#32;(5): 401–409. PMID : 11695885.</cite> </entry>
 <entry id="39">
  <cite style="font-style:normal">&#32;"<weblink xlink:type="simple" xlink:href="http://annals.highwire.org/cgi/reprint/135/8_Part_1/594.pdf">
-Herbal Medicines Today and the Roots of Modern Pharmacology</weblink>"&#32;(PDF)&#32;&#32;(2001). <it>Annals of internal medicine</it>: 594–600.</cite>&nbsp;</entry>
+Herbal Medicines Today and the Roots of Modern Pharmacology</weblink>"&#32;(PDF)&#32;&#32;(2001). <it>Annals of internal medicine</it>: 594–600.</cite> </entry>
 <entry id="36">
 "<weblink xlink:type="simple" xlink:href="http://content.herbalgram.org/abc/herbalgram/articleview.asp?a=2230">
 What is Herb Standardization?</weblink>".</entry>
 <entry id="37">
- <cite style="font-style:normal">&#32;"The Problem With Herbs"&#32;&#32;(January 1999). <it>Natural Health</it>.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"The Problem With Herbs"&#32;&#32;(January 1999). <it>Natural Health</it>.</cite> </entry>
 <entry id="42">
  <cite style="font-style:normal"><link>
 Grassmann, J</link>&#32;(June-August 2002).&#32;"Plant’s defence and its benefits for animals and medicine: role of phenolics and terpenoids in avoiding oxygen stress". <it>Plant Physiology and Biochemistry</it>&#32;<b>40</b>&#32;(6-8): 471–478. <document wordnetid="106470073" confidence="0.8">
@@ -1985,27 +1985,27 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0981-9428%2802%2901395-5">
-10.1016/S0981-9428(02)01395-5</weblink>.</cite>&nbsp;</entry>
+10.1016/S0981-9428(02)01395-5</weblink>.</cite> </entry>
 <entry id="43">
- <cite style="font-style:normal">&#32;"Medicinal Plants and Phytomedicines. Linking Plant Biochemistry and Physiology to Human Health"&#32;&#32;(October 2000). <it>Plant Physiol,</it>&#32;<b>124</b>: 507–514.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Medicinal Plants and Phytomedicines. Linking Plant Biochemistry and Physiology to Human Health"&#32;&#32;(October 2000). <it>Plant Physiol,</it>&#32;<b>124</b>: 507–514.</cite> </entry>
 <entry id="40">
- <cite style="font-style:normal">&#32;"Synergy and other interactions in phytomedicines"&#32;&#32;(2001). <it>Phytomedicine</it>&#32;<b>8</b>&#32;(5): 401–409.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Synergy and other interactions in phytomedicines"&#32;&#32;(2001). <it>Phytomedicine</it>&#32;<b>8</b>&#32;(5): 401–409.</cite> </entry>
 <entry id="41">
- <cite style="font-style:normal">&#32;"Emodin – a secondary metabolite with multiple ecological functions in higher plants"&#32;&#32;(August 2002). <it>New Phytologist</it>&#32;<b>155</b>&#32;(2): 205–217.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Emodin – a secondary metabolite with multiple ecological functions in higher plants"&#32;&#32;(August 2002). <it>New Phytologist</it>&#32;<b>155</b>&#32;(2): 205–217.</cite> </entry>
 <entry id="46">
  <cite style="font-style:normal" class="book">&#32;(2006) <weblink xlink:type="simple" xlink:href="http://library.wur.nl/ojs/index.php/frontis/article/viewFile/1220/792">
-Medicinal and Aromatic Plants</weblink>.&#32;Springer.</cite>&nbsp;</entry>
+Medicinal and Aromatic Plants</weblink>.&#32;Springer.</cite> </entry>
 <entry id="47">
- <cite style="font-style:normal">&#32;"History as a tool in identifying "new" old drugs"&#32;&#32;(2002). <it>Adv Exp Med Biol.</it>&#32;(505): 89–94. PMID : 12083469.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"History as a tool in identifying "new" old drugs"&#32;&#32;(2002). <it>Adv Exp Med Biol.</it>&#32;(505): 89–94. PMID : 12083469.</cite> </entry>
 <entry id="44">
- <cite style="font-style:normal">&#32;"Atherosclerosis pathophysiology and the role of novel risk factors: a clinicobiochemical perspective"&#32;&#32;(2007 October-November). <it>Angiology.</it>&#32;<b>58</b>&#32;(5): 513–22. PMID : 18024933.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Atherosclerosis pathophysiology and the role of novel risk factors: a clinicobiochemical perspective"&#32;&#32;(2007 October-November). <it>Angiology.</it>&#32;<b>58</b>&#32;(5): 513–22. PMID : 18024933.</cite> </entry>
 <entry id="45">
- <cite style="font-style:normal">&#32;"Antioxidant approach to disease management and the role of 'Rasayana' herbs of Ayurveda"&#32;&#32;(2005 June 3 Epub 2005 April 26). <it>J Ethnopharmacol.</it>&#32;<b>99</b>&#32;(2): 165–78. PMID : 15894123.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Antioxidant approach to disease management and the role of 'Rasayana' herbs of Ayurveda"&#32;&#32;(2005 June 3 Epub 2005 April 26). <it>J Ethnopharmacol.</it>&#32;<b>99</b>&#32;(2): 165–78. PMID : 15894123.</cite> </entry>
 <entry id="51">
 "<weblink xlink:type="simple" xlink:href="http://ecam.oxfordjournals.org/cgi/content/full/nem054v1">
 Antioxidant activity of 45 Chinese herbs and the relationship with their TCM characteristics</weblink>".</entry>
 <entry id="50">
- <cite style="font-style:normal">James A. Duke&#32;(:23,24,.).&#32;"Returning to our Medicinal Roots". <it>Mother Earth News</it>: 26–33.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">James A. Duke&#32;(:23,24,.).&#32;"Returning to our Medicinal Roots". <it>Mother Earth News</it>: 26–33.</cite> </entry>
 <entry id="49">
 <weblink xlink:type="simple" xlink:href="http://nccam.nih.gov/news/2004/052704.htm">
 More Than One-Third of U.S. Adults Use Complementary and Alternative Medicine</weblink> Press release, May 27, 2004. <link xlink:type="simple" xlink:href="../043/391043.xml">
@@ -2023,7 +2023,7 @@ Tillotson Institute of Natural Health - The Language of Herbs</weblink></entry>
 <weblink xlink:type="simple" xlink:href="http://oneearthherbs.squarespace.com/safety-regulation/">
 <it>Safety &amp; Regulation--Who's Watching the Herbal Store?''</it></weblink>, Tillotson Institute of Natural Health</entry>
 <entry id="52">
- <cite style="font-style:normal">BOXIN OU, DEJIAN HUANG1, MAUREEN HAMPSCH-WOODILL and JUDITH A. FLANAGAN&#32;(2003).&#32;"When east meets west: the relationship between yin-yang and antioxidation-oxidation". <it>The FASEB Journal</it>&#32;<b>17</b>: 127–129.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">BOXIN OU, DEJIAN HUANG1, MAUREEN HAMPSCH-WOODILL and JUDITH A. FLANAGAN&#32;(2003).&#32;"When east meets west: the relationship between yin-yang and antioxidation-oxidation". <it>The FASEB Journal</it>&#32;<b>17</b>: 127–129.</cite> </entry>
 <entry id="59">
 "<weblink xlink:type="simple" xlink:href="http://aromaweb.com/articles/safety.asp">
 Essential Oil Safety Information</weblink>".</entry>
@@ -2044,9 +2044,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.phymed.2008.03.001">
-10.1016/j.phymed.2008.03.001</weblink>.</cite>&nbsp;</entry>
+10.1016/j.phymed.2008.03.001</weblink>.</cite> </entry>
 <entry id="62">
- <cite style="font-style:normal">Gebhardt, R&#32;(1998).&#32;"Inhibition of Cholesterol Biosynthesis in Primary Cultured Rat Hepatocytes by Artichoke (Cynara scolymus L.) Extracts". <it>J Pharmacol Exp Ther</it>&#32;<b>286</b>&#32;(3): 1122–1128. PMID 9732368.</cite>&nbsp;
+ <cite style="font-style:normal">Gebhardt, R&#32;(1998).&#32;"Inhibition of Cholesterol Biosynthesis in Primary Cultured Rat Hepatocytes by Artichoke (Cynara scolymus L.) Extracts". <it>J Pharmacol Exp Ther</it>&#32;<b>286</b>&#32;(3): 1122–1128. PMID 9732368.</cite> 
 </entry>
 <entry id="61">
 "<weblink xlink:type="simple" xlink:href="http://www.umm.edu/altmed/articles/aromatherapy-000347.htm">
@@ -2055,9 +2055,9 @@ Aromatherapy</weblink>".</entry>
 <weblink xlink:type="simple" xlink:href="http://www.lifepositive.com/body/holistic-recipes/recipes/health-food.asp">
 Food as medicine</weblink></entry>
 <entry id="68">
- <cite style="font-style:normal">&#32;"Randomized study of the efficacy and safety of oral elderberry extract in the treatment of influenza A and B virus infections"&#32;&#32;(2004 March-April). <it>J Int Med Res.</it>&#32;<b>32</b>&#32;(2): 132–40. PMID : 15080016.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Randomized study of the efficacy and safety of oral elderberry extract in the treatment of influenza A and B virus infections"&#32;&#32;(2004 March-April). <it>J Int Med Res.</it>&#32;<b>32</b>&#32;(2): 132–40. PMID : 15080016.</cite> </entry>
 <entry id="69">
- <cite style="font-style:normal">&#32;"The effect of Sambucol, a black elderberry-based, natural product, on the production of human cytokines: I. Inflammatory cytokines"&#32;&#32;(2001 April-June;). <it>Eur Cytokine Netw.</it>&#32;<b>12</b>&#32;(2): 290–6. PMID : 11399518.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"The effect of Sambucol, a black elderberry-based, natural product, on the production of human cytokines: I. Inflammatory cytokines"&#32;&#32;(2001 April-June;). <it>Eur Cytokine Netw.</it>&#32;<b>12</b>&#32;(2): 290–6. PMID : 11399518.</cite> </entry>
 <entry id="70">
  <cite style="font-style:normal">Shrivastava R, Pechadre JC, &amp; John GW&#32;(2007).&#32;"Tanacetum parthenium and Salix alba (Mig-RL) combination in migraine prophylaxis: a prospective, open-label study". <it>Clinical Drug Investigation</it>&#32;<b>26</b>&#32;(5): 287–296. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2067,7 +2067,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2165%2F00044011-200626050-00006">
-10.2165/00044011-200626050-00006</weblink>. PMID 17163262.</cite>&nbsp;</entry>
+10.2165/00044011-200626050-00006</weblink>. PMID 17163262.</cite> </entry>
 <entry id="71">
  <cite style="font-style:normal">Silberstein, SD&#32;(2005).&#32;"Preventive treatment of headaches". <it>Current Opinion in Neurology</it>&#32;<b>18</b>&#32;(3): 289–292. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2077,9 +2077,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1097%2F01.wco.0000169747.67653.f3">
-10.1097/01.wco.0000169747.67653.f3</weblink>. PMID 15891414.</cite>&nbsp;</entry>
+10.1097/01.wco.0000169747.67653.f3</weblink>. PMID 15891414.</cite> </entry>
 <entry id="64">
- <cite style="font-style:normal">Bai W&#32;(2007).&#32;"Efficacy and tolerability of a medicinal product containing an isopropanolic black cohosh extract in Chinese women with menopausal symptoms: A randomized, double blind, parallel-controlled study versus tibolone". <it>Maturitas</it>&#32;<b>In print</b>. PMID 17587516.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Bai W&#32;(2007).&#32;"Efficacy and tolerability of a medicinal product containing an isopropanolic black cohosh extract in Chinese women with menopausal symptoms: A randomized, double blind, parallel-controlled study versus tibolone". <it>Maturitas</it>&#32;<b>In print</b>. PMID 17587516.</cite> </entry>
 <entry id="65">
  <cite style="font-style:normal">Jepson R, Craig J&#32;(2008).&#32;"Cranberries for preventing urinary tract infections". <it>Cochrane Database Syst Rev</it>&#32;(1): CD001321. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2089,7 +2089,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2F14651858.CD001321.pub4">
-10.1002/14651858.CD001321.pub4</weblink>. PMID 18253990.</cite>&nbsp;</entry>
+10.1002/14651858.CD001321.pub4</weblink>. PMID 18253990.</cite> </entry>
 <entry id="66">
  <cite style="font-style:normal">Shah SA, Sander S, White CM, Rinaldi M, &amp; Coleman CI&#32;(Jul 2007).&#32;"Evaluation of echinacea for the prevention and treatment of the common cold: a meta-analysis". <it>Lancet Infect Dis.</it>&#32;<b>7</b>: 473. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2099,7 +2099,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS1473-3099%2807%2970160-3">
-10.1016/S1473-3099(07)70160-3</weblink>. PMID 17597571.</cite>&nbsp;</entry>
+10.1016/S1473-3099(07)70160-3</weblink>. PMID 17597571.</cite> </entry>
 <entry id="67">
  <cite style="font-style:normal">Schoop, R, Klein, P, Suter, A, &amp; Johnston, SL&#32;(2006).&#32;"Echinacea in the prevention of induced rhinovirus colds: a meta-analysis". <it>Clinical Therapeutics</it>&#32;<b>28</b>&#32;(2): 174–83. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2109,11 +2109,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.clinthera.2006.02.001">
-10.1016/j.clinthera.2006.02.001</weblink>. PMID 16678640.</cite>&nbsp;</entry>
+10.1016/j.clinthera.2006.02.001</weblink>. PMID 16678640.</cite> </entry>
 <entry id="76">
- <cite style="font-style:normal">Tijani1, AY, Uguru, MO, &amp; Salawu, OA,&#32;(2008).&#32;"Anti-pyretic, anti-inflammatory and anti-diarrhoeal properties of Faidherbia albida in rats". <it>African Journal of Biotechnology,</it>&#32;<b>161</b>: 913–824.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Tijani1, AY, Uguru, MO, &amp; Salawu, OA,&#32;(2008).&#32;"Anti-pyretic, anti-inflammatory and anti-diarrhoeal properties of Faidherbia albida in rats". <it>African Journal of Biotechnology,</it>&#32;<b>161</b>: 913–824.</cite> </entry>
 <entry id="77">
- <cite style="font-style:normal">Ackerman, RT, Mulrow, CD, Ramirez, G, Gardner CD, Morbidoni, L &amp; Lawrence, VA&#32;(2001).&#32;"Garlic shows promise for improve some cardiovascular risk factors". <it>Archives of Internal Medicine</it>&#32;<b>7(6)</b>: 696–700.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Ackerman, RT, Mulrow, CD, Ramirez, G, Gardner CD, Morbidoni, L &amp; Lawrence, VA&#32;(2001).&#32;"Garlic shows promise for improve some cardiovascular risk factors". <it>Archives of Internal Medicine</it>&#32;<b>7(6)</b>: 696–700.</cite> </entry>
 <entry id="78">
  <cite style="font-style:normal">Ali BH, Al Wabel N, &amp; Blunden G&#32;(2005).&#32;"Phytochemical, pharmacological and toxicological aspects of Hibiscus sabdariffa L.: a review". <it>Phytotherapy Research</it>&#32;<b>19</b>&#32;(5): 369–75. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2123,13 +2123,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2Fptr.1628">
-10.1002/ptr.1628</weblink>. PMID 16106391.</cite>&nbsp;</entry>
+10.1002/ptr.1628</weblink>. PMID 16106391.</cite> </entry>
 <entry id="79">
- <cite style="font-style:normal">Hajhashemi V, Ghannadi A, &amp; Jafarabadi H.&#32;"Black cumin seed essential oil, as a potent analgesic and antiinflammatory drug". <it>Phytother Res.</it>&#32;<b>18</b>&#32;(3): 195–9. PMID 15103664.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Hajhashemi V, Ghannadi A, &amp; Jafarabadi H.&#32;"Black cumin seed essential oil, as a potent analgesic and antiinflammatory drug". <it>Phytother Res.</it>&#32;<b>18</b>&#32;(3): 195–9. PMID 15103664.</cite> </entry>
 <entry id="72">
- <cite style="font-style:normal">"Feverfew for preventing migraine"&#32;. PMID : 14973986.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">"Feverfew for preventing migraine"&#32;. PMID : 14973986.</cite> </entry>
 <entry id="73">
- <cite style="font-style:normal">&#32;"Efficacy and safety of 6.25 mg t.i.d. feverfew CO2-extract (MIG-99) in migraine prevention--a randomized, double-blind, multicentre, placebo-controlled study"&#32;&#32;(2005 November). <it>Cephalalgia.</it>&#32;<b>25</b>&#32;(11): 1031–41. PMID : 16232154.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Efficacy and safety of 6.25 mg t.i.d. feverfew CO2-extract (MIG-99) in migraine prevention--a randomized, double-blind, multicentre, placebo-controlled study"&#32;&#32;(2005 November). <it>Cephalalgia.</it>&#32;<b>25</b>&#32;(11): 1031–41. PMID : 16232154.</cite> </entry>
 <entry id="74">
  <cite style="font-style:normal">Yao M, Ritchie HE, &amp; Brown-Woodman PD&#32;(2006).&#32;"A reproductive screening test of feverfew: is a full reproductive study warranted?". <it>Reproductive Toxicology</it>&#32;<b>22</b>&#32;(4): 688–693. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2139,32 +2139,32 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.reprotox.2006.04.014">
-10.1016/j.reprotox.2006.04.014</weblink>. PMID 16781113.</cite>&nbsp;</entry>
+10.1016/j.reprotox.2006.04.014</weblink>. PMID 16781113.</cite> </entry>
 <entry id="75">
- <cite style="font-style:normal">Modi S &amp; Lowder DM&#32;(2006).&#32;"Medications for migraine prophylaxis". <it>American Family Physician</it>&#32;<b>73</b>&#32;(1): 72–78. PMID 16417067.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Modi S &amp; Lowder DM&#32;(2006).&#32;"Medications for migraine prophylaxis". <it>American Family Physician</it>&#32;<b>73</b>&#32;(1): 72–78. PMID 16417067.</cite> </entry>
 <entry id="85">
- <cite style="font-style:normal">&#32;"The in vivo antifungal activity of the aqueous extract from Nigella sativa seeds"&#32;&#32;(2003 February). <it>Phytother Res.;():</it>&#32;<b>17</b>&#32;(2): 183–6. PMID : 12601685.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"The in vivo antifungal activity of the aqueous extract from Nigella sativa seeds"&#32;&#32;(2003 February). <it>Phytother Res.;():</it>&#32;<b>17</b>&#32;(2): 183–6. PMID : 12601685.</cite> </entry>
 <entry id="84">
- <cite style="font-style:normal">&#32;"Immunosuppressive and cytotoxic properties of Nigella sativa"&#32;&#32;(May 2004). <it>Phytother Res.</it>&#32;<b>18</b>&#32;(5): 395–8. PMID : 15174000.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Immunosuppressive and cytotoxic properties of Nigella sativa"&#32;&#32;(May 2004). <it>Phytother Res.</it>&#32;<b>18</b>&#32;(5): 395–8. PMID : 15174000.</cite> </entry>
 <entry id="87">
- <cite style="font-style:normal">&#32;"Biochemical effects of Nigella sativa L seeds in diabetic rats"&#32;&#32;(2006 September). <it>Indian J Exp Biol.</it>&#32;<b>44</b>&#32;(9): 745–8. PMID : 16999030.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Biochemical effects of Nigella sativa L seeds in diabetic rats"&#32;&#32;(2006 September). <it>Indian J Exp Biol.</it>&#32;<b>44</b>&#32;(9): 745–8. PMID : 16999030.</cite> </entry>
 <entry id="86">
- <cite style="font-style:normal">&#32;"Anti-tumor properties of blackseed (Nigella sativa L.) extracts"&#32;&#32;(2007 June). <it>Braz J Med Biol Res.</it>&#32;<b>40</b>&#32;(6): 839–47. PMID : 17581684.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Anti-tumor properties of blackseed (Nigella sativa L.) extracts"&#32;&#32;(2007 June). <it>Braz J Med Biol Res.</it>&#32;<b>40</b>&#32;(6): 839–47. PMID : 17581684.</cite> </entry>
 <entry id="81">
- <cite style="font-style:normal">Ali BH &amp; Blunden, G.&#32;"Pharmacological and toxicological properties of Nigella sativa". <it>Phytother Res.</it>&#32;<b>17</b>&#32;(4): 299–305. PMID 12722128.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Ali BH &amp; Blunden, G.&#32;"Pharmacological and toxicological properties of Nigella sativa". <it>Phytother Res.</it>&#32;<b>17</b>&#32;(4): 299–305. PMID 12722128.</cite> </entry>
 <entry id="80">
- <cite style="font-style:normal">Salem.&#32;"Immunomodulatory and therapeutic properties of the Nigella sativa L. seed". <it>International Immunopharmacology</it>&#32;<b>5</b>&#32;(13-14): 1749–1770. PMID 16275613.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Salem.&#32;"Immunomodulatory and therapeutic properties of the Nigella sativa L. seed". <it>International Immunopharmacology</it>&#32;<b>5</b>&#32;(13-14): 1749–1770. PMID 16275613.</cite> </entry>
 <entry id="83">
- <cite style="font-style:normal">&#32;"Chemopreventive potential of volatile oil from black cumin (Nigella sativa L.) seeds against rat colon carcinogenesis"&#32;&#32;(2003). <it>Nutr Cancer.</it>&#32;<b>45</b>&#32;(2): 195–202. PMID : 12881014.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Chemopreventive potential of volatile oil from black cumin (Nigella sativa L.) seeds against rat colon carcinogenesis"&#32;&#32;(2003). <it>Nutr Cancer.</it>&#32;<b>45</b>&#32;(2): 195–202. PMID : 12881014.</cite> </entry>
 <entry id="82">
- <cite style="font-style:normal">&#32;"Antimicrobial effect of crude extracts of Nigella sativa on multiple antibiotics-resistant bacteria"&#32;&#32;(2000). <it>Acta Microbiol Pol.</it>&#32;<b>49</b>&#32;(1): 63–74. PMID : 10997492.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Antimicrobial effect of crude extracts of Nigella sativa on multiple antibiotics-resistant bacteria"&#32;&#32;(2000). <it>Acta Microbiol Pol.</it>&#32;<b>49</b>&#32;(1): 63–74. PMID : 10997492.</cite> </entry>
 <entry id="93">
 Regnault Roger C, Philogene B Jr, &amp; Vincent C. 2004. Biopesticidas de origen vegetal, Mundi Prensa</entry>
 <entry id="92">
 <weblink xlink:type="simple" xlink:href="http://www.ansci.cornell.edu/plants/medicinal/papaya.html">
 Carica papaya</weblink></entry>
 <entry id="95">
- <cite style="font-style:normal">Liu JH, Chen GH, Yeh HZ, Huang CK, Poon SK&#32;(Dec 1997).&#32;"Enteric-coated peppermint-oil capsules in the treatment of irritable bowel syndrome: a prospective, randomized trial". <it>J Gastroenterol</it>&#32;<b>32</b>&#32;(6): 765–8. PMID 9430014.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Liu JH, Chen GH, Yeh HZ, Huang CK, Poon SK&#32;(Dec 1997).&#32;"Enteric-coated peppermint-oil capsules in the treatment of irritable bowel syndrome: a prospective, randomized trial". <it>J Gastroenterol</it>&#32;<b>32</b>&#32;(6): 765–8. PMID 9430014.</cite> </entry>
 <entry id="94">
  <cite style="font-style:normal">Cappello G, Spezzaferro M, Grossi L, Manzoli L, &amp; Marzio L&#32;(2007).&#32;"Peppermint oil (Mintoil((R))) in the treatment of irritable bowel syndrome: A prospective double blind placebo-controlled randomized trial". <it>Digestive and Liver Disease</it>&#32;<b>39</b>&#32;(6): 530–536. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2174,16 +2174,16 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.dld.2007.02.006">
-10.1016/j.dld.2007.02.006</weblink>. PMID 17420159.</cite>&nbsp;</entry>
+10.1016/j.dld.2007.02.006</weblink>. PMID 17420159.</cite> </entry>
 <entry id="89">
- <cite style="font-style:normal">""&#32;.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">""&#32;.</cite> </entry>
 <entry id="88">
- <cite style="font-style:normal">&#32;"Pharmacological and toxicological properties of Nigella sativa"&#32;&#32;(2003 April). <it>Phytother Res.</it>&#32;<b>17</b>&#32;(4): 299–305. PMID : 12722128.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Pharmacological and toxicological properties of Nigella sativa"&#32;&#32;(2003 April). <it>Phytother Res.</it>&#32;<b>17</b>&#32;(4): 299–305. PMID : 12722128.</cite> </entry>
 <entry id="91">
 "<weblink xlink:type="simple" xlink:href="http://www.sciencedaily.com/releases/2001/10/011011065609.htm">
 Oregano Oil May Protect Against Drug-Resistant Bacteria, Georgetown Researcher Finds</weblink>".</entry>
 <entry id="90">
- <cite style="font-style:normal">&#32;"The anti-inflammatory, analgesic and antipyretic activity of Nigella sativa"&#32;&#32;(2001 June). <it>J Ethnopharmacol.</it>&#32;<b>76</b>&#32;(1): 45–8. PMID : 11378280.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"The anti-inflammatory, analgesic and antipyretic activity of Nigella sativa"&#32;&#32;(2001 June). <it>J Ethnopharmacol.</it>&#32;<b>76</b>&#32;(1): 45–8. PMID : 11378280.</cite> </entry>
 <entry id="102">
  <cite style="font-style:normal">Gaster, B &amp; Holroyd, J&#32;(2000).&#32;"St John's wort for depression: a systematic review". <it>Archives of Internal Medicine</it>&#32;<b>160</b>&#32;(2): 152–6. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2193,61 +2193,61 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1001%2Farchinte.160.2.152">
-10.1001/archinte.160.2.152</weblink>. PMID 10647752.</cite>&nbsp;</entry>
+10.1001/archinte.160.2.152</weblink>. PMID 10647752.</cite> </entry>
 <entry id="103">
- <cite style="font-style:normal">Davidson, J et al.&#32;(2002).&#32;"Effect of Hypericum perforatum (St John's Wort) in Major Depressive Disorder". <it>Journa of the American Medical Association</it>&#32;<b>287</b>&#32;(14): 1807–1814.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Davidson, J et al.&#32;(2002).&#32;"Effect of Hypericum perforatum (St John's Wort) in Major Depressive Disorder". <it>Journa of the American Medical Association</it>&#32;<b>287</b>&#32;(14): 1807–1814.</cite> </entry>
 <entry id="100">
- <cite style="font-style:normal">&#32;"COX-1 and -2 activity of rose hip."&#32;&#32;(2007 Dec). <it>Phytother Res.</it>&#32;<b>21</b>&#32;(12): 1251-2. PMID: 17639563.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"COX-1 and -2 activity of rose hip."&#32;&#32;(2007 Dec). <it>Phytother Res.</it>&#32;<b>21</b>&#32;(12): 1251-2. PMID: 17639563.</cite> </entry>
 <entry id="101">
 "<weblink xlink:type="simple" xlink:href="http://www.sciencedaily.com/releases/2003/09/030901091846.htm">
 Sage Improves Memory, Study Shows</weblink>".</entry>
 <entry id="98">
- <cite style="font-style:normal">&#32;"Phytother Res."&#32;&#32;(2006 Jan). <it>The evidence for clinical efficacy of rose hip and seed: a systematic review.</it>&#32;<b>20</b>&#32;(1): 1-3. PMID: 16395741.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Phytother Res."&#32;&#32;(2006 Jan). <it>The evidence for clinical efficacy of rose hip and seed: a systematic review.</it>&#32;<b>20</b>&#32;(1): 1-3. PMID: 16395741.</cite> </entry>
 <entry id="99">
- <cite style="font-style:normal">&#32;"A powder made from seeds and shells of a rose-hip subspecies (Rosa canina) reduces symptoms of knee and hip osteoarthritis: a randomized, double-blind, placebo-controlled clinical trial."&#32;&#32;(2005 Jul-Aug). <it>Scand J Rheumatol</it>&#32;<b>34</b>&#32;(4): 302-8. PMID: 16195164.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"A powder made from seeds and shells of a rose-hip subspecies (Rosa canina) reduces symptoms of knee and hip osteoarthritis: a randomized, double-blind, placebo-controlled clinical trial."&#32;&#32;(2005 Jul-Aug). <it>Scand J Rheumatol</it>&#32;<b>34</b>&#32;(4): 302-8. PMID: 16195164.</cite> </entry>
 <entry id="96">
- <cite style="font-style:normal">&#32;"Ancient-modern concordance in Ayurvedic plants: some examples"&#32;&#32;(1999 October). <it>Environ Health Perspect.;():</it>&#32;<b>107</b>&#32;(10): 783–9. PMID : 10504143.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Ancient-modern concordance in Ayurvedic plants: some examples"&#32;&#32;(1999 October). <it>Environ Health Perspect.;():</it>&#32;<b>107</b>&#32;(10): 783–9. PMID : 10504143.</cite> </entry>
 <entry id="97">
- <cite style="font-style:normal">&#32;"Does the hip powder of Rosa canina (rosehip) reduce pain in osteoarthritis patients? - a meta-analysis of randomized controlled trials."&#32;&#32;(2008 Sep). <it>Osteoarthritis Cartilage.fs</it>&#32;<b>16</b>&#32;(9): 965-72. PMID: 18407528.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Does the hip powder of Rosa canina (rosehip) reduce pain in osteoarthritis patients? - a meta-analysis of randomized controlled trials."&#32;&#32;(2008 Sep). <it>Osteoarthritis Cartilage.fs</it>&#32;<b>16</b>&#32;(9): 965-72. PMID: 18407528.</cite> </entry>
 <entry id="110">
- <cite style="font-style:normal">&#32;"St John's wort for depression: meta-analysis of randomised controlled trials"&#32;&#32;(2005 February). <it>Br J Psychiatry.</it>&#32;<b>186</b>: 99–107. PMID : 15684231.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"St John's wort for depression: meta-analysis of randomised controlled trials"&#32;&#32;(2005 February). <it>Br J Psychiatry.</it>&#32;<b>186</b>: 99–107. PMID : 15684231.</cite> </entry>
 <entry id="111">
- <cite style="font-style:normal">&#32;"St John's wort for depression"&#32;&#32;(2005 April). <it>Cochrane Database Syst Rev.</it>&#32;<b>18</b>&#32;(2). PMID : 15846605.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"St John's wort for depression"&#32;&#32;(2005 April). <it>Cochrane Database Syst Rev.</it>&#32;<b>18</b>&#32;(2). PMID : 15846605.</cite> </entry>
 <entry id="108">
- <cite style="font-style:normal">&#32;"How effective is St John's wort? The evidence revisited"&#32;&#32;(May 2004). <it>J Clin Psychiatry.;():</it>&#32;<b>65</b>&#32;(5): 611–7. PMID : 15163246.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"How effective is St John's wort? The evidence revisited"&#32;&#32;(May 2004). <it>J Clin Psychiatry.;():</it>&#32;<b>65</b>&#32;(5): 611–7. PMID : 15163246.</cite> </entry>
 <entry id="109">
- <cite style="font-style:normal">&#32;"Meta-analysis of effectiveness and tolerability of treatment of mild to moderate depression with St. John's Wort"&#32;&#32;(2004 June). <it>Fortschr Neurol Psychiatr.;():.</it>&#32;<b>72</b>&#32;(6): 330–43. PMID : 15211398.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Meta-analysis of effectiveness and tolerability of treatment of mild to moderate depression with St. John's Wort"&#32;&#32;(2004 June). <it>Fortschr Neurol Psychiatr.;():.</it>&#32;<b>72</b>&#32;(6): 330–43. PMID : 15211398.</cite> </entry>
 <entry id="106">
- <cite style="font-style:normal">&#32;"Superior efficacy of St John's wort extract WS 5570 compared to placebo in patients with major depression: a randomized, double-blind, placebo-controlled, multi-center trial"&#32;&#32;(2006 June 23). <it>BMC Med.;:</it>&#32;<b>4</b>&#32;(14). PMID : 16796730.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Superior efficacy of St John's wort extract WS 5570 compared to placebo in patients with major depression: a randomized, double-blind, placebo-controlled, multi-center trial"&#32;&#32;(2006 June 23). <it>BMC Med.;:</it>&#32;<b>4</b>&#32;(14). PMID : 16796730.</cite> </entry>
 <entry id="107">
- <cite style="font-style:normal">&#32;"A Double-blind, randomized trial of St John's wort, fluoxetine, and placebo in major depressive disorder"&#32;&#32;(2005 October). <it>J Clin Psychopharmacol.;():</it>&#32;<b>25</b>&#32;(5): 441–7. PMID : 16160619.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"A Double-blind, randomized trial of St John's wort, fluoxetine, and placebo in major depressive disorder"&#32;&#32;(2005 October). <it>J Clin Psychopharmacol.;():</it>&#32;<b>25</b>&#32;(5): 441–7. PMID : 16160619.</cite> </entry>
 <entry id="104">
- <cite style="font-style:normal">&#32;"Efficacy of St. John's wort extract WS 5570 in major depression: a double-blind, placebo-controlled trial"&#32;&#32;(2002 August). <it>Am J Psychiatry.</it>&#32;<b>159</b>&#32;(8): 1361–6. PMID : 12153829.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Efficacy of St. John's wort extract WS 5570 in major depression: a double-blind, placebo-controlled trial"&#32;&#32;(2002 August). <it>Am J Psychiatry.</it>&#32;<b>159</b>&#32;(8): 1361–6. PMID : 12153829.</cite> </entry>
 <entry id="105">
- <cite style="font-style:normal">&#32;"Comparative efficacy and safety of a once-daily dosage of hypericum extract STW3-VI and citalopram in patients with moderate depression: a double-blind, randomised, multicentre, placebo-controlled study"&#32;&#32;(2006 March). <it>Pharmacopsychiatry.</it>&#32;<b>39</b>&#32;(2): 66–75. PMID : 16555167.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Comparative efficacy and safety of a once-daily dosage of hypericum extract STW3-VI and citalopram in patients with moderate depression: a double-blind, randomised, multicentre, placebo-controlled study"&#32;&#32;(2006 March). <it>Pharmacopsychiatry.</it>&#32;<b>39</b>&#32;(2): 66–75. PMID : 16555167.</cite> </entry>
 <entry id="119">
- <cite style="font-style:normal">&#32;"Valerian-hops combination and diphenhydramine for treating insomnia: a randomized placebo-controlled clinical trial"&#32;&#32;(November 1 2005). <it>Sleep.</it>&#32;<b>28</b>&#32;(11): 1465–71. PMID : 16335333.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Valerian-hops combination and diphenhydramine for treating insomnia: a randomized placebo-controlled clinical trial"&#32;&#32;(November 1 2005). <it>Sleep.</it>&#32;<b>28</b>&#32;(11): 1465–71. PMID : 16335333.</cite> </entry>
 <entry id="118">
- <cite style="font-style:normal">&#32;"Inhibition of rat platelet aggregation by Urtica dioica leaves extracts"&#32;&#32;(2006 July). <it>Phytother Res.</it>&#32;<b>20</b>&#32;(7): 568–72. PMID : 16619332.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Inhibition of rat platelet aggregation by Urtica dioica leaves extracts"&#32;&#32;(2006 July). <it>Phytother Res.</it>&#32;<b>20</b>&#32;(7): 568–72. PMID : 16619332.</cite> </entry>
 <entry id="117">
- <cite style="font-style:normal">&#32;"Effect of Urtica dioica extract intake upon blood lipid profile in the rats"&#32;&#32;(2006 April). <it>Fitoterapia. Epub 2006 Feb 23</it>&#32;<b>77</b>&#32;(3): 183–8. PMID : 16540261.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Effect of Urtica dioica extract intake upon blood lipid profile in the rats"&#32;&#32;(2006 April). <it>Fitoterapia. Epub 2006 Feb 23</it>&#32;<b>77</b>&#32;(3): 183–8. PMID : 16540261.</cite> </entry>
 <entry id="116">
- <cite style="font-style:normal">&#32;"Plant extracts from stinging nettle (Urtica dioica), an antirheumatic remedy, inhibit the proinflammatory transcription factor NF-kappaB"&#32;&#32;(1999 January 8). <it>FEBS Lett.;():</it>&#32;<b>442</b>&#32;(1): 89–94. PMID : 9923611.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Plant extracts from stinging nettle (Urtica dioica), an antirheumatic remedy, inhibit the proinflammatory transcription factor NF-kappaB"&#32;&#32;(1999 January 8). <it>FEBS Lett.;():</it>&#32;<b>442</b>&#32;(1): 89–94. PMID : 9923611.</cite> </entry>
 <entry id="115">
- <cite style="font-style:normal">&#32;"Randomized controlled trial of nettle sting for treatment of base-of-thumb pain"&#32;&#32;(2000 June). <it>J R Soc Med.</it>&#32;<b>93</b>&#32;(6): 305–9. PMID : 10911825.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Randomized controlled trial of nettle sting for treatment of base-of-thumb pain"&#32;&#32;(2000 June). <it>J R Soc Med.</it>&#32;<b>93</b>&#32;(6): 305–9. PMID : 10911825.</cite> </entry>
 <entry id="114">
- <cite style="font-style:normal">&#32;"Urtica dioica for treatment of benign prostatic hyperplasia: a prospective, randomized, double-blind, placebo-controlled, crossover study"&#32;&#32;(2005). <it>J Herb Pharmacother.</it>&#32;<b>5</b>&#32;(4): 1–11. PMID : 16635963.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Urtica dioica for treatment of benign prostatic hyperplasia: a prospective, randomized, double-blind, placebo-controlled, crossover study"&#32;&#32;(2005). <it>J Herb Pharmacother.</it>&#32;<b>5</b>&#32;(4): 1–11. PMID : 16635963.</cite> </entry>
 <entry id="113">
- <cite style="font-style:normal">Bent S, Kane C, Shinohara K, Neuhaus J, Hudes ES, Goldberg H, &amp; Avins AL..&#32;"Saw palmetto for benign prostatic hyperplasia". <it>New England Journal of Medicine</it>&#32;<b>354</b>&#32;(6): 557–566. PMID 16467543.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Bent S, Kane C, Shinohara K, Neuhaus J, Hudes ES, Goldberg H, &amp; Avins AL..&#32;"Saw palmetto for benign prostatic hyperplasia". <it>New England Journal of Medicine</it>&#32;<b>354</b>&#32;(6): 557–566. PMID 16467543.</cite> </entry>
 <entry id="112">
- <cite style="font-style:normal">Marks LS, Partin AW, Epstein JI, Tyler VE, Simon I, Macairan ML, Chan TL, Dorey FJ, Garris JB, Veltri RW, Santos PB, Stonebrook KA, &amp; deKernion JB.&#32;"Effects of a saw palmetto herbal blend in men with symptomatic benign prostatic hyperplasia". <it>J. Urol</it>&#32;<b>163</b>&#32;(5): 1451–1456. PMID 10751856.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Marks LS, Partin AW, Epstein JI, Tyler VE, Simon I, Macairan ML, Chan TL, Dorey FJ, Garris JB, Veltri RW, Santos PB, Stonebrook KA, &amp; deKernion JB.&#32;"Effects of a saw palmetto herbal blend in men with symptomatic benign prostatic hyperplasia". <it>J. Urol</it>&#32;<b>163</b>&#32;(5): 1451–1456. PMID 10751856.</cite> </entry>
 <entry id="127">
 "<weblink xlink:type="simple" xlink:href="http://www.sciencedaily.com/releases/2006/04/060407151107.htm">
 Healing Honey: The Sweet Evidence Revealed</weblink>".</entry>
 <entry id="126">
- <cite style="font-style:normal">&#32;"Natural honey lowers plasma glucose, C-reactive protein, homocysteine, and blood lipids in healthy, diabetic, and hyperlipidemic subjects: comparison with dextrose and sucrose"&#32;&#32;(2004 Spring;). <it>J Med Food</it>: 100–7. PMID : 15117561.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Natural honey lowers plasma glucose, C-reactive protein, homocysteine, and blood lipids in healthy, diabetic, and hyperlipidemic subjects: comparison with dextrose and sucrose"&#32;&#32;(2004 Spring;). <it>J Med Food</it>: 100–7. PMID : 15117561.</cite> </entry>
 <entry id="125">
- <cite style="font-style:normal">Zhang Q, Kelly AP, Wang L, French SW, Tang X, Duong HS, Messadi DV, &amp; Le AD.&#32;"Green tea extract and (-)-epigallocatechin-3-gallate inhibit mast cell-stimulated type I collagen expression in keloid fibroblasts via blocking PI-3K/AkT signaling pathways". <it>J Invest Dermatol</it>&#32;<b>126</b>&#32;(12): 2607–2613. PMID 16841034.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Zhang Q, Kelly AP, Wang L, French SW, Tang X, Duong HS, Messadi DV, &amp; Le AD.&#32;"Green tea extract and (-)-epigallocatechin-3-gallate inhibit mast cell-stimulated type I collagen expression in keloid fibroblasts via blocking PI-3K/AkT signaling pathways". <it>J Invest Dermatol</it>&#32;<b>126</b>&#32;(12): 2607–2613. PMID 16841034.</cite> </entry>
 <entry id="124">
  <cite style="font-style:normal">Belguise, K.&#32;(2007).&#32;"Activation of FOXO3a by the Green Tea Polyphenol Epigallocatechin-3-Gallate Induces Estrogen Receptor  Expression Reversing Invasive Phenotype of Breast Cancer Cells". <it>Cancer Research</it>&#32;<b>67</b>: 5763–5770. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2257,37 +2257,37 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1158%2F0008-5472.CAN-06-4327">
-10.1158/0008-5472.CAN-06-4327</weblink>. PMID 17575143.</cite>&nbsp;</entry>
+10.1158/0008-5472.CAN-06-4327</weblink>. PMID 17575143.</cite> </entry>
 <entry id="123">
 Martin KW and E Ernst  Herbal medicines for treatment of bacterial infections: a review of controlled clinical trials http://jac.oxfordjournals.org/cgi/content/full/51/2/241 Journal of Antimicrobial Chemotherapy (2003) 51, 241-246</entry>
 <entry id="122">
 E Shahla, J Abolfazl, S A Hossein, I Fariba  The efficacy of 5% topical tea tree oil gel in mild to moderate acne vulgaris: A randomized, double-blind placebo-controlled study http://www.ijdvl.com/article.asp?issn=0378-6323;year=2007;volume=73;issue=1;spage=22;epage=25;aulast=Enshaieh  Ind J dermatolog Venereol Leprol  73(1):22-5</entry>
 <entry id="121">
- <cite style="font-style:normal">Taibi DM, Landis CA, Petry H, &amp; Vitiello MV.&#32;"A systematic review of valerian as a sleep aid: safe but not effective". <it>Sleep Med Rev</it>&#32;<b>11</b>&#32;(3): 209–230. PMID 17517355.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Taibi DM, Landis CA, Petry H, &amp; Vitiello MV.&#32;"A systematic review of valerian as a sleep aid: safe but not effective". <it>Sleep Med Rev</it>&#32;<b>11</b>&#32;(3): 209–230. PMID 17517355.</cite> </entry>
 <entry id="120">
- <cite style="font-style:normal">Bent S, Padula A, Moore D, Patterson M, &amp; Mehling W..&#32;"Valerian for sleep: a systematic review and meta-analysis". <it>Am J Med.</it>&#32;<b>119</b>&#32;(12): 1005–1012. PMID 17145239.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Bent S, Padula A, Moore D, Patterson M, &amp; Mehling W..&#32;"Valerian for sleep: a systematic review and meta-analysis". <it>Am J Med.</it>&#32;<b>119</b>&#32;(12): 1005–1012. PMID 17145239.</cite> </entry>
 <entry id="137">
 <weblink xlink:type="simple" xlink:href="http://www.gaiagarden.com/articles/healthnotes/hn_herbtoavoidduringpregnancy.php">
 <it>Herbs to avoid during pregnancy''</it></weblink>, Gaia Garden website</entry>
 <entry id="136">
- <cite style="font-style:normal">&#32;"Herb use in pregnancy: what nurses should know"&#32;&#32;(May 2005-June). <it>MCN Am J Matern Child Nurs.</it>&#32;<b>30</b>&#32;(3): 201–6. PMID : 15867682.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Herb use in pregnancy: what nurses should know"&#32;&#32;(May 2005-June). <it>MCN Am J Matern Child Nurs.</it>&#32;<b>30</b>&#32;(3): 201–6. PMID : 15867682.</cite> </entry>
 <entry id="139">
- <cite style="font-style:normal">&#32;"Interactions of food and dietary supplements with drug metabolising cytochrome P450 enzymes"&#32;&#32;(2007 July). <it>Ceska Slov Farm.</it>&#32;<b>56</b>&#32;(4): 165–73. PMID : 17969314.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Interactions of food and dietary supplements with drug metabolising cytochrome P450 enzymes"&#32;&#32;(2007 July). <it>Ceska Slov Farm.</it>&#32;<b>56</b>&#32;(4): 165–73. PMID : 17969314.</cite> </entry>
 <entry id="138">
- <cite style="font-style:normal">&#32;"An examination of the bleeding complications associated with herbal supplements, antiplatelet and anticoagulant medications"&#32;&#32;(2007 Summer). <it>J Dent Hyg.</it>&#32;<b>81</b>&#32;(3): 67. PMID : 17908423.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"An examination of the bleeding complications associated with herbal supplements, antiplatelet and anticoagulant medications"&#32;&#32;(2007 Summer). <it>J Dent Hyg.</it>&#32;<b>81</b>&#32;(3): 67. PMID : 17908423.</cite> </entry>
 <entry id="141">
- <cite style="font-style:normal">Srinivasan K.&#32;"Spices as influencers of body metabolism: an overview of three decades of research". <it>Food Research International</it>&#32;<b>38</b>&#32;(1): 77–86.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Srinivasan K.&#32;"Spices as influencers of body metabolism: an overview of three decades of research". <it>Food Research International</it>&#32;<b>38</b>&#32;(1): 77–86.</cite> </entry>
 <entry id="140">
 "<weblink xlink:type="simple" xlink:href="http://www.oberlin.edu/economic/Papers/HealthConf/Sloan.pdf">
 Incentives and PharmaceuticalInnovation</weblink>"&#32;(PDF).</entry>
 <entry id="143">
  <cite style="font-style:normal">&#32;"<weblink xlink:type="simple" xlink:href="http://ije.oxfordjournals.org/cgi/content/full/30/3/526">
-The methodological quality of randomized controlled trials of homeopathy, herbal medicines and acupuncture</weblink>"&#32;&#32;(2005). <it>International Journal of Epidemiology</it>&#32;<b>30</b>: 526–531. PMID 11416076.</cite>&nbsp;</entry>
+The methodological quality of randomized controlled trials of homeopathy, herbal medicines and acupuncture</weblink>"&#32;&#32;(2005). <it>International Journal of Epidemiology</it>&#32;<b>30</b>: 526–531. PMID 11416076.</cite> </entry>
 <entry id="142">
  <cite style="font-style:normal">&#32;"<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&amp;db=PubMed&amp;list_uids=10812320&amp;dopt=AbstractPlus&amp;holding=f1000%2Cf1000m%2Cisrctn">
-Location bias in controlled clinical trials of complementary/alternative therapies</weblink>"&#32;&#32;(2000). <it>International Journal of Epidemiology</it>&#32;<b>53</b>&#32;(5): 485–489.</cite>&nbsp;</entry>
+Location bias in controlled clinical trials of complementary/alternative therapies</weblink>"&#32;&#32;(2000). <it>International Journal of Epidemiology</it>&#32;<b>53</b>&#32;(5): 485–489.</cite> </entry>
 <entry id="129">
- <cite style="font-style:normal">Ernst E&#32;(2007).&#32;"Herbal medicines: balancing benefits and risks". <it>Novartis Found. Symp.</it>&#32;<b>282</b>: 154–67; discussion 167–72, 212–8. PMID 17913230.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Ernst E&#32;(2007).&#32;"Herbal medicines: balancing benefits and risks". <it>Novartis Found. Symp.</it>&#32;<b>282</b>: 154–67; discussion 167–72, 212–8. PMID 17913230.</cite> </entry>
 <entry id="128">
  <cite style="font-style:normal">Vickers AJ&#32;(2007).&#32;"Which botanicals or other unconventional anticancer agents should we take to clinical trial?". <it>J Soc Integr Oncol</it>&#32;<b>5</b>&#32;(3): 125–9. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2297,20 +2297,20 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2310%2F7200.2007.011">
-10.2310/7200.2007.011</weblink>. PMID 17761132.</cite>&nbsp;</entry>
+10.2310/7200.2007.011</weblink>. PMID 17761132.</cite> </entry>
 <entry id="131">
- <cite style="font-style:normal">&#32;"Love potions and the ointment of witches: historical aspects of the nightshade alkaloids"&#32;&#32;(1998). <it>J Toxicol Clin Toxicol.;():</it>&#32;<b>36</b>&#32;(6): 617–27. PMID : 9776969.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Love potions and the ointment of witches: historical aspects of the nightshade alkaloids"&#32;&#32;(1998). <it>J Toxicol Clin Toxicol.;():</it>&#32;<b>36</b>&#32;(6): 617–27. PMID : 9776969.</cite> </entry>
 <entry id="130">
 "<weblink xlink:type="simple" xlink:href="http://www.medscape.com/viewarticle/425061">
 Botanical Products</weblink>".</entry>
 <entry id="133">
- <cite style="font-style:normal">&#32;"Adverse effects associated with herbal medicine"&#32;&#32;(2001 November). <it>Aust Fam Physician.</it>&#32;<b>30</b>&#32;(11): 1070–5. PMID : 11759460.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Adverse effects associated with herbal medicine"&#32;&#32;(2001 November). <it>Aust Fam Physician.</it>&#32;<b>30</b>&#32;(11): 1070–5. PMID : 11759460.</cite> </entry>
 <entry id="132">
- <cite style="font-style:normal">&#32;"Solanaceae III: henbane, hags and Hawley Harvey Crippen"&#32;&#32;(2006 December). <it>J R Coll Physicians Edinb.</it>&#32;<b>36</b>&#32;(4): 366–73. PMID : 17526134.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Solanaceae III: henbane, hags and Hawley Harvey Crippen"&#32;&#32;(2006 December). <it>J R Coll Physicians Edinb.</it>&#32;<b>36</b>&#32;(4): 366–73. PMID : 17526134.</cite> </entry>
 <entry id="135">
- <cite style="font-style:normal">&#32;"Fulminant hepatic failure associated with the use of black cohosh: a case report"&#32;&#32;(2006 June). <it>Liver Transpl.</it>&#32;<b>12</b>&#32;(6): 989–92. PMID : 16721764.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Fulminant hepatic failure associated with the use of black cohosh: a case report"&#32;&#32;(2006 June). <it>Liver Transpl.</it>&#32;<b>12</b>&#32;(6): 989–92. PMID : 16721764.</cite> </entry>
 <entry id="134">
- <cite style="font-style:normal">&#32;"An unusual cause of hypokalemic paralysis: chronic licorice ingestion"&#32;&#32;(2003 March). <it>Am J Med Sci.;():</it>&#32;<b>325</b>&#32;(3): 153–6. PMID : 12640291.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"An unusual cause of hypokalemic paralysis: chronic licorice ingestion"&#32;&#32;(2003 March). <it>Am J Med Sci.;():</it>&#32;<b>325</b>&#32;(3): 153–6. PMID : 12640291.</cite> </entry>
 <entry id="152">
 Vanherweghem JL, Depierreux M, Tielemans C, et al. "Rapidly progressive interstitial renal fibrosis in young women: association with slimming regimen including Chinese herbs." <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../899/463899.xml">
@@ -2331,7 +2331,7 @@ Some Arguments against the Standardization of Herbalists</weblink>".</entry>
 <weblink xlink:type="simple" xlink:href="http://www.fda.gov/opacom/laws/dshea.html">
 US Dietary Supplement Health and Education Act of 1994</weblink></entry>
 <entry id="157">
- <cite style="font-style:normal">Goldman P&#32;(2001).&#32;"Herbal medicines today and the roots of modern pharmacology". <it>Ann. Intern. Med.</it>&#32;<b>135</b>&#32;(8 Pt 1): 594–600. PMID 11601931.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Goldman P&#32;(2001).&#32;"Herbal medicines today and the roots of modern pharmacology". <it>Ann. Intern. Med.</it>&#32;<b>135</b>&#32;(8 Pt 1): 594–600. PMID 11601931.</cite> </entry>
 <entry id="158">
  <weblink xlink:type="simple" xlink:href="http://www.cfsan.fda.gov/~lrd/fpephed6.html">
 FDA Issues Regulation Prohibiting Sale of Dietary Supplements Containing Ephedrine Alkaloids and Reiterates Its Advice That Consumers Stop Using These Products</weblink> </entry>
@@ -2340,14 +2340,14 @@ FDA Issues Regulation Prohibiting Sale of Dietary Supplements Containing Ephedri
  BBC NEWS, Medical plants 'face extinction'</weblink></entry>
 <entry id="144">
  <cite style="font-style:normal">&#32;"<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&amp;db=PubMed&amp;list_uids=10812320&amp;dopt=AbstractPlus&amp;holding=f1000%2Cf1000m%2Cisrctn">
-Location bias in controlled clinical trials of complementary/alternative therapies</weblink>"&#32;&#32;(2000). <it>International Journal of Epidemiology</it>&#32;<b>53</b>&#32;(5): 485–489.</cite>&nbsp;</entry>
+Location bias in controlled clinical trials of complementary/alternative therapies</weblink>"&#32;&#32;(2000). <it>International Journal of Epidemiology</it>&#32;<b>53</b>&#32;(5): 485–489.</cite> </entry>
 <entry id="145">
- <cite style="font-style:normal">&#32;"Matched-pair study showed higher quality of placebo-controlled trials in Western phytotherapy than conventional medicine"&#32;&#32;(August 2007). <it>Journal of Clinical Epidemiology Volume 60, Issue 8,, Pages 787.e1-e15</it>&#32;<b>60</b>&#32;(8).</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Matched-pair study showed higher quality of placebo-controlled trials in Western phytotherapy than conventional medicine"&#32;&#32;(August 2007). <it>Journal of Clinical Epidemiology Volume 60, Issue 8,, Pages 787.e1-e15</it>&#32;<b>60</b>&#32;(8).</cite> </entry>
 <entry id="146">
- <cite style="font-style:normal">&#32;"Dilemmas of Traditional Botanical Research"&#32;&#32;(2002). <it>HerbalGram.</it>&#32;<b>55</b>: 46–54.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Dilemmas of Traditional Botanical Research"&#32;&#32;(2002). <it>HerbalGram.</it>&#32;<b>55</b>: 46–54.</cite> </entry>
 <entry id="147">
  <cite style="font-style:normal">&#32;"<weblink xlink:type="simple" xlink:href="http://content.herbalgram.org/iherb/herbalgram/articleview.asp?a=2230">
-What is Herb Standardization?</weblink>"&#32;&#32;(2001). <it>HerbalGram.</it>&#32;(52): 25.</cite>&nbsp;</entry>
+What is Herb Standardization?</weblink>"&#32;&#32;(2001). <it>HerbalGram.</it>&#32;(52): 25.</cite> </entry>
 <entry id="148">
 <weblink xlink:type="simple" xlink:href="http://health.nih.gov/result.asp/324">
 Herbal Medicine, NIH Institute and Center Resources</weblink>, <link xlink:type="simple" xlink:href="../043/391043.xml">
@@ -2358,9 +2358,9 @@ National Institutes of Health</link></association>
 </institute>
 .</entry>
 <entry id="149">
- <cite style="font-style:normal">&#32;"Complexities of the herbal nomenclature system in traditional Chinese medicine (TCM): lessons learned from the misuse of Aristolochia-related species and the importance of the pharmaceutical name during botanical drug product development"&#32;&#32;(2007 April). <it>Phytomedicine.;():. Epub 2006 Jul 24</it>&#32;<b>14</b>&#32;(4): 273–9. PMID : 16863692.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Complexities of the herbal nomenclature system in traditional Chinese medicine (TCM): lessons learned from the misuse of Aristolochia-related species and the importance of the pharmaceutical name during botanical drug product development"&#32;&#32;(2007 April). <it>Phytomedicine.;():. Epub 2006 Jul 24</it>&#32;<b>14</b>&#32;(4): 273–9. PMID : 16863692.</cite> </entry>
 <entry id="150">
- <cite style="font-style:normal">&#32;"Misuse of herbal remedies: the case of an outbreak of terminal renal failure in Belgium (Chinese herbs nephropathy)"&#32;&#32;(1998 Spring). <it>J Altern Complement Med.</it>&#32;<b>4</b>&#32;(1): 9–13. PMID : 9553830.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">&#32;"Misuse of herbal remedies: the case of an outbreak of terminal renal failure in Belgium (Chinese herbs nephropathy)"&#32;&#32;(1998 Spring). <it>J Altern Complement Med.</it>&#32;<b>4</b>&#32;(1): 9–13. PMID : 9553830.</cite> </entry>
 <entry id="151">
  Dan Bensky, Steven Clavey, Erich Stoger, and Andrew Gamble.  Chinese Herbal Medicine: Materia Medica, Third Edition. 2004: 1054-1055 </entry>
 </reflist>
@@ -2771,16 +2771,16 @@ Traditional medicine</link></header>
 East Asian</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../270/1773270.xml">
-Kampo</link>&nbsp;&#124; <system wordnetid="104377057" confidence="0.8">
+Kampo</link> &#124; <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../992/5992.xml">
 Traditional Chinese medicine</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../614/1167614.xml">
-Traditional Korean medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../924/3575924.xml">
-Traditional Mongolian medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../787/3575787.xml">
+ &#124; <link xlink:type="simple" xlink:href="../614/1167614.xml">
+Traditional Korean medicine</link> &#124; <link xlink:type="simple" xlink:href="../924/3575924.xml">
+Traditional Mongolian medicine</link> &#124; <link xlink:type="simple" xlink:href="../787/3575787.xml">
 Traditional Tibetan medicine</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="9">
 <image width="40px" src="Palm_Fruit_I_IMG_2100.jpg">
@@ -2805,17 +2805,17 @@ Ayurveda</link></instrumentality>
 </concept>
 </idea>
 </system>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../709/7651709.xml">
-Siddha medicine</link>&nbsp;&#124; <system wordnetid="104377057" confidence="0.8">
+ &#124; <link xlink:type="simple" xlink:href="../709/7651709.xml">
+Siddha medicine</link> &#124; <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../701/1043701.xml">
 Unani</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../973/439973.xml">
-Jamu</link> (Indonesia)&nbsp;&#124; <link xlink:type="simple" xlink:href="../029/15325029.xml">
-Thai traditional medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../846/3591846.xml">
+ &#124; <link xlink:type="simple" xlink:href="../973/439973.xml">
+Jamu</link> (Indonesia) &#124; <link xlink:type="simple" xlink:href="../029/15325029.xml">
+Thai traditional medicine</link> &#124; <link xlink:type="simple" xlink:href="../846/3591846.xml">
 Sri Lankan Ayurveda</link></col>
 </row>
 <row style="height:2px">
@@ -2826,10 +2826,10 @@ Sri Lankan Ayurveda</link></col>
 Africa</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../342/80342.xml">
-Muti</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../757/222757.xml">
-Sangoma</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../234/14634234.xml">
-Nganga</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../138/2351138.xml">
-Inyanga</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../302/16456302.xml">
+Muti</link> &#124; <link xlink:type="simple" xlink:href="../757/222757.xml">
+Sangoma</link> &#124; <link xlink:type="simple" xlink:href="../234/14634234.xml">
+Nganga</link> &#124; <link xlink:type="simple" xlink:href="../138/2351138.xml">
+Inyanga</link> &#124; <link xlink:type="simple" xlink:href="../302/16456302.xml">
 Yoruba medicine</link></col>
 </row>
 <row style="height:2px">
@@ -2840,7 +2840,7 @@ Yoruba medicine</link></col>
 Other regions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../879/2106879.xml">
-Islamic medicine</link>&nbsp;&#124; <physical_entity wordnetid="100001930" confidence="0.8">
+Islamic medicine</link> &#124; <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <traveler wordnetid="109629752" confidence="0.8">
 <carrier wordnetid="109897696" confidence="0.8">
@@ -2851,12 +2851,12 @@ Ayahuasca</link></causal_agent>
 </traveler>
 </person>
 </physical_entity>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../994/3776994.xml">
-Byzantine medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../265/13956265.xml">
-Ancient Iranian Medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../146/2584146.xml">
-Ancient Egyptian medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../143/4831143.xml">
-Ancient Greek medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../111/18902111.xml">
-Traditional Brazilian medicine</link>&nbsp;&#124; <work wordnetid="100575741" confidence="0.8">
+ &#124; <link xlink:type="simple" xlink:href="../994/3776994.xml">
+Byzantine medicine</link> &#124; <link xlink:type="simple" xlink:href="../265/13956265.xml">
+Ancient Iranian Medicine</link> &#124; <link xlink:type="simple" xlink:href="../146/2584146.xml">
+Ancient Egyptian medicine</link> &#124; <link xlink:type="simple" xlink:href="../143/4831143.xml">
+Ancient Greek medicine</link> &#124; <link xlink:type="simple" xlink:href="../111/18902111.xml">
+Traditional Brazilian medicine</link> &#124; <work wordnetid="100575741" confidence="0.8">
 <treatment wordnetid="100658082" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <care wordnetid="100654885" confidence="0.8">
@@ -2885,20 +2885,20 @@ Bush medicine</link></activity>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../845/1845.xml">
-Alternative medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../973/439973.xml">
-Herbal medicine</link>&nbsp;&#124; <system wordnetid="104377057" confidence="0.8">
+Alternative medicine</link> &#124; <link xlink:type="simple" xlink:href="../973/439973.xml">
+Herbal medicine</link> &#124; <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../819/68819.xml">
 Naturopathic medicine</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../862/14970862.xml">
-Prehistoric medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../925/261925.xml">
-Health care</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../938/482938.xml">
+ &#124; <link xlink:type="simple" xlink:href="../862/14970862.xml">
+Prehistoric medicine</link> &#124; <link xlink:type="simple" xlink:href="../925/261925.xml">
+Health care</link> &#124; <link xlink:type="simple" xlink:href="../938/482938.xml">
 Medieval medicine</link>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../246/627246.xml">
-History of alternative medicine</link>&nbsp;&#124; <link xlink:type="simple" xlink:href="../156/288156.xml">
+ &#124; <link xlink:type="simple" xlink:href="../246/627246.xml">
+History of alternative medicine</link> &#124; <link xlink:type="simple" xlink:href="../156/288156.xml">
 List of branches of alternative medicine</link></col>
 </row>
 </table>

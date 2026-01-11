@@ -37,8 +37,8 @@ CPU cache</link>.</it>
 
 In <link xlink:type="simple" xlink:href="../213/5213.xml">
 computing</link>, <b>cache algorithms</b> (also frequently called <it>replacement algorithms</it> or <it>replacement policies</it>) are <link>
-optimizing</link> instructions&nbsp;&ndash; <link xlink:type="simple" xlink:href="../775/775.xml">
-algorithm</link>s&nbsp;&ndash; that a <link xlink:type="simple" xlink:href="../783/5783.xml">
+optimizing</link> instructions – <link xlink:type="simple" xlink:href="../775/775.xml">
+algorithm</link>s – that a <link xlink:type="simple" xlink:href="../783/5783.xml">
 computer program</link> or a hardware-maintained structure can follow to manage a <link xlink:type="simple" xlink:href="../829/6829.xml">
 cache</link> of information stored on the computer. When the cache is full, the algorithm must choose which items to discard to make room for the new ones.<p>
 

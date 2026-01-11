@@ -1360,9 +1360,9 @@ definition</col>
 <link xlink:type="simple" xlink:href="../875/552875.xml">
 Earth Charter</link></political_unit>
 </state>
-&nbsp;·  <link xlink:type="simple" xlink:href="../009/1866009.xml">
-Environmentalism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../964/171964.xml">
-Environmental ethics</link>&nbsp;·  <knowledge_domain wordnetid="105999266" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../009/1866009.xml">
+Environmentalism</link> ·  <link xlink:type="simple" xlink:href="../964/171964.xml">
+Environmental ethics</link> ·  <knowledge_domain wordnetid="105999266" confidence="0.8">
 <discipline wordnetid="105996646" confidence="0.8">
 <link xlink:type="simple" xlink:href="../501/29501.xml">
 Sustainable development</link></discipline>
@@ -1378,10 +1378,10 @@ Sustainable development</link></discipline>
 Population</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../770/18978770.xml">
-Birth control</link>&nbsp;·  <link xlink:type="simple" xlink:href="../085/231085.xml">
-Family planning</link>&nbsp;·  <link xlink:type="simple" xlink:href="../275/4599275.xml">
-Overpopulation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../156/72156.xml">
-Population control</link>&nbsp;·  <condition wordnetid="113920835" confidence="0.8">
+Birth control</link> ·  <link xlink:type="simple" xlink:href="../085/231085.xml">
+Family planning</link> ·  <link xlink:type="simple" xlink:href="../275/4599275.xml">
+Overpopulation</link> ·  <link xlink:type="simple" xlink:href="../156/72156.xml">
+Population control</link> ·  <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
 <difficulty wordnetid="114408086" confidence="0.8">
@@ -1401,7 +1401,7 @@ Zero population growth</link></difficulty>
 Consumption</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../109/3942109.xml">
-Anti-consumerism</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+Anti-consumerism</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <index wordnetid="106639674" confidence="0.8">
 <fact wordnetid="106636259" confidence="0.8">
@@ -1410,7 +1410,7 @@ Ecological footprint</link></fact>
 </index>
 </information>
 </message>
-&nbsp;·  <group_action wordnetid="101080366" confidence="0.8">
+ ·  <group_action wordnetid="101080366" confidence="0.8">
 <boycott wordnetid="100206130" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <protest wordnetid="101177033" confidence="0.8">
@@ -1425,8 +1425,8 @@ Ethical consumerism</link></psychological_feature>
 </event>
 </boycott>
 </group_action>
-&nbsp;·  <link xlink:type="simple" xlink:href="../418/188418.xml">
-Overconsumption</link>&nbsp;·  <link xlink:type="simple" xlink:href="../802/30802.xml">
+ ·  <link xlink:type="simple" xlink:href="../418/188418.xml">
+Overconsumption</link> ·  <link xlink:type="simple" xlink:href="../802/30802.xml">
 Tragedy of the commons</link></col>
 </row>
 <row style="height:2px">
@@ -1465,7 +1465,7 @@ Environmental technology</link></activity>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#65E499;" class="navbox-title">
-&nbsp;Resource use and conservation</header>
+ Resource use and conservation</header>
 </row>
 <row style="height:2px">
 
@@ -1475,8 +1475,8 @@ Environmental technology</link></activity>
 Food and Water</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../361/216361.xml">
-Food security</link>&nbsp;·  <link xlink:type="simple" xlink:href="../373/233373.xml">
-Local food</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+Food security</link> ·  <link xlink:type="simple" xlink:href="../373/233373.xml">
+Local food</link> ·  <region wordnetid="108630985" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <occupation wordnetid="100582388" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
@@ -1505,7 +1505,7 @@ Permaculture</link></activity>
 </occupation>
 </application>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../621/12812621.xml">
+ ·  <link xlink:type="simple" xlink:href="../621/12812621.xml">
 Sustainable food system</link> (<occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
@@ -1525,8 +1525,8 @@ Agriculture</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../962/478962.xml">
-Fisheries</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../148/8763148.xml">
+ ·  <link xlink:type="simple" xlink:href="../962/478962.xml">
+Fisheries</link>) ·  <link xlink:type="simple" xlink:href="../148/8763148.xml">
 Urban horticulture</link> 
 Water (<message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
@@ -1537,11 +1537,11 @@ footprint</link></fact>
 </index>
 </information>
 </message>
-&nbsp;·  <issue wordnetid="105814650" confidence="0.8">
+ ·  <issue wordnetid="105814650" confidence="0.8">
 <link xlink:type="simple" xlink:href="../013/5586013.xml">
 crisis</link></issue>
-&nbsp;·  <link xlink:type="simple" xlink:href="../615/10699615.xml">
-efficiency</link>&nbsp;/ <link xlink:type="simple" xlink:href="../253/460253.xml">
+ ·  <link xlink:type="simple" xlink:href="../615/10699615.xml">
+efficiency</link> / <link xlink:type="simple" xlink:href="../253/460253.xml">
 conservation</link>)</col>
 </row>
 <row style="height:2px">
@@ -1552,10 +1552,10 @@ conservation</link>)</col>
 Energy</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../543/188543.xml">
-Biofuels</link>&nbsp;·  <issue wordnetid="105814650" confidence="0.8">
+Biofuels</link> ·  <issue wordnetid="105814650" confidence="0.8">
 <link xlink:type="simple" xlink:href="../904/2263904.xml">
 Carbon footprint</link></issue>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <plan_of_action wordnetid="105902545" confidence="0.8">
 <policy wordnetid="105901508" confidence="0.8">
@@ -1564,10 +1564,10 @@ Emissions trading</link></policy>
 </plan_of_action>
 </plan>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../933/478933.xml">
-Energy conservation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../833/9185833.xml">
-Energy descent</link>&nbsp;·  <link xlink:type="simple" xlink:href="../508/849508.xml">
-Peak oil</link>&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../933/478933.xml">
+Energy conservation</link> ·  <link xlink:type="simple" xlink:href="../833/9185833.xml">
+Energy descent</link> ·  <link xlink:type="simple" xlink:href="../508/849508.xml">
+Peak oil</link> ·  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1586,8 +1586,8 @@ Renewable energy</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../743/27743.xml">
-Solar power</link>&nbsp;·  <link xlink:type="simple" xlink:href="../289/277289.xml">
+ ·  <link xlink:type="simple" xlink:href="../743/27743.xml">
+Solar power</link> ·  <link xlink:type="simple" xlink:href="../289/277289.xml">
 Wind power</link></col>
 </row>
 <row style="height:2px">
@@ -1599,9 +1599,9 @@ Wind power</link></col>
 Materials</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../898/223898.xml">
-Industrial ecology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../157/70157.xml">
-Recycling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../148/19725148.xml">
-Waste</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+Industrial ecology</link> ·  <link xlink:type="simple" xlink:href="../157/70157.xml">
+Recycling</link> ·  <link xlink:type="simple" xlink:href="../148/19725148.xml">
+Waste</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../961/1255961.xml">
 Zero waste</link></concept>
@@ -1617,9 +1617,9 @@ Zero waste</link></concept>
 Biodiversity</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../262/45262.xml">
-Biosecurity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../816/4816.xml">
-Biosphere</link>&nbsp;·  <link xlink:type="simple" xlink:href="../556/9556.xml">
-Endangered species</link>&nbsp;·  <issue wordnetid="105814650" confidence="0.8">
+Biosecurity</link> ·  <link xlink:type="simple" xlink:href="../816/4816.xml">
+Biosphere</link> ·  <link xlink:type="simple" xlink:href="../556/9556.xml">
+Endangered species</link> ·  <issue wordnetid="105814650" confidence="0.8">
 <link xlink:type="simple" xlink:href="../554/67554.xml">
 Invasive species</link></issue>
 </col>
@@ -1635,7 +1635,7 @@ Invasive species</link></issue>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#65E499;" class="navbox-title">
-&nbsp;Sustainability disciplines, professions and activities</header>
+ Sustainability disciplines, professions and activities</header>
 </row>
 <row style="height:2px">
 
@@ -1645,8 +1645,8 @@ Invasive species</link></issue>
 Subdisciplines</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../609/17945609.xml">
-Science</link>&nbsp;·  <link xlink:type="simple" xlink:href="../725/17950725.xml">
-Accounting</link>&nbsp;·  <link xlink:type="simple" xlink:href="../659/18202659.xml">
+Science</link> ·  <link xlink:type="simple" xlink:href="../725/17950725.xml">
+Accounting</link> ·  <link xlink:type="simple" xlink:href="../659/18202659.xml">
 Governance</link></col>
 </row>
 <row style="height:2px">
@@ -1660,8 +1660,8 @@ and professions</col>
 <issue wordnetid="105814650" confidence="0.8">
 <link xlink:type="simple" xlink:href="../739/8554739.xml">
 Advertising</link></issue>
-&nbsp;·  <link xlink:type="simple" xlink:href="../720/2704720.xml">
-Architecture</link>&nbsp;·  <genre wordnetid="105845332" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../720/2704720.xml">
+Architecture</link> ·  <genre wordnetid="105845332" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
@@ -1672,8 +1672,8 @@ Art</link></kind>
 </concept>
 </idea>
 </genre>
-&nbsp;·  <link xlink:type="simple" xlink:href="../839/2237839.xml">
-Business</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../839/2237839.xml">
+Business</link> ·  <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <survey wordnetid="100644503" confidence="0.8">
@@ -1707,10 +1707,10 @@ infrastructure</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;· <link xlink:type="simple" xlink:href="../787/5284787.xml">
-drainage</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../881/3785881.xml">
+ · <link xlink:type="simple" xlink:href="../787/5284787.xml">
+drainage</link>) ·  <link xlink:type="simple" xlink:href="../881/3785881.xml">
 Community</link> (<link xlink:type="simple" xlink:href="../126/2127126.xml">
-UK Sustainable Communities Plan</link>)&nbsp;·  <application wordnetid="100949134" confidence="0.8">
+UK Sustainable Communities Plan</link>) ·  <application wordnetid="100949134" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <occupation wordnetid="100582388" confidence="0.8">
@@ -1739,10 +1739,10 @@ Design</link></activity>
 </idea>
 </concept>
 </application>
-&nbsp;·  <link xlink:type="simple" xlink:href="../756/12675756.xml">
-Fashion</link>&nbsp;·  <link xlink:type="simple" xlink:href="../245/4473245.xml">
-Forest management</link>&nbsp;/ <link xlink:type="simple" xlink:href="../245/4473245.xml">
-Forestry</link>&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../756/12675756.xml">
+Fashion</link> ·  <link xlink:type="simple" xlink:href="../245/4473245.xml">
+Forest management</link> / <link xlink:type="simple" xlink:href="../245/4473245.xml">
+Forestry</link> ·  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1761,8 +1761,8 @@ Industries</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../068/5285068.xml">
-Landscape architecture</link>&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../068/5285068.xml">
+Landscape architecture</link> ·  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1781,7 +1781,7 @@ Living</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1800,9 +1800,9 @@ Packaging</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../001/8436001.xml">
-Procurement</link>&nbsp;·  <link xlink:type="simple" xlink:href="../226/3512226.xml">
-Reporting</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../001/8436001.xml">
+Procurement</link> ·  <link xlink:type="simple" xlink:href="../226/3512226.xml">
+Reporting</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -1813,7 +1813,7 @@ Tourism</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1832,7 +1832,7 @@ Transport</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;·   <link xlink:type="simple" xlink:href="../610/1323610.xml">
+ ·   <link xlink:type="simple" xlink:href="../610/1323610.xml">
 Yield</link></col>
 </row>
 <row style="height:2px">
@@ -1843,15 +1843,15 @@ Yield</link></col>
 Related disciplines</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../216/216216.xml">
-Conservation biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../037/2051037.xml">
-Environmental biotechnology</link>&nbsp;/ <link xlink:type="simple" xlink:href="../979/656979.xml">
-chemistry</link>&nbsp;/ <link xlink:type="simple" xlink:href="../799/581799.xml">
-design</link>&nbsp;/ <link xlink:type="simple" xlink:href="../763/47763.xml">
-economics</link>&nbsp;/ <link xlink:type="simple" xlink:href="../702/50702.xml">
-engineering</link>&nbsp;/ <link xlink:type="simple" xlink:href="../964/171964.xml">
-ethics</link>&nbsp;/ <link xlink:type="simple" xlink:href="../600/1827600.xml">
-history</link>&nbsp;/ <link xlink:type="simple" xlink:href="../091/10091.xml">
-law</link>&nbsp;/ <work wordnetid="100575741" confidence="0.8">
+Conservation biology</link> ·  <link xlink:type="simple" xlink:href="../037/2051037.xml">
+Environmental biotechnology</link> / <link xlink:type="simple" xlink:href="../979/656979.xml">
+chemistry</link> / <link xlink:type="simple" xlink:href="../799/581799.xml">
+design</link> / <link xlink:type="simple" xlink:href="../763/47763.xml">
+economics</link> / <link xlink:type="simple" xlink:href="../702/50702.xml">
+engineering</link> / <link xlink:type="simple" xlink:href="../964/171964.xml">
+ethics</link> / <link xlink:type="simple" xlink:href="../600/1827600.xml">
+history</link> / <link xlink:type="simple" xlink:href="../091/10091.xml">
+law</link> / <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1874,8 +1874,8 @@ psychology</link></activity>
 </division>
 </examination>
 </work>
-&nbsp;/ <link xlink:type="simple" xlink:href="../919/64919.xml">
-science</link>&nbsp;/ <division wordnetid="108220714" confidence="0.8">
+ / <link xlink:type="simple" xlink:href="../919/64919.xml">
+science</link> / <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <branch wordnetid="108401248" confidence="0.8">
 <link xlink:type="simple" xlink:href="../422/506422.xml">
@@ -1895,7 +1895,7 @@ sociology</link></branch>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#65E499;" class="navbox-title">
-&nbsp;International reports and agreements</header>
+ International reports and agreements</header>
 </row>
 <row style="height:2px;">
 
@@ -1913,7 +1913,7 @@ UN Conference on the Human Environment (Stockholm 1972)</link></conference>
 </gathering>
 </meeting>
 </social_group>
-&nbsp;·  <state wordnetid="108168978" confidence="0.8">
+ ·  <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../149/579149.xml">
 Brundtlandt Commission Report, 1983</link></political_unit>
@@ -1931,7 +1931,7 @@ Brundtlandt Commission Report, 1983</link></political_unit>
 </creation>
 </product>
 </work>
-)&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+) ·  <social_group wordnetid="107950920" confidence="0.8">
 <meeting wordnetid="108307589" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <convention wordnetid="108309086" confidence="0.8">
@@ -1944,12 +1944,12 @@ Earth Summit (1992)</link></conference>
 </gathering>
 </meeting>
 </social_group>
-&nbsp;·  <state wordnetid="108168978" confidence="0.8">
+ ·  <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../164/166164.xml">
 Agenda 21 (1992)</link></political_unit>
 </state>
-&nbsp;·  <agreement wordnetid="106770275" confidence="0.8">
+ ·  <agreement wordnetid="106770275" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <convention wordnetid="108309086" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
@@ -1978,9 +1978,9 @@ Convention on Biological Diversity (1992)</link></written_agreement>
 </convention>
 </written_communication>
 </agreement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../906/977906.xml">
-ICPD Programme of Action (1994)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../126/1632126.xml">
-Millennium Declaration (2000)</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../906/977906.xml">
+ICPD Programme of Action (1994)</link> ·  <link xlink:type="simple" xlink:href="../126/1632126.xml">
+Millennium Declaration (2000)</link> ·  <work wordnetid="100575741" confidence="0.8">
 <scientific_research wordnetid="100641820" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <experiment wordnetid="100639556" confidence="0.8">
@@ -2012,7 +2012,7 @@ Millennium Ecosystem Assessment (2005)</link></activity>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#65E499;" class="navbox-title">
-&nbsp;Lists and glossaries</header>
+ Lists and glossaries</header>
 </row>
 <row style="height:2px">
 
@@ -2022,17 +2022,17 @@ Millennium Ecosystem Assessment (2005)</link></activity>
 Lists</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../655/3964655.xml">
-Association of Environmental Professionals</link>&nbsp;·  <link xlink:type="simple" xlink:href="../713/17321713.xml">
-Climate change topics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../357/14580357.xml">
-Conservation issues</link>&nbsp;/ <link xlink:type="simple" xlink:href="../944/103944.xml">
-topics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../486/9486.xml">
-Environmental agreements</link>&nbsp;/ <link xlink:type="simple" xlink:href="../347/154347.xml">
-health hazards</link>&nbsp;/ <link xlink:type="simple" xlink:href="../844/89844.xml">
-issues</link>&nbsp;/ <link xlink:type="simple" xlink:href="../078/376078.xml">
-organisations</link>&nbsp;/ <link xlink:type="simple" xlink:href="../166/8165166.xml">
+Association of Environmental Professionals</link> ·  <link xlink:type="simple" xlink:href="../713/17321713.xml">
+Climate change topics</link> ·  <link xlink:type="simple" xlink:href="../357/14580357.xml">
+Conservation issues</link> / <link xlink:type="simple" xlink:href="../944/103944.xml">
+topics</link> ·  <link xlink:type="simple" xlink:href="../486/9486.xml">
+Environmental agreements</link> / <link xlink:type="simple" xlink:href="../347/154347.xml">
+health hazards</link> / <link xlink:type="simple" xlink:href="../844/89844.xml">
+issues</link> / <link xlink:type="simple" xlink:href="../078/376078.xml">
+organisations</link> / <link xlink:type="simple" xlink:href="../166/8165166.xml">
 topics</link> (<link xlink:type="simple" xlink:href="../697/2306697.xml">
-sound topics</link>&nbsp;/ <link xlink:type="simple" xlink:href="../073/2006073.xml">
-studies topics</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../117/17997117.xml">
+sound topics</link> / <link xlink:type="simple" xlink:href="../073/2006073.xml">
+studies topics</link>) ·  <link xlink:type="simple" xlink:href="../117/17997117.xml">
 Global sustainability statistics</link></col>
 </row>
 <row style="height:2px">
@@ -2061,7 +2061,7 @@ Climate change</link></publication>
 </creation>
 </product>
 </work>
-&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ ·  <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <glossary wordnetid="106420781" confidence="0.8">
@@ -2092,7 +2092,7 @@ Environmental science</link></publication>
 <col colspan="2" style=";background:#65E499; font-weight:bold;" class="navbox-abovebelow">
 
 Sustainability|Category
-&nbsp;·  
+ ·  
 Portal</col>
 </row>
 </table>

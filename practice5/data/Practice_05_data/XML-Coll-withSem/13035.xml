@@ -36,7 +36,7 @@ Carl Friedrich Gauss</link></scientist>
 <link xlink:type="simple" xlink:href="../031/5897031.xml">
 Elementary row operations</link> are used to reduce a matrix to <link xlink:type="simple" xlink:href="../215/330215.xml">
 row echelon form</link>. An extension of this algorithm, <link>
-Gauss&ndash;Jordan elimination</link>, reduces the matrix further to <link>
+Gauss–Jordan elimination</link>, reduces the matrix further to <link>
 reduced row echelon form</link>. Gaussian elimination alone is sufficient for many applications. </p>
 
 <sec>
@@ -422,7 +422,7 @@ Katz, |18.1.2</entry>
 Atkinson (1989), p. 514</entry>
 <entry id="4">
  <cite id="Reference-Farebrother-1988" style="font-style:normal" class="book">Farebrother, R.W.&#32;(1988). Linear Least Squares Computations, STATISTICS: Textbooks and Monographs.&#32;<link xlink:type="simple" xlink:href="../893/7871893.xml">
-Marcel Dekker</link> Inc.,&#32;12. ISBN 0824776615.</cite>&nbsp;</entry>
+Marcel Dekker</link> Inc.,&#32;12. ISBN 0824776615.</cite> </entry>
 <entry id="5">
 Golub and Van Loan, |3.4.6</entry>
 </reflist>
@@ -441,14 +441,14 @@ Golub and Van Loan, |3.4.6</entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFCalinger1999" style="font-style:normal">Calinger, Ronald&#32;(1999),&#32;<it>A Contextual History of Mathematics</it>, <link xlink:type="simple" xlink:href="../050/5421050.xml">
-Prentice Hall</link>, ISBN 978-0-02-318285-3</cite>&nbsp;.</entry>
+Prentice Hall</link>, ISBN 978-0-02-318285-3</cite> .</entry>
 <entry level="1" type="bullet">
 
  Golub, Gene H., and Van Loan, Charles F. <it>Matrix computations</it>, 3rd edition, Johns Hopkins, Baltimore, 1996. ISBN 0-8018-5414-8.</entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFKatz2004" style="font-style:normal">Katz, Victor J.&#32;(2004),&#32;<it>A History of Mathematics, Brief Version</it>, <link xlink:type="simple" xlink:href="../080/1180080.xml">
-Addison-Wesley</link>, ISBN 978-0-321-16193-2</cite>&nbsp;.</entry>
+Addison-Wesley</link>, ISBN 978-0-321-16193-2</cite> .</entry>
 <entry level="1" type="bullet">
 
  Lipschutz, Seymour, and Lipson, Mark. <it>Schaum's Outlines: Linear Algebra</it>. Tata McGraw-hill edition.Delhi 2001. pp. 69-80.</entry>

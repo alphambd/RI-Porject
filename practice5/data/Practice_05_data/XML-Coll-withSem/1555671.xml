@@ -80,7 +80,7 @@ Banking</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <series wordnetid="108457976" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <merchant wordnetid="110309896" confidence="0.8">
@@ -111,7 +111,7 @@ Food ordering</link></supplier>
 </physical_entity>
 
 <link xlink:type="simple" xlink:href="../009/3451009.xml">
-Flower delivery</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Flower delivery</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <visual_communication wordnetid="106873252" confidence="0.8">
@@ -152,7 +152,7 @@ Trading communities</link></activity>
 </auction>
 
 <link xlink:type="simple" xlink:href="../359/297359.xml">
-Auctions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../335/5758335.xml">
+Auctions</link> ·  <link xlink:type="simple" xlink:href="../335/5758335.xml">
 Online wallet</link>
 <link xlink:type="simple" xlink:href="../671/1555671.xml">
 Advertising</link>

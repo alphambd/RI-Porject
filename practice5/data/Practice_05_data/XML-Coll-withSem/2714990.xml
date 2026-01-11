@@ -262,7 +262,7 @@ Netscape Navigator</link></software>
 <p>
 
 Truly random numbers are absolutely required to be assured of the theoretical security provided by the <link xlink:type="simple" xlink:href="../210/22210.xml">
-one-time pad</link> &mdash; the only provably unbreakable <link xlink:type="simple" xlink:href="../294/10294.xml">
+one-time pad</link> — the only provably unbreakable <link xlink:type="simple" xlink:href="../294/10294.xml">
 encryption</link> algorithm. Furthermore, those random sequences cannot be reused and must never become available to any attacker, which implies a continuously operable generator. See <link xlink:type="simple" xlink:href="../620/173620.xml">
 Venona</link> for an example of what happens when these requirements are violated when using a one-time pad. </p>
 <p>
@@ -281,7 +281,7 @@ e</link>.  Put another way, in cryptography, random bit streams need to be not o
 <p>
 
 Since most cryptographic applications require a few thousand <link xlink:type="simple" xlink:href="../364/3364.xml">
-bit</link>s at most, slow random number generators serve well&mdash;if they are actually random.  This use of random generators is important; many informed observers believe every computer should have a way to generate true random numbers.</p>
+bit</link>s at most, slow random number generators serve well—if they are actually random.  This use of random generators is important; many informed observers believe every computer should have a way to generate true random numbers.</p>
 
 </sec>
 <sec>

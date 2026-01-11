@@ -373,31 +373,31 @@ Government</col>
 <link xlink:type="simple" xlink:href="../883/3441883.xml">
 City Council</link></council>
 </administrative_unit>
-&nbsp;· <district wordnetid="108552138" confidence="0.9508927676800064">
+ · <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../538/1779538.xml">
 Federal electoral district</link></district>
-&nbsp;· <control wordnetid="105196375" confidence="0.8">
+ · <control wordnetid="105196375" confidence="0.8">
 <authority wordnetid="105196582" confidence="0.8">
 <power wordnetid="105190804" confidence="0.8">
 <link xlink:type="simple" xlink:href="../659/6854659.xml">
 Grand River Conservation Authority</link></power>
 </authority>
 </control>
-&nbsp;· <administrative_unit wordnetid="108077292" confidence="0.8">
+ · <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../824/10866824.xml">
 Police Service</link></agency>
 </law_enforcement_agency>
 </administrative_unit>
-&nbsp;· <district wordnetid="108552138" confidence="0.9508927676800064">
+ · <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../559/12094559.xml">
 Provincial electoral district</link></district>
-&nbsp;· <link>
-Public Library</link>&nbsp;· <theodolite wordnetid="104419073" confidence="0.9508927676800064">
+ · <link>
+Public Library</link> · <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../134/1893134.xml">
 Transit</link></theodolite>
-&nbsp;· <village wordnetid="108672738" confidence="0.9508927676800064">
+ · <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../002/375002.xml">
 Wellington County</link></village>
 </col>
@@ -426,21 +426,21 @@ City Hall</link></geographical_area>
 </structure>
 </region>
 </site>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <district wordnetid="108552138" confidence="0.8">
 <link xlink:type="simple" xlink:href="../923/11965923.xml">
 Downtown</link></district>
 </location>
 </region>
-&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../860/12077860.xml">
 McCrae House</link></artifact>
 </building>
 </structure>
-&nbsp;· <environment wordnetid="113934596" confidence="0.8">
+ · <environment wordnetid="113934596" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <sphere wordnetid="114514039" confidence="0.8">
 <situation wordnetid="113927383" confidence="0.8">
@@ -449,8 +449,8 @@ Memorial Gardens</link></situation>
 </sphere>
 </state>
 </environment>
-&nbsp;· <link xlink:type="simple" xlink:href="../011/12075011.xml">
-Church of Our Lady Immaculate</link>&nbsp;· <environment wordnetid="113934596" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../011/12075011.xml">
+Church of Our Lady Immaculate</link> · <environment wordnetid="113934596" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <sphere wordnetid="114514039" confidence="0.8">
 <situation wordnetid="113927383" confidence="0.8">
@@ -459,10 +459,10 @@ Sleeman Centre</link></situation>
 </sphere>
 </state>
 </environment>
-&nbsp;· <plaza wordnetid="103965456" confidence="0.9508927676800064">
+ · <plaza wordnetid="103965456" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../499/12650499.xml">
 Stone Road Mall</link></plaza>
-&nbsp;· <university wordnetid="108286163" confidence="0.9508927676800064">
+ · <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../362/9181362.xml">
 University of Guelph</link></university>
 </col>
@@ -477,11 +477,11 @@ Transportation</col>
 <railing wordnetid="104047401" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../017/16064017.xml">
 Bus Terminal</link></railing>
-&nbsp;· <railing wordnetid="104047401" confidence="0.9508927676800064">
+ · <railing wordnetid="104047401" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../943/2207943.xml">
 Goderich-Exeter Railway</link></railing>
-&nbsp;· <link xlink:type="simple" xlink:href="../349/11874349.xml">
-Guelph Junction Railway</link>&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../349/11874349.xml">
+Guelph Junction Railway</link> · <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
@@ -512,15 +512,15 @@ Nature</col>
 Arboretum</link></arboretum>
 </facility>
 </artifact>
-&nbsp;· <link xlink:type="simple" xlink:href="../190/10325190.xml">
-Arkell Spring Grounds</link>&nbsp;· <stream wordnetid="109448361" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../190/10325190.xml">
+Arkell Spring Grounds</link> · <stream wordnetid="109448361" confidence="0.8">
 <body_of_water wordnetid="109225146" confidence="0.8">
 <river wordnetid="109411430" confidence="0.8">
 <link xlink:type="simple" xlink:href="../698/1550698.xml">
 Eramosa River</link></river>
 </body_of_water>
 </stream>
-&nbsp;· <river wordnetid="109411430" confidence="0.9508927676800064">
+ · <river wordnetid="109411430" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../751/1550751.xml">
 Speed River</link></river>
 </col>

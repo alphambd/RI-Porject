@@ -173,11 +173,11 @@ References</st>
 <reflist>
 <entry id="1">
 M. I. Shamos and D. Hoey. "Closest-point problems." In <it>Proc. 16th <link>
-Annual IEEE Symposium on Foundations of Computer Science</link></it> (FOCS), pp. 151&mdash;162, 1975</entry>
+Annual IEEE Symposium on Foundations of Computer Science</link></it> (FOCS), pp. 151—162, 1975</entry>
 <entry id="2">
-S. Fortune and J.E. Hopcroft. "A note on Rabin's nearest-neighbor algorithm." Information Processing Letters, 8(1), pp. 20&mdash;23, 1979</entry>
+S. Fortune and J.E. Hopcroft. "A note on Rabin's nearest-neighbor algorithm." Information Processing Letters, 8(1), pp. 20—23, 1979</entry>
 <entry id="3">
-S. Khuller and Y. Matias. A simple randomized sieve algorithm for the closest-pair problem. Inf. Comput., 118(1):34&mdash;37,1995</entry>
+S. Khuller and Y. Matias. A simple randomized sieve algorithm for the closest-pair problem. Inf. Comput., 118(1):34—37,1995</entry>
 <entry id="4">
 Mordecai Golin, Rajeev Raman, Christian Schwarz, Michiel Smid, "Randomized Data Structures For The Dynamic Closest-Pair Problem", <link>
 SIAM J. Comput.</link>, vo. 26, no. 4, 1998, preliminary version reported at the 4th Annu. ACM-SIAM Symp. on Discrete Algorithms, pp. 301-310 (1993)</entry>
@@ -209,10 +209,10 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Pages 957&ndash;961 of section 33.4: Finding the closest pair of points.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Pages 957–961 of section 33.4: Finding the closest pair of points.</entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Jon Kleinberg; Éva Tardos&#32;(2006). Algorithm Design.&#32;Addison Wesley.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Jon Kleinberg; Éva Tardos&#32;(2006). Algorithm Design.&#32;Addison Wesley.</cite> </entry>
 </list>
 </p>
 

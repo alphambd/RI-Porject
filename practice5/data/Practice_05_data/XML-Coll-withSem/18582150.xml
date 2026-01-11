@@ -766,7 +766,7 @@ Footnotes</st>
 2008-07-17</link>.</entry>
 <entry id="3">
 "[https://wiki.torproject.org/noreply/TheOnionRouter/TorFAQ?action=recall&amp;rev=554#EntryGuards TheOnionRouter/TorFAQ]".&#32;Retrieved on <link>
-2007-09-18</link>.&nbsp;"Tor (like all current practical low-latency anonymity designs) fails when the attacker can see both ends of the communications channel"</entry>
+2007-09-18</link>. "Tor (like all current practical low-latency anonymity designs) fails when the attacker can see both ends of the communications channel"</entry>
 <entry id="4">
 "<weblink xlink:type="simple" xlink:href="http://www.torproject.org/docs/tor-hidden-service">
 Tor: Hidden Service Configuration Instructions</weblink>"&#32;(2008-02-27).&#32;Retrieved on <link>
@@ -783,7 +783,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109/SP.2006.24">
 10.1109/SP.2006.24</weblink>. ISBN: 0-7695-2574-1. Retrieved on <link>
-2008-06-08</link>.</cite>&nbsp;</entry>
+2008-06-08</link>.</cite> </entry>
 <entry id="6">
 "<weblink xlink:type="simple" xlink:href="http://www.torproject.org/docs/tor-hidden-service">
 Tor: Hidden Service Configuration Instructions</weblink>"&#32;(2008-02-27).&#32;Retrieved on <link>
@@ -822,7 +822,7 @@ TOR anonymizing proxy servers seized during German child porn investigation</web
 Ed Oswald,.&#32;"<weblink xlink:type="simple" xlink:href="http://www.betanews.com/article/Tor_Servers_Target_of_Porn_Crackdown/1157998945">
 Tor Servers Target of Porn Crackdown</weblink>".&#32;  BetaNews.</entry>
 <entry id="16">
- <cite id="Reference-Jones-2005" style="font-style:normal" class="book">Jones, Robert&#32;(2005). Internet forensics.&#32;O'Reilly,&#32;P133. ISBN 059610006X.</cite>&nbsp;</entry>
+ <cite id="Reference-Jones-2005" style="font-style:normal" class="book">Jones, Robert&#32;(2005). Internet forensics.&#32;O'Reilly,&#32;P133. ISBN 059610006X.</cite> </entry>
 <entry id="19">
 "[https://www.torproject.org/people Tor: People]"&#32;(2008-07-17).&#32;Retrieved on <link>
 2008-07-17</link>.</entry>
@@ -856,16 +856,16 @@ Anonymity Bibliography</weblink> Retrieved: <link xlink:type="simple" xlink:href
   <cite style="font-style:normal" class="book"><person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../732/36732.xml">
 Schneier, Bruce</link></person>
-. Applied Cryptography. ISBN 0-471-11709-9.</cite>&nbsp;</entry>
+. Applied Cryptography. ISBN 0-471-11709-9.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../732/36732.xml">
 Schneier, Bruce</link></person>
-. Email Security. ISBN 0-471-05318-X.</cite>&nbsp;</entry>
+. Email Security. ISBN 0-471-05318-X.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Bacard, Andre. Computer Privacy Handbook. ISBN 1-56609-171-3.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Bacard, Andre. Computer Privacy Handbook. ISBN 1-56609-171-3.</cite> </entry>
 </list>
 </p>
 
@@ -1026,7 +1026,7 @@ Attacks Prompt Update for 'Tor' Anonymity Network</weblink> <link>
 
  "<weblink xlink:type="simple" xlink:href="http://www.smh.com.au/news/security/the-hack-of-the-year/2007/11/12/1194766589522.html?page=fullpage#contentSwap1">
 The Hack of the Year</weblink>", <it>The Syndey Morning Herald</it>&#32;(2007-11-13).&#32;Retrieved on <link>
-2007-11-16</link>.&nbsp;</entry>
+2007-11-16</link>. </entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.secuser.com/alertes/2007/storm-worm-zhelatinir.htm">

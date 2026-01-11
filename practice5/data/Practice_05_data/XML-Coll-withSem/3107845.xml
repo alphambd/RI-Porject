@@ -86,7 +86,7 @@ Victor Klee</link></associate>
 intervals</link> in the <link xlink:type="simple" xlink:href="../580/52580.xml">
 real line</link>, compute the length of their union.  He then presented an <link xlink:type="simple" xlink:href="../775/775.xml">
 algorithm</link> to solve this problem with <link xlink:type="simple" xlink:href="../543/7543.xml">
-computational complexity</link> (or "running time") <math>O(n \log n)</math> &mdash; see <link xlink:type="simple" xlink:href="../578/44578.xml">
+computational complexity</link> (or "running time") <math>O(n \log n)</math> — see <link xlink:type="simple" xlink:href="../578/44578.xml">
 Big O notation</link> for the meaning of this statement. This algorithm, based on sorting the intervals, was later shown by Michael Fredman and Bruce Weide (1978) to be optimal.</p>
 <p>
 
@@ -135,7 +135,7 @@ Current status</st>
 <p>
 
 The only known <link xlink:type="simple" xlink:href="../693/42693.xml">
-lower bound</link> for any <it>d</it> is <math>\Omega(n \log n)</math>.  The Overmars&ndash;Yap algorithm provides an upper bound of <math>O(n^{d/2} \log n)</math>, so for <it>d</it> ≥ 3, it remains an open question whether faster algorithms are possible, or alternatively whether tighter lower bounds can be proven.  In particular, it remains open whether the algorithm's running time must depend on <it>d</it>.  In addition, the question of whether there are faster algorithms that can deal with special cases (for example, when there is a bound on the scale of the ranges) remains open.</p>
+lower bound</link> for any <it>d</it> is <math>\Omega(n \log n)</math>.  The Overmars–Yap algorithm provides an upper bound of <math>O(n^{d/2} \log n)</math>, so for <it>d</it> ≥ 3, it remains an open question whether faster algorithms are possible, or alternatively whether tighter lower bounds can be proven.  In particular, it remains open whether the algorithm's running time must depend on <it>d</it>.  In addition, the question of whether there are faster algorithms that can deal with special cases (for example, when there is a bound on the scale of the ranges) remains open.</p>
 
 </sec>
 <sec>

@@ -91,13 +91,13 @@ First Game**</header>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../942/1329942.xml">
 Canada</link></team>
  8 - 0 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
+ <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
 <caption>
 
 border 
@@ -143,11 +143,11 @@ Largest win**</header>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  30 - 1 <link>
-South Korea</link>&nbsp;<image width="22x20px" src="Flag_of_South_Korea.svg">
+South Korea</link> <image width="22x20px" src="Flag_of_South_Korea.svg">
 <caption>
 
 border 
@@ -171,13 +171,13 @@ Largest defeat**</header>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/1690430.xml">
 United States</link></team>
  14 - 3 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
+ <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
 <caption>
 
 border 
@@ -875,7 +875,7 @@ Finland</link></country>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../942/1329942.xml">
 Canada</link></team>
  8-0 <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
@@ -884,7 +884,7 @@ Canada</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
 </entry>
@@ -903,7 +903,7 @@ Japan</link>. <image width="22x20px" src="Flag_of_the_People's_Republic_of_China
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  30-1 <image width="22x20px" src="Flag_of_South_Korea.svg">
@@ -912,7 +912,7 @@ China</link></team>
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 South Korea</link></entry>
 <entry level="1" type="definition">
 
@@ -972,7 +972,7 @@ United States</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/1690430.xml">
 United States</link></team>
  13-0 <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
@@ -981,7 +981,7 @@ United States</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
 </entry>
@@ -1000,7 +1000,7 @@ Japan</link>. <image width="22x20px" src="Flag_of_the_People's_Republic_of_China
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  30-1 <image width="22x20px" src="Flag_of_South_Korea.svg">
@@ -1009,7 +1009,7 @@ China</link></team>
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 South Korea</link></entry>
 <entry level="1" type="definition">
 
@@ -1061,7 +1061,7 @@ United States</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/1690430.xml">
 United States</link></team>
  14-3 <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
@@ -1070,7 +1070,7 @@ United States</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
 </entry>
@@ -1108,7 +1108,7 @@ United States</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  5-0 <image width="22x20px" src="Flag_of_Japan.svg">
@@ -1117,7 +1117,7 @@ China</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../913/15958913.xml">
 Japan</link></team>
 </entry>
@@ -1158,7 +1158,7 @@ Finland</link></country>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../942/1329942.xml">
 Canada</link></team>
  8-0 <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
@@ -1167,7 +1167,7 @@ Canada</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
 </entry>
@@ -1202,7 +1202,7 @@ United States</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  0-0 <image width="22x20px" src="Flag_of_Germany.svg">
@@ -1211,7 +1211,7 @@ China</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../957/1703957.xml">
 Germany</link></team>
 </entry>
@@ -1252,7 +1252,7 @@ Finland</link></country>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  5-2 <image width="22x20px" src="Flag_of_Denmark.svg">
@@ -1261,7 +1261,7 @@ China</link></team>
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Denmark</link></entry>
 <entry level="1" type="definition">
 
@@ -1300,7 +1300,7 @@ Finland</link></country>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../942/1329942.xml">
 Canada</link></team>
  8-0 <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg">
@@ -1309,7 +1309,7 @@ Canada</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
 </entry>
@@ -1346,7 +1346,7 @@ United States</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  4-4 <image width="22x20px" src="Flag_of_Sweden.svg">
@@ -1355,7 +1355,7 @@ China</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../384/1697384.xml">
 Sweden</link></team>
 </entry>
@@ -1396,7 +1396,7 @@ United States</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  5-5 <image width="22x20px" src="Flag_of_Germany.svg">
@@ -1405,7 +1405,7 @@ China</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../957/1703957.xml">
 Germany</link></team>
 </entry>
@@ -1440,7 +1440,7 @@ United States</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
  0-0 <image width="22x20px" src="Flag_of_Germany.svg">
@@ -1449,7 +1449,7 @@ China</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../957/1703957.xml">
 Germany</link></team>
 </entry>
@@ -1550,7 +1550,7 @@ See also</st>
 <organization wordnetid="108008335" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../449/16760449.xml">
 International Ice Hockey Federation</link></organization>
-&nbsp;(IIHF)</header>
+ (IIHF)</header>
 </row>
 <row style="height:2px;">
 
@@ -1573,7 +1573,7 @@ Men's</link></championship>
 </social_event>
 </event>
 </tournament>
-&nbsp;·  <tournament wordnetid="107464725" confidence="0.8">
+ ·  <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1584,7 +1584,7 @@ Junior men's</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;·  <tournament wordnetid="107464725" confidence="0.8">
+ ·  <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1595,7 +1595,7 @@ U18 men's</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;·  <tournament wordnetid="107464725" confidence="0.8">
+ ·  <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1608,7 +1608,7 @@ Women's</link></championship>
 </social_event>
 </event>
 </tournament>
-&nbsp;·  <tournament wordnetid="107464725" confidence="0.8">
+ ·  <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1641,7 +1641,7 @@ Olympic Games</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;·  <tournament wordnetid="107464725" confidence="0.8">
+ ·  <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1652,7 +1652,7 @@ Olympic Games</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;·  <tournament wordnetid="107464725" confidence="0.8">
+ ·  <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1663,7 +1663,7 @@ Victoria Cup</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;·  <tournament wordnetid="107464725" confidence="0.8">
+ ·  <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1674,7 +1674,7 @@ European Men's Champions Cup</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;·  <link>
+ ·  <link>
 European Women's Champions Cup</link></col>
 </row>
 <row style="height:2px">
@@ -1685,8 +1685,8 @@ European Women's Champions Cup</link></col>
 Articles</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <b><link xlink:type="simple" xlink:href="../885/723885.xml">
-List of IIHF member associations</link></b>&nbsp;·  <link xlink:type="simple" xlink:href="../017/17495017.xml">
-IIHF World Ranking</link>s&nbsp;·  <passageway wordnetid="103895585" confidence="0.8">
+List of IIHF member associations</link></b> ·  <link xlink:type="simple" xlink:href="../017/17495017.xml">
+IIHF World Ranking</link>s ·  <passageway wordnetid="103895585" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <passage wordnetid="103895293" confidence="0.8">
 <corridor wordnetid="103112099" confidence="0.8">
@@ -1699,7 +1699,7 @@ IIHF Hall of Fame</link></hallway>
 </passage>
 </artifact>
 </passageway>
-&nbsp;·  <passageway wordnetid="103895585" confidence="0.8">
+ ·  <passageway wordnetid="103895585" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <passage wordnetid="103895293" confidence="0.8">
@@ -1718,7 +1718,7 @@ International Hockey Hall of Fame</link></hallway>
 </facility>
 </artifact>
 </passageway>
-&nbsp;·  <trophy wordnetid="106709442" confidence="0.8">
+ ·  <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
@@ -1741,247 +1741,247 @@ Men'steams</col>
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../329/14933329.xml">
 Andorra</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../340/14933340.xml">
 Argentina</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../490/5345490.xml">
 Armenia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../860/4636860.xml">
 Australia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../130/1818130.xml">
 Austria</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../353/14933353.xml">
 Azerbaijan</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../327/1823327.xml">
 Belarus</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../628/3453628.xml">
 Belgium</link></team>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../310/14933310.xml">
-Bosnia and Herzegovina</link>&nbsp;· 
+Bosnia and Herzegovina</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../363/14933363.xml">
 Brazil</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../687/3987687.xml">
 Bulgaria</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../439/744439.xml">
 Canada</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../203/12338203.xml">
 China</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../414/5359414.xml">
 Chinese Taipei</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../552/8255552.xml">
 Croatia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../898/949898.xml">
 Czech Republic</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../716/1833716.xml">
 Denmark</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../543/10653543.xml">
 Estonia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../383/950383.xml">
 Finland</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../677/3453677.xml">
 France</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../624/952624.xml">
 Germany</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../418/3034418.xml">
 Great Britain</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../448/13661448.xml">
 Greece</link></team>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../393/14933393.xml">
-Hong Kong, China</link>&nbsp;· 
+Hong Kong, China</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../488/5201488.xml">
 Hungary</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../943/9489943.xml">
 Iceland</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../401/14933401.xml">
 India</link></team>
-&nbsp;· 
+ · 
 <link>
-Ireland</link>&nbsp;· 
+Ireland</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../531/8860531.xml">
 Israel</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../039/3757039.xml">
 Italy</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../386/12528386.xml">
 Japan</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../620/1875620.xml">
 Kazakhstan</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../465/7092465.xml">
 Korea (North)</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../519/12528519.xml">
 Korea (South)</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../507/945507.xml">
 Latvia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../433/14933433.xml">
 Liechtenstein</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../229/7795229.xml">
 Lithuania</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../671/7059671.xml">
 Luxembourg</link></team>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../438/14933438.xml">
-Macau, China</link>&nbsp;· 
+Macau, China</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../410/14933410.xml">
 Republic of Macedonia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../897/15619897.xml">
 Malaysia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../533/12528533.xml">
 Mexico</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../779/12472779.xml">
 Mongolia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../890/15619890.xml">
 Namibia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../441/12528441.xml">
 Netherlands</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../556/12528556.xml">
 New Zealand</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../936/5080936.xml">
 Norway</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../003/4287003.xml">
 Poland</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../845/15619845.xml">
 Portugal</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../460/12528460.xml">
 Romania</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../313/950313.xml">
 Russia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../493/12528493.xml">
 Serbia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../403/17912403.xml">
 Singapore</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../992/944992.xml">
 Slovakia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../378/1873378.xml">
 Slovenia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../903/7803903.xml">
 South Africa</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../348/12496348.xml">
 Spain</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../522/747522.xml">
 Sweden</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../447/1817447.xml">
 Switzerland</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../476/14933476.xml">
 Thailand</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../126/2542126.xml">
 Turkey</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../194/1822194.xml">
 Ukraine</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../428/14933428.xml">
 United Arab Emirates</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../923/945923.xml">
 United States</link></team>
@@ -1998,105 +1998,105 @@ Women'steams</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link>
-Australia</link>&nbsp;· 
+Australia</link> · 
 <link>
-Austria</link>&nbsp;· 
+Austria</link> · 
 <link>
-Belgium</link>&nbsp;· 
+Belgium</link> · 
 <link>
-Bulgaria</link>&nbsp;· 
+Bulgaria</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../942/1329942.xml">
 Canada</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/1712398.xml">
 China</link></team>
-&nbsp;· 
+ · 
 <link>
-Croatia</link>&nbsp;· 
+Croatia</link> · 
 <link>
-Czech Republic</link>&nbsp;· 
+Czech Republic</link> · 
 <link>
-Denmark</link>&nbsp;· 
+Denmark</link> · 
 <link>
-Estonia</link>&nbsp;· 
+Estonia</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../934/1688934.xml">
 Finland</link></team>
-&nbsp;· 
+ · 
 <link>
-France</link>&nbsp;· 
+France</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../957/1703957.xml">
 Germany</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../379/4414379.xml">
 Great Britain</link></team>
-&nbsp;· 
+ · 
 <link>
-Hungary</link>&nbsp;· 
+Hungary</link> · 
 <link>
-Iceland</link>&nbsp;· 
+Iceland</link> · 
 <link>
-Ireland</link>&nbsp;· 
+Ireland</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../048/4379048.xml">
 Italy</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../913/15958913.xml">
 Japan</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../993/1715993.xml">
 Kazakhstan</link></team>
-&nbsp;· 
+ · 
 <link>
-Korea (North)</link>&nbsp;· 
+Korea (North)</link> · 
 <link>
-Korea (South)</link>&nbsp;· 
+Korea (South)</link> · 
 <link>
-Latvia</link>&nbsp;· 
+Latvia</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../907/17462907.xml">
 Netherlands</link></team>
-&nbsp;· 
+ · 
 <link>
-New Zealand</link>&nbsp;· 
+New Zealand</link> · 
 <link>
-Norway</link>&nbsp;· 
+Norway</link> · 
 <link>
-Poland</link>&nbsp;· 
+Poland</link> · 
 <link>
-Romania</link>&nbsp;· 
+Romania</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../941/1703941.xml">
 Russia</link></team>
-&nbsp;· 
+ · 
 <link>
-Slovakia</link>&nbsp;· 
+Slovakia</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../731/6072731.xml">
 Slovenia</link></team>
-&nbsp;· 
+ · 
 <link>
-South Africa</link>&nbsp;· 
+South Africa</link> · 
 <link>
-Spain</link>&nbsp;· 
+Spain</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../384/1697384.xml">
 Sweden</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../083/13059083.xml">
 Switzerland</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../144/7439144.xml">
 Turkey</link></team>
-&nbsp;·  
+ ·  
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/1690430.xml">
 United States</link></team>
@@ -2114,24 +2114,24 @@ Former teams</col>
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../172/3042172.xml">
 Bohemia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../972/1893972.xml">
 Czechoslovakia</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../682/4146682.xml">
 Germany (East)</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../515/4145515.xml">
 Germany (West)</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../432/1485432.xml">
 Soviet Union</link></team>
-&nbsp;· <link xlink:type="simple" xlink:href="../336/32336.xml">
-Unified Team</link>&nbsp;· 
+ · <link xlink:type="simple" xlink:href="../336/32336.xml">
+Unified Team</link> · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../598/12528598.xml">
 Yugoslavia</link></team>
@@ -2150,11 +2150,11 @@ applicants</col>
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../539/7782539.xml">
 Algeria</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../453/16196453.xml">
 Kuwait</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../891/16195891.xml">
 Morocco</link></team>
@@ -2167,8 +2167,8 @@ Morocco</link></team>
 <row>
 <col colspan="2" style=";" class="navbox-abovebelow">
 <b>Related categories</b>: 
-Ice hockey by country|Ice hockey by country&nbsp;·  
-Ice hockey players|Ice hockey players&nbsp;·  
+Ice hockey by country|Ice hockey by country ·  
+Ice hockey players|Ice hockey players ·  
 Ice hockey leagues|Ice hockey leagues</col>
 </row>
 </table>
@@ -2196,16 +2196,16 @@ National sports teams of China|National sports teams of China</header>
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../835/2164835.xml">
 A1 Grand Prix</link></team>
-&nbsp;·  <team wordnetid="108208560" confidence="0.9508927676800064">
+ ·  <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../966/4318966.xml">
 Baseball</link></team>
-&nbsp;·  Basketball (<team wordnetid="108208560" confidence="0.9508927676800064">
+ ·  Basketball (<team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../635/6592635.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../096/16676096.xml">
 W</link></team>
-)&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+) ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <boxer wordnetid="109870208" confidence="0.8">
 <combatant wordnetid="109939313" confidence="0.8">
@@ -2216,19 +2216,19 @@ Amateur Boxing</link></causal_agent>
 </boxer>
 </person>
 </physical_entity>
-&nbsp;·  Cricket (<team wordnetid="108208560" confidence="0.9508927676800064">
+ ·  Cricket (<team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../658/6737658.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../494/7076494.xml">
 W</link></team>
-)&nbsp;·  Field hockey (<team wordnetid="108208560" confidence="0.9508927676800064">
+) ·  Field hockey (<team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../864/18533864.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../983/18533983.xml">
 W</link></team>
-)&nbsp;·  Football (<team wordnetid="108208560" confidence="0.9508927676800064">
+) ·  Football (<team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../850/887850.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.9508927676800064">
@@ -2243,13 +2243,13 @@ W</link></team>
 W-U20</link>, <link xlink:type="simple" xlink:href="../513/19674513.xml">
 W-U17</link>, <link xlink:type="simple" xlink:href="../451/19546451.xml">
 Futsal</link>, <link xlink:type="simple" xlink:href="../140/19693140.xml">
-Beach</link>)&nbsp;·  Handball (<team wordnetid="108208560" confidence="0.8">
+Beach</link>) ·  Handball (<team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../914/17139914.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../519/14692519.xml">
 W</link></team>
-)&nbsp;·  Ice hockey (<team wordnetid="108208560" confidence="0.8">
+) ·  Ice hockey (<team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../203/12338203.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.8">
@@ -2258,31 +2258,31 @@ W</link></team>
 ) <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../261/14366261.xml">
 Korfball</link></team>
-&nbsp;·  <qi wordnetid="114050559" confidence="0.9508927676800064">
+ ·  <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../323/8341323.xml">
 Olympics</link></qi>
-&nbsp;·  Rugby Union (<team wordnetid="108208560" confidence="0.8">
+ ·  Rugby Union (<team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../609/8081609.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../331/13327331.xml">
 W</link></team>
-)&nbsp;·  <team wordnetid="108208560" confidence="0.8">
+) ·  <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../365/8033365.xml">
 Softball</link></team>
-&nbsp;·  Tennis (<team wordnetid="108208560" confidence="0.8">
+ ·  Tennis (<team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../194/10023194.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../136/11233136.xml">
 W</link></team>
-)&nbsp;·  Volleyball (<team wordnetid="108208560" confidence="0.9508927676800064">
+) ·  Volleyball (<team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../424/15934424.xml">
 M</link></team>
 , <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../334/15934334.xml">
 W</link></team>
-)&nbsp;·  Water polo (<link xlink:type="simple" xlink:href="../327/18612327.xml">
+) ·  Water polo (<link xlink:type="simple" xlink:href="../327/18612327.xml">
 M</link>, <link xlink:type="simple" xlink:href="../318/18612318.xml">
 W</link>)</col>
 </row>

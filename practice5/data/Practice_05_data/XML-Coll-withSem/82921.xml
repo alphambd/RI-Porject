@@ -267,7 +267,7 @@ Optical disc</col>
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/346185.xml">
 ISO</link></format>
- &nbsp;&amp;bull;  <message wordnetid="106598915" confidence="0.8">
+  &amp;bull;  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <representation wordnetid="105926676" confidence="0.8">
 <image wordnetid="105928118" confidence="0.8">
@@ -278,7 +278,7 @@ NRG</link></format>
 </representation>
 </information>
 </message>
- &nbsp;&amp;bull;  <message wordnetid="106598915" confidence="0.8">
+  &amp;bull;  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../719/2050719.xml">
@@ -295,7 +295,7 @@ MDF</link></format>
 Windows drive imaging</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../080/640080.xml">
-GHO/GHS</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../877/3688877.xml">
+GHO/GHS</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../877/3688877.xml">
 PQI</link></col>
 </row>
 <row style="height:2px">
@@ -318,8 +318,8 @@ Descriptor files
 http://localhost:18088/wiki/index.php/Disk_image#endnote_desc</weblink></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../211/2340211.xml">
-CUE</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../172/12251172.xml">
-MDS</link> &nbsp;&amp;bull;  <message wordnetid="106598915" confidence="0.8">
+CUE</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../172/12251172.xml">
+MDS</link>  &amp;bull;  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../181/3564181.xml">
@@ -334,7 +334,7 @@ CCD</link></format>
 </table>
 
 <cite id="endnote_desc" style="font-style: normal;">
-<b>^</b></cite>&nbsp;Descriptor files are not image files, but they are commonly bundled with image files to describe the image's content and properties.</p>
+<b>^</b></cite> Descriptor files are not image files, but they are commonly bundled with image files to describe the image's content and properties.</p>
 
 
 </sec>

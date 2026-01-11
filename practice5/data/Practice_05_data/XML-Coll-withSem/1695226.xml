@@ -91,11 +91,11 @@ Trusted Computer System Evaluation Criteria</link></activity>
 </event>
  concept of <link xlink:type="simple" xlink:href="../826/41826.xml">
 Trusted Computing Base</link> minimization. Minimization is a far more stringent requirement that is only applicable to the functionally strongest assurance classes, <it>viz.</it>, B3 and A1 (which are <b>evidentiarily</b> different but <b>functionally</b> identical). Least privilege is often associated with <link xlink:type="simple" xlink:href="../022/1039022.xml">
-privilege bracketing</link>, that is, assuming necessary privileges at the last possible moment and dismissing them as soon as no longer strictly necessary, therefore ostensibly avoiding fallout from erroneous code that unintentionally exploits more privilege than is merited. Least privilege has also&mdash;and arguably incorrectly&mdash;been interpreted in the context of distribution of <link xlink:type="simple" xlink:href="../518/881518.xml">
+privilege bracketing</link>, that is, assuming necessary privileges at the last possible moment and dismissing them as soon as no longer strictly necessary, therefore ostensibly avoiding fallout from erroneous code that unintentionally exploits more privilege than is merited. Least privilege has also—and arguably incorrectly—been interpreted in the context of distribution of <link xlink:type="simple" xlink:href="../518/881518.xml">
 discretionary access control</link> permissions, even to the point of asserting that, <it>e.g.</it>, giving user U read/write access to file F violates least privilege if U can complete his authorized tasks with only read permission.</p>
 <p>
 
-In an archetypal UNIX implementation, processes execute with a potential privilege set and an active privilege set. Such privilege sets are inherited from the parent as determined by the semantics of <it>fork()</it>. An executable file that performs a privileged function&mdash;thereby technically constituting a component of the <event wordnetid="100029378" confidence="0.8">
+In an archetypal UNIX implementation, processes execute with a potential privilege set and an active privilege set. Such privilege sets are inherited from the parent as determined by the semantics of <it>fork()</it>. An executable file that performs a privileged function—thereby technically constituting a component of the <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <procedure wordnetid="101023820" confidence="0.8">
@@ -112,7 +112,7 @@ set group ID</link>. The inheritance of file privileges by a process are determi
 <p>
 
 Historically, the oldest instance of least privilege is probably the source code of <it>login.c</it>, which begins execution with <link xlink:type="simple" xlink:href="../209/264209.xml">
-super-user</link> permissions and&mdash;the instant they are no longer necessary&mdash;dismisses them via <it>setuid()</it> with a non-zero argument.</p>
+super-user</link> permissions and—the instant they are no longer necessary—dismisses them via <it>setuid()</it> with a non-zero argument.</p>
 <p>
 
 <link xlink:type="simple" xlink:href="../671/4359671.xml">
@@ -327,7 +327,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F356678.356680">
-10.1145/356678.356680</weblink>. ISSN 0360-0300.</cite>&nbsp;</entry>
+10.1145/356678.356680</weblink>. ISSN 0360-0300.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Jerry H. Saltzer, Mike D. Schroeder&#32;(September 1975).&#32;"<weblink xlink:type="simple" xlink:href="http://web.mit.edu/Saltzer/www/publications/protection/">
@@ -339,11 +339,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FPROC.1975.9939">
-10.1109/PROC.1975.9939</weblink>.</cite>&nbsp;</entry>
+10.1109/PROC.1975.9939</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Deitel-1984" style="font-style:normal" class="book">Deitel, Harvey M.&#32;[1982]&#32;(1984). <weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=79046&amp;dl=GUIDE&amp;coll=GUIDE">
-An introduction to operating systems</weblink>, revisited first edition,&#32;Addison-Wesley,&#32;673. ISBN 0-201-14502-2.</cite>&nbsp; page 31.</entry>
+An introduction to operating systems</weblink>, revisited first edition,&#32;Addison-Wesley,&#32;673. ISBN 0-201-14502-2.</cite>  page 31.</entry>
 </list>
 </p>
 

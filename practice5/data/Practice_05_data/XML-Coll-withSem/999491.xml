@@ -53,7 +53,7 @@ abstract syntax tree</link> in pre- or postorder</entry>
  For every non-constant leaf node, assign a 1 (i.e. 1 register is needed to hold the variable/field/etc.). For every constant leaf node (RHS of an operation - literals, values), assign a 0.</entry>
 <entry level="2" type="number">
 
- For every non-leaf node <it>n</it>, assign the number of registers needed to evaluate the respective subtrees of <it>n</it>. If the number of registers needed in the left subtree (<it>l</it>) are not equal to the number of registers needed in the right subtree (<it>r</it>), the number of registers needed for the current node <it>n</it> is max(l,&nbsp;r). If <it>l == r</it>, then the number of registers needed for the current node is l&nbsp;+&nbsp;1.</entry>
+ For every non-leaf node <it>n</it>, assign the number of registers needed to evaluate the respective subtrees of <it>n</it>. If the number of registers needed in the left subtree (<it>l</it>) are not equal to the number of registers needed in the right subtree (<it>r</it>), the number of registers needed for the current node <it>n</it> is max(l, r). If <it>l == r</it>, then the number of registers needed for the current node is l + 1.</entry>
 <entry level="1" type="number">
 
  Code emission</entry>

@@ -165,7 +165,7 @@ Image</header>
 <row>
 <col>
  <link>
-RAID&nbsp;0</link></col>
+RAID 0</link></col>
 <col align="left">
  <b><link xlink:type="simple" xlink:href="../567/474567.xml">
 Striped</link> set without <link xlink:type="simple" xlink:href="../467/194467.xml">
@@ -184,7 +184,7 @@ RAID Level 0
 <row>
 <col>
  <link>
-RAID&nbsp;1</link></col>
+RAID 1</link></col>
 <col align="left">
  <b><link xlink:type="simple" xlink:href="../823/3118823.xml">
 Mirrored</link> set without parity.</b>  Provides fault tolerance from disk errors and failure of all but one of the drives.  Increased read performance occurs when using a <link xlink:type="simple" xlink:href="../303/45303.xml">
@@ -203,7 +203,7 @@ RAID Level 1
 <row>
 <col>
  <link>
-RAID&nbsp;2</link></col>
+RAID 2</link></col>
 <col align="left">
  <b>Redundancy through <link xlink:type="simple" xlink:href="../226/41226.xml">
 Hamming code</link>. </b>Disks are synchronised and striped in very small stripes, often in single bytes/words. Hamming codes <link xlink:type="simple" xlink:href="../375/10375.xml">
@@ -215,7 +215,7 @@ error correction</link>is calculated across corresponding bits on disks, and is 
 <row >
 <col>
  <link>
-RAID&nbsp;3</link></col>
+RAID 3</link></col>
 <col align="left">
 <b>Striped set with dedicated parity/Bit interleaved parity.</b>  This mechanism provides an improved performance and fault tolerance similar to RAID 5, but with a dedicated parity disk rather than rotated parity stripes.  The single parity disk is a bottle-neck for writing since every write requires updating the parity data.  One minor benefit is the dedicated parity disk allows the parity drive to fail and operation will continue without parity or performance penalty.</col>
 <col>
@@ -232,7 +232,7 @@ RAID Level 3
 <row>
 <col>
  <link>
-RAID&nbsp;4</link></col>
+RAID 4</link></col>
 <col align="left">
 <b>Block level parity.</b> Identical to RAID 3, but does block-level striping instead of byte-level striping. In this setup,  files can be distributed between multiple disks. Each disk operates independently which allows I/O requests to be performed in parallel, though data transfer speeds can suffer due to the type of parity. The error detection is achieved through dedicated parity and is stored in a separate, single disk unit.</col>
 <col>
@@ -249,7 +249,7 @@ RAID Level 4
 <row>
 <col>
  <link>
-RAID&nbsp;5</link></col>
+RAID 5</link></col>
 <col align="left">
 <b>Striped set with distributed parity.</b>  Distributed parity requires all drives but one to be present to operate; drive failure requires replacement, but the array is not destroyed by a single drive failure.  Upon drive failure, any subsequent reads can be calculated from the distributed parity such that the drive failure is masked from the end user.  The array will have data loss in the event of a second drive failure and is vulnerable until the data that was on the failed drive is rebuilt onto a replacement drive.</col>
 <col>
@@ -266,7 +266,7 @@ RAID Level 5
 <row>
 <col>
  <link>
-RAID&nbsp;6</link></col>
+RAID 6</link></col>
 <col align="left">
 <b>Striped set with dual distributed Parity.</b>  Provides fault tolerance from two drive failures; array continues to operate with up to two failed drives.  This makes larger RAID groups more practical, especially for high availability systems.  This becomes increasingly important because large-capacity drives lengthen the time needed to recover from the failure of a single drive.  Single parity RAID levels are vulnerable to data loss until the failed drive is rebuilt: the larger the drive, the longer the rebuild will take.  Dual parity gives time to rebuild the array without the data being at risk if one drive, but no more, fails before the rebuild is complete.</col>
 <col>
@@ -913,12 +913,12 @@ Randy Katz</link></associate>
 </physical_entity>
 &#32;(1988). "<weblink xlink:type="simple" xlink:href="http://www.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-391.pdf">
 A Case for Redundant Arrays of Inexpensive Disks (RAID)</weblink>".&#32;<it><link xlink:type="simple" xlink:href="../519/5897519.xml">
-SIGMOD</link> Conference</it>: pp 109–116.</cite>&nbsp; retrieved <link>
+SIGMOD</link> Conference</it>: pp 109–116.</cite>  retrieved <link>
 2006-12-31</link></entry>
 <entry id="2">
 "Because the term inexpensive is relative and can be misleading, the proper meaning of the acronym is now generally accepted as Redunant Array of Independent Disks" - Chapter 7, page 302, The Essentials of Computer Organization and Architecture; Linda Null and Julia Lobur; ISBN 0-76370444-X</entry>
 <entry id="3">
- <cite style="font-style:normal">Pickstock, Simon&#32;(June 2008).&#32;"The truth about RAID"&#32;(in English)&#32;(Magazine). <it>PC Format Magazine</it>&#32;(214): 35.&#32;United Kingdom:&#32;Future Publishing.&#32;“In all our real-world tests, the difference between the single drive performance and the dual-drive RAID 0 striped setup was virtually non-existent. And in fact, the single drive was ever-so-slightly faster than the other setups, including the RAID 5 system that we'd hoped would offer the perfect combination of performance and data redundancy.”</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Pickstock, Simon&#32;(June 2008).&#32;"The truth about RAID"&#32;(in English)&#32;(Magazine). <it>PC Format Magazine</it>&#32;(214): 35.&#32;United Kingdom:&#32;Future Publishing.&#32;“In all our real-world tests, the difference between the single drive performance and the dual-drive RAID 0 striped setup was virtually non-existent. And in fact, the single drive was ever-so-slightly faster than the other setups, including the RAID 5 system that we'd hoped would offer the perfect combination of performance and data redundancy.”</cite> </entry>
 <entry id="4">
 <weblink xlink:type="simple" xlink:href="http://www.snia.org/education/dictionary">
 SNIA Dictionary</weblink></entry>
@@ -956,7 +956,7 @@ Definition of write-back cache at SNIA dictionary</weblink>".</entry>
 <entry id="11">
 <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4092732">
 U.S. Patent 4,092,732</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4092732">
-&nbsp;</weblink></entry>
+ </weblink></entry>
 <entry id="12">
  <cite style="font-style:normal"><link xlink:type="simple" xlink:href="../239/816239.xml">
 Patterson, David</link>;&#32;<physical_entity wordnetid="100001930" confidence="0.8">
@@ -991,7 +991,7 @@ Randy Katz</link></associate>
 </physical_entity>
 &#32;(1988). "<weblink xlink:type="simple" xlink:href="http://www.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-391.pdf">
 A Case for Redundant Arrays of Inexpensive Disks (RAID)</weblink>".&#32;<it><link xlink:type="simple" xlink:href="../519/5897519.xml">
-SIGMOD</link> Conference</it>: pp 109–116.</cite>&nbsp; retrieved <link>
+SIGMOD</link> Conference</it>: pp 109–116.</cite>  retrieved <link>
 2006-12-31</link></entry>
 </reflist>
 </p>
@@ -1069,7 +1069,7 @@ RAID system explained in detail</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.acnc.com/raid.html">
-RAID Levels &mdash; Tutorial and Diagrams</weblink></entry>
+RAID Levels — Tutorial and Diagrams</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.shub-internet.org/brad/FreeBSD/vinum.html">

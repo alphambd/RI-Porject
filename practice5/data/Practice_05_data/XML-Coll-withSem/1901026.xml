@@ -29,7 +29,7 @@
 <bdy>
 
 In <link xlink:type="simple" xlink:href="../831/18831.xml">
-mathematics</link>, the <b>Robinson&ndash;Schensted algorithm</b> is a <link xlink:type="simple" xlink:href="../170/5170.xml">
+mathematics</link>, the <b>Robinson–Schensted algorithm</b> is a <link xlink:type="simple" xlink:href="../170/5170.xml">
 combinatorial</link> algorithm, first described by <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -57,7 +57,7 @@ partition</link></function>
 s of <math>n</math> and <math>f^\lambda</math> is the number of standard Young tableaux of shape <math>\lambda</math>. It does this by constructing a map from pairs of <math>\lambda</math>-tableaux <math>(P,Q)</math> to permutations <math>\pi</math>.<p>
 
 Schensted, who independently discovered the algorithm, generalized it to the case where <math>P</math> is semi-standard and <math>\pi</math> is any sequence of <math>n</math> numbers.
-The <b>Robinson&ndash;Schensted&ndash;Knuth algorithm</b> was developed by <person wordnetid="100007846" confidence="0.9508927676800064">
+The <b>Robinson–Schensted–Knuth algorithm</b> was developed by <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../095/8095.xml">
 Knuth</link></scientist>
@@ -71,7 +71,7 @@ lexicographically ordered</link> positive integers) and pairs of semi-standard Y
 
 <p>
 
-The Robinson&ndash;Schensted algorithm starts from the permutation written in lexicographic two-line notation
+The Robinson–Schensted algorithm starts from the permutation written in lexicographic two-line notation
 <indent level="1">
 
 <math>\begin{matrix}1 &amp; 2 &amp; 3 &amp; \cdots &amp; n\\ \pi_1 &amp; \pi_2 &amp; \pi_3 &amp; \cdots &amp; \pi_n \end{matrix}</math>,
@@ -140,18 +140,18 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
-G. de B. Robinson, "On representations of the symmetric group," <it>Amer. J. Math.</it> <b>60</b> (1938), 745&ndash;760. <link xlink:type="simple" xlink:href="../961/1701961.xml">
+G. de B. Robinson, "On representations of the symmetric group," <it>Amer. J. Math.</it> <b>60</b> (1938), 745–760. <link xlink:type="simple" xlink:href="../961/1701961.xml">
 Zbl</link><weblink xlink:type="simple" xlink:href="http://www.zentralblatt-math.org/zmath/en/search/?q=an:0019.25102">
 0019.25102</weblink></entry>
 <entry level="1" type="bullet">
 
-D. E.  Knuth, "Permutations, matrices and generalized Young tableaux," <it>Pacific J. Math.</it> <b>34</b> (1970), 709&ndash;727.</entry>
+D. E.  Knuth, "Permutations, matrices and generalized Young tableaux," <it>Pacific J. Math.</it> <b>34</b> (1970), 709–727.</entry>
 <entry level="1" type="bullet">
 
 B. E. Sagan, <it>The Symmetric Group,</it> Graduate texts in mathematics <b>203</b> (Springer-Verlag, New York, 2001), ISBN 0387950672</entry>
 <entry level="1" type="bullet">
 
-C. Schensted, "Longest increasing and decreasing subsequences," <it>Canad. J. Math.</it> <b>13</b> (1961), 179&ndash;191.</entry>
+C. Schensted, "Longest increasing and decreasing subsequences," <it>Canad. J. Math.</it> <b>13</b> (1961), 179–191.</entry>
 </list>
 </p>
 

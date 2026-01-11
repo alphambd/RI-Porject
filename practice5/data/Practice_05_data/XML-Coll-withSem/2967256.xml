@@ -199,7 +199,7 @@ Every positive rational number has a unique finite Engel expansion. In the algor
 <math>\frac{1}{n}=\sum_{r=1}^{\infty}\frac{1}{(n+1)^r}.</math>
 </indent>
 
-the final digit <it>n</it> in a finite Engel expansion can be replaced by an infinite sequence of (<it>n</it>&nbsp;+&nbsp;1)s without changing its value. For example</p>
+the final digit <it>n</it> in a finite Engel expansion can be replaced by an infinite sequence of (<it>n</it> + 1)s without changing its value. For example</p>
 <p>
 
 <indent level="1">
@@ -339,7 +339,7 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite id="CITEREFEngel1913" style="font-style:normal">Engel, F.&#32;(1913),&#32;"Entwicklung der Zahlen nach Stammbruechen",&#32;<it>Verhandlungen der 52. Versammlung deutscher Philologen und Schulmaenner in Marburg</it>, pp. 190–191</cite>&nbsp;.</entry>
+ <cite id="CITEREFEngel1913" style="font-style:normal">Engel, F.&#32;(1913),&#32;"Entwicklung der Zahlen nach Stammbruechen",&#32;<it>Verhandlungen der 52. Versammlung deutscher Philologen und Schulmaenner in Marburg</it>, pp. 190–191</cite> .</entry>
 </list>
 </p>
 <p>
@@ -349,7 +349,7 @@ References</st>
 
  <cite id="CITEREFErd.C5.91sR.C3.A9nyiSz.C3.BCsz1958" style="font-style:normal"><link>
 Erdős, Paul</link>; <link>
-Rényi, Alfréd</link>&#32;&amp;&#32;Szüsz, Peter&#32;(1958),&#32;"On Engel's and Sylvester's series",&#32;<it>Ann. Univ. Sci. Budapest Eötvös Sect. Math.</it>&#32;<b>1</b>:  7–32</cite>&nbsp;.</entry>
+Rényi, Alfréd</link>&#32;&amp;&#32;Szüsz, Peter&#32;(1958),&#32;"On Engel's and Sylvester's series",&#32;<it>Ann. Univ. Sci. Budapest Eötvös Sect. Math.</it>&#32;<b>1</b>:  7–32</cite> .</entry>
 </list>
 </p>
 <p>
@@ -374,7 +374,7 @@ MR</link></publication>
 </product>
 </work>
 <weblink xlink:type="simple" xlink:href="http://www.ams.org/mathscinet-getitem?mr=1116100">
-1116100</weblink>, </cite>&nbsp;.</entry>
+1116100</weblink>, </cite> .</entry>
 </list>
 </p>
 <p>
@@ -390,7 +390,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2Fs00605-004-0246-3">
-10.1007/s00605-004-0246-3</weblink></cite>&nbsp;.</entry>
+10.1007/s00605-004-0246-3</weblink></cite> .</entry>
 </list>
 </p>
 

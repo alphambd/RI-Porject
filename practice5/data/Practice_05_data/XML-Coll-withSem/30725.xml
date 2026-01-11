@@ -142,7 +142,7 @@ Citrix Systems</link></company>
 WinFrame</link>; a version of NT 3.51 that allowed multiple users to run on the same server.  Microsoft later licensed the technology back from Citrix and incorporated it into a special version of NT 4.0 (known as NT 4.0 TSE, or Terminal Server Edition) and then into all subsequent version of their server operating systems.  The code name for this Microsoft project was Hydra.</p>
 <p>
 
-Terminal Services allows the operation of standard Windows software in a mainframe model&nbsp;centralized computing vs. distributed computing.  Users log onto the server using thin client hardware and the server creates a session in memory dedicated to that user.  Any GUI commands that would normally be sent to a local graphics card are instead compressed and sent to the client.  Likewise, user keyboard and mouse movements are sent back to the user's task running on the server.</p>
+Terminal Services allows the operation of standard Windows software in a mainframe model centralized computing vs. distributed computing.  Users log onto the server using thin client hardware and the server creates a session in memory dedicated to that user.  Any GUI commands that would normally be sent to a local graphics card are instead compressed and sent to the client.  Likewise, user keyboard and mouse movements are sent back to the user's task running on the server.</p>
 <p>
 
 It is likely that the term "thin client" started to be used instead of "graphical terminal" for the following reasons:
@@ -405,7 +405,7 @@ ProPanel Industrial Thin Client
 Some Thin Client solutions (such as ACP's ThinManager Ready Thin Clients) are tightly coupled with specialized management software that enhances the basic features offered by server operating systems.  These enhancements include, but are not limited to, failover to backup servers, client device independence, redundant Ethernet, multiple sessions on a single client and automatic client configuration.</p>
 <p>
 
-Fiber networks and wireless interface are also popular to enhance versatility in location and installation of Thin Clients. Encryption of data is usually a priority, and wireless options need to rely on a fast Ethernet radio transmitter using 11Mbit/s 2.4&nbsp;GHz 802.11 output, otherwise data transmission speed and security can be compromised.</p>
+Fiber networks and wireless interface are also popular to enhance versatility in location and installation of Thin Clients. Encryption of data is usually a priority, and wireless options need to rely on a fast Ethernet radio transmitter using 11Mbit/s 2.4 GHz 802.11 output, otherwise data transmission speed and security can be compromised.</p>
 <p>
 
 Ruggedized Thin Client products therefore enable easy-to-employ industry standard network creation and control at hazardous area zones for less cost and with less risk of failure than full computer systems. In fact, in the first quarter of 2007, mandates have been created by the US Armed Forces to look at Thin Client solutions in all field applications. The military is primarily interested in Thin Client technology in the field due to its improved cost control, more robust construction, less vulnerability to failure and security breaches, lesser weight and greater mobility, and lower incidence of OS failures.</p>
@@ -481,7 +481,7 @@ NX</link></director>
 </leader>
 </person>
 </physical_entity>
- this can consume as little as 5&nbsp;kbit/s bandwidth.&#91;&#32; &ndash; &#93; This statement makes some very heavy assumptions about the operating environment, though.</entry>
+ this can consume as little as 5 kbit/s bandwidth.&#91;&#32; – &#93; This statement makes some very heavy assumptions about the operating environment, though.</entry>
 <entry level="1" type="bullet">
 
 <b>More efficient use of computing resources</b>. A typical thick-client will be specified to cope with the maximum load the user needs, which can be inefficient at times when it is not used. In contrast, thin clients only use the exact amount of computing resources required by the current task – in a large network, there is a high probability the load from each user will fluctuate in a different cycle to that of another user (i.e. the peaks of one will more than likely correspond, time-wise, to the troughs of another. This is a natural result of the additive effect of many random, independent loads. The total load will be normally distributed about a mean and not the sum of the maximum possible loads. see <statement wordnetid="106722453" confidence="0.8">

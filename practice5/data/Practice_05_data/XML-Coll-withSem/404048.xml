@@ -108,7 +108,7 @@ Digital machines</st>
 Turing machine</link></method>
 </know-how>
 </invention>
-&nbsp;and <link xlink:type="simple" xlink:href="../854/6854.xml">
+ and <link xlink:type="simple" xlink:href="../854/6854.xml">
 Church-Turing thesis</link></it>
 </indent>
 
@@ -296,45 +296,45 @@ Notes</st>
 <reflist>
 <entry id="1">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFTuring1950%22])">
-Turing 1950</link>, p.&nbsp;433</entry>
+Turing 1950</link>, p. 433</entry>
 <entry id="2">
 This describes the simplest version of the test. For a more detailed disussion, see <link xlink:type="simple" xlink:href="../840/43840.xml#xpointer(//*[./st=%22Versions+of+the+Turing+test%22])">
 Versions of the Turing test</link>.</entry>
 <entry id="3">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFTuring1950%22])">
-Turing 1950</link>, p.&nbsp;434</entry>
+Turing 1950</link>, p. 434</entry>
 <entry id="4">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFHarnad2006%22])">
-Harnad 2006</link>, p.&nbsp;1</entry>
+Harnad 2006</link>, p. 1</entry>
 <entry id="5">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFTuring1950%22])">
-Turing 1950</link>, p.&nbsp;442</entry>
+Turing 1950</link>, p. 442</entry>
 <entry id="6">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFTuring1950%22])">
 Turing 1950</link> and see <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFRussellNorvig2003%22])">
-Russell &amp; Norvig 2003</link>, p.&nbsp;948 where comment "Turing examined a wide variety of possible objections to the possibility of intelligent machines, including virtually all of those that have been raised in the half century since his paper appeared."</entry>
+Russell &amp; Norvig 2003</link>, p. 948 where comment "Turing examined a wide variety of possible objections to the possibility of intelligent machines, including virtually all of those that have been raised in the half century since his paper appeared."</entry>
 <entry id="7">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFLucas1961%22])">
 Lucas 1961</link>, <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFPenrose1989%22])">
 Penrose 1989</link>, <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFHofstadter1979%22])">
-Hofstadter 1979</link>, pp.&nbsp;471-473,476-477 and <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFRussellNorvig2003%22])">
-Russell &amp; Norvig 2003</link>, pp.&nbsp;949-950. Russell and Norvig identify Lucas and Penrose's arguments as being the same one answered by Turing.</entry>
+Hofstadter 1979</link>, pp. 471-473,476-477 and <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFRussellNorvig2003%22])">
+Russell &amp; Norvig 2003</link>, pp. 949-950. Russell and Norvig identify Lucas and Penrose's arguments as being the same one answered by Turing.</entry>
 <entry id="8">
 <weblink xlink:type="simple" xlink:href="http://www.turingarchive.org/browse.php/B/44">
 "The Mind of Mechanical Man"</weblink></entry>
 <entry id="9">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFSearle1980%22])">
 Searle 1980</link> and <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFRussellNorvig2003%22])">
-Russell &amp; Norvig 2003</link>, pp.&nbsp;958-960, who identify Searle's argument with the one Turing answers.</entry>
+Russell &amp; Norvig 2003</link>, pp. 958-960, who identify Searle's argument with the one Turing answers.</entry>
 <entry id="10">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFDreyfus1979%22])">
-Dreyfus 1979</link>, p.&nbsp;156</entry>
+Dreyfus 1979</link>, p. 156</entry>
 <entry id="11">
 <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFDreyfus1972%22])">
 Dreyfus 1972</link>, <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFDreyfusDreyfus1986%22])">
 Dreyfus &amp; Dreyfus 1986</link>, <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFMoravec1988%22])">
 Moravec 1988</link> and <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFRussellNorvig2003%22])">
-Russell &amp; Norvig 2003</link>, p.&nbsp;51-52, who identify Dreyfus' argument with the one Turing answers.</entry>
+Russell &amp; Norvig 2003</link>, p. 51-52, who identify Dreyfus' argument with the one Turing answers.</entry>
 </reflist>
 
 </p>
@@ -349,11 +349,11 @@ References</st>
 
   <cite id="CITEREFBrooks1990" style="font-style:normal"><link>
 Brooks, Rodney</link>&#32;(1990),&#32;"<weblink xlink:type="simple" xlink:href="http://people.csail.mit.edu/brooks/papers/elephants.pdf">
-Elephants Don't Play Chess</weblink>",&#32;<it>Robotics and Autonomous Systems</it>&#32;<b>6</b>:  3-15, .&#32;Retrieved on 29 August 2007</cite>&nbsp;</entry>
+Elephants Don't Play Chess</weblink>",&#32;<it>Robotics and Autonomous Systems</it>&#32;<b>6</b>:  3-15, .&#32;Retrieved on 29 August 2007</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFCrevier1993" style="font-style:normal"><link>
-Crevier, Daniel</link>&#32;(1993),&#32;<it>AI: The Tumultuous Search for Artificial Intelligence</it>, New York, NY: BasicBooks, ISBN 0-465-02997-3</cite>&nbsp;</entry>
+Crevier, Daniel</link>&#32;(1993),&#32;<it>AI: The Tumultuous Search for Artificial Intelligence</it>, New York, NY: BasicBooks, ISBN 0-465-02997-3</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFDreyfus1972" style="font-style:normal"><link>
@@ -370,35 +370,35 @@ What Computers Can't Do</link></publication>
 </creation>
 </product>
 </work>
-</it>, New York: MIT Press, ISBN 0060110821</cite>&nbsp;</entry>
+</it>, New York: MIT Press, ISBN 0060110821</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFDreyfusDreyfus1986" style="font-style:normal"><link>
-Dreyfus, Hubert</link>&#32;&amp;&#32;Dreyfus, Stuart&#32;(1986),&#32;<it>Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer</it>, Oxford, UK: Blackwell</cite>&nbsp; </entry>
+Dreyfus, Hubert</link>&#32;&amp;&#32;Dreyfus, Stuart&#32;(1986),&#32;<it>Mind over Machine: The Power of Human Intuition and Expertise in the Era of the Computer</it>, Oxford, UK: Blackwell</cite>  </entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFDreyfus1979" style="font-style:normal"><link>
-Dreyfus, Hubert</link>&#32;(1979),&#32;<it>What Computers Still Can't Do</it>, New York: MIT Press</cite>&nbsp;.</entry>
+Dreyfus, Hubert</link>&#32;(1979),&#32;<it>What Computers Still Can't Do</it>, New York: MIT Press</cite> .</entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFHaugeland1985" style="font-style:normal"><link>
-Haugeland, John</link>&#32;(1985),&#32;<it>Artificial Intelligence: The Very Idea</it>, MIT Press</cite>&nbsp;.</entry>
+Haugeland, John</link>&#32;(1985),&#32;<it>Artificial Intelligence: The Very Idea</it>, MIT Press</cite> .</entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFMoravec1976" style="font-style:normal"><link>
 Moravec, Hans</link>&#32;(1976),&#32;<it><weblink xlink:type="simple" xlink:href="http://www.frc.ri.cmu.edu/users/hpm/project.archive/general.articles/1975/Raw.Power.html">
-The Role of Raw Power in Intelligence</weblink></it>, </cite>&nbsp;</entry>
+The Role of Raw Power in Intelligence</weblink></it>, </cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFRussellNorvig2003" style="font-style:normal"><link>
 Russell, Stuart J.</link>&#32;&amp;&#32;<link>
 Norvig, Peter</link>&#32;(2003),&#32;<it><weblink xlink:type="simple" xlink:href="http://aima.cs.berkeley.edu/">
-</weblink></it>&#32;(2nd ed.), Upper Saddle River, NJ: Prentice Hall, ISBN 0-13-790395-2, </cite>&nbsp;</entry>
+</weblink></it>&#32;(2nd ed.), Upper Saddle River, NJ: Prentice Hall, ISBN 0-13-790395-2, </cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFSearle1980" style="font-style:normal"><link>
 Searle, John</link>&#32;(1980),&#32;"<weblink xlink:type="simple" xlink:href="http://members.aol.com/NeoNoetics/MindsBrainsPrograms.html">
-Minds, Brains and Programs</weblink>",&#32;<it>Behavioral and Brain Sciences</it>&#32;<b>3</b>(3):  417-457, </cite>&nbsp;</entry>
+Minds, Brains and Programs</weblink>",&#32;<it>Behavioral and Brain Sciences</it>&#32;<b>3</b>(3):  417-457, </cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFTuring1950" style="font-style:normal"><link>
@@ -423,7 +423,7 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0026-4423">
-0026-4423</weblink>, </cite>&nbsp;</entry>
+0026-4423</weblink>, </cite> </entry>
 </list>
 </p>
 

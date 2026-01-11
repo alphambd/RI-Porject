@@ -144,7 +144,7 @@ The Honourable</link></honorific-prefix>
 <spouse>
 Marie Stelmach (née Warshawski)</spouse>
 <birth_date>
-May 11, 1951 (1951-05-11) (age&nbsp;57)</birth_date>
+May 11, 1951 (1951-05-11) (age 57)</birth_date>
 <predecessor9>
 Mike Kapicki</predecessor9>
 <birth_place>
@@ -1228,7 +1228,7 @@ Dissol.</link></col>
 </row>
 <row>
 <col bgcolor="#9999FF">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
  <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../469/458469.xml">
@@ -1264,7 +1264,7 @@ align="right"</col>
 5.83%</caption>
 <row>
 <col bgcolor="lightcoral">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/482693.xml">
@@ -1304,7 +1304,7 @@ align="right"</col>
 </row>
 <row>
 <col bgcolor="sandybrown">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
  <link xlink:type="simple" xlink:href="../914/482914.xml">
 New Democratic Party</link></col>
@@ -1342,7 +1342,7 @@ align="right"</col>
 </row>
 <row>
 <col bgcolor="cadetblue">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../358/15323358.xml">
@@ -1396,7 +1396,7 @@ align="right"</col>
 </row>
 <row>
 <col bgcolor="yellowgreen">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
 <link xlink:type="simple" xlink:href="../185/14678185.xml">
 Greens</link></col>
@@ -1431,7 +1431,7 @@ align="right"</col>
 1.82%</caption>
 <row>
 <col bgcolor="lightgreen">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
 <link xlink:type="simple" xlink:href="../318/456318.xml">
 Social Credit</link></col>
@@ -1475,7 +1475,7 @@ align="right"</col>
 </row>
 <row>
 <col bgcolor="gold">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../148/984148.xml">
@@ -1515,7 +1515,7 @@ align="right"</col>
 </row>
 <row>
 <col bgcolor="tomato">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../418/1881418.xml">
@@ -1565,7 +1565,7 @@ xx</col>
 </row>
 <row>
 <col bgcolor="lightskyblue">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col align="left">
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../195/595195.xml">
@@ -1613,7 +1613,7 @@ align="right"</col>
 </row>
 <row>
 <col bgcolor="gainsboro">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col colspan="2" align="left">
 <link xlink:type="simple" xlink:href="../378/2172378.xml">
 Independent</link></col>
@@ -1648,7 +1648,7 @@ align="right"</col>
 <col align="right">
 1</col>
 <col colspan="5">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col colspan="3" align="left">
@@ -1670,7 +1670,7 @@ align="right"</header>
 <header align="right">
 100%</header>
 <header align="right">
-&nbsp;</header>
+ </header>
 </row>
 </table>
 
@@ -1713,7 +1713,7 @@ Fort Saskatchewan-Vegreville</link></district>
 </row>
 <row>
 <col bgcolor="#9999FF">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <link xlink:type="simple" xlink:href="../469/458469.xml">
 Progressive Conservative</link></col>
@@ -1731,7 +1731,7 @@ Ed Stelmach</link></curate>
 </row>
 <row>
 <col bgcolor="lightcoral">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/482693.xml">
@@ -1746,7 +1746,7 @@ Earl J. Woods</col>
 </row>
 <row>
 <col bgcolor="sandybrown">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../914/482914.xml">
@@ -1761,7 +1761,7 @@ Clayton Marsden</col>
 </row>
 <row>
 <col bgcolor="yellowgreen">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/14678185.xml">
@@ -1808,7 +1808,7 @@ Fort Saskatchewan-Vegreville</link></district>
 </row>
 <row>
 <col bgcolor="#9999FF">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <link xlink:type="simple" xlink:href="../469/458469.xml">
 Progressive Conservative</link></col>
@@ -1826,7 +1826,7 @@ Ed Stelmach</link></curate>
 </row>
 <row>
 <col bgcolor="lightcoral">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/482693.xml">
@@ -1841,7 +1841,7 @@ Peter Schneider</col>
 </row>
 <row>
 <col bgcolor="sandybrown">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../914/482914.xml">
@@ -1856,7 +1856,7 @@ Wes Buyarski</col>
 </row>
 <row>
 <col bgcolor="cadetblue">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <link xlink:type="simple" xlink:href="../109/543109.xml">
 Alberta Alliance</link></col>
@@ -1869,7 +1869,7 @@ Byron King</col>
 </row>
 <row>
 <col bgcolor="lightgreen">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../318/456318.xml">
@@ -1920,7 +1920,7 @@ Vegreville-Viking</link></district>
 </row>
 <row>
 <col bgcolor="#9999FF">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <link xlink:type="simple" xlink:href="../469/458469.xml">
 Progressive Conservative</link></col>
@@ -1938,7 +1938,7 @@ Ed Stelmach</link></curate>
 </row>
 <row>
 <col bgcolor="lightcoral">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/482693.xml">
@@ -1953,7 +1953,7 @@ Ross Demkiw</col>
 </row>
 <row>
 <col bgcolor="sandybrown">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../914/482914.xml">
@@ -2004,7 +2004,7 @@ Vegreville-Viking</link></district>
 </row>
 <row>
 <col bgcolor="#9999FF">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <link xlink:type="simple" xlink:href="../469/458469.xml">
 Progressive Conservative</link></col>
@@ -2022,7 +2022,7 @@ Ed Stelmach</link></curate>
 </row>
 <row>
 <col bgcolor="lightcoral">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/482693.xml">
@@ -2037,7 +2037,7 @@ Ross Demkiw</col>
 </row>
 <row>
 <col bgcolor="sandybrown">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../914/482914.xml">
@@ -2052,7 +2052,7 @@ Greg Kurolok</col>
 </row>
 <row>
 <col bgcolor="lightgreen">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <link xlink:type="simple" xlink:href="../318/456318.xml">
 Social Credit</link></col>
@@ -2101,7 +2101,7 @@ Vegreville-Viking</link></district>
 </row>
 <row>
 <col bgcolor="#9999FF">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../469/458469.xml">
@@ -2121,7 +2121,7 @@ Ed Stelmach</link></curate>
 </row>
 <row>
 <col bgcolor="sandybrown">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../914/482914.xml">
@@ -2137,7 +2137,7 @@ Derek Fox</link></col>
 </row>
 <row>
 <col bgcolor="lightcoral">
-&nbsp;&nbsp;&nbsp;&nbsp;</col>
+    </col>
 <col>
 <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/482693.xml">
@@ -2397,13 +2397,13 @@ References</st>
 <entry id="1">
 O'Donnell, Sarah&#32;(2006-12-03).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/story.html?id=b9b5fc9b-cafd-4587-8175-603702bd9224&amp;k=0">
 Profile: 'Steady Eddie' takes power on his terms</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-06-21</link>.&nbsp;</entry>
+2008-06-21</link>. </entry>
 <entry id="2">
 "<weblink xlink:type="simple" xlink:href="http://www.wcr.ab.ca/news/2007/0903/stelmach090307.shtml">
 Stelmach shares his Catholic faith</weblink>", <it>Western Catholic Reporter</it>&#32;(2007-09-03).&#32;Retrieved on <link>
-2008-06-21</link>.&nbsp;</entry>
+2008-06-21</link>. </entry>
 <entry id="3">
- <cite style="font-style:normal" class="book">&#32;(1998) Serving Martha &amp; Henry: Rural Municipal Government in Alberta 1983-1998.&#32;Alberta Association of Municipal Districts &amp; Counties.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">&#32;(1998) Serving Martha &amp; Henry: Rural Municipal Government in Alberta 1983-1998.&#32;Alberta Association of Municipal Districts &amp; Counties.</cite> </entry>
 <entry id="4">
 "<weblink xlink:type="simple" xlink:href="http://www.assembly.ab.ca/net/index.aspx?p=mla_bio&amp;rnumber=55">
 Stelmach's Legislature biography</weblink>".&#32;  Legislative Assembly of Alberta.&#32;Retrieved on <link>
@@ -2411,11 +2411,11 @@ Stelmach's Legislature biography</weblink>".&#32;  Legislative Assembly of Alber
 <entry id="5">
 Cryderman, Kelly&#32;(March 23, 2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=cbee085d-204c-46cf-836d-a5105cdcbafb">
 Oberg not urging support for Klein, riding association told</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-06-28</link>.&nbsp;</entry>
+2008-06-28</link>. </entry>
 <entry id="6">
 Klaszus, Jeremy&#32;(February 28, 2008).&#32;"<weblink xlink:type="simple" xlink:href="http://www.ffwdweekly.com/article/news-views/news/ed-stelmach-forgotten-years/">
 Ed Stelmach: The Forgotten Years</weblink>", <it>Fast Forward Weekly</it>.&#32;Retrieved on <link>
-2008-09-04</link>.&nbsp;</entry>
+2008-09-04</link>. </entry>
 <entry id="7">
 <it><weblink xlink:type="simple" xlink:href="http://www.assembly.ab.ca/ISYS/LADDAR_files%5Cdocs%5Chansards%5Chan%5Clegislature_23%5Csession_4%5C19960220_2000_01_han.pdf">
 Parliamentary Debates</weblink></it>, <legislature wordnetid="108163273" confidence="0.9508927676800064">
@@ -2430,7 +2430,7 @@ Bill Status Report - 23th Legislature 4th Session (1996)</weblink>".&#32;  Legis
 <entry id="9">
 Guly, Christopher&#32;(1997-04-27).&#32;"<weblink xlink:type="simple" xlink:href="http://www.ukrweekly.com/old/archive/1997/179709.shtml">
 Son of Ukrainian Canadian homesteaders becomes Alberta's agriculture minister</weblink>", <it>Ukrainian Weekly</it>.&#32;Retrieved on <link>
-2008-02-06</link>.&nbsp;</entry>
+2008-02-06</link>. </entry>
 <entry id="10">
 "<weblink xlink:type="simple" xlink:href="http://www.assembly.ab.ca/pro/bills/s-bill97.htm">
 Bill Status Report - 24th Legislature 1st Session (1997)</weblink>".&#32;  Legislative Assembly of Alberta.&#32;Retrieved on <link>
@@ -2466,245 +2466,245 @@ Parliamentary Debates</weblink></it>, Legislative Assembly of Alberta, April 9, 
 <entry id="19">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/calgary/story/2006/11/28/tory-endorse.html">
 Artists for Dinning, MLA Pham for Morton</weblink>", Canadian Broadcasting Corporation&#32;(2006-11-29).&#32;Retrieved on <link>
-2008-04-15</link>.&nbsp;</entry>
+2008-04-15</link>. </entry>
 <entry id="18">
 "<weblink xlink:type="simple" xlink:href="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060321/stelmach_post_060321/20060321?hub=Canada">
 Alta. cabinet minister Stelmach quits position</weblink>", <it>CTV.ca</it>&#32;(2006-03-21).&#32;Retrieved on <link>
-2008-02-06</link>.&nbsp;</entry>
+2008-02-06</link>. </entry>
 <entry id="21">
 "<weblink xlink:type="simple" xlink:href="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20061202/alberta_tories_061203?s_name=&amp;no_ads=">
 Opponents pledge support for Alta.'s Stelmach</weblink>", <it>CTV.ca</it>&#32;(2006-12-03).&#32;Retrieved on <link>
-2008-06-16</link>.&nbsp;</entry>
+2008-06-16</link>. </entry>
 <entry id="20">
 "<weblink xlink:type="simple" xlink:href="http://thetyee.ca/Bigstory/2006/11/27/Alberta_leader/">
 Albertans Turf Five in Race for New Leader</weblink>", <it>The Tyee</it>&#32;(2006-11-27).&#32;Retrieved on <link>
-2008-06-16</link>.&nbsp;</entry>
+2008-06-16</link>. </entry>
 <entry id="23">
 Kom, Joel&#32;(2007-02-28).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/calgaryherald/news/story.html?id=2c092641-5f4f-4dad-a9d3-21d364691b4a&amp;k=22355">
 Stelmach criticized for donation secrecy</weblink>", <it>Calgary Herald</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="22">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/calgary/story/2006/12/02/steady-eddir.html">
 Steady Eddie made slow climb to lead Alberta Tories</weblink>", Canadian Broadcasting Corporation&#32;(2006-12-03).&#32;Retrieved on <link>
-2008-06-16</link>.&nbsp;</entry>
+2008-06-16</link>. </entry>
 <entry id="25">
 Fekete, Jason&#32;(2007-01-11).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nationalpost.com/story.html?id=9b650e28-dcaf-43b9-9aab-90b8ea9664f7&amp;k=62833">
 For $5,000, Albertans can have exclusive chat with Stelmach</weblink>", <it>National Post</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="24">
 Markusoff, Jason&#32;(2007-06-05).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=ae672a2d-cd8c-41fa-91f3-112659138e7a">
 Donation Unethical, Premier Admits</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="27">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2006/12/14/premier-stelmach.html">
 Stelmach sworn in as Alberta's 13th premier</weblink>", Canadian Broadcasting Corporation&#32;(2006-12-14).&#32;Retrieved on <link>
-2008-02-06</link>.&nbsp;</entry>
+2008-02-06</link>. </entry>
 <entry id="26">
 Henton, Darcy&#32;(2007-01-11).&#32;"<weblink xlink:type="simple" xlink:href="http://www.edmontonsun.com/News/Alberta/2007/01/11/3300721.html">
 Stelmach cancels $5,000 receptions</weblink>", <it>Edmonton Sun</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="29">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2008/01/16/attack-ads.html">
 Attack ads take premier to task for 'lack of plan'</weblink>", Canadian Broadcasting Corporation&#32;(2008-01-16).&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="28">
 Bennett, Dean&#32;(2008-02-04).&#32;"<weblink xlink:type="simple" xlink:href="http://www.macleans.ca/canada/wire/article.jsp?content=n0204157A">
 Stelmach makes it official: Albertans will go to polls March 3 in general election</weblink>", <it>Maclean's magazine</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="31">
-"Stelmach's first campaign as premier hits a few bumps in the first week", <it>The Canadian Press</it>&#32;(2008-02-09).&nbsp;</entry>
+"Stelmach's first campaign as premier hits a few bumps in the first week", <it>The Canadian Press</it>&#32;(2008-02-09). </entry>
 <entry id="30">
 Crush, Kevin&#32;(2008-01-24).&#32;"<weblink xlink:type="simple" xlink:href="http://www.edmontonsun.com/News/Alberta/2008/01/24/pf-4792285.html">
 New attack ads aim at union's attack ads</weblink>", <it>Edmonton Sun</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="34">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/albertavotes2008/story/2008/03/04/elex-follow.html">
 It's 'Ed's Empire' after Alberta election sweep</weblink>", Canadian Broadcasting Corporation&#32;(2008-03-04).&#32;Retrieved on <link>
-2008-06-21</link>.&nbsp;</entry>
+2008-06-21</link>. </entry>
 <entry id="35">
-McLean, Archie&#32;(2006-12-05).&#32;"Stelmach won't 'brake' oilsands growth", <it>Edmonton Journal</it>.&nbsp;</entry>
+McLean, Archie&#32;(2006-12-05).&#32;"Stelmach won't 'brake' oilsands growth", <it>Edmonton Journal</it>. </entry>
 <entry id="32">
 Waugh, Neil&#32;(2008-02-24).&#32;"<weblink xlink:type="simple" xlink:href="http://www.edmontonsun.com/News/Columnists/Waugh_Neil/2008/02/24/4872401-sun.html">
 Post-debate posturing unproductive</weblink>", <it>Edmonton Sun</it>.&#32;Retrieved on <link>
-2008-03-04</link>.&nbsp;</entry>
+2008-03-04</link>. </entry>
 <entry id="33">
 Braid, Don&#32;(2008-03-04).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/calgaryherald/story.html?id=8e1dff1e-22a8-415f-917d-7d5630b6bbec&amp;k=87013">
 Stelmach rivals Klein, Lougheed in victory</weblink>", <it>Calgary Herald</it>.&#32;Retrieved on <link>
-2008-03-04</link>.&nbsp;</entry>
+2008-03-04</link>. </entry>
 <entry id="38">
 Fekete, Jason&#32;(2008-05-29).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/cityguides/kamloops/story.html?id=8080dbc6-543b-4be1-905e-7be4f63c357a">
 Carbon tax would hurt West: premiers</weblink>", <it>Calgary Herald</it>.&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="39">
 Wood, James&#32;(2008-05-30).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/vancouversun/news/story.html?id=78704a50-8dfd-4975-9c69-b79465f2a0c7">
 Saskatchewan, Alberta leading the way in carbon capture, storage</weblink>", <it>Vancouver Sun</it>.&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="36">
 Markusoff, Jason&#32;(2008-01-16).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nationalpost.com/news/canada/story.html?id=242318">
 Stelmach fights ‘dirty’ image of oilsands in Washington</weblink>", <it>National Post</it>.&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="37">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2008/01/16/stelmach-washington.html">
 Stelmach defends oilsands in Washington</weblink>", Canadian Broadcasting Corporation&#32;(2008-01-16).&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="42">
 Loome, Jeremy&#32;(2008-07-10).&#32;"<weblink xlink:type="simple" xlink:href="http://www.edmontonsun.com/News/Alberta/2008/07/10/6115901-sun.html">
 Carbon-capture plan full of hot air, say critics</weblink>", Edmonton Sun.&#32;Retrieved on <link>
-2008-07-14</link>.&nbsp;</entry>
+2008-07-14</link>. </entry>
 <entry id="43">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/calgary/story/2007/10/25/stelmach-response.html">
 Alberta increases royalties charged to energy companies</weblink>", Canadian Broadcasting Corporation&#32;(2007-10-25).&#32;Retrieved on <link>
-2008-02-06</link>.&nbsp;</entry>
+2008-02-06</link>. </entry>
 <entry id="40">
 Scotton, Geoffrey&#32;(2008-07-09).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/calgaryherald/news/calgarybusiness/story.html?id=cdbc1331-af15-495f-892f-bdaabe07bf2b">
 Carbon capture plan lauded</weblink>", <it>Calgary Herald</it>.&#32;Retrieved on <link>
-2008-07-14</link>.&nbsp;</entry>
+2008-07-14</link>. </entry>
 <entry id="41">
 D'Aliesio, Renata&#32;(2008-07-10).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/calgaryherald/news/story.html?id=85c49bb4-5d8f-4f06-a572-cf411165206a">
 Critics leery of carbon storage</weblink>", <it>Calgary Herald</it>.&#32;Retrieved on <link>
-2008-07-14</link>.&nbsp;</entry>
+2008-07-14</link>. </entry>
 <entry id="46">
 Fowlie, Jonathan&#32;(2008-01-28).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nationalpost.com/news/canada/story.html?id=269848">
 Alberta premier on defensive over climate change</weblink>", <it>National Post</it>.&#32;Retrieved on <link>
-2008-02-08</link>.&nbsp;</entry>
+2008-02-08</link>. </entry>
 <entry id="47">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/story/2008/01/28/federation-meeting.html?ref=rss">
 Stelmach says Albertans approve of climate plan</weblink>", <it>National Post</it>&#32;(2008-01-28).&#32;Retrieved on <link>
-2008-02-08</link>.&nbsp;</entry>
+2008-02-08</link>. </entry>
 <entry id="44">
 D'Aliesio, Renata&#32;(2008-04-11).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=915c98fb-eee0-4f90-9c0e-10eb94da7b11&amp;k=78771">
 Billion Dollar Royalty Break</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="45">
-Fekete, Jason&#32;(2008-02-24).&#32;"Tory leader panned over pipeline", <it>Edmonton Journal</it>.&nbsp;</entry>
+Fekete, Jason&#32;(2008-02-24).&#32;"Tory leader panned over pipeline", <it>Edmonton Journal</it>. </entry>
 <entry id="51">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/calgary/story/2007/06/26/eub-spying.html">
 Alberta energy board's use of private eyes under investigation</weblink>", Canadian Broadcasting Corporation&#32;(2007-06-26).&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="50">
 Farrell, Jim&#32;(2007-08-17).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=6cbdaa1e-ce15-4a60-b6ec-a8cb7d73b816">
 'Heads must roll' Mason says</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="49">
 Thompson, Graham&#32;(2008-06-11).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/opinion/story.html?id=ec05749e-04b8-4f2d-aa67-bf2bbc2a1c9a">
 One Simple Act simple self-mockery</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="48">
 Zabjek, Alexandra&#32;(2008-06-11).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=44db859b-dba3-4af6-9caa-1f37ea530f1c">
 Going green shouldn't be hard: Stelmach</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="55">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2008/04/22/budget-alta.html">
 Alberta budget to eliminate health-care premiums by 2009</weblink>", Canadian Broadcasting Corporation&#32;(2008-04-22).&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="54">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2007/12/05/bill46-passed.html">
 Marathon legislative session breaks record</weblink>", Canadian Broadcasting Corporation&#32;(2007-12-05).&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="53">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2007/11/15/greenpeace-bill46.html?ref=rss">
 Environmentalists dressed as spies protest Bill 46</weblink>", Canadian Broadcasting Corporation&#32;(2007-11-15).&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="52">
 Scotton, Geoffrey&#32;(2007-09-18).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/calgaryherald/news/calgarybusiness/story.html?id=bec54f74-61f5-48a7-a184-1f3cb2d99fb3&amp;k=62699">
 Calgary lawyer put on EUB death watch</weblink>", <it>Calgary Herald</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="59">
 "<weblink xlink:type="simple" xlink:href="http://cbc.ca/edmonton/media/video/newsatsix/20080417HEALTH_PLAN_realplayer_1.ram">
 Stelmach's Health Plan</weblink>", Canadian Broadcasting Corporation&#32;(2008-04-16).&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="58">
 "<weblink xlink:type="simple" xlink:href="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080205/stelmach_080205/20080206/">
 Alta campaign features promises, accusations</weblink>", <it>CTV.ca</it>&#32;(2008-02-06).&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="57">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/albertavotes2008/story/2008/02/05/stelmach-doctors.html">
 Stelmach unveils plan to train more doctors and nurses</weblink>", Canadian Broadcasting Corporation&#32;(2008-02-05).&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="56">
 "<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=5d9ebfde-6d2b-465d-9aba-ebe543cb5ff5&amp;k=91174">
 Stelmach gov't pledges to axe health-care premiums</weblink>", <it>Edmonton Journal</it>&#32;(2008-02-04).&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="63">
 Pratt, Sheila&#32;(2007-05-06).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/opinion/story.html?id=070341d8-f23f-4061-ae7d-5ad8fed99826">
 Stelmach gov't takes first steps towards democratic reform</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-02-06</link>.&nbsp;</entry>
+2008-02-06</link>. </entry>
 <entry id="62">
 "<weblink xlink:type="simple" xlink:href="http://calsun.canoe.ca/News/Alberta/2008/06/11/5839746-sun.html">
 Alberta loses three senior physicians</weblink>", <it>The Calgary Sun</it>&#32;(2008-06-11).&#32;Retrieved on <link>
-2008-06-11</link>.&nbsp;</entry>
+2008-06-11</link>. </entry>
 <entry id="61">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/health/story/2008/06/10/topdocs-leaving.html">
 Alberta loses 4 top public health doctors over salaries</weblink>", Canadian Broadcasting Corporation&#32;(2008-06-10).&#32;Retrieved on <link>
-2008-06-10</link>.&nbsp;</entry>
+2008-06-10</link>. </entry>
 <entry id="60">
 Markusoff, Jason&#32;(2008-05-16).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=4b0743f0-2046-4b13-8be7-7e2e4ca7e10d">
 Tories create health superboard</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="68">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/calgary/story/2006/12/15/cabinet-stelmach.html">
 Stelmach names smaller cabinet</weblink>", Canadian Broadcasting Corporation&#32;(2006-12-15).&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="69">
 Kohler, Nicholas&#32;(2007-05-21).&#32;"<weblink xlink:type="simple" xlink:href="http://www.macleans.ca/article.jsp?content=20070521_105232_105232&amp;source=srch">
 Cracks in the Tory monolith</weblink>", <it>Maclean's magazine</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="70">
 Walton, Dawn&#32;(2008-02-09).&#32;"<weblink xlink:type="simple" xlink:href="http://www.theglobeandmail.com/servlet/story/RTGAM.20080209.walberta09/BNStory/National/home">
 Calgary poised to go Liberal, party leader says</weblink>", <it>Globe and Mail</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="71">
 "<weblink xlink:type="simple" xlink:href="http://www.edmontonsun.com/News/Alberta/2007/06/10/4250096.html">
 Disgruntled Voters in Alberta</weblink>", <it>Edmonton Sun</it>&#32;(2007-06-10).&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="64">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/calgary/story/2007/04/19/conflict-rules.html">
 Alberta to tighten conflict-of-interest rules for top bureaucrats, legislators</weblink>", Canadian Broadcasting Corporation&#32;(2007-04-19).&#32;Retrieved on <link>
-2008-06-10</link>.&nbsp;</entry>
+2008-06-10</link>. </entry>
 <entry id="65">
 Markusoff, Jason&#32;(2008-02-07).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=97b4a799-f7f7-4478-9fb3-3a105633e8d0">
 Ex-MLAs, aides get a free ride out</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-02-06</link>.&nbsp;</entry>
+2008-02-06</link>. </entry>
 <entry id="66">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2007/11/15/teachers-pension.html">
 Province offers teachers pension settlement</weblink>", Canadian Broadcasting Corporation.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="67">
 Markusoff, Jason&#32;(2006-12-15).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=7d861094-ab76-457b-8301-a57c28f5c12f&amp;k=0">
 Stelmach defends cabinet choices</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="76">
 Moroz, Ross&#32;(2007-05-16).&#32;"<weblink xlink:type="simple" xlink:href="http://www.vueweekly.com/article.php?id=6276">
 Vuepoint</weblink>", <it>Vue Weekly</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="77">
 Pratt, Sheila&#32;(2007-06-13).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/ideas/story.html?id=6dc106ea-2f47-4ab4-95c6-7f394ea93f0e">
 Are there parallels with 1971?</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="78">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2008/06/05/mla-severance.html">
 Premier, Speaker in line for $1M payouts</weblink>", Canadian Broadcasting Corporation&#32;(2008-06-05).&#32;Retrieved on <link>
-2008-06-16</link>.&nbsp;</entry>
+2008-06-16</link>. </entry>
 <entry id="79">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2008/06/02/edm-stelmach-pay.html?ref=rss">
 Stelmach unrepentant over hefty cabinet pay hikes</weblink>", Canadian Broadcasting Corporation&#32;(2008-06-02).&#32;Retrieved on <link>
-2008-06-16</link>.&nbsp;</entry>
+2008-06-16</link>. </entry>
 <entry id="72">
 Fekete, Jason&#32;(2007-06-11).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/calgaryherald/news/story.html?id=ca8ea762-7411-431c-8eaf-e62115013842&amp;k=64362">
 Throttling Ed’s A-OK</weblink>", <it>Calgary Herald</it>.&#32;Retrieved on <link>
-2007-06-11</link>.&nbsp;</entry>
+2007-06-11</link>. </entry>
 <entry id="73">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/edmonton/story/2008/01/08/stelmach-website.html">
 Alberta premier threatens to sue over domain name</weblink>", Canadian Broadcasting Corporation&#32;(2008-01-08).&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="74">
 "<weblink xlink:type="simple" xlink:href="http://www.cbc.ca/canada/calgary/story/2008/01/10/stelmach-domain.html">
 A name is his domain, says Alberta premier</weblink>", Canadian Broadcasting Corporation&#32;(2008-01-10).&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="75">
 Walton, Dawn&#32;(2006-12-04).&#32;"<weblink xlink:type="simple" xlink:href="http://www.theglobeandmail.com/servlet/Page/document/v5/content/subscribe?user_URL=http://www.theglobeandmail.com%2Fservlet%2FArticleNews%2Ffreeheadlines%2FLAC%2F20061204%2FSTROM04%2Fnational%2FNational&amp;ord=22852337&amp;brand=theglobeandmail&amp;force_login=true">
 Stelmach confronts ghost of Harry Strom</weblink>", <it>Globe and Mail</it>.&#32;Retrieved on <link>
-2008-02-12</link>.&nbsp;</entry>
+2008-02-12</link>. </entry>
 <entry id="85">
 "<weblink xlink:type="simple" xlink:href="http://www.abheritage.ca/abpolitics/database/maps_choice.asp?Year=1993&amp;Constit=Vegreville-Viking">
 1993 provincial election results, Vegreville-Viking</weblink>".&#32;  Alberta Online Encyclopedia.&#32;Retrieved on <link>
@@ -2716,11 +2716,11 @@ Stelmach confronts ghost of Harry Strom</weblink>", <it>Globe and Mail</it>.&#32
 <entry id="87">
 Johnsrude, Larry&#32;(December 3, 2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=9bc8ac30-8b4d-4625-90b1-ae6dc2beb8fe&amp;k=0">
 Premier Ed</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-06-26</link>.&nbsp;</entry>
+2008-06-26</link>. </entry>
 <entry id="86">
 Sarah O'Donnell, Jason Markusoff, Archie McLean, and Trish Audette&#32;(December 3, 2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/news/story.html?id=e5ebe7a0-7749-4386-9e0c-ee7195f15b31&amp;k=27344">
 Stelmach Stunner</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
-2008-06-26</link>.&nbsp;</entry>
+2008-06-26</link>. </entry>
 <entry id="81">
 "<weblink xlink:type="simple" xlink:href="http://results.elections.ab.ca/55.htm">
 2008 provincial election results, Fort Saskatchewan-Vegreville</weblink>".&#32;  Elections Alberta.&#32;Retrieved on <link>
@@ -2740,7 +2740,7 @@ Stelmach Stunner</weblink>", <it>Edmonton Journal</it>.&#32;Retrieved on <link>
 <entry id="88">
 "<weblink xlink:type="simple" xlink:href="http://www.canada.com/edmontonjournal/features/passingthetorch/news/story.html?id=2ddf1c2c-6d3d-4cec-b390-dbe1f0cbf38a">
 Uneasy leader</weblink>", <it>Edmonton Journal</it>&#32;(November 26, 2006).&#32;Retrieved on <link>
-2008-06-26</link>.&nbsp;</entry>
+2008-06-26</link>. </entry>
 </reflist>
 </p>
 
@@ -2807,7 +2807,7 @@ Order of precedence</header>
 </row>
 <row style="text-align:center;">
 <col align="center" width="30%" rowspan="1">
-Preceded&nbsp;by<b><governor wordnetid="110140314" confidence="0.9508927676800064">
+Preceded by<b><governor wordnetid="110140314" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../238/1411238.xml">
 Norman Kwong</link></governor>
 , Lieutenant-Governor of Alberta</b></col>
@@ -2827,7 +2827,7 @@ Order of precedence in Alberta</link></speech_act>
 </order>
 </b>as of 2008</col>
 <col align="center" width="30%" rowspan="1">
-Succeeded&nbsp;by<b>Chief Justice of The Court of Appeal of Alberta</b></col>
+Succeeded by<b>Chief Justice of The Court of Appeal of Alberta</b></col>
 </row>
 </table>
 </p>
@@ -2850,46 +2850,46 @@ Premiers of Alberta</link></header>
 <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../760/233760.xml">
 Rutherford</link></president>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../742/233742.xml">
 Sifton</link></president>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../741/233741.xml">
 Stewart</link></president>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../737/233737.xml">
 Greenfield</link></president>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../736/233736.xml">
 Brownlee</link></president>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../734/233734.xml">
 Reid</link></president>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../733/233733.xml">
 Aberhart</link></president>
-&nbsp;·  <chancellor wordnetid="109906986" confidence="0.9508927676800064">
+ ·  <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../730/233730.xml">
 Manning</link></chancellor>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../175/524175.xml">
 Strom</link></person>
 </president>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../081/226081.xml">
 Lougheed</link></president>
-&nbsp;·  <chancellor wordnetid="109906986" confidence="0.9508927676800064">
+ ·  <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <athlete wordnetid="109820263" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../750/233750.xml">
 Getty</link></athlete>
 </person>
 </chancellor>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../685/212685.xml">
 Klein</link></president>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <curate wordnetid="109983572" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../594/4591594.xml">
 Stelmach</link></curate>
@@ -2950,48 +2950,48 @@ Stephen Harper</link></person>
 Prime Minister of Canada</link></office>
 )</b>  <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/168465.xml">
-Gordon&nbsp;Campbell</link></chancellor>
-&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Gordon Campbell</link></chancellor>
+ (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../187/334187.xml">
 BC</link></office>
 ) • <person wordnetid="100007846" confidence="0.9508927676800064">
 <curate wordnetid="109983572" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../594/4591594.xml">
-Ed&nbsp;Stelmach</link></curate>
+Ed Stelmach</link></curate>
 </person>
-&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+ (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../556/470556.xml">
 AB</link></office>
 ) • <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../869/529869.xml">
-Brad&nbsp;Wall</link></chancellor>
-&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Brad Wall</link></chancellor>
+ (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../565/470565.xml">
 SK</link></office>
 ) • <link xlink:type="simple" xlink:href="../937/270937.xml">
-Gary&nbsp;Doer</link>&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Gary Doer</link> (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../557/470557.xml">
 MB</link></office>
 ) • <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../084/314084.xml">
-Dalton&nbsp;McGuinty</link></chancellor>
-&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Dalton McGuinty</link></chancellor>
+ (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../479/333479.xml">
 ON</link></office>
 ) • <link xlink:type="simple" xlink:href="../253/211253.xml">
-Jean&nbsp;Charest</link>&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Jean Charest</link> (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../751/370751.xml">
 QC</link></office>
 )  <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../276/416276.xml">
-Shawn&nbsp;Graham</link></chancellor>
-&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Shawn Graham</link></chancellor>
+ (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../965/418965.xml">
 NB</link></office>
 ) • <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../347/4041347.xml">
-Rodney&nbsp;MacDonald</link></chancellor>
-&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Rodney MacDonald</link></chancellor>
+ (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/470560.xml">
 NS</link></office>
 ) • <link xlink:type="simple" xlink:href="../819/1379819.xml">
@@ -3000,20 +3000,20 @@ Robert Ghiz</link> (<office wordnetid="103841666" confidence="0.9508927676800064
 PE</link></office>
 ) • <chancellor wordnetid="109906986" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../042/430042.xml">
-Danny&nbsp;Williams</link></chancellor>
-&nbsp;(<link xlink:type="simple" xlink:href="../519/473519.xml">
+Danny Williams</link></chancellor>
+ (<link xlink:type="simple" xlink:href="../519/473519.xml">
 NL</link>) • <link xlink:type="simple" xlink:href="../889/503889.xml">
-Dennis&nbsp;Fentie</link>&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Dennis Fentie</link> (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../524/473524.xml">
 YT</link></office>
 ) • <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../123/13255123.xml">
-Floyd&nbsp;Roland</link></president>
-&nbsp;(<link xlink:type="simple" xlink:href="../520/473520.xml">
+Floyd Roland</link></president>
+ (<link xlink:type="simple" xlink:href="../520/473520.xml">
 NT</link>) • <president wordnetid="110468559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../178/387178.xml">
-Paul&nbsp;Okalik</link></president>
-&nbsp;(<office wordnetid="103841666" confidence="0.9508927676800064">
+Paul Okalik</link></president>
+ (<office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../523/473523.xml">
 NU</link></office>
 )</col>
@@ -3063,109 +3063,109 @@ Conservative</link></party>
 <link xlink:type="simple" xlink:href="../594/4591594.xml">
 Stelmach</link></curate>
 </person>
-</it></b>&nbsp;· 
+</it></b> · 
 <b><politician wordnetid="110451263" confidence="0.9508927676800064">
 <adviser wordnetid="109774266" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../076/6275076.xml">
 Ady</link></adviser>
 </politician>
-</b>&nbsp;· 
+</b> · 
 <surveyor wordnetid="110680609" confidence="0.9173553029164789">
 <officeholder wordnetid="110371450" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../111/11459111.xml">
 Allred</link></officeholder>
 </surveyor>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../676/3933676.xml">
-Amery</link>&nbsp;· 
+Amery</link> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <lawyer wordnetid="110249950" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../460/16367460.xml">
 Anderson</link></lawyer>
 </politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../235/16367235.xml">
 Benito</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../346/16367346.xml">
 Berger</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../325/16367325.xml">
 Bhardwaj</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../263/16367263.xml">
 Bhullar</link></politician>
-&nbsp;· 
+ · 
 <b><representative wordnetid="110522035" confidence="0.9173553029164789">
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../583/16320583.xml">
 Blackett</link></politician>
 </representative>
-</b>&nbsp;· 
+</b> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../580/7600580.xml">
 Boutilier</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../366/6278366.xml">
 Brown</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../186/13904186.xml">
 Calahasen</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../398/16367398.xml">
 Campbell</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <professional wordnetid="110480253" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../484/1345484.xml">
 Cao</link></professional>
 </politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../372/16321372.xml">
 Dallas</link></politician>
-&nbsp;· 
+ · 
 <b><link xlink:type="simple" xlink:href="../982/11174982.xml">
-Danyluk</link></b>&nbsp;· 
+Danyluk</link></b> · 
 <link xlink:type="simple" xlink:href="../535/5407535.xml">
-DeLong</link>&nbsp;· 
+DeLong</link> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <businessperson wordnetid="109882716" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../515/16320515.xml">
 Denis</link></businessperson>
 </politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/16367292.xml">
 Doerksen</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../334/16321334.xml">
 Drysdale</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../255/16367255.xml">
 Elniski</link></politician>
-&nbsp;· 
+ · 
 <b><link xlink:type="simple" xlink:href="../706/7731706.xml">
-Evans</link></b>&nbsp;· 
+Evans</link></b> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <adviser wordnetid="109774266" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../473/16320473.xml">
 Fawcett</link></adviser>
 </politician>
-&nbsp;· 
+ · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../331/6324331.xml">
 Forsyth</link></person>
-&nbsp;· 
+ · 
 <b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <female wordnetid="109619168" confidence="0.8">
@@ -3179,35 +3179,35 @@ Fritz</link></adult>
 </female>
 </person>
 </physical_entity>
-</b>&nbsp;· 
+</b> · 
 <b><link xlink:type="simple" xlink:href="../550/6778550.xml">
-Goudreau</link></b>&nbsp;· 
+Goudreau</link></b> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <teacher wordnetid="110694258" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../002/14118002.xml">
 Griffiths</link></teacher>
 </politician>
-&nbsp;· 
+ · 
 <b><link xlink:type="simple" xlink:href="../626/5558626.xml">
-Groeneveld</link></b>&nbsp;· 
+Groeneveld</link></b> · 
 <b><person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../366/3877366.xml">
 Hancock</link></person>
-</b>&nbsp;· 
+</b> · 
 <b><politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../153/14117153.xml">
 Hayden</link></politician>
-</b>&nbsp;· 
+</b> · 
 <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../651/15681651.xml">
 Horne</link></person>
-&nbsp;· 
+ · 
 <b><politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../670/14117670.xml">
 Horner</link></politician>
-</b>&nbsp;· 
+</b> · 
 <b><link xlink:type="simple" xlink:href="../874/6268874.xml">
-Jablonski</link></b>&nbsp;· 
+Jablonski</link></b> · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -3221,15 +3221,15 @@ Jacobs</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../909/16182909.xml">
-Johnson</link>&nbsp;· 
+Johnson</link> · 
 <link xlink:type="simple" xlink:href="../290/4385290.xml">
-Johnston</link>&nbsp;· 
+Johnston</link> · 
 <b><politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../166/16320166.xml">
 Klimchuk</link></politician>
-</b>&nbsp;· 
+</b> · 
 <b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <farmer wordnetid="110078806" confidence="0.8">
@@ -3241,7 +3241,7 @@ Knight</link></creator>
 </farmer>
 </person>
 </physical_entity>
-</b>&nbsp;· 
+</b> · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -3255,39 +3255,39 @@ Kowalski</link></causal_agent>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../206/16320206.xml">
 Leskiw</link></politician>
-&nbsp;· 
+ · 
 <b><link xlink:type="simple" xlink:href="../567/6324567.xml">
-Liepert</link></b>&nbsp;· 
+Liepert</link></b> · 
 <b><link xlink:type="simple" xlink:href="../213/8700213.xml">
-Lindsay</link></b>&nbsp;· 
+Lindsay</link></b> · 
 <link xlink:type="simple" xlink:href="../838/5575838.xml">
-Lukaszuk</link>&nbsp;· 
+Lukaszuk</link> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/14116978.xml">
 Lund</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <farmer wordnetid="110078806" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../846/14117846.xml">
 Marz</link></farmer>
 </politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <council_member wordnetid="109944763" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../915/14117915.xml">
 McFarland</link></council_member>
 </politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../132/16320132.xml">
 McQueen</link></politician>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../983/6840983.xml">
-Mitzel</link>&nbsp;· 
+Mitzel</link> · 
 <b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -3305,35 +3305,35 @@ Morton</link></educator>
 </causal_agent>
 </person>
 </physical_entity>
-</b>&nbsp;· 
+</b> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../233/14117233.xml">
 Oberle</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../411/16320411.xml">
 Olson</link></politician>
-&nbsp;· 
+ · 
 <b><link xlink:type="simple" xlink:href="../539/6834539.xml">
-Ouellette</link></b>&nbsp;· 
+Ouellette</link></b> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../722/14117722.xml">
 Prins</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../468/16321468.xml">
 Quest</link></politician>
-&nbsp;· 
+ · 
 <b><politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../326/16142326.xml">
 Redford</link></politician>
-</b>&nbsp;· 
+</b> · 
 <b><politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../782/14117782.xml">
 Renner</link></politician>
-</b>&nbsp;· 
+</b> · 
 <link xlink:type="simple" xlink:href="../618/14117618.xml">
-Rodney</link>&nbsp;· 
+Rodney</link> · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <politician wordnetid="110451263" confidence="0.8">
 <authority wordnetid="109824609" confidence="0.8">
@@ -3351,55 +3351,55 @@ Rogers</link></causal_agent>
 </authority>
 </politician>
 </physical_entity>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../310/16367310.xml">
 Sandhu</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../243/16320243.xml">
 Sarich</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <doctor wordnetid="110020890" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../289/16367289.xml">
 Sherman</link></doctor>
 </politician>
-&nbsp;· 
+ · 
 <b><politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../047/14117047.xml">
 Snelgrove</link></politician>
-</b>&nbsp;· 
+</b> · 
 <b><person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../998/1264998.xml">
 Stevens</link></person>
-</b>&nbsp;· 
+</b> · 
 <b><politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../562/13916562.xml">
 Tarchuk</link></politician>
-</b>&nbsp;· 
+</b> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <council_member wordnetid="109944763" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../042/14118042.xml">
 VanderBurg</link></council_member>
 </politician>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../135/8687135.xml">
-Vandermeer</link>&nbsp;· 
+Vandermeer</link> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../416/16321416.xml">
 Weadick</link></politician>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../322/10405322.xml">
-Webber</link>&nbsp;· 
+Webber</link> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../277/16320277.xml">
 Woo-Paw</link></politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../431/16367431.xml">
 Xiao</link></politician>
-&nbsp;· 
+ · 
 <b><link xlink:type="simple" xlink:href="../456/6985456.xml">
 Zwozdesky</link></b></p>
 </col>
@@ -3424,13 +3424,13 @@ Taft</link></causal_agent>
 </leader>
 </person>
 </physical_entity>
-</it></b>&nbsp;· 
+</it></b> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <director wordnetid="110014939" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../341/13912341.xml">
 Blakeman</link></director>
 </politician>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <schoolteacher wordnetid="110560352" confidence="0.8">
@@ -3454,21 +3454,21 @@ Chase</link></educator>
 </schoolteacher>
 </disputant>
 </physical_entity>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../547/15901547.xml">
-Hehr</link>&nbsp;· 
+Hehr</link> · 
 <link xlink:type="simple" xlink:href="../296/16290296.xml">
-Kang</link>&nbsp;· 
+Kang</link> · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <owner wordnetid="110388924" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../264/14118264.xml">
 MacDonald</link></owner>
 </politician>
-&nbsp;· 
+ · 
 <politician wordnetid="110451263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../579/8599579.xml">
 Pastoor</link></politician>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -3484,7 +3484,7 @@ Swann</link></causal_agent>
 </person>
 </disputant>
 </physical_entity>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../583/3862583.xml">
 Taylor</link></p>
 </col>
@@ -3509,7 +3509,7 @@ Mason</link></causal_agent>
 </leader>
 </person>
 </physical_entity>
-</it></b>&nbsp;· 
+</it></b> · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <female wordnetid="109619168" confidence="0.8">

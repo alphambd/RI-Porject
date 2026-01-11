@@ -140,7 +140,7 @@ Kalpana</link></institution>
 
 As with <link xlink:type="simple" xlink:href="../926/1937926.xml">
 hubs</link>, <link xlink:type="simple" xlink:href="../499/9499.xml">
-Ethernet</link> implementations of network switches support either 10/100&nbsp;Mbit/s or 10/100/1000&nbsp;Mbit/s ports Ethernet standards. Large switches may have 10&nbsp;Gbit/s ports. Switches differ from <link xlink:type="simple" xlink:href="../926/1937926.xml">
+Ethernet</link> implementations of network switches support either 10/100 Mbit/s or 10/100/1000 Mbit/s ports Ethernet standards. Large switches may have 10 Gbit/s ports. Switches differ from <link xlink:type="simple" xlink:href="../926/1937926.xml">
 hubs</link> in that they can have ports of different speed.</p>
 <p>
 
@@ -400,7 +400,7 @@ Adaptive switching</link>: A method of automatically switching between the other
 </p>
 <p>
 
-Cut-through switches have to fall back to store and forward if the outgoing port is busy at the time the packet arrives. While there are specialized applications, such as storage area networks, where the input and output interfaces are the same speed, this is rarely the case in general LAN applications. In LANs, a switch used for end user access typically concentrates lower speed (e.g., 10/100&nbsp;Mbits/s) into a higher speed (at least 1&nbsp;Gbit/s). Alternatively, a switch that provides access to server ports usually connects to them at a much higher speed than is used by end user devices.</p>
+Cut-through switches have to fall back to store and forward if the outgoing port is busy at the time the packet arrives. While there are specialized applications, such as storage area networks, where the input and output interfaces are the same speed, this is rarely the case in general LAN applications. In LANs, a switch used for end user access typically concentrates lower speed (e.g., 10/100 Mbits/s) into a higher speed (at least 1 Gbit/s). Alternatively, a switch that provides access to server ports usually connects to them at a much higher speed than is used by end user devices.</p>
 
 </ss1>
 <ss1>

@@ -469,10 +469,10 @@ grounds</header>
 Major grounds:</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../136/463136.xml">
-AAMI Stadium</link>&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+AAMI Stadium</link> ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../480/342480.xml">
 ANZ Stadium</link></stadium>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -483,23 +483,23 @@ Melbourne Cricket Ground</link></venue>
 </location>
 </area>
 </region>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../559/952559.xml">
 Skilled Stadium</link></stadium>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/887867.xml">
 Subiaco Oval</link></stadium>
-&nbsp;·  <land wordnetid="109334396" confidence="0.9508927676800064">
+ ·  <land wordnetid="109334396" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/773497.xml">
 Sydney Cricket Ground</link></land>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <stadium wordnetid="104295881" confidence="0.8">
 <link xlink:type="simple" xlink:href="../428/541428.xml">
 Telstra Dome</link></stadium>
 </artifact>
 </structure>
-&nbsp;·  <land wordnetid="109334396" confidence="0.9508927676800064">
+ ·  <land wordnetid="109334396" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../312/1327312.xml">
 Gabba</link></land>
 </col>
@@ -512,13 +512,13 @@ Gabba</link></land>
 Minor grounds:</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../510/864510.xml">
-Aurora Stadium</link>&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+Aurora Stadium</link> ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../034/1321034.xml">
 Carrara Stadium</link></stadium>
-&nbsp;·  <land wordnetid="109334396" confidence="0.8">
+ ·  <land wordnetid="109334396" confidence="0.8">
 <link xlink:type="simple" xlink:href="../357/2072357.xml">
 Manuka Oval</link></land>
-&nbsp;·  <link xlink:type="simple" xlink:href="../110/2911110.xml">
+ ·  <link xlink:type="simple" xlink:href="../110/2911110.xml">
 TIO Stadium</link></col>
 </row>
 <row style="height:2px">
@@ -532,7 +532,7 @@ major grounds:</col>
 <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../236/4272236.xml">
 Arden Street Oval</link></stadium>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -549,7 +549,7 @@ Brunswick Street Oval</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <land wordnetid="109334396" confidence="0.8">
@@ -562,7 +562,7 @@ Coburg Oval</link></venue>
 </location>
 </area>
 </region>
- &nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+  ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <land wordnetid="109334396" confidence="0.8">
@@ -571,16 +571,16 @@ Corio Oval</link></land>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <land wordnetid="109334396" confidence="0.8">
+ ·  <land wordnetid="109334396" confidence="0.8">
 <link xlink:type="simple" xlink:href="../368/4374368.xml">
 East Melbourne Cricket Ground</link></land>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../840/2858840.xml">
 Glenferrie Oval</link></stadium>
-&nbsp;·  <land wordnetid="109334396" confidence="0.8">
+ ·  <land wordnetid="109334396" confidence="0.8">
 <link xlink:type="simple" xlink:href="../543/2828543.xml">
 Junction Oval</link></land>
-&nbsp;·   
+ ·   
 <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -592,19 +592,19 @@ Lake Oval</link></venue>
 </location>
 </area>
 </region>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../241/4272241.xml">
 Moorabbin Oval</link></stadium>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../969/5391969.xml">
 Princes Park</link></stadium>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../395/4374395.xml">
 Punt Road Oval</link></stadium>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../312/2782312.xml">
 Victoria Park</link></stadium>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <landmark wordnetid="108624891" confidence="0.8">
@@ -621,7 +621,7 @@ WACA Ground</link></venue>
 </point>
 </position>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -632,10 +632,10 @@ Waverley Park</link></venue>
 </location>
 </area>
 </region>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../308/2072308.xml">
 Whitten Oval</link></stadium>
-&nbsp;·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
+ ·  <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../272/1942272.xml">
 Windy Hill</link></stadium>
 </col>

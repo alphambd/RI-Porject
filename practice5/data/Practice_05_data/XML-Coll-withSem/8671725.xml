@@ -298,7 +298,7 @@ Secretary of the Navy</link></secretary>
 </point>
 </physical_entity>
 </position>
-&nbsp;· <physical_entity wordnetid="100001930" confidence="0.8">
+ · <physical_entity wordnetid="100001930" confidence="0.8">
 <military_unit wordnetid="108198398" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -315,14 +315,14 @@ Commandant of the Marine Corps</link></corps>
 </person>
 </military_unit>
 </physical_entity>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.8">
+ · <military_unit wordnetid="108198398" confidence="0.8">
 <army_unit wordnetid="108190754" confidence="0.8">
 <corps wordnetid="108212527" confidence="0.8">
 <link xlink:type="simple" xlink:href="../421/14116421.xml">
 Assistant Commandant of the Marine Corps</link></corps>
 </army_unit>
 </military_unit>
-&nbsp;· <rank wordnetid="108431942" confidence="0.8">
+ · <rank wordnetid="108431942" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <line wordnetid="108430568" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -347,22 +347,22 @@ Sergeant Major of the Marine Corps</link></formation>
 Major Commands</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../467/6649467.xml">
-Organization of the Marine Corps</link>&nbsp;· <link xlink:type="simple" xlink:href="../711/4948711.xml">
-Headquarters Marine Corps</link>&nbsp;· <link xlink:type="simple" xlink:href="../976/10509976.xml">
+Organization of the Marine Corps</link> · <link xlink:type="simple" xlink:href="../711/4948711.xml">
+Headquarters Marine Corps</link> · <link xlink:type="simple" xlink:href="../976/10509976.xml">
 MARFORCOM</link> (<military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../392/3544392.xml">
 II Marine Expeditionary Force</link></military_unit>
-)&nbsp;· <link xlink:type="simple" xlink:href="../389/9873389.xml">
+) · <link xlink:type="simple" xlink:href="../389/9873389.xml">
 MARFORPAC</link> (<military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../756/1865756.xml">
 I Marine Expeditionary Force</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../805/746805.xml">
 III Marine Expeditionary Force</link></military_unit>
-)&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+) · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../537/2541537.xml">
 Marine Forces Reserve</link></military_unit>
-&nbsp;· <link xlink:type="simple" xlink:href="../019/6435019.xml">
+ · <link xlink:type="simple" xlink:href="../019/6435019.xml">
 Fleet Marine Force</link></col>
 </row>
 <row style="height:2px">
@@ -377,14 +377,14 @@ Structure</col>
 <link xlink:type="simple" xlink:href="../582/4404582.xml">
 Marine Air-Ground Task Force</link></definite_quantity>
 </unit_of_measurement>
-&nbsp;· <link xlink:type="simple" xlink:href="../907/767907.xml">
-Bases</link>&nbsp;· <link xlink:type="simple" xlink:href="../220/4351220.xml">
-Battalions</link>&nbsp;· <link xlink:type="simple" xlink:href="../244/12667244.xml">
-Marine aviation</link>&nbsp;· <link>
-Expeditionary units</link>&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../907/767907.xml">
+Bases</link> · <link xlink:type="simple" xlink:href="../220/4351220.xml">
+Battalions</link> · <link xlink:type="simple" xlink:href="../244/12667244.xml">
+Marine aviation</link> · <link>
+Expeditionary units</link> · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../807/3404807.xml">
 MARSOC</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../695/627695.xml">
 Force Recon</link></military_unit>
 </col>
@@ -429,10 +429,10 @@ Enlisted insignia</link></formation>
 </line>
 </arrangement>
 </rank>
-&nbsp;· <link xlink:type="simple" xlink:href="../964/7904964.xml">
+ · <link xlink:type="simple" xlink:href="../964/7904964.xml">
 MOS</link>Personnel: <link xlink:type="simple" xlink:href="../057/991057.xml">
-Famous Marines</link>&nbsp;· <link xlink:type="simple" xlink:href="../188/8817188.xml">
-Historical Marines</link>&nbsp;· <military_unit wordnetid="108198398" confidence="0.8">
+Famous Marines</link> · <link xlink:type="simple" xlink:href="../188/8817188.xml">
+Historical Marines</link> · <military_unit wordnetid="108198398" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
 <army_unit wordnetid="108190754" confidence="0.8">
 <corps wordnetid="108212527" confidence="0.8">
@@ -441,7 +441,7 @@ Marine Corps Association</link></corps>
 </army_unit>
 </association>
 </military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.8">
+ · <military_unit wordnetid="108198398" confidence="0.8">
 <army_unit wordnetid="108190754" confidence="0.8">
 <corps wordnetid="108212527" confidence="0.8">
 <link xlink:type="simple" xlink:href="../427/4947427.xml">
@@ -455,20 +455,20 @@ Training: <school wordnetid="108276720" confidence="0.8">
 Recruit Training</link></institution>
 </educational_institution>
 </school>
-&nbsp;· <school wordnetid="108276720" confidence="0.8">
+ · <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../772/1064772.xml">
 SOI</link></institution>
 </educational_institution>
 </school>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../573/2864573.xml">
 OCS</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../241/1107241.xml">
 TBS</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.8">
+ · <military_unit wordnetid="108198398" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <art wordnetid="102743547" confidence="0.8">
@@ -509,23 +509,23 @@ Uniforms</link></corps>
 </commodity>
 </artifact>
 </military_unit>
-&nbsp;· <symbol wordnetid="106806469" confidence="0.8">
+ · <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <link xlink:type="simple" xlink:href="../774/2097774.xml">
 Awards</link></signal>
 </award>
 </symbol>
-&nbsp;· <symbol wordnetid="106806469" confidence="0.8">
+ · <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <link xlink:type="simple" xlink:href="../980/1529980.xml">
 Badges</link></signal>
 </award>
 </symbol>
-&nbsp;· <link xlink:type="simple" xlink:href="../359/615359.xml">
-Weapons</link>&nbsp;· <link xlink:type="simple" xlink:href="../522/12696522.xml">
-Vehicles &amp; Aircraft</link>&nbsp;· <link xlink:type="simple" xlink:href="../714/18530714.xml">
+ · <link xlink:type="simple" xlink:href="../359/615359.xml">
+Weapons</link> · <link xlink:type="simple" xlink:href="../522/12696522.xml">
+Vehicles &amp; Aircraft</link> · <link xlink:type="simple" xlink:href="../714/18530714.xml">
 Individual Equipment</link></col>
 </row>
 <row style="height:2px">
@@ -536,9 +536,9 @@ Individual Equipment</link></col>
 History &amp; Traditions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../146/6151146.xml">
-Marine Corps history</link>&nbsp;· <link xlink:type="simple" xlink:href="../523/18776523.xml">
-Culture</link>&nbsp;· <link xlink:type="simple" xlink:href="../053/378053.xml">
-Semper Fidelis</link>&nbsp;· <music wordnetid="107020895" confidence="0.8">
+Marine Corps history</link> · <link xlink:type="simple" xlink:href="../523/18776523.xml">
+Culture</link> · <link xlink:type="simple" xlink:href="../053/378053.xml">
+Semper Fidelis</link> · <music wordnetid="107020895" confidence="0.8">
 <military_action wordnetid="100952963" confidence="0.8">
 <group_action wordnetid="101080366" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
@@ -559,7 +559,7 @@ Marines' Hymn</link></musical_composition>
 </group_action>
 </military_action>
 </music>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.8">
+ · <military_unit wordnetid="108198398" confidence="0.8">
 <operation wordnetid="114008806" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <set wordnetid="108240169" confidence="0.8">
@@ -574,11 +574,11 @@ Marine Band</link></group>
 </social_group>
 </operation>
 </military_unit>
-&nbsp;· <link xlink:type="simple" xlink:href="../302/1750302.xml">
-Silent Drill Platoon</link>&nbsp;· <aviation wordnetid="108433727" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../302/1750302.xml">
+Silent Drill Platoon</link> · <aviation wordnetid="108433727" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../868/440868.xml">
 Marine One</link></aviation>
-&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+ · <artifact wordnetid="100021939" confidence="0.8">
 <flag wordnetid="103354903" confidence="0.8">
 <emblem wordnetid="103282591" confidence="0.8">
 <decoration wordnetid="103169390" confidence="0.8">
@@ -589,8 +589,8 @@ Marine Flag</link></design>
 </emblem>
 </flag>
 </artifact>
-&nbsp;· <link xlink:type="simple" xlink:href="../342/4376342.xml">
-Eagle, Globe, and Anchor</link>&nbsp;· <product wordnetid="104007894" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../342/4376342.xml">
+Eagle, Globe, and Anchor</link> · <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <flag wordnetid="103354903" confidence="0.8">
@@ -609,8 +609,8 @@ Raising the Flag on Iwo Jima</link></design>
 </artifact>
 </creation>
 </product>
-&nbsp;· <link xlink:type="simple" xlink:href="../566/3673566.xml">
-Rifleman's Creed</link>&nbsp;· <military_unit wordnetid="108198398" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../566/3673566.xml">
+Rifleman's Creed</link> · <military_unit wordnetid="108198398" confidence="0.8">
 <financial_institution wordnetid="108054721" confidence="0.8">
 <foundation wordnetid="108406486" confidence="0.8">
 <charity wordnetid="108406619" confidence="0.8">
@@ -625,10 +625,10 @@ Toys for Tots</link></institution>
 </foundation>
 </financial_institution>
 </military_unit>
-&nbsp;· <museum wordnetid="103800563" confidence="0.9508927676800064">
+ · <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../302/5220302.xml">
 National Museum of the Marine Corps</link></museum>
-&nbsp;· <link xlink:type="simple" xlink:href="../370/11612370.xml">
+ · <link xlink:type="simple" xlink:href="../370/11612370.xml">
 Acronyms &amp; Terms</link></col>
 </row>
 </table>

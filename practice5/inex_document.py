@@ -29,22 +29,65 @@ class INEXDocument:
         self.doc_id = None
         self.tree = None
         self.root = None
-        
+
     def parse(self, use_lxml: bool = True):
-        """Parse le document XML avec lxml si disponible, sinon ElementTree"""
+        """Parse le document XML avec correction des entités avant parsing"""
         try:
+            # 1. Lire le fichier
+            with open(self.xml_path, 'r', encoding='utf-8', errors='ignore') as f:
+                content = f.read()
+
+            # 2. CORRECTION DES ENTITÉS AVANT PARSING
+            content = self._preprocess_xml_entities(content)
+
+            # 3. Parser le contenu corrigé
             if use_lxml and LXML_AVAILABLE:
                 parser = etree.XMLParser(recover=True, remove_comments=True)
-                self.tree = etree.parse(self.xml_path, parser)
+                # Parser depuis la string, pas depuis le fichier
+                self.tree = etree.fromstring(content.encode('utf-8'), parser)
             else:
-                self.tree = ET.parse(self.xml_path)
-            
-            self.root = self.tree.getroot()
+                # Pour ElementTree
+                self.tree = ET.fromstring(content)
+
+            self.root = self.tree  # Note: avec fromstring(), tree EST root
             self.doc_id = self._extract_doc_id()
             return True
+
         except Exception as e:
             print(f"Erreur parsing {self.xml_path}: {e}")
-            return False
+            # Fallback: essayer sans correction
+            try:
+                if use_lxml and LXML_AVAILABLE:
+                    parser = etree.XMLParser(recover=True, remove_comments=True)
+                    self.tree = etree.parse(self.xml_path, parser)
+                else:
+                    self.tree = ET.parse(self.xml_path)
+
+                self.root = self.tree.getroot()
+                self.doc_id = self._extract_doc_id()
+                return True
+            except:
+                return False
+
+    @staticmethod
+    def _preprocess_xml_entities(content: str) -> str:
+        """Corrige les entités XML problématiques avant parsing"""
+        # Liste des entités qui causent des erreurs
+        corrections = {
+            '&rsaquo;': '&#8250;',  # guillemet simple fermant
+            '&lsaquo;': '&#8249;',  # guillemet simple ouvrant
+            '&middot;': '&#183;',  # point médian
+            # Ajoute d'autres si besoin
+            '&rdquo;': '&#8221;',
+            '&ldquo;': '&#8220;',
+            '&rsquo;': '&#8217;',
+            '&lsquo;': '&#8216;',
+        }
+
+        for wrong, correct in corrections.items():
+            content = content.replace(wrong, correct)
+
+        return content
     
     def _extract_doc_id(self) -> str:
         """Extrait l'ID du document depuis l'XML de manière robuste"""
@@ -299,25 +342,101 @@ class INEXDocument:
             text_content = re.sub(rf'<{balise}[^>]*>', '', text_content)
         text = re.sub(r'<[^>]+>', ' ', text_content)
         return unidecode(text)
-    
+
     @staticmethod
     def _clean_html_entities(text: str) -> str:
-        """Nettoie les entités HTML"""
-        text = html.unescape(text)
-        
+        """
+        Nettoie TOUTES les entités HTML de manière exhaustive
+        """
+        if not text:
+            return ""
+
+        # Dictionnaire COMPLET des entités
         entity_map = {
+            # Entités XML de base
             '&nbsp;': ' ', '&amp;': '&', '&apos;': "'", '&quot;': '"',
-            '&lt;': '<', '&gt;': '>', '&ndash;': '–', '&mdash;': '—'
+            '&lt;': '<', '&gt;': '>',
+
+            # Ponctuation
+            '&ndash;': '–', '&mdash;': '—', '&hellip;': '...',
+            '&middot;': '·', '&bull;': '•',
+
+            # Guillemets
+            '&ldquo;': '"', '&rdquo;': '"',
+            '&lsquo;': "'", '&rsquo;': "'",
+            '&laquo;': '"', '&raquo;': '"',
+            '&lsaquo;': '‹', '&rsaquo;': '›',  # <-- LES PROBLÉMATIQUES
+
+            # Espaces
+            '&ensp;': ' ', '&emsp;': '    ', '&thinsp;': ' ',
+
+            # Divers
+            '&zwnj;': '', '&zwj;': '', '&lrm;': '', '&rlm;': '',
+            '&copy;': '(c)', '&reg;': '(R)', '&trade;': '(TM)',
+            '&euro;': '€', '&pound;': '£', '&cent;': '¢',
+            '&deg;': '°', '&plusmn;': '±', '&times;': '×', '&divide;': '÷',
+
+            # Lettres accentuées communes
+            '&agrave;': 'à', '&aacute;': 'á', '&acirc;': 'â', '&atilde;': 'ã',
+            '&egrave;': 'è', '&eacute;': 'é', '&ecirc;': 'ê', '&etilde;': 'ẽ',
+            '&igrave;': 'ì', '&iacute;': 'í', '&icirc;': 'î', '&itilde;': 'ĩ',
+            '&ograve;': 'ò', '&oacute;': 'ó', '&ocirc;': 'ô', '&otilde;': 'õ',
+            '&ugrave;': 'ù', '&uacute;': 'ú', '&ucirc;': 'û', '&utilde;': 'ũ',
+            '&yacute;': 'ý', '&yuml;': 'ÿ',
+
+            # Majuscules accentuées
+            '&Agrave;': 'À', '&Aacute;': 'Á', '&Acirc;': 'Â', '&Atilde;': 'Ã',
+            '&Egrave;': 'È', '&Eacute;': 'É', '&Ecirc;': 'Ê', '&Etilde;': 'Ẽ',
+            '&Igrave;': 'Ì', '&Iacute;': 'Í', '&Icirc;': 'Î', '&Itilde;': 'Ĩ',
+            '&Ograve;': 'Ò', '&Oacute;': 'Ó', '&Ocirc;': 'Ô', '&Otilde;': 'Õ',
+            '&Ugrave;': 'Ù', '&Uacute;': 'Ú', '&Ucirc;': 'Û', '&Utilde;': 'Ũ',
+            '&Yacute;': 'Ý',
         }
-        
+
+        # 1. D'abord remplacer les entités connues
         for entity, replacement in entity_map.items():
             text = text.replace(entity, replacement)
-        
-        # Nettoyer les caractères de contrôle
+
+        # 2. Ensuite gérer les entités numériques (&#xxx; et &#xhhh;)
+        # Entités décimales
+        def replace_decimal(match):
+            try:
+                code = int(match.group(1))
+                # Filtrer les caractères de contrôle
+                if code < 32 or code == 127:
+                    return ' '
+                return chr(code)
+            except:
+                return ' '
+
+        text = re.sub(r'&#(\d+);', replace_decimal, text)
+
+        # Entités hexadécimales
+        def replace_hex(match):
+            try:
+                code = int(match.group(1), 16)
+                if code < 32 or code == 127:
+                    return ' '
+                return chr(code)
+            except:
+                return ' '
+
+        text = re.sub(r'&#x([0-9a-fA-F]+);', replace_hex, text)
+
+        # 3. Décoder les entités HTML standard
+        try:
+            text = html.unescape(text)
+        except:
+            pass
+
+        # 4. Supprimer les caractères de contrôle restants
         control_chars = ''.join(chr(i) for i in range(32)) + chr(127)
         for char in control_chars:
             text = text.replace(char, ' ')
-        
+
+        # 5. Normaliser les espaces
+        text = re.sub(r'\s+', ' ', text)
+
         return text.strip()
     
     def _clean_tag(self, tag):

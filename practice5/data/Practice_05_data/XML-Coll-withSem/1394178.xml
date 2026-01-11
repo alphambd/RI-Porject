@@ -141,7 +141,7 @@ W10 postal district</link></area>
 <header style="vertical-align: middle; width: 30%; border-top: 1px #aaa solid; border-right: 1px #aaa solid; border-left: 0px; border-bottom: 0px; color:inherit; background-color:#f2f2f2; ">
 <b>Preceding station</b></header>
 <header style="border-left: 0px none; border-right: 0px none; border-bottom: 0px none; border-top: 1px #aaa solid; background-color:#">
-&nbsp;</header>
+ </header>
 <header style="vertical-align: middle; border-top: 1px #aaa solid; border-left: 0px none; border-right: 0px none; border-bottom: 0px none; background-color:#">
 <image width="15px" src="Underground_no-text.svg">
 </image>
@@ -164,7 +164,7 @@ London Underground</link></administration>
 </body>
 </header>
 <header style="border-left: 0px none; border-right: 0px none; border-bottom: 0px none; border-top: 1px #aaa solid; background-color:#">
-&nbsp;</header>
+ </header>
 <header style="vertical-align: middle; width: 30%; border-top: 1px #aaa solid; border-left: 1px #aaa solid; border-right: 0px; border-bottom: 0px; color:inherit; background-color:#f2f2f2; ">
 <b>Following station</b></header>
 </row>
@@ -172,15 +172,15 @@ London Underground</link></administration>
 
 <row style="background:#F0F0F0;">
 <col style="border-right: none; border-left: none; border-bottom: none;">
-&nbsp;</col>
+ </col>
 <col style="border-right: none; border-left: none; border-bottom: none;">
-&nbsp;</col>
+ </col>
 <col style="border-left: none; border-right: none; text-align: center; border-bottom: none;">
 <b>Fictional</b></col>
 <col style="border-right: none; border-left: none; border-bottom: none;">
-&nbsp;</col>
+ </col>
 <col style="border-left: none; border-right: none; border-bottom: none;">
-&nbsp;</col>
+ </col>
 </row>
 <row style="text-align: center;">
 <col style="vertical-align: middle; border-left: 0px none; border-bottom: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid;" rowspan="1">

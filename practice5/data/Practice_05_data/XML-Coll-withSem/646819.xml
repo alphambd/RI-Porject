@@ -301,7 +301,7 @@ z/VM</link>, and TRANGO.</p>
 operating system-level virtualization</link></it>
 </indent>
 
-In operating system-level virtualization, a physical server is virtualized at the operating system level, enabling multiple isolated and secure virtualized servers to run on a single physical server.  The "guest" OS environments share the same OS as the host system &ndash; i.e. the same OS kernel is used to implement the "guest" environments. Applications running in a given "guest" environment view it as a stand-alone system. Examples are <software wordnetid="106566077" confidence="0.9508927676800064">
+In operating system-level virtualization, a physical server is virtualized at the operating system level, enabling multiple isolated and secure virtualized servers to run on a single physical server.  The "guest" OS environments share the same OS as the host system – i.e. the same OS kernel is used to implement the "guest" environments. Applications running in a given "guest" environment view it as a stand-alone system. Examples are <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../526/1191526.xml">
 Linux-VServer</link></software>
 , <link>

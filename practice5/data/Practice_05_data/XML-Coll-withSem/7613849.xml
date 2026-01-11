@@ -78,16 +78,16 @@ The <it>Counter machine reference model</it> consists of a finite set of registe
 <list>
 <entry level="1" type="bullet">
 
- INC(<it>j</it>) &mdash; increment the value of register <it>rj</it> by 1; go to the successor instruction (e.g. instruction that is numerically next-in-sequence). </entry>
+ INC(<it>j</it>) — increment the value of register <it>rj</it> by 1; go to the successor instruction (e.g. instruction that is numerically next-in-sequence). </entry>
 <entry level="1" type="bullet">
 
- DEC(<it>j</it>) &mdash; If the contents of r is not 0 (not empty) then decrement the value of register <it>rj</it> by 1, else the contents of r=0; go to the successor instruction. </entry>
+ DEC(<it>j</it>) — If the contents of r is not 0 (not empty) then decrement the value of register <it>rj</it> by 1, else the contents of r=0; go to the successor instruction. </entry>
 <entry level="1" type="bullet">
 
- JZ (<it>j</it>, <it>z</it>) &mdash; If the contents of register <it>rj</it> equals Zero then Jump to instruction <it>Iz</it> else go to the successor instruction.</entry>
+ JZ (<it>j</it>, <it>z</it>) — If the contents of register <it>rj</it> equals Zero then Jump to instruction <it>Iz</it> else go to the successor instruction.</entry>
 <entry level="1" type="bullet">
 
- HALT &mdash; halts the computation.</entry>
+ HALT — halts the computation.</entry>
 </list>
 </p>
 <p>

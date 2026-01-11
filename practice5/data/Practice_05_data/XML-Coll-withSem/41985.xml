@@ -57,7 +57,7 @@ weights</link></publication>
  of its constituent edges is minimized. An example is finding the quickest way to get from one location to another on a road map; in this case, the vertices represent locations and the edges represent segments of road and are weighted by the time needed to travel that segment.<p>
 
 Formally, given a weighted graph (that is, a set <it>V</it> of vertices, a set <it>E</it> of edges, and a <link xlink:type="simple" xlink:href="../491/19725491.xml">
-real</link>-valued weight function <it>f</it>&nbsp;: <it>E</it>&nbsp;&amp;rarr;&nbsp;<b>R</b>), and one element <it>v</it> of <it>V</it>, find a path <it>P</it> from <it>v</it> to each <it>v' </it> of <it>V</it> so that</p>
+real</link>-valued weight function <it>f</it> : <it>E</it> &amp;rarr; <b>R</b>), and one element <it>v</it> of <it>V</it>, find a path <it>P</it> from <it>v</it> to each <it>v' </it> of <it>V</it> so that</p>
 <p>
 
 <indent level="1">
@@ -349,7 +349,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapters 24: Single-Source Shortest Paths, and 25: All-Pairs Shortest Paths, pp.580&ndash;642.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapters 24: Single-Source Shortest Paths, and 25: All-Pairs Shortest Paths, pp.580–642.</entry>
 </list>
 </p>
 

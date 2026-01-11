@@ -131,11 +131,11 @@ accumulator</link></written_record>
 </register>
  A and <link xlink:type="simple" xlink:href="../944/59944.xml">
 program counter</link> C. Mark I added another, D, for holding one side of a multiplication, leaving B the natural place to hold the <link xlink:type="simple" xlink:href="../680/383680.xml">
-index register</link>. Since the system used a 20-bit address, the <it>B-line</it> on the tube held two address offsets. This is the earliest known implementation of such index/base registers &ndash; an important innovation in computer architecture, unknown in other machines until the emergence of <link xlink:type="simple" xlink:href="../636/13636.xml">
-second-generation computers</link> (approximately 1955&ndash;1964). The Mark I included two tubes, each storing 64 rows ("double density") of 40 points, for a total of 128 words. 64 words was considered to be a single "page", so the system stored 4 pages. <person wordnetid="100007846" confidence="0.9508927676800064">
+index register</link>. Since the system used a 20-bit address, the <it>B-line</it> on the tube held two address offsets. This is the earliest known implementation of such index/base registers – an important innovation in computer architecture, unknown in other machines until the emergence of <link xlink:type="simple" xlink:href="../636/13636.xml">
+second-generation computers</link> (approximately 1955–1964). The Mark I included two tubes, each storing 64 rows ("double density") of 40 points, for a total of 128 words. 64 words was considered to be a single "page", so the system stored 4 pages. <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../688/1083688.xml">
 Freddie Williams</link></person>
- deliberately sized the drum to store two "pages" of Williams tube data &ndash; that is, 2x32x40 = 2,560 bits &ndash; per track, and 32 tracks in total. The drum was timed to spin at the <it>refresh</it> rate of the Willams tubes, allowing pages to be read and written between refreshes, a task that took about 30 cycles.</p>
+ deliberately sized the drum to store two "pages" of Williams tube data – that is, 2x32x40 = 2,560 bits – per track, and 32 tracks in total. The drum was timed to spin at the <it>refresh</it> rate of the Willams tubes, allowing pages to be read and written between refreshes, a task that took about 30 cycles.</p>
 <p>
 
 The first version of the machine was running in April 1949, known as the <it>Intermediary Version</it>. This version was largely feature complete, but lacked <link xlink:type="simple" xlink:href="../558/14558.xml">
@@ -656,7 +656,7 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Lavington, Simon H.&#32;(1980). Early British Computers.&#32;Manchester University Press. ISBN 0-932376-08-8.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Lavington, Simon H.&#32;(1980). Early British Computers.&#32;Manchester University Press. ISBN 0-932376-08-8.</cite> </entry>
 </list>
 </p>
 
@@ -690,7 +690,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2F85.222841">
-10.1109/85.222841</weblink>.</cite>&nbsp;</weblink></entry>
+10.1109/85.222841</weblink>.</cite> </weblink></entry>
 </list>
 </p>
 

@@ -48,7 +48,7 @@ NP-hard</link></group>
 </class>
 , the most efficient known algorithms use <link xlink:type="simple" xlink:href="../509/846509.xml">
 heuristics</link> to accomplish results which, though very good in most cases, may not be the optimal solution. For example, the <b>first fit algorithm</b> provides a fast but often nonoptimal solution, involving placing each item into the first bin in which it will fit. It requires <link xlink:type="simple" xlink:href="../578/44578.xml">
-<b>Θ</b></link>(<it>n</it>&nbsp;log&nbsp;<it>n</it>) time. The algorithm can be made much more effective by first sorting the list of elements into decreasing order (sometimes known as the first-fit decreasing algorithm), although this does not guarantee an optimal solution, and for longer lists may increase the running time of the algorithm.</p>
+<b>Θ</b></link>(<it>n</it> log <it>n</it>) time. The algorithm can be made much more effective by first sorting the list of elements into decreasing order (sometimes known as the first-fit decreasing algorithm), although this does not guarantee an optimal solution, and for longer lists may increase the running time of the algorithm.</p>
 
 <sec>
 <st>
@@ -73,8 +73,8 @@ A solution is <it>optimal</it> if it has minimal <math>B</math>. The <math>B</ma
 Analysis of heuristic algorithms</st>
 <p>
 
-The <it>best fit decreasing</it> and <it>first fit decreasing</it> strategies are among the simplest heuristic algorithms for solving the bin packing problem.  They have been shown to use no more than 11/9&nbsp;<b>OPT</b>&nbsp;+&nbsp;1 bins (where <b>OPT</b> is the number of bins given by the optimal solution).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> The simpler of these, the <it>First Fit Decreasing</it> strategy, operates by first sorting the items to be inserted in decreasing order by volume, and then inserting each item into the first bin in the list with sufficient remaining space. The sorting step is relatively expensive, but without it we only achieve the looser bound of 17/10&nbsp;<b>OPT</b>&nbsp;+&nbsp;2.  Recently, it was proved that the bound 11/9&nbsp;<b>OPT</b>&nbsp;+&nbsp;6/9 for FFD is <link xlink:type="simple" xlink:href="../578/44578.xml">
-tight</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref>  MFDD<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> (a variant of FFD) uses no more than 71/60&nbsp;<b>OPT</b>&nbsp;+&nbsp;1 bins<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> (i.e. bounded by about 1.18×opt, compared to about 1.22×opt for FFD).</p>
+The <it>best fit decreasing</it> and <it>first fit decreasing</it> strategies are among the simplest heuristic algorithms for solving the bin packing problem.  They have been shown to use no more than 11/9 <b>OPT</b> + 1 bins (where <b>OPT</b> is the number of bins given by the optimal solution).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> The simpler of these, the <it>First Fit Decreasing</it> strategy, operates by first sorting the items to be inserted in decreasing order by volume, and then inserting each item into the first bin in the list with sufficient remaining space. The sorting step is relatively expensive, but without it we only achieve the looser bound of 17/10 <b>OPT</b> + 2.  Recently, it was proved that the bound 11/9 <b>OPT</b> + 6/9 for FFD is <link xlink:type="simple" xlink:href="../578/44578.xml">
+tight</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref>  MFDD<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> (a variant of FFD) uses no more than 71/60 <b>OPT</b> + 1 bins<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> (i.e. bounded by about 1.18×opt, compared to about 1.22×opt for FFD).</p>
 <p>
 
 Although these simple strategies are often good enough, efficient <link xlink:type="simple" xlink:href="../105/563105.xml">
@@ -161,9 +161,9 @@ Subset sum problem</link></difficulty>
 
 <reflist>
 <entry id="1">
-M. Yue, "A simple proof of the inequality FFD(L) ≤ (11/9)OPT(L) + 1, for all L, for the FFD bin-packing algorithm", <it>Acta Mathematicae Applicatae Sinica</it> <b>7</b> (1991), pp.&nbsp;321–331.</entry>
+M. Yue, "A simple proof of the inequality FFD(L) ≤ (11/9)OPT(L) + 1, for all L, for the FFD bin-packing algorithm", <it>Acta Mathematicae Applicatae Sinica</it> <b>7</b> (1991), pp. 321–331.</entry>
 <entry id="2">
-György Dósa, "The Tight Bound of First Fit Decreasing Bin-Packing Algorithm Is FFD(I)≤(11/9)OPT(I)+6/9", ESCAPE 2007, <it>Springer LNCS</it> <it>4614</it> (2007), pp.&nbsp;1–11.</entry>
+György Dósa, "The Tight Bound of First Fit Decreasing Bin-Packing Algorithm Is FFD(I)≤(11/9)OPT(I)+6/9", ESCAPE 2007, <it>Springer LNCS</it> <it>4614</it> (2007), pp. 1–11.</entry>
 <entry id="3">
 <link xlink:type="simple" xlink:href="../372/1709372.xml">
 Michael R. Garey</link> and <physical_entity wordnetid="100001930" confidence="0.8">
@@ -185,7 +185,7 @@ David S. Johnson</link></associate>
 </person>
 </peer>
 </physical_entity>
-, "A 71/60 theorem for bin packing", <it>Journal of Complexity</it>, Vol.&nbsp;1 (1985), pp.&nbsp;65–106.</entry>
+, "A 71/60 theorem for bin packing", <it>Journal of Complexity</it>, Vol. 1 (1985), pp. 65–106.</entry>
 <entry id="4">
 Yue Minyi and Zhang Lei, "A simple proof of the inequality MFFD(L) ≤ 71/60 OPT(L) + 1, L for the MFFD bin-packing algorithm", <it>Acta Mathematicae Applicatae Sinica</it> <b>11</b> (1995), pp. 318–330.</entry>
 <entry id="5">
@@ -202,7 +202,7 @@ Vijay V. Vazirani</link></associate>
 </person>
 </peer>
 </physical_entity>
-, Approximation Algorithms. Springer. ISBN 3-540-65367-8. p.&nbsp;74.</entry>
+, Approximation Algorithms. Springer. ISBN 3-540-65367-8. p. 74.</entry>
 </reflist>
 
 <list>

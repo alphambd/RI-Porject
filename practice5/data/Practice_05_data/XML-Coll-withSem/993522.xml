@@ -117,17 +117,17 @@ Millard Drexler</link></scholar>
 </person>
 </executive>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <vice_president wordnetid="110751265" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../706/5042706.xml">
 Al Gore</link></vice_president>
 </person>
-&nbsp;·  <president wordnetid="110468962" confidence="0.9173553029164789">
+ ·  <president wordnetid="110468962" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../236/7412236.xml">
 Steve Jobs</link></person>
 </president>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <genitor wordnetid="110126708" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -160,7 +160,7 @@ Andrea Jung</link></scholar>
 </genitor>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -181,10 +181,10 @@ Arthur D. Levinson</link></scholar>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/224584.xml">
 Eric E. Schmidt</link></celebrity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -226,13 +226,13 @@ Apple TV</link></electronic_equipment>
 </receiver>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../749/8841749.xml">
-iPhone</link>&nbsp;·  <link xlink:type="simple" xlink:href="../847/89847.xml">
+ ·  <link xlink:type="simple" xlink:href="../749/8841749.xml">
+iPhone</link> ·  <link xlink:type="simple" xlink:href="../847/89847.xml">
 iPod</link> (<link xlink:type="simple" xlink:href="../157/13111157.xml">
 classic</link>, <link xlink:type="simple" xlink:href="../169/2635169.xml">
 nano</link>, <link xlink:type="simple" xlink:href="../785/1386785.xml">
 shuffle</link>, <link xlink:type="simple" xlink:href="../239/13111239.xml">
-touch</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../979/19006979.xml">
+touch</link>) ·  <link xlink:type="simple" xlink:href="../979/19006979.xml">
 Mac</link> (<link xlink:type="simple" xlink:href="../684/89684.xml">
 iMac</link>, <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -287,7 +287,7 @@ Pro</link></computer>
 , <computer wordnetid="103082979" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../487/288487.xml">
 Xserve</link></computer>
-)&nbsp;· <link xlink:type="simple" xlink:href="../663/2903663.xml">
+) · <link xlink:type="simple" xlink:href="../663/2903663.xml">
 Former products</link></col>
 </row>
 <row style="height:2px">
@@ -299,11 +299,11 @@ Former products</link></col>
 Apple Inc. hardware|Accessories</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../171/58171.xml">
-AirPort</link>&nbsp;·  <link xlink:type="simple" xlink:href="../599/1126599.xml">
-Cinema Display</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.9508927676800064">
+AirPort</link> ·  <link xlink:type="simple" xlink:href="../599/1126599.xml">
+Cinema Display</link> ·  <computer wordnetid="103082979" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../379/2363379.xml">
 Mighty Mouse</link></computer>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../899/15233899.xml">
@@ -340,24 +340,24 @@ Aperture</link></thinker>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <link xlink:type="simple" xlink:href="../121/1986121.xml">
-Final Cut Studio</link>&nbsp;·  <link xlink:type="simple" xlink:href="../526/288526.xml">
-iLife</link>&nbsp;·  <link xlink:type="simple" xlink:href="../266/186266.xml">
-iTunes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../692/1386692.xml">
-iWork</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../121/1986121.xml">
+Final Cut Studio</link> ·  <link xlink:type="simple" xlink:href="../526/288526.xml">
+iLife</link> ·  <link xlink:type="simple" xlink:href="../266/186266.xml">
+iTunes</link> ·  <link xlink:type="simple" xlink:href="../692/1386692.xml">
+iWork</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../749/13231749.xml">
 Logic Studio</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;(<link xlink:type="simple" xlink:href="../086/47086.xml">
-Server</link>)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> (<link xlink:type="simple" xlink:href="../086/47086.xml">
+Server</link>) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../231/25231.xml">
 QuickTime</link></format>
 </software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../842/166842.xml">
 Safari</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../072/1364072.xml">
 Xsan</link></software>
 </col>
@@ -391,7 +391,7 @@ ADC</link></activity>
 </event>
 </social_group>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -404,7 +404,7 @@ AppleCare</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -417,7 +417,7 @@ Apple Specialist</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <merchant wordnetid="110309896" confidence="0.8">
 <businessperson wordnetid="109882716" confidence="0.8">
@@ -436,7 +436,7 @@ Apple Store</link></supplier>
 </merchant>
 </person>
 </physical_entity>
-&nbsp;(<work wordnetid="100575741" confidence="0.8">
+ (<work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -449,7 +449,7 @@ online</link></activity>
 </service>
 </event>
 </work>
-)&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+) ·  <work wordnetid="100575741" confidence="0.8">
 <qualification wordnetid="104717139" confidence="0.8">
 <fitness wordnetid="104716864" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -468,17 +468,17 @@ Certifications</link></activity>
 </fitness>
 </qualification>
 </work>
-&nbsp;·  <barroom wordnetid="102796995" confidence="0.9508927676800064">
+ ·  <barroom wordnetid="102796995" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/2241719.xml">
 Genius Bar</link></barroom>
-&nbsp;·  <link xlink:type="simple" xlink:href="../232/218232.xml">
-iTunes Store</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../232/218232.xml">
+iTunes Store</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../938/17841938.xml">
 MobileMe</link></software>
-&nbsp;(formerly <software wordnetid="106566077" confidence="0.9508927676800064">
+ (formerly <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../446/288446.xml">
 .Mac</link></software>
-)&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+) ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -491,7 +491,7 @@ One to One</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -556,15 +556,15 @@ Advertising</link></activity>
  (<link xlink:type="simple" xlink:href="../675/4982675.xml">
 Get a Mac</link>, <link xlink:type="simple" xlink:href="../342/2132342.xml">
 iPods</link>, <link xlink:type="simple" xlink:href="../091/3493091.xml">
-Slogans</link>)&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+Slogans</link>) ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../806/4650806.xml">
 Braeburn Capital</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../659/4543659.xml">
 FileMaker Inc.</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../693/2593693.xml">
+ ·  <link xlink:type="simple" xlink:href="../693/2593693.xml">
 History</link> (<link xlink:type="simple" xlink:href="../987/15357987.xml">
 Acquisitions</link>, <link xlink:type="simple" xlink:href="../663/2903663.xml">
 Discontinued products</link>, <link xlink:type="simple" xlink:href="../442/3540442.xml">
@@ -581,7 +581,7 @@ Typography</link></character>
 </font>
 </symbol>
 </written_symbol>
-)&nbsp;·  
+) ·  
 Portal</col>
 </row>
 <row style="height:2px;">
@@ -593,18 +593,18 @@ Portal</col>
 <link xlink:type="simple" xlink:href="../338/18717338.xml">
 US$</link></currency>
 24.01 billion (▲24.3% <link xlink:type="simple" xlink:href="../099/5752099.xml">
-FY</link> 2007)&nbsp;·  <b>Employees:</b> 17,787 full-time; 2,399 temporary&nbsp;·  <b>Stock symbol:</b> (<company wordnetid="108058098" confidence="0.8">
+FY</link> 2007) ·  <b>Employees:</b> 17,787 full-time; 2,399 temporary ·  <b>Stock symbol:</b> (<company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=AAPL&amp;selected=AAPL">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=AAPL&amp;selected=AAPL">
 AAPL</weblink>, <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../867/197867.xml">
 LSE</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.londonstockexchange.com/en-gb/pricesnews/prices/Trigger/genericsearch.htm?bsg=true&amp;ns=ACP">
+: <weblink xlink:type="simple" xlink:href="http://www.londonstockexchange.com/en-gb/pricesnews/prices/Trigger/genericsearch.htm?bsg=true&amp;ns=ACP">
 ACP</weblink>, <point wordnetid="108620061" confidence="0.8">
 <geographic_point wordnetid="108578706" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -618,8 +618,8 @@ FWB</link></exchange>
 </location>
 </geographic_point>
 </point>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://deutsche-boerse.com/dbag/dispatch/en/isg/gdb_navigation/home/Content_Files/20_overview_pages/cp_sp_overview_xetra.htm?action=ISGFormProcessingAction&amp;eventSubmit_doSimplestocksearch=true&amp;wp=APC&amp;x=0&amp;y=0">
-APC</weblink>)&nbsp;·  <b>Web site:</b> <link xlink:type="simple" xlink:href="../509/8926509.xml">
+: <weblink xlink:type="simple" xlink:href="http://deutsche-boerse.com/dbag/dispatch/en/isg/gdb_navigation/home/Content_Files/20_overview_pages/cp_sp_overview_xetra.htm?action=ISGFormProcessingAction&amp;eventSubmit_doSimplestocksearch=true&amp;wp=APC&amp;x=0&amp;y=0">
+APC</weblink>) ·  <b>Web site:</b> <link xlink:type="simple" xlink:href="../509/8926509.xml">
 www.apple.com</link></col>
 </row>
 </table>

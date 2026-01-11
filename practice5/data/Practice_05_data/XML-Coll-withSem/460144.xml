@@ -59,7 +59,7 @@ multi-level storage</link>, an efficient <link xlink:type="simple" xlink:href=".
 scheduler</link>, a separate <link>
 user-space kernel</link> ('director'), a <link>
 user-level shell</link> ('basic command interpreter'), and a <link>
-memory mapped file architecture</link> &mdash; features which Unix never had or did not acquire for some time. Despite these objective advantages, EMAS perished in obscurity for various nebulous reasons.</p>
+memory mapped file architecture</link> — features which Unix never had or did not acquire for some time. Despite these objective advantages, EMAS perished in obscurity for various nebulous reasons.</p>
 <p>
 
 The <link>

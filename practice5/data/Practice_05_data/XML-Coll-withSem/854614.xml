@@ -1744,7 +1744,7 @@ United Kingdom bus companies:</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../988/10180988.xml">
 First Aberdeen</link></company>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1755,14 +1755,14 @@ First Berkshire &amp; The Thames Valley</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../511/9523511.xml">
 First Bristol</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· <body wordnetid="107965085" confidence="0.8">
+ · <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -1775,24 +1775,24 @@ First Cymru</link></institution>
 </company>
 </social_group>
 </body>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../695/7821695.xml">
 First Devon &amp; Cornwall</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../992/5635992.xml">
 First Eastern Counties</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· <theodolite wordnetid="104419073" confidence="0.9508927676800064">
+ · <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../994/10180994.xml">
 First Edinburgh</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1804,10 +1804,10 @@ First Essex</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· <theodolite wordnetid="104419073" confidence="0.9508927676800064">
+ · <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../494/3662494.xml">
 First Glasgow</link></theodolite>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1818,17 +1818,17 @@ First Hampshire &amp; Dorset</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../605/2995605.xml">
 First Leicester</link></company>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../334/2193334.xml">
 First London</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1839,7 +1839,7 @@ First Manchester</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· <theodolite wordnetid="104419073" confidence="0.9508927676800064">
+ · <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/2926622.xml">
 First Potteries</link></theodolite>
  (<mathematical_relation wordnetid="113783581" confidence="0.8">
@@ -1853,14 +1853,14 @@ First Chester &amp; The Wirral</link></function>
 </operator>
 </company>
 </mathematical_relation>
-)&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+) · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../397/15569397.xml">
 First Somerset &amp; Avon</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <conveyance wordnetid="103100490" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1877,7 +1877,7 @@ First South Yorkshire</link></function>
 </artifact>
 </conveyance>
 </mathematical_relation>
-&nbsp;· <mathematical_relation wordnetid="113783581" confidence="0.8">
+ · <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1897,11 +1897,11 @@ First Calderdale &amp; Huddersfield</link></company>
 , <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../899/5289899.xml">
 First Leeds</link></company>
-)&nbsp;· <theodolite wordnetid="104419073" confidence="0.9508927676800064">
+) · <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../171/4645171.xml">
 First York</link></theodolite>
  (<link xlink:type="simple" xlink:href="../320/16791320.xml">
-York park and ride</link>)&nbsp;· <link xlink:type="simple" xlink:href="../555/18622555.xml">
+York park and ride</link>) · <link xlink:type="simple" xlink:href="../555/18622555.xml">
 First Student UK</link></p>
 </col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="5">
@@ -1933,21 +1933,21 @@ International bus companies:</col>
 Aircoach</link></institution>
 </transportation_company>
 </company>
-&nbsp;· <link xlink:type="simple" xlink:href="../967/13953967.xml">
-First Student (United States)</link>&nbsp;· <theodolite wordnetid="104419073" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../967/13953967.xml">
+First Student (United States)</link> · <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../441/17344441.xml">
 First Student Canada</link></theodolite>
-&nbsp;· <company wordnetid="108058098" confidence="0.8">
+ · <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../922/12386922.xml">
 First Transit</link></institution>
 </company>
-&nbsp;· <company wordnetid="108058098" confidence="0.8">
+ · <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../825/443825.xml">
 Greyhound Lines</link></institution>
 </company>
-&nbsp;· <company wordnetid="108058098" confidence="0.8">
+ · <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../170/16657170.xml">
 BoltBus</link></institution>
@@ -1963,19 +1963,19 @@ Peter Pan Bus Lines</link></institution>
 </company>
 </authority>
 </control>
-)&nbsp;· <company wordnetid="108058098" confidence="0.8">
+) · <company wordnetid="108058098" confidence="0.8">
 <transportation_company wordnetid="108004089" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../028/1627028.xml">
 Greyhound Canada</link></institution>
 </transportation_company>
 </company>
-&nbsp;· <company wordnetid="108058098" confidence="0.8">
+ · <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../851/9893851.xml">
 Grey Goose Bus Lines</link></institution>
 </company>
-&nbsp;· Vancouver Island Coach Lines&nbsp;· <control wordnetid="105196375" confidence="0.8">
+ · Vancouver Island Coach Lines · <control wordnetid="105196375" confidence="0.8">
 <authority wordnetid="105196582" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <power wordnetid="105190804" confidence="0.8">
@@ -2002,21 +2002,21 @@ Railway companies:</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../715/3406715.xml">
 First Capital Connect</link></company>
-&nbsp;· <company wordnetid="108058098" confidence="0.8">
+ · <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../639/586639.xml">
 FirstGBRf</link></institution>
 </company>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../970/771970.xml">
 First Great Western</link></company>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../901/1617901.xml">
 First Hull Trains</link></company>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../748/171748.xml">
 First ScotRail</link></company>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../744/2640744.xml">
 First TransPennine Express</link></company>
  (55% with <mathematical_relation wordnetid="113783581" confidence="0.8">
@@ -2030,7 +2030,7 @@ Keolis</link></function>
 </operator>
 </company>
 </mathematical_relation>
-)&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+) · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../259/2265259.xml">
 Heathrow Connect</link></company>
 </p>
@@ -2042,13 +2042,13 @@ Heathrow Connect</link></company>
 <row>
 <col colspan="3" style=";background:#DE005C;color:white;" class="navbox-abovebelow">
 <b>Annual revenue</b>: ▲ £3,708 million <link xlink:type="simple" xlink:href="../673/270673.xml">
-GBP</link> (2007)&nbsp;·   <b>Employees</b>: 74,233 (2007)&nbsp;·   <b>Stock symbol</b>: <company wordnetid="108058098" confidence="0.8">
+GBP</link> (2007) ·   <b>Employees</b>: 74,233 (2007) ·   <b>Stock symbol</b>: <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../867/197867.xml">
 LSE</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.londonstockexchange.com/en-gb/pricesnews/prices/Trigger/genericsearch.htm?bsg=true&amp;ns=FGP">
-FGP</weblink>&nbsp;·   <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.firstgroup.com">
+: <weblink xlink:type="simple" xlink:href="http://www.londonstockexchange.com/en-gb/pricesnews/prices/Trigger/genericsearch.htm?bsg=true&amp;ns=FGP">
+FGP</weblink> ·   <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.firstgroup.com">
 www.firstgroup.com</weblink></col>
 </row>
 </table>
@@ -2119,393 +2119,393 @@ United Kingdom</link></democracy>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../808/499808.xml">
 3i</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/3146622.xml">
 Admiral Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../587/15823587.xml">
 Alliance Trust</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../167/2657167.xml">
 AMEC</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../523/1344523.xml">
 Anglo American</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../290/1787290.xml">
 Antofagasta</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../426/1753426.xml">
 Associated British Foods</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../872/441872.xml">
 AstraZeneca</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/670916.xml">
 Autonomy Corporation</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../146/866146.xml">
 Aviva</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../128/200128.xml">
 BAE Systems</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../772/1771772.xml">
 BG Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../825/200825.xml">
 BHP Billiton</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../720/18998720.xml">
 BP</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/4642.xml">
 BT Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../441/1753441.xml">
 Barclays</link></company>
-&nbsp;· 
+ · 
 <airline wordnetid="102690081" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../970/3970.xml">
 British Airways</link></airline>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../345/361345.xml">
 British American Tobacco</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../764/982764.xml">
 British Energy Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/1771497.xml">
 British Land Company</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../770/77770.xml">
 British Sky Broadcasting Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../278/17202278.xml">
 Bunzl</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../898/366898.xml">
 Cable &amp; Wireless</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../573/54573.xml">
 Cadbury</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../564/2812564.xml">
 Cairn Energy</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../145/2018145.xml">
 Capita Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../998/428998.xml">
 Carnival</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../521/1465521.xml">
 Centrica</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../184/3198184.xml">
 Cobham</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../843/1734843.xml">
 Compass Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../272/387272.xml">
 Diageo</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../917/7377917.xml">
 Drax Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/8534497.xml">
 Eurasian Natural Resources Corporation</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/545978.xml">
 Experian</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../614/854614.xml">
 FirstGroup</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../786/19415786.xml">
-Fresnillo</link>&nbsp;· 
+Fresnillo</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../071/661071.xml">
 Friends Provident</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../758/284758.xml">
 G4S</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../517/192517.xml">
 GlaxoSmithKline</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../212/19389212.xml">
 HBOS</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../572/322572.xml">
 HSBC</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../064/2928064.xml">
 Hammerson</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../280/8665280.xml">
 ICAP</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../861/655861.xml">
 Imperial Tobacco</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../567/5952567.xml">
 Inmarsat</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../282/1134282.xml">
 InterContinental Hotels Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../472/2643472.xml">
 International Power</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../573/714573.xml">
 Invensys</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../000/2047000.xml">
 Johnson Matthey</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../703/2861703.xml">
 Kazakhmys</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../488/272488.xml">
 Kingfisher</link></company>
-&nbsp;· 
+ · 
 <link>
-Land Securities Group</link>&nbsp;· 
+Land Securities Group</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../057/717057.xml">
 Legal &amp; General</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../521/3018521.xml">
 Liberty International</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../701/714701.xml">
 Lloyds TSB</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../711/13518711.xml">
 London Stock Exchange Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../351/1521351.xml">
 Lonmin</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../624/3026624.xml">
 Man Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../557/154557.xml">
 Marks &amp; Spencer</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../654/167654.xml">
 Wm Morrison Supermarkets</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../679/2654679.xml">
 National Grid</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../792/722792.xml">
 Next</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../948/2678948.xml">
 Old Mutual</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../917/961917.xml">
 Pearson</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../129/14408129.xml">
 Petrofac</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../741/1047741.xml">
 Prudential</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../092/2583092.xml">
 RSA Insurance Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../461/2034461.xml">
 Reckitt Benckiser</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../576/420576.xml">
 Reed Elsevier</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../291/2834291.xml">
 Rexam</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../432/1097432.xml">
 Rio Tinto Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../509/435509.xml">
 Rolls-Royce Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../981/305981.xml">
 Royal Bank of Scotland Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../417/59417.xml">
 Royal Dutch Shell</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../767/660767.xml">
 SABMiller</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../410/659410.xml">
 Sage Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../880/169880.xml">
 J Sainsbury</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../438/1919438.xml">
 Schroders</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../569/8053569.xml">
-Scottish and Southern Energy</link>&nbsp;· 
+Scottish and Southern Energy</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../076/443076.xml">
 Severn Trent</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../579/871579.xml">
 Shire</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../681/2776681.xml">
 Smith &amp; Nephew</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../799/2254799.xml">
 Smiths Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../592/1040592.xml">
 Stagecoach Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../767/499767.xml">
 Standard Chartered Bank</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../808/4295808.xml">
 Standard Life</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../356/98356.xml">
 Tesco</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../581/9460581.xml">
 Thomas Cook Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../100/11271100.xml">
 Thomson Reuters</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/13110297.xml">
 TUI Travel</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/13712018.xml">
 Tullow Oil</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../220/240220.xml">
 Unilever</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/1864298.xml">
 United Utilities</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../908/6097908.xml">
 Vedanta Resources</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../997/468997.xml">
 Vodafone</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../678/654678.xml">
 WPP Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../275/1742275.xml">
 Whitbread</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../481/1047481.xml">
 Wolseley</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../345/17149345.xml">
 Wood Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../943/2017943.xml">
 Xstrata</link></company>
@@ -2545,29 +2545,29 @@ Companies
 <it><company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../766/171766.xml">
 Arriva Group</link></company>
-</it>&nbsp;· 
+</it> · 
 <it><company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../203/1190203.xml">
 ComfortDelGro Corporation</link></company>
-</it>&nbsp;· 
+</it> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../614/854614.xml">
 FirstGroup</link></company>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../860/3460860.xml">
 Lothian Buses</link></theodolite>
-&nbsp;· 
+ · 
 <it><company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../689/99689.xml">
 National Express Group</link></company>
-</it>&nbsp;· 
+</it> · 
 <link xlink:type="simple" xlink:href="../914/7366914.xml">
-Park's Motor Group</link>&nbsp;· 
+Park's Motor Group</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../592/1040592.xml">
 Stagecoach Group</link></company>
-&nbsp;· 
+ · 
 <it><mathematical_relation wordnetid="113783581" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -2627,7 +2627,7 @@ Strathclyde Partnership for Transport</link></company>
 <list>
 <entry level="1" type="bullet">
 
-&nbsp;<it>Italics</it> indicate companies chiefly based internationally.</entry>
+ <it>Italics</it> indicate companies chiefly based internationally.</entry>
 </list>
 </col>
 </row>
@@ -2649,7 +2649,7 @@ Strathclyde Partnership for Transport</link></company>
 Current Bus Operators</link> of <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../994/26994.xml">
 Scotland</link></country>
-&nbsp; <image width="28px" src="Flag_of_Scotland.svg">
+  <image width="28px" src="Flag_of_Scotland.svg">
 </image>
 </header>
 </row>
@@ -2679,9 +2679,9 @@ Magicbus</link></body_part>
 </plate>
 </structure>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../966/864966.xml">
-Megabus</link>&nbsp;· 
+Megabus</link> · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <commercial_enterprise wordnetid="108065093" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -2699,7 +2699,7 @@ National Express Coaches</link></function>
 </company>
 </commercial_enterprise>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -2728,53 +2728,53 @@ Regional</col>
 <link xlink:type="simple" xlink:href="../317/2914317.xml">
 Arriva Scotland West</link></institution>
 </company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../472/8035472.xml">
-Blue Bus of North Lanarkshire</link>&nbsp;· 
+Blue Bus of North Lanarkshire</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../988/10180988.xml">
 First Aberdeen</link></company>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../994/10180994.xml">
 First Edinburgh</link></theodolite>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../494/3662494.xml">
 First Glasgow</link></theodolite>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../895/2708895.xml">
 First Stop Travel</link></institution>
 </company>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../608/17348608.xml">
 Glasgow Citybus</link></theodolite>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../860/3460860.xml">
 Lothian Buses</link></theodolite>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../722/6456722.xml">
-McKindless</link>&nbsp;· 
+McKindless</link> · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../415/3368415.xml">
 National Express Dundee</link></theodolite>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../008/1256008.xml">
 Stagecoach East Scotland</link></theodolite>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../549/1129549.xml">
 Stagecoach Strathtay</link></company>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../980/1252980.xml">
 Stagecoach West Scotland</link></theodolite>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../931/15858931.xml">
 West Coast Motors</link></theodolite>

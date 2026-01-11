@@ -205,7 +205,7 @@ GENIE</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://borut.home.cern.ch/borut/">
-AcerMC</weblink> &ndash; <artifact wordnetid="100021939" confidence="0.8">
+AcerMC</weblink> – <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <link xlink:type="simple" xlink:href="../353/357353.xml">
 LHC</link></facility>
@@ -214,20 +214,20 @@ LHC</link></facility>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://mlm.home.cern.ch/mlm/alpgen/">
-ALPGEN</weblink> &ndash; multiple <link xlink:type="simple" xlink:href="../667/3479667.xml">
+ALPGEN</weblink> – multiple <link xlink:type="simple" xlink:href="../667/3479667.xml">
 parton</link> processes</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.thep.lu.se/~leif/ariadne/">
-Ariadne</weblink> &ndash; QCD cascade with Color Dipole Model</entry>
+Ariadne</weblink> – QCD cascade with Color Dipole Model</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.hep.phy.cam.ac.uk/theory/webber/MCatNLO/">
-MC@NLO</weblink> &ndash; parton shower with next-to-leading-order QCD matrix elements</entry>
+MC@NLO</weblink> – parton shower with next-to-leading-order QCD matrix elements</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://hepforge.cedar.ac.uk/jimmy/">
-JIMMY</weblink> &ndash; multiple parton processes</entry>
+JIMMY</weblink> – multiple parton processes</entry>
 </list>
 </p>
 <p>
@@ -237,7 +237,7 @@ JIMMY</weblink> &ndash; multiple parton processes</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../099/12125099.xml">
-CompHEP</link> &ndash; automatic evaluation of tree level matrix elements for event generation or export into other event generators</entry>
+CompHEP</link> – automatic evaluation of tree level matrix elements for event generation or export into other event generators</entry>
 </list>
 </p>
 
@@ -278,7 +278,7 @@ Review of Particle Physics</link>.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.desy.de/~heramc/mclist.html">
-List of Monte Carlo Programs</weblink> &ndash; from <institute wordnetid="108407330" confidence="0.8">
+List of Monte Carlo Programs</weblink> – from <institute wordnetid="108407330" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
 <link xlink:type="simple" xlink:href="../297/53297.xml">
 DESY</link></association>

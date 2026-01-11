@@ -252,8 +252,8 @@ Wernicke's encephalopathy</link></disease>
 , B2: <disease wordnetid="114070360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../863/2663863.xml">
 Ariboflavinosis</link></disease>
-, B3:&nbsp;<link xlink:type="simple" xlink:href="../776/355776.xml">
-Pellagra</link>, B6:&nbsp;<disease wordnetid="114070360" confidence="0.9508927676800064">
+, B3: <link xlink:type="simple" xlink:href="../776/355776.xml">
+Pellagra</link>, B6: <disease wordnetid="114070360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../353/14297353.xml">
 Pyridoxine deficiency</link></disease>
 , B7: <disease wordnetid="114070360" confidence="0.9508927676800064">
@@ -262,7 +262,7 @@ Biotin deficiency</link></disease>
 , B9: <disease wordnetid="114070360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../286/5573286.xml">
 Folate deficiency</link></disease>
-, B12:&nbsp;<disease wordnetid="114070360" confidence="0.9508927676800064">
+, B12: <disease wordnetid="114070360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/12742560.xml">
 Vitamin B12 deficiency</link></disease>
 <it>other <link xlink:type="simple" xlink:href="../512/32512.xml">
@@ -337,9 +337,9 @@ Dietary diversification can also control vitamin A deficiency. Non-animal source
 WHO Vitamin A deficiency</weblink>".&#32;Retrieved on <link>
 2008-03-03</link>.</entry>
 <entry id="2">
- <cite style="font-style:normal" class="book">Latham, Michael E.. Human Nutrition in the Developing World (Fao Food and Nutrition Paper).&#32;Food &amp; Agriculture Organization of the United. ISBN 92-5-103818-X.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Latham, Michael E.. Human Nutrition in the Developing World (Fao Food and Nutrition Paper).&#32;Food &amp; Agriculture Organization of the United. ISBN 92-5-103818-X.</cite> </entry>
 <entry id="3">
- <cite style="font-style:normal" class="book">Sommer, Alfred. Vitamin a Deficiency and Its Consequences: A Field Guide to Detection and Control.&#32;Geneva:&#32;World Health Organization. ISBN 92-4-154478-3.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Sommer, Alfred. Vitamin a Deficiency and Its Consequences: A Field Guide to Detection and Control.&#32;Geneva:&#32;World Health Organization. ISBN 92-4-154478-3.</cite> </entry>
 <entry id="4">
 "<weblink xlink:type="simple" xlink:href="http://www.unicef.org/worldfitforchildren/files/A-RES-S27-2E.pdf">
 A world fit for children</weblink>".&#32;Retrieved on <link>
@@ -357,11 +357,11 @@ Distribution of vitamin A during national immunization days</weblink>".&#32;Retr
 WHO Vitamin A supplementation</weblink>".&#32;Retrieved on <link>
 2008-03-03</link>.</entry>
 <entry id="8">
- <cite style="font-style:normal">Stoltzfus RJ, Hakimi M, Miller KW, et al&#32;(1993).&#32;"High dose vitamin A supplementation of breast-feeding Indonesian mothers: effects on the vitamin A status of mother and infant". <it>J. Nutr.</it>&#32;<b>123</b>&#32;(4): 666–75. PMID 8463867.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Stoltzfus RJ, Hakimi M, Miller KW, et al&#32;(1993).&#32;"High dose vitamin A supplementation of breast-feeding Indonesian mothers: effects on the vitamin A status of mother and infant". <it>J. Nutr.</it>&#32;<b>123</b>&#32;(4): 666–75. PMID 8463867.</cite> </entry>
 <entry id="9">
- <cite style="font-style:normal" class="book"> Guidelines on Food Fortification With Micronutrients.&#32;Geneva:&#32;World Health Organization. ISBN 92-4-159401-2.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book"> Guidelines on Food Fortification With Micronutrients.&#32;Geneva:&#32;World Health Organization. ISBN 92-4-159401-2.</cite> </entry>
 <entry id="10">
- <cite style="font-style:normal" class="book">Food and Agriculture Organization of the United Nations. Food Fortification: Tech &amp; Quality Control (Food &amp; Nutrition Papers).&#32;Bernan Assoc. ISBN 9251038848.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Food and Agriculture Organization of the United Nations. Food Fortification: Tech &amp; Quality Control (Food &amp; Nutrition Papers).&#32;Bernan Assoc. ISBN 9251038848.</cite> </entry>
 <entry id="11">
 "<weblink xlink:type="simple" xlink:href="http://www.childinfo.org/areas/vitamina/">
 childinfo.org: Vitamin A Deficiency</weblink>".&#32;Retrieved on <link>

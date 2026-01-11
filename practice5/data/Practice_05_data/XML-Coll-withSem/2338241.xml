@@ -68,7 +68,7 @@ multivariate interpolation</link> method used to compute new values for any digi
 
 Lanczos filtering gives very high quality results compared to more commonly used but faster techniques such as linear or cubic interpolation because it more closely approximates the <link xlink:type="simple" xlink:href="../637/267637.xml">
 optimal resampling filter</link>, the <link xlink:type="simple" xlink:href="../583/610583.xml">
-sinc function</link>.&#91;&#32; &ndash; &#93;  While the sinc function is infinite, making it very computationally intensive, the Lanczos function defines an approximation over a given range (the "window"), allowing the implementor the ability to improve the approximation by increasing the size of the window.</p>
+sinc function</link>.&#91;&#32; – &#93;  While the sinc function is infinite, making it very computationally intensive, the Lanczos function defines an approximation over a given range (the "window"), allowing the implementor the ability to improve the approximation by increasing the size of the window.</p>
 <p>
 
 Inside the window defined by the radius <math>a</math>, the Lanczos filter is defined as a product of normalized <link xlink:type="simple" xlink:href="../583/610583.xml">

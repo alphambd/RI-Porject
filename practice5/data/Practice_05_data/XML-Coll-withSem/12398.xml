@@ -355,7 +355,7 @@ Polygon</link>s: Two-dimensional polygons are used for geographical features tha
 </p>
 <p>
 
-Each of these geometries is linked to a row in a database that describes their attributes.  For example, a database that describes lakes may contain a lake's depth, water quality, pollution level.  This information can be used to make a map to describe a particular attribute of the dataset.  For example, lakes could be coloured depending on level of pollution.  Different geometries can also be compared.  For example, the GIS could be used to identify all wells (point geometry) that are within 1-mile (1.6&nbsp;km) of a lake (polygon geometry) that has a high level of pollution.</p>
+Each of these geometries is linked to a row in a database that describes their attributes.  For example, a database that describes lakes may contain a lake's depth, water quality, pollution level.  This information can be used to make a map to describe a particular attribute of the dataset.  For example, lakes could be coloured depending on level of pollution.  Different geometries can also be compared.  For example, the GIS could be used to identify all wells (point geometry) that are within 1-mile (1.6 km) of a lake (polygon geometry) that has a high level of pollution.</p>
 <p>
 
 Vector features can be made to respect spatial integrity through the application of topology rules such as 'polygons must not overlap'. Vector data can also be used to represent continuously varying phenomena. <link xlink:type="simple" xlink:href="../086/650086.xml">
@@ -1735,7 +1735,7 @@ References</st>
 Lascaux Cave</weblink>".&#32;  French Ministry of Culture.&#32;Retrieved on <link>
 2008-02-13</link>.</entry>
 <entry id="2">
- <cite style="font-style:normal" class="book">Curtis, Gregory. The Cave Painters: Probing the Mysteries of the World's First Artists.&#32;NY, USA:&#32;Knopf. ISBN 1-4000-4348-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Curtis, Gregory. The Cave Painters: Probing the Mysteries of the World's First Artists.&#32;NY, USA:&#32;Knopf. ISBN 1-4000-4348-4.</cite> </entry>
 <entry id="3">
 Dr David Whitehouse.&#32;"<weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/1/hi/sci/tech/871930.stm">
 Ice Age star map discovered</weblink>".&#32;  BBC.&#32;Retrieved on <link>
@@ -1761,13 +1761,13 @@ Gao, Shan. Paynter, John. &amp; David Sundaram, (2004) "Flexible Support for Spa
 <entry id="9">
  <cite id="CITEREFFonsecaSheth2002" style="font-style:normal">Fonseca, Frederico&#32;&amp;&#32;Sheth, Amit&#32;(2002),&#32;<weblink xlink:type="simple" xlink:href="http://www.personal.psu.edu/faculty/f/u/fuf1/Fonseca-Sheth.pdf">
 "The Geospatial Semantic Web"</weblink>&#32;(<link xlink:type="simple" xlink:href="../077/24077.xml">
-PDF</link>),&#32;<it>UCGIS White Paper</it></cite>&nbsp;</entry>
+PDF</link>),&#32;<it>UCGIS White Paper</it></cite> </entry>
 <entry id="10">
- <cite id="CITEREFFonsecaEgenhofer1999" style="font-style:normal">Fonseca, Frederico&#32;&amp;&#32;Egenhofer, Max&#32;(1999),&#32;"Ontology-Driven Geographic Information Systems",&#32;<it>Proc. ACM International Symposium on Geographic Information Systems</it>, pp. 14-19</cite>&nbsp;</entry>
+ <cite id="CITEREFFonsecaEgenhofer1999" style="font-style:normal">Fonseca, Frederico&#32;&amp;&#32;Egenhofer, Max&#32;(1999),&#32;"Ontology-Driven Geographic Information Systems",&#32;<it>Proc. ACM International Symposium on Geographic Information Systems</it>, pp. 14-19</cite> </entry>
 <entry id="11">
  <cite id="CITEREFPerryHakimpourSheth2006" style="font-style:normal">Perry, Matthew; Hakimpour, Farshad&#32;&amp;&#32;Sheth, Amit&#32;(2006),&#32;<weblink xlink:type="simple" xlink:href="http://knoesis.wright.edu/library/download/ACM-GIS_06_Perry.pdf">
 "Analyzing Theme, Space and Time: an Ontology-based Approach"</weblink>&#32;(<link xlink:type="simple" xlink:href="../077/24077.xml">
-PDF</link>),&#32;<it>Proc. ACM International Symposium on Geographic Information Systems</it>, pp. 147-154</cite>&nbsp;
+PDF</link>),&#32;<it>Proc. ACM International Symposium on Geographic Information Systems</it>, pp. 147-154</cite> 
 </entry>
 </reflist>
 
@@ -1947,7 +1947,7 @@ Geography</link>topics</header>
 <col colspan="2" style=";" class="navbox-abovebelow">
 <link xlink:type="simple" xlink:href="../910/18963910.xml">
 Geography</link>
-&nbsp;·  <link xlink:type="simple" xlink:href="../031/1727031.xml">
+ ·  <link xlink:type="simple" xlink:href="../031/1727031.xml">
 History of geography</link></col>
 </row>
 <row style="height:2px;">
@@ -1964,16 +1964,16 @@ Branches</col>
 Human</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../817/1923817.xml">
-Behavioral</link>&nbsp;·  <link xlink:type="simple" xlink:href="../329/2678329.xml">
-Cultural</link>&nbsp;·  <link xlink:type="simple" xlink:href="../642/45642.xml">
-Demography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../045/2149045.xml">
-Development</link>&nbsp;·  <link xlink:type="simple" xlink:href="../512/177512.xml">
-Economic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../705/850705.xml">
-Feminist</link>&nbsp;·  <link xlink:type="simple" xlink:href="../739/2596739.xml">
-Health</link>&nbsp;·  <link xlink:type="simple" xlink:href="../965/1923965.xml">
-Historical</link>&nbsp;·  <link xlink:type="simple" xlink:href="../092/1845092.xml">
-Political</link>&nbsp;·  <link xlink:type="simple" xlink:href="../230/711230.xml">
-Regional</link>&nbsp;·  <link xlink:type="simple" xlink:href="../029/341029.xml">
+Behavioral</link> ·  <link xlink:type="simple" xlink:href="../329/2678329.xml">
+Cultural</link> ·  <link xlink:type="simple" xlink:href="../642/45642.xml">
+Demography</link> ·  <link xlink:type="simple" xlink:href="../045/2149045.xml">
+Development</link> ·  <link xlink:type="simple" xlink:href="../512/177512.xml">
+Economic</link> ·  <link xlink:type="simple" xlink:href="../705/850705.xml">
+Feminist</link> ·  <link xlink:type="simple" xlink:href="../739/2596739.xml">
+Health</link> ·  <link xlink:type="simple" xlink:href="../965/1923965.xml">
+Historical</link> ·  <link xlink:type="simple" xlink:href="../092/1845092.xml">
+Political</link> ·  <link xlink:type="simple" xlink:href="../230/711230.xml">
+Regional</link> ·  <link xlink:type="simple" xlink:href="../029/341029.xml">
 Urban</link></col>
 </row>
 <row style="height:2px">
@@ -1985,19 +1985,19 @@ Urban</link></col>
 Physical</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../358/99358.xml">
-Biogeography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../440/142440.xml">
-Climatology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../676/2160676.xml">
-Coastal</link>&nbsp;·  <link xlink:type="simple" xlink:href="../627/71627.xml">
-Environmental</link>&nbsp;·  <link xlink:type="simple" xlink:href="../608/12608.xml">
-Geodesy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../534/78534.xml">
-Geomorphology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../504/231504.xml">
-Glaciology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../435/13435.xml">
-Hydrology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../582/252582.xml">
-Landscape ecology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../243/145243.xml">
-Limnology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../044/44044.xml">
-Oceanography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../868/349868.xml">
-Palaeogeography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../408/59408.xml">
-Pedology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../925/12591925.xml">
+Biogeography</link> ·  <link xlink:type="simple" xlink:href="../440/142440.xml">
+Climatology</link> ·  <link xlink:type="simple" xlink:href="../676/2160676.xml">
+Coastal</link> ·  <link xlink:type="simple" xlink:href="../627/71627.xml">
+Environmental</link> ·  <link xlink:type="simple" xlink:href="../608/12608.xml">
+Geodesy</link> ·  <link xlink:type="simple" xlink:href="../534/78534.xml">
+Geomorphology</link> ·  <link xlink:type="simple" xlink:href="../504/231504.xml">
+Glaciology</link> ·  <link xlink:type="simple" xlink:href="../435/13435.xml">
+Hydrology</link> ·  <link xlink:type="simple" xlink:href="../582/252582.xml">
+Landscape ecology</link> ·  <link xlink:type="simple" xlink:href="../243/145243.xml">
+Limnology</link> ·  <link xlink:type="simple" xlink:href="../044/44044.xml">
+Oceanography</link> ·  <link xlink:type="simple" xlink:href="../868/349868.xml">
+Palaeogeography</link> ·  <link xlink:type="simple" xlink:href="../408/59408.xml">
+Pedology</link> ·  <link xlink:type="simple" xlink:href="../925/12591925.xml">
 Quaternary science</link></col>
 </row>
 </table>
@@ -2011,16 +2011,16 @@ Quaternary science</link></col>
 Techniques</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;background:transparent;;padding:0.25em 0; line-height:1.4em;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../294/7294.xml">
-Cartography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../398/12398.xml">
-Geographic Information Systems (GIS)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../531/51531.xml">
-Geostatistics</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Cartography</link> ·  <link xlink:type="simple" xlink:href="../398/12398.xml">
+Geographic Information Systems (GIS)</link> ·  <link xlink:type="simple" xlink:href="../531/51531.xml">
+Geostatistics</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../866/11866.xml">
 Global Positioning System (GPS)</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2035,8 +2035,8 @@ Remote sensing</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../431/3190431.xml">
-Spatial data analysis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../299/371299.xml">
+ ·  <link xlink:type="simple" xlink:href="../431/3190431.xml">
+Spatial data analysis</link> ·  <link xlink:type="simple" xlink:href="../299/371299.xml">
 Qualitative methods</link></col>
 </row>
 <row style="height:2px">
@@ -2053,19 +2053,19 @@ Societies</col>
 American Geographical Society</link></group>
 </society>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../371/4792371.xml">
 Association of American Geographers</link></group>
 </society>
 </social_group>
-&nbsp;·  <alliance wordnetid="108293982" confidence="0.8">
+ ·  <alliance wordnetid="108293982" confidence="0.8">
 <world_organization wordnetid="108294696" confidence="0.8">
 <link xlink:type="simple" xlink:href="../768/19156768.xml">
 European Geography Association</link></world_organization>
 </alliance>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -2074,21 +2074,21 @@ Geographical Association</link></administration>
 </group>
 </social_group>
 </body>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../046/1371046.xml">
 Hong Kong Geographical Association</link></group>
 </society>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../619/2929619.xml">
 International Geographical Union</link></group>
 </society>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -2099,7 +2099,7 @@ National Geographic Society</link></institution>
 </company>
 </society>
 </social_group>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -2110,14 +2110,14 @@ Royal Canadian Geographical Society</link></administration>
 </society>
 </social_group>
 </body>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../918/395918.xml">
 Royal Geographical Society</link></group>
 </society>
 </social_group>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <financial_institution wordnetid="108054721" confidence="0.8">
@@ -2136,14 +2136,14 @@ Royal Scottish Geographical Society</link></institution>
 </society>
 </social_group>
 </body>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../684/4627684.xml">
 Russian Geographical Society</link></group>
 </society>
 </social_group>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -2154,14 +2154,14 @@ Saudi Geographical Society</link></administration>
 </society>
 </social_group>
 </body>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../761/2891761.xml">
 Society of Woman Geographers</link></group>
 </society>
 </social_group>
-&nbsp;·  <link>
+ ·  <link>
 Société de Géographie</link></col>
 </row>
 <row style="height:2px">
@@ -2172,8 +2172,8 @@ Société de Géographie</link></col>
 Lists</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;background:transparent;;padding:0.25em 0; line-height:1.4em;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../770/12770.xml">
-Basic topics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../124/223124.xml">
-Geographers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../798/699798.xml">
+Basic topics</link> ·  <link xlink:type="simple" xlink:href="../124/223124.xml">
+Geographers</link> ·  <link xlink:type="simple" xlink:href="../798/699798.xml">
 Geography of countries</link></col>
 </row>
 </table>

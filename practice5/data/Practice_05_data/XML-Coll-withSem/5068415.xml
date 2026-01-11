@@ -588,7 +588,7 @@ In cross-site cooking, the attacker exploits a browser bug to send an invalid co
 </p>
 <p>
 
-Most websites, however, only store a session identifier &mdash; a randomly generated unique number used to identify the user's session &mdash; in the cookie itself, while all the other information is stored on the server. In this case, the problem of cookie poisoning is largely eliminated.</p>
+Most websites, however, only store a session identifier — a randomly generated unique number used to identify the user's session — in the cookie itself, while all the other information is stored on the server. In this case, the problem of cookie poisoning is largely eliminated.</p>
 
 </ss1>
 <ss1>
@@ -911,7 +911,7 @@ The server replies by sending the requested page preceded by a similar packet of
 HTTP/1.1 200 OK
 Content-type: text/html
 Set-Cookie: name=value
-&nbsp;
+ 
 (content of page)</col>
 
 </row>
@@ -938,7 +938,7 @@ GET /spec.html HTTP/1.1
 Host: www.example.org
 Cookie: name=value
 Accept: */*
-&nbsp;</col>
+ </col>
 
 </row>
 <row>
@@ -1328,7 +1328,7 @@ MSDN</link></entry>
 "<weblink xlink:type="simple" xlink:href="http://www.news.com/8301-10784_3-9745630-7.html">
 Google expires cookies sooner in minor privacy concession</weblink>", <link xlink:type="simple" xlink:href="../836/385836.xml">
 Cnet</link>&#32;(June 16, 2007).&#32;Retrieved on <link>
-2007-11-07</link>.&nbsp;</entry>
+2007-11-07</link>. </entry>
 <entry id="25">
 John Schwartz. <weblink xlink:type="simple" xlink:href="http://www.nytimes.com/2001/09/04/technology/04COOK.html">
 Giving the Web a memory cost its users privacy</weblink>. New York Times. September 4, 2001</entry>

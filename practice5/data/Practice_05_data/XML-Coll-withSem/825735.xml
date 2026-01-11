@@ -23,7 +23,7 @@
 </header>
 <bdy>
 
-<b>Verlet integration</b> (IPA:&nbsp;) is a method used to <link xlink:type="simple" xlink:href="../829/272829.xml">
+<b>Verlet integration</b> (IPA: ) is a method used to <link xlink:type="simple" xlink:href="../829/272829.xml">
 integrate</link> <link xlink:type="simple" xlink:href="../627/14627.xml">
 Newton's</link> <link xlink:type="simple" xlink:href="../913/65913.xml">
 equations of motion</link>.  It is frequently used to calculate <link xlink:type="simple" xlink:href="../115/200115.xml">
@@ -438,8 +438,8 @@ First order methods</link></mathematical_statement>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.4em; padding:0.33em 0;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../098/3011098.xml">
-Euler's method</link>&nbsp;·  <link xlink:type="simple" xlink:href="../829/272829.xml#xpointer(//*[./st=%22The+backward+Euler+method+%22])">
- Backward Euler</link>&nbsp;·  <link>
+Euler's method</link> ·  <link xlink:type="simple" xlink:href="../829/272829.xml#xpointer(//*[./st=%22The+backward+Euler+method+%22])">
+ Backward Euler</link> ·  <link>
 Semi–implicit Euler</link></col>
 </row>
 <row style="height:2px">
@@ -468,8 +468,8 @@ Verlet integration</link></mathematical_statement>
 </equation>
 </message>
 </statement>
-&nbsp;·  <link>
-Velocity Verlet</link>&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <link>
+Velocity Verlet</link> ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <equation wordnetid="106669864" confidence="0.8">
 <mathematical_statement wordnetid="106732169" confidence="0.8">
@@ -478,7 +478,7 @@ Beeman's algorithm</link></mathematical_statement>
 </equation>
 </message>
 </statement>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <equation wordnetid="106669864" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -491,7 +491,7 @@ Midpoint method</link></mathematical_statement>
 </equation>
 </message>
 </statement>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <equation wordnetid="106669864" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -504,7 +504,7 @@ Heun's method</link></mathematical_statement>
 </equation>
 </message>
 </statement>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <equation wordnetid="106669864" confidence="0.8">
 <mathematical_statement wordnetid="106732169" confidence="0.8">
@@ -513,7 +513,7 @@ Newmark-beta method</link></mathematical_statement>
 </equation>
 </message>
 </statement>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <equation wordnetid="106669864" confidence="0.8">
 <mathematical_statement wordnetid="106732169" confidence="0.8">
@@ -543,7 +543,7 @@ Higher order methods</link></mathematical_statement>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.4em; padding:0.33em 0;;;" class="navbox-list navbox-odd"><p>
 
 <link>
-Runge–Kutta methods</link>&nbsp;·  <link xlink:type="simple" xlink:href="../825/13454825.xml">
+Runge–Kutta methods</link> ·  <link xlink:type="simple" xlink:href="../825/13454825.xml">
 List of Runge-Kutta methods</link></p>
 </col>
 </row>

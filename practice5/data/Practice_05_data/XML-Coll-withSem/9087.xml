@@ -62,7 +62,7 @@ mathematical model</link>s that describe the swinging of a clock pendulum, the f
 A dynamical system has a <it>state</it> determined by a collection of <link>
 real numbers</link>, or more generally by a <link xlink:type="simple" xlink:href="../691/26691.xml">
 set</link> of <link xlink:type="simple" xlink:href="../693/593693.xml">
-points</link> in an appropriate <it>state space</it>.  Small changes in the state of the system correspond to small changes in the numbers.  The numbers are also the coordinates of a geometrical space&mdash;a <link xlink:type="simple" xlink:href="../470/2073470.xml">
+points</link> in an appropriate <it>state space</it>.  Small changes in the state of the system correspond to small changes in the numbers.  The numbers are also the coordinates of a geometrical space—a <link xlink:type="simple" xlink:href="../470/2073470.xml">
 manifold</link>.   The <it>evolution rule</it> of the dynamical system is a <link xlink:type="simple" xlink:href="../427/185427.xml">
 fixed rule</link> that describes what future states follow from the current state.  The rule is <link xlink:type="simple" xlink:href="../958/522958.xml">
 deterministic</link>: for a given time interval only one future state follows from the current state.</p>
@@ -76,7 +76,7 @@ The concept of a dynamical system has its origins in <link xlink:type="simple" x
 Newtonian mechanics</link>.  There, as in other natural sciences and engineering disciplines, the evolution rule of dynamical systems is given implicitly by a relation that gives the state of the system only a short time into the future.  (The relation is either a <link xlink:type="simple" xlink:href="../309/1424309.xml">
 differential equation</link>, <link xlink:type="simple" xlink:href="../806/146806.xml">
 difference equation</link> or other <link xlink:type="simple" xlink:href="../174/276174.xml">
- time scale</link>.)  To determine the state for all future times requires iterating the relation many times&mdash;each advancing time a small step.  The iteration procedure is referred to as <it>solving the system</it> or <it>integrating the system</it>. Once the system can be solved, given an initial point it is possible to determine all its future points, a collection known as a <it>trajectory</it> or <it><link xlink:type="simple" xlink:href="../250/252250.xml">
+ time scale</link>.)  To determine the state for all future times requires iterating the relation many times—each advancing time a small step.  The iteration procedure is referred to as <it>solving the system</it> or <it>integrating the system</it>. Once the system can be solved, given an initial point it is possible to determine all its future points, a collection known as a <it>trajectory</it> or <it><link xlink:type="simple" xlink:href="../250/252250.xml">
 orbit</link></it>.</p>
 <p>
 
@@ -88,7 +88,7 @@ For simple dynamical systems, knowing the trajectory is often sufficient, but mo
 <list>
 <entry level="1" type="bullet">
 
- The systems studied may only be known approximately&mdash;the parameters of the system may not be known precisely or terms may be missing from the equations.  The approximations used bring into question the validity or relevance of numerical solutions.  To address these questions several notions of stability have been introduced in the study of dynamical systems, such as <link xlink:type="simple" xlink:href="../360/363360.xml">
+ The systems studied may only be known approximately—the parameters of the system may not be known precisely or terms may be missing from the equations.  The approximations used bring into question the validity or relevance of numerical solutions.  To address these questions several notions of stability have been introduced in the study of dynamical systems, such as <link xlink:type="simple" xlink:href="../360/363360.xml">
 Lyapunov stability</link> or <link xlink:type="simple" xlink:href="../807/2515807.xml">
 structural stability</link>.  The stability of the dynamical system implies that there is a class of models or initial conditions for which the trajectories would be equivalent.   The operation for comparing orbits to establish their <link xlink:type="simple" xlink:href="../621/455621.xml">
 equivalence</link> changes with the different notions of stability.</entry>
@@ -128,7 +128,7 @@ Dynamical system (definition)</link></it>
 </indent>
 
 A dynamical system is a <link xlink:type="simple" xlink:href="../470/2073470.xml">
-manifold</link> <it>M</it> called the phase (or state) space and a smooth evolution function <it>Φ&nbsp;t</it> that for any element of <it>t</it> ∈ <it>T</it>, the time, maps a point of the phase space back into the phase space.  The notion of smoothness changes with applications and the type of manifold.  There are several choices for the set <it>T</it>.  When <it>T</it> is taken to be the reals, the dynamical system is called a <it>flow</it>; and if <it>T</it> is restricted to the non-negative reals, then the dynamical system is  a <it>semi-flow</it>.   When <it>T</it> is taken to be the integers, it is a <it>cascade</it> or a <it>map</it>; and the restriction to the non-negative integers is  a <it>semi-cascade</it>.</p>
+manifold</link> <it>M</it> called the phase (or state) space and a smooth evolution function <it>Φ t</it> that for any element of <it>t</it> ∈ <it>T</it>, the time, maps a point of the phase space back into the phase space.  The notion of smoothness changes with applications and the type of manifold.  There are several choices for the set <it>T</it>.  When <it>T</it> is taken to be the reals, the dynamical system is called a <it>flow</it>; and if <it>T</it> is restricted to the non-negative reals, then the dynamical system is  a <it>semi-flow</it>.   When <it>T</it> is taken to be the integers, it is a <it>cascade</it> or a <it>map</it>; and the restriction to the non-negative integers is  a <it>semi-cascade</it>.</p>
 
 <ss1>
 <st>
@@ -136,13 +136,13 @@ manifold</link> <it>M</it> called the phase (or state) space and a smooth evolut
 
 <p>
 
-The evolution function <it>Φ&nbsp;t</it> is often the solution of a <it>differential equation of motion</it>
+The evolution function <it>Φ t</it> is often the solution of a <it>differential equation of motion</it>
 <indent level="1">
 
   <math> \dot{x} = v(x) \,.</math>
 </indent>
 The equation gives the time derivative, represented by the dot, of  a trajectory <it>x(t)</it> on the phase space starting at some point <it>x0</it>.  The <it>vector field</it> <it>v(x)</it> is a smooth function that at every point of the phase space <it>M</it> provides the velocity vector of the dynamical system at that point. (These vectors are not vectors in the phase space <it>M</it>, but in the <link xlink:type="simple" xlink:href="../807/30807.xml">
-tangent space</link> <it>TMx</it> of the point <it>x</it>.)  Given a smooth <it>Φ&nbsp;t</it>, an autonomous vector field can be derived from it.</p>
+tangent space</link> <it>TMx</it> of the point <it>x</it>.)  Given a smooth <it>Φ t</it>, an autonomous vector field can be derived from it.</p>
 <p>
 
 There is no need for higher order derivatives in the equation, nor for time dependence in <it>v(x)</it> because these can be eliminated by considering systems of higher dimensions.  Other types of differential equations can be used to define the evolution rule:
@@ -153,9 +153,9 @@ There is no need for higher order derivatives in the equation, nor for time depe
 is an example of an equation that arises from the modeling of mechanical systems with complicated constraints. </p>
 <p>
 
-The differential equations determining the evolution function <it>Φ&nbsp;t</it> are often <link xlink:type="simple" xlink:href="../297/8297.xml">
-ordinary differential equation</link>s: in this case the phase space <it>M</it> is a finite dimensional manifold.  Many of the concepts in dynamical systems can be extended to infinite-dimensional manifolds&mdash;those that are locally <link xlink:type="simple" xlink:href="../989/3989.xml">
-Banach space</link>s&mdash;in which case the differential equations are <link xlink:type="simple" xlink:href="../564/52564.xml">
+The differential equations determining the evolution function <it>Φ t</it> are often <link xlink:type="simple" xlink:href="../297/8297.xml">
+ordinary differential equation</link>s: in this case the phase space <it>M</it> is a finite dimensional manifold.  Many of the concepts in dynamical systems can be extended to infinite-dimensional manifolds—those that are locally <link xlink:type="simple" xlink:href="../989/3989.xml">
+Banach space</link>s—in which case the differential equations are <link xlink:type="simple" xlink:href="../564/52564.xml">
 partial differential equation</link>s.  In the late 20th century the dynamical system perspective to partial differential equations started gaining popularity.</p>
 
 </ss1>
@@ -342,7 +342,7 @@ The case <it>b</it> ≠ 0 with <it>A</it> = 0 is just a straight line in the dir
 
  <math>\Phi^t(x_1) = x_1 + b t \,. </math>
 </indent>
-When <it>b</it> is zero and <it>A</it>&nbsp;≠&nbsp;0 the origin is an equilibrium (or singular) point of the flow, that is, if <it>x0</it> = 0, then the orbit remains there.
+When <it>b</it> is zero and <it>A</it> ≠ 0 the origin is an equilibrium (or singular) point of the flow, that is, if <it>x0</it> = 0, then the orbit remains there.
 For other initial conditions, the equation of motion is given by the <link xlink:type="simple" xlink:href="../731/672731.xml">
 exponential of a matrix</link>: for an initial point <it>x0</it>,
 <indent level="1">
@@ -380,11 +380,11 @@ affine</link> dynamical system has the form
 
  <math> x_{n+1} =  A x_n + b \,,</math>
 </indent>
-with <it>A</it> a matrix and <it>b</it> a vector.  As in the continuous case, the change of coordinates <it>x</it> → <it>x + (1 - A)&nbsp;&ndash;1b</it> removes the term <it>b</it> from the equation.   In the new coordinate system, the origin is a fixed point of the map and the solutions are of the linear system <it>A&nbsp;nx0</it>.  
+with <it>A</it> a matrix and <it>b</it> a vector.  As in the continuous case, the change of coordinates <it>x</it> → <it>x + (1 - A) –1b</it> removes the term <it>b</it> from the equation.   In the new coordinate system, the origin is a fixed point of the map and the solutions are of the linear system <it>A nx0</it>.  
 The solutions for the map are no longer curves, but points that hop in the phase space.  The orbits are organized in curves, or fibers, which are collections of points that map into themselves under the action of the map.</p>
 <p>
 
-As in the continuous case, the eigenvalues and eigenvectors of <it>A</it> determine the structure of phase space.  For example, if <it>u1</it> is an eigenvector of <it>A</it>, with a real eigenvalue smaller than one, then the straight lines given by the points along  α&nbsp;<it>u1</it>, with α&nbsp;∈&nbsp;<b>R</b>, is an invariant curve of the map. Points in this straight line run into the fixed point.</p>
+As in the continuous case, the eigenvalues and eigenvectors of <it>A</it> determine the structure of phase space.  For example, if <it>u1</it> is an eigenvector of <it>A</it>, with a real eigenvalue smaller than one, then the straight lines given by the points along  α <it>u1</it>, with α ∈ <b>R</b>, is an invariant curve of the map. Points in this straight line run into the fixed point.</p>
 <p>
 
 There are also many <link xlink:type="simple" xlink:href="../823/2067823.xml">
@@ -404,10 +404,10 @@ The qualitative properties of dynamical systems do not change under a smooth cha
 Rectification</st>
 <p>
 
-A flow in most small patches of the phase space can be made very simple.  If <it>y</it> is a point where the vector field <it>v(y)</it>&nbsp;≠&nbsp;0, then there is a  change of coordinates for a region around <it>y</it> where the vector field becomes a series of parallel vectors of the same magnitude.  This is known as the rectification theorem.   </p>
+A flow in most small patches of the phase space can be made very simple.  If <it>y</it> is a point where the vector field <it>v(y)</it> ≠ 0, then there is a  change of coordinates for a region around <it>y</it> where the vector field becomes a series of parallel vectors of the same magnitude.  This is known as the rectification theorem.   </p>
 <p>
 
-The rectification theorem says that away from singular points the dynamics of a point in a small patch is a straight line.  The patch can sometimes be enlarged by stitching several patches together, and when this works out in the whole phase space <it>M</it> the dynamical system is <it>integrable</it>.  In most cases the patch cannot be extended to the entire phase space.  There may be singular points in the vector field (where <it>v(x)</it>&nbsp;=&nbsp;0); or the patches may become smaller and smaller as some point is approached.   The more subtle reason is a global constraint, where the trajectory starts out in a patch, and after visiting a series of other patches comes back to the original one. If the next time the orbit loops around phase space in a different way, then it is impossible to rectify the vector field in the whole series of patches.</p>
+The rectification theorem says that away from singular points the dynamics of a point in a small patch is a straight line.  The patch can sometimes be enlarged by stitching several patches together, and when this works out in the whole phase space <it>M</it> the dynamical system is <it>integrable</it>.  In most cases the patch cannot be extended to the entire phase space.  There may be singular points in the vector field (where <it>v(x)</it> = 0); or the patches may become smaller and smaller as some point is approached.   The more subtle reason is a global constraint, where the trajectory starts out in a patch, and after visiting a series of other patches comes back to the original one. If the next time the orbit loops around phase space in a different way, then it is impossible to rectify the vector field in the whole series of patches.</p>
 
 </ss1>
 <ss1>
@@ -420,12 +420,12 @@ Poincaré section</link>  <it>S(γ, x0)</it>, of the orbit.   The flow now defin
 Poincaré map</link> <it>F : S → S</it>, for points starting in <it>S</it> and returning to <it>S</it>.  Not all these points will take the same amount of time to come back, but the times will be close to the time it takes <it>x0</it>.   </p>
 <p>
 
-The intersection of the periodic orbit with the Poincaré section is a fixed point of the Poincaré map <it>F</it>. By a translation, the point can be assumed to be at <it>x</it>&nbsp;=&nbsp;0. The Taylor series of the map is <it>F(x) = J&nbsp;·&nbsp;x + O(x²)</it>, so a change of coordinates <it>h</it> can only be expected to simplify <it>F</it> to its linear part
+The intersection of the periodic orbit with the Poincaré section is a fixed point of the Poincaré map <it>F</it>. By a translation, the point can be assumed to be at <it>x</it> = 0. The Taylor series of the map is <it>F(x) = J · x + O(x²)</it>, so a change of coordinates <it>h</it> can only be expected to simplify <it>F</it> to its linear part
 <indent level="1">
 
  <math> h^{-1} \circ F \circ h(x) = J \cdot x \,. </math>
 </indent>
-This is known as the conjugation equation.  Finding conditions for this equation to hold has been one of the major tasks of research in dynamical systems.  Poincaré first approached it assuming all functions to be analytic and in the process discovered the non-resonant condition.  If λ1,…,λν are the eigenvalues of <it>J</it> they will be resonant if one eigenvalue is an integer linear combination of two or more of the others.  As terms of the form λi &ndash; ∑ (multiples of other eigenvalues) occurs in the denominator of the terms for the function <it>h</it>, the non-resonant condition is also known as the small divisor problem.</p>
+This is known as the conjugation equation.  Finding conditions for this equation to hold has been one of the major tasks of research in dynamical systems.  Poincaré first approached it assuming all functions to be analytic and in the process discovered the non-resonant condition.  If λ1,…,λν are the eigenvalues of <it>J</it> they will be resonant if one eigenvalue is an integer linear combination of two or more of the others.  As terms of the form λi – ∑ (multiples of other eigenvalues) occurs in the denominator of the terms for the function <it>h</it>, the non-resonant condition is also known as the small divisor problem.</p>
 
 </ss1>
 <ss1>
@@ -438,7 +438,7 @@ hyperbolic</link></it> and when the eigenvalues are on the unit circle and compl
 <p>
 
 In the hyperbolic case the <link xlink:type="simple" xlink:href="../752/9933752.xml">
-Hartman-Grobman theorem</link> gives the conditions for the existence of a continuous function that maps the neighborhood of the fixed point of the map to the linear map <it>J&nbsp;·&nbsp;x</it>.   The hyperbolic case is also <it>structurally stable</it>.  Small changes in the vector field will only produce small changes in the Poincaré map and these small changes will reflect in small changes in the position of the eigenvalues of <it>J</it> in the complex plane, implying that the map is still hyperbolic.</p>
+Hartman-Grobman theorem</link> gives the conditions for the existence of a continuous function that maps the neighborhood of the fixed point of the map to the linear map <it>J · x</it>.   The hyperbolic case is also <it>structurally stable</it>.  Small changes in the vector field will only produce small changes in the Poincaré map and these small changes will reflect in small changes in the position of the eigenvalues of <it>J</it> in the complex plane, implying that the map is still hyperbolic.</p>
 <p>
 
 The <link xlink:type="simple" xlink:href="../972/16972.xml">
@@ -503,7 +503,7 @@ Ergodic systems</st>
 ergodic theory</link></it>
 </indent>
 
-In many dynamical systems it is possible to choose the coordinates of the system so that the volume (really a ν-dimensional volume) in phase space is invariant.  This happens for mechanical systems derived from Newton's laws as long as the coordinates are the position and the momentum and the volume is measured in units of (position) × (momentum).  The flow takes points of a subset <it>A</it> into the points Φ&nbsp;t(A) and invariance of the phase space means that 
+In many dynamical systems it is possible to choose the coordinates of the system so that the volume (really a ν-dimensional volume) in phase space is invariant.  This happens for mechanical systems derived from Newton's laws as long as the coordinates are the position and the momentum and the volume is measured in units of (position) × (momentum).  The flow takes points of a subset <it>A</it> into the points Φ t(A) and invariance of the phase space means that 
 <indent level="1">
 
  <math> \mathrm{vol} (A) = \mathrm{vol} ( \Phi^t(A) ) \,. </math>
@@ -559,7 +559,7 @@ Koopman</link></research_worker>
 </person>
 </physical_entity>
  approached the study of ergodic systems by the use of <link xlink:type="simple" xlink:href="../180/11180.xml">
-functional analysis</link>.  An observable <it>a</it> is a function that to each point of the phase space associates a number (say instantaneous pressure, or average height).  The value of an observable can be computed at another time by using the evolution function φ&nbsp;t.  This introduces an operator <it>U</it>&nbsp;t, the <link xlink:type="simple" xlink:href="../096/1346096.xml">
+functional analysis</link>.  An observable <it>a</it> is a function that to each point of the phase space associates a number (say instantaneous pressure, or average height).  The value of an observable can be computed at another time by using the evolution function φ t.  This introduces an operator <it>U</it> t, the <link xlink:type="simple" xlink:href="../096/1346096.xml">
 transfer operator</link>,</p>
 <p>
 
@@ -568,7 +568,7 @@ transfer operator</link>,</p>
  <math> (U^t a)(x) = a(\Phi^{-t}(x)) \,. </math>
 </indent>
 
-By studying the spectral properties of the linear operator <it>U</it> it becomes possible to classify the ergodic properties of Φ&nbsp;t.  In using the Koopman approach of considering the action of the flow on an observable function, the finite-dimensional nonlinear problem involving Φ&nbsp;t gets mapped into an infinite-dimensional linear problem involving <it>U</it>.</p>
+By studying the spectral properties of the linear operator <it>U</it> it becomes possible to classify the ergodic properties of Φ t.  In using the Koopman approach of considering the action of the flow on an observable function, the finite-dimensional nonlinear problem involving Φ t gets mapped into an infinite-dimensional linear problem involving <it>U</it>.</p>
 <p>
 
 The Liouville measure restricted to the energy surface Ω is the basis for the averages computed in <link xlink:type="simple" xlink:href="../481/28481.xml">
@@ -599,7 +599,7 @@ attractor</link>s?" or "Does the long-term behavior of the system depend on its 
 <p>
 
 Note that the chaotic behavior of complicated systems is not the issue. <link xlink:type="simple" xlink:href="../904/19904.xml">
-Meteorology</link> has been known for years to involve complicated&mdash;even chaotic&mdash;behavior. Chaos theory has been so surprising because chaos can be found within almost trivial systems. The <link xlink:type="simple" xlink:href="../137/18137.xml">
+Meteorology</link> has been known for years to involve complicated—even chaotic—behavior. Chaos theory has been so surprising because chaos can be found within almost trivial systems. The <link xlink:type="simple" xlink:href="../137/18137.xml">
 logistic map</link> is only a second-degree polynomial; the <link xlink:type="simple" xlink:href="../364/449364.xml">
 horseshoe map</link> is piecewise linear.</p>
 
@@ -609,7 +609,7 @@ horseshoe map</link> is piecewise linear.</p>
  Geometrical definition </st>
 <p>
 
-A dynamical system is the tuple <math> \langle \mathcal{M}, f , \mathcal{T}\rangle </math>, with <math>\mathcal{M}</math> a manifold (locally a Banach space or Euclidean space), <math>\mathcal{T}</math> the domain for time (non-negative reals, the integers, ...) and an evolution rule <it>f&nbsp;t</it> (with <math>t\in\mathcal{T}</math>) a <link xlink:type="simple" xlink:href="../564/8564.xml">
+A dynamical system is the tuple <math> \langle \mathcal{M}, f , \mathcal{T}\rangle </math>, with <math>\mathcal{M}</math> a manifold (locally a Banach space or Euclidean space), <math>\mathcal{T}</math> the domain for time (non-negative reals, the integers, ...) and an evolution rule <it>f t</it> (with <math>t\in\mathcal{T}</math>) a <link xlink:type="simple" xlink:href="../564/8564.xml">
 diffeomorphism</link> of the manifold to itself.</p>
 
 </ss1>
@@ -931,17 +931,17 @@ Jerrold E. Marsden</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&#32;(1978). Foundations of mechanics.&#32;Benjamin-Cummings. ISBN 0-8053-0102-X.</cite>&nbsp;  (available as a reprint: ISBN 0-201-40840-6)</entry>
+&#32;(1978). Foundations of mechanics.&#32;Benjamin-Cummings. ISBN 0-8053-0102-X.</cite>   (available as a reprint: ISBN 0-201-40840-6)</entry>
 <entry level="1" type="bullet">
 
  <it>Encyclopaedia of Mathematical Sciences</it> (ISSN 0938-0396) has a <weblink xlink:type="simple" xlink:href="http://en.wikipedia.org/wiki/User:XaosBits/EMP">
 sub-series on dynamical systems</weblink> with reviews of current research.</entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Anatole Katok and Boris Hasselblatt&#32;(1996). Introduction to the modern theory of dynamical systems.&#32;Cambridge. ISBN 0-521-57557-5.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Anatole Katok and Boris Hasselblatt&#32;(1996). Introduction to the modern theory of dynamical systems.&#32;Cambridge. ISBN 0-521-57557-5.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Christian Bonatti,  Lorenzo J. Díaz, Marcelo  Viana&#32;(2005). Dynamics Beyond Uniform Hyperbolicity: A Global Geometric and Probabilistic Perspective.&#32;Springer. ISBN 3-540-22066-6.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Christian Bonatti,  Lorenzo J. Díaz, Marcelo  Viana&#32;(2005). Dynamics Beyond Uniform Hyperbolicity: A Global Geometric and Probabilistic Perspective.&#32;Springer. ISBN 3-540-22066-6.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -959,7 +959,7 @@ Diederich Hinrichsen</link></mathematician>
 </theorist>
 </person>
 </physical_entity>
- and Anthony J. Pritchard&#32;(2005). Mathematical Systems Theory I - Modelling, State Space Analysis, Stability and Robustness.&#32;Springer Verlag. ISBN 978-3-540-44125-0.</cite>&nbsp;</entry>
+ and Anthony J. Pritchard&#32;(2005). Mathematical Systems Theory I - Modelling, State Space Analysis, Stability and Robustness.&#32;Springer Verlag. ISBN 978-3-540-44125-0.</cite> </entry>
 </list>
 </p>
 <p>
@@ -997,7 +997,7 @@ V. I. Arnold</link></scholar>
 </physical_entity>
 </expert>
 </analyst>
-&#32;(1982). Mathematical methods of classical mechanics.&#32;Springer-Verlag. ISBN 0-387-96890-3.</cite>&nbsp;</entry>
+&#32;(1982). Mathematical methods of classical mechanics.&#32;Springer-Verlag. ISBN 0-387-96890-3.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -1011,7 +1011,7 @@ Jacob Palis</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
- and Wellington de Melo&#32;(1982). Geometric theory of dynamical systems: an introduction.&#32;Springer-Verlag. ISBN 0-387-90668-1.</cite>&nbsp;</entry>
+ and Wellington de Melo&#32;(1982). Geometric theory of dynamical systems: an introduction.&#32;Springer-Verlag. ISBN 0-387-90668-1.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -1037,10 +1037,10 @@ David Ruelle</link></associate>
 </member>
 </peer>
 </physical_entity>
-&#32;(1989). Elements of Differentiable Dynamics and Bifurcation Theory.&#32;Academic Press. ISBN 0-12-601710-7.</cite>&nbsp;</entry>
+&#32;(1989). Elements of Differentiable Dynamics and Bifurcation Theory.&#32;Academic Press. ISBN 0-12-601710-7.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Tim Bedford, Michael Keane and Caroline Series, eds.&#32;(1991). Ergodic theory, symbolic dynamics and hyperbolic spaces.&#32;Oxford University Press. ISBN 0-19-853390-X.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Tim Bedford, Michael Keane and Caroline Series, eds.&#32;(1991). Ergodic theory, symbolic dynamics and hyperbolic spaces.&#32;Oxford University Press. ISBN 0-19-853390-X.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -1054,7 +1054,7 @@ Ralph H. Abraham</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
- and Christopher D. Shaw&#32;(1992). Dynamics&mdash;the geometry of behavior, 2nd edition.&#32;Addison-Wesley. ISBN 0-201-56716-4.</cite>&nbsp;</entry>
+ and Christopher D. Shaw&#32;(1992). Dynamics—the geometry of behavior, 2nd edition.&#32;Addison-Wesley. ISBN 0-201-56716-4.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1066,7 +1066,7 @@ Textbooks
   <cite style="font-style:normal" class="book"><scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../981/4781981.xml">
 Steven H. Strogatz</link></scientist>
-&#32;(1994). Nonlinear dynamics and chaos: with applications to physics, biology chemistry and engineering.&#32;Addison Wesley. ISBN 0-201-54344-3.</cite>&nbsp;</entry>
+&#32;(1994). Nonlinear dynamics and chaos: with applications to physics, biology chemistry and engineering.&#32;Addison Wesley. ISBN 0-201-54344-3.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Kathleen T. Alligood, Tim D. Sauer and <physical_entity wordnetid="100001930" confidence="0.8">
@@ -1094,13 +1094,13 @@ James A. Yorke</link></recipient>
 </person>
 </physicist>
 </physical_entity>
-&#32;(2000). Chaos.  An introduction to dynamical systems.&#32;Springer Verlag. ISBN 0-387-94677-2.</cite>&nbsp;</entry>
+&#32;(2000). Chaos.  An introduction to dynamical systems.&#32;Springer Verlag. ISBN 0-387-94677-2.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Morris W. Hirsch, <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../294/40294.xml">
 Stephen Smale</link></scientist>
- and Robert Devaney&#32;(2003). Differential Equations, dynamical systems, and an introduction to chaos.&#32;Academic Press. ISBN 0-12-349703-5.</cite>&nbsp;</entry>
+ and Robert Devaney&#32;(2003). Differential Equations, dynamical systems, and an introduction to chaos.&#32;Academic Press. ISBN 0-12-349703-5.</cite> </entry>
 </list>
 </p>
 <p>
@@ -1118,7 +1118,7 @@ Philip Holmes</link></causal_agent>
 </engineer>
 </person>
 </physical_entity>
-&#32;(1996). Celestial Encounters.&#32;Princeton. ISBN 0-691-02743-9.</cite>&nbsp;</entry>
+&#32;(1996). Celestial Encounters.&#32;Princeton. ISBN 0-691-02743-9.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -1142,13 +1142,13 @@ James Gleick</link></biographer>
 </person>
 </communicator>
 </physical_entity>
-&#32;(1988). Chaos: Making a New Science.&#32;Penguin. ISBN 0-14-009250-1.</cite>&nbsp;</entry>
+&#32;(1988). Chaos: Making a New Science.&#32;Penguin. ISBN 0-14-009250-1.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Ivar Ekeland&#32;(1990). Mathematics and the Unexpected (Paperback).&#32;University Of Chicago Press. ISBN 0-226-19990-8.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Ivar Ekeland&#32;(1990). Mathematics and the Unexpected (Paperback).&#32;University Of Chicago Press. ISBN 0-226-19990-8.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Ian Stewart&#32;(1997). Does God Play Dice? The New Mathematics of Chaos.&#32;Penguin. ISBN 0140256024.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Ian Stewart&#32;(1997). Does God Play Dice? The New Mathematics of Chaos.&#32;Penguin. ISBN 0140256024.</cite> </entry>
 </list>
 </p>
 
@@ -1325,11 +1325,11 @@ systems science</link></header>
 Systems|Systems categories</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 
-Conceptual systems|Conceptual systems&nbsp;·  
-Physical systems|Physical systems&nbsp;·  
-Social systems|Social systems&nbsp;·  
-Systems theory|Systems theory&nbsp;·  
-Systems science|Systems science&nbsp;·  
+Conceptual systems|Conceptual systems ·  
+Physical systems|Physical systems ·  
+Social systems|Social systems ·  
+Systems theory|Systems theory ·  
+Systems science|Systems science ·  
 Systems scientists|Systems scientists</col>
 </row>
 <row style="height:2px">
@@ -1341,10 +1341,10 @@ Systems scientists|Systems scientists</col>
 System</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../599/5780599.xml">
-Biological system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../438/37438.xml">
-Complex system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../810/1428810.xml">
-Complex adaptive system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/773298.xml">
-Conceptual system</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Biological system</link> ·  <link xlink:type="simple" xlink:href="../438/37438.xml">
+Complex system</link> ·  <link xlink:type="simple" xlink:href="../810/1428810.xml">
+Complex adaptive system</link> ·  <link xlink:type="simple" xlink:href="../298/773298.xml">
+Conceptual system</link> ·  <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <survey wordnetid="100644503" confidence="0.8">
@@ -1361,56 +1361,56 @@ Cultural system</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../513/8513.xml">
-Database management system</link>&nbsp;· <link xlink:type="simple" xlink:href="../087/9087.xml">
-Dynamical system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../262/692262.xml">
-Economic system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../632/9632.xml">
-Ecosystem</link>&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../513/8513.xml">
+Database management system</link> · <link xlink:type="simple" xlink:href="../087/9087.xml">
+Dynamical system</link> ·  <link xlink:type="simple" xlink:href="../262/692262.xml">
+Economic system</link> ·  <link xlink:type="simple" xlink:href="../632/9632.xml">
+Ecosystem</link> ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../102/396102.xml">
 Formal system</link></language>
 </method>
 </know-how>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../866/11866.xml">
 Global Positioning System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../268/13268.xml">
-Human anatomy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../495/237495.xml">
-Information system</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../708/154708.xml">
-Legal systems of the world</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../268/13268.xml">
+Human anatomy</link> ·  <link xlink:type="simple" xlink:href="../495/237495.xml">
+Information system</link>s ·  <link xlink:type="simple" xlink:href="../708/154708.xml">
+Legal systems of the world</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../664/16554664.xml">
 Living systems</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <unit_of_measurement wordnetid="113583724" confidence="0.8">
+ ·  <unit_of_measurement wordnetid="113583724" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
 <link xlink:type="simple" xlink:href="../988/1241988.xml">
 Systems of measurement</link></definite_quantity>
 </unit_of_measurement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../142/44142.xml">
-Metric system</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../142/44142.xml">
+Metric system</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../833/938833.xml">
 Multi-agent system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·   <link xlink:type="simple" xlink:href="../944/21944.xml">
-Nervous system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../103/146103.xml">
-Nonlinearity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../194/22194.xml">
-Operating system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../322/773322.xml">
-Physical system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../724/258724.xml">
-Political system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../234/379234.xml">
-Sensory system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../444/634444.xml">
-Social structure</link>&nbsp;·  <link xlink:type="simple" xlink:href="../903/26903.xml">
-Solar System</link>&nbsp;·  <link xlink:type="simple" xlink:href="../135/16280135.xml">
+ ·   <link xlink:type="simple" xlink:href="../944/21944.xml">
+Nervous system</link> ·  <link xlink:type="simple" xlink:href="../103/146103.xml">
+Nonlinearity</link> ·  <link xlink:type="simple" xlink:href="../194/22194.xml">
+Operating system</link> ·  <link xlink:type="simple" xlink:href="../322/773322.xml">
+Physical system</link> ·  <link xlink:type="simple" xlink:href="../724/258724.xml">
+Political system</link> ·  <link xlink:type="simple" xlink:href="../234/379234.xml">
+Sensory system</link> ·  <link xlink:type="simple" xlink:href="../444/634444.xml">
+Social structure</link> ·  <link xlink:type="simple" xlink:href="../903/26903.xml">
+Solar System</link> ·  <link xlink:type="simple" xlink:href="../135/16280135.xml">
 Systems art</link></col>
 </row>
 <row style="height:2px">
@@ -1425,10 +1425,10 @@ Theoretical fields</col>
 <link xlink:type="simple" xlink:href="../295/6295.xml">
 Chaos theory</link></concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../903/62903.xml">
-Complex systems</link>&nbsp;·  <link xlink:type="simple" xlink:href="../039/7039.xml">
-Control theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../904/5904.xml">
-Cybernetics</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../903/62903.xml">
+Complex systems</link> ·  <link xlink:type="simple" xlink:href="../039/7039.xml">
+Control theory</link> ·  <link xlink:type="simple" xlink:href="../904/5904.xml">
+Cybernetics</link> ·  <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1439,7 +1439,7 @@ Scientific holism</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <explanation wordnetid="105793000" confidence="0.8">
 <theory wordnetid="105989479" confidence="0.8">
@@ -1450,19 +1450,19 @@ Sociotechnical systems theory</link></higher_cognitive_process>
 </explanation>
 </thinking>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../899/467899.xml">
-Systems biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../208/153208.xml">
-System dynamics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../299/3253299.xml">
-Systems ecology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../764/27764.xml">
-Systems engineering</link>&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../899/467899.xml">
+Systems biology</link> ·  <link xlink:type="simple" xlink:href="../208/153208.xml">
+System dynamics</link> ·  <link xlink:type="simple" xlink:href="../299/3253299.xml">
+Systems ecology</link> ·  <link xlink:type="simple" xlink:href="../764/27764.xml">
+Systems engineering</link> ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <branch wordnetid="108401248" confidence="0.8">
 <link xlink:type="simple" xlink:href="../882/16700882.xml">
 Systems psychology</link></branch>
 </administrative_unit>
 </division>
-&nbsp;·  <link xlink:type="simple" xlink:href="../757/659757.xml">
-Systems science</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../757/659757.xml">
+Systems science</link> ·  <process wordnetid="105701363" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
@@ -1503,7 +1503,7 @@ Russell L. Ackoff</link></research_worker>
 </theorist>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <specialist wordnetid="110632576" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1534,15 +1534,15 @@ William Ross Ashby</link></research_worker>
 </specialist>
 </person>
 </physical_entity>
-&nbsp;·  <link>
-Béla H. Bánáthy</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+Béla H. Bánáthy</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../331/154331.xml">
 Gregory Bateson</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/730173.xml">
 Richard E. Bellman</link></scientist>
-&nbsp;·  <link xlink:type="simple" xlink:href="../597/142597.xml">
-Stafford Beer</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../597/142597.xml">
+Stafford Beer</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1553,7 +1553,7 @@ Ludwig von Bertalanffy</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <expert wordnetid="109617867" confidence="0.8">
+ ·  <expert wordnetid="109617867" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <therapist wordnetid="110707233" confidence="0.8">
@@ -1580,7 +1580,7 @@ Murray Bowen</link></psychiatrist>
 </person>
 </physical_entity>
 </expert>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1591,7 +1591,7 @@ Kenneth E. Boulding</link></religious_person>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1606,7 +1606,7 @@ C. West Churchman</link></research_worker>
 </theorist>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <analyst wordnetid="109790482" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1625,7 +1625,7 @@ George Dantzig</link></research_worker>
 </analyst>
 </expert>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1634,19 +1634,19 @@ Heinz von Foerster</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/290393.xml">
 Jay Wright Forrester</link></scientist>
-&nbsp;·  <link>
-George  Klir</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+George  Klir</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../783/1706783.xml">
 Edward Lorenz</link></scientist>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/21465.xml">
 Niklas Luhmann</link></scientist>
 </person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -1665,12 +1665,12 @@ Humberto Maturana</link></psychologist>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <anthropologist wordnetid="109796323" confidence="0.9173553029164789">
+ ·  <anthropologist wordnetid="109796323" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../617/19617.xml">
 Margaret Mead</link></person>
 </anthropologist>
-&nbsp;·  <peer wordnetid="109626238" confidence="0.8">
+ ·  <peer wordnetid="109626238" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <environmentalist wordnetid="110060621" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1703,7 +1703,7 @@ Donella Meadows</link></scholar>
 </environmentalist>
 </physical_entity>
 </peer>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <engineer wordnetid="109615807" confidence="0.8">
@@ -1716,16 +1716,16 @@ Mihajlo D. Mesarovic</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../627/1019627.xml">
 Howard T. Odum</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../041/54041.xml">
 Talcott Parsons</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/238560.xml">
 Ilya Prigogine</link></scientist>
-&nbsp;·  <citizen wordnetid="109923673" confidence="0.8">
+ ·  <citizen wordnetid="109923673" confidence="0.8">
 <obstructionist wordnetid="110349243" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1754,10 +1754,10 @@ Anatol Rapoport</link></causal_agent>
 </physical_entity>
 </obstructionist>
 </citizen>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/5693.xml">
 Claude Shannon</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -1778,12 +1778,12 @@ Francisco Varela</link></research_worker>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../453/17453.xml">
 Kevin Warwick</link></scientist>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/63185.xml">
 Norbert Wiener</link></scientist>

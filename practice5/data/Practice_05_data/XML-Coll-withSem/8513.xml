@@ -422,9 +422,9 @@ Michael Stonebraker</link></associate>
 </peer>
 </physical_entity>
 . They started a project known as <link xlink:type="simple" xlink:href="../394/84394.xml">
-INGRES</link> using funding that had already been allocated for a geographical database project, using student programmers to produce code. Beginning in 1973, INGRES delivered its first test products which were generally ready for widespread use in 1979. During this time, a number of people had moved "through" the group &mdash; perhaps as many as 30 people worked on the project, about five at a time. INGRES was similar to <link xlink:type="simple" xlink:href="../791/472791.xml">
+INGRES</link> using funding that had already been allocated for a geographical database project, using student programmers to produce code. Beginning in 1973, INGRES delivered its first test products which were generally ready for widespread use in 1979. During this time, a number of people had moved "through" the group — perhaps as many as 30 people worked on the project, about five at a time. INGRES was similar to <link xlink:type="simple" xlink:href="../791/472791.xml">
 System R</link> in a number of ways, including the use of a "language" for data access, known as <link xlink:type="simple" xlink:href="../292/2616292.xml">
-QUEL</link> &mdash; QUEL was in fact relational, having been based on Codd's own Alpha language, but has since been corrupted to follow SQL, thus violating much the same concepts of the relational model as SQL itself.</p>
+QUEL</link> — QUEL was in fact relational, having been based on Codd's own Alpha language, but has since been corrupted to follow SQL, thus violating much the same concepts of the relational model as SQL itself.</p>
 <p>
 
 IBM itself did only one test implementation of the relational model, <link xlink:type="simple" xlink:href="../496/3116496.xml">
@@ -460,7 +460,7 @@ Michigan Terminal System</link></O>
 <p>
 
 IBM started working on a prototype system loosely based on Codd's concepts as <b><link xlink:type="simple" xlink:href="../791/472791.xml">
-System R</link></b> in the early 1970s &mdash; unfortunately, System R was conceived as a way of proving Codd's ideas unimplementable, and thus the project was delivered to a group of programmers who were not under Codd's supervision, never understood his ideas fully and ended up violating several fundamentals of the relational model. The first "quickie" version was ready in 1974/5, and work then started on multi-table systems in which the data could be broken down so that all of the data for a record (much of which is often optional) did not have to be stored in a single large "chunk". Subsequent multi-user versions were tested by customers in 1978 and 1979, by which time a standardized <link xlink:type="simple" xlink:href="../528/494528.xml">
+System R</link></b> in the early 1970s — unfortunately, System R was conceived as a way of proving Codd's ideas unimplementable, and thus the project was delivered to a group of programmers who were not under Codd's supervision, never understood his ideas fully and ended up violating several fundamentals of the relational model. The first "quickie" version was ready in 1974/5, and work then started on multi-table systems in which the data could be broken down so that all of the data for a record (much of which is often optional) did not have to be stored in a single large "chunk". Subsequent multi-user versions were tested by customers in 1978 and 1979, by which time a standardized <link xlink:type="simple" xlink:href="../528/494528.xml">
 query language</link>, <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../004/29004.xml">
 SQL</link></programming_language>
@@ -912,7 +912,7 @@ Database models</link></instrumentality>
 </artifact>
 </system>
 
-&nbsp;·  <relationship wordnetid="113928668" confidence="0.8">
+ ·  <relationship wordnetid="113928668" confidence="0.8">
 <confinement wordnetid="113998576" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <subjugation wordnetid="113996300" confidence="0.8">
@@ -923,34 +923,34 @@ Database normalization</link></constraint>
 </state>
 </confinement>
 </relationship>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../365/10983365.xml">
 Database storage</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../515/1990515.xml">
 Distributed DBMS</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../718/445718.xml">
-Referential integrity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../285/175285.xml">
-Relational algebra</link>&nbsp;·  <link xlink:type="simple" xlink:href="../769/175769.xml">
-Relational calculus</link>&nbsp;·  <link xlink:type="simple" xlink:href="../873/25873.xml">
-Relational database</link>&nbsp;·  <link xlink:type="simple" xlink:href="../743/98743.xml">
-Relational DBMS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../220/26220.xml">
-Relational model</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../718/445718.xml">
+Referential integrity</link> ·  <link xlink:type="simple" xlink:href="../285/175285.xml">
+Relational algebra</link> ·  <link xlink:type="simple" xlink:href="../769/175769.xml">
+Relational calculus</link> ·  <link xlink:type="simple" xlink:href="../873/25873.xml">
+Relational database</link> ·  <link xlink:type="simple" xlink:href="../743/98743.xml">
+Relational DBMS</link> ·  <link xlink:type="simple" xlink:href="../220/26220.xml">
+Relational model</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/68960.xml">
 Object-relational database</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../409/212409.xml">
+ ·  <link xlink:type="simple" xlink:href="../409/212409.xml">
 Transaction processing</link></col>
 </row>
 <row style="height:2px;">
@@ -961,14 +961,14 @@ Transaction processing</link></col>
 Concepts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../377/8377.xml">
-Database</link>&nbsp;·  <link xlink:type="simple" xlink:href="../776/60776.xml">
-ACID</link>&nbsp;·  <link xlink:type="simple" xlink:href="../180/287180.xml">
-CRUD</link>&nbsp;·  <link xlink:type="simple" xlink:href="../540/2002540.xml">
-Null</link>&nbsp;·  <link xlink:type="simple" xlink:href="../975/336975.xml">
-Candidate key</link>&nbsp;·  <link xlink:type="simple" xlink:href="../065/259065.xml">
-Foreign key</link>&nbsp;·  <link xlink:type="simple" xlink:href="../099/6850099.xml">
-Primary key</link>&nbsp;·  <link xlink:type="simple" xlink:href="../952/1137952.xml">
-Superkey</link>&nbsp;·  <link xlink:type="simple" xlink:href="../950/472950.xml">
+Database</link> ·  <link xlink:type="simple" xlink:href="../776/60776.xml">
+ACID</link> ·  <link xlink:type="simple" xlink:href="../180/287180.xml">
+CRUD</link> ·  <link xlink:type="simple" xlink:href="../540/2002540.xml">
+Null</link> ·  <link xlink:type="simple" xlink:href="../975/336975.xml">
+Candidate key</link> ·  <link xlink:type="simple" xlink:href="../065/259065.xml">
+Foreign key</link> ·  <link xlink:type="simple" xlink:href="../099/6850099.xml">
+Primary key</link> ·  <link xlink:type="simple" xlink:href="../952/1137952.xml">
+Superkey</link> ·  <link xlink:type="simple" xlink:href="../950/472950.xml">
 Surrogate key</link></col>
 </row>
 <row style="height:2px">
@@ -985,38 +985,38 @@ Objects</col>
 Trigger</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../226/1960226.xml">
 View</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../163/1701163.xml">
-Table</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../163/1701163.xml">
+Table</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../836/2104836.xml">
 Cursor</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../974/245974.xml">
 Log</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../953/233953.xml">
-Transaction</link>&nbsp;·  <link xlink:type="simple" xlink:href="../076/1711076.xml">
-Index</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../953/233953.xml">
+Transaction</link> ·  <link xlink:type="simple" xlink:href="../076/1711076.xml">
+Index</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../251/277251.xml">
 Stored procedure</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../101/1983101.xml">
@@ -1036,20 +1036,20 @@ SQL</link></programming_language>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../285/665285.xml">
-Select</link>&nbsp;·  <link xlink:type="simple" xlink:href="../237/903237.xml">
-Insert</link>&nbsp;·  <link xlink:type="simple" xlink:href="../573/1220573.xml">
-Update</link>&nbsp;·  <link xlink:type="simple" xlink:href="../931/4347931.xml">
-Merge</link>&nbsp;·  <link xlink:type="simple" xlink:href="../216/1701216.xml">
-Delete</link>&nbsp;·  <link xlink:type="simple" xlink:href="../204/665204.xml">
-Join</link>&nbsp;·  <link xlink:type="simple" xlink:href="../258/11308258.xml">
-Union</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/452018.xml">
-Create</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/452018.xml">
-Drop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../953/233953.xml#xpointer(//*[./st=%22In+SQL%22])">
-Begin work</link>&nbsp;·  <link xlink:type="simple" xlink:href="../958/1626958.xml">
-Commit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../240/1015240.xml">
-Rollback</link>&nbsp;·  <link xlink:type="simple" xlink:href="../664/2554664.xml">
-Truncate</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/452018.xml">
-Alter</link>&nbsp;·  <link xlink:type="simple" xlink:href="../499/19041499.xml">
+Select</link> ·  <link xlink:type="simple" xlink:href="../237/903237.xml">
+Insert</link> ·  <link xlink:type="simple" xlink:href="../573/1220573.xml">
+Update</link> ·  <link xlink:type="simple" xlink:href="../931/4347931.xml">
+Merge</link> ·  <link xlink:type="simple" xlink:href="../216/1701216.xml">
+Delete</link> ·  <link xlink:type="simple" xlink:href="../204/665204.xml">
+Join</link> ·  <link xlink:type="simple" xlink:href="../258/11308258.xml">
+Union</link> ·  <link xlink:type="simple" xlink:href="../018/452018.xml">
+Create</link> ·  <link xlink:type="simple" xlink:href="../018/452018.xml">
+Drop</link> ·  <link xlink:type="simple" xlink:href="../953/233953.xml#xpointer(//*[./st=%22In+SQL%22])">
+Begin work</link> ·  <link xlink:type="simple" xlink:href="../958/1626958.xml">
+Commit</link> ·  <link xlink:type="simple" xlink:href="../240/1015240.xml">
+Rollback</link> ·  <link xlink:type="simple" xlink:href="../664/2554664.xml">
+Truncate</link> ·  <link xlink:type="simple" xlink:href="../018/452018.xml">
+Alter</link> ·  <link xlink:type="simple" xlink:href="../499/19041499.xml">
 XSQL</link></col>
 </row>
 <row style="height:2px">
@@ -1060,41 +1060,41 @@ XSQL</link></col>
 Implementations</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../873/25873.xml">
-Relational</link>&nbsp;·  <link xlink:type="simple" xlink:href="../973/573973.xml">
-Flat file</link>&nbsp;·  <link xlink:type="simple" xlink:href="../069/1971069.xml">
-Deductive</link>&nbsp;·  <link xlink:type="simple" xlink:href="../079/12321079.xml">
-Dimensional</link>&nbsp;·  <link xlink:type="simple" xlink:href="../075/247075.xml">
-Hierarchical</link>&nbsp;·  <link xlink:type="simple" xlink:href="../098/185098.xml">
-Network</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Relational</link> ·  <link xlink:type="simple" xlink:href="../973/573973.xml">
+Flat file</link> ·  <link xlink:type="simple" xlink:href="../069/1971069.xml">
+Deductive</link> ·  <link xlink:type="simple" xlink:href="../079/12321079.xml">
+Dimensional</link> ·  <link xlink:type="simple" xlink:href="../075/247075.xml">
+Hierarchical</link> ·  <link xlink:type="simple" xlink:href="../098/185098.xml">
+Network</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../414/15002414.xml">
 Document-oriented</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../826/22826.xml">
 Object-oriented</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/68960.xml">
 Object-relational</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../471/1252471.xml">
 Temporal</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../351/1442351.xml">
-XML data stores</link>&nbsp;·  <link xlink:type="simple" xlink:href="../386/16727386.xml">
+ ·  <link xlink:type="simple" xlink:href="../351/1442351.xml">
+XML data stores</link> ·  <link xlink:type="simple" xlink:href="../386/16727386.xml">
 Triple stores</link></col>
 </row>
 <row style="height:2px">
@@ -1105,11 +1105,11 @@ Triple stores</link></col>
 Components</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../356/217356.xml">
-Concurrency control</link>&nbsp;·  <link xlink:type="simple" xlink:href="../139/645139.xml">
-Data dictionary</link>&nbsp;·  <link xlink:type="simple" xlink:href="../755/42755.xml">
-JDBC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../701/168701.xml">
-ODBC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../528/494528.xml">
-Query language</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Concurrency control</link> ·  <link xlink:type="simple" xlink:href="../139/645139.xml">
+Data dictionary</link> ·  <link xlink:type="simple" xlink:href="../755/42755.xml">
+JDBC</link> ·  <link xlink:type="simple" xlink:href="../701/168701.xml">
+ODBC</link> ·  <link xlink:type="simple" xlink:href="../528/494528.xml">
+Query language</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1130,7 +1130,7 @@ Query optimizer</link></algorithm>
 </instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../792/1710792.xml">
@@ -1147,9 +1147,9 @@ Query plan</link></instrumentality>
 <b>Database products:</b> <link xlink:type="simple" xlink:href="../860/1568860.xml">
 Object-oriented</link> (<link xlink:type="simple" xlink:href="../534/1593534.xml">
 comparison</link>)
-&nbsp;·  <link xlink:type="simple" xlink:href="../820/1568820.xml">
+ ·  <link xlink:type="simple" xlink:href="../820/1568820.xml">
 Relational</link> (<link xlink:type="simple" xlink:href="../036/1569036.xml">
-comparison</link>)&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+comparison</link>) ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../414/15002414.xml">
@@ -1185,11 +1185,11 @@ systems science</link></header>
 Systems|Systems categories</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 
-Conceptual systems|Conceptual systems&nbsp;·  
-Physical systems|Physical systems&nbsp;·  
-Social systems|Social systems&nbsp;·  
-Systems theory|Systems theory&nbsp;·  
-Systems science|Systems science&nbsp;·  
+Conceptual systems|Conceptual systems ·  
+Physical systems|Physical systems ·  
+Social systems|Social systems ·  
+Systems theory|Systems theory ·  
+Systems science|Systems science ·  
 Systems scientists|Systems scientists</col>
 </row>
 <row style="height:2px">
@@ -1201,10 +1201,10 @@ Systems scientists|Systems scientists</col>
 System</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../599/5780599.xml">
-Biological system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../438/37438.xml">
-Complex system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../810/1428810.xml">
-Complex adaptive system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/773298.xml">
-Conceptual system</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Biological system</link> ·  <link xlink:type="simple" xlink:href="../438/37438.xml">
+Complex system</link> ·  <link xlink:type="simple" xlink:href="../810/1428810.xml">
+Complex adaptive system</link> ·  <link xlink:type="simple" xlink:href="../298/773298.xml">
+Conceptual system</link> ·  <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <survey wordnetid="100644503" confidence="0.8">
@@ -1221,56 +1221,56 @@ Cultural system</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../513/8513.xml">
-Database management system</link>&nbsp;· <link xlink:type="simple" xlink:href="../087/9087.xml">
-Dynamical system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../262/692262.xml">
-Economic system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../632/9632.xml">
-Ecosystem</link>&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../513/8513.xml">
+Database management system</link> · <link xlink:type="simple" xlink:href="../087/9087.xml">
+Dynamical system</link> ·  <link xlink:type="simple" xlink:href="../262/692262.xml">
+Economic system</link> ·  <link xlink:type="simple" xlink:href="../632/9632.xml">
+Ecosystem</link> ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../102/396102.xml">
 Formal system</link></language>
 </method>
 </know-how>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../866/11866.xml">
 Global Positioning System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../268/13268.xml">
-Human anatomy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../495/237495.xml">
-Information system</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../708/154708.xml">
-Legal systems of the world</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../268/13268.xml">
+Human anatomy</link> ·  <link xlink:type="simple" xlink:href="../495/237495.xml">
+Information system</link>s ·  <link xlink:type="simple" xlink:href="../708/154708.xml">
+Legal systems of the world</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../664/16554664.xml">
 Living systems</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <unit_of_measurement wordnetid="113583724" confidence="0.8">
+ ·  <unit_of_measurement wordnetid="113583724" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
 <link xlink:type="simple" xlink:href="../988/1241988.xml">
 Systems of measurement</link></definite_quantity>
 </unit_of_measurement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../142/44142.xml">
-Metric system</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../142/44142.xml">
+Metric system</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../833/938833.xml">
 Multi-agent system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·   <link xlink:type="simple" xlink:href="../944/21944.xml">
-Nervous system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../103/146103.xml">
-Nonlinearity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../194/22194.xml">
-Operating system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../322/773322.xml">
-Physical system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../724/258724.xml">
-Political system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../234/379234.xml">
-Sensory system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../444/634444.xml">
-Social structure</link>&nbsp;·  <link xlink:type="simple" xlink:href="../903/26903.xml">
-Solar System</link>&nbsp;·  <link xlink:type="simple" xlink:href="../135/16280135.xml">
+ ·   <link xlink:type="simple" xlink:href="../944/21944.xml">
+Nervous system</link> ·  <link xlink:type="simple" xlink:href="../103/146103.xml">
+Nonlinearity</link> ·  <link xlink:type="simple" xlink:href="../194/22194.xml">
+Operating system</link> ·  <link xlink:type="simple" xlink:href="../322/773322.xml">
+Physical system</link> ·  <link xlink:type="simple" xlink:href="../724/258724.xml">
+Political system</link> ·  <link xlink:type="simple" xlink:href="../234/379234.xml">
+Sensory system</link> ·  <link xlink:type="simple" xlink:href="../444/634444.xml">
+Social structure</link> ·  <link xlink:type="simple" xlink:href="../903/26903.xml">
+Solar System</link> ·  <link xlink:type="simple" xlink:href="../135/16280135.xml">
 Systems art</link></col>
 </row>
 <row style="height:2px">
@@ -1285,10 +1285,10 @@ Theoretical fields</col>
 <link xlink:type="simple" xlink:href="../295/6295.xml">
 Chaos theory</link></concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../903/62903.xml">
-Complex systems</link>&nbsp;·  <link xlink:type="simple" xlink:href="../039/7039.xml">
-Control theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../904/5904.xml">
-Cybernetics</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../903/62903.xml">
+Complex systems</link> ·  <link xlink:type="simple" xlink:href="../039/7039.xml">
+Control theory</link> ·  <link xlink:type="simple" xlink:href="../904/5904.xml">
+Cybernetics</link> ·  <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1299,7 +1299,7 @@ Scientific holism</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <explanation wordnetid="105793000" confidence="0.8">
 <theory wordnetid="105989479" confidence="0.8">
@@ -1310,19 +1310,19 @@ Sociotechnical systems theory</link></higher_cognitive_process>
 </explanation>
 </thinking>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../899/467899.xml">
-Systems biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../208/153208.xml">
-System dynamics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../299/3253299.xml">
-Systems ecology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../764/27764.xml">
-Systems engineering</link>&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../899/467899.xml">
+Systems biology</link> ·  <link xlink:type="simple" xlink:href="../208/153208.xml">
+System dynamics</link> ·  <link xlink:type="simple" xlink:href="../299/3253299.xml">
+Systems ecology</link> ·  <link xlink:type="simple" xlink:href="../764/27764.xml">
+Systems engineering</link> ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <branch wordnetid="108401248" confidence="0.8">
 <link xlink:type="simple" xlink:href="../882/16700882.xml">
 Systems psychology</link></branch>
 </administrative_unit>
 </division>
-&nbsp;·  <link xlink:type="simple" xlink:href="../757/659757.xml">
-Systems science</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../757/659757.xml">
+Systems science</link> ·  <process wordnetid="105701363" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
@@ -1363,7 +1363,7 @@ Russell L. Ackoff</link></research_worker>
 </theorist>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <specialist wordnetid="110632576" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1394,15 +1394,15 @@ William Ross Ashby</link></research_worker>
 </specialist>
 </person>
 </physical_entity>
-&nbsp;·  <link>
-Béla H. Bánáthy</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+Béla H. Bánáthy</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../331/154331.xml">
 Gregory Bateson</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/730173.xml">
 Richard E. Bellman</link></scientist>
-&nbsp;·  <link xlink:type="simple" xlink:href="../597/142597.xml">
-Stafford Beer</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../597/142597.xml">
+Stafford Beer</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1413,7 +1413,7 @@ Ludwig von Bertalanffy</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <expert wordnetid="109617867" confidence="0.8">
+ ·  <expert wordnetid="109617867" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <therapist wordnetid="110707233" confidence="0.8">
@@ -1440,7 +1440,7 @@ Murray Bowen</link></psychiatrist>
 </person>
 </physical_entity>
 </expert>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1451,7 +1451,7 @@ Kenneth E. Boulding</link></religious_person>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1466,7 +1466,7 @@ C. West Churchman</link></research_worker>
 </theorist>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <analyst wordnetid="109790482" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1485,7 +1485,7 @@ George Dantzig</link></research_worker>
 </analyst>
 </expert>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1494,19 +1494,19 @@ Heinz von Foerster</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/290393.xml">
 Jay Wright Forrester</link></scientist>
-&nbsp;·  <link>
-George  Klir</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+George  Klir</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../783/1706783.xml">
 Edward Lorenz</link></scientist>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/21465.xml">
 Niklas Luhmann</link></scientist>
 </person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -1525,12 +1525,12 @@ Humberto Maturana</link></psychologist>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <anthropologist wordnetid="109796323" confidence="0.9173553029164789">
+ ·  <anthropologist wordnetid="109796323" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../617/19617.xml">
 Margaret Mead</link></person>
 </anthropologist>
-&nbsp;·  <peer wordnetid="109626238" confidence="0.8">
+ ·  <peer wordnetid="109626238" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <environmentalist wordnetid="110060621" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1563,7 +1563,7 @@ Donella Meadows</link></scholar>
 </environmentalist>
 </physical_entity>
 </peer>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <engineer wordnetid="109615807" confidence="0.8">
@@ -1576,16 +1576,16 @@ Mihajlo D. Mesarovic</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../627/1019627.xml">
 Howard T. Odum</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../041/54041.xml">
 Talcott Parsons</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/238560.xml">
 Ilya Prigogine</link></scientist>
-&nbsp;·  <citizen wordnetid="109923673" confidence="0.8">
+ ·  <citizen wordnetid="109923673" confidence="0.8">
 <obstructionist wordnetid="110349243" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1614,10 +1614,10 @@ Anatol Rapoport</link></causal_agent>
 </physical_entity>
 </obstructionist>
 </citizen>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/5693.xml">
 Claude Shannon</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -1638,12 +1638,12 @@ Francisco Varela</link></research_worker>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../453/17453.xml">
 Kevin Warwick</link></scientist>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/63185.xml">
 Norbert Wiener</link></scientist>

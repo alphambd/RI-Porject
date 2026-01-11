@@ -426,19 +426,19 @@ Australia</link></country>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../086/63086.xml">
-History</link>&nbsp;·  <link xlink:type="simple" xlink:href="../251/63251.xml">
-Geology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../430/1211430.xml">
-State Government</link>&nbsp;·  <legislature wordnetid="108163273" confidence="0.9508927676800064">
+History</link> ·  <link xlink:type="simple" xlink:href="../251/63251.xml">
+Geology</link> ·  <link xlink:type="simple" xlink:href="../430/1211430.xml">
+State Government</link> ·  <legislature wordnetid="108163273" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../813/1123813.xml">
 State Parliament</link></legislature>
-&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link>
 State Politics</link></social_relation>
 </politics>
-&nbsp;·  <link xlink:type="simple" xlink:href="../283/140283.xml">
-Local Government</link>&nbsp;·  <link xlink:type="simple" xlink:href="../691/12921691.xml">
-Energy</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../283/140283.xml">
+Local Government</link> ·  <link xlink:type="simple" xlink:href="../691/12921691.xml">
+Energy</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <highway wordnetid="103519981" confidence="0.8">
 <way wordnetid="104564698" confidence="0.8">
 <road wordnetid="104096066" confidence="0.8">
@@ -447,12 +447,12 @@ Road transport</link></road>
 </way>
 </highway>
 </artifact>
-&nbsp;·  <railing wordnetid="104047401" confidence="0.9508927676800064">
+ ·  <railing wordnetid="104047401" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../284/1182284.xml">
 Rail transport</link></railing>
-&nbsp;·  <link xlink:type="simple" xlink:href="../368/4533368.xml">
-Sport</link>&nbsp;·  <link xlink:type="simple" xlink:href="../127/15178127.xml">
-Education</link>&nbsp;·  <link xlink:type="simple" xlink:href="../329/15473329.xml">
+ ·  <link xlink:type="simple" xlink:href="../368/4533368.xml">
+Sport</link> ·  <link xlink:type="simple" xlink:href="../127/15178127.xml">
+Education</link> ·  <link xlink:type="simple" xlink:href="../329/15473329.xml">
 Teaching</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="1">
 <image width="80px" src="Flag_of_Victoria_(Australia).svg" type="border">

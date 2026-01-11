@@ -77,7 +77,7 @@ maps</link> a key value to one of the <it>m</it> array positions. </p>
 To <b>add</b> an element, feed it to each of the <it>k</it> hash functions to get <it>k</it> array positions. Set the bits at all these positions to 1.</p>
 <p>
 
-To <b>query</b> for an element (test whether it is in the set), feed it to each of the <it>k</it> hash functions to get <it>k</it> array positions. If any of the bits at these positions are 0, the element is not in the set &ndash; if it were, then all the bits would have been set to 1 when it was inserted. If all are 1, then either the element is in the set, or the bits have been set to 1 during the insertion of other elements.</p>
+To <b>query</b> for an element (test whether it is in the set), feed it to each of the <it>k</it> hash functions to get <it>k</it> array positions. If any of the bits at these positions are 0, the element is not in the set – if it were, then all the bits would have been set to 1 when it was inserted. If all are 1, then either the element is in the set, or the bits have been set to 1 during the insertion of other elements.</p>
 <p>
 
 The requirement of designing <it>k</it> different independent hash functions can be prohibitive for large <it>k</it>. For a good <link xlink:type="simple" xlink:href="../790/13790.xml">
@@ -110,7 +110,7 @@ self-balancing binary search tree</link>s, <link xlink:type="simple" xlink:href=
 trie</link>s, <link xlink:type="simple" xlink:href="../833/13833.xml">
 hash table</link>s, or simple <link xlink:type="simple" xlink:href="../052/2052.xml">
 array</link>s or <link xlink:type="simple" xlink:href="../167/18167.xml">
-linked list</link>s of the entries. Most of these require storing at least the data items themselves, which can require anywhere from a small number of bits, for small integers, to an arbitrary number of bits, such as for strings (tries are an exception, since they can share storage between elements with equal prefixes). Linked structures incur an additional linear space overhead for pointers. A Bloom filter with 1% error and an optimal value of <it>k</it>, on the other hand, requires only about 9.6 bits per element &mdash; regardless of the size of the elements. This advantage comes partly from its compactness, inherited from <link xlink:type="simple" xlink:href="../052/2052.xml">
+linked list</link>s of the entries. Most of these require storing at least the data items themselves, which can require anywhere from a small number of bits, for small integers, to an arbitrary number of bits, such as for strings (tries are an exception, since they can share storage between elements with equal prefixes). Linked structures incur an additional linear space overhead for pointers. A Bloom filter with 1% error and an optimal value of <it>k</it>, on the other hand, requires only about 9.6 bits per element — regardless of the size of the elements. This advantage comes partly from its compactness, inherited from <link xlink:type="simple" xlink:href="../052/2052.xml">
 array</link>s, and partly from its probabilistic nature. If a 1% false positive rate seems too high, each time we add about 4.8 bits per element we decrease it by ten times.</p>
 <p>
 
@@ -370,7 +370,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F362686.362692">
-10.1145/362686.362692</weblink></cite>&nbsp;</entry>
+10.1145/362686.362692</weblink></cite> </entry>
 </list>
 </p>
 <p>
@@ -386,7 +386,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.scico.2004.05.003">
-10.1016/j.scico.2004.05.003</weblink></cite>&nbsp;</entry>
+10.1016/j.scico.2004.05.003</weblink></cite> </entry>
 </list>
 </p>
 <p>
@@ -402,7 +402,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F11841036_61">
-10.1007/11841036_61</weblink></cite>&nbsp;</entry>
+10.1007/11841036_61</weblink></cite> </entry>
 </list>
 </p>
 <p>
@@ -412,7 +412,7 @@ doi</link></writing>
 
  <cite id="CITEREFBroderMitzenmacher2005" style="font-style:normal"><link>
 Broder, Andrei</link>&#32;&amp;&#32;Mitzenmacher, Michael&#32;(2005),&#32;"<weblink xlink:type="simple" xlink:href="http://www.eecs.harvard.edu/~michaelm/postscripts/im2005b.pdf">
-Network Applications of Bloom Filters: A Survey</weblink>",&#32;<it>Internet Mathematics</it>&#32;<b>1</b>(4):  485–509, </cite>&nbsp;</entry>
+Network Applications of Bloom Filters: A Survey</weblink>",&#32;<it>Internet Mathematics</it>&#32;<b>1</b>(4):  485–509, </cite> </entry>
 </list>
 </p>
 <p>
@@ -422,7 +422,7 @@ Network Applications of Bloom Filters: A Survey</weblink>",&#32;<it>Internet Mat
 
  <cite id="CITEREFChazelleKilianRubinfeldTal2004" style="font-style:normal"><link>
 Chazelle, Bernard</link>; Kilian, Joe; Rubinfeld, Ronitt&#32;&amp;&#32;Tal, Ayellet&#32;(2004),&#32;<weblink xlink:type="simple" xlink:href="http://www.ee.technion.ac.il/~ayellet/Ps/nelson.pdf">
-"The Bloomier filter: an efficient data structure for static support lookup tables"</weblink>,&#32;<it>Proceedings of the Fifteenth Annual ACM-SIAM Symposium on Discrete Algorithms</it>, pp. 30–39, </cite>&nbsp;</entry>
+"The Bloomier filter: an efficient data structure for static support lookup tables"</weblink>,&#32;<it>Proceedings of the Fifteenth Annual ACM-SIAM Symposium on Discrete Algorithms</it>, pp. 30–39, </cite> </entry>
 </list>
 </p>
 <p>
@@ -439,7 +439,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F872757.872787">
-10.1145/872757.872787</weblink>, </cite>&nbsp;</entry>
+10.1145/872757.872787</weblink>, </cite> </entry>
 </list>
 </p>
 <p>
@@ -456,7 +456,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F1185347.1185356">
-10.1145/1185347.1185356</weblink>, </cite>&nbsp;</entry>
+10.1145/1185347.1185356</weblink>, </cite> </entry>
 </list>
 </p>
 <p>
@@ -465,7 +465,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFDillingerManolios2004a" style="font-style:normal">Dillinger, Peter C.&#32;&amp;&#32;Manolios, Panagiotis&#32;(2004a),&#32;<weblink xlink:type="simple" xlink:href="http://www.cc.gatech.edu/fac/Pete.Manolios/research/spin-3spin.html">
-"Fast and Accurate Bitstate Verification for SPIN"</weblink>,&#32;<it>Proceedings of the 11th Internation Spin Workshop on Model Checking Software</it>, Springer-Verlag, Lecture Notes in Computer Science 2989, </cite>&nbsp;</entry>
+"Fast and Accurate Bitstate Verification for SPIN"</weblink>,&#32;<it>Proceedings of the 11th Internation Spin Workshop on Model Checking Software</it>, Springer-Verlag, Lecture Notes in Computer Science 2989, </cite> </entry>
 </list>
 </p>
 <p>
@@ -474,7 +474,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFDillingerManolios2004b" style="font-style:normal">Dillinger, Peter C.&#32;&amp;&#32;Manolios, Panagiotis&#32;(2004b),&#32;<weblink xlink:type="simple" xlink:href="http://www.cc.gatech.edu/fac/Pete.Manolios/research/bloom-filters-verification.html">
-"Bloom Filters in Probabilistic Verification"</weblink>,&#32;<it>Proceedings of the 5th Internation Conference on Formal Methods in Computer-Aided Design</it>, Springer-Verlag, Lecture Notes in Computer Science 3312, </cite>&nbsp;</entry>
+"Bloom Filters in Probabilistic Verification"</weblink>,&#32;<it>Proceedings of the 5th Internation Conference on Formal Methods in Computer-Aided Design</it>, Springer-Verlag, Lecture Notes in Computer Science 3312, </cite> </entry>
 </list>
 </p>
 <p>
@@ -483,7 +483,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFDonnetBaynatFriedman2006" style="font-style:normal">Donnet, Benoit; Baynat, Bruno&#32;&amp;&#32;Friedman, Timur&#32;(2006),&#32;<weblink xlink:type="simple" xlink:href="http://adetti.iscte.pt/events/CONEXT06/Conext06_Proceedings/papers/13.html">
-"Retouched Bloom Filters: Allowing Networked Applications to Flexibly Trade Off False Positives Against False Negatives"</weblink>,&#32;<it>CoNEXT 06 – 2nd Conference on Future Networking Technologies</it>, </cite>&nbsp;</entry>
+"Retouched Bloom Filters: Allowing Networked Applications to Flexibly Trade Off False Positives Against False Negatives"</weblink>,&#32;<it>CoNEXT 06 – 2nd Conference on Future Networking Technologies</it>, </cite> </entry>
 </list>
 </p>
 <p>
@@ -492,7 +492,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFEppsteinGoodrich2007" style="font-style:normal"><link>
-Eppstein, David</link>&#32;&amp;&#32;Goodrich, Michael T.&#32;(2007),&#32;"Space-efficient straggler identification in round-trip data streams via Newton's identities and invertible Bloom filters",&#32;<it>Algorithms and Data Structures, 10th International Workshop, WADS 2007</it>, Springer-Verlag, Lecture Notes in Computer Science 4619, pp. 637–648</cite>&nbsp;, <link xlink:type="simple" xlink:href="../751/38751.xml">
+Eppstein, David</link>&#32;&amp;&#32;Goodrich, Michael T.&#32;(2007),&#32;"Space-efficient straggler identification in round-trip data streams via Newton's identities and invertible Bloom filters",&#32;<it>Algorithms and Data Structures, 10th International Workshop, WADS 2007</it>, Springer-Verlag, Lecture Notes in Computer Science 4619, pp. 637–648</cite> , <link xlink:type="simple" xlink:href="../751/38751.xml">
 ar&amp;Chi;iv</link>:</entry>
 </list>
 </p>
@@ -510,7 +510,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2F90.851975">
-10.1109/90.851975</weblink></cite>&nbsp;. A preliminary version appeared at SIGCOMM '98.</entry>
+10.1109/90.851975</weblink></cite> . A preliminary version appeared at SIGCOMM '98.</entry>
 </list>
 </p>
 <p>
@@ -527,7 +527,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F11841036">
-10.1007/11841036</weblink>, </cite>&nbsp;</entry>
+10.1007/11841036</weblink>, </cite> </entry>
 </list>
 </p>
 <p>
@@ -543,7 +543,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F1060590.1060606">
-10.1145/1060590.1060606</weblink></cite>&nbsp;</entry>
+10.1145/1060590.1060606</weblink></cite> </entry>
 </list>
 </p>
 <p>
@@ -552,7 +552,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFPaghPaghRao2005" style="font-style:normal">Pagh, Anna; Pagh, Rasmus&#32;&amp;&#32;Rao, S. Srinivasa&#32;(2005),&#32;<weblink xlink:type="simple" xlink:href="http://www.it-c.dk/people/pagh/papers/bloom.pdf">
-"An optimal Bloom filter replacement"</weblink>,&#32;<it>Proceedings of the Sixteenth Annual ACM-SIAM Symposium on Discrete Algorithms</it>, pp. 823–829, </cite>&nbsp;</entry>
+"An optimal Bloom filter replacement"</weblink>,&#32;<it>Proceedings of the Sixteenth Annual ACM-SIAM Symposium on Discrete Algorithms</it>, pp. 823–829, </cite> </entry>
 </list>
 </p>
 <p>
@@ -569,7 +569,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F978-3-540-72845-0">
-10.1007/978-3-540-72845-0</weblink>, </cite>&nbsp;</entry>
+10.1007/978-3-540-72845-0</weblink>, </cite> </entry>
 </list>
 </p>
 <p>
@@ -586,7 +586,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FMICRO.2003.1253244">
-10.1109/MICRO.2003.1253244</weblink>, </cite>&nbsp;</entry>
+10.1109/MICRO.2003.1253244</weblink>, </cite> </entry>
 </list>
 </p>
 <p>
@@ -602,7 +602,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F1030083.1030089">
-10.1145/1030083.1030089</weblink></cite>&nbsp;</entry>
+10.1145/1030083.1030089</weblink></cite> </entry>
 </list>
 </p>
 <p>
@@ -611,7 +611,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFSternDill1996" style="font-style:normal">Stern, Ulrich&#32;&amp;&#32;Dill, David L.&#32;(1996),&#32;<weblink xlink:type="simple" xlink:href="http://sprout.stanford.edu/dill/PAPERS/verification/SD96A.ps">
-"A New Scheme for Memory-Efficient Probabilistic Verification"</weblink>,&#32;<it>Proceedings of Formal Description Techniques for Distributed Systems and Communication Protocols, and Protocol Specification, Testing, and Verification: IFIP TC6/WG6.1 Joint International Conference</it>, Chapman &amp; Hall, IFIP Conference Proceedings, pp. 333-348, </cite>&nbsp;</entry>
+"A New Scheme for Memory-Efficient Probabilistic Verification"</weblink>,&#32;<it>Proceedings of Formal Description Techniques for Distributed Systems and Communication Protocols, and Protocol Specification, Testing, and Verification: IFIP TC6/WG6.1 Joint International Conference</it>, Chapman &amp; Hall, IFIP Conference Proceedings, pp. 333-348, </cite> </entry>
 </list>
 </p>
 <p>
@@ -620,11 +620,11 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFChangDeanGhemawatHsieh2006" style="font-style:normal">Chang, Fay; Dean, Jeffrey; Ghemawat, Sanjay; Hsieh, Wilson; Wallach, Deborah; Burrows, Mike; Chandra, Tushar; Fikes, Andrew; &#32;et al.&#32;(2006),&#32;<weblink xlink:type="simple" xlink:href="http://labs.google.com/papers/bigtable.html">
-"Bigtable: A Distributed Storage System for Structured Data"</weblink>,&#32;<it>Seventh Symposium on Operating System Design and Implementation</it>, </cite>&nbsp;</entry>
+"Bigtable: A Distributed Storage System for Structured Data"</weblink>,&#32;<it>Seventh Symposium on Operating System Design and Implementation</it>, </cite> </entry>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFAhmadiWong2007" style="font-style:normal">Ahmadi, Mahmood&#32;&amp;&#32;Wong, Stephan&#32;(2007),&#32;<weblink xlink:type="simple" xlink:href="http://www.ieeexplore.ieee.org/xpls/abs_all.jsp?isnumber=4444031&amp;arnumber=4444089&amp;count=113&amp;index=57">
-"A Cache Architecture for Counting Bloom Filters"</weblink>,&#32;<it>15th international Conference on Netwroks (ICON-2007)</it>, </cite>&nbsp;</entry>
+"A Cache Architecture for Counting Bloom Filters"</weblink>,&#32;<it>15th international Conference on Netwroks (ICON-2007)</it>, </cite> </entry>
 </list>
 </p>
 

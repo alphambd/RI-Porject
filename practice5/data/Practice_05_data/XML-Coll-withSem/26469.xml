@@ -61,7 +61,7 @@ Turing machine</link></method>
 </know-how>
 </invention>
 s.  The μ-recursive functions are closely related to <link xlink:type="simple" xlink:href="../829/24829.xml">
-primitive recursive function</link>s, and their inductive definition (below) builds upon that of the primitive recursive functions. However, not every μ-recursive function is a primitive recursive function &mdash; the most famous example is the <mathematical_relation wordnetid="113783581" confidence="0.8">
+primitive recursive function</link>s, and their inductive definition (below) builds upon that of the primitive recursive functions. However, not every μ-recursive function is a primitive recursive function — the most famous example is the <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../ury/30th_century.xml">
 Ackermann function</link></function>

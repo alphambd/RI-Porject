@@ -68,7 +68,7 @@ Omar Madha</link></director>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -91,7 +91,7 @@ United Kingdom</link></democracy>
 </social_group>
 </system>
 </autocracy>
-&nbsp;·  <image width="22x20px" src="Flag_of_Canada.svg">
+ ·  <image width="22x20px" src="Flag_of_Canada.svg">
 <caption>
 
 Flag of Canada
@@ -103,7 +103,7 @@ Canada</link></region>
 </country>
 <executive_producer>
 <link>
-Tom Cox</link>&nbsp;·  <link>
+Tom Cox</link> ·  <link>
 Stephen Garrett</link></executive_producer>
 <imdb_id>
 1105836</imdb_id>
@@ -120,10 +120,10 @@ Burn Up</show_name>
 <link xlink:type="simple" xlink:href="../971/2617971.xml">
 Rupert Penry-Jones</link></presenter>
 </actor>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../049/83049.xml">
 Neve Campbell</link></actor>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../771/691771.xml">
 Bradley Whitford</link></actor>
 </starring>
@@ -135,7 +135,7 @@ Flag of Canada
 </caption>
 </image>
  <link>
-2008-06-10</link>&nbsp;·  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg">
+2008-06-10</link> ·  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg">
 <caption>
 
 Flag of the United Kingdom
@@ -147,7 +147,7 @@ Flag of the United Kingdom
 90 minutes</runtime>
 <distributor>
 <link xlink:type="simple" xlink:href="../605/936605.xml">
-Kudos Film and Television</link>&nbsp;·  <link xlink:type="simple" xlink:href="../712/18368712.xml">
+Kudos Film and Television</link> ·  <link xlink:type="simple" xlink:href="../712/18368712.xml">
 SEVEN24 Films</link></distributor>
 <website>
 http://www.bbc.co.uk/drama/burnup/</website>
@@ -162,7 +162,7 @@ Flag of Canada
 </caption>
 </image>
  <link xlink:type="simple" xlink:href="../921/66921.xml">
-Global Television</link>&nbsp;·  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg">
+Global Television</link> ·  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg">
 <caption>
 
 Flag of the United Kingdom
@@ -559,7 +559,7 @@ Calgary stars in dark tale of oil</weblink>", <it><newspaper wordnetid="10626714
 <link xlink:type="simple" xlink:href="../817/1599817.xml">
 Calgary Herald</link></newspaper>
 </it>.&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;</entry>
+2008-06-12</link>. </entry>
 <entry id="3">
 Wollaston, Sam&#32;(2008-07-24).&#32;"<weblink xlink:type="simple" xlink:href="http://www.guardian.co.uk/culture/2008/jul/24/television.television1">
 Last night's TV</weblink>".&#32;  <newspaper wordnetid="106267145" confidence="0.9508927676800064">
@@ -633,7 +633,7 @@ Peak oil films|Peak oil</col>
 <col style=";padding-left:0em;padding-right:0em;width:7em;;" class="navbox-group">
 Documentaries</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
-&nbsp;·  <it><product wordnetid="104007894" confidence="0.8">
+ ·  <it><product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -652,7 +652,7 @@ The End of Suburbia</link></psychological_feature>
 </artifact>
 </creation>
 </product>
-</it>&nbsp;·  &nbsp;·  <it>''</it></col>
+</it> ·   ·  <it>''</it></col>
 </row>
 <row style="height:2px">
 
@@ -662,7 +662,7 @@ The End of Suburbia</link></psychological_feature>
 Dramas</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
 <it><link xlink:type="simple" xlink:href="../747/17903747.xml">
-Burn Up (TV miniseries)</link></it> &nbsp;·  <it><product wordnetid="104007894" confidence="0.8">
+Burn Up (TV miniseries)</link></it>  ·  <it><product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -726,7 +726,7 @@ Energising India</link></psychological_feature>
 </artifact>
 </creation>
 </product>
-</it> &nbsp;·  <it><product wordnetid="104007894" confidence="0.8">
+</it>  ·  <it><product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -743,7 +743,7 @@ Kilowatt Ours</link></psychological_feature>
 </artifact>
 </creation>
 </product>
-</it> &nbsp;·  <it><product wordnetid="104007894" confidence="0.8">
+</it>  ·  <it><product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -769,8 +769,8 @@ Wind Over Water</link></psychological_feature>
 <col colspan="3" style=";" class="navbox-abovebelow">
 Related: <link xlink:type="simple" xlink:href="../656/15566656.xml">
 List of books about energy issues</link> 
-&nbsp;·  <b>Portals:</b> 
-Energy &nbsp;·  
+ ·  <b>Portals:</b> 
+Energy  ·  
 Sustainable development</col>
 </row>
 </table>

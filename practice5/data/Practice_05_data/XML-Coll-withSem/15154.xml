@@ -76,7 +76,7 @@ The first 3270s had no function keys. Later 3270s had twelve, and later twenty-f
 programmed function key</link>s, or PF keys, and three PA (or "program attention") keys placed in one or two rows at the top of the keyboard. When one of these keys is pressed, it will cause its <it>control unit</it> (historically, usually, an IBM 3274 or 3174, but nowadays the onboard mainframe equivalent) to generate an I/O interrupt and present a special code identifying which key was pressed. Application program functions such as termination, page-up, page-down, or help can be invoked by a single key press, thereby reducing the load on very busy processors.</p>
 <p>
 
-In this way, the CPU is not interrupted at every keystroke, a scheme which allowed an early 3033 mainframe with only 16&nbsp;MB to support up to 17,500 3270 terminals under <link xlink:type="simple" xlink:href="../505/391505.xml">
+In this way, the CPU is not interrupted at every keystroke, a scheme which allowed an early 3033 mainframe with only 16 MB to support up to 17,500 3270 terminals under <link xlink:type="simple" xlink:href="../505/391505.xml">
 CICS</link>. On the other hand, <link xlink:type="simple" xlink:href="../494/32494.xml">
 vi</link>-like behaviour was not possible. (But end-user responsiveness was arguably more predictable with 3270, something users appreciated.)  For the same reason, a porting of <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../273/18273.xml">

@@ -140,7 +140,7 @@ JX: the fast and flexible Java OS</weblink>".&#32;  University of Erlangen.&#32;
 <entry id="3">
  <cite style="font-style:normal">Golm, Michael;&#32;Meik Felser, Christian Wawersich, and Jürgen Kleinöder&#32;(13 June, 2002). "<weblink xlink:type="simple" xlink:href="http://www.usenix.org/events/usenix02/golm.html">
 The JX Operating System</weblink>".&#32;<it>Proceedings of the 2002 USENIX Annual Technical Conference</it>, Monterey, CA:&#32;USENIX. Retrieved on <link>
-2007-04-21</link>.</cite>&nbsp;</entry>
+2007-04-21</link>.</cite> </entry>
 </reflist>
 </p>
 
@@ -225,8 +225,8 @@ JVM</link></machine>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../920/1800920.xml">
-HotSpot</link> &nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../920/1800920.xml">
+HotSpot</link>  ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -257,7 +257,7 @@ Harmony</link></room>
 </area>
 </artifact>
 </structure>
-) &nbsp;·  GNU (<physical_entity wordnetid="100001930" confidence="0.8">
+)  ·  GNU (<physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -278,7 +278,7 @@ GCJ</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -291,12 +291,12 @@ JamVM</link></writer>
 </person>
 </communicator>
 </physical_entity>
- &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../411/2078411.xml">
 Jaos</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../584/7967584.xml">
-JikesRVM</link> &nbsp;·  <link xlink:type="simple" xlink:href="../458/2078458.xml">
-Jupiter</link>) &nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../584/7967584.xml">
+JikesRVM</link>  ·  <link xlink:type="simple" xlink:href="../458/2078458.xml">
+Jupiter</link>)  ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -327,9 +327,9 @@ Excelsior JET</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../351/14910351.xml">
-Microsoft JVM</link> &nbsp;·  <link xlink:type="simple" xlink:href="../369/2078369.xml">
-IKVM.NET</link>) &nbsp;· WebSphere: (<software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../351/14910351.xml">
+Microsoft JVM</link>  ·  <link xlink:type="simple" xlink:href="../369/2078369.xml">
+IKVM.NET</link>)  · WebSphere: (<software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../635/11932635.xml">
 J9</link></software>
 )</col>
@@ -342,8 +342,8 @@ J9</link></software>
 Embedded</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../558/16973558.xml">
-Mysaifu</link> &nbsp;·  <link xlink:type="simple" xlink:href="../976/1907976.xml">
-PERC</link> &nbsp;·  <link xlink:type="simple" xlink:href="../091/7585091.xml">
+Mysaifu</link>  ·  <link xlink:type="simple" xlink:href="../976/1907976.xml">
+PERC</link>  ·  <link xlink:type="simple" xlink:href="../091/7585091.xml">
 Squawk (Sun)</link></col>
 </row>
 <row style="height:2px">
@@ -354,22 +354,22 @@ Squawk (Sun)</link></col>
 Other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../655/3247655.xml">
-CACAO</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+CACAO</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../929/11677929.xml">
 IcedTea</link></software>
- &nbsp;·  <system wordnetid="104377057" confidence="0.8">
+  ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../784/2227784.xml">
 JRockit (BEA)</link></instrumentality>
 </artifact>
 </system>
- &nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+  ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link>
 JX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../258/385258.xml">
-SableVM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../441/2078441.xml">
-JNode</link>&nbsp;·  <it><link xlink:type="simple" xlink:href="../178/4674178.xml">
+ ·  <link xlink:type="simple" xlink:href="../258/385258.xml">
+SableVM</link> ·  <link xlink:type="simple" xlink:href="../441/2078441.xml">
+JNode</link> ·  <it><link xlink:type="simple" xlink:href="../178/4674178.xml">
 more…</link>''</it></col>
 </row>
 </table>

@@ -69,7 +69,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/hew.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/hew.html">
 HEW</weblink>)</company_type>
 <foundation>
 <link xlink:type="simple" xlink:href="../471/111471.xml">
@@ -156,7 +156,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/hew.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/hew.html">
 HEW</weblink>), based in <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -362,37 +362,37 @@ Corporations (by size)</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../266/18933266.xml">
 Boeing</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../859/810859.xml">
 State Farm Insurance Company</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../897/577897.xml">
 Walgreen Company</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../880/1611880.xml">
 Sears Holdings Corporation</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../125/668125.xml">
 Caterpillar Inc.</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../963/289963.xml">
 Archer Daniels Midland</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../715/518715.xml">
 Kraft Foods</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../063/797063.xml">
 Allstate</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../319/20319.xml">
 Motorola</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../730/488730.xml">
 Abbott Laboratories</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../397/432397.xml">
 Deere &amp; Company</link></company>
-&nbsp;·  <series wordnetid="108457976" confidence="0.8">
+ ·  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <chain wordnetid="108376250" confidence="0.8">
 <food_company wordnetid="108003427" confidence="0.8">
@@ -409,37 +409,37 @@ McDonald's</link></institution>
 </chain>
 </arrangement>
 </series>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../280/3038280.xml">
 UAL Corporation</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../520/2202520.xml">
 Exelon</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../143/4315143.xml">
 Illinois Tool Works</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../663/1276663.xml">
 Sara Lee</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/4774149.xml">
 RR Donnelley</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../238/2432238.xml">
 Baxter International</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../606/4777606.xml">
-Integrys Energy Group, Inc.</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../606/4777606.xml">
+Integrys Energy Group, Inc.</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/25th_century.xml">
 Aon Corporation</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../738/1240738.xml">
 OfficeMax</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../014/2217014.xml">
 Fortune Brands</link></company>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -456,18 +456,18 @@ Smurfit-Stone Container</link></institution>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../976/4806976.xml">
 W. W. Grainger</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../161/2954161.xml">
 Tenneco</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../077/4846077.xml">
 Anixter International</link></institution>
 </company>
-&nbsp;·  <manufacturer wordnetid="108060446" confidence="0.8">
+ ·  <manufacturer wordnetid="108060446" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
 <business wordnetid="108061042" confidence="0.8">
@@ -478,25 +478,25 @@ Brunswick Corporation</link></institution>
 </enterprise>
 </company>
 </manufacturer>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../469/4411469.xml">
 Northern Trust</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../687/463687.xml">
 Wm. Wrigley Jr. Company</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../780/614780.xml">
 USG Corporation</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../391/368391.xml">
 Tribune Company</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../955/2547955.xml">
-Telephone and Data Systems</link>&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../955/2547955.xml">
+Telephone and Data Systems</link> ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../068/4916068.xml">
 United Stationers</link></institution>
 </company>
-&nbsp;·</col>
+ ·</col>
 </row>
 <row style="height:2px">
 
@@ -511,18 +511,18 @@ Companies listed above, plus:  <company wordnetid="108058098" confidence="0.8">
 <link xlink:type="simple" xlink:href="../812/3696812.xml">
 Old Republic International</link></institution>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../519/12886519.xml">
-Sirva, Inc.</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../519/12886519.xml">
+Sirva, Inc.</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../294/6798294.xml">
 Nalco Holding Company</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../887/4074887.xml">
 Hospira</link></company>
-&nbsp;·  <link>
-Corn Products International</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link>
+Corn Products International</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../279/1900279.xml">
 Molex</link></company>
-&nbsp;·  <possession wordnetid="100032613" confidence="0.8">
+ ·  <possession wordnetid="100032613" confidence="0.8">
 <trust wordnetid="113360498" confidence="0.8">
 <firm wordnetid="108059870" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -539,25 +539,25 @@ General Growth Properties</link></institution>
 </firm>
 </trust>
 </possession>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../466/6749466.xml">
 Pactiv</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <shipping_company wordnetid="108003717" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../504/7817504.xml">
 Nicor</link></institution>
 </shipping_company>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../655/11275655.xml">
-COUNTRY Financial</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../655/11275655.xml">
+COUNTRY Financial</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/14635043.xml">
 Unitrin Inc</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../828/2514828.xml">
 Hewitt Associates</link></company>
-&nbsp;·  <link>
-CF Industries Holdings</link>&nbsp;·  <firm wordnetid="108059870" confidence="0.8">
+ ·  <link>
+CF Industries Holdings</link> ·  <firm wordnetid="108059870" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
 <business wordnetid="108061042" confidence="0.8">
@@ -568,38 +568,38 @@ Jones Lang LaSalle</link></institution>
 </enterprise>
 </company>
 </firm>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../457/5775457.xml">
 Solo Cup Company</link></institution>
 </company>
-&nbsp;·  <link>
-Packaging Corp. of America</link>&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <link>
+Packaging Corp. of America</link> ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../519/6867519.xml">
 Metal Management</link></institution>
 </company>
-&nbsp;·  <link>
-Andrew Company</link>&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <link>
+Andrew Company</link> ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../867/12550867.xml">
 Equity Residential</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../455/10201455.xml">
 Sauer-Danfoss</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../868/2626868.xml">
 ACCO Brands</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../577/1256577.xml">
 Tellabs</link></company>
-&nbsp;·  <link>
-AptarGroup</link>&nbsp;·  <link>
-Gardner Denver</link>&nbsp;·  <link>
-Brookdale Senior Living</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link>
+AptarGroup</link> ·  <link>
+Gardner Denver</link> ·  <link>
+Brookdale Senior Living</link> ·  <body wordnetid="107965085" confidence="0.8">
 <university wordnetid="108286163" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
@@ -612,8 +612,8 @@ Career Education Corporation</link></institution>
 </social_group>
 </university>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../859/7492859.xml">
-CME Group</link>&nbsp;·  <nondepository_financial_institution wordnetid="108419984" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../859/7492859.xml">
+CME Group</link> ·  <nondepository_financial_institution wordnetid="108419984" confidence="0.8">
 <insurance_company wordnetid="108070465" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <financial_institution wordnetid="108054721" confidence="0.8">
@@ -624,7 +624,7 @@ Arthur J. Gallagher &amp; Co.</link></institution>
 </company>
 </insurance_company>
 </nondepository_financial_institution>
-&nbsp;·  <link>
+ ·  <link>
 Hub Group</link></col>
 </row>
 <row style="height:2px">
@@ -636,15 +636,15 @@ Major non-public or externally
 owned corporations (alphabetically)</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-Amsted Industries</link>&nbsp;·  <law_firm wordnetid="108064039" confidence="0.9508927676800064">
+Amsted Industries</link> ·  <law_firm wordnetid="108064039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../019/1019019.xml">
 Baker &amp; McKenzie</link></law_firm>
-&nbsp;·  <link>
-CC Industries</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link>
+CC Industries</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../163/7343163.xml">
 Dot Foods</link></company>
-&nbsp;·  <link>
-Eby-Brown</link>&nbsp;·  <shop wordnetid="104202417" confidence="0.8">
+ ·  <link>
+Eby-Brown</link> ·  <shop wordnetid="104202417" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <mercantile_establishment wordnetid="103748162" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -663,20 +663,20 @@ Follett Corporation</link></institution>
 </mercantile_establishment>
 </structure>
 </shop>
-&nbsp;·  <link>
-Frank Consolidated Enterprises</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link>
+Frank Consolidated Enterprises</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../372/10775372.xml">
 Grant Thornton International</link></company>
-&nbsp;·  <link>
-H Group Holding</link>&nbsp;·  <link>
-Heico Corporation</link>&nbsp;·  <link>
-Koch Foods</link>&nbsp;·  <link xlink:type="simple" xlink:href="../576/364576.xml">
-Marmon Group</link>&nbsp;·  <link>
-Medline Industries</link>&nbsp;·  <link>
-Nalco</link>&nbsp;·  <link>
-OSI Group</link>&nbsp;·  <link>
-Reyes Holdings</link>&nbsp;·  <link>
-Walsh Group</link>&nbsp;·  <link>
+ ·  <link>
+H Group Holding</link> ·  <link>
+Heico Corporation</link> ·  <link>
+Koch Foods</link> ·  <link xlink:type="simple" xlink:href="../576/364576.xml">
+Marmon Group</link> ·  <link>
+Medline Industries</link> ·  <link>
+Nalco</link> ·  <link>
+OSI Group</link> ·  <link>
+Reyes Holdings</link> ·  <link>
+Walsh Group</link> ·  <link>
 Wirtz Corp.</link></col>
 </row>
 </table>

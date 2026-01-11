@@ -159,19 +159,19 @@ In 2004, Boyer and Myrvold <ref xlink:type="simple" xlink:href="#xpointer(//refl
 
 <reflist>
 <entry id="1">
-J. Hopcroft and R. Tarjan. Efficient planarity testing. Journal of the Association for Computing Machinery, vol.21, no.4, pp.549&ndash;568. 1974.</entry>
+J. Hopcroft and R. Tarjan. Efficient planarity testing. Journal of the Association for Computing Machinery, vol.21, no.4, pp.549–568. 1974.</entry>
 <entry id="2">
 A. Lempel, S. Even, and I. Cederbaum. An algorithm for planarity testing of graphs. In P. Rosenstiehl, editor, Theory of Graphs, pages 215–232, New York, 1967. Gordon and Breach.</entry>
 <entry id="3">
-S. Even and R. E. Tarjan. Computing an st-numbering. Theoretical Computer Science, 2: pp.339&ndash;344. 1976.</entry>
+S. Even and R. E. Tarjan. Computing an st-numbering. Theoretical Computer Science, 2: pp.339–344. 1976.</entry>
 <entry id="4">
 Boyer and Myrvold, pg.243, "Its implementation in LEDA is slower than LEDA implementations of many other O(<it>n</it>)-time planarity algorithms."</entry>
 <entry id="5">
-N. Chiba, T. Nishizeki, A. Abe, and T. Ozawa. A linear algorithm for embedding planar graphs using PQ–trees. Journal of Computer and Systems Sciences, 30:pp.54&ndash;76. 1985.</entry>
+N. Chiba, T. Nishizeki, A. Abe, and T. Ozawa. A linear algorithm for embedding planar graphs using PQ–trees. Journal of Computer and Systems Sciences, 30:pp.54–76. 1985.</entry>
 <entry id="6">
-W. K. Shih and W. L. Hsu. A new planarity test. Theoretical Computer Science, 223:pp.179&ndash;191. 1999.</entry>
+W. K. Shih and W. L. Hsu. A new planarity test. Theoretical Computer Science, 223:pp.179–191. 1999.</entry>
 <entry id="7">
-John M. Boyer and Wendy J. Myrvold. Simplified Planarity. Journal of Graph Algorithms and Applications, vol.8, no.3, pp.241&ndash;273. 2004.</entry>
+John M. Boyer and Wendy J. Myrvold. Simplified Planarity. Journal of Graph Algorithms and Applications, vol.8, no.3, pp.241–273. 2004.</entry>
 <entry id="8">
 H. de Fraysseix, P. O. de Mendez, P. Rosenstiehl. Trémaux Trees and Planarity. Int. J. Found. Comput. Sci., 2006, 17, 1017-1030</entry>
 <entry id="9">

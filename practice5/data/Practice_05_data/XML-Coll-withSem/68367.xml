@@ -2210,7 +2210,7 @@ Ajeeb</link></anomaly>
 </person>
 </automaton>
 </physical_entity>
- automaton &mdash; which also had a human chess player hidden inside.</entry>
+ automaton — which also had a human chess player hidden inside.</entry>
 <entry level="1" type="bullet">
 
 1912, <physical_entity wordnetid="100001930" confidence="0.8">
@@ -2796,7 +2796,7 @@ The size of the state space and game tree for chess were first estimated in  <ci
 <link xlink:type="simple" xlink:href="../693/5693.xml">
 Claude Shannon</link></scientist>
 &#32;(1950).&#32;"<weblink xlink:type="simple" xlink:href="http://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon.062303002.pdf">
-Programming a Computer for Playing Chess</weblink>". <it>Philosophical Magazine</it>&#32;<b>41</b>&#32;(314).</cite>&nbsp; Shannon gave estimates of 1043 and 10120 respectively, smaller than the estimates in the <link xlink:type="simple" xlink:href="../419/317419.xml">
+Programming a Computer for Playing Chess</weblink>". <it>Philosophical Magazine</it>&#32;<b>41</b>&#32;(314).</cite>  Shannon gave estimates of 1043 and 10120 respectively, smaller than the estimates in the <link xlink:type="simple" xlink:href="../419/317419.xml">
 Game complexity</link> table, which are from <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -2829,10 +2829,10 @@ http://www.chessgames.com/perl/chessgame?gid=1356927</weblink> A game played by 
 <entry level="1" type="bullet">
 
  <cite id="CITEREFLevyNewborn1991" style="font-style:normal"><link>
-Levy, David</link>&#32;&amp;&#32;Newborn, Monty&#32;(1991),&#32;<it>How Computers Play Chess</it>, Computer Science Press, ISBN 0-7167-8121-2</cite>&nbsp;</entry>
+Levy, David</link>&#32;&amp;&#32;Newborn, Monty&#32;(1991),&#32;<it>How Computers Play Chess</it>, Computer Science Press, ISBN 0-7167-8121-2</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite id="CITEREFNewborn1975" style="font-style:normal">Newborn, Monty&#32;(1975),&#32;<it>Computer Chess</it>, Academic Press, New York</cite>&nbsp;</entry>
+  <cite id="CITEREFNewborn1975" style="font-style:normal">Newborn, Monty&#32;(1975),&#32;<it>Computer Chess</it>, Academic Press, New York</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFNunn2002" style="font-style:normal"><link>
@@ -2847,7 +2847,7 @@ Gambit Publications</link></publication>
 </creation>
 </product>
 </work>
-, ISBN 1-901983-65-X</cite>&nbsp;</entry>
+, ISBN 1-901983-65-X</cite> </entry>
 </list>
 </p>
 <p>
@@ -2857,7 +2857,7 @@ Gambit Publications</link></publication>
 
  <cite id="CITEREFShannon1950" style="font-style:normal"><link>
 Shannon, Claude E.</link>&#32;(1950),&#32;"<weblink xlink:type="simple" xlink:href="http://archive.computerhistory.org/projects/chess/related_materials/text/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon/2-0%20and%202-1.Programming_a_computer_for_playing_chess.shannon.062303002.pdf">
-Programming a Computer for Playing Chess</weblink>",&#32;<it>Philosophical Magazine</it>&#32;<b>Ser.7, Vol. 41</b>(314), </cite>&nbsp;</entry>
+Programming a Computer for Playing Chess</weblink>",&#32;<it>Philosophical Magazine</it>&#32;<b>Ser.7, Vol. 41</b>(314), </cite> </entry>
 </list>
 </p>
 <p>
@@ -2888,7 +2888,7 @@ Further reading</st>
 Computer Chess: The Drosophila of AI</weblink></it>, <magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../768/173768.xml">
 Dr. Dobb's Journal</link></magazine>
-, </cite>&nbsp;</entry>
+, </cite> </entry>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFHsu2002" style="font-style:normal"><link>
@@ -2901,17 +2901,17 @@ Princeton University Press</link></publisher>
 </business>
 </enterprise>
 </firm>
-, ISBN 0-691-09065-3</cite>&nbsp;</entry>
+, ISBN 0-691-09065-3</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFHuberman_.28Liskov.291968" style="font-style:normal"><link>
-Huberman (Liskov), Barbara Jane</link>&#32;(1968),&#32;<it>A program to play chess end games</it>, Stanford University Department of Computer Science, Technical Report CS 106, Stanford Artifcial Intelligence Project Memo AI-65</cite>&nbsp;</entry>
+Huberman (Liskov), Barbara Jane</link>&#32;(1968),&#32;<it>A program to play chess end games</it>, Stanford University Department of Computer Science, Technical Report CS 106, Stanford Artifcial Intelligence Project Memo AI-65</cite> </entry>
 <entry level="1" type="bullet">
 
  Newborn, Monty (1996). <it>Outsearching Kasparov</it>, American Mathematical Society's Proceeding of Symposia in Applied Mathematics: Mathematical Aspects of Artificial Intelligence, v. 55, pp 175–205, 1998. Based on paper presented at the 1996 Winter Meeting of the AMS, Orlando, Florida, Jan 9–11, 1996.</entry>
 <entry level="1" type="bullet">
 
- <cite id="CITEREFNewborn1997" style="font-style:normal">Newborn, Monty&#32;(1997),&#32;<it>Kasparov versus Deep Blue: Computer Chess Comes of Age</it>, Springer, ISBN 0-387-94820-1</cite>&nbsp; (This book actually covers computer chess from the early days through the first match between Deep Blue and Garry Kasparov.)</entry>
+ <cite id="CITEREFNewborn1997" style="font-style:normal">Newborn, Monty&#32;(1997),&#32;<it>Kasparov versus Deep Blue: Computer Chess Comes of Age</it>, Springer, ISBN 0-387-94820-1</cite>  (This book actually covers computer chess from the early days through the first match between Deep Blue and Garry Kasparov.)</entry>
 <entry level="1" type="bullet">
 
  Newborn, Monty (2000). <it>Deep Blue’s contribution to AI</it>, Annals of Mathematics and Artificial Intelligence, v. 28, pp. 27-30, 2000.</entry>
@@ -2931,7 +2931,7 @@ Mathematical Sciences Research Institute</link></institution>
 </educational_institution>
 </association>
 </institute>
-, Games of No Chance, MSRI Publications, Volume 29, </cite>&nbsp;</entry>
+, Games of No Chance, MSRI Publications, Volume 29, </cite> </entry>
 </list>
 </p>
 
@@ -2987,7 +2987,7 @@ PDF</link></format>
 </language>
 </information>
 </message>
-&nbsp;(268&nbsp;<link xlink:type="simple" xlink:href="../755/149755.xml">
+ (268 <link xlink:type="simple" xlink:href="../755/149755.xml">
 KiB</link>)</entry>
 <entry level="1" type="bullet">
 

@@ -57,7 +57,7 @@ Auguste Kerckhoffs</link></decoder>
 Kerckhoffs' principle</link> and Shannon's Maxim respectively. </p>
 <p>
 
-A key should therefore be large enough that a brute force attack (possible against any encryption algorithm) is infeasible &ndash; i.e, would take too long to execute. <scientist wordnetid="110560637" confidence="0.9508927676800064">
+A key should therefore be large enough that a brute force attack (possible against any encryption algorithm) is infeasible – i.e, would take too long to execute. <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/5693.xml">
 Shannon's</link></scientist>
  work on <link xlink:type="simple" xlink:href="../773/14773.xml">
@@ -360,13 +360,13 @@ SIAM Journal on Computing</link></publication>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://csrc.nist.gov/publications/nistpubs/800-57/sp800-57-Part1-revised2_Mar08-2007.pdf">
-<it>Recommendation for Key Management &mdash; Part 1: general,''</it></weblink> NIST Special Publication 800-57. March, 2007</entry>
+<it>Recommendation for Key Management — Part 1: general,''</it></weblink> NIST Special Publication 800-57. March, 2007</entry>
 <entry level="1" type="bullet">
 
  Blaze, Matt; Diffie, Whitfield; Rivest, Ronald L.; et al. "Minimal Key Lengths for Symmetric Ciphers to Provide Adequate Commercial Security". January, 1996</entry>
 <entry level="1" type="bullet">
 
- Arjen K. Lenstra, Eric R. Verheul: Selecting Cryptographic Key Sizes. J. Cryptology 14(4): 255-293 (2001) &mdash; <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/lenstra99selecting.html">
+ Arjen K. Lenstra, Eric R. Verheul: Selecting Cryptographic Key Sizes. J. Cryptology 14(4): 255-293 (2001) — <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/lenstra99selecting.html">
 Citeseer link</weblink></entry>
 </list>
 </p>
@@ -429,7 +429,7 @@ TWIRL and RSA key sizes</weblink> (May 2003)</entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

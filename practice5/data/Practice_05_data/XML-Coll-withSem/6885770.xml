@@ -377,21 +377,21 @@ meta-algorithm</link> based on averaging the results of multiple bootstrap sampl
 <list>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Chernick-1999" style="font-style:normal" class="book">Chernick, Michael R.&#32;(1999). Bootstrap Methods, A practitioner's guide.&#32;Wiley Series in Probability and Statistics.</cite>&nbsp;</entry>
+ <cite id="Reference-Chernick-1999" style="font-style:normal" class="book">Chernick, Michael R.&#32;(1999). Bootstrap Methods, A practitioner's guide.&#32;Wiley Series in Probability and Statistics.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Davison-1997" style="font-style:normal" class="book">Davison, A. C.;&#32;Hinkley, D. Bootstrap Methods and their Applications.&#32;(1997). Bootstrap Methods and their Applications.&#32;Cambridge:&#32;Cambridge Series in Statistical and Probabilistic Mathematics.</cite>&nbsp; <weblink xlink:type="simple" xlink:href="http://statwww.epfl.ch/davison/BMA/library.html">
+ <cite id="Reference-Davison-1997" style="font-style:normal" class="book">Davison, A. C.;&#32;Hinkley, D. Bootstrap Methods and their Applications.&#32;(1997). Bootstrap Methods and their Applications.&#32;Cambridge:&#32;Cambridge Series in Statistical and Probabilistic Mathematics.</cite>  <weblink xlink:type="simple" xlink:href="http://statwww.epfl.ch/davison/BMA/library.html">
 software</weblink>.</entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Davison-2006" style="font-style:normal" class="book">Davison, A. C.;&#32;Hinkley, D. Bootstrap Methods and their Applications.&#32;(2006). Bootstrap Methods and their Applications, 8th,&#32;Cambridge:&#32;Cambridge Series in Statistical and Probabilistic Mathematics.</cite>&nbsp; </entry>
+ <cite id="Reference-Davison-2006" style="font-style:normal" class="book">Davison, A. C.;&#32;Hinkley, D. Bootstrap Methods and their Applications.&#32;(2006). Bootstrap Methods and their Applications, 8th,&#32;Cambridge:&#32;Cambridge Series in Statistical and Probabilistic Mathematics.</cite>  </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Diaconis, P. &amp; Efron, B.&#32;(May <link xlink:type="simple" xlink:href="../755/34755.xml">
 1983</link>).&#32;"Computer-intensive methods in statistics". <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../507/29507.xml">
 Scientific American</link></periodical>
-</it>: 116&ndash;130.</cite>&nbsp;</entry>
+</it>: 116–130.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal"><peer wordnetid="109626238" confidence="0.8">
@@ -427,7 +427,7 @@ Efron, B.</link></mathematician>
 </peer>
 &#32;(<link xlink:type="simple" xlink:href="../754/34754.xml">
 1979</link>).&#32;"Bootstrap Methods: Another Look at the Jackknife". <it><link>
-The Annals of Statistics</link></it>&#32;<b>7</b>&#32;(1): 1&ndash;26.</cite>&nbsp;</entry>
+The Annals of Statistics</link></it>&#32;<b>7</b>&#32;(1): 1–26.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal"><peer wordnetid="109626238" confidence="0.8">
@@ -465,7 +465,7 @@ Efron, B.</link></mathematician>
 1981</link>).&#32;"Nonparametric estimates of standard error: The jackknife, the bootstrap and other methods". <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../178/1734178.xml">
 Biometrika</link></periodical>
-</it>&#32;<b>68</b>: 589&ndash;599. <document wordnetid="106470073" confidence="0.8">
+</it>&#32;<b>68</b>: 589–599. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -473,7 +473,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbiomet%2F68.3.589">
-10.1093/biomet/68.3.589</weblink>.</cite>&nbsp;</entry>
+10.1093/biomet/68.3.589</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><peer wordnetid="109626238" confidence="0.8">
@@ -508,16 +508,16 @@ Efron, B.</link></mathematician>
 </physical_entity>
 </peer>
 &#32;(<link xlink:type="simple" xlink:href="../756/34756.xml">
-1982</link>). The jackknife, the bootstrap, and other resampling plans&#32;<b>38</b>.&#32;Society of Industrial and Applied Mathematics CBMS-NSF Monographs.</cite>&nbsp;</entry>
+1982</link>). The jackknife, the bootstrap, and other resampling plans&#32;<b>38</b>.&#32;Society of Industrial and Applied Mathematics CBMS-NSF Monographs.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Efron, B.;&#32;Tibshirani, R.&#32;(1993). An Introduction to the Bootstrap.&#32;Chapman &amp; Hall/CRC.</cite>&nbsp; <weblink xlink:type="simple" xlink:href="http://lib.stat.cmu.edu/S/bootstrap.funs">
+ <cite style="font-style:normal" class="book">Efron, B.;&#32;Tibshirani, R.&#32;(1993). An Introduction to the Bootstrap.&#32;Chapman &amp; Hall/CRC.</cite>  <weblink xlink:type="simple" xlink:href="http://lib.stat.cmu.edu/S/bootstrap.funs">
 software</weblink>.</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Edgington, E. S.&#32;(<link xlink:type="simple" xlink:href="../658/34658.xml">
 1995</link>). Randomization tests.&#32;New York:&#32;<link xlink:type="simple" xlink:href="../893/7871893.xml">
-M. Dekker</link>.</cite>&nbsp;</entry>
+M. Dekker</link>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Hesterberg, T. C., D. S. Moore, S. Monaghan, A. Clipson, and R. Epstein (2005):  <weblink xlink:type="simple" xlink:href="http://bcs.whfreeman.com/ips5e/content/cat_080/pdf/moore14.pdf">

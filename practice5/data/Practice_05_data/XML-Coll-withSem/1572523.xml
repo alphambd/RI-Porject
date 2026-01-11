@@ -20,7 +20,7 @@
 <bdy>
 
 <b>On-Board Diagnostics</b>, or <b>OBD</b>, in an <link xlink:type="simple" xlink:href="../352/337352.xml">
-automotive</link> context, is a generic term referring to a vehicle's self-diagnostic and reporting capability. OBD systems give the vehicle owner or a repair technician access to state of health information for various vehicle sub-systems. The amount of diagnostic information available via OBD has varied widely since the introduction in the early 1980s of on-board vehicle computers, which made OBD possible. Early instances of OBD would simply illuminate a malfunction indicator light, or MIL, if a problem were detected&mdash;but would not provide any information as to the nature of the problem.  Modern OBD implementations use a standardized fast digital communications port to provide realtime data in addition to a standardized series of <link>
+automotive</link> context, is a generic term referring to a vehicle's self-diagnostic and reporting capability. OBD systems give the vehicle owner or a repair technician access to state of health information for various vehicle sub-systems. The amount of diagnostic information available via OBD has varied widely since the introduction in the early 1980s of on-board vehicle computers, which made OBD possible. Early instances of OBD would simply illuminate a malfunction indicator light, or MIL, if a problem were detected—but would not provide any information as to the nature of the problem.  Modern OBD implementations use a standardized fast digital communications port to provide realtime data in addition to a standardized series of <link>
 diagnostic trouble codes</link>, or DTCs, which allow one to rapidly identify and remedy malfunctions within the vehicle.   
 <sec>
 <st>
@@ -155,7 +155,7 @@ The regulatory intent of OBD-I was to encourage auto manufacturers to design rel
 emission control systems</link> that remain effective for the vehicle's "useful life".  The hope was that by forcing annual emissions testing for <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../407/5407.xml">
 California</link></country>
-, and denying registration to vehicles that did not pass, drivers would tend to purchase vehicles that would more reliably pass the test.  Along these lines, OBD-I was largely unsuccessful&mdash;the means of reporting emissions-specific diagnostic information was not standardized.  Technical difficulties with obtaining standardized and reliable emissions information from all vehicles led to an inability to implement effectively the annual testing program.</p>
+, and denying registration to vehicles that did not pass, drivers would tend to purchase vehicles that would more reliably pass the test.  Along these lines, OBD-I was largely unsuccessful—the means of reporting emissions-specific diagnostic information was not standardized.  Technical difficulties with obtaining standardized and reliable emissions information from all vehicles led to an inability to implement effectively the annual testing program.</p>
 
 </ss1>
 <ss1>
@@ -295,7 +295,7 @@ Connector
 </caption>
 </image>
 
-The OBD-II specification provides for a standardized hardware interface&mdash;the female 16-pin (2x8) J1962 connector. Unlike the OBD-I connector, which was sometimes found under the hood of the vehicle, the OBD-II connector is nearly always located on the driver's side of the passenger compartment near the center console. <social_group wordnetid="107950920" confidence="0.8">
+The OBD-II specification provides for a standardized hardware interface—the female 16-pin (2x8) J1962 connector. Unlike the OBD-I connector, which was sometimes found under the hood of the vehicle, the OBD-II connector is nearly always located on the driver's side of the passenger compartment near the center console. <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">

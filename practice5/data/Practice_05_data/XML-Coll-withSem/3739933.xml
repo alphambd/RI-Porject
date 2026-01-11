@@ -51,7 +51,7 @@ recursion</link> -- the successive applications of a kind of <link xlink:type="s
 induction</link>-like repetitive process -- were the methods <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../731/49731.xml">
 Alonzo Church</link></scientist>
- et al. used to investigate whether or not all mathematical formulas could be reduced to a single "method". One of the more interesting examples of "recursion" is the following (it generates, by "finite differences", the curve 1&nbsp;−&nbsp;exp(−<it>kx</it>), where <it>x</it> = 0, 1, 2, 3, 4,....):</p>
+ et al. used to investigate whether or not all mathematical formulas could be reduced to a single "method". One of the more interesting examples of "recursion" is the following (it generates, by "finite differences", the curve 1 − exp(−<it>kx</it>), where <it>x</it> = 0, 1, 2, 3, 4,....):</p>
 <p>
 
 <indent level="1">
@@ -757,7 +757,7 @@ Given that we’ve done our job correctly, we add the starting conditions and se
 <list>
 <entry level="1" type="bullet">
 
-   <cite id="CITEREFTuring2009" style="font-style:normal">Turing, A.M.&#32;(1936),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>42</b>:  230-65, 1937</cite>&nbsp; (and  <cite id="CITEREFTuring1937" style="font-style:normal">Turing, A.M.&#32;(1937),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem: A correction",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>43</b>:  544-6</cite>&nbsp;). <weblink xlink:type="simple" xlink:href="http://www.turingarchive.org/browse.php/B/12">
+   <cite id="CITEREFTuring2009" style="font-style:normal">Turing, A.M.&#32;(1936),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>42</b>:  230-65, 1937</cite>  (and  <cite id="CITEREFTuring1937" style="font-style:normal">Turing, A.M.&#32;(1937),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem: A correction",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>43</b>:  544-6</cite> ). <weblink xlink:type="simple" xlink:href="http://www.turingarchive.org/browse.php/B/12">
 online version</weblink> This is the epochal paper where Turing defines <invention wordnetid="105633385" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">

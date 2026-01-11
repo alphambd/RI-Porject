@@ -242,7 +242,7 @@ Unitary authorities</col>
 <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../013/158013.xml">
 North East Lincolnshire</link></district>
-&nbsp;&amp;bull;  <district wordnetid="108552138" confidence="0.9508927676800064">
+ &amp;bull;  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../001/158001.xml">
 North Lincolnshire</link></district>
 </col>
@@ -257,22 +257,22 @@ Boroughs or districts</col>
 <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../495/513495.xml">
 Boston</link></district>
-&nbsp;&amp;bull;  <district wordnetid="108552138" confidence="0.9508927676800064">
+ &amp;bull;  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../474/426474.xml">
 East Lindsey</link></district>
-&nbsp;&amp;bull;  <b><district wordnetid="108552138" confidence="0.9508927676800064">
+ &amp;bull;  <b><district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../880/17880.xml">
 Lincoln</link></district>
-</b>&nbsp;&amp;bull;   <district wordnetid="108552138" confidence="0.9508927676800064">
+</b> &amp;bull;   <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/443443.xml">
 North Kesteven</link></district>
-&nbsp;&amp;bull;   <district wordnetid="108552138" confidence="0.9508927676800064">
+ &amp;bull;   <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../435/443435.xml">
 South Holland</link></district>
-&nbsp;&amp;bull;  <district wordnetid="108552138" confidence="0.9508927676800064">
+ &amp;bull;  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../477/426477.xml">
 South Kesteven</link></district>
-&nbsp;&amp;bull;  <district wordnetid="108552138" confidence="0.9508927676800064">
+ &amp;bull;  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../476/426476.xml">
 West Lindsey</link></district>
 </col>
@@ -287,16 +287,16 @@ Cities and towns</col>
 <b><district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../880/17880.xml">
 Lincoln</link></district>
-</b> (county town)&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+</b> (county town) &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../194/65194.xml">
 Boston</link></site>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../150/382150.xml">
 Bourne</link></site>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../498/193498.xml">
 Cleethorpes</link></site>
-&nbsp;&amp;bull;  <region wordnetid="108630985" confidence="0.8">
+ &amp;bull;  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -313,33 +313,33 @@ The Deepings</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/366497.xml">
 Gainsborough</link></site>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../678/152678.xml">
 Grantham</link></site>
-&nbsp;&amp;bull;  <subdivision wordnetid="108674251" confidence="0.9508927676800064">
+ &amp;bull;  <subdivision wordnetid="108674251" confidence="0.9508927676800064">
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../638/250638.xml">
 Grimsby</link></site>
 </subdivision>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../853/377853.xml">
 Louth</link></site>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../944/282944.xml">
 Scunthorpe</link></site>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../114/351114.xml">
 Skegness</link></site>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/200149.xml">
 Sleaford</link></site>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../392/368392.xml">
 Spalding</link></site>
-&nbsp;&amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
+ &amp;bull;  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../771/389771.xml">
 Stamford</link></site>
 <it>See also:</it> <b><link xlink:type="simple" xlink:href="../157/3013157.xml">
@@ -353,7 +353,7 @@ List of civil parishes in Lincolnshire</link></b></col>
 Topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../068/1445068.xml">
-Diocese</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+Diocese</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <flag wordnetid="103354903" confidence="0.8">
 <emblem wordnetid="103282591" confidence="0.8">
 <decoration wordnetid="103169390" confidence="0.8">
@@ -364,11 +364,11 @@ Flag</link></design>
 </emblem>
 </flag>
 </artifact>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../925/1694925.xml">
-Geography</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../696/1139696.xml">
-History</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../295/3807295.xml">
-Education</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../509/1893509.xml">
-Transport</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../631/2008631.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../925/1694925.xml">
+Geography</link> &amp;bull;  <link xlink:type="simple" xlink:href="../696/1139696.xml">
+History</link> &amp;bull;  <link xlink:type="simple" xlink:href="../295/3807295.xml">
+Education</link> &amp;bull;  <link xlink:type="simple" xlink:href="../509/1893509.xml">
+Transport</link> &amp;bull;  <link xlink:type="simple" xlink:href="../631/2008631.xml">
 Parliamentary constituencies</link></col>
 </row>
 </table>

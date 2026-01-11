@@ -55,11 +55,11 @@ GOLGA1</weblink>; MGC33154; golgin-97</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=602502">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=602502">
 602502</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1924149">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1924149">
 1924149</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=68223">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=68223">
 68223</weblink></col>
 </row>
 
@@ -207,10 +207,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2F1529-0131%28199709%2940%3A9%26lt%3B1693%3A%3AAID-ART20%26gt%3B3.0.CO%3B2-6">
-10.1002/1529-0131(199709)40:9&amp;lt;1693::AID-ART20&amp;gt;3.0.CO;2-6</weblink>. PMID 9324025.</cite>&nbsp;</entry>
+10.1002/1529-0131(199709)40:9&amp;lt;1693::AID-ART20&amp;gt;3.0.CO;2-6</weblink>. PMID 9324025.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Barr FA&#32;(1999).&#32;"A novel Rab6-interacting domain defines a family of Golgi-targeted coiled-coil proteins.". <it>Curr. Biol.</it>&#32;<b>9</b>&#32;(7): 381–4. PMID 10209123.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Barr FA&#32;(1999).&#32;"A novel Rab6-interacting domain defines a family of Golgi-targeted coiled-coil proteins.". <it>Curr. Biol.</it>&#32;<b>9</b>&#32;(7): 381–4. PMID 10209123.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -221,7 +221,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Lu L, Hong W&#32;(2004).&#32;"Interaction of Arl1-GTP with GRIP domains recruits autoantigens Golgin-97 and Golgin-245/p230 onto the Golgi.". <it>Mol. Biol. Cell</it>&#32;<b>14</b>&#32;(9): 3767–81. <document wordnetid="106470073" confidence="0.8">
@@ -232,7 +232,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1091%2Fmbc.E03-01-0864">
-10.1091/mbc.E03-01-0864</weblink>. PMID 12972563.</cite>&nbsp;</entry>
+10.1091/mbc.E03-01-0864</weblink>. PMID 12972563.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ota T, Suzuki Y, Nishikawa T, et al.&#32;(2004).&#32;"Complete sequencing and characterization of 21,243 full-length human cDNAs.". <it>Nat. Genet.</it>&#32;<b>36</b>&#32;(1): 40–5. <document wordnetid="106470073" confidence="0.8">
@@ -243,7 +243,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fng1285">
-10.1038/ng1285</weblink>. PMID 14702039.</cite>&nbsp;</entry>
+10.1038/ng1285</weblink>. PMID 14702039.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Lu L, Tai G, Hong W&#32;(2005).&#32;"Autoantigen Golgin-97, an effector of Arl1 GTPase, participates in traffic from the endosome to the trans-golgi network.". <it>Mol. Biol. Cell</it>&#32;<b>15</b>&#32;(10): 4426–43. <document wordnetid="106470073" confidence="0.8">
@@ -254,7 +254,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1091%2Fmbc.E03-12-0872">
-10.1091/mbc.E03-12-0872</weblink>. PMID 15269279.</cite>&nbsp;</entry>
+10.1091/mbc.E03-12-0872</weblink>. PMID 15269279.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Luke MR, Houghton F, Perugini MA, Gleeson PA&#32;(2005).&#32;"The trans-Golgi network GRIP-domain proteins form alpha-helical homodimers.". <it>Biochem. J.</it>&#32;<b>388</b>&#32;(Pt 3): 835–41. <document wordnetid="106470073" confidence="0.8">
@@ -265,7 +265,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1042%2FBJ20041810">
-10.1042/BJ20041810</weblink>. PMID 15654769.</cite>&nbsp;</entry>
+10.1042/BJ20041810</weblink>. PMID 15654769.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Lock JG, Hammond LA, Houghton F, et al.&#32;(2006).&#32;"E-cadherin transport from the trans-Golgi network in tubulovesicular carriers is selectively regulated by golgin-97.". <it>Traffic</it>&#32;<b>6</b>&#32;(12): 1142–56. <document wordnetid="106470073" confidence="0.8">
@@ -276,7 +276,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1111%2Fj.1600-0854.2005.00349.x">
-10.1111/j.1600-0854.2005.00349.x</weblink>. PMID 16262725.</cite>&nbsp;</entry>
+10.1111/j.1600-0854.2005.00349.x</weblink>. PMID 16262725.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Alzhanova D, Hruby DE&#32;(2007).&#32;"A host cell membrane protein, golgin-97, is essential for poxvirus morphogenesis.". <it>Virology</it>&#32;<b>362</b>&#32;(2): 421–7. <document wordnetid="106470073" confidence="0.8">
@@ -287,7 +287,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.virol.2007.01.003">
-10.1016/j.virol.2007.01.003</weblink>. PMID 17276477.</cite>&nbsp;</entry>
+10.1016/j.virol.2007.01.003</weblink>. PMID 17276477.</cite> </entry>
 </list>
 </p>
 

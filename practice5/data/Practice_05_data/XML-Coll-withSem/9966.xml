@@ -279,7 +279,7 @@ We already specified how <math>O</math> is defined. If we define the negative of
 Certicom's Online ECC Tutorial</weblink> contains a Java applet that can be used to experiment with addition in different EC groups.</p>
 <p>
 
-We already described the underlying field <math>\mathbb{F}_q</math> and the group of points of elliptic curve <math>E(\mathbb{F}_q)</math> but there is yet another mathematical structure commonly used in cryptography &mdash; a <link xlink:type="simple" xlink:href="../327/52327.xml">
+We already described the underlying field <math>\mathbb{F}_q</math> and the group of points of elliptic curve <math>E(\mathbb{F}_q)</math> but there is yet another mathematical structure commonly used in cryptography — a <link xlink:type="simple" xlink:href="../327/52327.xml">
 cyclic</link> <link xlink:type="simple" xlink:href="../011/28011.xml">
 subgroup</link> of <math>E(\mathbb{F}_q)</math>. For any point <math>G</math> the set 
 <indent level="1">
@@ -757,7 +757,7 @@ Notes</st>
 
 <reflist>
 <entry id="1">
-N. Koblitz, <it>Elliptic curve cryptosystems</it>, in <it>Mathematics of Computation</it> 48, 1987, pp. 203&ndash;209</entry>
+N. Koblitz, <it>Elliptic curve cryptosystems</it>, in <it>Mathematics of Computation</it> 48, 1987, pp. 203–209</entry>
 <entry id="2">
 V. Miller, <it>Use of elliptic curves in cryptography</it>, CRYPTO 85, 1985.</entry>
 <entry id="3">
@@ -792,7 +792,7 @@ N. Smart, <it>The discrete logarithm problem on elliptic curves of trace one,</i
 T. Satoh and K. Araki, <it>Fermat quotients and the polynomial time discrete log algorithm for anomalous elliptic curves,</it> Commentarii Mathematici Universitatis Sancti Pauli, Volume 47, 1998.</entry>
 <entry id="15">
 NIST, <weblink xlink:type="simple" xlink:href="http://csrc.nist.gov/publications/nistpubs/800-57/SP800-57-Part1.pdf">
-Recommendation for Key Management &mdash; Part 1: general</weblink>,  Special Publication 800-57, August 2005.</entry>
+Recommendation for Key Management — Part 1: general</weblink>,  Special Publication 800-57, August 2005.</entry>
 <entry id="17">
 H. Cohen, A. Miyaji, T. Ono, <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/277895.html">
 Efficient Elliptic Curve Exponentiation Using Mixed Coordinates</weblink>, ASIACRYPT 1998.</entry>
@@ -871,7 +871,7 @@ Online Elliptic Curve Cryptography Tutorial</weblink>, Certicom Corp.</entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../222/24222.xml">
+ <link xlink:type="simple" xlink:href="../222/24222.xml">
 Public-key cryptography</link></header>
 </row>
 <row style="height:2px;">
@@ -881,9 +881,9 @@ Public-key cryptography</link></header>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Algorithms:</b> <link xlink:type="simple" xlink:href="../287/14050287.xml">
-CEILIDH</link>&nbsp;&#124; 
+CEILIDH</link> &#124; 
 <link xlink:type="simple" xlink:href="../406/1564406.xml">
-Cramer-Shoup</link>&nbsp;&#124; 
+Cramer-Shoup</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -893,13 +893,13 @@ DH</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../470/59470.xml">
-DSA</link>&nbsp;&#124; 
+DSA</link> &#124; 
 <link xlink:type="simple" xlink:href="../958/3357958.xml">
-ECDH</link>&nbsp;&#124; 
+ECDH</link> &#124; 
 <link xlink:type="simple" xlink:href="../525/450525.xml">
-ECDSA</link>&nbsp;&#124; 
+ECDSA</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -909,31 +909,31 @@ EKE</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../458/59458.xml">
-ElGamal encryption</link>&nbsp;&#124; 
+ElGamal encryption</link> &#124; 
 <link xlink:type="simple" xlink:href="../473/2033473.xml">
-ElGamal signature scheme</link>&nbsp;&#124; 
+ElGamal signature scheme</link> &#124; 
 <link xlink:type="simple" xlink:href="../608/598608.xml">
-GMR</link>&nbsp;&#124; 
+GMR</link> &#124; 
 <link xlink:type="simple" xlink:href="../076/3530076.xml">
-IES</link>&nbsp;&#124; 
+IES</link> &#124; 
 <link xlink:type="simple" xlink:href="../486/3200486.xml">
-Lamport</link>&nbsp;&#124; 
+Lamport</link> &#124; 
 <link xlink:type="simple" xlink:href="../447/1586447.xml">
-MQV</link>&nbsp;&#124; 
+MQV</link> &#124; 
 <link xlink:type="simple" xlink:href="../582/481582.xml">
-NTRUEncrypt</link>&nbsp;&#124; 
+NTRUEncrypt</link> &#124; 
 <link xlink:type="simple" xlink:href="../327/3513327.xml">
-NTRUSign</link>&nbsp;&#124; 
+NTRUSign</link> &#124; 
 <link xlink:type="simple" xlink:href="../685/480685.xml">
-Paillier</link>&nbsp;&#124; 
+Paillier</link> &#124; 
 <link xlink:type="simple" xlink:href="../283/451283.xml">
-Rabin</link>&nbsp;&#124; 
+Rabin</link> &#124; 
 <link xlink:type="simple" xlink:href="../385/25385.xml">
-RSA</link>&nbsp;&#124; 
+RSA</link> &#124; 
 <link xlink:type="simple" xlink:href="../536/450536.xml">
-Schnorr</link>&nbsp;&#124; 
+Schnorr</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -943,7 +943,7 @@ SPEKE</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -957,7 +957,7 @@ SRP</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -971,7 +971,7 @@ STS</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -993,7 +993,7 @@ XTR</link></geographical_area>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Theory:</b> <link xlink:type="simple" xlink:href="../334/181334.xml">
-Discrete logarithm</link>&nbsp;&#124; 
+Discrete logarithm</link> &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1005,7 +1005,7 @@ Elliptic curve cryptography</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../741/1544741.xml">
 RSA problem</link></p>
 </col>
@@ -1017,25 +1017,25 @@ RSA problem</link></p>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Standardization:</b> <link>
-ANS X9F1</link>&nbsp;&#124; 
+ANS X9F1</link> &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../159/549159.xml">
 CRYPTREC</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../154/1644154.xml">
 IEEE P1363</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/497430.xml">
 NESSIE</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../099/1602099.xml">
 NSA Suite B</link></p>
 </col>
@@ -1053,13 +1053,13 @@ NSA Suite B</link></p>
 Digital signature</link></writing>
 </written_communication>
 </document>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../312/7943312.xml">
-Fingerprint</link>&nbsp;&#124; 
+Fingerprint</link> &#124; 
 <link xlink:type="simple" xlink:href="../112/194112.xml">
-PKI</link>&nbsp;&#124; 
+PKI</link> &#124; 
 <link xlink:type="simple" xlink:href="../356/296356.xml">
-Web of trust</link>&nbsp;&#124; 
+Web of trust</link> &#124; 
 <link xlink:type="simple" xlink:href="../749/5749.xml">
 Key size</link></p>
 </col>
@@ -1078,7 +1078,7 @@ Key size</link></p>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

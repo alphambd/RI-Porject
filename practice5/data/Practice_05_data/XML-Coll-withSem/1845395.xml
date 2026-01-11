@@ -381,39 +381,39 @@ Routing software</header>
 Free software</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../495/944495.xml">
-Fdgw</link>&nbsp;·  <link xlink:type="simple" xlink:href="../095/13389095.xml">
-Floppyfw</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+Fdgw</link> ·  <link xlink:type="simple" xlink:href="../095/13389095.xml">
+Floppyfw</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../480/373480.xml">
 FREESCO</link></O>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../760/12723760.xml">
 FreeWRT</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../446/3197446.xml">
 DD-WRT</link></software>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../396/3483396.xml">
 LEAF Project</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../395/1845395.xml">
 OpenWrt</link></software>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../764/176764.xml">
 The Linux Router Project</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../991/8420991.xml">
-Tomato Firmware</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../991/8420991.xml">
+Tomato Firmware</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../119/6120119.xml">
 Vyatta</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../392/1881392.xml">
-WiFi-Box</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../392/1881392.xml">
+WiFi-Box</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../817/13957817.xml">
@@ -430,8 +430,8 @@ Zeroshell</link></distribution>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../062/881062.xml">
-m0n0wall</link>&nbsp;·  <link xlink:type="simple" xlink:href="../282/4832282.xml">
-Neighbornode</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+m0n0wall</link> ·  <link xlink:type="simple" xlink:href="../282/4832282.xml">
+Neighbornode</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../353/1239353.xml">
 SmoothWall</link></O>
 </col>

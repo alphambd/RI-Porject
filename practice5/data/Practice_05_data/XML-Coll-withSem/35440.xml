@@ -39,12 +39,12 @@ Centuries</link>:</b></col>
 Decades</link>:</b></col>
 <col align="center">
    <link xlink:type="simple" xlink:href="../832/34832.xml">
-110s</link>&nbsp; <link xlink:type="simple" xlink:href="../833/34833.xml">
-120s</link>&nbsp; <link xlink:type="simple" xlink:href="../348/35348.xml">
-130s</link>&nbsp; - <link xlink:type="simple" xlink:href="../349/35349.xml">
-140s</link> - &nbsp;<link xlink:type="simple" xlink:href="../350/35350.xml">
-150s</link> &nbsp;<link xlink:type="simple" xlink:href="../351/35351.xml">
-160s</link> &nbsp;<link xlink:type="simple" xlink:href="../352/35352.xml">
+110s</link>  <link xlink:type="simple" xlink:href="../833/34833.xml">
+120s</link>  <link xlink:type="simple" xlink:href="../348/35348.xml">
+130s</link>  - <link xlink:type="simple" xlink:href="../349/35349.xml">
+140s</link> -  <link xlink:type="simple" xlink:href="../350/35350.xml">
+150s</link>  <link xlink:type="simple" xlink:href="../351/35351.xml">
+160s</link>  <link xlink:type="simple" xlink:href="../352/35352.xml">
 170s</link></col>
 </row>
 <row>
@@ -334,7 +334,7 @@ Hindu calendar</link>s</col>
 </row>
 <row>
 <col>
- &nbsp;- <it><fundamental_quantity wordnetid="113575869" confidence="0.8">
+  - <it><fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <era wordnetid="115248564" confidence="0.8">
 <link xlink:type="simple" xlink:href="../364/1675364.xml">
@@ -347,7 +347,7 @@ Vikram Samvat</link></era>
 </row>
 <row>
 <col>
- &nbsp;- <it><fundamental_quantity wordnetid="113575869" confidence="0.8">
+  - <it><fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <calendar_month wordnetid="115209413" confidence="0.8">
@@ -364,7 +364,7 @@ Shaka Samvat</link></signal>
 </row>
 <row>
 <col>
- &nbsp;- <it><link xlink:type="simple" xlink:href="../074/175074.xml">
+  - <it><link xlink:type="simple" xlink:href="../074/175074.xml">
 Kali Yuga</link>''</it></col>
 <col>
 3241 – 3242</col>

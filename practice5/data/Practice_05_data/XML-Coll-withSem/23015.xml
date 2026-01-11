@@ -1159,7 +1159,7 @@ References</st>
 ISO 5127</weblink>—Information and documentation—Vocabulary, clause 01.05.10, defines a programming language as: an artificial language for expressing programs</entry>
 <entry id="2">
 In mathematical terms, this means the programming language is <link xlink:type="simple" xlink:href="../621/30621.xml">
-Turing-complete</link>  <cite id="Reference-MacLennan-1987" style="font-style:normal" class="book">MacLennan, Bruce J.&#32;(1987). Principles of Programming Languages.&#32;Oxford University Press,&#32;1. ISBN 0-19-511306-3.</cite>&nbsp;</entry>
+Turing-complete</link>  <cite id="Reference-MacLennan-1987" style="font-style:normal" class="book">MacLennan, Bruce J.&#32;(1987). Principles of Programming Languages.&#32;Oxford University Press,&#32;1. ISBN 0-19-511306-3.</cite> </entry>
 <entry id="3">
 <link xlink:type="simple" xlink:href="../164/36164.xml">
 As of May 2006</link> <weblink xlink:type="simple" xlink:href="http://hopl.murdoch.edu.au/">
@@ -1212,10 +1212,10 @@ Michael Sipser</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>&nbsp; Section 2.2: Pushdown Automata, pp.101&ndash;114.</entry>
+&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>  Section 2.2: Pushdown Automata, pp.101–114.</entry>
 <entry id="14">
  <cite id="Reference-Aaby-2004" style="font-style:normal" class="book">Aaby, Anthony&#32;(2004). <weblink xlink:type="simple" xlink:href="http://cs.wwc.edu/~aabyan/LN/PL/book/index.html">
-Introduction to Programming Languages</weblink>.</cite>&nbsp;</entry>
+Introduction to Programming Languages</weblink>.</cite> </entry>
 <entry id="15">
 Andrew Cooke.&#32;"<weblink xlink:type="simple" xlink:href="http://www.acooke.org/andrew/writing/lang.html#sec-types">
 An Introduction to Programming Languages</weblink>".&#32;Retrieved on June 30, 2006.</entry>
@@ -1269,7 +1269,7 @@ R. Harper</link></associate>
 </person>
 </peer>
 </physical_entity>
- and D. MacQueen.&#32;(1997). The Definition of Standard ML (Revised).&#32;MIT Press. ISBN 0-262-63181-4.</cite>&nbsp;</entry>
+ and D. MacQueen.&#32;(1997). The Definition of Standard ML (Revised).&#32;MIT Press. ISBN 0-262-63181-4.</cite> </entry>
 <entry id="18">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
@@ -1322,7 +1322,7 @@ Pierce, Benjamin C.</link></scientist>
 &#32;(2002). Types and Programming Languages.&#32;<company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../601/719601.xml">
 MIT Press</link></company>
-,&#32;52. ISBN 0-262-16209-1.</cite>&nbsp;</entry>
+,&#32;52. ISBN 0-262-16209-1.</cite> </entry>
 <entry id="25">
 Richard L. Wexelblat: <it>History of Programming Languages</it>, Academic Press, 1981, chapter XIV.</entry>
 <entry id="24">
@@ -1330,7 +1330,7 @@ Frank da Cruz. <weblink xlink:type="simple" xlink:href="http://www.columbia.edu/
 IBM Punch Cards</weblink> <weblink xlink:type="simple" xlink:href="http://www.columbia.edu/acis/history/index.html">
 Columbia University Computing History</weblink>.</entry>
 <entry id="27">
-  <cite id="CITEREFHayes2006" style="font-style:normal">Hayes, Brian&#32;(2006),&#32;"The Semicolon Wars",&#32;<it>American Scientist</it>&#32;<b>94</b>(4):  pp. 299–303</cite>&nbsp; </entry>
+  <cite id="CITEREFHayes2006" style="font-style:normal">Hayes, Brian&#32;(2006),&#32;"The Semicolon Wars",&#32;<it>American Scientist</it>&#32;<b>94</b>(4):  pp. 299–303</cite>  </entry>
 <entry id="26">
 François Labelle.&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.berkeley.edu/~flab/languages.html">
 Programming Language Usage Graph</weblink>".&#32;<it><link xlink:type="simple" xlink:href="../227/52227.xml">
@@ -1353,7 +1353,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F362929.362947">
 10.1145/362929.362947</weblink>. Retrieved on <link>
-2006-06-29</link>.</cite>&nbsp;</entry>
+2006-06-29</link>.</cite> </entry>
 <entry id="31">
 Wall, <it>Programming Perl</it> ISBN 0-596-00027-8 p.66</entry>
 <entry id="30">
@@ -1388,7 +1388,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F154766.155378">
 10.1145/154766.155378</weblink>. Retrieved on <link>
-2006-06-30</link>.</cite>&nbsp;</entry>
+2006-06-30</link>.</cite> </entry>
 </reflist>
 </p>
 
@@ -1481,17 +1481,17 @@ Array</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../368/1368.xml">
-Assembly</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../368/1368.xml">
+Assembly</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../101/174101.xml">
 Compiled</link></subject>
 </message>
- &nbsp;·  <link xlink:type="simple" xlink:href="../605/2581605.xml">
-Concurrent</link> &nbsp;·  <link xlink:type="simple" xlink:href="../103/560103.xml">
-Curly bracket</link> &nbsp;·  <link>
-Data-oriented</link> &nbsp;·  <link xlink:type="simple" xlink:href="../378/2468378.xml">
-Data-structured</link> &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../605/2581605.xml">
+Concurrent</link>  ·  <link xlink:type="simple" xlink:href="../103/560103.xml">
+Curly bracket</link>  ·  <link>
+Data-oriented</link>  ·  <link xlink:type="simple" xlink:href="../378/2468378.xml">
+Data-structured</link>  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1500,7 +1500,7 @@ Dataflow</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1509,9 +1509,9 @@ Declarative</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../239/519239.xml">
-Domain-specific</link> &nbsp;·  <link xlink:type="simple" xlink:href="../398/53398.xml">
-Esoteric</link> &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../239/519239.xml">
+Domain-specific</link>  ·  <link xlink:type="simple" xlink:href="../398/53398.xml">
+Esoteric</link>  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1520,7 +1520,7 @@ Extensible</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1529,7 +1529,7 @@ Functional</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1538,15 +1538,15 @@ Imperative</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../089/15089.xml">
-Interpreted</link> &nbsp;·  <link xlink:type="simple" xlink:href="../de)/17927_(Z$I$P$_code).xml">
-Logic</link> &nbsp;·  <link xlink:type="simple" xlink:href="../683/20683.xml">
-Machine</link> &nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../089/15089.xml">
+Interpreted</link>  ·  <link xlink:type="simple" xlink:href="../de)/17927_(Z$I$P$_code).xml">
+Logic</link>  ·  <link xlink:type="simple" xlink:href="../683/20683.xml">
+Machine</link>  ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../560/20560.xml">
 Macro</link></concept>
 </idea>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1555,7 +1555,7 @@ Metaprogramming</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1564,14 +1564,14 @@ Multi-paradigm</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link xlink:type="simple" xlink:href="../497/365497.xml">
-Non-English-based</link> &nbsp;·  <link xlink:type="simple" xlink:href="../758/22758.xml">
-Object-oriented</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../497/365497.xml">
+Non-English-based</link>  ·  <link xlink:type="simple" xlink:href="../758/22758.xml">
+Object-oriented</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../595/605595.xml">
 Off-side rule</link></subject>
 </message>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1580,7 +1580,7 @@ Pipeline</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1589,7 +1589,7 @@ Procedural</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1598,7 +1598,7 @@ Prototype-based</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <paradigm wordnetid="113804375" confidence="0.8">
+  ·  <paradigm wordnetid="113804375" confidence="0.8">
 <linguistic_relation wordnetid="113797142" confidence="0.8">
 <inflection wordnetid="113803782" confidence="0.8">
 <grammatical_relation wordnetid="113796779" confidence="0.8">
@@ -1607,10 +1607,10 @@ Reflective</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
- &nbsp;·  <link>
-Rule-based</link> &nbsp;·  <link xlink:type="simple" xlink:href="../524/29524.xml">
-Scripting</link> &nbsp;·  <link xlink:type="simple" xlink:href="../347/2211347.xml">
-Synchronous</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link>
+Rule-based</link>  ·  <link xlink:type="simple" xlink:href="../524/29524.xml">
+Scripting</link>  ·  <link xlink:type="simple" xlink:href="../347/2211347.xml">
+Synchronous</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../268/499268.xml">
 Visual</link></subject>

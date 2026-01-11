@@ -88,7 +88,7 @@ The definition can be extended to arbitrary countable sets via <link>
 Gödel numbering</link>s. If each element of a set <it>U</it> has a unique associated natural number, a subset <it>C</it> of <it>U</it> is called computable if the set of natural numbers corresponding to the elements of <it>C</it> is decidable under the definition above. A similar definition can be made in which elements of <it>U</it> are identified with finite strings rather than natural numbers.</p>
 <p>
 
-The definition can also be extended to sets of ordered pairs, ordered triples, and more generally finite sequences of objects. One way to do this is to use computable functions taking more than one argument &ndash; for example, a set <it>A</it> of ordered pairs of elements of a set <it>X</it> is decidable if there is a computable function <it>g</it> taking two arguments, such that for all <it>x</it> and <it>y</it> in <it>X</it>, <it>g</it>(<it>x</it>,<it>y</it>)= 0 if the pair (<it>x</it>,<it>y</it>) is not in <it>A</it>, and <it>g</it>(<it>x</it>,<it>y</it>)=1 if the pair is in <it>A</it>. Another way of defining decidability for sets of sequences is to use a <link xlink:type="simple" xlink:href="../848/1145848.xml">
+The definition can also be extended to sets of ordered pairs, ordered triples, and more generally finite sequences of objects. One way to do this is to use computable functions taking more than one argument – for example, a set <it>A</it> of ordered pairs of elements of a set <it>X</it> is decidable if there is a computable function <it>g</it> taking two arguments, such that for all <it>x</it> and <it>y</it> in <it>X</it>, <it>g</it>(<it>x</it>,<it>y</it>)= 0 if the pair (<it>x</it>,<it>y</it>) is not in <it>A</it>, and <it>g</it>(<it>x</it>,<it>y</it>)=1 if the pair is in <it>A</it>. Another way of defining decidability for sets of sequences is to use a <link xlink:type="simple" xlink:href="../848/1145848.xml">
 pairing function</link> to identify each sequence with a single object (natural number or string). Then the definitions of decidability above can be directly applied. This second method is particularly useful when the set in question contains sequences of varying lengths.</p>
 
 </sec>
@@ -449,13 +449,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0019-9958%2859%2990362-6">
-10.1016/S0019-9958(59)90362-6</weblink>.</cite>&nbsp;</entry>
+10.1016/S0019-9958(59)90362-6</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="CITEREFCutland.2C_N.1980" style="font-style:normal">Cutland, N.&#32;(1980),&#32;<it>Computability.</it>, Cambridge University Press, ISBN ISBN 0-521-29465-7</cite>&nbsp;</entry>
+ <cite id="CITEREFCutland.2C_N.1980" style="font-style:normal">Cutland, N.&#32;(1980),&#32;<it>Computability.</it>, Cambridge University Press, ISBN ISBN 0-521-29465-7</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite id="CITEREFRogers1987" style="font-style:normal">Rogers, Hartley&#32;(1987),&#32;<it>The Theory of Recursive Functions and Effective Computability</it>, First MIT press paperback edition, ISBN 978-0-262-68052-3</cite>&nbsp;</entry>
+  <cite id="CITEREFRogers1987" style="font-style:normal">Rogers, Hartley&#32;(1987),&#32;<it>The Theory of Recursive Functions and Effective Computability</it>, First MIT press paperback edition, ISBN 978-0-262-68052-3</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -469,11 +469,11 @@ Michael Sipser</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(1997).&#32;"Decidability", Introduction to the Theory of Computation.&#32;PWS Publishing,&#32;151–170. ISBN 0-534-94728-X.</cite>&nbsp;</entry>
+&#32;(1997).&#32;"Decidability", Introduction to the Theory of Computation.&#32;PWS Publishing,&#32;151–170. ISBN 0-534-94728-X.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="CITEREFSoare1987" style="font-style:normal">Soare, R.&#32;(1987),&#32;<it>Recursively Enumerable Sets and Degrees</it>, Berlin, New York: <link xlink:type="simple" xlink:href="../949/1418949.xml">
-Springer-Verlag</link></cite>&nbsp;</entry>
+Springer-Verlag</link></cite> </entry>
 </list>
 </p>
 

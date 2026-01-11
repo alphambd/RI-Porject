@@ -82,7 +82,7 @@ Animated cartoon</link></format>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -111,7 +111,7 @@ United Kingdom</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<region wordnetid="108630039" confidence="0.9508927676800064">
+ <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
 </country>
@@ -641,7 +641,7 @@ Watership Down</link></novel>
 </writing>
 </written_communication>
 </literary_composition>
-</it>&nbsp;·  <it><book wordnetid="106410904" confidence="0.9508927676800064">
+</it> ·  <it><book wordnetid="106410904" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../181/777181.xml">
 Tales from Watership Down</link></book>
 ''</it></col>
@@ -656,7 +656,7 @@ Adaptations</col>
 <movie wordnetid="106613686" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../243/982243.xml">
 Feature film</link></movie>
-&nbsp;·  <series wordnetid="108457976" confidence="0.9508927676800064">
+ ·  <series wordnetid="108457976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../905/5878905.xml">
 Television series</link></series>
 </col>
@@ -686,7 +686,7 @@ Bigwig</link></animal>
 </leporid>
 </lagomorph>
 </rabbit>
-&nbsp;·  <rabbit wordnetid="102324045" confidence="0.8">
+ ·  <rabbit wordnetid="102324045" confidence="0.8">
 <lagomorph wordnetid="102323449" confidence="0.8">
 <leporid wordnetid="102323902" confidence="0.8">
 <chordate wordnetid="101466257" confidence="0.8">
@@ -705,7 +705,7 @@ El-ahrairah</link></animal>
 </leporid>
 </lagomorph>
 </rabbit>
-&nbsp;·  <visionary wordnetid="110756433" confidence="0.8">
+ ·  <visionary wordnetid="110756433" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <rabbit wordnetid="102324045" confidence="0.8">
 <prophet wordnetid="110483530" confidence="0.8">
@@ -736,7 +736,7 @@ Fiver</link></animal>
 </rabbit>
 </physical_entity>
 </visionary>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <commissioned_officer wordnetid="109942970" confidence="0.8">
@@ -779,7 +779,7 @@ General Woundwort</link></juvenile>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <rabbit wordnetid="102324045" confidence="0.8">
+ ·  <rabbit wordnetid="102324045" confidence="0.8">
 <lagomorph wordnetid="102323449" confidence="0.8">
 <leporid wordnetid="102323902" confidence="0.8">
 <chordate wordnetid="101466257" confidence="0.8">
@@ -796,7 +796,7 @@ Hazel</link></animal>
 </leporid>
 </lagomorph>
 </rabbit>
-&nbsp;·  <rabbit wordnetid="102324045" confidence="0.8">
+ ·  <rabbit wordnetid="102324045" confidence="0.8">
 <lagomorph wordnetid="102323449" confidence="0.8">
 <leporid wordnetid="102323902" confidence="0.8">
 <chordate wordnetid="101466257" confidence="0.8">
@@ -823,15 +823,15 @@ Holly</link></animal>
 Locations</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../225/2394225.xml">
-Efrafa</link>&nbsp;·  <stream wordnetid="109448361" confidence="0.8">
+Efrafa</link> ·  <stream wordnetid="109448361" confidence="0.8">
 <body_of_water wordnetid="109225146" confidence="0.8">
 <river wordnetid="109411430" confidence="0.8">
 <link xlink:type="simple" xlink:href="../191/1335191.xml">
 River Enborne</link></river>
 </body_of_water>
 </stream>
-&nbsp;·  <link xlink:type="simple" xlink:href="../905/1379905.xml">
-Railway line</link>&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../905/1379905.xml">
+Railway line</link> ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <stream wordnetid="109448361" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -848,7 +848,7 @@ River Test</link></river>
 </stream>
 </region>
 </site>
-&nbsp;·  <hill wordnetid="109303008" confidence="0.8">
+ ·  <hill wordnetid="109303008" confidence="0.8">
 <natural_elevation wordnetid="109366317" confidence="0.8">
 <geological_formation wordnetid="109287968" confidence="0.8">
 <link xlink:type="simple" xlink:href="../342/1081342.xml">
@@ -881,11 +881,11 @@ Chief Rabbit</link></animal>
 </leporid>
 </lagomorph>
 </rabbit>
-&nbsp;·  <link xlink:type="simple" xlink:href="../265/7294265.xml">
-Concepts in <it>Watership Down''</it></link>&nbsp;·  <language wordnetid="106282651" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../265/7294265.xml">
+Concepts in <it>Watership Down''</it></link> ·  <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../104/476104.xml">
 Lapine</link></language>
-&nbsp;·  "<artifact wordnetid="100021939" confidence="0.8">
+ ·  "<artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../306/1499306.xml">

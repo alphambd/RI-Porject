@@ -258,7 +258,7 @@ floppy disk</link> drive access instruction '<link xlink:type="simple" xlink:hre
 int</link> 0x13' would not appear in the executable program's image but it would be written into the executable's memory image after the program started executing.</p>
 <p>
 
-Self-modifying code is also sometimes used by programs that do not want to reveal their presence &mdash; such as <link xlink:type="simple" xlink:href="../196/18994196.xml">
+Self-modifying code is also sometimes used by programs that do not want to reveal their presence — such as <link xlink:type="simple" xlink:href="../196/18994196.xml">
 computer virus</link>es and some <link xlink:type="simple" xlink:href="../067/218067.xml">
 shellcode</link>s. Viruses and shellcodes that use self-modifying code mostly do this in combination with <link xlink:type="simple" xlink:href="../447/218447.xml">
 polymorphic code</link>. Polymorphic viruses are sometimes called primitive self-mutators. Modifying a piece of running code is also used in certain attacks, such as <link xlink:type="simple" xlink:href="../373/4373.xml">

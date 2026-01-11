@@ -62,7 +62,7 @@ The Eigentrust algorithm is based on the notion of transitive trust: If a peer <
 </indent>
 
 where sat (<it>i</it>, <it>j</it>) refers to the number of satisfactory responses that peer <it>i</it> has received from peer <it>j</it>,
-and unsat(<it>i</it>,&nbsp;<it>j</it>) refers to the number of unsatisfactory responses that peer <it>i</it> has received from peer <it>j</it>.</p>
+and unsat(<it>i</it>, <it>j</it>) refers to the number of unsatisfactory responses that peer <it>i</it> has received from peer <it>j</it>.</p>
 <p>
 
 The local value is normalized, to prevent malicious peers from assigning arbitrarily high local trust values to colluding malicious peers and arbitrarily low local trust values to good peers. The normalized local trust value <it>cij</it> is then</p>

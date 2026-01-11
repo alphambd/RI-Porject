@@ -55,7 +55,7 @@ The Beach within Reach</slogan>
 <group wordnetid="100031264" confidence="0.8">
 <democracy wordnetid="106217103" confidence="0.8">
 <link xlink:type="simple" xlink:href="../750/3434750.xml">
-United&nbsp;States</link></democracy>
+United States</link></democracy>
 </group>
 </political_unit>
 </state>
@@ -63,7 +63,7 @@ United&nbsp;States</link></democracy>
 </political_orientation>
 </social_group>
 </body>
-&nbsp;<image width="22x20px" src="Flag_of_the_United_States.svg">
+ <image width="22x20px" src="Flag_of_the_United_States.svg">
 <caption>
 
 Flag of the United States
@@ -107,7 +107,7 @@ http://local.meridianstar.com/Maywood+Beach++--26+Pool.262134.9010099.home.html<
 History</st>
 <p>
 
-It was opened by Maurice and May Woodson on July 4, 1931. The Woodsons were Memphians who were looking for a change of pace from city life.  Maurice Woodson was a cotton linter and president of Woodson Brothers, Inc., a company that he owned with his brothers Edward and R. Peyton Woodson.  Some time in the late 1920s Maurice was told by his doctor that he must give up his business for his health’s sake.  Soon after the couple purchased 400&nbsp;acres (1.6&nbsp;km2) of land in <county wordnetid="108546183" confidence="0.9508927676800064">
+It was opened by Maurice and May Woodson on July 4, 1931. The Woodsons were Memphians who were looking for a change of pace from city life.  Maurice Woodson was a cotton linter and president of Woodson Brothers, Inc., a company that he owned with his brothers Edward and R. Peyton Woodson.  Some time in the late 1920s Maurice was told by his doctor that he must give up his business for his health’s sake.  Soon after the couple purchased 400 acres (1.6 km2) of land in <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../834/94834.xml">
 DeSoto County, Mississippi</link></county>
 . </p>
@@ -1244,7 +1244,7 @@ Wall Doxey State Park</link></geographical_area>
 </p>
 <p>
 
-<b>Arkansas:</b>&nbsp;&nbsp;&nbsp;&nbsp;<village wordnetid="108672738" confidence="0.9508927676800064">
+<b>Arkansas:</b>    <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../942/106942.xml">
 Horseshoe Lake</link></village>
  - <position wordnetid="108621598" confidence="0.8">
@@ -1330,7 +1330,7 @@ Tunica</link></village>
 </p>
 <p>
 
-<b>Arkansas:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<village wordnetid="108672738" confidence="0.9508927676800064">
+<b>Arkansas:</b>     <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../945/106945.xml">
 Marion</link></village>
  - <village wordnetid="108672738" confidence="0.9508927676800064">
@@ -1356,7 +1356,7 @@ Fayette</link></county>
  - <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../687/91687.xml">
 Tipton</link></county>
-&nbsp;&nbsp;
+  
 <b>Mississippi:</b> <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../834/94834.xml">
 DeSoto</link></county>
@@ -1369,7 +1369,7 @@ Tate</link></county>
  - <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../740/94740.xml">
 Tunica</link></county>
-&nbsp;&nbsp;
+  
 <b>Arkansas:</b> <county wordnetid="108546183" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../483/97483.xml">
 Crittenden</link></county>

@@ -113,7 +113,7 @@ The goal is now to find a function <it>f</it>* among a fixed subclass of functio
 minimal</link>.</p>
 <p>
 
-However, since the behavior of <it>g</it> is generally only known for a finite set of points (<it>x</it>1,&nbsp;<it>y</it>1), ..., (<it>x</it>n,&nbsp;<it>y</it>n), one can only approximate the true risk, for example with the <it>empirical risk</it>:</p>
+However, since the behavior of <it>g</it> is generally only known for a finite set of points (<it>x</it>1, <it>y</it>1), ..., (<it>x</it>n, <it>y</it>n), one can only approximate the true risk, for example with the <it>empirical risk</it>:</p>
 <p>
 
 <indent level="1">

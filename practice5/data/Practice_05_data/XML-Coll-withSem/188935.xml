@@ -88,7 +88,7 @@ Concept</st>
 
 Fermi-Dirac and Bose-Einstein statistics apply when <link xlink:type="simple" xlink:href="../649/19595649.xml">
 quantum effects</link> have to be taken into account and the particles are considered "<link xlink:type="simple" xlink:href="../352/15352.xml">
-indistinguishable</link>".  The quantum effects appear if the concentration of particles (<it>N</it>/<it>V</it>)&nbsp;&amp;ge; <it>nq</it> (where <it>nq</it> is the <link xlink:type="simple" xlink:href="../744/9817744.xml">
+indistinguishable</link>".  The quantum effects appear if the concentration of particles (<it>N</it>/<it>V</it>) &amp;ge; <it>nq</it> (where <it>nq</it> is the <link xlink:type="simple" xlink:href="../744/9817744.xml">
 quantum concentration</link>).  The quantum concentration is when the interparticle distance is equal to the <link xlink:type="simple" xlink:href="../719/1293719.xml">
 thermal de Broglie wavelength</link> i.e. when the <link xlink:type="simple" xlink:href="../343/145343.xml">
 wavefunction</link>s of the particles are touching but not overlapping.  As the quantum concentration depends on temperature; high temperatures will put most systems in the classical limit unless they have a very high density e.g. a <link xlink:type="simple" xlink:href="../501/33501.xml">
@@ -148,7 +148,7 @@ Einstein</link></scientist>
  in 1924.</p>
 <p>
 
-The expected number of particles in an energy state <it>i</it>&nbsp; for B-E statistics is:</p>
+The expected number of particles in an energy state <it>i</it>  for B-E statistics is:</p>
 <p>
 
 <indent level="1">
@@ -163,13 +163,13 @@ with <math>\varepsilon_i &amp;gt; \mu</math> and where:</p>
 
 <indent level="1">
 
-<it>ni</it>&nbsp; is the number of particles in state <it>i</it>
+<it>ni</it>  is the number of particles in state <it>i</it>
 </indent>
-:<it>gi</it>&nbsp; is the <link xlink:type="simple" xlink:href="../495/144495.xml">
+:<it>gi</it>  is the <link xlink:type="simple" xlink:href="../495/144495.xml">
 degeneracy</link> of state <it>i</it>
 <indent level="1">
 
- <it>εi</it>&nbsp; is the <link xlink:type="simple" xlink:href="../649/9649.xml">
+ <it>εi</it>  is the <link xlink:type="simple" xlink:href="../649/9649.xml">
 energy</link> of the <it>i</it>-th state
 </indent>
 :μ is the <link xlink:type="simple" xlink:href="../628/218628.xml">

@@ -324,7 +324,7 @@ Ross Bencina</link></entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://java.sun.com/javase/6/docs/api/java/util/concurrent/atomic/package-summary.html">
-java.util.concurrent.atomic</weblink> &ndash; supports lock-free and thread-safe programming on single variables</entry>
+java.util.concurrent.atomic</weblink> – supports lock-free and thread-safe programming on single variables</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://msdn2.microsoft.com/en-us/library/system.threading.interlocked.aspx">

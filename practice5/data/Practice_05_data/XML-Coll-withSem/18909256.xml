@@ -619,7 +619,7 @@ See also</st>
 Sad Mac</link></surface>
 </artifact>
 </screen>
-&mdash;An Apple equivalent to the BSoD, found in both early <link xlink:type="simple" xlink:href="../979/19006979.xml">
+—An Apple equivalent to the BSoD, found in both early <link xlink:type="simple" xlink:href="../979/19006979.xml">
 Macs</link> and <link xlink:type="simple" xlink:href="../847/89847.xml">
 iPod</link>s.</entry>
 <entry level="1" type="bullet">
@@ -631,7 +631,7 @@ iPod</link>s.</entry>
 Kernel panic</link></surface>
 </artifact>
 </screen>
-&mdash;A critical failure under <family wordnetid="108078020" confidence="0.8">
+—A critical failure under <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../642/31642.xml">
 Unix</link></family>
  and <family wordnetid="108078020" confidence="0.8">
@@ -651,7 +651,7 @@ Linux kernel oops</link></entry>
 Guru Meditation</link></surface>
 </artifact>
 </screen>
-&mdash;A type of error message for <link xlink:type="simple" xlink:href="../980/1980.xml">
+—A type of error message for <link xlink:type="simple" xlink:href="../980/1980.xml">
 Amiga</link> operating systems.</entry>
 <entry level="1" type="bullet">
 
@@ -662,7 +662,7 @@ Amiga</link> operating systems.</entry>
 Red Ring of Death</link></criticism>
 </disapproval>
 </message>
-&mdash;A red warning light/symbol on the Xbox 360 that means an inoperative unit.</entry>
+—A red warning light/symbol on the Xbox 360 that means an inoperative unit.</entry>
 </list>
 </p>
 
@@ -675,7 +675,7 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal" class="book">Microsoft Corporation&#32;(1996-10-29). Microsoft Windows NT Workstation Resource Kit, 1st edition,&#32;Redmond, WA:&#32;Microsoft Press. ISBN 1-57231-343-9.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Microsoft Corporation&#32;(1996-10-29). Microsoft Windows NT Workstation Resource Kit, 1st edition,&#32;Redmond, WA:&#32;Microsoft Press. ISBN 1-57231-343-9.</cite> </entry>
 <entry id="2">
 Microsoft Corporation.&#32;"<weblink xlink:type="simple" xlink:href="http://www.microsoft.com/whdc/devtools/debugging/default.mspx">
 Debugging Tools for Windows - Overview</weblink>".&#32;Retrieved on <link>
@@ -808,24 +808,24 @@ Colors</col>
 Black</link></surface>
 </artifact>
 </screen>
-&nbsp;·  <screen wordnetid="104152829" confidence="0.8">
+ ·  <screen wordnetid="104152829" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <link xlink:type="simple" xlink:href="../256/18909256.xml">
 Blue</link></surface>
 </artifact>
 </screen>
-&nbsp;·  <screen wordnetid="104152829" confidence="0.8">
+ ·  <screen wordnetid="104152829" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <link xlink:type="simple" xlink:href="../502/1861502.xml">
 Red</link></surface>
 </artifact>
 </screen>
-&nbsp;·  <link>
-Green</link>&nbsp;·  <link xlink:type="simple" xlink:href="../556/5634556.xml">
-White</link>&nbsp;·  <link>
-Yellow</link> &nbsp;·  <link>
+ ·  <link>
+Green</link> ·  <link xlink:type="simple" xlink:href="../556/5634556.xml">
+White</link> ·  <link>
+Yellow</link>  ·  <link>
 Purple</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="3">
 <image width="150px" src="Gnome-mime-application-x-core-file.svg">
@@ -850,22 +850,22 @@ Other screens</col>
 Kernel panic</link></surface>
 </artifact>
 </screen>
-&nbsp;·  <screen wordnetid="104152829" confidence="0.8">
+ ·  <screen wordnetid="104152829" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <link>
 Sad Mac</link></surface>
 </artifact>
 </screen>
-&nbsp;·  <link xlink:type="simple" xlink:href="../580/1628580.xml">
-Bomb</link>&nbsp;·  <screen wordnetid="104152829" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../580/1628580.xml">
+Bomb</link> ·  <screen wordnetid="104152829" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <link xlink:type="simple" xlink:href="../947/3823947.xml">
 Row of bombs</link></surface>
 </artifact>
 </screen>
-&nbsp;·  <screen wordnetid="104152829" confidence="0.8">
+ ·  <screen wordnetid="104152829" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <link xlink:type="simple" xlink:href="../050/13050.xml">

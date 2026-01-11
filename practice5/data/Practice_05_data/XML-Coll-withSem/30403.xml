@@ -943,7 +943,7 @@ Register machine</link></causal_agent>
 </model>
 </person>
 </physical_entity>
-,&nbsp;and <link xlink:type="simple" xlink:href="../147/3688147.xml">
+, and <link xlink:type="simple" xlink:href="../147/3688147.xml">
 Post-Turing machine</link></it>
 </indent>
 
@@ -1206,7 +1206,7 @@ History</st>
 <indent level="1">
 
 <it>See also: <link xlink:type="simple" xlink:href="../775/775.xml">
-Algorithm</link>&nbsp;and <link xlink:type="simple" xlink:href="../854/6854.xml">
+Algorithm</link> and <link xlink:type="simple" xlink:href="../854/6854.xml">
 Church-Turing thesis</link></it>
 </indent>
 
@@ -1470,7 +1470,7 @@ Turing's example (his second proof): If one is to ask for a general procedure to
 </ss1>
 <ss1>
 <st>
- 1937&ndash;1970: The "digital computer", the birth of "Computer science" </st>
+ 1937–1970: The "digital computer", the birth of "Computer science" </st>
 
 <p>
 
@@ -1536,7 +1536,7 @@ random access machine</link> models —but basically all are just multi-tape Tur
 </ss1>
 <ss1>
 <st>
- 1970&ndash;present: The Turing machine as a model of computation </st>
+ 1970–present: The Turing machine as a model of computation </st>
 
 <p>
 
@@ -1705,10 +1705,10 @@ Brunfiel, Geoff, <weblink xlink:type="simple" xlink:href="http://www.nature.com/
 Student snags maths prize</weblink>, <it>Nature</it>, October 24. 2007.</entry>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Boolos-1989, 1999" style="font-style:normal" class="book">Boolos, George;&#32;Richard Jeffrey&#32;(1989, 1999). Computability and Logic, 3rd ed.,&#32;Cambridge UK:&#32;Cambridge University Press. ISBN 0-521-20402-X.</cite>&nbsp;</entry>
+  <cite id="Reference-Boolos-1989, 1999" style="font-style:normal" class="book">Boolos, George;&#32;Richard Jeffrey&#32;(1989, 1999). Computability and Logic, 3rd ed.,&#32;Cambridge UK:&#32;Cambridge University Press. ISBN 0-521-20402-X.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Boolos-2002" style="font-style:normal" class="book">Boolos, George;&#32;John Burgess, Richard Jeffrey,&#32;(2002). Computability and Logic, 4th ed.,&#32;Cambridge UK:&#32;Cambridge University Press. ISBN 0-521-00758-5 (pb.).</cite>&nbsp; Some parts have been significantly rewritten by Burgess. Presentation of Turing machines in context of Lambek "abacus machines" (cf <physical_entity wordnetid="100001930" confidence="0.8">
+ <cite id="Reference-Boolos-2002" style="font-style:normal" class="book">Boolos, George;&#32;John Burgess, Richard Jeffrey,&#32;(2002). Computability and Logic, 4th ed.,&#32;Cambridge UK:&#32;Cambridge University Press. ISBN 0-521-00758-5 (pb.).</cite>  Some parts have been significantly rewritten by Burgess. Presentation of Turing machines in context of Lambek "abacus machines" (cf <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -1773,10 +1773,10 @@ Martin Davis</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&#32;(1958). Computability and Unsolvability.&#32;McGraw-Hill Book Company, Inc, New York.</cite>&nbsp;. On pages 12-20 he gives examples of 5-tuple tables for Addition, The Successor Function, Subtraction (x &amp;gt; = y), Proper Subtraction (0 if x  y), The Identity Function and various identity functions, and Multiplication.</entry>
+&#32;(1958). Computability and Unsolvability.&#32;McGraw-Hill Book Company, Inc, New York.</cite> . On pages 12-20 he gives examples of 5-tuple tables for Addition, The Successor Function, Subtraction (x &amp;gt; = y), Proper Subtraction (0 if x  y), The Identity Function and various identity functions, and Multiplication.</entry>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Davis-1994" style="font-style:normal" class="book">Davis, Martin;&#32;Ron Sigal, Elaine J. Weyuker&#32;(1994). Second Edition: Computability, Complexity, and Languages and Logic: Fundamentals of Theoretical Computer Science, 2nd ed.,&#32;San Diego:&#32;Academic Press, Harcourt, Brace &amp; Company.</cite>&nbsp;</entry>
+  <cite id="Reference-Davis-1994" style="font-style:normal" class="book">Davis, Martin;&#32;Ron Sigal, Elaine J. Weyuker&#32;(1994). Second Edition: Computability, Complexity, and Languages and Logic: Fundamentals of Theoretical Computer Science, 2nd ed.,&#32;San Diego:&#32;Academic Press, Harcourt, Brace &amp; Company.</cite> </entry>
 <entry level="1" type="bullet">
 
  <physical_entity wordnetid="100001930" confidence="0.8">
@@ -1816,7 +1816,7 @@ Martin Davis</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&#32;(2000). Engines of Logic: Mathematicians and the origin of the Computer, 1st edition,&#32;W. W. Norton &amp; Company, New York. ISBN 0-393-32229-7 pbk..</cite>&nbsp;</entry>
+&#32;(2000). Engines of Logic: Mathematicians and the origin of the Computer, 1st edition,&#32;W. W. Norton &amp; Company, New York. ISBN 0-393-32229-7 pbk..</cite> </entry>
 <entry level="1" type="bullet">
 
  Jim Giles, <weblink xlink:type="simple" xlink:href="http://technology.newscientist.com/article/dn12826-simplest-universal-computer-wins-student-25000.html">
@@ -1852,7 +1852,7 @@ Robin Gandy</link></associate>
 Rolf Herken</link>, see below.</entry>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Hennie-1977" style="font-style:normal" class="book">Hennie, Fredrick&#32;(1977). Introduction to Computability.&#32;Addison-Wesley, Reading, Mass.</cite>&nbsp;. On pages 90–103 Hennie discusses the UTM with examples and flow-charts, but no actual 'code'.</entry>
+  <cite id="Reference-Hennie-1977" style="font-style:normal" class="book">Hennie, Fredrick&#32;(1977). Introduction to Computability.&#32;Addison-Wesley, Reading, Mass.</cite> . On pages 90–103 Hennie discusses the UTM with examples and flow-charts, but no actual 'code'.</entry>
 <entry level="1" type="bullet">
 
  <person wordnetid="100007846" confidence="0.9508927676800064">
@@ -1864,7 +1864,7 @@ Stephen Hawking</link></scientist>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><link>
-Rolf Herken</link>. The Universal Turing Machine—A Half-Century Survey.&#32;Springer Verlag. ISBN 3-211-82637-8.</cite>&nbsp;</entry>
+Rolf Herken</link>. The Universal Turing Machine—A Half-Century Survey.&#32;Springer Verlag. ISBN 3-211-82637-8.</cite> </entry>
 <entry level="1" type="bullet">
 
  <person wordnetid="100007846" confidence="0.9508927676800064">
@@ -1907,10 +1907,10 @@ Jeffrey Ullman</link></scholar>
 </person>
 </physical_entity>
 </peer>
-,&#32;(1979). Introduction to Automata Theory, Languages and Computation, 1st edition,&#32;Addison-Wesley, Reading Mass. ISBN 0-201-02988-X..</cite>&nbsp; A difficult book. Centered around the issues of machine-interpretation of "languages", NP-Completeness, etc.</entry>
+,&#32;(1979). Introduction to Automata Theory, Languages and Computation, 1st edition,&#32;Addison-Wesley, Reading Mass. ISBN 0-201-02988-X..</cite>  A difficult book. Centered around the issues of machine-interpretation of "languages", NP-Completeness, etc.</entry>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Hopcroft-2001" style="font-style:normal" class="book">Hopcroft, John E.;&#32;Rajeev Motwani, Jeffrey D. Ullman&#32;(2001). Introduction to Automata Theory, Languages, and Computation, 2nd ed.,&#32;Reading Mass:&#32;Addison-Wesley.</cite>&nbsp; Distinctly different and less intimidating than the first edition.</entry>
+  <cite id="Reference-Hopcroft-2001" style="font-style:normal" class="book">Hopcroft, John E.;&#32;Rajeev Motwani, Jeffrey D. Ullman&#32;(2001). Introduction to Automata Theory, Languages, and Computation, 2nd ed.,&#32;Reading Mass:&#32;Addison-Wesley.</cite>  Distinctly different and less intimidating than the first edition.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../805/28805.xml">
@@ -1918,7 +1918,7 @@ Stephen Kleene</link> (1952), <it>Introduction to Metamathematics</it>, North-Ho
 <entry level="1" type="bullet">
 
   <cite id="Reference-[[Knuth]]-1973" style="font-style:normal" class="book"><link xlink:type="simple" xlink:href="../211/17211.xml">
-Knuth</link>, Donald E.&#32;(1973). Volume 1/Fundamental Algorithms: The Art of computer Programming, 2nd ed.,&#32;Reading, Mass.:&#32;Addison-Wesley Publishing Company.</cite>&nbsp;. With reference to the role of Turing machines in the development of computation (both hardware and software) see 1.4.5 <it>History and Bibliography</it> pp. 225ff and 2.6 <it>History and Bibliography</it>pp. 456ff.</entry>
+Knuth</link>, Donald E.&#32;(1973). Volume 1/Fundamental Algorithms: The Art of computer Programming, 2nd ed.,&#32;Reading, Mass.:&#32;Addison-Wesley Publishing Company.</cite> . With reference to the role of Turing machines in the development of computation (both hardware and software) see 1.4.5 <it>History and Bibliography</it> pp. 225ff and 2.6 <it>History and Bibliography</it>pp. 456ff.</entry>
 <entry level="1" type="bullet">
 
  <person wordnetid="100007846" confidence="0.9508927676800064">
@@ -1970,7 +1970,7 @@ Christos Papadimitriou</link></scholar>
 </person>
 </peer>
 </physical_entity>
-&#32;(1993). Computational Complexity, 1st edition,&#32;Addison Wesley. ISBN 0-201-53082-1.</cite>&nbsp; Chapter 2: Turing machines, pp.19–56.</entry>
+&#32;(1993). Computational Complexity, 1st edition,&#32;Addison Wesley. ISBN 0-201-53082-1.</cite>  Chapter 2: Turing machines, pp.19–56.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../382/362382.xml">
@@ -1986,7 +1986,7 @@ Emil Post</link> (1947), "Recursive Unsolvability of a Problem of Thue", <it>Jou
 <link xlink:type="simple" xlink:href="../193/26193.xml">
 Roger Penrose</link></scientist>
 </person>
-&#32;(1989, 1990). The Emperor's New Mind, 2nd edition,&#32;Oxford University Press, New York. ISBN 0-19-851973-7.</cite>&nbsp;</entry>
+&#32;(1989, 1990). The Emperor's New Mind, 2nd edition,&#32;Oxford University Press, New York. ISBN 0-19-851973-7.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -2000,7 +2000,7 @@ Ivars Peterson</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&#32;(1988). The Mathematical Tourist: Snapshots of Modern Mathematics, 1st edition,&#32;W. H. Freeman and Company, New York. ISBN 0-7167-2064-7 (pbk.).</cite>&nbsp;</entry>
+&#32;(1988). The Mathematical Tourist: Snapshots of Modern Mathematics, 1st edition,&#32;W. H. Freeman and Company, New York. ISBN 0-7167-2064-7 (pbk.).</cite> </entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://web.archive.org/web/20050308141040/http://www.imt.ro/Romjist/Volum1/Vol1_3/turing.htm">
@@ -2018,10 +2018,10 @@ Michael Sipser</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>&nbsp; Chapter 3: The Church-Turing Thesis, pp.125–149.</entry>
+&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>  Chapter 3: The Church-Turing Thesis, pp.125–149.</entry>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Stone-1972" style="font-style:normal" class="book">Stone, Harold S.&#32;(1972). Introduction to Computer Organization and Data Structures, 1st ed.,&#32;New York:&#32;McGraw-Hill Book Company. ISBN 0-07-061726-0.</cite>&nbsp;</entry>
+  <cite id="Reference-Stone-1972" style="font-style:normal" class="book">Stone, Harold S.&#32;(1972). Introduction to Computer Organization and Data Structures, 1st ed.,&#32;New York:&#32;McGraw-Hill Book Company. ISBN 0-07-061726-0.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -2043,10 +2043,10 @@ Paul Strathern</link></educator>
 </person>
 </communicator>
 </physical_entity>
-. Turing and the Computer—The Big Idea.&#32;Anchor Books/Doubleday. ISBN 0-385-49243-X.</cite>&nbsp;</entry>
+. Turing and the Computer—The Big Idea.&#32;Anchor Books/Doubleday. ISBN 0-385-49243-X.</cite> </entry>
 <entry level="1" type="bullet">
 
-   <cite id="CITEREFTuring2009" style="font-style:normal">Turing, A.M.&#32;(1936),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>42</b>:  230-65, 1937</cite>&nbsp; (and  <cite id="CITEREFTuring1937" style="font-style:normal">Turing, A.M.&#32;(1937),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem: A correction",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>43</b>:  544-6</cite>&nbsp;).  Reprinted in many collections, e.g. in <it>The Undecidable</it> pp.115–154; available on the web in many places, e.g. <weblink xlink:type="simple" xlink:href="http://www.scribd.com/doc/2937039/Alan-M-Turing-On-Computable-Numbers">
+   <cite id="CITEREFTuring2009" style="font-style:normal">Turing, A.M.&#32;(1936),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>42</b>:  230-65, 1937</cite>  (and  <cite id="CITEREFTuring1937" style="font-style:normal">Turing, A.M.&#32;(1937),&#32;"On Computable Numbers, with an Application to the Entscheidungsproblem: A correction",&#32;<it>Proceedings of the London Mathematical Society</it>, 2&#32;<b>43</b>:  544-6</cite> ).  Reprinted in many collections, e.g. in <it>The Undecidable</it> pp.115–154; available on the web in many places, e.g. <weblink xlink:type="simple" xlink:href="http://www.scribd.com/doc/2937039/Alan-M-Turing-On-Computable-Numbers">
 at Scribd</weblink>.</entry>
 <entry level="1" type="bullet">
 

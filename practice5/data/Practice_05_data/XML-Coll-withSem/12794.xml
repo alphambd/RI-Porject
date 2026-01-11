@@ -79,7 +79,7 @@ BGP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -92,7 +92,7 @@ DHCP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -101,8 +101,8 @@ DNS</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../289/53289.xml">
-FTP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../289/53289.xml">
+FTP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -115,7 +115,7 @@ Gopher</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -124,7 +124,7 @@ GTP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
@@ -141,7 +141,7 @@ HTTP</link></system_of_measurement>
 </protocol>
 </information>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -150,7 +150,7 @@ IMAP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -159,7 +159,7 @@ IRC</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -172,7 +172,7 @@ NNTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -185,7 +185,7 @@ NTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -194,7 +194,7 @@ POP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -207,7 +207,7 @@ RIP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -216,7 +216,7 @@ RPC</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -225,7 +225,7 @@ RTCP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -238,7 +238,7 @@ RTP</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -247,7 +247,7 @@ RTSP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·    <message wordnetid="106598915" confidence="0.8">
+ ·    <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -262,7 +262,7 @@ SDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -275,7 +275,7 @@ SIP</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -284,7 +284,7 @@ SMTP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -297,8 +297,8 @@ SNMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../215/29215.xml">
-SOAP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../215/29215.xml">
+SOAP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -311,8 +311,8 @@ SSH</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../813/187813.xml">
-SSL</link> &nbsp;· <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../813/187813.xml">
+SSL</link>  · <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -325,8 +325,8 @@ STUN</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;· <link xlink:type="simple" xlink:href="../062/31062.xml">
-Telnet</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../062/31062.xml">
+Telnet</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -339,8 +339,8 @@ TLS</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
- &nbsp;· <link xlink:type="simple" xlink:href="../455/192455.xml">
-XMPP</link> &nbsp;·    
+  · <link xlink:type="simple" xlink:href="../455/192455.xml">
+XMPP</link>  ·    
 Application layer protocols|(more)</p>
 </col>
 </row>
@@ -352,7 +352,7 @@ Transport Layer</link></header>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../538/30538.xml">
-TCP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+TCP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -365,7 +365,7 @@ UDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -374,7 +374,7 @@ DCCP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -387,7 +387,7 @@ SCTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -396,7 +396,7 @@ RSVP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -405,7 +405,7 @@ ECN</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  
+ ·  
 Transport layer protocols|(more)</col>
 </row>
 <row>
@@ -437,7 +437,7 @@ IPv4</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -446,7 +446,7 @@ IPv6</link></rule>
 </direction>
 </protocol>
 </message>
-)&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+) ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -459,7 +459,7 @@ ICMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -468,7 +468,7 @@ ICMPv6</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -481,7 +481,7 @@ IGMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -490,7 +490,7 @@ IPsec</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;· 
+ · 
 Internet Layer protocols|(more)</col>
 </row>
 <row>
@@ -513,7 +513,7 @@ ARP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -526,7 +526,7 @@ RARP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -539,7 +539,7 @@ NDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -552,8 +552,8 @@ OSPF</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../738/1272738.xml">
-Tunnels</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../738/1272738.xml">
+Tunnels</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -566,8 +566,8 @@ Media Access Control</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../101/9101.xml">
-Device Driver</link>s &nbsp;·  
+ ·  <link xlink:type="simple" xlink:href="../101/9101.xml">
+Device Driver</link>s  ·  
 Link protocols|(more)</col>
 </row>
 
@@ -1573,7 +1573,7 @@ ViolaWWW</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -1590,13 +1590,13 @@ Erwise</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../418/49418.xml">
 MidasWWW</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../257/12328257.xml">
 MacWWW</link></software>
- (Samba)&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ (Samba) ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -1625,7 +1625,7 @@ Libwww Line-mode</link></coding_system>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../303/43303.xml">
 NCSA Mosaic</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -1652,10 +1652,10 @@ Cello</link></coding_system>
 </person>
 </application>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../529/18529.xml">
 Lynx</link></software>
- (2.0)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ (2.0) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../828/256828.xml">
 Arena</link></software>
 </col>
@@ -1684,19 +1684,19 @@ IBM WebExplorer</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../863/21863.xml">
 Netscape Navigator</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../598/1331598.xml">
 MicroMind SlipKnot</link></software>
- (1.0)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ (1.0) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../265/1220265.xml">
 TradeWave MacWeb</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../248/81248.xml">
 IBrowse</link></software>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <editor wordnetid="110044879" confidence="0.8">
@@ -1709,8 +1709,8 @@ Navipress</link></causal_agent>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <link xlink:type="simple" xlink:href="../725/5343725.xml">
-Argo</link>&nbsp;·  <music wordnetid="107020895" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../725/5343725.xml">
+Argo</link> ·  <music wordnetid="107020895" confidence="0.8">
 <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
@@ -1735,8 +1735,8 @@ Minuet</link></musical_composition>
 </application>
 </software>
 </music>
-&nbsp;·  <link xlink:type="simple" xlink:href="../861/5850861.xml">
-Internet in a Box</link>&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../861/5850861.xml">
+Internet in a Box</link> ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../861/774861.xml">
 Spyglass Mosaic</link></institution>
@@ -1753,17 +1753,17 @@ Spyglass Mosaic</link></institution>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../215/15215.xml#xpointer(//*[./st=%22Version+1%22])">
 Internet Explorer 1.0</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../863/21863.xml">
 Netscape Navigator 2.0</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../411/241411.xml">
 OmniWeb</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../711/452711.xml">
-WebRouser</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../711/452711.xml">
+WebRouser</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/447458.xml">
 Sun WebRunner</link></software>
- (HotJava)&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ (HotJava) ·  <work wordnetid="100575741" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106359877" confidence="0.8">
@@ -1792,10 +1792,10 @@ Grail</link></activity>
 </written_communication>
 </application>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../402/1956402.xml">
 Internet Explorer 2</link></software>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../744/1874744.xml">
 Delrina</link></company>
  <music wordnetid="107020895" confidence="0.8">
@@ -1835,35 +1835,35 @@ Cyberjack</link></musical_composition>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../793/2845793.xml">
 Arachne 1.0</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../399/1956399.xml">
 Internet Explorer 3.0</link></software>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../979/21979.xml">
 Netscape</link></company>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../863/21863.xml">
 Navigator 3.0</link></software>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../484/538484.xml">
 Opera Software</link></company>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link>
 Opera</link></software>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/22591.xml">
 Oracle</link></company>
  <link xlink:type="simple" xlink:href="../267/5850267.xml">
-PowerBrowser</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+PowerBrowser</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../886/166886.xml">
 Apple Cyberdog</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../869/685869.xml">
 INRIA Amaya</link></software>
- (.9)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ (.9) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../247/81247.xml">
 AWeb</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../249/81249.xml">
 VaporWare Voyager</link></software>
 </col>
@@ -1890,10 +1890,10 @@ Browser wars</link></competition>
 </event>
 </group_action>
 </military_action>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../567/13567.xml">
 HyperCard</link></software>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -1906,8 +1906,8 @@ Gopher</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../738/9738.xml">
-E-mail</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../738/9738.xml">
+E-mail</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1918,29 +1918,29 @@ Elm</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../063/34063.xml">
-Web page</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../063/34063.xml">
+Web page</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../849/41849.xml">
 Viewdata</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../240/1926240.xml">
 Teletext</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../882/112882.xml">
 Videotex</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -1955,7 +1955,7 @@ X.25</link></advice>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -1968,7 +1968,7 @@ Aliweb</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <representation wordnetid="105926676" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -1979,15 +1979,15 @@ ASCII</link></rule>
 </representation>
 </protocol>
 </message>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../191/13191.xml">
 HyperText Markup Language</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../497/3638497.xml">
-HyTelnet</link>&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../497/3638497.xml">
+HyTelnet</link> ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../679/101679.xml">
 Virtual Reality Markup Language</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../289/53289.xml">
-File Transfer Protocol</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../289/53289.xml">
+File Transfer Protocol</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -2000,9 +2000,9 @@ TELNET</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../576/1648576.xml">
-NLS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../835/6853835.xml">
-NCSA Telnet</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../576/1648576.xml">
+NLS</link> ·  <link xlink:type="simple" xlink:href="../835/6853835.xml">
+NCSA Telnet</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -2011,7 +2011,7 @@ UUCP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -2044,9 +2044,9 @@ Usenet</link></activity>
 </standard>
 </protocol>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../111/253111.xml">
-ARPANET</link>&nbsp;·  <link xlink:type="simple" xlink:href="../033/18950033.xml">
-BITNET</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../111/253111.xml">
+ARPANET</link> ·  <link xlink:type="simple" xlink:href="../033/18950033.xml">
+BITNET</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <businessperson wordnetid="109882716" confidence="0.8">
 <capitalist wordnetid="109609232" confidence="0.8">
@@ -2059,14 +2059,14 @@ Prodigy</link></supplier>
 </businessperson>
 </person>
 </physical_entity>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../664/77664.xml">
 CompuServe</link></company>
-&nbsp;·  <invention wordnetid="105633385" confidence="0.8">
+ ·  <invention wordnetid="105633385" confidence="0.8">
 <link xlink:type="simple" xlink:href="../139/33139.xml">
 World Wide Web</link></invention>
-&nbsp;·  <link xlink:type="simple" xlink:href="../531/5786531.xml">
-Whole Internet User's Guide and Catalog</link>&nbsp;·  <link xlink:type="simple" xlink:href="../305/17049305.xml">
+ ·  <link xlink:type="simple" xlink:href="../531/5786531.xml">
+Whole Internet User's Guide and Catalog</link> ·  <link xlink:type="simple" xlink:href="../305/17049305.xml">
  3D Markup Language for Web</link></col>
 </row>
 </table>
@@ -2108,50 +2108,50 @@ Active clients</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../793/2845793.xml">
 Arachne</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../552/17703552.xml">
 AT&amp;T Pogo</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/191862.xml">
 Camino</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../906/1172906.xml">
 Conkeror</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../098/859098.xml">
 ELinks</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../278/224278.xml">
 Epiphany</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../364/18915364.xml">
-Fennec</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../364/18915364.xml">
+Fennec</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../122/2734122.xml">
 Flock</link></software>
-&nbsp;· <software wordnetid="106566077" confidence="0.9508927676800064">
+ · <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../055/13055.xml">
 Galeon</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/7404018.xml">
 Gnuzilla</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../439/17439.xml">
 K-Meleon</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../439/17439.xml#xpointer(//*[./st=%22K-Ninja%22])">
 K-Ninja</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../662/622662.xml">
 Kazehakase</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../529/18529.xml">
 Lynx</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../440/1257440.xml">
 Minimo</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../163/5790163.xml">
 Mothra</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -2185,14 +2185,14 @@ Mozilla Firefox</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/1590193.xml">
 SeaMonkey</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../963/36963.xml">
 Skipstone</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../086/3606086.xml">
-Sleipnir</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../086/3606086.xml">
+Sleipnir</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -2203,14 +2203,14 @@ Songbird</link></causal_agent>
 </player>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../663/19004663.xml">
-Overbite (Firefox extension)</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../663/19004663.xml">
+Overbite (Firefox extension)</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../078/14025078.xml">
 VMS Mosaic</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../116/34116.xml">
 W3m</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../234/4463234.xml">
 XeroBank Browser</link></software>
 </col>
@@ -2223,10 +2223,10 @@ XeroBank Browser</link></software>
 Discontinued clients</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../725/5343725.xml">
-Argo</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Argo</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/56304.xml">
 Beonex Communicator</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -2253,7 +2253,7 @@ Cello</link></coding_system>
 </person>
 </application>
 </physical_entity>
-&nbsp;·  <music wordnetid="107020895" confidence="0.8">
+ ·  <music wordnetid="107020895" confidence="0.8">
 <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
@@ -2278,13 +2278,13 @@ Cyberjack</link></musical_composition>
 </application>
 </software>
 </music>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../665/1569665.xml">
 DocZilla</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../248/81248.xml">
 IBrowse</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../215/15215.xml">
 Internet Explorer</link></software>
  <software wordnetid="106566077" confidence="0.9508927676800064">
@@ -2332,7 +2332,7 @@ Internet Explorer</link></software>
 , <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../328/1144328.xml">
 for Mac</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -2349,10 +2349,10 @@ Libwww Line-mode</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../927/1430927.xml">
 Madfox</link></software>
-&nbsp;·  <music wordnetid="107020895" confidence="0.8">
+ ·  <music wordnetid="107020895" confidence="0.8">
 <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
@@ -2377,25 +2377,25 @@ Minuet</link></musical_composition>
 </application>
 </software>
 </music>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../303/43303.xml">
 Mosaic</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../151/2096151.xml">
 Mozilla Application Suite</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../197/1242197.xml">
 Netscape Browser</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../645/104645.xml">
 Netscape Communicator</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../863/21863.xml">
 Netscape Navigator</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../389/10843389.xml">
 9</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../598/1331598.xml">
 SlipKnot</link></software>
 </col>
@@ -2408,8 +2408,8 @@ SlipKnot</link></software>
 Server software</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../465/3549465.xml">
-Bucktooth</link>&nbsp;·  <link xlink:type="simple" xlink:href="../817/3559817.xml">
-PyGopherd</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Bucktooth</link> ·  <link xlink:type="simple" xlink:href="../817/3559817.xml">
+PyGopherd</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../620/205620.xml">
 Squid</link></software>
 </col>
@@ -2422,9 +2422,9 @@ Squid</link></software>
 See also</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../024/3353024.xml">
-Cameron Kaiser</link>&nbsp;·  <link xlink:type="simple" xlink:href="../064/3560064.xml">
-Gopher+</link>&nbsp;·  <link xlink:type="simple" xlink:href="../175/3563175.xml">
-GopherVR</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+Cameron Kaiser</link> ·  <link xlink:type="simple" xlink:href="../064/3560064.xml">
+Gopher+</link> ·  <link xlink:type="simple" xlink:href="../175/3563175.xml">
+GopherVR</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -2437,8 +2437,8 @@ Jughead</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../486/6948486.xml">
-Phlog</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../486/6948486.xml">
+Phlog</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <businessperson wordnetid="109882716" confidence="0.8">
 <capitalist wordnetid="109609232" confidence="0.8">
@@ -2451,7 +2451,7 @@ Super Dimension Fortress</link></supplier>
 </businessperson>
 </person>
 </physical_entity>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -2464,7 +2464,7 @@ Veronica</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -2477,7 +2477,7 @@ CCSO Nameserver</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">

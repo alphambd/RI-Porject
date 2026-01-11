@@ -1013,16 +1013,16 @@ Major national
 networks</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link>
-Venevisión</link>&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+Venevisión</link> ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../002/4792002.xml">
 Televen</link></network>
-&nbsp;·  <broadcast wordnetid="106254007" confidence="0.9508927676800064">
+ ·  <broadcast wordnetid="106254007" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../083/11462083.xml">
 TVes</link></broadcast>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../667/4802667.xml">
 ViVe</link></network>
-&nbsp;·  <link>
+ ·  <link>
 Venezolana de Televisión</link></col>
 </row>
 <row style="height:2px">
@@ -1034,30 +1034,30 @@ Major commercial
 regional networks</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link>
-Globovisión</link>&nbsp;·  <link>
-Meridiano Televisión</link>&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+Globovisión</link> ·  <link>
+Meridiano Televisión</link> ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../517/4792517.xml">
 La Tele</link></network>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../759/17287759.xml">
 Canal i</link></network>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../959/3033959.xml">
 Vale TV</link></network>
-&nbsp;·  <link xlink:type="simple" xlink:href="../034/1564034.xml">
-teleSUR</link>&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../034/1564034.xml">
+teleSUR</link> ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../661/5737661.xml">
 TVS</link></network>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../454/5654454.xml">
 TVO</link></network>
-&nbsp;·  <link>
-NCTV</link>&nbsp;·  <link>
-Flamingo Televisión</link>&nbsp;·  <link>
-TRT</link>&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <link>
+NCTV</link> ·  <link>
+Flamingo Televisión</link> ·  <link>
+TRT</link> ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../250/6249250.xml">
 Promar</link></network>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -1085,12 +1085,12 @@ Cable and satellite
 channels</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link>
-Americana de Televisión (ATEL)</link>&nbsp;·  <link>
-Asamblea Nacional Televisión (ANTV)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../034/1564034.xml">
-teleSUR</link>&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+Americana de Televisión (ATEL)</link> ·  <link>
+Asamblea Nacional Televisión (ANTV)</link> ·  <link xlink:type="simple" xlink:href="../034/1564034.xml">
+teleSUR</link> ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/4563465.xml">
 RCTV Internacional</link></network>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -1105,7 +1105,7 @@ Sun Channel</link></broadcasting_station>
 </facility>
 </instrumentality>
 </artifact>
-&nbsp;·  <link>
+ ·  <link>
 Venevisión Continental</link></col>
 </row>
 </table>
@@ -1155,7 +1155,7 @@ Africa</link></location>
 Africa Independent Television</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -1170,10 +1170,10 @@ A24 news channel</link></broadcasting_station>
 </facility>
 </instrumentality>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../937/9283937.xml">
 CNBC Africa</link></channel>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <subsidiary_company wordnetid="108003935" confidence="0.8">
@@ -1184,10 +1184,10 @@ CNN International Europe/Middle East/Africa</link></institution>
 </channel>
 </transmission>
 </company>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/237193.xml">
 Euronews</link></channel>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
@@ -1198,11 +1198,11 @@ Orbit News</link></network>
 </transmission>
 </group>
 </system>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../647/11122647.xml">
 Rusiya Al-Yaum</link></channel>
-&nbsp;·  <link xlink:type="simple" xlink:href="../403/13005403.xml">
-SABC News International</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../403/13005403.xml">
+SABC News International</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../884/2290884.xml">
 Nile TV International</link></channel>
 </col>
@@ -1224,7 +1224,7 @@ Asia</link></group>
 <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../987/377987.xml">
 Aaj Tak</link></network>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -1241,20 +1241,20 @@ Al Arabiya</link></broadcasting_station>
 </facility>
 </instrumentality>
 </artifact>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../961/1327961.xml">
 All-Nippon News Network</link></network>
 </group>
 </system>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../200/2436200.xml">
 ABS-CBN News Channel</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../794/2612794.xml">
 Al Jazeera English</link></channel>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <broadcasting_company wordnetid="108002015" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
@@ -1265,7 +1265,7 @@ Al Jazeera Mobasher</link></institution>
 </transmission>
 </broadcasting_company>
 </company>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
@@ -1276,47 +1276,47 @@ Al Jazeera Urdu</link></network>
 </transmission>
 </group>
 </system>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../694/5621694.xml">
 Al-Alam News Network</link></network>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../189/4182189.xml">
 ARY One World</link></network>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../280/6365280.xml">
 ATV News</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../209/6711209.xml">
 CCTV-4</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/2265393.xml">
 CCTV-9</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../453/1793453.xml">
 Channel NewsAsia</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../370/1998370.xml">
 CNBC Arabiya</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../949/226949.xml">
 CNBC Asia</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../935/8221935.xml">
 CNBC Awaaz</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../565/8093565.xml">
 CNBC-TV18</link></channel>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../094/3165094.xml">
 CNBC Pakistan</link></network>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../573/3770573.xml">
 CNN-IBN</link></network>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <subsidiary_company wordnetid="108003935" confidence="0.8">
@@ -1327,7 +1327,7 @@ CNN International Asia Pacific</link></institution>
 </channel>
 </transmission>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <subsidiary_company wordnetid="108003935" confidence="0.8">
@@ -1338,13 +1338,13 @@ CNN International South Asia</link></institution>
 </channel>
 </transmission>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../654/10297654.xml">
 CSB News</link></company>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../674/13741674.xml">
 CTi News</link></channel>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1357,40 +1357,40 @@ CTV News Channel</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/12760264.xml">
 Dawn News</link></network>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../452/13741452.xml">
 Era News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../715/14072715.xml">
 ETtoday</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../645/14072645.xml">
 ETTV News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/237193.xml">
 Euronews</link></channel>
-&nbsp;·  <transmission wordnetid="106251781" confidence="0.8">
+ ·  <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../592/16209592.xml">
 Express News</link></channel>
 </transmission>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../958/10465958.xml">
 FTV News</link></channel>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../656/981656.xml">
 Fuji News Network</link></network>
 </group>
 </system>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../090/10749090.xml">
 GEO News</link></network>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1401,30 +1401,30 @@ IBN-Lokmat</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <transmission wordnetid="106251781" confidence="0.8">
+ ·  <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../210/6166210.xml">
 I-CABLE News Channel (Hong Kong)</link></channel>
 </transmission>
-&nbsp;·  <transmission wordnetid="106251781" confidence="0.8">
+ ·  <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../680/3185680.xml">
 Indus News</link></channel>
 </transmission>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../463/981463.xml">
 Japan News Network</link></network>
 </group>
 </system>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../711/2778711.xml">
 Metro TV</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../397/5480397.xml">
 NDTV 24x7</link></channel>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1435,23 +1435,23 @@ NDTV India</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../935/6704935.xml">
 NDTV Profit</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../136/7255136.xml">
 News One</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../683/7633683.xml">
 Nikkei CNBC</link></channel>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../898/1327898.xml">
 Nippon News Network</link></network>
 </group>
 </system>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
@@ -1462,7 +1462,7 @@ Orbit News</link></network>
 </transmission>
 </group>
 </system>
-&nbsp;·   <artifact wordnetid="100021939" confidence="0.8">
+ ·   <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1473,23 +1473,23 @@ Phoenix InfoNews Channel</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../963/10945963.xml">
 Press TV</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../647/11122647.xml">
 Rusiya Al-Yaum</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../954/11197954.xml">
 SET News</link></channel>
-&nbsp;·  <link xlink:type="simple" xlink:href="../983/5893983.xml">
-STAR Ananda</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../983/5893983.xml">
+STAR Ananda</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../210/11942210.xml">
 Star Majha</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../122/2985122.xml">
 STAR News</link></channel>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1502,7 +1502,7 @@ TTV Finance</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1513,7 +1513,7 @@ TV9 (Kannada)</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1524,7 +1524,7 @@ TV9 (Telugu)</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
@@ -1535,17 +1535,17 @@ TVB News</link></medium>
 </transmission>
 </instrumentality>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/11198297.xml">
 TVBS-NEWS</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../603/14072603.xml">
 Unique Business News</link></channel>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../672/3043672.xml">
 YTN</link></network>
-&nbsp;·  <link xlink:type="simple" xlink:href="../394/990394.xml">
-Zee News</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../394/990394.xml">
+Zee News</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1556,7 +1556,7 @@ Zee 24 Taas</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../935/13324935.xml">
 24 Ghanta</link></channel>
 </col>
@@ -1584,43 +1584,43 @@ Europe</link></col>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../861/2257861.xml">
 Antena 3 (Romania)</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../613/37613.xml">
 BBC World News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../853/4748853.xml">
 BFM TV</link></channel>
-&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../236/3532236.xml">
 Canal 24 Horas</link></network>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../389/11848389.xml">
 Class CNBC</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../971/16866971.xml">
 Class News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../947/226947.xml">
 CNBC Europe</link></channel>
-&nbsp;·  <link>
-ČT24</link>&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <link>
+ČT24</link> ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../259/292259.xml">
 Deutsche Welle</link></network>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/237193.xml">
 Euronews</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../244/1263244.xml">
 France 24</link></channel>
-&nbsp;·  <link xlink:type="simple" xlink:href="../095/9584095.xml">
-I-Tele</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../095/9584095.xml">
+I-Tele</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../387/4586387.xml">
 Kanal 5 (Ukraine)</link></channel>
-&nbsp;·  <link>
-LCI</link>&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <link>
+LCI</link> ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
@@ -1631,7 +1631,7 @@ Orbit News</link></network>
 </transmission>
 </group>
 </system>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
@@ -1642,31 +1642,31 @@ RBC TV</link></network>
 </transmission>
 </group>
 </system>
-&nbsp;·   <link xlink:type="simple" xlink:href="../237/8408237.xml">
-Rai News 24</link>&nbsp;·  <link>
-RTÉ News Now</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·   <link xlink:type="simple" xlink:href="../237/8408237.xml">
+Rai News 24</link> ·  <link>
+RTÉ News Now</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../001/12813001.xml">
 RTPN</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../647/11122647.xml">
 Rusiya Al-Yaum</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../956/5417956.xml">
 Russia Today</link></channel>
-&nbsp;·  <link>
-SIC Notícias</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <link>
+SIC Notícias</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../355/216355.xml">
 Sky News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../070/7397070.xml">
 SKY TG24</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../473/1791473.xml">
 TVN 24</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../649/15163649.xml">
 TVP Info</link></channel>
-&nbsp;·  <link xlink:type="simple" xlink:href="../083/18785083.xml">
+ ·  <link xlink:type="simple" xlink:href="../083/18785083.xml">
 Vesti</link></col>
 </row>
 <row style="height:2px">
@@ -1686,25 +1686,25 @@ North America</link></group>
 <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../254/1930254.xml">
 ABC News Now</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../777/1974777.xml">
 Bloomberg Television</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../441/223441.xml">
 CNBC</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../427/2372427.xml">
 CNBC World</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../028/62028.xml">
 CNN</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../733/1261733.xml">
 CNN Airport Network</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../941/904941.xml">
 CNN International</link></channel>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <subsidiary_company wordnetid="108003935" confidence="0.8">
@@ -1715,25 +1715,25 @@ CNN International North America</link></institution>
 </channel>
 </transmission>
 </company>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/237193.xml">
 Euronews</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../235/9395235.xml">
 Fox Business Network</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../121/11121.xml">
 Fox News Channel</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../610/323610.xml">
 Headline News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../056/3701056.xml">
 HD News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../846/159846.xml">
 MSNBC</link></channel>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -1761,19 +1761,19 @@ Oceania</link></group>
 <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/237193.xml">
 Euronews</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../471/2780471.xml">
 SBS World News Channel</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../463/853463.xml">
 Sky News Australia</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../841/14014841.xml">
 Sky News Business Channel</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../376/6491376.xml">
 Sky News New Zealand</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../796/6257796.xml">
 TVNZ 7</link></channel>
 </col>
@@ -1795,12 +1795,12 @@ South America</link></group>
 <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../759/17287759.xml">
 Canal i</link></network>
-&nbsp;·  <transmission wordnetid="106251781" confidence="0.8">
+ ·  <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <link xlink:type="simple" xlink:href="../018/16608018.xml">
 Canal 5 Noticias</link></channel>
 </transmission>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1815,11 +1815,11 @@ Canal N</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <link>
-CNN en Español</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <link>
+CNN en Español</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../938/15760938.xml">
 CNN Chile</link></channel>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <transmission wordnetid="106251781" confidence="0.8">
 <channel wordnetid="106259898" confidence="0.8">
 <subsidiary_company wordnetid="108003935" confidence="0.8">
@@ -1830,15 +1830,15 @@ CNN International in Latin America</link></institution>
 </channel>
 </transmission>
 </company>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/237193.xml">
 Euronews</link></channel>
-&nbsp;·  <link>
-Globovisión</link>&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+ ·  <link>
+Globovisión</link> ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/13467383.xml">
 Record News</link></network>
-&nbsp;· <link xlink:type="simple" xlink:href="../034/1564034.xml">
-teleSUR</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../034/1564034.xml">
+teleSUR</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../323/511323.xml">
 24H</link></channel>
 </col>

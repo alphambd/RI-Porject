@@ -54,11 +54,11 @@ NOMO1</weblink>; Nomo; PM5</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=609157">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=609157">
 609157</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2385850">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2385850">
 2385850</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=13810">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=13810">
 13810</weblink></col>
 </row>
 
@@ -201,7 +201,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cell.2006.03.032">
-10.1016/j.cell.2006.03.032</weblink>. PMID 16713569.</cite>&nbsp;</entry>
+10.1016/j.cell.2006.03.032</weblink>. PMID 16713569.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Pope SN, Lee IR&#32;(2005).&#32;"Yeast two-hybrid identification of prostatic proteins interacting with human sex hormone-binding globulin.". <it>J. Steroid Biochem. Mol. Biol.</it>&#32;<b>94</b>&#32;(1-3): 203–8. <document wordnetid="106470073" confidence="0.8">
@@ -212,7 +212,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.jsbmb.2005.01.007">
-10.1016/j.jsbmb.2005.01.007</weblink>. PMID 15862967.</cite>&nbsp;</entry>
+10.1016/j.jsbmb.2005.01.007</weblink>. PMID 15862967.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Martin J, Han C, Gordon LA, et al.&#32;(2005).&#32;"The sequence and analysis of duplication-rich human chromosome 16.". <it>Nature</it>&#32;<b>432</b>&#32;(7020): 988–94. <document wordnetid="106470073" confidence="0.8">
@@ -223,7 +223,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature03187">
-10.1038/nature03187</weblink>. PMID 15616553.</cite>&nbsp;</entry>
+10.1038/nature03187</weblink>. PMID 15616553.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Haffner C, Frauli M, Topp S, et al.&#32;(2005).&#32;"Nicalin and its binding partner Nomo are novel Nodal signaling antagonists.". <it>EMBO J.</it>&#32;<b>23</b>&#32;(15): 3041–50. <document wordnetid="106470073" confidence="0.8">
@@ -234,7 +234,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fsj.emboj.7600307">
-10.1038/sj.emboj.7600307</weblink>. PMID 15257293.</cite>&nbsp;</entry>
+10.1038/sj.emboj.7600307</weblink>. PMID 15257293.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Colland F, Jacq X, Trouplin V, et al.&#32;(2004).&#32;"Functional proteomics mapping of a human signaling pathway.". <it>Genome Res.</it>&#32;<b>14</b>&#32;(7): 1324–32. <document wordnetid="106470073" confidence="0.8">
@@ -245,7 +245,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2334104">
-10.1101/gr.2334104</weblink>. PMID 15231748.</cite>&nbsp;</entry>
+10.1101/gr.2334104</weblink>. PMID 15231748.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Lehner B, Sanderson CM&#32;(2004).&#32;"A protein interaction framework for human mRNA degradation.". <it>Genome Res.</it>&#32;<b>14</b>&#32;(7): 1315–23. <document wordnetid="106470073" confidence="0.8">
@@ -256,7 +256,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2122004">
-10.1101/gr.2122004</weblink>. PMID 15231747.</cite>&nbsp;</entry>
+10.1101/gr.2122004</weblink>. PMID 15231747.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -267,7 +267,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Loftus BJ, Kim UJ, Sneddon VP, et al.&#32;(1999).&#32;"Genome duplications and other features in 12 Mb of DNA sequence from human chromosome 16p and 16q.". <it>Genomics</it>&#32;<b>60</b>&#32;(3): 295–308. <document wordnetid="106470073" confidence="0.8">
@@ -278,16 +278,16 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fgeno.1999.5927">
-10.1006/geno.1999.5927</weblink>. PMID 10493829.</cite>&nbsp;</entry>
+10.1006/geno.1999.5927</weblink>. PMID 10493829.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">van Soest S, Swart J, Tijmes N, et al.&#32;(1997).&#32;"A locus for autosomal recessive pseudoxanthoma elasticum, with penetrance of vascular symptoms in carriers, maps to chromosome 16p13.1.". <it>Genome Res.</it>&#32;<b>7</b>&#32;(8): 830–4. PMID 9267806.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">van Soest S, Swart J, Tijmes N, et al.&#32;(1997).&#32;"A locus for autosomal recessive pseudoxanthoma elasticum, with penetrance of vascular symptoms in carriers, maps to chromosome 16p13.1.". <it>Genome Res.</it>&#32;<b>7</b>&#32;(8): 830–4. PMID 9267806.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Matoba R, Okubo K, Hori N, et al.&#32;(1994).&#32;"The addition of 5'-coding information to a 3'-directed cDNA library improves analysis of gene expression.". <it>Gene</it>&#32;<b>146</b>&#32;(2): 199–207. PMID 8076819.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Matoba R, Okubo K, Hori N, et al.&#32;(1994).&#32;"The addition of 5'-coding information to a 3'-directed cDNA library improves analysis of gene expression.". <it>Gene</it>&#32;<b>146</b>&#32;(2): 199–207. PMID 8076819.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Templeton NS, Rodgers LA, Levy AT, et al.&#32;(1992).&#32;"Cloning and characterization of a novel human cDNA that has DNA similarity to the conserved region of the collagenase gene family.". <it>Genomics</it>&#32;<b>12</b>&#32;(1): 175–6. PMID 1310294.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Templeton NS, Rodgers LA, Levy AT, et al.&#32;(1992).&#32;"Cloning and characterization of a novel human cDNA that has DNA similarity to the conserved region of the collagenase gene family.". <it>Genomics</it>&#32;<b>12</b>&#32;(1): 175–6. PMID 1310294.</cite> </entry>
 </list>
 </p>
 

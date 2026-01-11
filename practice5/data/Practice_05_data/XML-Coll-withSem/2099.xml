@@ -48,7 +48,7 @@ Programmer</occupation>
 <nationality>
 Australian</nationality>
 <birth_date>
-28 February 1967 (1967-02-28) (age&nbsp;42)</birth_date>
+28 February 1967 (1967-02-28) (age 42)</birth_date>
 <name>
 Andrew Tridgell</name>
 <employer>
@@ -429,19 +429,19 @@ Rick Adams</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../189/165189.xml">
 Eric Allman</link></programmer>
 </person>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../234/473234.xml">
 Brian Behlendorf</link></programmer>
 </person>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
@@ -455,13 +455,13 @@ Keith Bostic</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../013/18951013.xml">
 Alan Cox</link></programmer>
 </person>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
@@ -477,19 +477,19 @@ Matthias Ettrich</link></scientist>
 </computer_user>
 </person>
 </physical_entity>
- &nbsp;·  
+  ·  
 <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <developer wordnetid="110010062" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../757/20757.xml">
 Miguel de Icaza</link></developer>
 </celebrity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../270/356270.xml">
 Theo de Raadt</link></scientist>
 </person>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
@@ -503,7 +503,7 @@ Jim Gettys</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
@@ -517,11 +517,11 @@ John Gilmore</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../232/1438232.xml">
 Jon "maddog" Hall</link></person>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
@@ -539,7 +539,7 @@ Jordan Hubbard</link></employee>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
@@ -568,11 +568,11 @@ William Jolitz</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../496/54496.xml">
 Lawrence Lessig</link></person>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
@@ -594,27 +594,27 @@ Marshall Kirk McKusick</link></scholar>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/383972.xml">
 Eben Moglen</link></celebrity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../851/14851.xml">
 Ian Murdock</link></programmer>
 </person>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../115/410115.xml">
 Tim O'Reilly</link></person>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../129/761129.xml">
 Keith Packard</link></programmer>
 </person>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
@@ -628,7 +628,7 @@ Brian Paul</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -638,27 +638,27 @@ Bruce Perens</link></causal_agent>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../469/9469.xml">
 Eric S. Raymond</link></person>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../943/1362943.xml">
 Bob Scheifler</link></person>
-&nbsp;·  
+ ·  
 <entrepreneur wordnetid="110060352" confidence="0.9173553029164789">
 <astronaut wordnetid="109818022" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../962/604962.xml">
 Mark Shuttleworth</link></astronaut>
 </entrepreneur>
-&nbsp;·  
+ ·  
 <president wordnetid="110468559" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../143/3434143.xml">
 Richard Stallman</link></person>
 </president>
-&nbsp;·  
+ ·  
 <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
@@ -666,17 +666,17 @@ Richard Stallman</link></person>
 Linus Torvalds</link></programmer>
 </person>
 </celebrity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../724/1034724.xml">
 Theodore Ts'o</link></person>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../90s/2090s.xml">
 Andrew Tridgell</link></programmer>
 </person>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <writer wordnetid="110794014" confidence="0.9173553029164789">
@@ -684,7 +684,7 @@ Andrew Tridgell</link></programmer>
 Guido van Rossum</link></writer>
 </programmer>
 </person>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <writer wordnetid="110794014" confidence="0.9173553029164789">

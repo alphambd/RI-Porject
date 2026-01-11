@@ -321,7 +321,7 @@ Using AVS/Express: A Worldwide Language and Font Support</weblink>".&#32;  AVS A
 2007-10-07</link>.</entry>
 <entry id="3">
  <cite id="CITEREFKomatsuTakabayashiMasui2009" style="font-style:normal">Komatsu, Hiroyuki; Takabayashi, Satoru&#32;&amp;&#32;Masui, Toshiyuki&#32;(2003),&#32;<it><weblink xlink:type="simple" xlink:href="http://sciencelinks.jp/j-east/article/200324/000020032403A0822723.php">
-Context-aware Predictive Text Input Method Using Dynamic Abbreviation Expansion</weblink></it>, <b>44</b>, Transactions of Information Processing Society of Japan, .&#32;Retrieved on 12 April 2008</cite>&nbsp;</entry>
+Context-aware Predictive Text Input Method Using Dynamic Abbreviation Expansion</weblink></it>, <b>44</b>, Transactions of Information Processing Society of Japan, .&#32;Retrieved on 12 April 2008</cite> </entry>
 <entry id="4">
 "<weblink xlink:type="simple" xlink:href="http://www.scim-im.org/about/features">
 Features &amp; Goals</weblink>".&#32;  Smart Common Input Method (SCIM) platform project.&#32;Retrieved on <link>
@@ -392,10 +392,10 @@ Graphics</col>
 <component wordnetid="105868954" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../347/2933347.xml">
 Desktop Window Manager</link></component>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../506/8506.xml">
 DirectX</link></software>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -406,7 +406,7 @@ Direct3D</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -417,10 +417,10 @@ GDI</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../979/1707979.xml">
-Windows Presentation Foundation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../017/9859017.xml">
-Windows Color System</link>&nbsp;·  <link xlink:type="simple" xlink:href="../237/4092237.xml">
-Windows Image Acquisition</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../979/1707979.xml">
+Windows Presentation Foundation</link> ·  <link xlink:type="simple" xlink:href="../017/9859017.xml">
+Windows Color System</link> ·  <link xlink:type="simple" xlink:href="../237/4092237.xml">
+Windows Image Acquisition</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -453,7 +453,7 @@ DirectSound</link></room>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -464,7 +464,7 @@ DirectMusic</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <architecture wordnetid="102734725" confidence="0.8">
@@ -473,7 +473,7 @@ DirectX plugin</link></architecture>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -490,7 +490,7 @@ XACT</link></room>
 </instrumentality>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../587/3965587.xml">
+ ·  <link xlink:type="simple" xlink:href="../587/3965587.xml">
 Speech API</link></col>
 </row>
 <row style="height:2px">
@@ -509,8 +509,8 @@ DirectShow</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <link xlink:type="simple" xlink:href="../787/4453787.xml">
-DirectX Media Objects</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../787/4453787.xml">
+DirectX Media Objects</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -521,8 +521,8 @@ DirectX Video Acceleration</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../206/441206.xml">
-Windows Media</link>&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../206/441206.xml">
+Windows Media</link> ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -531,7 +531,7 @@ Media Foundation</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -562,7 +562,7 @@ MSHTML</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106359877" confidence="0.8">
@@ -577,7 +577,7 @@ MSXML</link></parser>
 </written_communication>
 </program>
 </software>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -586,10 +586,10 @@ RSS Platform</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../872/263872.xml">
 JScript</link></programming_language>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -602,14 +602,14 @@ VBScript</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../726/910726.xml">
 BHO</link></format>
 </information>
 </message>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -620,7 +620,7 @@ XMLHttpRequest</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -645,7 +645,7 @@ Data access</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../152/2263152.xml">
 Microsoft Data Access Components</link></software>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -658,9 +658,9 @@ Extensible Storage Engine</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
-ADO.NET</link>&nbsp;·  <link xlink:type="simple" xlink:href="../060/10988060.xml">
-ADO.NET Entity Framework</link>&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
+ADO.NET</link> ·  <link xlink:type="simple" xlink:href="../060/10988060.xml">
+ADO.NET Entity Framework</link> ·  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -679,7 +679,7 @@ Sync Framework</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -703,10 +703,10 @@ Networking</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../226/211226.xml">
 Winsock</link> (<link xlink:type="simple" xlink:href="../421/2924421.xml">
-LSP</link>)&nbsp;·  <link>
-Winsock Kernel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../124/5095124.xml">
-Filtering Platform</link>&nbsp;·  <link xlink:type="simple" xlink:href="../684/650684.xml">
-Network Driver Interface Specification</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+LSP</link>) ·  <link>
+Winsock Kernel</link> ·  <link xlink:type="simple" xlink:href="../124/5095124.xml">
+Filtering Platform</link> ·  <link xlink:type="simple" xlink:href="../684/650684.xml">
+Network Driver Interface Specification</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -723,7 +723,7 @@ Windows Rally</link></part>
 </idea>
 </protocol>
 </message>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -744,7 +744,7 @@ BITS</link></activity>
 </protocol>
 </message>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../907/10541907.xml#xpointer(//*[./st=%22Peer-to-peer+communication%22])">
+ ·  <link xlink:type="simple" xlink:href="../907/10541907.xml#xpointer(//*[./st=%22Peer-to-peer+communication%22])">
 P2P API</link></col>
 </row>
 <row style="height:2px">
@@ -763,7 +763,7 @@ Messaging API</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../631/45631.xml">
+ ·  <link xlink:type="simple" xlink:href="../631/45631.xml">
 Telephony API</link></col>
 </row>
 <row style="height:2px">
@@ -774,7 +774,7 @@ Telephony API</link></col>
 Administration andmanagement</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../593/756593.xml">
-Win32 console</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+Win32 console</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -783,7 +783,7 @@ Windows Script Host</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -798,12 +798,12 @@ Windows Management Instrumentation</link></part>
 </concept>
 </idea>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../871/14465871.xml">
 Windows PowerShell</link></programming_language>
 </software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -816,8 +816,8 @@ Task Scheduler</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <link>
-Offline Files</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link>
+Offline Files</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -830,10 +830,10 @@ Shadow Copy</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/1158591.xml">
 Windows Installer</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
@@ -856,8 +856,8 @@ Windows Error Reporting</link></activity>
 </artifact>
 </structure>
 </work>
-&nbsp;·  <link>
-Windows Event Log</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link>
+Windows Event Log</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -905,7 +905,7 @@ COM</link></part>
 </model>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
@@ -926,8 +926,8 @@ COM+</link></part>
 </model>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../497/93497.xml">
-ActiveX</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../497/93497.xml">
+ActiveX</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
@@ -948,7 +948,7 @@ Distributed Component Object Model</link></part>
 </model>
 </person>
 </physical_entity>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1000,7 +1000,7 @@ Microsoft Foundation Class (MFC)</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -1011,7 +1011,7 @@ Active Template Library (ATL)</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <undertaking wordnetid="100795720" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1035,11 +1035,11 @@ Driver development</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../077/252077.xml">
 Windows Driver Model</link> (<link xlink:type="simple" xlink:href="../087/3542087.xml">
-Broadcast Driver Architecture</link>)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Broadcast Driver Architecture</link>) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../667/3669667.xml">
 Windows Driver Foundation</link></software>
  (<link xlink:type="simple" xlink:href="../476/3669476.xml">
-KMDF</link>&nbsp;·  <link xlink:type="simple" xlink:href="../572/4211572.xml">
+KMDF</link> ·  <link xlink:type="simple" xlink:href="../572/4211572.xml">
 UMDF</link>)</col>
 </row>
 <row style="height:2px">
@@ -1051,7 +1051,7 @@ Security</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../413/3302413.xml">
 Crypto API</link> (<link xlink:type="simple" xlink:href="../793/12561793.xml">
-CAPICOM</link>)&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+CAPICOM</link>) ·  <work wordnetid="100575741" confidence="0.8">
 <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1070,8 +1070,8 @@ Windows CardSpace</link></activity>
 </artifact>
 </system>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../847/4949847.xml">
-Data protection API</link>&nbsp;·  <link xlink:type="simple" xlink:href="../186/14686186.xml">
+ ·  <link xlink:type="simple" xlink:href="../847/4949847.xml">
+Data protection API</link> ·  <link xlink:type="simple" xlink:href="../186/14686186.xml">
 Security Support Provider Interface</link></col>
 </row>
 <row style="height:2px">
@@ -1096,7 +1096,7 @@ Security Support Provider Interface</link></col>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1117,11 +1117,11 @@ ASP.NET</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
-ADO.NET</link>&nbsp;·  <link xlink:type="simple" xlink:href="../471/4890471.xml">
-Remoting</link>&nbsp;·  <link xlink:type="simple" xlink:href="../979/1707979.xml">
-Windows Presentation Foundation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../163/3846163.xml">
-Windows Workflow Foundation</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
+ADO.NET</link> ·  <link xlink:type="simple" xlink:href="../471/4890471.xml">
+Remoting</link> ·  <link xlink:type="simple" xlink:href="../979/1707979.xml">
+Windows Presentation Foundation</link> ·  <link xlink:type="simple" xlink:href="../163/3846163.xml">
+Windows Workflow Foundation</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1134,7 +1134,7 @@ Windows Communication Foundation</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1153,13 +1153,13 @@ Windows CardSpace</link></activity>
 </artifact>
 </system>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../616/550616.xml">
 XNA</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/9731719.xml">
 Silverlight</link></software>
-&nbsp;·  <link>
+ ·  <link>
 Task Parallel Library</link></col>
 </row>
 <row style="height:2px">
@@ -1181,7 +1181,7 @@ EFx Factory</link></building_complex>
 </artifact>
 </structure>
 </plant>
-&nbsp;·  <plant wordnetid="103956922" confidence="0.8">
+ ·  <plant wordnetid="103956922" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <factory wordnetid="103316406" confidence="0.8">
@@ -1192,7 +1192,7 @@ Enterprise Library</link></building_complex>
 </artifact>
 </structure>
 </plant>
-&nbsp;·  <plant wordnetid="103956922" confidence="0.8">
+ ·  <plant wordnetid="103956922" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <factory wordnetid="103316406" confidence="0.8">
@@ -1203,10 +1203,10 @@ Composite UI</link></building_complex>
 </artifact>
 </structure>
 </plant>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../029/5972029.xml">
 CCF</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../108/6896108.xml">
+ ·  <link xlink:type="simple" xlink:href="../108/6896108.xml">
 CSF</link></col>
 </row>
 <row style="height:2px">
@@ -1226,10 +1226,10 @@ MSRPC</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../167/714167.xml#xpointer(//*[./st=%22Named+pipes+in+Windows%22])">
-Named pipes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../248/8246248.xml">
-Memory-mapped file</link>&nbsp;·  <link xlink:type="simple" xlink:href="../404/1862404.xml">
-DDE</link>&nbsp;·  <link xlink:type="simple" xlink:href="../574/2667574.xml">
+ ·  <link xlink:type="simple" xlink:href="../167/714167.xml#xpointer(//*[./st=%22Named+pipes+in+Windows%22])">
+Named pipes</link> ·  <link xlink:type="simple" xlink:href="../248/8246248.xml">
+Memory-mapped file</link> ·  <link xlink:type="simple" xlink:href="../404/1862404.xml">
+DDE</link> ·  <link xlink:type="simple" xlink:href="../574/2667574.xml">
 MailSlot</link></col>
 </row>
 <row style="height:2px">
@@ -1240,7 +1240,7 @@ MailSlot</link></col>
 Accessibility</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../210/1983210.xml">
-Active Accessibility</link>&nbsp;·  <link xlink:type="simple" xlink:href="../582/9346582.xml">
+Active Accessibility</link> ·  <link xlink:type="simple" xlink:href="../582/9346582.xml">
 UI Automation</link></col>
 </row>
 <row style="height:2px">
@@ -1269,11 +1269,11 @@ Text Services Framework</link></framework>
 </concept>
 </idea>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../794/15075794.xml">
-Text Object Model</link>&nbsp;· <link xlink:type="simple" xlink:href="../513/419513.xml">
-Input method editor</link>&nbsp;·  <link xlink:type="simple" xlink:href="../934/2125934.xml">
-Language Interface Pack</link>&nbsp;·  <link xlink:type="simple" xlink:href="../111/857111.xml">
-Multilingual User Interface</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/1041298.xml">
+ ·  <link xlink:type="simple" xlink:href="../794/15075794.xml">
+Text Object Model</link> · <link xlink:type="simple" xlink:href="../513/419513.xml">
+Input method editor</link> ·  <link xlink:type="simple" xlink:href="../934/2125934.xml">
+Language Interface Pack</link> ·  <link xlink:type="simple" xlink:href="../111/857111.xml">
+Multilingual User Interface</link> ·  <link xlink:type="simple" xlink:href="../298/1041298.xml">
 Uniscribe</link></col>
 </row>
 <row style="height:2px">
@@ -1294,8 +1294,8 @@ Direct3D</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../491/899491.xml">
-D3DX</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../491/899491.xml">
+D3DX</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -1310,9 +1310,9 @@ DirectSound</link></room>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../211/700211.xml">
-DirectInput</link>&nbsp;·  <link xlink:type="simple" xlink:href="../109/483109.xml">
-DirectPlay</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../211/700211.xml">
+DirectInput</link> ·  <link xlink:type="simple" xlink:href="../109/483109.xml">
+DirectPlay</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -1323,7 +1323,7 @@ DirectMusic</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -1332,7 +1332,7 @@ Managed DirectX</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../616/550616.xml">
 Microsoft XNA</link></software>
 </col>

@@ -89,7 +89,7 @@ Levenshtein distance</link></algorithm>
 </act>
 </rule>
 </event>
- &mdash; if the substring and pattern are within a given distance <it>k</it> of each other, then the algorithm considers them equal. The algorithm  begins by precomputing a set of <link xlink:type="simple" xlink:href="../313/468313.xml">
+ — if the substring and pattern are within a given distance <it>k</it> of each other, then the algorithm considers them equal. The algorithm  begins by precomputing a set of <link xlink:type="simple" xlink:href="../313/468313.xml">
 bitmask</link>s containing one bit for each element of the pattern. Then it is able to do most of the work with <link xlink:type="simple" xlink:href="../399/264399.xml">
 bitwise operation</link>s, which are extremely fast.<p>
 
@@ -105,7 +105,7 @@ regular expression</link>s.</p>
 
 Due to the data structures required by the algorithm, it performs best on patterns less than a constant length (typically the <link xlink:type="simple" xlink:href="../344/1613344.xml">
 word length</link> of the machine in question), and also prefers inputs over a small alphabet. Once it has been implemented for a given alphabet and word length <it>m</it>, however, its <link xlink:type="simple" xlink:href="../ury/23rd_century.xml">
-running time</link> is completely predictable &mdash; it runs in <link xlink:type="simple" xlink:href="../578/44578.xml">
+running time</link> is completely predictable — it runs in <link xlink:type="simple" xlink:href="../578/44578.xml">
 O</link>(<it>mn</it>) operations, no matter the structure of the text or the pattern.</p>
 <p>
 
@@ -186,7 +186,7 @@ return result;
 
 <p>
 
-Bitap distinguishes itself from other well-known string searching algorithms in its natural mapping onto simple bitwise operations, as in the following modification of the above program. Notice that in this implementation, counterintuitively, each bit with value&nbsp;zero indicates a match, and each bit with value&nbsp;1 indicates a non-match. The same algorithm can be written with the intuitive semantics for 0 and 1, but in that case we must introduce another instruction into the <link xlink:type="simple" xlink:href="../659/1819659.xml">
+Bitap distinguishes itself from other well-known string searching algorithms in its natural mapping onto simple bitwise operations, as in the following modification of the above program. Notice that in this implementation, counterintuitively, each bit with value zero indicates a match, and each bit with value 1 indicates a non-match. The same algorithm can be written with the intuitive semantics for 0 and 1, but in that case we must introduce another instruction into the <link xlink:type="simple" xlink:href="../659/1819659.xml">
 inner loop</link> to set R |= 1. In this implementation, we take advantage of the fact that left-shifting a value shifts in zeros on the right, which is precisely the behavior we need.</p>
 <p>
 
@@ -347,7 +347,7 @@ External links and references</st>
 <entry level="1" type="number">
 
  <cite id="endnote_Manber91" style="font-style: normal;">
-<b>^</b></cite>&nbsp; Udi Manber, Sun Wu. "Fast text searching with errors." Technical Report TR-91-11. Department of Computer Science, <university wordnetid="108286163" confidence="0.9508927676800064">
+<b>^</b></cite>  Udi Manber, Sun Wu. "Fast text searching with errors." Technical Report TR-91-11. Department of Computer Science, <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../015/32015.xml">
 University of Arizona</link></university>
 , Tucson, June 1991. (<weblink xlink:type="simple" xlink:href="ftp://ftp.cs.arizona.edu/agrep/agrep.ps.1.Z">
@@ -355,7 +355,7 @@ gzipped PostScript</weblink>)</entry>
 <entry level="1" type="number">
 
  <cite id="endnote_Manber92" style="font-style: normal;">
-<b>^</b></cite>&nbsp; Udi Manber, Sun Wu. "Fast text search allowing errors." <it><work wordnetid="104599396" confidence="0.8">
+<b>^</b></cite>  Udi Manber, Sun Wu. "Fast text search allowing errors." <it><work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -372,15 +372,15 @@ Communications of the ACM</link></publication>
 <entry level="1" type="number">
 
  <cite id="endnote_BYG89" style="font-style: normal;">
-<b>^</b></cite>&nbsp; Ricardo A. Baeza-Yates, Gastón H. Gonnet. "A New Approach to Text Searching." <it>Communications of the ACM</it>, 35(10): pp. 74&ndash;82, October 1992.</entry>
+<b>^</b></cite>  Ricardo A. Baeza-Yates, Gastón H. Gonnet. "A New Approach to Text Searching." <it>Communications of the ACM</it>, 35(10): pp. 74–82, October 1992.</entry>
 <entry level="1" type="number">
 
   <cite id="endnote_BN96" style="font-style: normal;">
-<b>^</b></cite>&nbsp; R. Baeza-Yates and G. Navarro. A faster algorithm for approximate string matching. In Dan Hirchsberg and Gene Myers, editors, Combinatorial Pattern Matching (CPM'96), LNCS 1075, pages 1--23, Irvine, CA, Jun 1996.</entry>
+<b>^</b></cite>  R. Baeza-Yates and G. Navarro. A faster algorithm for approximate string matching. In Dan Hirchsberg and Gene Myers, editors, Combinatorial Pattern Matching (CPM'96), LNCS 1075, pages 1--23, Irvine, CA, Jun 1996.</entry>
 <entry level="1" type="number">
 
   <cite id="endnote_M99" style="font-style: normal;">
-<b>^</b></cite>&nbsp; G. Myers. A fast bit-vector algorithm for approximate string matching based on dynamic programming,	Journal of the ACM (JACM) 46 (3), May 1999, 395 - 415.  </entry>
+<b>^</b></cite>  G. Myers. A fast bit-vector algorithm for approximate string matching based on dynamic programming,	Journal of the ACM (JACM) 46 (3), May 1999, 395 - 415.  </entry>
 <entry level="1" type="number">
 
  <weblink xlink:type="simple" xlink:href="http://www.rational.co.za/libbitap/">
@@ -391,7 +391,7 @@ Libbitap</weblink>, a free implementation that shows how the algorithm can easil
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://johannburkard.de/software/stringsearch/">
-StringSearch &#8211; high-performance pattern matching algorithms in Java</weblink> &ndash; Implementations of many String-Matching-Algorithms in Java (BNDM, Boyer-Moore-Horspool, Boyer-Moore-Horspool-Raita, Shift-Or)</entry>
+StringSearch &#8211; high-performance pattern matching algorithms in Java</weblink> – Implementations of many String-Matching-Algorithms in Java (BNDM, Boyer-Moore-Horspool, Boyer-Moore-Horspool-Raita, Shift-Or)</entry>
 </list>
 </p>
 

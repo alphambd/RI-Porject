@@ -58,7 +58,7 @@ Please see the discussion on the . <it>(August 2008)</it>Please do not remove th
 
 
 Many <link xlink:type="simple" xlink:href="../398/12398.xml">
-Geographic information system</link> (GIS) products apply the term <b>geospatial analysis</b> in a very narrow context.&#91;&#32; &ndash; &#93;  In the case of vector-based GIS this typically means operations such as map overlay (combining two or more maps or map layers according to predefined rules), simple buffering (identifying regions of a map within a specified distance of one or more features, such as towns, roads or rivers) and similar basic operations. This reflects (and is reflected in) the use of the term spatial analysis within the Open Geospatial Consortium (<link xlink:type="simple" xlink:href="../846/18257846.xml">
+Geographic information system</link> (GIS) products apply the term <b>geospatial analysis</b> in a very narrow context.&#91;&#32; – &#93;  In the case of vector-based GIS this typically means operations such as map overlay (combining two or more maps or map layers according to predefined rules), simple buffering (identifying regions of a map within a specified distance of one or more features, such as towns, roads or rivers) and similar basic operations. This reflects (and is reflected in) the use of the term spatial analysis within the Open Geospatial Consortium (<link xlink:type="simple" xlink:href="../846/18257846.xml">
 OGC</link>) “simple feature specifications”. For raster-based GIS, widely used in the environmental sciences and remote sensing, this typically means a range of actions applied to the grid cells of one or more maps (or images) often involving filtering and/or algebraic operations (map algebra). These techniques involve processing one or more raster layers according to simple rules resulting in a new map layer, for example replacing each cell value with some combination of its neighbours’ values, or computing the sum or difference of specific attribute values for each grid cell in two matching raster datasets. Descriptive statistics, such as cell counts, means, variances, maxima, minima, cumulative values, frequencies and a number of other measures and distance computations are also often included in this generic term <link xlink:type="simple" xlink:href="../431/3190431.xml">
 spatial analysis</link>. </p>
 <p>
@@ -103,7 +103,7 @@ ambox-content" style=""</col>
 <col style="" class="mbox-text">
  <b>This article or section is written like .</b>
 Please help <weblink xlink:type="simple" xlink:href="http://localhost:18088/wiki/index.php?title=Geospatial&amp;action=edit">
-rewrite this article</weblink> from a . For <b>blatant</b> advertising that would require a fundamental rewrite to become encyclopedic, use  to mark for .&nbsp;<it>(August 2008)''</it></col>
+rewrite this article</weblink> from a . For <b>blatant</b> advertising that would require a fundamental rewrite to become encyclopedic, use  to mark for . <it>(August 2008)''</it></col>
 </row>
 </table>
 

@@ -163,7 +163,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F3680062">
-10.2307/3680062</weblink>.</cite>&nbsp;</entry>
+10.2307/3680062</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -179,7 +179,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F3680063">
-10.2307/3680063</weblink>.</cite>&nbsp;</entry>
+10.2307/3680063</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -190,7 +190,7 @@ doi</link></writing>
  <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4649783">
 US4,649,783</weblink> (<weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4649783">
 PDF version</weblink>) (<link>
-1987-03-17</link>) Alexander R. Strong, Kevin J. Karplus <it>Wavetable Modification Instrument and Method for Generating Musical Sound</it>&nbsp;</entry>
+1987-03-17</link>) Alexander R. Strong, Kevin J. Karplus <it>Wavetable Modification Instrument and Method for Generating Musical Sound</it> </entry>
 </list>
 </p>
 
@@ -202,7 +202,7 @@ PDF version</weblink>) (<link>
  <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4622877">
 US4,622,877</weblink> (<weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4622877">
 PDF version</weblink>) (<link>
-1986-11-18</link>) Alexander R. Strong <it>Independently controlled wavetable-modification instrument and method for generating musical sound</it>&nbsp;</entry>
+1986-11-18</link>) Alexander R. Strong <it>Independently controlled wavetable-modification instrument and method for generating musical sound</it> </entry>
 </list>
 </p>
 <p>
@@ -263,7 +263,7 @@ Frequency modulation synthesis</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;&#124; <idea wordnetid="105833840" confidence="0.8">
+ &#124; <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -274,8 +274,8 @@ Phase distortion synthesis</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../392/4398392.xml">
-Scanned synthesis</link>&nbsp;&#124; <idea wordnetid="105833840" confidence="0.8">
+ &#124; <link xlink:type="simple" xlink:href="../392/4398392.xml">
+Scanned synthesis</link> &#124; <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -286,7 +286,7 @@ Subtractive synthesis</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;&#124; <idea wordnetid="105833840" confidence="0.8">
+ &#124; <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -297,7 +297,7 @@ Additive synthesis</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;&#124; HCM synthesis&nbsp;&#124; <idea wordnetid="105833840" confidence="0.8">
+ &#124; HCM synthesis &#124; <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -339,7 +339,7 @@ Wavetable synthesis</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;&#124; <idea wordnetid="105833840" confidence="0.8">
+ &#124; <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -350,7 +350,7 @@ Granular synthesis</link></kind>
 </category>
 </concept>
 </idea>
- &nbsp;&#124; <idea wordnetid="105833840" confidence="0.8">
+  &#124; <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -382,7 +382,7 @@ Physical modelling synthesis</link></kind>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../989/378989.xml">
-Digital waveguide synthesis</link>&nbsp;&#124; <idea wordnetid="105833840" confidence="0.8">
+Digital waveguide synthesis</link> &#124; <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -393,7 +393,7 @@ Karplus-Strong string synthesis</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../024/11024.xml">
+ &#124; <link xlink:type="simple" xlink:href="../024/11024.xml">
 Formant synthesis</link></col>
 </row>
 </table>

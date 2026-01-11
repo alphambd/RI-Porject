@@ -77,7 +77,7 @@ http://media.www.dailyillini.com/media/storage/paper736/news/2007/08/23/News/Uni
 <undergrad>
 30,895</undergrad>
 <colors>
-Orange and Navy Blue &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</colors>
+Orange and Navy Blue            </colors>
 <state>
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
@@ -373,7 +373,7 @@ University of Illinois at Urbana-Champaign</col>
 </p>
 <ss1>
 <st>
-Early years: 1867&ndash;1880</st>
+Early years: 1867–1880</st>
 <p>
 
 The <link xlink:type="simple" xlink:href="../593/55593.xml">
@@ -820,7 +820,7 @@ condensed matter physics</link> research, and is home to <link>
 Frederick Seitz Materials Research Laboratory</link>. There are two cutting-edge complexes for research and teaching recently opened, <link xlink:type="simple" xlink:href="../948/976948.xml">
 Siebel Center for Computer Science</link> in 2004 and the <link>
 Institute for Genomic Biology</link> in 2006. <link xlink:type="simple" xlink:href="../483/1268483.xml">
-The Beckman Institute for Advanced Science and Technology</link>, however, is still the largest interdisciplinary facility on campus with 313,000&nbsp;square feet (29,100&nbsp;m2). Both the <link>
+The Beckman Institute for Advanced Science and Technology</link>, however, is still the largest interdisciplinary facility on campus with 313,000 square feet (29,100 m2). Both the <link>
 Illinois Natural History Survey</link> and <link>
 Illinois State Geological Survey</link> are located on campus and affiliated with the university. The university also specializes in <link xlink:type="simple" xlink:href="../627/627.xml">
 agricultural</link> and <link xlink:type="simple" xlink:href="../260/216260.xml">
@@ -2439,17 +2439,17 @@ Academics</link></university>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <b>Undergraduate Colleges and Schools</b><link xlink:type="simple" xlink:href="../094/5761094.xml">
-ACES</link>&nbsp;• <university wordnetid="108286163" confidence="0.9508927676800064">
+ACES</link> • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/5280819.xml">
 Business</link></university>
-&nbsp;• <school wordnetid="108276720" confidence="0.8">
+ • <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../175/5761175.xml">
 Education</link></institution>
 </educational_institution>
 </school>
-&nbsp;• <body wordnetid="107965085" confidence="0.8">
+ • <body wordnetid="107965085" confidence="0.8">
 <university wordnetid="108286163" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -2458,10 +2458,10 @@ Engineering</link></group>
 </social_group>
 </university>
 </body>
-&nbsp;• <link xlink:type="simple" xlink:href="../216/5761216.xml">
-Fine and Applied Arts</link>&nbsp;• <link xlink:type="simple" xlink:href="../863/1694863.xml">
-Liberal Arts &amp; Sciences</link>&nbsp;• <link xlink:type="simple" xlink:href="../138/5761138.xml">
-Media</link>&nbsp;• <school wordnetid="108276720" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../216/5761216.xml">
+Fine and Applied Arts</link> • <link xlink:type="simple" xlink:href="../863/1694863.xml">
+Liberal Arts &amp; Sciences</link> • <link xlink:type="simple" xlink:href="../138/5761138.xml">
+Media</link> • <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../682/1504682.xml">
@@ -2471,24 +2471,24 @@ Institute of Aviation</link></institution>
 <p>
 
 <b>Graduate Colleges and Schools</b><link xlink:type="simple" xlink:href="../265/5761265.xml">
-Applied Health Sciences</link>&nbsp;• <link xlink:type="simple" xlink:href="../302/5761302.xml">
-Labor and Employment Relations</link>&nbsp;• <link xlink:type="simple" xlink:href="../339/5761339.xml">
-Law</link>&nbsp;• <link xlink:type="simple" xlink:href="../393/5761393.xml">
-Library and Information Science</link>&nbsp;• <school wordnetid="108276720" confidence="0.8">
+Applied Health Sciences</link> • <link xlink:type="simple" xlink:href="../302/5761302.xml">
+Labor and Employment Relations</link> • <link xlink:type="simple" xlink:href="../339/5761339.xml">
+Law</link> • <link xlink:type="simple" xlink:href="../393/5761393.xml">
+Library and Information Science</link> • <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../425/5761425.xml">
 Medicine</link></institution>
 </educational_institution>
 </school>
-&nbsp;• <school wordnetid="108276720" confidence="0.8">
+ • <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../461/5761461.xml">
 Social Work</link></institution>
 </educational_institution>
 </school>
-&nbsp;• <link xlink:type="simple" xlink:href="../478/5761478.xml">
+ • <link xlink:type="simple" xlink:href="../478/5761478.xml">
 Veterinary Medicine</link></p>
 </col>
 </row>
@@ -2505,11 +2505,11 @@ Athletics</link></university>
 <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../396/1730396.xml">
 Fighting Illini</link></sport>
-&nbsp;• <team wordnetid="108208560" confidence="0.9508927676800064">
+ • <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../103/9965103.xml">
 Basketball</link></team>
-&nbsp;• <link xlink:type="simple" xlink:href="../389/6200389.xml">
-Football</link>&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../389/6200389.xml">
+Football</link> • <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -2520,7 +2520,7 @@ Memorial Stadium</link></venue>
 </location>
 </area>
 </region>
-&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -2531,7 +2531,7 @@ Assembly Hall</link></venue>
 </location>
 </area>
 </region>
-&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -2542,7 +2542,7 @@ Illinois Field</link></venue>
 </location>
 </area>
 </region>
-&nbsp;• <group_action wordnetid="101080366" confidence="0.8">
+ • <group_action wordnetid="101080366" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2553,7 +2553,7 @@ Arch Rivalry</link></competition>
 </act>
 </event>
 </group_action>
-&nbsp;• <group_action wordnetid="101080366" confidence="0.8">
+ • <group_action wordnetid="101080366" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <sport wordnetid="100523513" confidence="0.8">
@@ -2570,8 +2570,8 @@ Braggin' Rights</link></competition>
 </event>
 </diversion>
 </group_action>
-&nbsp;• <link>
- The Illibuck Trophy</link>&nbsp;• <trophy wordnetid="106709442" confidence="0.8">
+ • <link>
+ The Illibuck Trophy</link> • <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
@@ -2580,7 +2580,7 @@ Purdue Cannon</link></signal>
 </award>
 </symbol>
 </trophy>
-&nbsp;• <trophy wordnetid="106709442" confidence="0.8">
+ • <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
@@ -2589,7 +2589,7 @@ Sweet Sioux Tomahawk</link></signal>
 </award>
 </symbol>
 </trophy>
-&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -2600,9 +2600,9 @@ Huff Hall</link></venue>
 </location>
 </area>
 </region>
-&nbsp;• <link xlink:type="simple" xlink:href="../208/5840208.xml">
-IMPE</link>&nbsp;• <link xlink:type="simple" xlink:href="../146/5840146.xml">
-CRCE</link>&nbsp;• <site wordnetid="108651247" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../208/5840208.xml">
+IMPE</link> • <link xlink:type="simple" xlink:href="../146/5840146.xml">
+CRCE</link> • <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2619,7 +2619,7 @@ Kenney Gym</link></venue>
 </area>
 </region>
 </site>
-&nbsp;• <mascot wordnetid="110297234" confidence="0.8">
+ • <mascot wordnetid="110297234" confidence="0.8">
 <link xlink:type="simple" xlink:href="../363/1037363.xml">
 Chief Illiniwek</link></mascot>
 </col>
@@ -2643,29 +2643,29 @@ Allerton Park</link></location>
 </landmark>
 </point>
 </position>
-&nbsp;• <artifact wordnetid="100021939" confidence="0.8">
+ • <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <arboretum wordnetid="102733075" confidence="0.8">
 <link xlink:type="simple" xlink:href="../627/3309627.xml">
 Arboretum</link></arboretum>
 </facility>
 </artifact>
-&nbsp;• <link xlink:type="simple" xlink:href="../483/1268483.xml">
-The Beckman Institute</link>&nbsp;• <stream wordnetid="109448361" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../483/1268483.xml">
+The Beckman Institute</link> • <stream wordnetid="109448361" confidence="0.8">
 <body_of_water wordnetid="109225146" confidence="0.8">
 <river wordnetid="109411430" confidence="0.8">
 <link xlink:type="simple" xlink:href="../483/4485483.xml">
 Boneyard Creek</link></river>
 </body_of_water>
 </stream>
-&nbsp;• <link xlink:type="simple" xlink:href="../306/3352306.xml">
-Conservatory</link>&nbsp;• <link xlink:type="simple" xlink:href="../793/5761793.xml">
-CSL</link>&nbsp;• <link xlink:type="simple" xlink:href="../373/5772373.xml">
-Engineering Campus</link>&nbsp;• <library wordnetid="103660909" confidence="0.9508927676800064">
+ • <link xlink:type="simple" xlink:href="../306/3352306.xml">
+Conservatory</link> • <link xlink:type="simple" xlink:href="../793/5761793.xml">
+CSL</link> • <link xlink:type="simple" xlink:href="../373/5772373.xml">
+Engineering Campus</link> • <library wordnetid="103660909" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../362/5773362.xml">
 Grainger</link></library>
-&nbsp;• <link xlink:type="simple" xlink:href="../069/7645069.xml">
-Illini Union</link>&nbsp;• <structure wordnetid="104341686" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../069/7645069.xml">
+Illini Union</link> • <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <hall wordnetid="103478907" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -2678,12 +2678,12 @@ Krannert Center</link></room>
 </hall>
 </artifact>
 </structure>
-&nbsp;• <university wordnetid="108286163" confidence="0.9508927676800064">
+ • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../695/384695.xml#xpointer(//*[./st=%22Libraries%22])">
 Libraries</link></university>
-&nbsp;• <link xlink:type="simple" xlink:href="../618/3826618.xml">
-Lincoln Hall</link>&nbsp;• <link xlink:type="simple" xlink:href="../371/5839371.xml">
-Main Campus</link>&nbsp;• <position wordnetid="108621598" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../618/3826618.xml">
+Lincoln Hall</link> • <link xlink:type="simple" xlink:href="../371/5839371.xml">
+Main Campus</link> • <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <landmark wordnetid="108624891" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -2692,7 +2692,7 @@ Morrow Plots</link></location>
 </landmark>
 </point>
 </position>
-&nbsp;• <site wordnetid="108651247" confidence="0.8">
+ • <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2703,7 +2703,7 @@ NCSA</link></geographical_area>
 </location>
 </region>
 </site>
-&nbsp;• <museum wordnetid="103800563" confidence="0.9508927676800064">
+ • <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../327/5855327.xml">
 Spurlock Museum</link></museum>
 </col>
@@ -2719,15 +2719,15 @@ Students</link></university>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../267/2052267.xml">
-Alumni</link>&nbsp;• <link xlink:type="simple" xlink:href="../750/652750.xml">
-Illini Media</link>&nbsp;• <social_group wordnetid="107950920" confidence="0.8">
+Alumni</link> • <link xlink:type="simple" xlink:href="../750/652750.xml">
+Illini Media</link> • <social_group wordnetid="107950920" confidence="0.8">
 <set wordnetid="108240169" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../790/6286790.xml">
 Marching Illini</link></group>
 </set>
 </social_group>
-&nbsp;• <music wordnetid="107020895" confidence="0.8">
+ • <music wordnetid="107020895" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
@@ -2738,8 +2738,8 @@ Orange Krush</link></section>
 </written_communication>
 </auditory_communication>
 </music>
-&nbsp;• <link xlink:type="simple" xlink:href="../828/5773828.xml">
-Residence Halls</link>&nbsp;• <music wordnetid="107020895" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../828/5773828.xml">
+Residence Halls</link> • <music wordnetid="107020895" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
 <musical_composition wordnetid="107037465" confidence="0.8">
@@ -2748,7 +2748,7 @@ Oskee Wow-Wow</link></musical_composition>
 </auditory_communication>
 </song>
 </music>
-&nbsp;• <music wordnetid="107020895" confidence="0.8">
+ • <music wordnetid="107020895" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
 <musical_composition wordnetid="107037465" confidence="0.8">
@@ -2757,7 +2757,7 @@ Illinois Loyalty</link></musical_composition>
 </auditory_communication>
 </song>
 </music>
-&nbsp;• <link xlink:type="simple" xlink:href="../927/8541927.xml">
+ • <link xlink:type="simple" xlink:href="../927/8541927.xml">
 Star Course</link></col>
 </row>
 </table>
@@ -2791,42 +2791,42 @@ Illinois</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../396/1730396.xml">
 Fighting Illini</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../242/292242.xml">
 Indiana</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../058/3286058.xml">
 Hoosiers</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../119/241119.xml">
 Iowa</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../272/3681272.xml">
 Hawkeyes</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../740/31740.xml">
 Michigan</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../398/2017398.xml">
 Wolverines</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../128/241128.xml">
-Michigan&nbsp;State</link></university>
+Michigan State</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../323/3618323.xml">
 Spartans</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../813/416813.xml">
 Minnesota</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../127/556127.xml">
 Golden Gophers</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../216/174216.xml">
@@ -2835,28 +2835,28 @@ Northwestern</link></ranking>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../470/5385470.xml">
 Wildcats</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../217/22217.xml">
-Ohio&nbsp;State</link></university>
+Ohio State</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../016/965016.xml">
 Buckeyes</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../509/1209509.xml">
-Penn&nbsp;State</link></university>
+Penn State</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../830/5382830.xml">
 Nittany Lions</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../757/23757.xml">
 Purdue</link></university>
  (<it><sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../235/1064235.xml">
 Boilermakers</link></sport>
-</it>)&nbsp;• 
+</it>) • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../711/347711.xml">
 Wisconsin</link></university>
@@ -3114,149 +3114,149 @@ Public</link></kind>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../015/32015.xml">
 University of Arizona</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../922/31922.xml">
 University of California, Berkeley</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../924/31924.xml">
 University of California, Davis</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../757/44757.xml">
 University of California, Irvine</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../765/37765.xml">
 University of California, Los Angeles</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../927/31927.xml">
 University of California, San Diego</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../917/211917.xml">
 University of California, Santa Barbara</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../672/289672.xml">
 University of Colorado at Boulder</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ago/Near_N$orth_S$ide=2C_C$hicago.xml">
 University of Florida</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../695/384695.xml">
 University of Illinois at Urbana-Champaign</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../242/292242.xml">
 Indiana University (Bloomington)</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../119/241119.xml">
 University of Iowa</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../875/14875.xml">
 Iowa State University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../327/163327.xml">
 University of Kansas</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../315/239315.xml">
 University of Maryland, College Park</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../740/31740.xml">
 University of Michigan</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../128/241128.xml">
 Michigan State University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../813/416813.xml">
 University of Minnesota</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../787/14933787.xml">
 University of Missouri</link></university>
-&nbsp;• 
+ • 
 <link>
-University of Nebraska–Lincoln</link>&nbsp;• 
+University of Nebraska–Lincoln</link> • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../598/465598.xml">
 University at Buffalo (SUNY)</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../208/251208.xml">
 Stony Brook University (SUNY)</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../510/89510.xml">
 University of North Carolina at Chapel Hill</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../217/22217.xml">
 Ohio State University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../573/264573.xml">
 University of Oregon</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../509/1209509.xml">
 Pennsylvania State University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../870/239870.xml">
 University of Pittsburgh</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../757/23757.xml">
 Purdue University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../135/80135.xml">
 Rutgers University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../031/32031.xml">
 University of Texas at Austin</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../927/29927.xml">
 Texas A&amp;M University</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../801/59801.xml">
 University of Virginia</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../776/31776.xml">
 University of Washington</link></university>
-&nbsp;• 
+ • 
 <link>
 University of Wisconsin–Madison</link></p>
 </col>
@@ -3273,109 +3273,109 @@ Private</link></col>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../223/81223.xml">
 Brandeis University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../157/4157.xml">
 Brown University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../786/5786.xml">
 California Institute of Technology</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../093/48093.xml">
 Carnegie Mellon University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../547/230547.xml">
 Case Western Reserve University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../127/32127.xml">
 University of Chicago</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../310/6310.xml">
 Columbia University</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../422/7954422.xml">
 Cornell University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../273/53273.xml">
 Duke University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../730/42730.xml">
 Emory University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../501/18426501.xml">
 Harvard University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../420/38420.xml">
 Johns Hopkins University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../879/18879.xml">
 Massachusetts Institute of Technology</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../216/174216.xml">
 Northwestern University</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../455/7954455.xml">
 New York University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../793/31793.xml">
 University of Pennsylvania</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../922/23922.xml">
 Princeton University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../813/25813.xml">
 Rice University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../918/31918.xml">
 University of Rochester</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <ranking wordnetid="114429484" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../005/32005.xml">
 University of Southern California</link></ranking>
 </university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/26977.xml">
 Stanford University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../353/29353.xml">
 Syracuse University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../380/165380.xml">
 Tulane University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../250/282250.xml">
 Vanderbilt University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../920/58920.xml">
 Washington University in St. Louis</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../273/34273.xml">
 Yale University</link></university>
@@ -3394,7 +3394,7 @@ Canadian</link></col>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../643/7954643.xml">
 McGill University</link></university>
-&nbsp;• 
+ • 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../325/7955325.xml">
 University of Toronto</link></university>

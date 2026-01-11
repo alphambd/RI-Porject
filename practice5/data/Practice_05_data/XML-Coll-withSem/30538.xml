@@ -56,7 +56,7 @@ BGP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -69,7 +69,7 @@ DHCP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -78,8 +78,8 @@ DNS</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../289/53289.xml">
-FTP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../289/53289.xml">
+FTP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -92,7 +92,7 @@ Gopher</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -101,7 +101,7 @@ GTP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
@@ -118,7 +118,7 @@ HTTP</link></system_of_measurement>
 </protocol>
 </information>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -127,7 +127,7 @@ IMAP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -136,7 +136,7 @@ IRC</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -149,7 +149,7 @@ NNTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -162,7 +162,7 @@ NTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -171,7 +171,7 @@ POP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -184,7 +184,7 @@ RIP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -193,7 +193,7 @@ RPC</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -202,7 +202,7 @@ RTCP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -215,7 +215,7 @@ RTP</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -224,7 +224,7 @@ RTSP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·    <message wordnetid="106598915" confidence="0.8">
+ ·    <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -239,7 +239,7 @@ SDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -252,7 +252,7 @@ SIP</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -261,7 +261,7 @@ SMTP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -274,8 +274,8 @@ SNMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../215/29215.xml">
-SOAP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../215/29215.xml">
+SOAP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -288,8 +288,8 @@ SSH</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../813/187813.xml">
-SSL</link> &nbsp;· <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../813/187813.xml">
+SSL</link>  · <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -302,8 +302,8 @@ STUN</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;· <link xlink:type="simple" xlink:href="../062/31062.xml">
-Telnet</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../062/31062.xml">
+Telnet</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -316,8 +316,8 @@ TLS</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
- &nbsp;· <link xlink:type="simple" xlink:href="../455/192455.xml">
-XMPP</link> &nbsp;·    
+  · <link xlink:type="simple" xlink:href="../455/192455.xml">
+XMPP</link>  ·    
 Application layer protocols|(more)</p>
 </col>
 </row>
@@ -329,7 +329,7 @@ Transport Layer</link></header>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../538/30538.xml">
-TCP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+TCP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -342,7 +342,7 @@ UDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -351,7 +351,7 @@ DCCP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -364,7 +364,7 @@ SCTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -373,7 +373,7 @@ RSVP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -382,7 +382,7 @@ ECN</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  
+ ·  
 Transport layer protocols|(more)</col>
 </row>
 <row>
@@ -414,7 +414,7 @@ IPv4</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -423,7 +423,7 @@ IPv6</link></rule>
 </direction>
 </protocol>
 </message>
-)&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+) ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -436,7 +436,7 @@ ICMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -445,7 +445,7 @@ ICMPv6</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -458,7 +458,7 @@ IGMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -467,7 +467,7 @@ IPsec</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;· 
+ · 
 Internet Layer protocols|(more)</col>
 </row>
 <row>
@@ -490,7 +490,7 @@ ARP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -503,7 +503,7 @@ RARP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -516,7 +516,7 @@ NDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -529,8 +529,8 @@ OSPF</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../738/1272738.xml">
-Tunnels</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../738/1272738.xml">
+Tunnels</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -543,8 +543,8 @@ Media Access Control</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../101/9101.xml">
-Device Driver</link>s &nbsp;·  
+ ·  <link xlink:type="simple" xlink:href="../101/9101.xml">
+Device Driver</link>s  ·  
 Link protocols|(more)</col>
 </row>
 
@@ -586,7 +586,7 @@ application program</link></console_table>
 IP works by exchanging pieces of information called <link xlink:type="simple" xlink:href="../734/43734.xml">
 packets</link>. A packet is a sequence of <link xlink:type="simple" xlink:href="../365/3365.xml">
 bytes</link> and consists of a <it>header</it> followed by a <it>body</it>. The header describes the packet's destination and which <link xlink:type="simple" xlink:href="../748/25748.xml">
-routers</link> on the Internet to use to pass the packet along&mdash;generally in the right direction&mdash;until it arrives at its final destination.  The body contains the data which IP is transmitting. When IP is transmitting data on behalf of TCP, the contents of the IP packet body is TCP data.</p>
+routers</link> on the Internet to use to pass the packet along—generally in the right direction—until it arrives at its final destination.  The body contains the data which IP is transmitting. When IP is transmitting data on behalf of TCP, the contents of the IP packet body is TCP data.</p>
 <p>
 
 Due to network congestion, traffic load balancing, or other unpredictable network behavior, IP packets can be lost or delivered out of order. TCP detects these problems, requests retransmission of lost packets, rearranges out-of-order packets, and even helps minimize network congestion to reduce the occurrence of the other problems. Once TCP at the receiving end has finally reassembled a perfect copy of the large data chunk originally transmitted, it passes that single chunk up to the application program at the receiving end. Thus, TCP greatly simplifies the application programmer's network communication task.</p>
@@ -756,7 +756,7 @@ Options (optional)</col>
 <col>
 <b>160/192+</b></col>
 <col colspan="32">
-&nbsp;Data&nbsp;</col>
+ Data </col>
 </row>
 </table>
 </p>
@@ -765,13 +765,13 @@ Options (optional)</col>
 <list>
 <entry level="1" type="bullet">
 
- Source port (16 bits) &ndash; identifies the sending port</entry>
+ Source port (16 bits) – identifies the sending port</entry>
 <entry level="1" type="bullet">
 
- Destination port (16 bits) &ndash; identifies the receiving port</entry>
+ Destination port (16 bits) – identifies the receiving port</entry>
 <entry level="1" type="bullet">
 
- Sequence number (32 bits) &ndash; has a dual role</entry>
+ Sequence number (32 bits) – has a dual role</entry>
 <entry level="2" type="bullet">
 
  If the SYN flag is present, then this is the initial sequence number and the sequence number of the first data byte is this sequence number plus 1</entry>
@@ -780,22 +780,22 @@ Options (optional)</col>
  If the SYN flag is not present, then this is the sequence number of the first data byte</entry>
 <entry level="1" type="bullet">
 
- Acknowledgement number (32 bits) &ndash; if the ACK flag is set then the value of this field is the next expected byte that the receiver is expecting.</entry>
+ Acknowledgement number (32 bits) – if the ACK flag is set then the value of this field is the next expected byte that the receiver is expecting.</entry>
 <entry level="1" type="bullet">
 
- Data offset (4 bits) &ndash; specifies the size of the TCP header in 32-bit words.  The minimum size header is 5 words and the maximum is 15 words thus giving the minimum size of 20 bytes and maximum of 60 bytes.  This field gets its name from the fact that it is also the offset from the start of the TCP packet to the data.</entry>
+ Data offset (4 bits) – specifies the size of the TCP header in 32-bit words.  The minimum size header is 5 words and the maximum is 15 words thus giving the minimum size of 20 bytes and maximum of 60 bytes.  This field gets its name from the fact that it is also the offset from the start of the TCP packet to the data.</entry>
 <entry level="1" type="bullet">
 
- Reserved (4 bits) &ndash; for future use and should be set to zero</entry>
+ Reserved (4 bits) – for future use and should be set to zero</entry>
 <entry level="1" type="bullet">
 
- Flags (8 bits) (aka Control bits) &ndash; contains 8 1-bit flags</entry>
+ Flags (8 bits) (aka Control bits) – contains 8 1-bit flags</entry>
 <entry level="2" type="bullet">
 
- CWR (1 bit) &ndash; Congestion Window Reduced (CWR) flag is set by the sending host to indicate that it received a TCP segment with the ECE flag set (added to header by RFC 3168).</entry>
+ CWR (1 bit) – Congestion Window Reduced (CWR) flag is set by the sending host to indicate that it received a TCP segment with the ECE flag set (added to header by RFC 3168).</entry>
 <entry level="2" type="bullet">
 
- ECE (ECN-Echo) (1 bit) &ndash; indicate that the TCP peer is <message wordnetid="106598915" confidence="0.8">
+ ECE (ECN-Echo) (1 bit) – indicate that the TCP peer is <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -807,36 +807,36 @@ ECN</link></rule>
  capable during 3-way handshake (added to header by RFC 3168).</entry>
 <entry level="2" type="bullet">
 
- URG (1 bit) &ndash; indicates that the URGent pointer field is significant</entry>
+ URG (1 bit) – indicates that the URGent pointer field is significant</entry>
 <entry level="2" type="bullet">
 
- ACK (1 bit) &ndash; indicates that the ACKnowledgment field is significant</entry>
+ ACK (1 bit) – indicates that the ACKnowledgment field is significant</entry>
 <entry level="2" type="bullet">
 
- PSH (1 bit) &ndash; Push function</entry>
+ PSH (1 bit) – Push function</entry>
 <entry level="2" type="bullet">
 
- RST (1 bit) &ndash; Reset the connection</entry>
+ RST (1 bit) – Reset the connection</entry>
 <entry level="2" type="bullet">
 
- SYN (1 bit) &ndash; Synchronize sequence numbers</entry>
+ SYN (1 bit) – Synchronize sequence numbers</entry>
 <entry level="2" type="bullet">
 
- FIN (1 bit) &ndash; No more data from sender</entry>
+ FIN (1 bit) – No more data from sender</entry>
 <entry level="1" type="bullet">
 
- Window (16 bits) &ndash; the size of the <b>receive window</b>, which specifies the number of bytes (beyond the sequence number in the acknowledgment field) that the receiver is currently willing to receive (<it>see <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22Flow+control%22])">
+ Window (16 bits) – the size of the <b>receive window</b>, which specifies the number of bytes (beyond the sequence number in the acknowledgment field) that the receiver is currently willing to receive (<it>see <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22Flow+control%22])">
 Flow control</link></it>)</entry>
 <entry level="1" type="bullet">
 
- Checksum (16 bits) &ndash; The 16-bit <link xlink:type="simple" xlink:href="../538/7538.xml">
+ Checksum (16 bits) – The 16-bit <link xlink:type="simple" xlink:href="../538/7538.xml">
 checksum</link> field is used for error-checking of the header <it>and data''</it></entry>
 <entry level="1" type="bullet">
 
- Urgent pointer (16 bits) &ndash; if the URG flag is set, then this 16-bit field is an offset from the sequence number indicating the last urgent data byte</entry>
+ Urgent pointer (16 bits) – if the URG flag is set, then this 16-bit field is an offset from the sequence number indicating the last urgent data byte</entry>
 <entry level="1" type="bullet">
 
- Options (Variable bits) &ndash; the total length of the option field must be a multiple of a 32-bit word and the data offset field adjusted appropriately</entry>
+ Options (Variable bits) – the total length of the option field must be a multiple of a 32-bit word and the data offset field adjusted appropriately</entry>
 <entry level="2" type="bullet">
 
 0 - End of options list</entry>
@@ -900,8 +900,8 @@ Accuracy dispute
 </p>
 <p>
 
-| class="mbox-text" style=""| This section appears to <b>contradict</b> itself&nbsp;about active/passive closes. Please help <weblink xlink:type="simple" xlink:href="http://localhost:18088/wiki/index.php?title=Transmission_Control_Protocol&amp;action=edit">
-fix&nbsp;this&nbsp;problem</weblink>. </p>
+| class="mbox-text" style=""| This section appears to <b>contradict</b> itself about active/passive closes. Please help <weblink xlink:type="simple" xlink:href="http://localhost:18088/wiki/index.php?title=Transmission_Control_Protocol&amp;action=edit">
+fix this problem</weblink>. </p>
 
 
 <p>
@@ -1848,7 +1848,7 @@ Options (optional)</col>
 <header>
 256/288+</header>
 <col colspan="32">
-&nbsp;Data&nbsp;</col>
+ Data </col>
 </row>
 </table>
 </p>
@@ -1996,7 +1996,7 @@ Options (optional)</col>
 <header>
 480/512+</header>
 <col colspan="32">
-&nbsp;Data&nbsp;</col>
+ Data </col>
 </row>
 </table>
 </p>
@@ -2005,16 +2005,16 @@ Options (optional)</col>
 <list>
 <entry level="1" type="bullet">
 
- Source address &ndash; the one in the IPv6 header</entry>
+ Source address – the one in the IPv6 header</entry>
 <entry level="1" type="bullet">
 
- Destination address &ndash; the final destination; if the IPv6 packet doesn't contain a Routing header, that will be the destination address in the IPv6 header, otherwise, at the originating node, it will be the address in the last element of the Routing header, and, at the receiving node, it will be the destination address in the IPv6 header. </entry>
+ Destination address – the final destination; if the IPv6 packet doesn't contain a Routing header, that will be the destination address in the IPv6 header, otherwise, at the originating node, it will be the address in the last element of the Routing header, and, at the receiving node, it will be the destination address in the IPv6 header. </entry>
 <entry level="1" type="bullet">
 
- TCP length &ndash; the length of the TCP header and data;</entry>
+ TCP length – the length of the TCP header and data;</entry>
 <entry level="1" type="bullet">
 
- Next Header &ndash; the protocol value for TCP</entry>
+ Next Header – the protocol value for TCP</entry>
 </list>
 </p>
 
@@ -2248,17 +2248,17 @@ Comer, Douglas E.</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&#32;(2006). Internetworking with TCP/IP:Principles, Protocols, and Architecture, 5th&#32;<b>1</b>,&#32;Prentice Hall. ISBN 0130905526.</cite>&nbsp;</entry>
+&#32;(2006). Internetworking with TCP/IP:Principles, Protocols, and Architecture, 5th&#32;<b>1</b>,&#32;Prentice Hall. ISBN 0130905526.</cite> </entry>
 <entry id="2">
  <cite id="CITEREFStonePartridge2000" style="font-style:normal">Stone&#32;&amp;&#32;Partridge&#32;(2000),&#32;"<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/stone00when.html">
-When The CRC and TCP Checksum Disagree</weblink>",&#32;<it>SIGCOMM</it>, </cite>&nbsp;</entry>
+When The CRC and TCP Checksum Disagree</weblink>",&#32;<it>SIGCOMM</it>, </cite> </entry>
 <entry id="3">
  <cite style="font-style:normal" class="book"><person wordnetid="100007846" confidence="0.9508927676800064">
 <professor wordnetid="110480730" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../110/3110.xml">
 Tanenbaum, Andrew S.</link></professor>
 </person>
-&#32;(2003-03-17). Computer Networks, Fourth Edition,&#32;Prentice Hall. ISBN 0-13-066102-3.</cite>&nbsp;</entry>
+&#32;(2003-03-17). Computer Networks, Fourth Edition,&#32;Prentice Hall. ISBN 0-13-066102-3.</cite> </entry>
 <entry id="4">
 Laurent Joncheray, <it>Simple Active Attack Against TCP</it>, 1995 <weblink xlink:type="simple" xlink:href="http://www.usenix.org/publications/library/proceedings/security95/joncheray.html">
 http://www.usenix.org/publications/library/proceedings/security95/joncheray.html</weblink></entry>

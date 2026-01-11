@@ -45,7 +45,7 @@ Physiological sciences</header>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../565/63565.xml">
-Forensic pathology</link>&nbsp;&#183; <division wordnetid="108220714" confidence="0.8">
+Forensic pathology</link> &#183; <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <branch wordnetid="108401248" confidence="0.8">
 <link xlink:type="simple" xlink:href="../592/422592.xml">
@@ -57,7 +57,7 @@ Forensic dentistry</link></branch>
 <row>
 <col style="padding:0 5px">
  <link xlink:type="simple" xlink:href="../047/379047.xml">
-Forensic anthropology</link>&nbsp;&#183; <link xlink:type="simple" xlink:href="../289/61289.xml">
+Forensic anthropology</link> &#183; <link xlink:type="simple" xlink:href="../289/61289.xml">
 Forensic entomology</link></col>
 </row>
 <row>
@@ -77,7 +77,7 @@ Forensic psychology</link></activity>
 </act>
 </event>
 </occupation>
-&nbsp;&#183; <link xlink:type="simple" xlink:href="../694/888694.xml">
+ &#183; <link xlink:type="simple" xlink:href="../694/888694.xml">
 Forensic psychiatry</link></col>
 </row>
 <row>
@@ -87,7 +87,7 @@ Other specializations</header>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../777/84777.xml">
-Fingerprint analysis</link>&nbsp;&#183; <occupation wordnetid="100582388" confidence="0.8">
+Fingerprint analysis</link> &#183; <occupation wordnetid="100582388" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
@@ -113,14 +113,14 @@ Forensic accounting</link></activity>
 <row>
 <col>
   <link xlink:type="simple" xlink:href="../094/212094.xml">
-Ballistics</link> &nbsp;&#183; <link xlink:type="simple" xlink:href="../331/2782331.xml">
-Bloodstain pattern analysis</link> &nbsp;&#183; <link xlink:type="simple" xlink:href="../174/14732174.xml">
+Ballistics</link>  &#183; <link xlink:type="simple" xlink:href="../331/2782331.xml">
+Bloodstain pattern analysis</link>  &#183; <link xlink:type="simple" xlink:href="../174/14732174.xml">
 Forensic arts</link></col>
 </row>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../290/44290.xml">
-DNA profiling</link>&nbsp;&#183; <link xlink:type="simple" xlink:href="../456/1227456.xml">
+DNA profiling</link> &#183; <link xlink:type="simple" xlink:href="../456/1227456.xml">
 Forensic toxicology</link></col>
 </row>
 <row>
@@ -140,7 +140,7 @@ Cybertechnology in forensics</header>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../334/2119334.xml">
-Information forensics</link>&nbsp;&#183; <operation wordnetid="100955060" confidence="0.8">
+Information forensics</link> &#183; <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -266,13 +266,13 @@ Related articles</header>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../350/1554350.xml">
-Crime scene</link>&nbsp;&#183; <link xlink:type="simple" xlink:href="../083/2303083.xml">
+Crime scene</link> &#183; <link xlink:type="simple" xlink:href="../083/2303083.xml">
 CSI Effect</link></col>
 </row>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../051/1723051.xml">
-Trace evidence</link>&nbsp;&#183; <link xlink:type="simple" xlink:href="../541/2535541.xml">
+Trace evidence</link> &#183; <link xlink:type="simple" xlink:href="../541/2535541.xml">
 Skid mark</link></col>
 </row>
 <row>
@@ -688,7 +688,7 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Casey, Eoghan; Stellatos, Gerasimos J.&#32;(2008).&#32;"The impact of full disk encryption on digital forensics". <it>Operating Systems Review</it>&#32;<b>42</b>&#32;(3): 93&ndash;98. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Casey, Eoghan; Stellatos, Gerasimos J.&#32;(2008).&#32;"The impact of full disk encryption on digital forensics". <it>Operating Systems Review</it>&#32;<b>42</b>&#32;(3): 93–98. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -696,7 +696,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F1368506.1368519">
-10.1145/1368506.1368519</weblink>.</cite>&nbsp;</entry>
+10.1145/1368506.1368519</weblink>.</cite> </entry>
 </list>
 </p>
 

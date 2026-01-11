@@ -41,7 +41,7 @@ ac.tennyson.jpg
 </caption>
 </image>
 <death_date>
-2 December 1928 (aged&nbsp;76)</death_date>
+2 December 1928 (aged 76)</death_date>
 <successor>
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -302,7 +302,7 @@ Dictionary of Australian Biography</link></publication>
 </work>
 </it>.&#32;&#32;Sydney:&#32;Angus and Robertson.&#32;Retrieved on <link>
 {. Retrieved on <link>
-{}</link>.}</link>.</cite>&nbsp;</entry>
+{}</link>.}</link>.</cite> </entry>
 </list>
 </p>
 
@@ -317,7 +317,7 @@ Government offices</header>
 </row>
 <row style="text-align:center;">
 <col align="center" width="30%" rowspan="1">
-Preceded&nbsp;by<b><physical_entity wordnetid="100001930" confidence="0.8">
+Preceded by<b><physical_entity wordnetid="100001930" confidence="0.8">
 <politician wordnetid="110451263" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -333,9 +333,9 @@ Sir Thomas Buxton</link></causal_agent>
 </b></col>
 <col style="text-align: center;" width="40%" rowspan="1">
 <b><link>
-Governor of South Australia</link></b>1899 &ndash; 1902</col>
+Governor of South Australia</link></b>1899 – 1902</col>
 <col align="center" width="30%" rowspan="1">
- Succeeded&nbsp;by<b><physical_entity wordnetid="100001930" confidence="0.8">
+ Succeeded by<b><physical_entity wordnetid="100001930" confidence="0.8">
 <politician wordnetid="110451263" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -355,7 +355,7 @@ Sir George Le Hunte</link></causal_agent>
 </row>
 <row style="text-align:center;">
 <col align="center" width="30%" rowspan="1">
-Preceded&nbsp;by<b><marquis wordnetid="110295479" confidence="0.8">
+Preceded by<b><marquis wordnetid="110295479" confidence="0.8">
 <baroness wordnetid="109843309" confidence="0.8">
 <link xlink:type="simple" xlink:href="../842/331842.xml">
 The Marquess of Linlithgow</link></baroness>
@@ -377,9 +377,9 @@ Governor-General of Australia</link></viceroy>
 </person>
 </politician>
 </physical_entity>
-</b>1903 &ndash; 1904</col>
+</b>1903 – 1904</col>
 <col align="center" width="30%" rowspan="1">
- Succeeded&nbsp;by<b><physical_entity wordnetid="100001930" confidence="0.8">
+ Succeeded by<b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <male wordnetid="109624168" confidence="0.8">
 <governor wordnetid="110140314" confidence="0.8">
@@ -434,7 +434,7 @@ Peerage of the United Kingdom</link></people>
 </row>
 <row style="text-align:center;">
 <col align="center" width="30%" rowspan="1">
-Preceded&nbsp;by<b><person wordnetid="100007846" confidence="0.9508927676800064">
+Preceded by<b><person wordnetid="100007846" confidence="0.9508927676800064">
 <writer wordnetid="110794014" confidence="0.9508927676800064">
 <poet_laureate wordnetid="110447585" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../209/59209.xml">
@@ -446,7 +446,7 @@ Alfred Tennyson</link></poet_laureate>
 <b><link xlink:type="simple" xlink:href="../104/511104.xml">
 Baron Tennyson</link></b></col>
 <col align="center" width="30%" rowspan="1">
- Succeeded&nbsp;by<b><cricketer wordnetid="109977326" confidence="0.9508927676800064">
+ Succeeded by<b><cricketer wordnetid="109977326" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/1336719.xml">
 Lionel Tennyson</link></cricketer>
 </b></col>
@@ -491,11 +491,11 @@ Governors-General of Australia</link></viceroy>
 <link xlink:type="simple" xlink:href="../842/331842.xml">
 Hopetoun</link></baroness>
 </marquis>
-&nbsp;· 
+ · 
 <baron wordnetid="109840520" confidence="0.8">
 <link xlink:type="simple" xlink:href="../601/337601.xml">
 Tennyson</link></baron>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <male wordnetid="109624168" confidence="0.8">
@@ -525,25 +525,25 @@ Northcote</link></offspring>
 </male>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../982/349982.xml">
 Dudley</link></person>
-&nbsp;· 
+ · 
 <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../230/350230.xml">
 Denman</link></person>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../953/350953.xml">
-Munro-Ferguson</link>&nbsp;· 
+Munro-Ferguson</link> · 
 <link xlink:type="simple" xlink:href="../554/351554.xml">
-Forster</link>&nbsp;· 
+Forster</link> · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../600/351600.xml">
 Stonehaven</link></person>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../367/295367.xml">
-Isaacs</link>&nbsp;· 
+Isaacs</link> · 
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <commissioned_officer wordnetid="109942970" confidence="0.8">
@@ -577,19 +577,19 @@ Gowrie</link></friend>
 </commissioned_officer>
 </physical_entity>
 </skilled_worker>
-&nbsp;· 
+ · 
 <sovereign wordnetid="110628644" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../097/222097.xml">
 Gloucester</link></sovereign>
-&nbsp;· 
+ · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../045/353045.xml">
 McKell</link></person>
-&nbsp;· 
+ · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../416/353416.xml">
 Slim</link></person>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -619,7 +619,7 @@ Dunrossil</link></negotiator>
 </person>
 </skilled_worker>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -647,7 +647,7 @@ De L'Isle</link></male_aristocrat>
 </person>
 </skilled_worker>
 </physical_entity>
-&nbsp;· 
+ · 
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
@@ -695,7 +695,7 @@ Casey</link></friend>
 </peer>
 </physical_entity>
 </skilled_worker>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -721,7 +721,7 @@ Hasluck</link></knight>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;· 
+ · 
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <adjudicator wordnetid="109769636" confidence="0.8">
@@ -747,7 +747,7 @@ Kerr</link></knight>
 </adjudicator>
 </physical_entity>
 </skilled_worker>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -773,7 +773,7 @@ Cowen</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;· 
+ · 
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <adjudicator wordnetid="109769636" confidence="0.8">
@@ -805,11 +805,11 @@ Stephen</link></lawyer>
 </adjudicator>
 </physical_entity>
 </skilled_worker>
-&nbsp;· 
+ · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/322642.xml">
 Hayden</link></person>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -835,7 +835,7 @@ Deane</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -867,7 +867,7 @@ Hollingworth</link></friend>
 </person>
 </skilled_worker>
 </physical_entity>
-&nbsp;· 
+ · 
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <commissioned_officer wordnetid="109942970" confidence="0.8">
@@ -903,7 +903,7 @@ Jeffery</link></friend>
 </commissioned_officer>
 </physical_entity>
 </skilled_worker>
-&nbsp;· 
+ · 
 <governor wordnetid="110140314" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../446/698446.xml">
 Bryce</link></governor>

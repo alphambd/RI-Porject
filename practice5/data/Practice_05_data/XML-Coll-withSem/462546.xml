@@ -78,7 +78,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/fic.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/fic.html">
 FIC</weblink>)</type>
 <products>
 <link xlink:type="simple" xlink:href="../448/462448.xml">
@@ -134,7 +134,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/fic.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/fic.html">
 FIC</weblink>), founded in 1956 by engineer <link xlink:type="simple" xlink:href="../587/7888587.xml">
 Bill Fair</link> and mathematician <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">

@@ -40,11 +40,11 @@
 </row>
 <row>
 <col colspan="2">
-&nbsp;<b>General Information</b></col>
+ <b>General Information</b></col>
 </row>
 <row>
 <col width="50%">
- &nbsp;<link xlink:type="simple" xlink:href="../165/5165.xml">
+  <link xlink:type="simple" xlink:href="../165/5165.xml">
 Country</link></col>
 <col>
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -54,7 +54,7 @@ Pakistan</link></country>
 </row>
 <row>
 <col>
- &nbsp;<subdivision wordnetid="108674251" confidence="0.8">
+  <subdivision wordnetid="108674251" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -82,7 +82,7 @@ Punjab</link></geographical_area>
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../361/48361.xml">
+  <link xlink:type="simple" xlink:href="../361/48361.xml">
 Coordinates</link></col>
 <col>
  <weblink xlink:type="simple" xlink:href="http://stable.toolserver.org/geohack/geohack.php?pagename=Gujar_Khan&amp;params=33_15_33_N_73_18_18_E_region:PK_type:city">
@@ -92,11 +92,11 @@ Coordinates</link>: <weblink xlink:type="simple" xlink:href="http://stable.tools
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../158/1765158.xml">
+  <link xlink:type="simple" xlink:href="../158/1765158.xml">
 Elevation</link></col>
 <col>
-461&nbsp;<link xlink:type="simple" xlink:href="../947/18947.xml">
-m</link> (1,512&nbsp;<unit_of_measurement wordnetid="113583724" confidence="0.8">
+461 <link xlink:type="simple" xlink:href="../947/18947.xml">
+m</link> (1,512 <unit_of_measurement wordnetid="113583724" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
 <link xlink:type="simple" xlink:href="../482/202482.xml">
 ft</link></definite_quantity>
@@ -106,14 +106,14 @@ AMSL</link></col>
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../209/1209.xml">
+  <link xlink:type="simple" xlink:href="../209/1209.xml">
 Area</link></col>
 <col>
-1,466&nbsp;km2 (566&nbsp;sq&nbsp;mi)</col>
+1,466 km2 (566 sq mi)</col>
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../468/18790468.xml">
+  <link xlink:type="simple" xlink:href="../468/18790468.xml">
 Calling code</link></col>
 <col>
 0513</col>
@@ -121,7 +121,7 @@ Calling code</link></col>
 
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../890/30890.xml">
+  <link xlink:type="simple" xlink:href="../890/30890.xml">
 Time zone</link></col>
 <col>
  <link xlink:type="simple" xlink:href="../316/3417316.xml">
@@ -130,13 +130,13 @@ UTC+5</link>)</col>
 </row>
 <row>
 <col>
- &nbsp;No. of <link xlink:type="simple" xlink:href="../911/52911.xml">
+  No. of <link xlink:type="simple" xlink:href="../911/52911.xml">
 Towns</link></col>
 
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../949/22949.xml">
+  <link xlink:type="simple" xlink:href="../949/22949.xml">
 Population</link></col>
 <col>
  57,152<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> (<link xlink:type="simple" xlink:href="../647/34647.xml">
@@ -144,33 +144,33 @@ Population</link></col>
 </row>
 <row>
 <col>
-&nbsp;Estimate</col>
+ Estimate</col>
 <col>
  72,957<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> (<link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>)</col>
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../608/128608.xml">
+  <link xlink:type="simple" xlink:href="../608/128608.xml">
 Density</link></col>
 <col>
-49.7/km² (129/sq&nbsp;mi)</col>
+49.7/km² (129/sq mi)</col>
 </row>
 
 <row>
 <col colspan="2">
-&nbsp;<b>Government</b></col>
+ <b>Government</b></col>
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../562/2844562.xml">
+  <link xlink:type="simple" xlink:href="../562/2844562.xml">
 Nazim</link>(Mayor)</col>
 <col>
 Muhammad Azeem</col>
 </row>
 <row>
 <col>
- &nbsp;No. of <link xlink:type="simple" xlink:href="../812/4589812.xml">
+  No. of <link xlink:type="simple" xlink:href="../812/4589812.xml">
 Union Councils</link></col>
 <col>
 3 <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></col>

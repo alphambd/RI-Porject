@@ -191,7 +191,7 @@ parking</link></header>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../470/311470.xml">
-Reverse domain hijacking</link>&nbsp;·  <transgression wordnetid="100745005" confidence="0.8">
+Reverse domain hijacking</link> ·  <transgression wordnetid="100745005" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <crime wordnetid="100766234" confidence="0.8">
 <wrongdoing wordnetid="100732746" confidence="0.8">
@@ -206,14 +206,14 @@ Cybersquatting</link></activity>
 </crime>
 </event>
 </transgression>
-&nbsp;·  <link xlink:type="simple" xlink:href="../227/4512227.xml">
-Domaining</link>&nbsp;·  <link xlink:type="simple" xlink:href="../561/11246561.xml">
-Domain name drop list</link>&nbsp;·  <link xlink:type="simple" xlink:href="../973/617973.xml">
-Domain name speculation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../572/10881572.xml">
-Domain sniping</link>&nbsp;·  <link xlink:type="simple" xlink:href="../141/2901141.xml">
-Domain parking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../755/10254755.xml">
-Domain kiting</link>&nbsp;·  <link xlink:type="simple" xlink:href="../767/10254767.xml">
-Domain tasting</link>&nbsp;·  <environment wordnetid="113934596" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../227/4512227.xml">
+Domaining</link> ·  <link xlink:type="simple" xlink:href="../561/11246561.xml">
+Domain name drop list</link> ·  <link xlink:type="simple" xlink:href="../973/617973.xml">
+Domain name speculation</link> ·  <link xlink:type="simple" xlink:href="../572/10881572.xml">
+Domain sniping</link> ·  <link xlink:type="simple" xlink:href="../141/2901141.xml">
+Domain parking</link> ·  <link xlink:type="simple" xlink:href="../755/10254755.xml">
+Domain kiting</link> ·  <link xlink:type="simple" xlink:href="../767/10254767.xml">
+Domain tasting</link> ·  <environment wordnetid="113934596" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <sphere wordnetid="114514039" confidence="0.8">
 <situation wordnetid="113927383" confidence="0.8">
@@ -222,9 +222,9 @@ Domain name warehousing</link></situation>
 </sphere>
 </state>
 </environment>
-&nbsp;·  <link xlink:type="simple" xlink:href="../521/2151521.xml">
-Type-in traffic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../330/18935330.xml">
-Typosquatting</link>&nbsp;·  <link xlink:type="simple" xlink:href="../679/15160679.xml">
+ ·  <link xlink:type="simple" xlink:href="../521/2151521.xml">
+Type-in traffic</link> ·  <link xlink:type="simple" xlink:href="../330/18935330.xml">
+Typosquatting</link> ·  <link xlink:type="simple" xlink:href="../679/15160679.xml">
 Domain name front running</link></col>
 </row>
 <row style="height:2px">
@@ -235,7 +235,7 @@ Domain name front running</link></col>
 Legal</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../754/985754.xml">
-Anticybersquatting Consumer Protection Act (Truth in Domain Names Act)</link>&nbsp;·  <law wordnetid="108441203" confidence="0.8">
+Anticybersquatting Consumer Protection Act (Truth in Domain Names Act)</link> ·  <law wordnetid="108441203" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../133/1650133.xml">
@@ -252,9 +252,9 @@ PROTECT Act of 2003</link></group>
 Technical</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../393/2636393.xml">
-Domain hack</link>&nbsp;·  <link xlink:type="simple" xlink:href="../330/18935330.xml#xpointer(//*[./st=%22Catchall+typosquatting%22])">
-"Catchall" typosquatting</link>&nbsp;·  <link xlink:type="simple" xlink:href="../300/320300.xml">
-Wildcard DNS record</link>&nbsp;·  <link xlink:type="simple" xlink:href="../690/13738690.xml">
+Domain hack</link> ·  <link xlink:type="simple" xlink:href="../330/18935330.xml#xpointer(//*[./st=%22Catchall+typosquatting%22])">
+"Catchall" typosquatting</link> ·  <link xlink:type="simple" xlink:href="../300/320300.xml">
+Wildcard DNS record</link> ·  <link xlink:type="simple" xlink:href="../690/13738690.xml">
 Fast flux</link></col>
 </row>
 </table>

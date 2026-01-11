@@ -409,15 +409,15 @@ A derivation also imposes in some sense a hierarchical structure on the string t
 
 S &amp;rarr; S + S   (1)
 </indent>
-:&nbsp;&nbsp; &amp;rarr; S + S + S (1)
+:   &amp;rarr; S + S + S (1)
 <indent level="1">
 
-&nbsp;&nbsp; &amp;rarr; 1 + S + S (2)
+   &amp;rarr; 1 + S + S (2)
 </indent>
-:&nbsp;&nbsp; &amp;rarr; 1 + 1 + S (2)
+:   &amp;rarr; 1 + 1 + S (2)
 <indent level="1">
 
-&nbsp;&nbsp; &amp;rarr; 1 + 1 + a (3)
+   &amp;rarr; 1 + 1 + a (3)
 </indent>
 
 the structure of the string would be:</p>
@@ -450,15 +450,15 @@ abstract syntax tree</link>) of the string. In this case the presented leftmost 
 
 S &amp;rarr; S + S      (1)
 </indent>
-:&nbsp;&nbsp; &amp;rarr; 1 + S      (2)
+:   &amp;rarr; 1 + S      (2)
 <indent level="1">
 
-&nbsp;&nbsp; &amp;rarr; 1 + S + S  (1)
+   &amp;rarr; 1 + S + S  (1)
 </indent>
-:&nbsp;&nbsp; &amp;rarr; 1 + 1 + S  (2) 
+:   &amp;rarr; 1 + 1 + S  (2) 
 <indent level="1">
 
-&nbsp;&nbsp; &amp;rarr; 1 + 1 + a  (3)
+   &amp;rarr; 1 + 1 + a  (3)
 </indent>
 
 and this defines the following syntax tree:</p>
@@ -706,11 +706,11 @@ Notes</st>
 <entry id="1">
  <cite style="font-style:normal">Chomsky, Noam&#32;(Sep 1956).&#32;"<weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/iel5/18/22738/01056813.pdf?isnumber=22738&amp;prod=STD&amp;arnumber=1056813&amp;arnumber=1056813&amp;arSt=+113&amp;ared=+124&amp;arAuthor=+Chomsky%2C+N.">
 Three models for the description of language</weblink>". <it>Information Theory, IEEE Transactions</it>&#32;<b>2</b>&#32;(3): 113–124. Retrieved on <link>
-2007-06-18</link>.</cite>&nbsp;</entry>
+2007-06-18</link>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">L, BalaSundaraRaman;&#32;Ishwar.S, Sanjeeth Kumar Ravindranath&#32;(2003-08-22). "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/balasundararaman03context.html">
 Context Free Grammar for Natural Language Constructs - An implementation for Venpa Class of Tamil Poetry</weblink>".&#32;<it>Proceedings of Tamil Internet, Chennai, 2003</it>: 128-136, International Forum for Information Technology in Tamil. Retrieved on <link>
-2006-08-24</link>.</cite>&nbsp;</entry>
+2006-08-24</link>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Shieber, Stuart&#32;(1985).&#32;"<weblink xlink:type="simple" xlink:href="http://www.eecs.harvard.edu/~shieber/Biblio/Papers/shieber85.pdf">
 Evidence against the context-freeness of natural language</weblink>". <it>Linguistics and Philosophy</it>&#32;<b>8</b>: 333–343. <document wordnetid="106470073" confidence="0.8">
@@ -721,7 +721,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF00630917">
-10.1007/BF00630917</weblink>.</cite>&nbsp;</entry>
+10.1007/BF00630917</weblink>.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Pullum, Geoffrey K.; Gerald Gazdar&#32;(1982).&#32;"Natural languages and context-free languages". <it>Linguistics and Philosophy</it>&#32;<b>4</b>: 471–504. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -731,7 +731,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF00360802">
-10.1007/BF00360802</weblink>.</cite>&nbsp;</entry>
+10.1007/BF00360802</weblink>.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Culy, Christopher&#32;(1985).&#32;"The Complexity of the Vocabulary of Bambara". <it>Linguistics and Philosophy</it>&#32;<b>8</b>: 345–351. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -741,7 +741,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF00630918">
-10.1007/BF00630918</weblink>.</cite>&nbsp;</entry>
+10.1007/BF00630918</weblink>.</cite> </entry>
 </reflist>
 </p>
 
@@ -778,7 +778,7 @@ Michael Sipser</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>&nbsp; Section 2.1: Context-Free Grammars, pp.91–101. Section 4.1.2: Decidable problems concerning context-free languages, pp.156–159. Section 5.1.1: Reductions via computation histories: pp.176–183.</entry>
+&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>  Section 2.1: Context-Free Grammars, pp.91–101. Section 4.1.2: Decidable problems concerning context-free languages, pp.156–159. Section 5.1.1: Reductions via computation histories: pp.176–183.</entry>
 </list>
 </p>
 

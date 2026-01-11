@@ -47,7 +47,7 @@
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -88,7 +88,7 @@ England</link></country>
 <name>
 Donald Michie</name>
 <death_date>
-July 7, 2007 (aged&nbsp;83)</death_date>
+July 7, 2007 (aged 83)</death_date>
 <birth_date>
 November 11, 1923(1923-11-11)</birth_date>
 <birth_place>
@@ -147,7 +147,7 @@ British</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../457/19457.xml">
 Burma</link></country>
 , <image width="22x20px" src="Flag_of_the_United_Kingdom.svg">
@@ -156,7 +156,7 @@ Burma</link></country>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -400,7 +400,7 @@ The Guardian</link></newspaper>
 &#32;(<link xlink:type="simple" xlink:href="../809/15809.xml">
 July 10</link>, <link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>).&#32;Retrieved on <link>
-2007-07-10</link>.&nbsp;</entry>
+2007-07-10</link>. </entry>
 <entry id="2">
 "<weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/1/hi/england/6281348.stm">
 Academic pair killed in car crash</weblink>", <statement wordnetid="106722453" confidence="0.8">
@@ -415,7 +415,7 @@ BBC News</link></program>
 &#32;(<link xlink:type="simple" xlink:href="../874/15874.xml">
 July 8</link>, <link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>).&#32;Retrieved on <link>
-2007-07-08</link>.&nbsp;</entry>
+2007-07-08</link>. </entry>
 <entry id="3">
 Michie, Donald.&#32;"<weblink xlink:type="simple" xlink:href="http://www.aiai.ed.ac.uk/~dm/dmcv.html">
 Curriculum Vitae</weblink>".&#32;Retrieved on <link>
@@ -424,12 +424,12 @@ Curriculum Vitae</weblink>".&#32;Retrieved on <link>
  <cite id="Reference-Budiansky-2006" style="font-style:normal" class="book">Budiansky, Stephen&#32;(2006).&#32;in B. Jack Copeland: Colossus: The Secrets of Bletchley Park's Codebreaking Computers.&#32;<company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../518/48518.xml">
 Oxford University Press</link></company>
-,&#32;pp. 52-63.</cite>&nbsp;</entry>
+,&#32;pp. 52-63.</cite> </entry>
 <entry id="5">
 <weblink xlink:type="simple" xlink:href="http://www.inf.ed.ac.uk/about/Michie.pdf">
 Special Minute of Senatus, University of Edinburgh, 23rd Jan., 1985</weblink></entry>
 <entry id="6">
- <cite style="font-style:normal" class="book">&#32;(1967) Memo functions: a language feature with 'rote-learning' properties..&#32;Edinburgh:&#32;Department of Machine Intelligence &amp; Perception.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">&#32;(1967) Memo functions: a language feature with 'rote-learning' properties..&#32;Edinburgh:&#32;Department of Machine Intelligence &amp; Perception.</cite> </entry>
 <entry id="7">
 <weblink xlink:type="simple" xlink:href="http://www.aiai.ed.ac.uk/~dm/dm.html">
 Donald Michie</weblink></entry>

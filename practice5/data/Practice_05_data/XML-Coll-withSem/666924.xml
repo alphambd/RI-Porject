@@ -1331,9 +1331,9 @@ Data as a service</link></entry>
 
 <reflist>
 <entry id="1">
- <cite id="Reference-Newcomer-2005" style="font-style:normal" class="book">Newcomer, Eric;&#32;Lomow, Greg&#32;(2005). Understanding SOA with Web Services.&#32;Addison Wesley. ISBN 0-321-18086-0.</cite>&nbsp;</entry>
+ <cite id="Reference-Newcomer-2005" style="font-style:normal" class="book">Newcomer, Eric;&#32;Lomow, Greg&#32;(2005). Understanding SOA with Web Services.&#32;Addison Wesley. ISBN 0-321-18086-0.</cite> </entry>
 <entry id="2">
- <cite id="Reference-Erl-2005" style="font-style:normal" class="book">Erl, Thomas&#32;(2005). Service-oriented Architecture: Concepts, Technology, and Design.&#32;Upper Saddle River:&#32;Prentice Hall PTR. ISBN 0-13-185858-0.</cite>&nbsp;</entry>
+ <cite id="Reference-Erl-2005" style="font-style:normal" class="book">Erl, Thomas&#32;(2005). Service-oriented Architecture: Concepts, Technology, and Design.&#32;Upper Saddle River:&#32;Prentice Hall PTR. ISBN 0-13-185858-0.</cite> </entry>
 <entry id="3">
  An alternative view, particularly after initial deployments, is that SOAs properly ought not dictate physical implementation, so the formal definition should not include "network." High performance SOAs may not be viable, especially if deployed to distributed nodes on a network. Separate nodes for every (or most) services could be prohibitively expensive.</entry>
 <entry id="4">
@@ -1355,9 +1355,9 @@ Serviceorientation.org - About the Principles</weblink>, 2005-2006</entry>
 <weblink xlink:type="simple" xlink:href="http://www.soablueprint.com/whitepapers/SOAPGPart2.pdf">
 SOA Practitioners Guide Part 2: SOA Reference Architecture</weblink></entry>
 <entry id="8">
- <cite id="Reference-Cardoso-2006" style="font-style:normal" class="book">Cardoso, Jorge;&#32;Sheth, Amit P.&#32;(2006).&#32;"Foreword", Semantic Web Services, Processes and Applications, Foreword by Frank Leymann, SEMANTIC WEB AND BEYOND: Computing for Human Experience,&#32;Springer,&#32;xxi. ISBN 978-0-387-30239-3.&nbsp;"The corresponding architectural style is called "service-oriented architecture": fundamentally, it describes how service requesters and service providers can be decoupled via discovery mechanisms resulting in loosely coupled systems. ... Implementing a service-oriented architecture means to deal with heterogeneity and interoperability concerns."</cite>&nbsp;</entry>
+ <cite id="Reference-Cardoso-2006" style="font-style:normal" class="book">Cardoso, Jorge;&#32;Sheth, Amit P.&#32;(2006).&#32;"Foreword", Semantic Web Services, Processes and Applications, Foreword by Frank Leymann, SEMANTIC WEB AND BEYOND: Computing for Human Experience,&#32;Springer,&#32;xxi. ISBN 978-0-387-30239-3. "The corresponding architectural style is called "service-oriented architecture": fundamentally, it describes how service requesters and service providers can be decoupled via discovery mechanisms resulting in loosely coupled systems. ... Implementing a service-oriented architecture means to deal with heterogeneity and interoperability concerns."</cite> </entry>
 <entry id="9">
- <cite id="Reference-Bell-2008" style="font-style:normal" class="book">Bell, Michael&#32;(2008).&#32;"Introduction to Service-Oriented Modeling", Service-Oriented Modeling: Service Analysis, Design, and Architecture.&#32;Wiley &amp; Sons,&#32;3. ISBN 978-0-470-14111-3.</cite>&nbsp;</entry>
+ <cite id="Reference-Bell-2008" style="font-style:normal" class="book">Bell, Michael&#32;(2008).&#32;"Introduction to Service-Oriented Modeling", Service-Oriented Modeling: Service Analysis, Design, and Architecture.&#32;Wiley &amp; Sons,&#32;3. ISBN 978-0-470-14111-3.</cite> </entry>
 <entry id="10">
 <weblink xlink:type="simple" xlink:href="http://opengroup.org/projects/soa/doc.tpl?gdid=10632">
 SOA - Documents - Document details</weblink></entry>
@@ -1368,7 +1368,7 @@ SOA Reference Model definition</weblink></entry>
 Steve Jones <weblink xlink:type="simple" xlink:href="http://www.infoq.com/minibooks/enterprise-soa">
 Enterprise SOA Adoption Strategies</weblink>, <it>InfoQ</it>, May 17, 2006, ISBN 978-1-84728-398-6</entry>
 <entry id="13">
- <cite style="font-style:normal" class="book">Spewak, Steven;&#32;Hill, Steven C.. Enterprise Architecture Planning: Developing a Blueprint for Data, Applications, and Technology. ISBN 978-0894354366.</cite>&nbsp; Note that there is another edition that just lists Spewak as an author that may have better availability.</entry>
+ <cite style="font-style:normal" class="book">Spewak, Steven;&#32;Hill, Steven C.. Enterprise Architecture Planning: Developing a Blueprint for Data, Applications, and Technology. ISBN 978-0894354366.</cite>  Note that there is another edition that just lists Spewak as an author that may have better availability.</entry>
 <entry id="14">
 Bieberstein et al, Executing SOA: A Practical Guide for the Service-Oriented Architect (Paperback), IBM Press books, 978-0132353748</entry>
 <entry id="15">

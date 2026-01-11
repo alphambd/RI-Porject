@@ -249,7 +249,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2Fbtl639">
-10.1093/bioinformatics/btl639</weblink>. PMID 17204465.</cite>&nbsp;</entry>
+10.1093/bioinformatics/btl639</weblink>. PMID 17204465.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Hiller M, Pudimat R, Busch A, Backofen R&#32;(2006).&#32;"Using RNA secondary structures to guide sequence motif finding towards single-stranded regions". <it>Nucleic Acids Res</it>&#32;<b>34</b>&#32;(17): e117. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -261,11 +261,11 @@ doi</link></writing>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fnar%2Fgkl544">
 10.1093/nar/gkl544</weblink>. PMID 16987907. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16987907">
- 16987907</weblink>.</cite>&nbsp;</entry>
+ 16987907</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Patterson DJ, Yasuhara K, Ruzzo WL&#32;(2002).&#32;"Pre-mRNA secondary structure prediction aids splice site prediction". <it>Pac Symp Biocomput</it>: 223–234. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11928478">
- 11928478</weblink>.</cite>&nbsp;</entry>
+ 11928478</weblink>.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Marashi SA, Goodarzi H, Sadeghi M, Eslahchi C, Pezeshk H&#32;(2006).&#32;"Importance of RNA secondary structure information for yeast donor and acceptor splice site predictions by neural networks". <it>Comput Biol Chem</it>&#32;<b>30</b>&#32;(1): 50–57. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -277,7 +277,7 @@ doi</link></writing>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.compbiolchem.2005.10.009">
 10.1016/j.compbiolchem.2005.10.009</weblink>. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16386465">
- 16386465</weblink>.</cite>&nbsp;</entry>
+ 16386465</weblink>.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Marashi SA, Eslahchi C, Pezeshk H, Sadeghi M&#32;(2006).&#32;"Impact of RNA structure on the prediction of donor and acceptor splice sites". <it>BMC Bioinformatics</it>&#32;<b>7</b>: 297. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -289,7 +289,7 @@ doi</link></writing>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1186%2F1471-2105-7-297">
 10.1186/1471-2105-7-297</weblink>. <link xlink:type="simple" xlink:href="../212/559212.xml">
 Entrez PubMed</link> <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16772025">
- 16772025</weblink>.</cite>&nbsp;</entry>
+ 16772025</weblink>.</cite> </entry>
 <entry id="6">
 Rogic, S (2006). "<weblink xlink:type="simple" xlink:href="http://www.cs.ubc.ca/grads/resources/thesis/Nov06/Rogic_Sanja.pdf">
 The role of pre-mRNA secondary structure in gene splicing in Saccharomyces cerevisiae</weblink>". <it>PhD Dissertation, University of British Columbia</it>.</entry>
@@ -313,9 +313,9 @@ Genomics</link>topics</header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../792/323792.xml">
-Genome project</link>&nbsp;·  <link xlink:type="simple" xlink:href="../560/2606560.xml">
-Paleopolyploidy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../087/61087.xml">
-Glycomics</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Genome project</link> ·  <link xlink:type="simple" xlink:href="../560/2606560.xml">
+Paleopolyploidy</link> ·  <link xlink:type="simple" xlink:href="../087/61087.xml">
+Glycomics</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <undertaking wordnetid="100795720" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -328,17 +328,17 @@ Human Genome Project</link></activity>
 </undertaking>
 </event>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../172/55172.xml">
-Proteomics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../211/1029211.xml">
-Metabolomics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../909/5168909.xml">
-Chemogenomics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../101/303101.xml">
-Structural genomics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../064/1889064.xml">
-Pharmacogenetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../486/1004486.xml">
-Pharmacogenomics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../333/1677333.xml">
-Toxicogenomics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../276/2571276.xml">
-Computational genomics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../214/4214.xml">
-Bioinformatics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../697/575697.xml">
-Cheminformatics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../899/467899.xml">
+ ·  <link xlink:type="simple" xlink:href="../172/55172.xml">
+Proteomics</link> ·  <link xlink:type="simple" xlink:href="../211/1029211.xml">
+Metabolomics</link> ·  <link xlink:type="simple" xlink:href="../909/5168909.xml">
+Chemogenomics</link> ·  <link xlink:type="simple" xlink:href="../101/303101.xml">
+Structural genomics</link> ·  <link xlink:type="simple" xlink:href="../064/1889064.xml">
+Pharmacogenetics</link> ·  <link xlink:type="simple" xlink:href="../486/1004486.xml">
+Pharmacogenomics</link> ·  <link xlink:type="simple" xlink:href="../333/1677333.xml">
+Toxicogenomics</link> ·  <link xlink:type="simple" xlink:href="../276/2571276.xml">
+Computational genomics</link> ·  <link xlink:type="simple" xlink:href="../214/4214.xml">
+Bioinformatics</link> ·  <link xlink:type="simple" xlink:href="../697/575697.xml">
+Cheminformatics</link> ·  <link xlink:type="simple" xlink:href="../899/467899.xml">
 Systems biology</link></col>
 </row>
 </table>
@@ -364,34 +364,34 @@ biology</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../674/674.xml">
-Anatomy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../787/2787.xml">
-Astrobiology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../954/3954.xml">
-Biochemistry</link>&nbsp;·  <link xlink:type="simple" xlink:href="../214/4214.xml">
-Bioinformatics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../878/3878.xml">
-Biostatistics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../183/4183.xml">
-Botany</link>&nbsp;·  <link xlink:type="simple" xlink:href="../339/6339.xml">
-Cell biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../566/56566.xml">
-Chronobiology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../449/8449.xml">
-Developmental biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../630/9630.xml">
-Ecology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../997/66997.xml">
-Epidemiology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../101/418101.xml">
-Evolutionary biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../266/12266.xml">
-Genetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../170/55170.xml">
-Genomics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../951/411951.xml">
-Human biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../959/14959.xml">
-Immunology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../021/20021.xml">
-Marine biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../909/19909.xml">
-Microbiology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../200/19200.xml">
-Molecular biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../245/21245.xml">
-Neuroscience</link>&nbsp;·  <link xlink:type="simple" xlink:href="../525/21525.xml">
-Nutrition</link>&nbsp;·  <link xlink:type="simple" xlink:href="../706/19179706.xml">
-Origin of life</link>&nbsp;·  <link xlink:type="simple" xlink:href="../084/23084.xml">
-Paleontology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../854/383854.xml">
-Parasitology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../791/48791.xml">
-Pathology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../597/23597.xml">
-Physiology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../899/467899.xml">
-Systems biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../154/3036154.xml">
-Taxonomy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../413/34413.xml">
+Anatomy</link> ·  <link xlink:type="simple" xlink:href="../787/2787.xml">
+Astrobiology</link> ·  <link xlink:type="simple" xlink:href="../954/3954.xml">
+Biochemistry</link> ·  <link xlink:type="simple" xlink:href="../214/4214.xml">
+Bioinformatics</link> ·  <link xlink:type="simple" xlink:href="../878/3878.xml">
+Biostatistics</link> ·  <link xlink:type="simple" xlink:href="../183/4183.xml">
+Botany</link> ·  <link xlink:type="simple" xlink:href="../339/6339.xml">
+Cell biology</link> ·  <link xlink:type="simple" xlink:href="../566/56566.xml">
+Chronobiology</link> ·  <link xlink:type="simple" xlink:href="../449/8449.xml">
+Developmental biology</link> ·  <link xlink:type="simple" xlink:href="../630/9630.xml">
+Ecology</link> ·  <link xlink:type="simple" xlink:href="../997/66997.xml">
+Epidemiology</link> ·  <link xlink:type="simple" xlink:href="../101/418101.xml">
+Evolutionary biology</link> ·  <link xlink:type="simple" xlink:href="../266/12266.xml">
+Genetics</link> ·  <link xlink:type="simple" xlink:href="../170/55170.xml">
+Genomics</link> ·  <link xlink:type="simple" xlink:href="../951/411951.xml">
+Human biology</link> ·  <link xlink:type="simple" xlink:href="../959/14959.xml">
+Immunology</link> ·  <link xlink:type="simple" xlink:href="../021/20021.xml">
+Marine biology</link> ·  <link xlink:type="simple" xlink:href="../909/19909.xml">
+Microbiology</link> ·  <link xlink:type="simple" xlink:href="../200/19200.xml">
+Molecular biology</link> ·  <link xlink:type="simple" xlink:href="../245/21245.xml">
+Neuroscience</link> ·  <link xlink:type="simple" xlink:href="../525/21525.xml">
+Nutrition</link> ·  <link xlink:type="simple" xlink:href="../706/19179706.xml">
+Origin of life</link> ·  <link xlink:type="simple" xlink:href="../084/23084.xml">
+Paleontology</link> ·  <link xlink:type="simple" xlink:href="../854/383854.xml">
+Parasitology</link> ·  <link xlink:type="simple" xlink:href="../791/48791.xml">
+Pathology</link> ·  <link xlink:type="simple" xlink:href="../597/23597.xml">
+Physiology</link> ·  <link xlink:type="simple" xlink:href="../899/467899.xml">
+Systems biology</link> ·  <link xlink:type="simple" xlink:href="../154/3036154.xml">
+Taxonomy</link> ·  <link xlink:type="simple" xlink:href="../413/34413.xml">
 Zoology</link></col>
 </row>
 </table>

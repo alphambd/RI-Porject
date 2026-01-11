@@ -328,7 +328,7 @@ Intel 8088</link></semiconductor_device>
 </chip>
  microprocessor, and needed an operating system. Seeking an 8088-compatible build of CP/M, IBM initially approached Microsoft CEO Bill Gates (possibly believing that Microsoft owned CP/M due to the Microsoft <link xlink:type="simple" xlink:href="../233/7564233.xml">
 Z-80 SoftCard</link>, which allowed CP/M to run on an <link xlink:type="simple" xlink:href="../ury/22nd_century.xml">
-Apple II</link><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2210%22])">10</ref>). IBM was sent to Digital Research, and a meeting was set up. However, the initial negotiations for the use of CP/M broke down&mdash;Digital Research wished to sell CP/M on a royalty basis, while IBM sought a single license, and to change the name to "PC-DOS". DR founder <computer_scientist wordnetid="109951070" confidence="0.9173553029164789">
+Apple II</link><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2210%22])">10</ref>). IBM was sent to Digital Research, and a meeting was set up. However, the initial negotiations for the use of CP/M broke down—Digital Research wished to sell CP/M on a royalty basis, while IBM sought a single license, and to change the name to "PC-DOS". DR founder <computer_scientist wordnetid="109951070" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../740/12740.xml">
 Gary Kildall</link></person>
@@ -1056,7 +1056,7 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite id="Reference-Murdock-1988" style="font-style:normal" class="book">Murdock, Everett&#32;(1988). DOS the Easy Way.&#32;EasyWay Downloadable Books. ISBN 0923178007.</cite>&nbsp;</entry>
+ <cite id="Reference-Murdock-1988" style="font-style:normal" class="book">Murdock, Everett&#32;(1988). DOS the Easy Way.&#32;EasyWay Downloadable Books. ISBN 0923178007.</cite> </entry>
 <entry id="2">
 See <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
@@ -1095,7 +1095,7 @@ Rolander, Tom. Interview.&#32;<it><weblink xlink:type="simple" xlink:href="http:
 The rest of the story: How Bill Gates beat Gary Kildall in OS war, Part 1</weblink>.''</it></entry>
 <entry id="11">
  <cite id="Reference-Bove-2005" style="font-style:normal" class="book">Bove, Tony&#32;(2005). <weblink xlink:type="simple" xlink:href="http://books.google.co.uk/books?id=I0RB1Xxp-KAC&amp;pg=PA11&amp;lpg=PA11&amp;dq=ibm+cp/m+licensing&amp;source=web&amp;ots=dryptL9LAW&amp;sig=KJqNIT1r_-yVcpe0fa0p9RI1BW4&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=10&amp;ct=result#PPA9,M1">
-Just Say No to Microsoft</weblink>.&#32;No Starch Press,&#32;9-11. ISBN 159327064X.</cite>&nbsp;</entry>
+Just Say No to Microsoft</weblink>.&#32;No Starch Press,&#32;9-11. ISBN 159327064X.</cite> </entry>
 <entry id="12">
 Bellis, Mary.&#32;"<weblink xlink:type="simple" xlink:href="http://inventors.about.com/library/weekly/aa033099.htm">
 The Unusual History of MS-DOS The Microsoft Operating System</weblink>".&#32;Retrieved on <link>
@@ -1162,13 +1162,13 @@ DOS Games on Vista</weblink>"&#32;(2008-03-11).&#32;Retrieved on <link>
 2008-09-02</link>.</entry>
 <entry id="29">
  <cite style="font-style:normal" class="book">Murdock, Everett. <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=vrsSflB2o5sC">
-DOS the Easy Way</weblink>.&#32;EasyWay Downloadable Books,&#32;71. ISBN 0923178023.</cite>&nbsp;</entry>
+DOS the Easy Way</weblink>.&#32;EasyWay Downloadable Books,&#32;71. ISBN 0923178023.</cite> </entry>
 <entry id="28">
- <cite style="font-style:normal" class="book">Murdock, Everett. DOS the Easy Way.&#32;EasyWay Downloadable Books,&#32;7-12. ISBN 0923178023.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Murdock, Everett. DOS the Easy Way.&#32;EasyWay Downloadable Books,&#32;7-12. ISBN 0923178023.</cite> </entry>
 <entry id="31">
- <cite style="font-style:normal" class="book">Murdock, Everett. DOS the Easy Way.&#32;EasyWay Downloadable Books,&#32;83. ISBN 0923178023.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Murdock, Everett. DOS the Easy Way.&#32;EasyWay Downloadable Books,&#32;83. ISBN 0923178023.</cite> </entry>
 <entry id="30">
- <cite id="Reference-Dvorak-1991" style="font-style:normal" class="book">Dvorak, John;&#32;Nick Anis&#32;(1991). Dvorak's Guide to DOS and PC Performance.&#32;Osborne McGraw-Hill,&#32;442-444.</cite>&nbsp;</entry>
+ <cite id="Reference-Dvorak-1991" style="font-style:normal" class="book">Dvorak, John;&#32;Nick Anis&#32;(1991). Dvorak's Guide to DOS and PC Performance.&#32;Osborne McGraw-Hill,&#32;442-444.</cite> </entry>
 <entry id="34">
 "<weblink xlink:type="simple" xlink:href="http://www.drdos.net/documentation/usergeng/13ugch13.htm">
 Chapter 13 Multitasking and Task Switching</weblink>".&#32;<it>Caldera DR-DOS 7.02 User Guide</it>.&#32;  Caldera Systems&#32;(1998).&#32;Retrieved on <link>
@@ -1178,18 +1178,18 @@ Chapter 13 Multitasking and Task Switching</weblink>".&#32;<it>Caldera DR-DOS 7.
 DOS: still thriving after all these years</weblink>".&#32;<it>Software Magazine</it>.&#32;  Findarticles.com&#32;(May 1990).&#32;Retrieved on <link>
 2008-07-10</link>.</entry>
 <entry id="32">
- <cite style="font-style:normal" class="book">&#32;(1991) DR DOS 6.0 User Guide.&#32;Digital Research,&#32;320-324.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">&#32;(1991) DR DOS 6.0 User Guide.&#32;Digital Research,&#32;320-324.</cite> </entry>
 <entry id="33">
  <cite id="Reference-Perry-2003" style="font-style:normal" class="book">Perry, Greg;&#32;Jill Freeze&#32;(2003). <weblink xlink:type="simple" xlink:href="http://books.google.co.uk/books?id=FptQSQs0skEC&amp;pg=PA445&amp;dq=ms-dos+multitasking&amp;sig=ACfU3U1yCLlNTSiGByW9TJOZJqmPENSdkQ">
-Sams Teach Yourself Windows XP Computer Basics All in One</weblink>.&#32;Sams Publishing,&#32;445. ISBN 0672325357.</cite>&nbsp;</entry>
+Sams Teach Yourself Windows XP Computer Basics All in One</weblink>.&#32;Sams Publishing,&#32;445. ISBN 0672325357.</cite> </entry>
 <entry id="38">
 "<weblink xlink:type="simple" xlink:href="http://www.storagereview.com/guide2000/ref/hdd/bios/sizeGB8.html">
 The Int 13 Interface</weblink>".&#32;<it>The PC Guide</it>.&#32;  storagereview.com.&#32;Retrieved on <link>
 2008-07-10</link>.</entry>
 <entry id="36">
- <cite id="Reference-Duncan-1991" style="font-style:normal" class="book">Duncan, Ray&#32;(1991). Extending DOS: A Programmer's Guide to Protected-Mode DOS, 2,&#32;Addison-Wesley. ISBN 0201567989.</cite>&nbsp;</entry>
+ <cite id="Reference-Duncan-1991" style="font-style:normal" class="book">Duncan, Ray&#32;(1991). Extending DOS: A Programmer's Guide to Protected-Mode DOS, 2,&#32;Addison-Wesley. ISBN 0201567989.</cite> </entry>
 <entry id="37">
- <cite id="Reference-Mueller-2003" style="font-style:normal" class="book">Mueller, Scott&#32;(2003). Upgrading and Repairing PCs.&#32;Que Publishing,&#32;812. ISBN 0789729741.</cite>&nbsp;</entry>
+ <cite id="Reference-Mueller-2003" style="font-style:normal" class="book">Mueller, Scott&#32;(2003). Upgrading and Repairing PCs.&#32;Que Publishing,&#32;812. ISBN 0789729741.</cite> </entry>
 </reflist>
 </p>
 
@@ -1203,7 +1203,7 @@ External links</st>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.nukesoft.co.uk/msdos/">
-<it>MS-DOS Reference''</it></weblink> &mdash; <O wordnetid="106832680" confidence="0.9508927676800064">
+<it>MS-DOS Reference''</it></weblink> — <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
 MS-DOS</link></O>
  commands; many also apply to other DOSes on the <link xlink:type="simple" xlink:href="../803/49803.xml">

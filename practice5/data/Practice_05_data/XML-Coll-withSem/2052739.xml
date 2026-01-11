@@ -80,7 +80,7 @@ device driver</link> APIs that provide abstracted access to hardware.</p>
 <p>
 
 Some file system APIs may also include interfaces for maintenance operations, such as creating or initializing a file system, verifying the file system for integrity, and <link xlink:type="simple" xlink:href="../339/360339.xml">
-defragmentation</link> &ndash; although these are more often implemented independently from the file system code.</p>
+defragmentation</link> – although these are more often implemented independently from the file system code.</p>
 <p>
 
 <link xlink:type="simple" xlink:href="../890/18890.xml">

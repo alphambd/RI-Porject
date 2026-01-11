@@ -287,8 +287,8 @@ Browser</link>related projects</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/191862.xml">
 Camino</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../364/18915364.xml">
-Fennec</link>&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../364/18915364.xml">
+Fennec</link> ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -322,7 +322,7 @@ Firefox</link></coding_system>
 </program>
 </application>
 </software>
-)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/1590193.xml">
 SeaMonkey</link></software>
 </col>
@@ -335,11 +335,11 @@ SeaMonkey</link></software>
 Other projects</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../403/343403.xml">
-Bonsai</link>&nbsp;·  <link xlink:type="simple" xlink:href="../573/4573.xml">
-Bugzilla</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Bonsai</link> ·  <link xlink:type="simple" xlink:href="../573/4573.xml">
+Bugzilla</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../342/6916342.xml">
 Lightning</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -350,13 +350,13 @@ Penelope</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../620/13952620.xml">
 Prism</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../337/479337.xml">
 Sunbird</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <collector wordnetid="109936620" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -369,7 +369,7 @@ Thunderbird</link></case>
 </person>
 </collector>
 </physical_entity>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -378,7 +378,7 @@ Tinderbox</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <link>
+ ·  <link>
 Weave</link></col>
 </row>
 <row style="height:2px">
@@ -391,7 +391,7 @@ Obsolete projects</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../151/2096151.xml">
 Mozilla Suite</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -406,7 +406,7 @@ Calendar Project</link></director>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../440/1257440.xml">
 Minimo</link></software>
 </col>
@@ -420,26 +420,26 @@ Minimo</link></software>
 Infrastructure</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../070/1907070.xml">
-Add-on</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Add-on</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../999/45999.xml">
 Gecko</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../562/2155562.xml">
-Necko</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../562/2155562.xml">
+Necko</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <language wordnetid="106282651" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/793475.xml">
 XBL</link></system_of_measurement>
 </language>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../lon/Athlon.xml">
-XPCOM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../841/1546841.xml">
-XPConnect</link>&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../lon/Athlon.xml">
+XPCOM</link> ·  <link xlink:type="simple" xlink:href="../841/1546841.xml">
+XPConnect</link> ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../083/1381083.xml">
 XPInstall</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../380/142380.xml">
 XUL</link></format>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -464,10 +464,10 @@ Components</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../887/468887.xml">
 Composer</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../483/1239483.xml">
 NSPR</link></software>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -480,7 +480,7 @@ NSS</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -493,9 +493,9 @@ Rhino</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../327/189327.xml">
-SpiderMonkey</link>&nbsp;·  <link xlink:type="simple" xlink:href="../219/7822219.xml">
-Tamarin</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../327/189327.xml">
+SpiderMonkey</link> ·  <link xlink:type="simple" xlink:href="../219/7822219.xml">
+Tamarin</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../749/684749.xml">
 Venkman</link></software>
 </col>

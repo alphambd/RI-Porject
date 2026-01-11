@@ -93,9 +93,9 @@ encoding</link></system_of_measurement>
 
 The most widely used Base32 alphabet is defined in RFC 4648.  It uses an <link xlink:type="simple" xlink:href="../670/670.xml">
 alphabet</link> of <link xlink:type="simple" xlink:href="../290/290.xml">
-A</link>&ndash;<link xlink:type="simple" xlink:href="../425/34425.xml">
+A</link>–<link xlink:type="simple" xlink:href="../425/34425.xml">
 Z</link>, followed by <link xlink:type="simple" xlink:href="../516/64516.xml">
-2</link>&ndash;<link xlink:type="simple" xlink:href="../159/208159.xml">
+2</link>–<link xlink:type="simple" xlink:href="../159/208159.xml">
 7</link> (thus "2" actually has a numerical value of <link xlink:type="simple" xlink:href="../205/362205.xml">
 26</link>). <link xlink:type="simple" xlink:href="../513/34513.xml">
 0</link> and <link xlink:type="simple" xlink:href="../770/22770.xml">

@@ -38,7 +38,7 @@ Stanford University</link></university>
 .  SPIRES was renamed the <b>Stanford Public Information Retrieval System</b>.  The new development took place under a National Science Foundation grant headed by Edwin B. Parker, principal investigator. SPIRES joined forces with the BALLOTS project to create a bibliographic citation retrieval system and quickly evolved into a generalized information retrieval and data base management system that could meet the needs of a large and diverse computing community.</p>
 <p>
 
-SPIRES was rewritten in PL360, a block structured programming language designed explicitly for IBM/360-compatible hardware. The primary authors were: Thomas H. Martin, Dick Guertin and Bill Kiefer.&nbsp; John Schroeder was the manager of the SPIRES project during this early phase of development.</p>
+SPIRES was rewritten in PL360, a block structured programming language designed explicitly for IBM/360-compatible hardware. The primary authors were: Thomas H. Martin, Dick Guertin and Bill Kiefer.  John Schroeder was the manager of the SPIRES project during this early phase of development.</p>
 <p>
 
 Eventually, BALLOTS split off from SPIRES and the <b>Research Libraries Group</b> adopted SPIRES as its data base engine while providing a graphical interface to its clients.  <it>Socrates</it> was a library circulation management system rooted in SPIRES.</p>

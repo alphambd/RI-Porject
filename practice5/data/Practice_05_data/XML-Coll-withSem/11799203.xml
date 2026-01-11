@@ -382,15 +382,15 @@ Tokyo Metropolis</link></urban_area>
 <row>
 <col colspan="3" style=";" class="navbox-abovebelow">
 
-Portal&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+Portal ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../438/15026438.xml">
 Architecture</link></artifact>
 </building>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../203/11799203.xml">
-Education</link>&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../203/11799203.xml">
+Education</link> ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -407,11 +407,11 @@ Festivals</link></attraction>
 </event>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../405/360405.xml">
-History</link>&nbsp;·  <link xlink:type="simple" xlink:href="../672/6913672.xml">
-Politics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../609/15025609.xml">
-Sports</link>&nbsp;·  <link xlink:type="simple" xlink:href="../833/4326833.xml">
-Tourism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../489/4328489.xml">
+ ·  <link xlink:type="simple" xlink:href="../405/360405.xml">
+History</link> ·  <link xlink:type="simple" xlink:href="../672/6913672.xml">
+Politics</link> ·  <link xlink:type="simple" xlink:href="../609/15025609.xml">
+Sports</link> ·  <link xlink:type="simple" xlink:href="../833/4326833.xml">
+Tourism</link> ·  <link xlink:type="simple" xlink:href="../489/4328489.xml">
 Transportation</link></col>
 </row>
 <row style="height:2px;">
@@ -431,7 +431,7 @@ Adachi</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -441,9 +441,9 @@ Arakawa</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <link>
-Bunkyō</link>&nbsp;· 
+Bunkyō</link> · 
 <region wordnetid="108630985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -459,9 +459,9 @@ Chiyoda</link></district>
 </person>
 </physical_entity>
 </region>
-&nbsp;· 
+ · 
 <link>
-Chūō</link>&nbsp;· 
+Chūō</link> · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -471,7 +471,7 @@ Edogawa</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -481,7 +481,7 @@ Itabashi</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -491,7 +491,7 @@ Katsushika</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -501,9 +501,9 @@ Kita</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <link>
-Kōtō</link>&nbsp;· 
+Kōtō</link> · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -513,7 +513,7 @@ Meguro</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -529,7 +529,7 @@ Minato</link></district>
 </person>
 </physical_entity>
 </region>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -539,7 +539,7 @@ Nakano</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -549,9 +549,9 @@ Nerima</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <link>
-Ōta</link>&nbsp;· 
+Ōta</link> · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -561,11 +561,11 @@ Setagaya</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../739/147739.xml">
 Shibuya</link></japan>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -575,7 +575,7 @@ Shinagawa</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -585,7 +585,7 @@ Shinjuku</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -595,7 +595,7 @@ Suginami</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -605,7 +605,7 @@ Sumida</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ward wordnetid="110767020" confidence="0.8">
@@ -615,7 +615,7 @@ Toshima</link></causal_agent>
 </ward>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <link>
 Taitō</link></p>
 </col>
@@ -660,7 +660,7 @@ Akiruno</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -678,11 +678,11 @@ Akishima</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <link>
-Chōfu</link>&nbsp;· 
+Chōfu</link> · 
 <link>
-Fuchū</link>&nbsp;· 
+Fuchū</link> · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -700,9 +700,9 @@ Fussa</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <link>
-Hachiōji</link>&nbsp;· 
+Hachiōji</link> · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -720,7 +720,7 @@ Hamura</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -738,7 +738,7 @@ Higashikurume</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -756,9 +756,9 @@ Higashimurayama</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../709/329709.xml">
-Higashiyamato</link>&nbsp;· 
+Higashiyamato</link> · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -776,7 +776,7 @@ Hino</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -794,7 +794,7 @@ Inagi</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -812,7 +812,7 @@ Kiyose</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -830,7 +830,7 @@ Kodaira</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -848,7 +848,7 @@ Koganei</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -866,7 +866,7 @@ Kokubunji</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -884,7 +884,7 @@ Komae</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -902,7 +902,7 @@ Kunitachi</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -920,7 +920,7 @@ Machida</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -938,7 +938,7 @@ Mitaka</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -956,7 +956,7 @@ Musashimurayama</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -974,11 +974,11 @@ Musashino</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <link>
-Nishitōkyō</link>&nbsp;· 
+Nishitōkyō</link> · 
 <link>
-Ōme</link>&nbsp;· 
+Ōme</link> · 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -996,7 +996,7 @@ Tachikawa</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;· 
+ · 
 <japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../714/329714.xml">
 Tama</link></japan>
@@ -1019,13 +1019,13 @@ Subprefectures</col>
 Nishitama District</link></district>
 </location>
 </region>
-&nbsp;· 
+ · 
 <link>
-Hachijō Subprefecture</link>&nbsp;· 
+Hachijō Subprefecture</link> · 
 <link xlink:type="simple" xlink:href="../090/3861090.xml">
-Miyake Subprefecture</link>&nbsp;· 
+Miyake Subprefecture</link> · 
 <link xlink:type="simple" xlink:href="../871/19214871.xml">
-Ogasawara Subprefecture</link>&nbsp;· 
+Ogasawara Subprefecture</link> · 
 <link>
 Ōshima Subprefecture</link></p>
 </col>

@@ -54,7 +54,7 @@ If a conflict exists, a conflict resolution algorithm must be used to resolve th
 
 <p>
 
-Optimistic concurrency is generally used in environments with a low contention for data.  When conflicts are rare, validation can be done efficiently, leading to higher throughput than other concurrency control methods.  However, if conflicts happen often, the cost of repeatedly restarting transactions, hurts performance significantly &mdash; other <link xlink:type="simple" xlink:href="../354/217354.xml">
+Optimistic concurrency is generally used in environments with a low contention for data.  When conflicts are rare, validation can be done efficiently, leading to higher throughput than other concurrency control methods.  However, if conflicts happen often, the cost of repeatedly restarting transactions, hurts performance significantly — other <link xlink:type="simple" xlink:href="../354/217354.xml">
 non-lock concurrency control</link> methods have better performance when there are many conflicts.</p>
 
 <sec>
@@ -122,7 +122,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F319566.319567">
-10.1145/319566.319567</weblink>.</cite>&nbsp;</entry>
+10.1145/319566.319567</weblink>.</cite> </entry>
 </list>
 </p>
 

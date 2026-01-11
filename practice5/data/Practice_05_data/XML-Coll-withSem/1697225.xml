@@ -614,7 +614,7 @@ Utility cycling</link></header>
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <activity wordnetid="100407535" confidence="0.8">
 <link xlink:type="simple" xlink:href="../401/1089401.xml">
-Segregated&nbsp;cycle&nbsp;facilities</link></activity>
+Segregated cycle facilities</link></activity>
 </psychological_feature>
 </act>
 </investigation>
@@ -622,11 +622,11 @@ Segregated&nbsp;cycle&nbsp;facilities</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;|
+ |
 <link xlink:type="simple" xlink:href="../592/1798592.xml">
-Vehicular&nbsp;cycling</link>&nbsp;|
+Vehicular cycling</link> |
 <link xlink:type="simple" xlink:href="../225/1697225.xml">
-Bicycle&nbsp;commuting</link>
+Bicycle commuting</link>
 <cycle wordnetid="115287830" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -642,9 +642,9 @@ Utility bicycle</link></kind>
 </concept>
 </idea>
 </cycle>
-&nbsp;|
+ |
 <link xlink:type="simple" xlink:href="../205/3689205.xml">
-Bicycle trailer</link>&nbsp;|
+Bicycle trailer</link> |
 <link xlink:type="simple" xlink:href="../682/488682.xml">
 Bike sharing</link></col>
 </row>

@@ -247,7 +247,7 @@ i386</link> and <chip wordnetid="103020034" confidence="0.8">
 NeXT completed an implementation of OpenStep on their existing Mach-based OS and called it <b>OPENSTEP for Mach</b> 4.0, 4.1 and 4.2. It was, for all intents, NEXTSTEP 4.0, and still retained flagship NEXTSTEP technologies (such as <link xlink:type="simple" xlink:href="../012/61012.xml">
 DPS</link>, UNIX underpinnings, user interface characteristics like the <link xlink:type="simple" xlink:href="../000/17460000.xml">
 Dock</link> and <link xlink:type="simple" xlink:href="../017/277017.xml">
-Shelf</link>, and so on), and retained the classic NEXTSTEP user interface and styles. OPENSTEP/Mach was further improved, in comparison to NEXTSTEP 3.3, with vastly improved driver support &ndash; however the environment to actually write drivers was changed with the introduction of the object-oriented DriverKit.  </p>
+Shelf</link>, and so on), and retained the classic NEXTSTEP user interface and styles. OPENSTEP/Mach was further improved, in comparison to NEXTSTEP 3.3, with vastly improved driver support – however the environment to actually write drivers was changed with the introduction of the object-oriented DriverKit.  </p>
 <p>
 
 OPENSTEP/Mach supported <link xlink:type="simple" xlink:href="../198/34198.xml">
@@ -447,12 +447,12 @@ Directors</link>:</col>
 <link xlink:type="simple" xlink:href="../236/7412236.xml">
 Steve Jobs</link></person>
 </president>
-&nbsp;·  <politician wordnetid="110451263" confidence="0.9508927676800064">
+ ·  <politician wordnetid="110451263" confidence="0.9508927676800064">
 <businessman wordnetid="109882007" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../505/43505.xml">
 Ross Perot</link></businessman>
 </politician>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <president wordnetid="110468559" confidence="0.8">
 <executive wordnetid="110069645" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -483,7 +483,7 @@ Hardware Products:</col>
 <computer wordnetid="103082979" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../993/635993.xml">
 NeXTstation</link></computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <occupation wordnetid="100582388" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -508,9 +508,9 @@ NeXTcube</link></workstation>
 </artifact>
 </occupation>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../608/5571608.xml">
-NeXTdimension</link>&nbsp;·  <link xlink:type="simple" xlink:href="../271/5635271.xml">
-NeXT MegaPixel Display</link>&nbsp;·  <link xlink:type="simple" xlink:href="../096/5690096.xml">
+ ·  <link xlink:type="simple" xlink:href="../608/5571608.xml">
+NeXTdimension</link> ·  <link xlink:type="simple" xlink:href="../271/5635271.xml">
+NeXT MegaPixel Display</link> ·  <link xlink:type="simple" xlink:href="../096/5690096.xml">
 NeXT Laser Printer</link></col>
 </row>
 <row style="height:2px">
@@ -521,8 +521,8 @@ NeXT Laser Printer</link></col>
 Software Products:</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../642/40642.xml">
-NeXTSTEP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../114/53114.xml">
-OPENSTEP</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+NeXTSTEP</link> ·  <link xlink:type="simple" xlink:href="../114/53114.xml">
+OPENSTEP</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../400/317400.xml">
 WebObjects</link></software>
 </col>
@@ -535,7 +535,7 @@ WebObjects</link></software>
 <b>Annual Sales</b>: $140 million <link xlink:type="simple" xlink:href="../338/18717338.xml">
 USD</link> ( <link xlink:type="simple" xlink:href="../099/5752099.xml">
 FY</link> 1992)
-&nbsp;·  <b>Employees</b>: 240 (1993)&nbsp;·  <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://web.archive.org/web/19970412194822/http://www.next.com/">
+ ·  <b>Employees</b>: 240 (1993) ·  <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://web.archive.org/web/19970412194822/http://www.next.com/">
 www.next.com (web archive)</weblink></col>
 </row>
 </table>

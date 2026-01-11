@@ -137,7 +137,7 @@ Evaluation Assurance Level</link></activity>
 </psychological_feature>
 </act>
 </event>
- (EAL)</b> - the numerical rating describing the depth and rigor of an evaluation. Each EAL corresponds to a package of security assurance requirements (SARs, see above) which covers the complete development of a product, with a given level of strictness. Common Criteria lists seven levels, with EAL&nbsp;1 being the most basic (and therefore cheapest to implement and evaluate) and EAL&nbsp;7 being the most stringent (and most expensive). Normally, an ST or PP author will not select assurance requirements individually but choose one of these packages, possibly 'augmenting' requirements in a few areas with requirements from a higher level. Higher EALs <it>do not</it> necessarily imply "better security", they only mean that the claimed security assurance of the TOE has been more extensively validated.</entry>
+ (EAL)</b> - the numerical rating describing the depth and rigor of an evaluation. Each EAL corresponds to a package of security assurance requirements (SARs, see above) which covers the complete development of a product, with a given level of strictness. Common Criteria lists seven levels, with EAL 1 being the most basic (and therefore cheapest to implement and evaluate) and EAL 7 being the most stringent (and most expensive). Normally, an ST or PP author will not select assurance requirements individually but choose one of these packages, possibly 'augmenting' requirements in a few areas with requirements from a higher level. Higher EALs <it>do not</it> necessarily imply "better security", they only mean that the claimed security assurance of the TOE has been more extensively validated.</entry>
 </list>
 </p>
 <p>

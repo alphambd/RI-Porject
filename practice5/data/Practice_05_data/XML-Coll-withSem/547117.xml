@@ -238,7 +238,7 @@ Stack-based memory allocation</link></entry>
 <link xlink:type="simple" xlink:href="../095/8095.xml">
 Donald Knuth</link></scientist>
 </person>
-. <it>Fundamental Algorithms</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89683-4. Section 2.5: Dynamic Storage Allocation, pp.435&ndash;456.</entry>
+. <it>Fundamental Algorithms</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89683-4. Section 2.5: Dynamic Storage Allocation, pp.435–456.</entry>
 <entry level="1" type="bullet">
 
  Herbert Glarner's visualized <weblink xlink:type="simple" xlink:href="http://herbert.gandraxa.com/herbert/dsa.asp">
@@ -251,7 +251,7 @@ Simple Memory Allocation Algorithms</weblink> on OSDEV Community</entry>
 
   <cite style="font-style:normal">Wilson, P.R.; Johnstone, M.S.; Neely, M.; Boles, D.&#32;(1995).&#32;"<weblink xlink:type="simple" xlink:href="http://books.google.com/books?hl=en&amp;lr=&amp;ie=UTF-8&amp;id=m0yZN2bA3TcC&amp;oi=fnd&amp;pg=PA1&amp;dq=paul+wilson&amp;ots=H28axwHr6U&amp;sig=cCCwN72PZFqLtnjRWhIvpbXbc0c">
 Dynamic Storage Allocation: A Survey and Critical Review</weblink>". <it>Memory Management: International Workshop, Iwmm'95, Kinross, Uk, September 27-29, 1995: Proceedings</it>. Retrieved on <link>
-2008-01-06</link>.</cite>&nbsp;</entry>
+2008-01-06</link>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Berger, E.D.; Zorn, B.G.; McKinley, K.S.&#32;(2001).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=381694.378821">
@@ -263,11 +263,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F381694">
-10.1145/381694</weblink>.</cite>&nbsp;</entry>
+10.1145/381694</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Berger, E.D.;&#32;Zorn, B.G.; McKinley, K.S.&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=582419.582421">
-Reconsidering custom memory allocation</weblink>".&#32;<it>Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications</it>: 1-12, ACM Press New York, NY, USA.</cite>&nbsp;</entry>
+Reconsidering custom memory allocation</weblink>".&#32;<it>Proceedings of the 17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications</it>: 1-12, ACM Press New York, NY, USA.</cite> </entry>
 </list>
 </p>
 

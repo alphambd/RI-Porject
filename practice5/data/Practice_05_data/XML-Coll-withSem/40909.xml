@@ -57,7 +57,7 @@ The computer word boot is short for <link xlink:type="simple" xlink:href="../211
 <p>
 
 The <link xlink:type="simple" xlink:href="../659/58659.xml">
-GE 645</link> (c. 1965) had a 'BOOT' button<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> &ndash; it could be that the contraction started as a way to label the button with fewer letters than the full word.</p>
+GE 645</link> (c. 1965) had a 'BOOT' button<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> – it could be that the contraction started as a way to label the button with fewer letters than the full word.</p>
 <p>
 
 The <O wordnetid="106832680" confidence="0.9508927676800064">
@@ -434,8 +434,8 @@ HPI boot</entry>
 
 In <link xlink:type="simple" xlink:href="../872/14872.xml">
 IBM mainframe</link> systems, the boot process is known as <b>IPL (Initial Program Load)</b>. The term was coined by IBM for the design of the <link xlink:type="simple" xlink:href="../294/29294.xml">
-System/360</link> and continues to be used in those environments today<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref>.  In systems that share the System/360 heritage&mdash;and in some that have been inspired by it, including smaller systems such as the <link xlink:type="simple" xlink:href="../965/565965.xml">
-IBM 1130</link>&mdash;IPL is a hardware function, not a program run on the system itself. In its basic form, an IPL is initiated by the computer operator by selecting the (three digit) device address using rotary switches on the computer console, followed by pressing the 'IPL' button. This starts a tiny (typically 24 byte) program entirely implemented in hardware, consisting merely of a few <link>
+System/360</link> and continues to be used in those environments today<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref>.  In systems that share the System/360 heritage—and in some that have been inspired by it, including smaller systems such as the <link xlink:type="simple" xlink:href="../965/565965.xml">
+IBM 1130</link>—IPL is a hardware function, not a program run on the system itself. In its basic form, an IPL is initiated by the computer operator by selecting the (three digit) device address using rotary switches on the computer console, followed by pressing the 'IPL' button. This starts a tiny (typically 24 byte) program entirely implemented in hardware, consisting merely of a few <link>
 channel command word</link>s initiating a read operation from the designated device. Usually this is a disk drive, but exactly the same procedure is also used to boot from other devices, such as <link xlink:type="simple" xlink:href="../109/31109.xml">
 tape drive</link>s, or even <link xlink:type="simple" xlink:href="../518/4397518.xml">
 card reader</link>s, in a device-independent manner, allowing e.g. the installation of an operating system on a pristine computer from a magnetic distribution tape. Of course, the disk, tape or card deck must contain a special program to load the actual operating system into memory, a multi-stage procedure similar to most booting procedures (see elsewhere in this article). </p>
@@ -699,7 +699,7 @@ bootstrap</weblink>, Dictionary.com</entry>
 bootstrap</weblink>, The free dictionary.com</entry>
 <entry id="3">
  <cite style="font-style:normal" class="book"> Oxford English Dictionary.&#32;<link xlink:type="simple" xlink:href="../797/31797.xml">
-Oxford University</link>.</cite>&nbsp;</entry>
+Oxford University</link>.</cite> </entry>
 <entry id="4">
 Van Vleck, Tom.&#32;"<weblink xlink:type="simple" xlink:href="http://www.landley.net/history/mirror/unix/multics/mgb.html">
 Glossary of Multics acronyms and terms</weblink>".&#32;Retrieved on <link>
@@ -707,11 +707,11 @@ Glossary of Multics acronyms and terms</weblink>".&#32;Retrieved on <link>
 <entry id="5">
  <cite style="font-style:normal" class="book">Bensoussan, A.&#32;(<link>
 1967-06-30</link>).&#32;"BC.4.01 System Initialization and Bootload", <weblink xlink:type="simple" xlink:href="http://www.multicians.org/mspmtoc.html">
-Multics System Programmer's Manual</weblink>.</cite>&nbsp;</entry>
+Multics System Programmer's Manual</weblink>.</cite> </entry>
 <entry id="6">
  <cite style="font-style:normal" class="book">Dunten, S. D.;&#32;T. H. Van Vleck&#32;(<link>
 1968-05-03</link>).&#32;"BV.1.01 BOS Bootload: boot", <weblink xlink:type="simple" xlink:href="http://www.multicians.org/mspmtoc.html">
-Multics System Programmer's Manual</weblink>.</cite>&nbsp;</entry>
+Multics System Programmer's Manual</weblink>.</cite> </entry>
 <entry id="7">
  <cite style="font-style:normal" class="book"><person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -726,7 +726,7 @@ Dennis Ritchie</link></scientist>
 &#32;(<link>
 1971-11-03</link>). <weblink xlink:type="simple" xlink:href="http://www.cs.bell-labs.com/who/dmr/1stEdman.html">
 The Unix Programmer's Manual</weblink>, 1st edition. Retrieved on <link>
-2008-01-07</link>.</cite>&nbsp;</entry>
+2008-01-07</link>.</cite> </entry>
 <entry id="8">
 <it>From Gutenberg to the Internet</it>, Jeremy M. Norman, 2005, page 436, ISBN 0-930405-87-0</entry>
 <entry id="9">
@@ -742,7 +742,7 @@ z/Architecture Principles of Operation</weblink>&#32;(PDF),&#32;<company wordnet
 <link xlink:type="simple" xlink:href="../259/18622259.xml">
 IBM</link></company>
 ,&#32;Chapter 17. Retrieved on <link>
-2007-04-14</link>.</cite>&nbsp;</entry>
+2007-04-14</link>.</cite> </entry>
 <entry id="12">
 http://www.linuxdevices.com/news/NS2560585344.html</entry>
 <entry id="13">

@@ -138,7 +138,7 @@ The Kullback–Leibler divergence is always non-negative,
 <math>D_{\mathrm{KL}}(P\|Q) \geq 0, \,</math>
 </indent>
 a result known as <link xlink:type="simple" xlink:href="../678/2035678.xml">
-Gibbs' inequality</link>, with <it>D</it>KL(<it>P</it>||<it>Q</it>) zero if and only if <it>P</it>&nbsp;=&nbsp;<it>Q</it>.  The entropy <it>H(P)</it> thus sets a minimum value for the cross-entropy <it>H(P,Q)</it>, the expected number of bits required when using a code based on <it>Q</it> rather than <it>P</it>; and the KL divergence therefore represents the expected number of extra bits that must be transmitted to identify a value <it>x</it> drawn from <it>X</it>, if a code is used corresponding to the probability distribution <it>Q</it>, rather than the "true" distribution <it>P</it>.</p>
+Gibbs' inequality</link>, with <it>D</it>KL(<it>P</it>||<it>Q</it>) zero if and only if <it>P</it> = <it>Q</it>.  The entropy <it>H(P)</it> thus sets a minimum value for the cross-entropy <it>H(P,Q)</it>, the expected number of bits required when using a code based on <it>Q</it> rather than <it>P</it>; and the KL divergence therefore represents the expected number of extra bits that must be transmitted to identify a value <it>x</it> drawn from <it>X</it>, if a code is used corresponding to the probability distribution <it>Q</it>, rather than the "true" distribution <it>P</it>.</p>
 <p>
 
 Originally introduced by <physical_entity wordnetid="100001930" confidence="0.8">
@@ -216,7 +216,7 @@ self-information</link>,</p>
 </indent>
 
 is the KL divergence of the probability distribution <it>P(i)</it> from a <link xlink:type="simple" xlink:href="../890/182890.xml">
-Kronecker delta</link> representing certainty that <it>i=m</it> &mdash; i.e. the number of extra bits that must be transmitted to identify <it>i</it> if only the probability distribution <it>P(i)</it> is available to the receiver, not the fact that <it>i=m</it>.</p>
+Kronecker delta</link> representing certainty that <it>i=m</it> — i.e. the number of extra bits that must be transmitted to identify <it>i</it> if only the probability distribution <it>P(i)</it> is available to the receiver, not the fact that <it>i=m</it>.</p>
 <p>
 
 The <link xlink:type="simple" xlink:href="../282/427282.xml">
@@ -231,7 +231,7 @@ mutual information</link>,</p>
 </indent>
 
 is the KL divergence of the product <it>P(X)P(Y)</it> of the two <link xlink:type="simple" xlink:href="../791/5791.xml">
-marginal probability</link> distributions from the joint probability distribution <it>P(X,Y)</it> &mdash; i.e. the expected number of extra bits that must be transmitted to identify <it>X</it> and <it>Y</it> if they are coded using only their marginal distributions instead of the joint distribution.  Equivalently, if the joint probability <it>P(X,Y)</it> <it>is</it> known, it is the expected number of extra bits that must on average be sent to identify <it>Y</it> if the value of <it>X</it> is not already known to the receiver.</p>
+marginal probability</link> distributions from the joint probability distribution <it>P(X,Y)</it> — i.e. the expected number of extra bits that must be transmitted to identify <it>X</it> and <it>Y</it> if they are coded using only their marginal distributions instead of the joint distribution.  Equivalently, if the joint probability <it>P(X,Y)</it> <it>is</it> known, it is the expected number of extra bits that must on average be sent to identify <it>Y</it> if the value of <it>X</it> is not already known to the receiver.</p>
 <p>
 
 The <link xlink:type="simple" xlink:href="../445/15445.xml">
@@ -244,7 +244,7 @@ Shannon entropy</link>,</p>
 &amp; = \mathrm{(ii)} \log N - D_{\mathrm{KL}}(P(X) \| P_U(X) )\end{align}</math>
 </indent>
 
-is the number of bits which would have to be transmitted to identify <it>X</it> from <it>N</it> equally likely possibilities, <it>less</it> the KL divergence of the uniform distribution <it>P</it>U<it>(X)</it> from the true distribution <it>P(X)</it> &mdash; i.e. <it>less</it> the expected number of bits saved, which would have had to be sent if the value of <it>X</it> were coded according to the uniform distribution <it>P</it>U<it>(X)</it> rather than the true distribution <it>P(X)</it>.</p>
+is the number of bits which would have to be transmitted to identify <it>X</it> from <it>N</it> equally likely possibilities, <it>less</it> the KL divergence of the uniform distribution <it>P</it>U<it>(X)</it> from the true distribution <it>P(X)</it> — i.e. <it>less</it> the expected number of bits saved, which would have had to be sent if the value of <it>X</it> were coded according to the uniform distribution <it>P</it>U<it>(X)</it> rather than the true distribution <it>P(X)</it>.</p>
 <p>
 
 The <link xlink:type="simple" xlink:href="../548/908548.xml">
@@ -259,7 +259,7 @@ conditional entropy</link>,</p>
 &amp; = \mathrm{(ii)} \, \log N - \mathbb{E}_Y \{ D_{\mathrm{KL}}(P(X|Y) \| P_U(X)) \}\end{align}</math>
 </indent>
 
-is the number of bits which would have to be transmitted to identify <it>X</it> from <it>N</it> equally likely possibilities, <it>less</it> the KL divergence of the product distribution <it>P</it>U<it>(X) P(Y)</it> from the true joint distribution <it>P(X,Y)</it> &mdash; i.e. <it>less</it> the expected number of bits saved which would have had to be sent if the value of <it>X</it> were coded according to the uniform distribution <it>P</it>U<it>(X)</it> rather than the conditional distribution <it>P(X|Y)</it> of <it>X</it> given <it>Y</it>.</p>
+is the number of bits which would have to be transmitted to identify <it>X</it> from <it>N</it> equally likely possibilities, <it>less</it> the KL divergence of the product distribution <it>P</it>U<it>(X) P(Y)</it> from the true joint distribution <it>P(X,Y)</it> — i.e. <it>less</it> the expected number of bits saved which would have had to be sent if the value of <it>X</it> were coded according to the uniform distribution <it>P</it>U<it>(X)</it> rather than the conditional distribution <it>P(X|Y)</it> of <it>X</it> given <it>Y</it>.</p>
 <p>
 
 the <link xlink:type="simple" xlink:href="../250/1735250.xml">
@@ -353,7 +353,7 @@ The expected weight of evidence for <it>H</it>1 over <it>H</it>0 is <b>not</b> t
 
 <indent level="1">
 
-<it>D</it>KL( <it>p</it>(<it>x</it>|<it>H</it>1) || <it>p</it>(<it>x</it>|<it>H</it>0) )  &nbsp;<math>\neq</math>&nbsp; <it>IG</it> = <it>D</it>KL( <it>p</it>(<it>H</it>|x) || <it>p</it>(<it>H</it>|I) ).
+<it>D</it>KL( <it>p</it>(<it>x</it>|<it>H</it>1) || <it>p</it>(<it>x</it>|<it>H</it>0) )   <math>\neq</math>  <it>IG</it> = <it>D</it>KL( <it>p</it>(<it>H</it>|x) || <it>p</it>(<it>H</it>|I) ).
 </indent>
 
 Either of the two quantities can be used as a <link xlink:type="simple" xlink:href="../479/45479.xml">
@@ -520,7 +520,7 @@ An alternative is given via the &amp;lambda; divergence,</p>
 <math> D_{\lambda}(P\|Q) = \lambda D_{\mathrm{KL}}(P\|\lambda P + (1-\lambda)Q) + (1-\lambda) D_{\mathrm{KL}}(Q\|\lambda P + (1-\lambda)Q),\, \!</math>
 </indent>
 
-which can be interpreted as the expected information gain about <it>X</it> from discovering which probability distribution <it>X</it> is drawn from, <it>P</it> or <it>Q</it>, if they currently have probabilities &amp;lambda; and (1&nbsp;&amp;minus;&nbsp;&amp;lambda;) respectively.</p>
+which can be interpreted as the expected information gain about <it>X</it> from discovering which probability distribution <it>X</it> is drawn from, <it>P</it> or <it>Q</it>, if they currently have probabilities &amp;lambda; and (1 &amp;minus; &amp;lambda;) respectively.</p>
 <p>
 
 The value &amp;lambda; = 0.5 gives the <link xlink:type="simple" xlink:href="../573/4019573.xml">

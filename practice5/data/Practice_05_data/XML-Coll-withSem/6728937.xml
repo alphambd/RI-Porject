@@ -28,11 +28,11 @@
 </row>
 <row>
 <col colspan="2">
-&nbsp;<b>General Information</b></col>
+ <b>General Information</b></col>
 </row>
 <row>
 <col width="50%">
- &nbsp;<link xlink:type="simple" xlink:href="../165/5165.xml">
+  <link xlink:type="simple" xlink:href="../165/5165.xml">
 Country</link></col>
 <col>
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -42,7 +42,7 @@ Pakistan</link></country>
 </row>
 <row>
 <col>
- &nbsp;<subdivision wordnetid="108674251" confidence="0.8">
+  <subdivision wordnetid="108674251" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -70,7 +70,7 @@ North-West Frontier Province</link></geographical_area>
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../361/48361.xml">
+  <link xlink:type="simple" xlink:href="../361/48361.xml">
 Coordinates</link></col>
 <col>
  <weblink xlink:type="simple" xlink:href="http://stable.toolserver.org/geohack/geohack.php?pagename=Pir_Piai&amp;params=33_59_40_N_71_53_15_E_region:PK_type:city">
@@ -80,11 +80,11 @@ Coordinates</link>: <weblink xlink:type="simple" xlink:href="http://stable.tools
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../158/1765158.xml">
+  <link xlink:type="simple" xlink:href="../158/1765158.xml">
 Elevation</link></col>
 <col>
-308&nbsp;<link xlink:type="simple" xlink:href="../947/18947.xml">
-m</link> (1,010&nbsp;<unit_of_measurement wordnetid="113583724" confidence="0.8">
+308 <link xlink:type="simple" xlink:href="../947/18947.xml">
+m</link> (1,010 <unit_of_measurement wordnetid="113583724" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
 <link xlink:type="simple" xlink:href="../482/202482.xml">
 ft</link></definite_quantity>
@@ -94,14 +94,14 @@ AMSL</link></col>
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../209/1209.xml">
+  <link xlink:type="simple" xlink:href="../209/1209.xml">
 Area</link></col>
 <col>
-3&nbsp;km2 (1&nbsp;sq&nbsp;mi)</col>
+3 km2 (1 sq mi)</col>
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../468/18790468.xml">
+  <link xlink:type="simple" xlink:href="../468/18790468.xml">
 Calling code</link></col>
 <col>
 0923</col>
@@ -109,7 +109,7 @@ Calling code</link></col>
 
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../890/30890.xml">
+  <link xlink:type="simple" xlink:href="../890/30890.xml">
 Time zone</link></col>
 <col>
  <link xlink:type="simple" xlink:href="../316/3417316.xml">
@@ -118,13 +118,13 @@ UTC+5</link>)</col>
 </row>
 <row>
 <col>
- &nbsp;No. of <link xlink:type="simple" xlink:href="../911/52911.xml">
+  No. of <link xlink:type="simple" xlink:href="../911/52911.xml">
 Towns</link></col>
 
 </row>
 <row>
 <col>
- &nbsp;<link xlink:type="simple" xlink:href="../949/22949.xml">
+  <link xlink:type="simple" xlink:href="../949/22949.xml">
 Population</link></col>
 <col>
  25,000 (<link xlink:type="simple" xlink:href="../647/34647.xml">
@@ -133,11 +133,11 @@ Population</link></col>
 
 <row>
 <col colspan="2">
-&nbsp;<b>Government</b></col>
+ <b>Government</b></col>
 </row>
 <row>
 <col>
- &nbsp;No. of <link xlink:type="simple" xlink:href="../812/4589812.xml">
+  No. of <link xlink:type="simple" xlink:href="../812/4589812.xml">
 Union Councils</link></col>
 <col>
 1</col>
@@ -146,7 +146,7 @@ Union Councils</link></col>
 
 <row>
 <col colspan="2">
-&nbsp;<b>&nbsp;</b></col>
+ <b> </b></col>
 </row>
 <row>
 <col colspan="2" align="center">

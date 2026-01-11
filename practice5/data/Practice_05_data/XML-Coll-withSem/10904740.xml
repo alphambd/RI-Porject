@@ -290,11 +290,11 @@ Catholic Church</link></header>
 Sacraments</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../298/4298.xml#xpointer(//*[./st=%22Catholic+baptism+and+salvation%22])">
-Baptism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../718/5589718.xml">
-Reconciliation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../673/5581673.xml">
-Eucharist</link>&nbsp;·  <link xlink:type="simple" xlink:href="../517/5581517.xml">
-Confirmation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../673/395673.xml">
-Matrimony</link>&nbsp;·  <office wordnetid="103841666" confidence="0.8">
+Baptism</link> ·  <link xlink:type="simple" xlink:href="../718/5589718.xml">
+Reconciliation</link> ·  <link xlink:type="simple" xlink:href="../673/5581673.xml">
+Eucharist</link> ·  <link xlink:type="simple" xlink:href="../517/5581517.xml">
+Confirmation</link> ·  <link xlink:type="simple" xlink:href="../673/395673.xml">
+Matrimony</link> ·  <office wordnetid="103841666" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <place_of_business wordnetid="103953020" confidence="0.8">
@@ -305,7 +305,7 @@ Holy Orders</link></establishment>
 </artifact>
 </structure>
 </office>
-&nbsp;·  <link xlink:type="simple" xlink:href="../740/10904740.xml">
+ ·  <link xlink:type="simple" xlink:href="../740/10904740.xml">
 Anointing of the Sick</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="5">
 <image width="100px" src="Emblem_of_the_Papacy_SE.svg">
@@ -337,7 +337,7 @@ Mass</link></activity>
 </event>
 </rite>
 </sacrament>
-&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -352,12 +352,12 @@ Papal Mass</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <link xlink:type="simple" xlink:href="../038/424038.xml">
-Pontifical Mass</link>&nbsp;·  <link xlink:type="simple" xlink:href="../047/3387047.xml">
-Solemn Mass</link> &nbsp;· <link xlink:type="simple" xlink:href="../884/2494884.xml">
-Sung Mass</link>&nbsp;· <link xlink:type="simple" xlink:href="../175/500175.xml">
-Low Mass</link>&nbsp;·  <link xlink:type="simple" xlink:href="../842/147842.xml">
-Tridentine Mass</link>&nbsp;· <love wordnetid="107543288" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../038/424038.xml">
+Pontifical Mass</link> ·  <link xlink:type="simple" xlink:href="../047/3387047.xml">
+Solemn Mass</link>  · <link xlink:type="simple" xlink:href="../884/2494884.xml">
+Sung Mass</link> · <link xlink:type="simple" xlink:href="../175/500175.xml">
+Low Mass</link> ·  <link xlink:type="simple" xlink:href="../842/147842.xml">
+Tridentine Mass</link> · <love wordnetid="107543288" confidence="0.8">
 <feeling wordnetid="100026192" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <devotion wordnetid="107544491" confidence="0.8">
@@ -368,7 +368,7 @@ Benediction of the Blessed Sacrament</link></emotion>
 </state>
 </feeling>
 </love>
-&nbsp;· <work wordnetid="104599396" confidence="0.8">
+ · <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -381,7 +381,7 @@ Liturgy of the Hours</link></publication>
 </creation>
 </product>
 </work>
-&nbsp;· <rite wordnetid="101029406" confidence="0.8">
+ · <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -396,7 +396,7 @@ Ambrosian Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -411,7 +411,7 @@ Antiochene Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;· <rite wordnetid="101029406" confidence="0.8">
+ · <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -426,7 +426,7 @@ Byzantine Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <order wordnetid="107168623" confidence="0.8">
+ ·  <order wordnetid="107168623" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <command wordnetid="107168131" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -439,7 +439,7 @@ Carthusian Rite</link></speech_act>
 </command>
 </event>
 </order>
-&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -454,8 +454,8 @@ Mozarabic Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;· <link xlink:type="simple" xlink:href="../818/4686818.xml">
-Norbertine Rite</link>&nbsp;· <rite wordnetid="101029406" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../818/4686818.xml">
+Norbertine Rite</link> · <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -470,7 +470,7 @@ Roman Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
- &nbsp;·   <sacrament wordnetid="101034925" confidence="0.8">
+  ·   <sacrament wordnetid="101034925" confidence="0.8">
 <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
@@ -487,7 +487,7 @@ Sarum Rite</link></activity>
 </event>
 </rite>
 </sacrament>
-&nbsp;· <rite wordnetid="101029406" confidence="0.8">
+ · <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -502,8 +502,8 @@ East Syrian Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;· <link xlink:type="simple" xlink:href="../994/4542994.xml">
-West Syrian Rite</link>&nbsp;· <rite wordnetid="101029406" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../994/4542994.xml">
+West Syrian Rite</link> · <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -518,9 +518,9 @@ Anglican Use</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <link xlink:type="simple" xlink:href="../578/2622578.xml">
-Asperges</link>&nbsp;·   <link xlink:type="simple" xlink:href="../127/3700127.xml#xpointer(//*[./st=%22Roman+Catholicism%22])">
-Exorcism</link>&nbsp;·  <continuance wordnetid="101017987" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../578/2622578.xml">
+Asperges</link> ·   <link xlink:type="simple" xlink:href="../127/3700127.xml#xpointer(//*[./st=%22Roman+Catholicism%22])">
+Exorcism</link> ·  <continuance wordnetid="101017987" confidence="0.8">
 <practice wordnetid="100410247" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <survival wordnetid="101022178" confidence="0.8">
@@ -537,7 +537,7 @@ Funeral</link></custom>
 </event>
 </practice>
 </continuance>
-&nbsp;·  <link xlink:type="simple" xlink:href="../798/184798.xml">
+ ·  <link xlink:type="simple" xlink:href="../798/184798.xml">
 Requiem</link></col>
 </row>
 <row style="height:2px">
@@ -549,9 +549,9 @@ Defunct Rites
 and Liturgies</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../423/4867423.xml">
-Benedictine Rite</link>&nbsp;·  <link xlink:type="simple" xlink:href="../412/4686412.xml">
-Carmelite Rite</link>&nbsp;·  <link xlink:type="simple" xlink:href="../419/4686419.xml">
-Cistercian Rite</link>&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+Benedictine Rite</link> ·  <link xlink:type="simple" xlink:href="../412/4686412.xml">
+Carmelite Rite</link> ·  <link xlink:type="simple" xlink:href="../419/4686419.xml">
+Cistercian Rite</link> ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -566,7 +566,7 @@ Durham Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;· <rite wordnetid="101029406" confidence="0.8">
+ · <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -581,7 +581,7 @@ Pre-Tridentine Mass</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -596,7 +596,7 @@ African Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -611,7 +611,7 @@ Aquileian Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -626,8 +626,8 @@ Celtic Rite</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <link xlink:type="simple" xlink:href="../822/2187822.xml">
-Gallican Rite</link>&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../822/2187822.xml">
+Gallican Rite</link> ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -642,7 +642,7 @@ Missa Sicca</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -657,7 +657,7 @@ Missa Nautica</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-&nbsp;·  <rite wordnetid="101029406" confidence="0.8">
+ ·  <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -745,7 +745,7 @@ Jesus</link></manifestation>
 </punishment>
 </inflammation>
 </information>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <follower wordnetid="110099375" confidence="0.8">
 <supporter wordnetid="110677713" confidence="0.8">
@@ -764,20 +764,20 @@ Twelve Apostles</link></apostle>
 </follower>
 </person>
 </physical_entity>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <subject wordnetid="106599788" confidence="0.8">
 <link xlink:type="simple" xlink:href="../957/1027957.xml">
 Early Christianity</link></subject>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../430/3349430.xml">
-History of the Papacy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../762/9762.xml">
-Councils</link>&nbsp;·  <link xlink:type="simple" xlink:href="../145/4412145.xml">
-Crusades</link>&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../430/3349430.xml">
+History of the Papacy</link> ·  <link xlink:type="simple" xlink:href="../762/9762.xml">
+Councils</link> ·  <link xlink:type="simple" xlink:href="../145/4412145.xml">
+Crusades</link> ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../270/666270.xml">
 Missions</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <change wordnetid="100191142" confidence="0.8">
+ ·  <change wordnetid="100191142" confidence="0.8">
 <dispute wordnetid="107181935" confidence="0.8">
 <separation wordnetid="100383606" confidence="0.8">
 <speech_act wordnetid="107160883" confidence="0.8">
@@ -804,8 +804,8 @@ Great Schism of East</link></psychological_feature>
 </separation>
 </dispute>
 </change>
-&nbsp;·  <link xlink:type="simple" xlink:href="../939/543939.xml">
-Great Schism of West</link>&nbsp;·  <change wordnetid="100191142" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../939/543939.xml">
+Great Schism of West</link> ·  <change wordnetid="100191142" confidence="0.8">
 <dispute wordnetid="107181935" confidence="0.8">
 <separation wordnetid="100383606" confidence="0.8">
 <speech_act wordnetid="107160883" confidence="0.8">
@@ -832,8 +832,8 @@ Reformation</link></psychological_feature>
 </separation>
 </dispute>
 </change>
-&nbsp;·  <link>
-Counter-Reformation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../343/1364343.xml">
+ ·  <link>
+Counter-Reformation</link> ·  <link xlink:type="simple" xlink:href="../343/1364343.xml">
 Roman Catholicism by country</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="21">
 <image width="150px" src="Kruis_san_damiano.gif">
@@ -863,7 +863,7 @@ Pope</link></function>
 </event>
 </duty>
 </work>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <priest wordnetid="110470779" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <clergyman wordnetid="109927451" confidence="0.8">
@@ -880,9 +880,9 @@ Cardinals</link></causal_agent>
 </person>
 </priest>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../409/175409.xml">
-Patriarchs</link>&nbsp;·  <link xlink:type="simple" xlink:href="../351/2431351.xml">
-Major Archbishop</link>s&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../409/175409.xml">
+Patriarchs</link> ·  <link xlink:type="simple" xlink:href="../351/2431351.xml">
+Major Archbishop</link>s ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <office wordnetid="103841666" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -901,7 +901,7 @@ Primates</link></causal_agent>
 </structure>
 </office>
 </physical_entity>
-&nbsp;·  <office wordnetid="103841666" confidence="0.8">
+ ·  <office wordnetid="103841666" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <priest wordnetid="110470779" confidence="0.8">
@@ -928,8 +928,8 @@ Metropolitans</link></causal_agent>
 </person>
 </physical_entity>
 </office>
-&nbsp;·  <link xlink:type="simple" xlink:href="../557/48557.xml">
-Archbishops</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../557/48557.xml">
+Archbishops</link> ·  <work wordnetid="100575741" confidence="0.8">
 <occupation wordnetid="100582388" confidence="0.8">
 <duty wordnetid="100719494" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -963,12 +963,12 @@ Theology</link></writing>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../511/30511.xml">
-Trinity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../735/22735.xml">
-Original sin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../112/13687112.xml">
-One Holy Catholic and Apostolic Church</link>&nbsp;·  <link xlink:type="simple" xlink:href="../963/1680963.xml">
-Worship</link>&nbsp;·  <link xlink:type="simple" xlink:href="../756/191756.xml">
-Divine Grace</link>&nbsp;·  <link xlink:type="simple" xlink:href="../473/29473.xml">
-Salvation</link>&nbsp;·  <music wordnetid="107020895" confidence="0.8">
+Trinity</link> ·  <link xlink:type="simple" xlink:href="../735/22735.xml">
+Original sin</link> ·  <link xlink:type="simple" xlink:href="../112/13687112.xml">
+One Holy Catholic and Apostolic Church</link> ·  <link xlink:type="simple" xlink:href="../963/1680963.xml">
+Worship</link> ·  <link xlink:type="simple" xlink:href="../756/191756.xml">
+Divine Grace</link> ·  <link xlink:type="simple" xlink:href="../473/29473.xml">
+Salvation</link> ·  <music wordnetid="107020895" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <episode wordnetid="106396330" confidence="0.8">
 <belief wordnetid="105941423" confidence="0.8">
@@ -989,13 +989,13 @@ Sermon on the Mount</link></section>
 </episode>
 </message>
 </music>
-&nbsp;·  <link xlink:type="simple" xlink:href="../671/2539671.xml">
-The Ten Commandments</link>&nbsp;·  <belief wordnetid="105941423" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../671/2539671.xml">
+The Ten Commandments</link> ·  <belief wordnetid="105941423" confidence="0.8">
 <doctrine wordnetid="105943300" confidence="0.8">
 <link xlink:type="simple" xlink:href="../345/17596345.xml">
 Dogma</link></doctrine>
 </belief>
-&nbsp;·  <link xlink:type="simple" xlink:href="../239/18021239.xml">
+ ·  <link xlink:type="simple" xlink:href="../239/18021239.xml">
  Body and Soul</link></col>
 </row>
 <row style="height:2px">
@@ -1007,11 +1007,11 @@ Dogma</link></doctrine>
 Sacraments</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;background:#FFFFBB;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../298/4298.xml#xpointer(//*[./st=%22Catholic+baptism+and+salvation%22])">
-Baptism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../517/5581517.xml">
-Confirmation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../673/5581673.xml">
-Eucharist</link>&nbsp;·  <link xlink:type="simple" xlink:href="../718/5589718.xml">
-Penance</link>&nbsp;·  <link xlink:type="simple" xlink:href="../740/10904740.xml">
-Anointing of the Sick</link>&nbsp;·  <office wordnetid="103841666" confidence="0.8">
+Baptism</link> ·  <link xlink:type="simple" xlink:href="../517/5581517.xml">
+Confirmation</link> ·  <link xlink:type="simple" xlink:href="../673/5581673.xml">
+Eucharist</link> ·  <link xlink:type="simple" xlink:href="../718/5589718.xml">
+Penance</link> ·  <link xlink:type="simple" xlink:href="../740/10904740.xml">
+Anointing of the Sick</link> ·  <office wordnetid="103841666" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <place_of_business wordnetid="103953020" confidence="0.8">
@@ -1022,7 +1022,7 @@ Holy Orders</link></establishment>
 </artifact>
 </structure>
 </office>
-&nbsp;·  <link xlink:type="simple" xlink:href="../673/395673.xml">
+ ·  <link xlink:type="simple" xlink:href="../673/395673.xml">
 Matrimony</link></col>
 </row>
 <row style="height:2px">
@@ -1034,14 +1034,14 @@ Matrimony</link></col>
 Mariology</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../593/1843593.xml">
- Mariology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../208/17424208.xml">
-Veneration</link>&nbsp;·  <link xlink:type="simple" xlink:href="../071/17321071.xml">
-History of Mariology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../279/17369279.xml">
-Mariology of the saints</link>&nbsp;·  <link xlink:type="simple" xlink:href="../397/17377397.xml">
-Mariology of the popes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../750/14499750.xml">
-Marian Doctrines</link>&nbsp;·  <link xlink:type="simple" xlink:href="../916/36916.xml">
-Mother of God</link>&nbsp;·  <link xlink:type="simple" xlink:href="../178/715178.xml">
-Perpetual Virginity</link>&nbsp;·  <look wordnetid="100877127" confidence="0.8">
+ Mariology</link> ·  <link xlink:type="simple" xlink:href="../208/17424208.xml">
+Veneration</link> ·  <link xlink:type="simple" xlink:href="../071/17321071.xml">
+History of Mariology</link> ·  <link xlink:type="simple" xlink:href="../279/17369279.xml">
+Mariology of the saints</link> ·  <link xlink:type="simple" xlink:href="../397/17377397.xml">
+Mariology of the popes</link> ·  <link xlink:type="simple" xlink:href="../750/14499750.xml">
+Marian Doctrines</link> ·  <link xlink:type="simple" xlink:href="../916/36916.xml">
+Mother of God</link> ·  <link xlink:type="simple" xlink:href="../178/715178.xml">
+Perpetual Virginity</link> ·  <look wordnetid="100877127" confidence="0.8">
 <observation wordnetid="100879759" confidence="0.8">
 <belief wordnetid="105941423" confidence="0.8">
 <religious_doctrine wordnetid="106789411" confidence="0.8">
@@ -1084,7 +1084,7 @@ Immaculate Conception</link></activity>
 </belief>
 </observation>
 </look>
-  &nbsp;·  <belief wordnetid="105941423" confidence="0.8">
+   ·  <belief wordnetid="105941423" confidence="0.8">
 <dogma wordnetid="106790042" confidence="0.8">
 <mystery wordnetid="105685538" confidence="0.8">
 <religious_doctrine wordnetid="106789411" confidence="0.8">
@@ -1133,12 +1133,12 @@ the Church</link></col>
 <link xlink:type="simple" xlink:href="../573/1573.xml">
 Albertus Magnus</link></saint>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../370/1370.xml">
 Ambrose</link></saint>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <archbishop wordnetid="109805151" confidence="0.9508927676800064">
 <saint wordnetid="110546850" confidence="0.9508927676800064">
@@ -1147,52 +1147,52 @@ Anselm of Canterbury</link></saint>
 </archbishop>
 </philosopher>
 </person>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../895/86895.xml">
 Anthony of Padua</link></saint>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../716/30716.xml">
 Thomas Aquinas</link></saint>
 </philosopher>
 </person>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../225/3225.xml">
 Athanasius of Alexandria</link></saint>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../030/2030.xml">
 Augustine of Hippo</link></saint>
 </philosopher>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../143/175143.xml">
 Basil of Caesarea</link></saint>
 </person>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../041/4041.xml">
 Bede</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../878/4878.xml">
 Robert Bellarmine</link></saint>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../552/4552.xml">
 Bernard of Clairvaux</link></saint>
 </person>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../429/95429.xml">
 Bonaventure</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../907/642907.xml">
 Petrus Canisius</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../471/7471.xml">
 Catherine of Siena</link></saint>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <priest wordnetid="110470779" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <bishop wordnetid="109857200" confidence="0.8">
@@ -1235,27 +1235,27 @@ Peter Chrysologus</link></ancestor>
 </person>
 </priest>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../329/16329.xml">
 John Chrysostom</link></saint>
 </person>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/7383.xml">
 Cyril of Alexandria</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../387/7387.xml">
 Cyril of Jerusalem</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../690/1569690.xml">
 Peter Damian</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../358/10358.xml">
 Ephrem the Syrian</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../420/1539420.xml">
 Francis de Sales</link></saint>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <genitor wordnetid="110126708" confidence="0.8">
 <father wordnetid="110080869" confidence="0.8">
@@ -1314,30 +1314,30 @@ Gregory the Great</link></diplomat>
 </genitor>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../172/13172.xml">
 Gregory of Nazianzus</link></saint>
 </person>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../384/87384.xml">
 Hilary of Poitiers</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../506/15506.xml">
 Isidore of Seville</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../005/16005.xml">
 Jerome</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../927/42927.xml">
 John of Damascus</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../582/44582.xml">
 John of the Cross</link></saint>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/2518862.xml">
 Lawrence of Brindisi</link></saint>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <genitor wordnetid="110126708" confidence="0.8">
 <father wordnetid="110080869" confidence="0.8">
@@ -1388,11 +1388,11 @@ Leo the Great</link></scholar>
 </genitor>
 </person>
 </physical_entity>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../671/1545671.xml">
 Alphonsus Liguori</link></saint>
-&nbsp;·  <link>
-Thérèse de Lisieux</link>&nbsp;·  <link>
+ ·  <link>
+Thérèse de Lisieux</link> ·  <link>
 Teresa of Ávila</link></col>
 </row>
 <row style="height:2px">
@@ -1416,9 +1416,9 @@ Conclave</link></group>
 </gathering>
 </meeting>
 </social_group>
-&nbsp;·  <link xlink:type="simple" xlink:href="../072/1813072.xml">
-Theology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../958/1774958.xml">
-Works</link>&nbsp;·  <creation wordnetid="103129123" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../072/1813072.xml">
+Theology</link> ·  <link xlink:type="simple" xlink:href="../958/1774958.xml">
+Works</link> ·  <creation wordnetid="103129123" confidence="0.8">
 <text wordnetid="106387980" confidence="0.8">
 <document wordnetid="103217458" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1433,10 +1433,10 @@ Deus Caritas Est</link></encyclical>
 </document>
 </text>
 </creation>
-&nbsp;·  <exhortation wordnetid="107139700" confidence="0.8">
+ ·  <exhortation wordnetid="107139700" confidence="0.8">
 <link xlink:type="simple" xlink:href="../564/10072564.xml">
 Sacramentum Caritatis</link></exhortation>
-<it>&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+<it> ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <document wordnetid="106470073" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1453,7 +1453,7 @@ Summorum Pontificum</link></end_product>
 </document>
 </creation>
 </product>
-</it>&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+</it> ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <text wordnetid="106387980" confidence="0.8">
 <document wordnetid="103217458" confidence="0.8">
@@ -1487,19 +1487,19 @@ Preceding Popes</link></col>
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../805/23805.xml">
 Pope John Paul II</link></person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../028/24028.xml">
 Pope Paul VI</link></person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../807/23807.xml">
 Pope John XXIII</link></person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../808/23808.xml">
 Pope Pius XII</link></person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../858/147858.xml">
 Pope Pius XI</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <priest wordnetid="110470779" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <clergyman wordnetid="109927451" confidence="0.8">
@@ -1518,11 +1518,11 @@ Pope Benedict XV</link></archbishop>
 </person>
 </priest>
 </physical_entity>
-&nbsp;·  <saint wordnetid="110546850" confidence="0.9508927676800064">
+ ·  <saint wordnetid="110546850" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../205/59205.xml">
 Pope Pius X</link></saint>
-&nbsp;·  <link xlink:type="simple" xlink:href="../614/50614.xml">
-Pope Leo XIII</link>&nbsp;·  <link xlink:type="simple" xlink:href="../161/54161.xml">
+ ·  <link xlink:type="simple" xlink:href="../614/50614.xml">
+Pope Leo XIII</link> ·  <link xlink:type="simple" xlink:href="../161/54161.xml">
 Pope Pius IX</link></col>
 </row>
 <row style="height:2px">
@@ -1558,13 +1558,13 @@ Assumptionist</link></speech_act>
 </command>
 </event>
 </order>
-&nbsp;·  <link>
-Augustinian Order</link>&nbsp;·  <link>
-Benedictines</link>&nbsp;·  <link>
-Capuchin Order</link>&nbsp;·  <link xlink:type="simple" xlink:href="../577/43577.xml">
- Carmelites</link>&nbsp;·  <link xlink:type="simple" xlink:href="../120/49120.xml">
- Carthusians</link>&nbsp;·  <link>
-Congregations of Holy Cross</link>&nbsp;·  <order wordnetid="107168623" confidence="0.8">
+ ·  <link>
+Augustinian Order</link> ·  <link>
+Benedictines</link> ·  <link>
+Capuchin Order</link> ·  <link xlink:type="simple" xlink:href="../577/43577.xml">
+ Carmelites</link> ·  <link xlink:type="simple" xlink:href="../120/49120.xml">
+ Carthusians</link> ·  <link>
+Congregations of Holy Cross</link> ·  <order wordnetid="107168623" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <command wordnetid="107168131" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1577,9 +1577,9 @@ Congregations of Holy Cross</link>&nbsp;·  <order wordnetid="107168623" confide
 </command>
 </event>
 </order>
-&nbsp;·  <link xlink:type="simple" xlink:href="../176/64176.xml">
-Franciscan orders</link>&nbsp;·  <link xlink:type="simple" xlink:href="../083/16083.xml">
- Jesuits</link>&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../176/64176.xml">
+Franciscan orders</link> ·  <link xlink:type="simple" xlink:href="../083/16083.xml">
+ Jesuits</link> ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -1599,22 +1599,22 @@ Franciscan orders</link>&nbsp;·  <link xlink:type="simple" xlink:href="../083/1
 Vatican II</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;background:#FFFFBB;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../134/28134.xml">
-Second Vatican Council</link>&nbsp;·  <link>
- Definition of the Church</link>&nbsp;·  <document wordnetid="106470073" confidence="0.8">
+Second Vatican Council</link> ·  <link>
+ Definition of the Church</link> ·  <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../352/40352.xml">
 Gaudium et Spes</link></writing>
 </written_communication>
 </document>
-&nbsp;·  <document wordnetid="106470073" confidence="0.8">
+ ·  <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../135/40135.xml">
 Lumen Gentium</link></writing>
 </written_communication>
 </document>
-&nbsp;·  <document wordnetid="106470073" confidence="0.8">
+ ·  <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../283/42283.xml">
@@ -1634,9 +1634,9 @@ sorted by<link xlink:type="simple" xlink:href="../364/86364.xml">
 Liturgical Traditions</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <b><link xlink:type="simple" xlink:href="../640/5435640.xml">
-Alexandrian</link></b>&nbsp;·  <link xlink:type="simple" xlink:href="../220/277220.xml">
-Coptic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../516/5167516.xml">
-Ethiopic</link>&nbsp;·  <b><rite wordnetid="101029406" confidence="0.8">
+Alexandrian</link></b> ·  <link xlink:type="simple" xlink:href="../220/277220.xml">
+Coptic</link> ·  <link xlink:type="simple" xlink:href="../516/5167516.xml">
+Ethiopic</link> ·  <b><rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -1651,18 +1651,18 @@ Antiochian</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-</b>&nbsp;·  <group wordnetid="100031264" confidence="0.9508927676800064">
+</b> ·  <group wordnetid="100031264" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../373/1812373.xml">
 Maronite</link></group>
-&nbsp;·  <church wordnetid="103028079" confidence="0.9508927676800064">
+ ·  <church wordnetid="103028079" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/219405.xml">
 Syriac</link></church>
-&nbsp;·  <church wordnetid="103028079" confidence="0.9508927676800064">
+ ·  <church wordnetid="103028079" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../996/489996.xml">
 Syro-Malankara</link></church>
-&nbsp;·  <b><link xlink:type="simple" xlink:href="../028/1659028.xml">
-Armenian</link></b>&nbsp;·  <link xlink:type="simple" xlink:href="../385/523385.xml">
-Armenian</link>&nbsp;· <b><rite wordnetid="101029406" confidence="0.8">
+ ·  <b><link xlink:type="simple" xlink:href="../028/1659028.xml">
+Armenian</link></b> ·  <link xlink:type="simple" xlink:href="../385/523385.xml">
+Armenian</link> · <b><rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -1677,22 +1677,22 @@ Byzantine</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-</b>&nbsp;·  <link xlink:type="simple" xlink:href="../387/894387.xml">
-Albanian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../185/3686185.xml">
-Belarusian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../027/5263027.xml">
-Bulgarian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../452/3280452.xml">
-Croatian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../695/3666695.xml">
-Greek</link>&nbsp;·  <link xlink:type="simple" xlink:href="../367/5261367.xml">
-Hungarian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../519/291519.xml">
-Italo-Greek</link>&nbsp;·  <link xlink:type="simple" xlink:href="../761/5513761.xml">
-Macedonian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../713/1361713.xml">
-Melkite</link>&nbsp;·  <church wordnetid="103028079" confidence="0.9508927676800064">
+</b> ·  <link xlink:type="simple" xlink:href="../387/894387.xml">
+Albanian</link> ·  <link xlink:type="simple" xlink:href="../185/3686185.xml">
+Belarusian</link> ·  <link xlink:type="simple" xlink:href="../027/5263027.xml">
+Bulgarian</link> ·  <link xlink:type="simple" xlink:href="../452/3280452.xml">
+Croatian</link> ·  <link xlink:type="simple" xlink:href="../695/3666695.xml">
+Greek</link> ·  <link xlink:type="simple" xlink:href="../367/5261367.xml">
+Hungarian</link> ·  <link xlink:type="simple" xlink:href="../519/291519.xml">
+Italo-Greek</link> ·  <link xlink:type="simple" xlink:href="../761/5513761.xml">
+Macedonian</link> ·  <link xlink:type="simple" xlink:href="../713/1361713.xml">
+Melkite</link> ·  <church wordnetid="103028079" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/638193.xml">
 Romanian</link></church>
-&nbsp;·  <link xlink:type="simple" xlink:href="../927/1795927.xml">
-Russian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../553/676553.xml">
-Ruthenian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../748/5516748.xml">
-Slovak</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../927/1795927.xml">
+Russian</link> ·  <link xlink:type="simple" xlink:href="../553/676553.xml">
+Ruthenian</link> ·  <link xlink:type="simple" xlink:href="../748/5516748.xml">
+Slovak</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <church wordnetid="103028079" confidence="0.8">
@@ -1703,7 +1703,7 @@ Ukrainian</link></place_of_worship>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <b><rite wordnetid="101029406" confidence="0.8">
+ ·  <b><rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -1718,11 +1718,11 @@ East Syrian</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-</b>&nbsp;·  <link xlink:type="simple" xlink:href="../821/698821.xml">
-Chaldean</link>&nbsp;·  <group wordnetid="100031264" confidence="0.9508927676800064">
+</b> ·  <link xlink:type="simple" xlink:href="../821/698821.xml">
+Chaldean</link> ·  <group wordnetid="100031264" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/541298.xml">
 Syro-Malabar</link></group>
-&nbsp;·  <b><rite wordnetid="101029406" confidence="0.8">
+ ·  <b><rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -1737,7 +1737,7 @@ Roman</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-</b>&nbsp;·  <b><rite wordnetid="101029406" confidence="0.8">
+</b> ·  <b><rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -1752,7 +1752,7 @@ Ambrosian</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-</b>&nbsp;·  <b><sacrament wordnetid="101034925" confidence="0.8">
+</b> ·  <b><sacrament wordnetid="101034925" confidence="0.8">
 <rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
@@ -1769,7 +1769,7 @@ Sarum</link></activity>
 </event>
 </rite>
 </sacrament>
-</b>&nbsp;·  <b><rite wordnetid="101029406" confidence="0.8">
+</b> ·  <b><rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -1784,7 +1784,7 @@ Mozarabic</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-</b>&nbsp;·  <b><rite wordnetid="101029406" confidence="0.8">
+</b> ·  <b><rite wordnetid="101029406" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <religious_ceremony wordnetid="101028082" confidence="0.8">
 <ceremony wordnetid="101027379" confidence="0.8">
@@ -1799,8 +1799,8 @@ Anglican Use</link></activity>
 </religious_ceremony>
 </event>
 </rite>
-</b>&nbsp;·  <link xlink:type="simple" xlink:href="../458/104458.xml">
-Latin</link>&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+</b> ·  <link xlink:type="simple" xlink:href="../458/104458.xml">
+Latin</link> ·  <social_group wordnetid="107950920" confidence="0.8">
 <order wordnetid="107168623" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">

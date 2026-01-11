@@ -2044,7 +2044,7 @@ Z. A. Melzak</link> (1961, received 15 May 1961), <it>An informal Arthmetical Ap
 <link xlink:type="simple" xlink:href="../639/19639.xml">
 Marvin Minsky</link></scientist>
 </person>
-&#32;(1961, received August 15, 1960).&#32;"Recursive Unsolvability of Post's Problem of 'Tag' and Other Topics in Theory of Turing Machines". <it>Annals of Math</it>&#32;<b>74</b>: 437&ndash;455. <document wordnetid="106470073" confidence="0.8">
+&#32;(1961, received August 15, 1960).&#32;"Recursive Unsolvability of Post's Problem of 'Tag' and Other Topics in Theory of Turing Machines". <it>Annals of Math</it>&#32;<b>74</b>: 437–455. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -2052,7 +2052,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F1970290">
-10.2307/1970290</weblink>.</cite>&nbsp;</entry>
+10.2307/1970290</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><person wordnetid="100007846" confidence="0.9508927676800064">
@@ -2060,7 +2060,7 @@ doi</link></writing>
 <link xlink:type="simple" xlink:href="../639/19639.xml">
 Marvin Minsky</link></scientist>
 </person>
-&#32;(1967). Computation: Finite and Infinite Machines, 1st ed.,&#32;Englewood Cliffs, N. J.:&#32;Prentice-Hall, Inc..</cite>&nbsp; In particular see chapter 11: <it>Models Similar to Digital Computers</it> and chapter 14: <it>Very Simple Bases for Computability</it>. In the former chapter he defines "Program machines" and in the later chapter he discusses "Universal Program machines with Two Registers" and "...with one register", etc.</entry>
+&#32;(1967). Computation: Finite and Infinite Machines, 1st ed.,&#32;Englewood Cliffs, N. J.:&#32;Prentice-Hall, Inc..</cite>  In particular see chapter 11: <it>Models Similar to Digital Computers</it> and chapter 14: <it>Very Simple Bases for Computability</it>. In the former chapter he defines "Program machines" and in the later chapter he discusses "Universal Program machines with Two Registers" and "...with one register", etc.</entry>
 <entry level="1" type="bullet">
 
 <link>

@@ -228,7 +228,7 @@ bubble chamber</link> photographs (Hough, 1959). </p>
 
 The Hough transform was patented as <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3069654">
 U.S. Patent 3,069,654</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=3069654">
-&nbsp;</weblink> in <link xlink:type="simple" xlink:href="../717/34717.xml">
+ </weblink> in <link xlink:type="simple" xlink:href="../717/34717.xml">
 1962</link> by <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../259/18622259.xml">
 IBM</link></company>
@@ -240,7 +240,7 @@ The rho-theta parametrization universally used today was first described in</p>
 
 <indent level="1">
 
-Duda, R. O. and P. E. Hart, "Use of the Hough Transformation to Detect Lines and Curves in Pictures," <it>Comm. ACM, Vol. 15</it>, pp. 11&ndash;15 (January, 1972),
+Duda, R. O. and P. E. Hart, "Use of the Hough Transformation to Detect Lines and Curves in Pictures," <it>Comm. ACM, Vol. 15</it>, pp. 11–15 (January, 1972),
 </indent>
 
 although it was already standard for the <link xlink:type="simple" xlink:href="../378/503378.xml">
@@ -268,7 +268,7 @@ References</st>
 Shapiro, Linda and Stockman, George. “Computer Vision,” Prentice-Hall, Inc. 2001
 </entry>
 <entry id="2">
-Duda, R. O. and P. E. Hart, "Use of the Hough Transformation to Detect Lines and Curves in Pictures," <it>Comm. ACM, Vol. 15</it>, pp. 11&ndash;15 (January, 1972)</entry>
+Duda, R. O. and P. E. Hart, "Use of the Hough Transformation to Detect Lines and Curves in Pictures," <it>Comm. ACM, Vol. 15</it>, pp. 11–15 (January, 1972)</entry>
 <entry id="3">
 P.V.C. Hough, <it>Machine Analysis of Bubble Chamber Pictures,</it> Proc. Int. Conf. High Energy Accelerators and Instrumentation, 1959</entry>
 <entry id="4">
@@ -279,7 +279,7 @@ Use of the Hough Transformation to Detect Lines and Curves in Pictures</weblink>
 Hough Transform</weblink>".</entry>
 <entry id="6">
 <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016/j.patcog.2007.04.003">
-Fernandes, L.A.F. and Oliveira, M.M., "Real-time line detection through an improved Hough transform voting scheme," <it>Pattern Recognition, Elsevier, Volume 41, Issue 1</it>, pp. 299&ndash;314 (January, 2008)</weblink>.</entry>
+Fernandes, L.A.F. and Oliveira, M.M., "Real-time line detection through an improved Hough transform voting scheme," <it>Pattern Recognition, Elsevier, Volume 41, Issue 1</it>, pp. 299–314 (January, 2008)</weblink>.</entry>
 <entry id="7">
 <weblink xlink:type="simple" xlink:href="http://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm">
 Image Transforms - Hough Transform</weblink></entry>

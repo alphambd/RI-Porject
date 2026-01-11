@@ -74,9 +74,9 @@ Dict Suffix Link</header>
 <col>
 -</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row >
 <col>
@@ -86,7 +86,7 @@ Dict Suffix Link</header>
 <col>
 ()</col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row >
 <col>
@@ -96,7 +96,7 @@ Dict Suffix Link</header>
 <col>
 (b)</col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row >
 <col>
@@ -106,7 +106,7 @@ Dict Suffix Link</header>
 <col>
 ()</col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row >
 <col>
@@ -136,7 +136,7 @@ Dict Suffix Link</header>
 <col>
 ()</col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row >
 <col>
@@ -197,11 +197,11 @@ Output</header>
 <col>
 abccab</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 start at root</col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row >
 <col>
@@ -267,7 +267,7 @@ Dict suffix node</col>
 <col>
 (ab)</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 ab:6</col>
 <col>
@@ -321,7 +321,7 @@ Aho, Alfred V.</link></scholar>
 </physical_entity>
 </peer>
 </expert>
-; Margaret J. Corasick&#32;(June 1975).&#32;"Efficient string matching: An aid to bibliographic search". <it>Communications of the ACM</it>&#32;<b>18</b>&#32;(6): 333&ndash;340. <document wordnetid="106470073" confidence="0.8">
+; Margaret J. Corasick&#32;(June 1975).&#32;"Efficient string matching: An aid to bibliographic search". <it>Communications of the ACM</it>&#32;<b>18</b>&#32;(6): 333–340. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -329,7 +329,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F360825.360855">
-10.1145/360825.360855</weblink>.</cite>&nbsp; (Access to the full text may be restricted.)</entry>
+10.1145/360825.360855</weblink>.</cite>  (Access to the full text may be restricted.)</entry>
 </list>
 </p>
 

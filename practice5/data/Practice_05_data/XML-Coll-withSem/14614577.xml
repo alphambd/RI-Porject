@@ -125,7 +125,7 @@ ACC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -149,7 +149,7 @@ Danny Ford</link></trainer>
 
 <row>
 <header>
-Offensive&nbsp;scheme</header>
+Offensive scheme</header>
 <col style="vertical-align:middle;">
  <link xlink:type="simple" xlink:href="../380/1460380.xml">
 Option</link></col>
@@ -157,7 +157,7 @@ Option</link></col>
 
 <row>
 <header>
-Base&nbsp;defense</header>
+Base defense</header>
 <col style="vertical-align:middle;">
  <link xlink:type="simple" xlink:href="../826/1372826.xml#xpointer(//*[./st=%225-2%22])">
 5-2</link></col>
@@ -168,11 +168,11 @@ Base&nbsp;defense</header>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link>
+ &amp;laquo; <link>
 1980</link></col>
 <col align="center">
  <link>
-1982</link>&nbsp;&amp;raquo;</col>
+1982</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -557,7 +557,7 @@ This achievement was tarnished after it was revealed that coach Danny Ford had c
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -567,7 +567,7 @@ This achievement was tarnished after it was revealed that coach Danny Ford had c
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -629,7 +629,7 @@ Wofford</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -639,7 +639,7 @@ Wofford</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -697,7 +697,7 @@ Tulane</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -707,7 +707,7 @@ Tulane</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -769,7 +769,7 @@ Clemson</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -779,7 +779,7 @@ Clemson</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -841,7 +841,7 @@ Kentucky</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -851,7 +851,7 @@ Kentucky</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -914,7 +914,7 @@ Virginia</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -924,7 +924,7 @@ Virginia</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -990,7 +990,7 @@ Duke</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -1000,7 +1000,7 @@ Duke</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -1062,7 +1062,7 @@ N.C. State</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -1072,7 +1072,7 @@ N.C. State</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -1146,7 +1146,7 @@ Wake Forest</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -1156,7 +1156,7 @@ Wake Forest</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -1224,7 +1224,7 @@ T</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -1234,7 +1234,7 @@ T</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -1296,7 +1296,7 @@ Maryland</header>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -1306,7 +1306,7 @@ Maryland</header>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -1392,7 +1392,7 @@ Orange Bowl</link></activity>
 </row>
 <row>
 <header width="125">
-&nbsp;</header>
+ </header>
 <header width="40">
 1</header>
 <header width="40">
@@ -1402,7 +1402,7 @@ Orange Bowl</link></activity>
 <header width="40">
 4</header>
 <header width="40">
-&nbsp;</header>
+ </header>
 <header width="40">
 T</header>
 </row>
@@ -1509,7 +1509,7 @@ Memorial Stadium</link></venue>
 • Clemson, SC</col>
 
 <col>
-<b>W</b>&nbsp;45-10&nbsp;</col>
+<b>W</b> 45-10 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1517,7 +1517,7 @@ Memorial Stadium</link></venue>
 September 12</link>&#42;</col>
 
 <col>
- at&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../380/165380.xml">
 Tulane</link></university>
 </col>
@@ -1537,7 +1537,7 @@ Louisiana Superdome</link></venue>
 • New Orleans, LA</col>
 
 <col>
-<b>W</b>&nbsp;13-5&nbsp;</col>
+<b>W</b> 13-5 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1552,7 +1552,7 @@ Georgia</link></col>
 Memorial Stadium • Clemson, SC</col>
 
 <col>
-<b>W</b>&nbsp;13-3&nbsp;</col>
+<b>W</b> 13-3 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1560,7 +1560,7 @@ Memorial Stadium • Clemson, SC</col>
 October 3</link>&#42;</col>
 
 <col>
- at&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../368/284368.xml">
 Kentucky</link></university>
 </col>
@@ -1584,7 +1584,7 @@ Lexington, KY</link></village>
 </col>
 
 <col>
-<b>W</b>&nbsp;21-3&nbsp;</col>
+<b>W</b> 21-3 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1602,7 +1602,7 @@ Virginia</link></university>
 Memorial Stadium • Clemson, SC</col>
 
 <col>
-<b>W</b>&nbsp;27-0&nbsp;</col>
+<b>W</b> 27-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1610,7 +1610,7 @@ Memorial Stadium • Clemson, SC</col>
 October 17</link></col>
 
 <col>
- at&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../273/53273.xml">
 Duke</link></university>
 </col>
@@ -1634,7 +1634,7 @@ Durham, NC</link></village>
 </col>
 
 <col>
-<b>W</b>&nbsp;38-10&nbsp;</col>
+<b>W</b> 38-10 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1662,7 +1662,7 @@ N.C. State</link></university>
 Memorial Stadium • Clemson, SC (Textile Bowl)</col>
 
 <col>
-<b>W</b>&nbsp;17-7&nbsp;</col>
+<b>W</b> 17-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1680,7 +1680,7 @@ Wake Forest</link></university>
 Memorial Stadium • Clemson, SC</col>
 
 <col>
-<b>W</b>&nbsp;82-24&nbsp;</col>
+<b>W</b> 82-24 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1688,7 +1688,7 @@ Memorial Stadium • Clemson, SC</col>
 November 7</link></col>
 
 <col>
- at&nbsp;&#35;9<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref>&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at &#35;9<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref> <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../940/77940.xml">
 North Carolina</link></university>
 </col>
@@ -1730,7 +1730,7 @@ Chapel Hill, NC</link></urban_area>
 </col>
 
 <col>
-<b>W</b>&nbsp;10-8&nbsp;</col>
+<b>W</b> 10-8 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1746,7 +1746,7 @@ Maryland</link></col>
 Memorial Stadium • Clemson, SC</col>
 
 <col>
-<b>W</b>&nbsp;21-7&nbsp;</col>
+<b>W</b> 21-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1754,7 +1754,7 @@ Memorial Stadium • Clemson, SC</col>
 November 23</link>&#42;</col>
 
 <col>
- at&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../887/963887.xml">
 South Carolina</link></university>
 </col>
@@ -1775,7 +1775,7 @@ Williams-Brice Stadium</link></venue>
 • Columbia, SC</col>
 
 <col>
-<b>W</b>&nbsp;29-13&nbsp;</col>
+<b>W</b> 29-13 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1783,7 +1783,7 @@ Williams-Brice Stadium</link></venue>
 January 1</link>&#42;</col>
 
 <col>
- vs.&nbsp;&#35;4&nbsp;<link xlink:type="simple" xlink:href="../937/327937.xml">
+ vs. &#35;4 <link xlink:type="simple" xlink:href="../937/327937.xml">
 Nebraska</link></col>
 <col align="center">
 &#35;1</col>
@@ -1826,7 +1826,7 @@ Orange Bowl</link></activity>
 )</col>
 
 <col>
-<b>W</b>&nbsp;22-15&nbsp;</col>
+<b>W</b> 22-15 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">

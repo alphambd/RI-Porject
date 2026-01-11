@@ -161,7 +161,7 @@ Definition</st>
 
 Given a <link xlink:type="simple" xlink:href="../325/43325.xml">
 probability space</link> <math>\scriptstyle (\Omega, F, P)</math> and two <link xlink:type="simple" xlink:href="../961/22961.xml">
-events</link> <math>\scriptstyle A, B\,\in\, F</math> with <it>P</it>(<it>B</it>)&nbsp;&amp;gt;&nbsp;0, the conditional probability of <it>A</it> given <it>B</it> is defined by</p>
+events</link> <math>\scriptstyle A, B\,\in\, F</math> with <it>P</it>(<it>B</it>) &amp;gt; 0, the conditional probability of <it>A</it> given <it>B</it> is defined by</p>
 <p>
 
 <indent level="1">
@@ -400,7 +400,7 @@ There is also a concept of the conditional probability of an event given a discr
 random variable</link>.  Such a conditional probability is a random variable in its own right.</p>
 <p>
 
-Suppose <it>X</it> is a random variable that can be equal either to 0 or to 1.  As above, one may speak of the conditional probability of any event <it>A</it> given the event <it>X</it>&nbsp;=&nbsp;0, and also of the conditional probability of <it>A</it> given the event <it>X</it>&nbsp;=&nbsp;1.  The former is denoted <it>P</it>(<it>A</it>|<it>X</it>&nbsp;=&nbsp;0) and the latter <it>P</it>(<it>A</it>|<it>X</it>&nbsp;=&nbsp;1).  Now define a new random variable <it>Y</it>, whose value is <it>P</it>(<it>A</it>|<it>X</it>&nbsp;=&nbsp;0) if <it>X</it>&nbsp;=&nbsp;0 and <it>P</it>(<it>A</it>|<it>X</it>&nbsp;=&nbsp;1) if <it>X</it>&nbsp;=&nbsp;1.   That is</p>
+Suppose <it>X</it> is a random variable that can be equal either to 0 or to 1.  As above, one may speak of the conditional probability of any event <it>A</it> given the event <it>X</it> = 0, and also of the conditional probability of <it>A</it> given the event <it>X</it> = 1.  The former is denoted <it>P</it>(<it>A</it>|<it>X</it> = 0) and the latter <it>P</it>(<it>A</it>|<it>X</it> = 1).  Now define a new random variable <it>Y</it>, whose value is <it>P</it>(<it>A</it>|<it>X</it> = 0) if <it>X</it> = 0 and <it>P</it>(<it>A</it>|<it>X</it> = 1) if <it>X</it> = 1.   That is</p>
 <p>
 
 <indent level="1">

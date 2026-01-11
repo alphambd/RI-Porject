@@ -33,8 +33,8 @@ swap space</link>, the condition is much more rare.</p>
 
 Early operating systems lacked support for <link xlink:type="simple" xlink:href="../857/6857.xml">
  multitasking</link>, such as <link xlink:type="simple" xlink:href="../027/20027.xml">
-Microsoft DOS</link>.  Programs were allocated physical memory that they could use as they needed.  Physical memory is often a scarce resource, and when it was used up by applications&nbsp;&mdash;  such as applications with <link xlink:type="simple" xlink:href="../741/69741.xml">
-Terminate and Stay Resident</link> functionality&nbsp;&mdash;  no further applications could be started until running applications were closed.</p>
+Microsoft DOS</link>.  Programs were allocated physical memory that they could use as they needed.  Physical memory is often a scarce resource, and when it was used up by applications —  such as applications with <link xlink:type="simple" xlink:href="../741/69741.xml">
+Terminate and Stay Resident</link> functionality —  no further applications could be started until running applications were closed.</p>
 <p>
 
 Modern operating systems provide virtual memory, in which processes are given a range of memory, but there is no guarantee that the memory corresponds to physical RAM.  Virtual memory can be backed by physical RAM, a file via <link xlink:type="simple" xlink:href="../709/608709.xml">

@@ -57,7 +57,7 @@ Westbourne Green</link></section>
 </row>
 <row>
 <header style="text-align: right">
-Local&nbsp;authority</header>
+Local authority</header>
 <col style="" class="">
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
@@ -80,7 +80,7 @@ City of Westminster</link></city>
 </row>
 <row>
 <header style="text-align: right">
-Managed&nbsp;by</header>
+Managed by</header>
 <col style="" class="">
 <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
@@ -103,7 +103,7 @@ London Underground</link></administration>
 </row>
 <row>
 <header style="text-align: right">
-Platforms&nbsp;in&nbsp;use</header>
+Platforms in use</header>
 <col style="" class="">
 2</col>
 </row>
@@ -111,7 +111,7 @@ Platforms&nbsp;in&nbsp;use</header>
 <header style="text-align: right">
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../145/31145.xml">
-TfL&nbsp;zone</link></company>
+TfL zone</link></company>
 </header>
 <col style="" class="">
 <link xlink:type="simple" xlink:href="../081/382081.xml">
@@ -119,15 +119,15 @@ TfL&nbsp;zone</link></company>
 </row>
 <row>
 <header style="text-align: right">
-LUL&nbsp;2005&nbsp;usage</header>
+LUL 2005 usage</header>
 <col style="" class="">
-2.704&nbsp;million<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></col>
+2.704 million<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></col>
 </row>
 <row>
 <header style="text-align: right">
-LUL&nbsp;2007&nbsp;usage</header>
+LUL 2007 usage</header>
 <col style="" class="">
-2.873&nbsp;million<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></col>
+2.873 million<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></col>
 </row>
 <row>
 <header colspan="2" style="text-align:center; "></header>
@@ -144,11 +144,11 @@ Opened</col>
 </row>
 <row>
 <header style="text-align: right">
-List&nbsp;of&nbsp;stations</header>
+List of stations</header>
 <col style="" class="">
 <link xlink:type="simple" xlink:href="../617/210617.xml">
-Underground</link>&nbsp;•&nbsp;<link xlink:type="simple" xlink:href="../268/361268.xml">
-National&nbsp;Rail</link></col>
+Underground</link> • <link xlink:type="simple" xlink:href="../268/361268.xml">
+National Rail</link></col>
 </row>
 <row>
 <header colspan="2" style="text-align:center; ">
@@ -297,7 +297,7 @@ Roundel
 <header style="vertical-align: middle; width: 30%; border-top: 1px #aaa solid; border-right: 1px #aaa solid; border-left: 0px; border-bottom: 0px; color:inherit; background-color:#f2f2f2; ">
 <b>Preceding station</b></header>
 <header style="border-left: 0px none; border-right: 0px none; border-bottom: 0px none; border-top: 1px #aaa solid; background-color:#">
-&nbsp;</header>
+ </header>
 <header style="vertical-align: middle; border-top: 1px #aaa solid; border-left: 0px none; border-right: 0px none; border-bottom: 0px none; background-color:#">
 <image width="15px" src="Underground_no-text.svg">
 </image>
@@ -320,7 +320,7 @@ London Underground</link></administration>
 </body>
 </header>
 <header style="border-left: 0px none; border-right: 0px none; border-bottom: 0px none; border-top: 1px #aaa solid; background-color:#">
-&nbsp;</header>
+ </header>
 <header style="vertical-align: middle; width: 30%; border-top: 1px #aaa solid; border-left: 1px #aaa solid; border-right: 0px; border-bottom: 0px; color:inherit; background-color:#f2f2f2; ">
 <b>Following station</b></header>
 </row>
@@ -416,7 +416,7 @@ Beckton</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -428,7 +428,7 @@ Central</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -440,7 +440,7 @@ Connaught Road</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;·  
+ ·  
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -452,7 +452,7 @@ Gallions</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -460,15 +460,15 @@ Gallions</link></railway_station>
 Manor Way</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <station wordnetid="104306080" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../500/8609500.xml">
 North Woolwich</link></station>
-&nbsp;· 
+ · 
 <station wordnetid="104306080" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../030/1138030.xml">
 Silvertown</link></station>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -476,7 +476,7 @@ Silvertown</link></station>
 Stratford Market</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -512,7 +512,7 @@ Bishopsgate</link></railway_station>
 </artifact>
 </building>
 </structure>
-&nbsp;·  
+ ·  
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -528,7 +528,7 @@ Bishopsgate (low level)</link></railway_station>
 </artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -540,7 +540,7 @@ Bow Road</link></railway_station>
 </facility>
 </terminal>
 </artifact>
- &nbsp;· 
+  · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -552,7 +552,7 @@ Burdett Road</link></railway_station>
 </facility>
 </terminal>
 </artifact>
- &nbsp;· 
+  · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -560,9 +560,9 @@ Burdett Road</link></railway_station>
 Coborn Road</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../796/18743796.xml">
-Devonshire Street</link>&nbsp;· 
+Devonshire Street</link> · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -570,7 +570,7 @@ Devonshire Street</link>&nbsp;·
 Globe Road</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -582,7 +582,7 @@ Lea Bridge</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· 
+ · 
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -609,7 +609,7 @@ Blackwall</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -617,7 +617,7 @@ Blackwall</link></railway_station>
 Cannon Street Road</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -625,7 +625,7 @@ Cannon Street Road</link></station>
 Leman Street</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -637,7 +637,7 @@ Limehouse</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -649,7 +649,7 @@ Millwall Junction</link></railway_station>
 </facility>
 </terminal>
 </artifact>
- &nbsp;· 
+  · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -661,7 +661,7 @@ Millwall Docks</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -673,7 +673,7 @@ Minories</link></railway_station>
 </facility>
 </terminal>
 </artifact>
- &nbsp;· 
+  · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -685,7 +685,7 @@ North Greenwich</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -697,7 +697,7 @@ Poplar</link></railway_station>
 </facility>
 </terminal>
 </artifact>
- &nbsp;· 
+  · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -705,7 +705,7 @@ Poplar</link></railway_station>
 Shadwell</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -713,7 +713,7 @@ Shadwell</link></station>
 South Dock</link></station>
 </facility>
 </artifact>
- &nbsp;· 
+  · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -740,7 +740,7 @@ Bow</link></railway_station>
 </facility>
 </terminal>
 </artifact>
- &nbsp;· 
+  · 
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -756,7 +756,7 @@ Broad Street</link></railway_station>
 </artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -764,7 +764,7 @@ Broad Street</link></railway_station>
 Old Ford</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -772,7 +772,7 @@ Old Ford</link></station>
 Poplar</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -780,7 +780,7 @@ Poplar</link></station>
 Shoreditch</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -788,7 +788,7 @@ Shoreditch</link></station>
 South Bromley</link></station>
 </facility>
 </artifact>
-&nbsp;· 
+ · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -827,11 +827,11 @@ Battersea</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;·  
+ ·  
 <link xlink:type="simple" xlink:href="../221/1666221.xml">
-Chelsea &amp; Fulham</link>&nbsp;·  
+Chelsea &amp; Fulham</link> ·  
 <link xlink:type="simple" xlink:href="../254/1666254.xml">
-Wormwood Scrubs</link>&nbsp;·  
+Wormwood Scrubs</link> ·  
 <station wordnetid="104306080" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../426/1061426.xml">
 Uxbridge Road</link></station>
@@ -842,7 +842,7 @@ Uxbridge Road</link></station>
 L&amp;SWR</link></b>: <station wordnetid="104306080" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../790/2334790.xml">
 Hammersmith (Grove Road)</link></station>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
@@ -857,7 +857,7 @@ Kew Bridge</link></railway_station>
 </artifact>
 </building>
 </structure>
- &nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+  ·  <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -879,7 +879,7 @@ LC&amp;DR</link></b>: <artifact wordnetid="100021939" confidence="0.8">
 Battersea Park Road</link></station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../167/3765167.xml">
@@ -909,9 +909,9 @@ GCR</link></formation>
 Ruislip Gardens</link></station>
 </facility>
 </artifact>
-&nbsp;·  
+ ·  
 <link xlink:type="simple" xlink:href="../526/5982526.xml">
-South Harefield</link> &nbsp;· 
+South Harefield</link>  · 
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -932,9 +932,9 @@ Wembley Stadium</link></railway_station>
 GWR</link></institution>
 </company>
 </b>: <link>
-Brentford Docks</link>&nbsp;·  
+Brentford Docks</link> ·  
 <link>
-Brentford Town</link>&nbsp;·  
+Brentford Town</link> ·  
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -942,7 +942,7 @@ Brentford Town</link>&nbsp;·
 Colnbrook</link></station>
 </facility>
 </artifact>
- &nbsp;·  
+  ·  
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -950,7 +950,7 @@ Colnbrook</link></station>
 Cowley</link></station>
 </facility>
 </artifact>
-&nbsp;·  
+ ·  
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -958,7 +958,7 @@ Cowley</link></station>
 Royal Oak</link></station>
 </facility>
 </artifact>
- &nbsp;·  
+  ·  
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -966,7 +966,7 @@ Royal Oak</link></station>
 Poyle</link></station>
 </facility>
 </artifact>
- &nbsp;·  
+  ·  
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -982,7 +982,7 @@ Uxbridge Vine Street</link></railway_station>
 </artifact>
 </building>
 </structure>
-&nbsp;·  
+ ·  
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -998,7 +998,7 @@ Uxbridge High Street</link></railway_station>
 </artifact>
 </building>
 </structure>
- &nbsp;· 
+  · 
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
@@ -1025,7 +1025,7 @@ Dudding Hill</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;·  
+ ·  
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1057,28 +1057,28 @@ LC&amp;DR</link></b>: <artifact wordnetid="100021939" confidence="0.8">
 Battersea Park Road</link></station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../136/15520136.xml">
 Blackfriars Bridge</link></station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../402/15519402.xml">
 Borough Road</link></station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../706/15518706.xml">
 Camberwell</link></station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../061/15518061.xml">
@@ -1100,7 +1100,7 @@ Southwark Park</link></railway_station>
 </facility>
 </terminal>
 </artifact>
-&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+ · <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../307/1135307.xml">

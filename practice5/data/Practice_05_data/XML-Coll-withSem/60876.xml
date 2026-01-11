@@ -110,7 +110,7 @@ Example</st>
 
 A <link xlink:type="simple" xlink:href="../931/10931.xml">
 finite state machine</link> can be used as a representation of a Markov chain. Assuming a sequence of <link xlink:type="simple" xlink:href="../067/453067.xml">
-independent and identically distributed</link> input signals (for example, symbols from a binary alphabet chosen by coin tosses), if the machine is in state <it>y</it> at time <it>n</it>, then the probability that it moves to state <it>x</it> at time <it>n</it>&nbsp;+&nbsp;1 depends only on the current state.</p>
+independent and identically distributed</link> input signals (for example, symbols from a binary alphabet chosen by coin tosses), if the machine is in state <it>y</it> at time <it>n</it>, then the probability that it moves to state <it>x</it> at time <it>n</it> + 1 depends only on the current state.</p>
 <p>
 
 A thorough development and many examples can be found in the on-line monograph 
@@ -1045,7 +1045,7 @@ Control Techniques for Complex Networks</weblink>, Cambridge University Press, 2
 <entry id="3">
 Seneta, E. (1996)  Markov and the Birth of Chain Dependence Theory.  International Statistical Review, 64(3), 255%ndash;263</entry>
 <entry id="4">
- <cite style="font-style:normal" class="book">Curtis Roads (ed.)&#32;(1996). The Computer Music Tutorial.&#32;MIT Press. ISBN 0262181584.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Curtis Roads (ed.)&#32;(1996). The Computer Music Tutorial.&#32;MIT Press. ISBN 0262181584.</cite> </entry>
 <entry id="5">
  Pankin, Mark D..&#32;"<weblink xlink:type="simple" xlink:href="http://www.pankin.com/markov/theory.htm">
 MARKOV CHAIN MODELS: THEORETICAL BACKGROUND</weblink>".&#32;Retrieved on <link>
@@ -1054,11 +1054,11 @@ MARKOV CHAIN MODELS: THEORETICAL BACKGROUND</weblink>".&#32;Retrieved on <link>
 <entry id="6">
                                                              
  <cite id="CITEREFKennerO.27Rourke1984" style="font-style:normal">Kenner, Hugh&#32;&amp;&#32;<link>
-O'Rourke, Joseph</link>&#32;(November 1984),&#32;"A Travesty Generator for Micros",&#32;<it>BYTE</it>&#32;<b>9</b>(12):  129–131, 449–469</cite>&nbsp;                                                   
+O'Rourke, Joseph</link>&#32;(November 1984),&#32;"A Travesty Generator for Micros",&#32;<it>BYTE</it>&#32;<b>9</b>(12):  129–131, 449–469</cite>                                                    
 </entry>
 <entry id="7">
                                                               
- <cite id="CITEREFHartman1996" style="font-style:normal">Hartman, Charles&#32;(1996),&#32;<it>The Virtual Muse: Experiments in Computer Poetry</it>, Hanover, NH: Wesleyan University Press, ISBN 0819522392</cite>&nbsp;                                                        
+ <cite id="CITEREFHartman1996" style="font-style:normal">Hartman, Charles&#32;(1996),&#32;<it>The Virtual Muse: Experiments in Computer Poetry</it>, Hanover, NH: Wesleyan University Press, ISBN 0819522392</cite>                                                         
 </entry>
 </reflist>
 </p>
@@ -1124,7 +1124,7 @@ O'Rourke, Joseph</link>&#32;(November 1984),&#32;"A Travesty Generator for Micro
 <list>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Booth-1967" style="font-style:normal" class="book">Booth, Taylor L.&#32;(1967). Sequential Machines and Automata Theory, 1st,&#32;New York:&#32;John Wiley and Sons, Inc.. Library of Congress Card Catalog Number 67-25924.</cite>&nbsp; Extensive, wide-ranging book meant for specialists, written for both theoretical computer scientists as well as electrical engineers. With detailed explanations of state minimization techniques, FSMs, Turing machines, Markov processes, and undecidability. Excellent treatment of Markov processes pp.449ff. Discusses Z-transforms, D transforms in their context.</entry>
+ <cite id="Reference-Booth-1967" style="font-style:normal" class="book">Booth, Taylor L.&#32;(1967). Sequential Machines and Automata Theory, 1st,&#32;New York:&#32;John Wiley and Sons, Inc.. Library of Congress Card Catalog Number 67-25924.</cite>  Extensive, wide-ranging book meant for specialists, written for both theoretical computer scientists as well as electrical engineers. With detailed explanations of state minimization techniques, FSMs, Turing machines, Markov processes, and undecidability. Excellent treatment of Markov processes pp.449ff. Discusses Z-transforms, D transforms in their context.</entry>
 </list>
 </p>
 <p>
@@ -1132,7 +1132,7 @@ O'Rourke, Joseph</link>&#32;(November 1984),&#32;"A Travesty Generator for Micro
 <list>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Kemeny-1959" style="font-style:normal" class="book">Kemeny, John G.;&#32;Hazleton Mirkil, J. Laurie Snell, Gerald L. Thompson&#32;(1959). Finite Mathematical Structures, 1st,&#32;Englewood Cliffs, N.J.:&#32;Prentice-Hall, Inc.. Library of Congress Card Catalog Number 59-12841.</cite>&nbsp; Classical text. cf Chapter 6 <it>Finite Markov Chains</it> pp.384ff.</entry>
+ <cite id="Reference-Kemeny-1959" style="font-style:normal" class="book">Kemeny, John G.;&#32;Hazleton Mirkil, J. Laurie Snell, Gerald L. Thompson&#32;(1959). Finite Mathematical Structures, 1st,&#32;Englewood Cliffs, N.J.:&#32;Prentice-Hall, Inc.. Library of Congress Card Catalog Number 59-12841.</cite>  Classical text. cf Chapter 6 <it>Finite Markov Chains</it> pp.384ff.</entry>
 </list>
 </p>
 <p>

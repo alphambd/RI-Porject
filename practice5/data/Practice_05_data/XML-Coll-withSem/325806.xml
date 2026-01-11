@@ -718,7 +718,7 @@ Berge, C.</link></mathematician>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFDiestel2005" style="font-style:normal">Diestel, Reinhard&#32;(2005),&#32;<it><weblink xlink:type="simple" xlink:href="http://www.math.uni-hamburg.de/home/diestel/books/graph.theory/GraphTheoryIII.pdf">
-Graph Theory</weblink></it>&#32;(3rd ed.), Berlin, New York: Springer-Verlag, ISBN 978-3-540-26183-4, </cite>&nbsp;.</entry>
+Graph Theory</weblink></it>&#32;(3rd ed.), Berlin, New York: Springer-Verlag, ISBN 978-3-540-26183-4, </cite> .</entry>
 <entry level="1" type="bullet">
 
  Gross, Jonathan L., and Yellen, Jay, <it>Graph Theory and Its Applications</it>, CRC Press (December 30, 1998). ISBN 0-8493-3982-0.</entry>
@@ -845,7 +845,7 @@ Image gallery : Some real-life graphs</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.visualcomplexity.com">
-VisualComplexity.com</weblink> &mdash; A visual exploration on mapping complex networks</entry>
+VisualComplexity.com</weblink> — A visual exploration on mapping complex networks</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://ttt.upv.es/~arodrigu/grafos/index.htm">
@@ -853,14 +853,14 @@ Grafos Spanish copyleft software</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://jgaa.info/accepted/2004/BoyerMyrvold2004.8.3.pdf">
-Edge Addition Planarity Algorithm</weblink> &mdash; Online version of a paper that describes the Boyer-Myrvold planarity algorithm.</entry>
+Edge Addition Planarity Algorithm</weblink> — Online version of a paper that describes the Boyer-Myrvold planarity algorithm.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://jgaa.info/accepted/2004/BoyerMyrvold2004.8.3/planarity.zip">
-Edge Addition Planarity Algorithm Source Code</weblink> &mdash; Free C source code for reference implementation of Boyer-Myrvold planarity algorithm, which provides both a combinatorial planar embedder and Kuratowski subgraph isolator.</entry>
+Edge Addition Planarity Algorithm Source Code</weblink> — Free C source code for reference implementation of Boyer-Myrvold planarity algorithm, which provides both a combinatorial planar embedder and Kuratowski subgraph isolator.</entry>
 <entry level="1" type="bullet">
 
- [https://lemon.cs.elte.hu/ Library of Efficient Models and Optimization in Networks] &mdash; An open source C++ template library aimed at combinatorial optimization tasks, especially those working with graphs and networks.</entry>
+ [https://lemon.cs.elte.hu/ Library of Efficient Models and Optimization in Networks] — An open source C++ template library aimed at combinatorial optimization tasks, especially those working with graphs and networks.</entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Mathworld-Graph"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -920,7 +920,7 @@ MathWorld</link></web_site>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://rtime.felk.cvut.cz/scheduling-toolbox">
-TORSCHE Scheduling Toolbox for Matlab</weblink> &mdash; A freely available toolbox of scheduling and graph algorithms.</entry>
+TORSCHE Scheduling Toolbox for Matlab</weblink> — A freely available toolbox of scheduling and graph algorithms.</entry>
 </list>
 </p>
 

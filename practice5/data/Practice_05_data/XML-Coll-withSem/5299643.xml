@@ -675,13 +675,13 @@ Cooperative</link>s</header>
 Types of Cooperatives</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../138/2330138.xml">
-Agricultural cooperative</link>&nbsp;·  <link xlink:type="simple" xlink:href="../268/938268.xml">
-Building cooperative</link>&nbsp;·  <link xlink:type="simple" xlink:href="../079/246079.xml">
-Credit union</link>&nbsp;·  <link xlink:type="simple" xlink:href="../201/4132201.xml">
-Consumers' cooperative</link>&nbsp;·  <link xlink:type="simple" xlink:href="../643/5299643.xml">
-Cooperative banking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../042/7295042.xml">
-Cooperative federation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../634/7295634.xml">
-Cooperative union</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Agricultural cooperative</link> ·  <link xlink:type="simple" xlink:href="../268/938268.xml">
+Building cooperative</link> ·  <link xlink:type="simple" xlink:href="../079/246079.xml">
+Credit union</link> ·  <link xlink:type="simple" xlink:href="../201/4132201.xml">
+Consumers' cooperative</link> ·  <link xlink:type="simple" xlink:href="../643/5299643.xml">
+Cooperative banking</link> ·  <link xlink:type="simple" xlink:href="../042/7295042.xml">
+Cooperative federation</link> ·  <link xlink:type="simple" xlink:href="../634/7295634.xml">
+Cooperative union</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -694,8 +694,8 @@ Cooperative wholesale society</link></causal_agent>
 </model>
 </person>
 </physical_entity>
-&nbsp;· <link xlink:type="simple" xlink:href="../226/4869226.xml">
-Food cooperative</link> &nbsp;· <idea wordnetid="105833840" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../226/4869226.xml">
+Food cooperative</link>  · <idea wordnetid="105833840" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
@@ -708,7 +708,7 @@ Housing cooperative</link></group>
 </plan>
 </social_group>
 </idea>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -719,8 +719,8 @@ Mutual insurance</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../773/575773.xml">
-Retailers' cooperative</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../773/575773.xml">
+Retailers' cooperative</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -731,12 +731,12 @@ Social cooperative</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../488/663488.xml">
 Utility cooperative</link></institution>
 </company>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -767,7 +767,7 @@ The Rochdale Principles</link></end_product>
 </artifact>
 </creation>
 </product>
-&nbsp;· <principle wordnetid="105913538" confidence="0.8">
+ · <principle wordnetid="105913538" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <generalization wordnetid="105913275" confidence="0.8">
 <link xlink:type="simple" xlink:href="../821/3306821.xml">
@@ -797,11 +797,11 @@ Political and Economic Theories</link></causal_agent>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../788/7295788.xml">
-Cooperative federalism</link>&nbsp;·  <political_orientation wordnetid="106212839" confidence="0.8">
+Cooperative federalism</link> ·  <political_orientation wordnetid="106212839" confidence="0.8">
 <link xlink:type="simple" xlink:href="../805/8805.xml">
 Distributism</link></political_orientation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../819/3072819.xml">
-Owenism</link>&nbsp;·  <school wordnetid="108276720" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../819/3072819.xml">
+Owenism</link> ·  <school wordnetid="108276720" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -810,9 +810,9 @@ Mutualism</link></institution>
 </educational_institution>
 </political_orientation>
 </school>
-&nbsp;·  <link xlink:type="simple" xlink:href="../847/26847.xml">
-Socialism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../901/1690901.xml">
-Social enterprise</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../847/26847.xml">
+Socialism</link> ·  <link xlink:type="simple" xlink:href="../901/1690901.xml">
+Social enterprise</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -837,7 +837,7 @@ Key Theorists</col>
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../481/323481.xml">
 Robert Owen</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <reformer wordnetid="110515194" confidence="0.8">
@@ -850,28 +850,28 @@ William King</link></causal_agent>
 </person>
 </disputant>
 </physical_entity>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../757/3306757.xml">
 The Rochdale Pioneers</link></institution>
 </company>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <writer wordnetid="110794014" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../784/430784.xml">
 G. D. H. Cole</link></writer>
 </person>
-&nbsp;·  <economist wordnetid="110043643" confidence="0.9173553029164789">
+ ·  <economist wordnetid="110043643" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../990/5806990.xml">
 Charles Gide</link></person>
 </economist>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../552/177552.xml">
 Beatrice Webb</link></person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../582/484582.xml">
  Friedrich Raiffeisen</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <economist wordnetid="110043643" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -900,12 +900,12 @@ David Griffiths</link></scientist>
 Organizations</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../238/2867238.xml">
-List of cooperatives</link>&nbsp;·  <link xlink:type="simple" xlink:href="../472/7295472.xml">
-List of cooperative federations</link>&nbsp;·  <link xlink:type="simple" xlink:href="../170/11418170.xml">
-List of worker cooperatives</link> &nbsp;·  <federation wordnetid="108303504" confidence="0.8">
+List of cooperatives</link> ·  <link xlink:type="simple" xlink:href="../472/7295472.xml">
+List of cooperative federations</link> ·  <link xlink:type="simple" xlink:href="../170/11418170.xml">
+List of worker cooperatives</link>  ·  <federation wordnetid="108303504" confidence="0.8">
 <link xlink:type="simple" xlink:href="../061/3306061.xml">
 International Co-operative Alliance</link></federation>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <federation wordnetid="108303504" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -916,7 +916,7 @@ Co-operativesUK</link></administration>
 </federation>
 </social_group>
 </body>
-&nbsp;·  <party wordnetid="108256968" confidence="0.9508927676800064">
+ ·  <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../295/397295.xml">
 Co-operative Party</link></party>
 </col>

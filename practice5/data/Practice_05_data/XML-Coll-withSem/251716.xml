@@ -41,7 +41,7 @@ California</link></country>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -306,9 +306,9 @@ Companies</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../716/251716.xml">
 Be Inc.</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../361/3188361.xml">
-Gobe Software</link>&nbsp;·  <link xlink:type="simple" xlink:href="../651/1049651.xml">
-yellowTAB</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../361/3188361.xml">
+Gobe Software</link> ·  <link xlink:type="simple" xlink:href="../651/1049651.xml">
+yellowTAB</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../847/6944847.xml">
 Magnussoft</link></company>
 </col>
@@ -322,7 +322,7 @@ Magnussoft</link></company>
 Computer</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../825/4825.xml">
-BeBox</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+BeBox</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <merchandise wordnetid="103748886" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
@@ -346,11 +346,11 @@ Sony eVilla</link></appliance>
 Operating system</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../801/4801.xml">
-BeOS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../754/888754.xml">
-BeIA</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+BeOS</link> ·  <link xlink:type="simple" xlink:href="../754/888754.xml">
+BeIA</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../281/554281.xml">
 Haiku</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../666/1049666.xml">
+ ·  <link xlink:type="simple" xlink:href="../666/1049666.xml">
 magnussoft ZETA</link></col>
 </row>
 </table>

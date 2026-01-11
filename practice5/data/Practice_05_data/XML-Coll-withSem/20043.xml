@@ -648,19 +648,19 @@ System 1</link>, <link xlink:type="simple" xlink:href="../046/20046.xml#xpointer
 2</link>, <link xlink:type="simple" xlink:href="../046/20046.xml#xpointer(//*[./st=%22System+1=2C+2=2C+3+=26+4%22])">
 3</link>, <link xlink:type="simple" xlink:href="../046/20046.xml#xpointer(//*[./st=%22System+1=2C+2=2C+3+=26+4%22])">
 4</link>, <link xlink:type="simple" xlink:href="../046/20046.xml#xpointer(//*[./st=%22System+Software+5%22])">
-5</link>&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+5</link> ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../192/457192.xml">
 System 6</link></version>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../354/345354.xml">
 System 7</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../354/345354.xml#xpointer(//*[./st=%22Mac+OS+7.6%22])">
 Mac OS 7.6</link></O>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../730/511730.xml">
 Mac OS 8</link></version>
-&nbsp;·  <link xlink:type="simple" xlink:href="../635/205635.xml">
+ ·  <link xlink:type="simple" xlink:href="../635/205635.xml">
 Mac OS 9</link></col>
 </row>
 <row style="height:2px">
@@ -675,28 +675,28 @@ history</link>)</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/40642.xml">
 Nextstep</link></O>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../012/738012.xml">
 Public Beta</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../991/500991.xml">
 v10.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../988/500988.xml">
 v10.1</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../016/410016.xml">
 v10.2</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../355/293355.xml">
 v10.3</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../975/641975.xml">
 v10.4</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../664/2001664.xml">
 v10.5</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../031/14059031.xml">
 v10.6</link></version>
 </col>
@@ -712,10 +712,10 @@ Mac OS X Server</link></col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../421/1553421.xml">
 Rhapsody</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../931/1661931.xml">
 Mac OS X Server 1.0</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../086/47086.xml">
+ ·  <link xlink:type="simple" xlink:href="../086/47086.xml">
 Mac OS X Server</link></col>
 </row>
 <row style="height:2px">
@@ -728,17 +728,17 @@ Other OS projects</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../604/238604.xml">
 A/UX</link></O>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../989/89989.xml">
 Taligent</link></institution>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../520/532520.xml">
-Copland</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../520/532520.xml">
+Copland</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../761/547761.xml">
 MkLinux</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../076/53076.xml">
-Darwin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../443/16161443.xml">
+ ·  <link xlink:type="simple" xlink:href="../076/53076.xml">
+Darwin</link> ·  <link xlink:type="simple" xlink:href="../443/16161443.xml">
 iPhone OS</link></col>
 </row>
 </table>
@@ -769,38 +769,38 @@ Apple Inc.</link></company>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../789/3658789.xml">
 A/ROSE</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../604/238604.xml">
 A/UX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../848/253848.xml">
 Apple DOS</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../157/290157.xml">
 Apple GS/OS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../290/1052290.xml">
-Apple Newton OS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../290/1052290.xml">
+Apple Newton OS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../838/253838.xml">
 Apple ProDOS</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../308/255308.xml">
 Apple SOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../520/532520.xml">
-Copland</link>&nbsp;·  <link xlink:type="simple" xlink:href="../076/53076.xml">
-Darwin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../443/16161443.xml">
-iPhone OS</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../520/532520.xml">
+Copland</link> ·  <link xlink:type="simple" xlink:href="../076/53076.xml">
+Darwin</link> ·  <link xlink:type="simple" xlink:href="../443/16161443.xml">
+iPhone OS</link> ·  <computer wordnetid="103082979" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../118/77118.xml#xpointer(//*[./st=%22Software%22])">
 Lisa OS</link></computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../043/20043.xml">
-Mac OS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·  <link xlink:type="simple" xlink:href="../086/47086.xml">
-Mac OS X Server</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../043/20043.xml">
+Mac OS</link> ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·  <link xlink:type="simple" xlink:href="../086/47086.xml">
+Mac OS X Server</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../761/547761.xml">
 MkLinux</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../421/1553421.xml">
 Rhapsody</link></O>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../989/89989.xml">
 Taligent</link></institution>
@@ -832,14 +832,14 @@ Mac OS</link></header>
 Applications</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-Apple File Security</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Apple File Security</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../249/3828249.xml">
 Calculator</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../710/842710.xml">
-Chooser</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../710/842710.xml">
+Chooser</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../966/4221966.xml">
 Drive Setup</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -850,16 +850,16 @@ DVD Player</link></causal_agent>
 </player>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../166/156166.xml">
 Finder</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../169/1098169.xml">
 Graphing Calculator</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/3969978.xml">
 Keychain Access</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <spectator wordnetid="110633450" confidence="0.8">
@@ -870,23 +870,23 @@ PictureViewer</link></perceiver>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../867/901867.xml">
-PowerTalk</link>&nbsp;·  <link xlink:type="simple" xlink:href="../231/25231.xml">
-QuickTime Player</link>&nbsp;·  <link xlink:type="simple" xlink:href="../180/2623180.xml">
-Network Browser</link>&nbsp;·  <link xlink:type="simple" xlink:href="../803/6348803.xml">
-Scrapbook</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../867/901867.xml">
+PowerTalk</link> ·  <link xlink:type="simple" xlink:href="../231/25231.xml">
+QuickTime Player</link> ·  <link xlink:type="simple" xlink:href="../180/2623180.xml">
+Network Browser</link> ·  <link xlink:type="simple" xlink:href="../803/6348803.xml">
+Scrapbook</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../710/342710.xml">
 Sherlock</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../321/3049321.xml">
 Software Update</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../613/696613.xml">
 Stickies</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../083/3395083.xml">
 Apple System Profiler</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../257/29257.xml">
 SimpleText</link></software>
 </col>
@@ -901,7 +901,7 @@ Developer</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../698/435698.xml">
 MacsBug</link></software>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -920,7 +920,7 @@ Macintosh Programmer's Workshop</link></writer>
 </communicator>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../021/745021.xml">
 ResEdit</link></software>
 </col>
@@ -933,7 +933,7 @@ ResEdit</link></software>
 Technology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../630/1243630.xml">
-Command (⌘)</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Command (⌘)</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <key wordnetid="103613294" confidence="0.8">
@@ -942,52 +942,52 @@ Option (⌥)</link></key>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../076/7379076.xml">
-Apple menu</link>&nbsp;·  <link xlink:type="simple" xlink:href="../333/1479333.xml">
-Balloon help</link>&nbsp;·  <link xlink:type="simple" xlink:href="../580/1628580.xml">
-Bomb Error</link>&nbsp;·  <link>
-Code Fragment Manager</link>&nbsp;·  <link xlink:type="simple" xlink:href="../077/2187077.xml">
-Control Panel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../362/11712362.xml">
-Control Strip</link>&nbsp;·  <link xlink:type="simple" xlink:href="../973/147973.xml">
-Creator code</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../076/7379076.xml">
+Apple menu</link> ·  <link xlink:type="simple" xlink:href="../333/1479333.xml">
+Balloon help</link> ·  <link xlink:type="simple" xlink:href="../580/1628580.xml">
+Bomb Error</link> ·  <link>
+Code Fragment Manager</link> ·  <link xlink:type="simple" xlink:href="../077/2187077.xml">
+Control Panel</link> ·  <link xlink:type="simple" xlink:href="../362/11712362.xml">
+Control Strip</link> ·  <link xlink:type="simple" xlink:href="../973/147973.xml">
+Creator code</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../347/55347.xml">
 Hierarchical File System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../752/927752.xml">
 HFS Plus</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../527/3049527.xml">
 Keychain</link></software>
-&nbsp;·  <link>
-Apple Data Detectors</link>&nbsp;·  <link>
-Apple Information Access Technology</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link>
+Apple Data Detectors</link> ·  <link>
+Apple Information Access Technology</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../727/927727.xml">
 Macintosh File System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../039/352039.xml">
-PICT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../439/256439.xml">
-QuickDraw</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../039/352039.xml">
+PICT</link> ·  <link xlink:type="simple" xlink:href="../439/256439.xml">
+QuickDraw</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../231/25231.xml">
 QuickTime</link></format>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../655/146655.xml">
-Resource fork</link>&nbsp;·  <link xlink:type="simple" xlink:href="../094/10773094.xml">
-Special menu</link>&nbsp;·  <link xlink:type="simple" xlink:href="../805/2386805.xml">
-System Folder</link>&nbsp;·  <link xlink:type="simple" xlink:href="../458/5144458.xml">
-System suitcase</link>&nbsp;·  <link xlink:type="simple" xlink:href="../970/147970.xml">
-Type code</link>&nbsp;·  <link xlink:type="simple" xlink:href="../333/1404333.xml">
+ ·  <link xlink:type="simple" xlink:href="../655/146655.xml">
+Resource fork</link> ·  <link xlink:type="simple" xlink:href="../094/10773094.xml">
+Special menu</link> ·  <link xlink:type="simple" xlink:href="../805/2386805.xml">
+System Folder</link> ·  <link xlink:type="simple" xlink:href="../458/5144458.xml">
+System suitcase</link> ·  <link xlink:type="simple" xlink:href="../970/147970.xml">
+Type code</link> ·  <link xlink:type="simple" xlink:href="../333/1404333.xml">
 WorldScript</link></col>
 </row>
 <row style="height:2px">
@@ -998,11 +998,11 @@ WorldScript</link></col>
 Related articles</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../396/4517396.xml">
-Manager</link>&nbsp;·  <link xlink:type="simple" xlink:href="../398/861398.xml">
-Toolbox</link>&nbsp;·  <link xlink:type="simple" xlink:href="../617/299617.xml">
-Memory Management</link>&nbsp;·  <link xlink:type="simple" xlink:href="../471/861471.xml">
-Old World ROM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../454/861454.xml">
-New World ROM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../065/866065.xml">
+Manager</link> ·  <link xlink:type="simple" xlink:href="../398/861398.xml">
+Toolbox</link> ·  <link xlink:type="simple" xlink:href="../617/299617.xml">
+Memory Management</link> ·  <link xlink:type="simple" xlink:href="../471/861471.xml">
+Old World ROM</link> ·  <link xlink:type="simple" xlink:href="../454/861454.xml">
+New World ROM</link> ·  <link xlink:type="simple" xlink:href="../065/866065.xml">
 EFI</link></col>
 </row>
 </table>
@@ -1030,7 +1030,7 @@ Operating system</link></header>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../395/55395.xml">
-History</link>&nbsp;·  <record wordnetid="106647206" confidence="0.8">
+History</link> ·  <record wordnetid="106647206" confidence="0.8">
 <chronology wordnetid="106503224" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
@@ -1043,7 +1043,7 @@ Timeline</link></written_record>
 </indication>
 </chronology>
 </record>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -1056,7 +1056,7 @@ Developement</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../531/981531.xml">
+ ·  <link xlink:type="simple" xlink:href="../531/981531.xml">
 List</link></col>
 </row>
 <row style="height:2px">
@@ -1073,7 +1073,7 @@ Kernel</link></col>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../023/20023.xml">
-Microkernel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../023/20023.xml#xpointer(//*[./st=%22Nanokernel%22])">
+Microkernel</link> ·  <link xlink:type="simple" xlink:href="../023/20023.xml#xpointer(//*[./st=%22Nanokernel%22])">
 Nanokernel</link></col>
 </row>
 <row style="height:2px">
@@ -1084,14 +1084,14 @@ Nanokernel</link></col>
 Types</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../825/20825.xml">
-monolithic</link>&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+monolithic</link> ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../041/4345041.xml">
 hybrid</link></kernel>
 </natural_object>
 </plant_part>
-&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+ ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../757/95757.xml">
@@ -1108,10 +1108,10 @@ exokernel</link></kernel>
 Components</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../467/93467.xml">
-Kernel space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../658/371658.xml">
-Loadable kernel module</link>&nbsp;·  <link xlink:type="simple" xlink:href="../101/9101.xml">
-device driver</link>&nbsp;·  <link xlink:type="simple" xlink:href="../467/93467.xml">
-User space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../109/555109.xml">
+Kernel space</link> ·  <link xlink:type="simple" xlink:href="../658/371658.xml">
+Loadable kernel module</link> ·  <link xlink:type="simple" xlink:href="../101/9101.xml">
+device driver</link> ·  <link xlink:type="simple" xlink:href="../467/93467.xml">
+User space</link> ·  <link xlink:type="simple" xlink:href="../109/555109.xml">
 Userland</link></col>
 </row>
 </table>
@@ -1126,17 +1126,17 @@ Userland</link></col>
 Process management</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../178/45178.xml">
-Process</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Multiprogramming</link>&nbsp;·  <link xlink:type="simple" xlink:href="../289/15289.xml">
-Interrupt</link>&nbsp;·  Modes: (<link xlink:type="simple" xlink:href="../596/167596.xml">
-Protected mode</link>&nbsp;·  <link>
-Supervisor mode</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Computer multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../920/231920.xml">
-Scheduling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../904/6904.xml">
-Context switch</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Cooperative multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../566/2204566.xml">
-Preemptive multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../954/3991954.xml">
-CPU modes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../303/45303.xml">
+Process</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Multiprogramming</link> ·  <link xlink:type="simple" xlink:href="../289/15289.xml">
+Interrupt</link> ·  Modes: (<link xlink:type="simple" xlink:href="../596/167596.xml">
+Protected mode</link> ·  <link>
+Supervisor mode</link>) ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Computer multitasking</link> ·  <link xlink:type="simple" xlink:href="../920/231920.xml">
+Scheduling</link> ·  <link xlink:type="simple" xlink:href="../904/6904.xml">
+Context switch</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Cooperative multitasking</link> ·  <link xlink:type="simple" xlink:href="../566/2204566.xml">
+Preemptive multitasking</link> ·  <link xlink:type="simple" xlink:href="../954/3991954.xml">
+CPU modes</link> ·  <link xlink:type="simple" xlink:href="../303/45303.xml">
 Thread (computer science)</link></col>
 </row>
 <row style="height:2px">
@@ -1147,11 +1147,11 @@ Thread (computer science)</link></col>
 Memory management</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../373/515373.xml">
-Memory protection</link>&nbsp;·  <link xlink:type="simple" xlink:href="../131/1323131.xml">
-Segmentation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../193/311193.xml">
-Paging</link>&nbsp;·  <link xlink:type="simple" xlink:href="../112/177112.xml">
-Memory management unit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../803/28803.xml">
-Segmentation fault</link>&nbsp;·  <link xlink:type="simple" xlink:href="../943/573943.xml">
+Memory protection</link> ·  <link xlink:type="simple" xlink:href="../131/1323131.xml">
+Segmentation</link> ·  <link xlink:type="simple" xlink:href="../193/311193.xml">
+Paging</link> ·  <link xlink:type="simple" xlink:href="../112/177112.xml">
+Memory management unit</link> ·  <link xlink:type="simple" xlink:href="../803/28803.xml">
+Segmentation fault</link> ·  <link xlink:type="simple" xlink:href="../943/573943.xml">
 General protection fault</link></col>
 </row>
 <row style="height:2px">
@@ -1164,24 +1164,24 @@ Examples</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/18933304.xml">
 AmigaOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../801/4801.xml">
-BeOS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../801/4801.xml">
+BeOS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/22409.xml">
 IBM OS/2</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
 MS-DOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../890/18890.xml">
-Windows</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../890/18890.xml">
+Windows</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../642/31642.xml">
-UNIX</link>&nbsp;·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
-OpenSolaris</link>&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·   <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../642/31642.xml">
+UNIX</link> ·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
+OpenSolaris</link> ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·   <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/360889.xml">
 ReactOS</link></O>
-&nbsp;·  <it><link xlink:type="simple" xlink:href="../916/71916.xml">
+ ·  <it><link xlink:type="simple" xlink:href="../916/71916.xml">
 more…</link>''</it></col>
 </row>
 <row style="height:2px">
@@ -1192,23 +1192,23 @@ more…</link>''</it></col>
 Miscellaneous concepts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../679/6885679.xml">
-Boot loader</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+Boot loader</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../253/432253.xml">
 PXE</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
-API</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
+API</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../131/351131.xml">
 Virtual file system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../071/2550071.xml">
-Virtual tape library</link>&nbsp;·  <link xlink:type="simple" xlink:href="../592/4122592.xml">
-Computer network</link>&nbsp;·  <link xlink:type="simple" xlink:href="../293/12293.xml">
-GUI</link>&nbsp;·  <link xlink:type="simple" xlink:href="../511/425511.xml">
+ ·  <link xlink:type="simple" xlink:href="../071/2550071.xml">
+Virtual tape library</link> ·  <link xlink:type="simple" xlink:href="../592/4122592.xml">
+Computer network</link> ·  <link xlink:type="simple" xlink:href="../293/12293.xml">
+GUI</link> ·  <link xlink:type="simple" xlink:href="../511/425511.xml">
 HAL</link></col>
 </row>
 </table>

@@ -45,7 +45,7 @@ Bolivarian Revolution</link></social_relation>
 </row>
 <row style="background: #f6f6FF;" align="center">
 <col>
-&mdash; food &mdash; housing &mdash; medicine &mdash;</col>
+— food — housing — medicine —</col>
 </row>
 <row style="background: #FFFFFF;" align="center">
 <header>
@@ -54,7 +54,7 @@ Bolivarian Revolution</link></social_relation>
 <link xlink:type="simple" xlink:href="../751/1578751.xml">
 Barrio Adentro</link></nongovernmental_organization>
 </mission>
- &nbsp;· <politics wordnetid="113840719" confidence="0.8">
+  · <politics wordnetid="113840719" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
@@ -64,7 +64,7 @@ Plan Bolivar 2000</link></nongovernmental_organization>
 </mission>
 </politics>
 <link>
-Hábitat</link> &nbsp;· <politics wordnetid="113840719" confidence="0.8">
+Hábitat</link>  · <politics wordnetid="113840719" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
@@ -77,7 +77,7 @@ Mercal</link></nongovernmental_organization>
 </row>
 <row style="background: #f8f8FF;" align="center">
 <col>
-&mdash; education &mdash;</col>
+— education —</col>
 </row>
 <row style="background: #FFFFFF;">
 <header>
@@ -90,13 +90,13 @@ Ribas</link></nongovernmental_organization>
 </social_relation>
 </mission>
 </politics>
- &nbsp;· <link xlink:type="simple" xlink:href="../834/2950834.xml">
+  · <link xlink:type="simple" xlink:href="../834/2950834.xml">
 Sucre</link><mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../814/2950814.xml">
 Robinson I</link></nongovernmental_organization>
 </mission>
- &nbsp;· <mission wordnetid="108403225" confidence="0.8">
+  · <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../814/2950814.xml">
 Robinson II</link></nongovernmental_organization>
@@ -105,7 +105,7 @@ Robinson II</link></nongovernmental_organization>
 </row>
 <row style="background: #fbfbFF;" align="center">
 <col>
-&mdash; indigenous rights &mdash; land &mdash; environment &mdash;</col>
+— indigenous rights — land — environment —</col>
 </row>
 <row style="background: #FFFFFF;" align="center">
 <header>
@@ -114,7 +114,7 @@ Robinson II</link></nongovernmental_organization>
 <link xlink:type="simple" xlink:href="../789/2950789.xml">
 Guaicaipuro</link></nongovernmental_organization>
 </mission>
- &nbsp;· <mission wordnetid="108403225" confidence="0.8">
+  · <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../417/2956417.xml">
 Identidad</link></nongovernmental_organization>
@@ -124,7 +124,7 @@ Identidad</link></nongovernmental_organization>
 <link xlink:type="simple" xlink:href="../453/2956453.xml">
 Miranda</link></nongovernmental_organization>
 </mission>
- &nbsp;· <mission wordnetid="108403225" confidence="0.8">
+  · <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../497/2959497.xml">
 Piar</link></nongovernmental_organization>
@@ -134,7 +134,7 @@ Piar</link></nongovernmental_organization>
 <link xlink:type="simple" xlink:href="../569/2956569.xml">
 Vuelta al Campo</link></nongovernmental_organization>
 </mission>
- &nbsp;· <mission wordnetid="108403225" confidence="0.8">
+  · <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../868/2950868.xml">
 Vuelvan Caras</link></nongovernmental_organization>
@@ -148,11 +148,11 @@ Zamora</link></nongovernmental_organization>
 </row>
 <row style="background: #fefeFF;" align="center">
 <header>
-  &mdash; (<link>
-Hugo Chávez</link>) &mdash; (<country wordnetid="108544813" confidence="0.9508927676800064">
+  — (<link>
+Hugo Chávez</link>) — (<country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../374/32374.xml">
 Venezuela</link></country>
-) &mdash;</header>
+) —</header>
 </row>
 </table>
 
@@ -174,8 +174,8 @@ Venezuela</link></country>
 </row>
 <row style="background: #f4f4FF;">
 <header>
- &mdash; <link>
-Geography</link>&mdash;</header>
+ — <link>
+Geography</link>—</header>
 </row>
 <row style="background: #FFFFFF;">
 <col>
@@ -208,9 +208,9 @@ Valencia</link></village>
 </row>
 <row style="background: #f6f6FF;">
 <header>
- &mdash;&nbsp;<link>
+ — <link>
 Politics</link> &amp; <link xlink:type="simple" xlink:href="../177/924177.xml">
-Elections</link>&nbsp;&mdash;</header>
+Elections</link> —</header>
 </row>
 <row style="background: #FFFFFF;">
 <col>
@@ -243,11 +243,11 @@ Foreign policy</link></col>
 </row>
 <row style="background: #f8f8FF;">
 <header>
- &mdash;&nbsp;<link xlink:type="simple" xlink:href="../686/17878686.xml">
+ — <link xlink:type="simple" xlink:href="../686/17878686.xml">
 History</link> &amp; <conflict wordnetid="100958896" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/562862.xml">
 Wars</link></conflict>
-&nbsp;&mdash;</header>
+ —</header>
 </row>
 <row style="background: #FFFFFF;">
 <col>
@@ -274,7 +274,7 @@ Bolivarian</link></force>
 </influence>
 </power>
 <link>
-&nbsp;</link><politics wordnetid="113840719" confidence="0.8">
+ </link><politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link xlink:type="simple" xlink:href="../774/280774.xml">
 Revolution</link></social_relation>
@@ -283,9 +283,9 @@ Revolution</link></social_relation>
 </row>
 <row style="background: #f8f8FF;">
 <header>
- &mdash;&nbsp;<link xlink:type="simple" xlink:href="../455/32455.xml">
+ — <link xlink:type="simple" xlink:href="../455/32455.xml">
 Society</link> &amp; <link xlink:type="simple" xlink:href="../933/1929933.xml">
-Culture</link>&nbsp;&mdash;</header>
+Culture</link> —</header>
 </row>
 <row style="background: #FFFFFF;">
 <col>
@@ -347,7 +347,7 @@ The Missions have overseen widespread experimentation in what Chávez supporters
 <link xlink:type="simple" xlink:href="../814/2950814.xml">
 Mission Robinson</link></nongovernmental_organization>
 </mission>
-</b> (launched July 2003)&nbsp;&ndash;  uses volunteers to teach reading, writing, and arithmetic to Venezuelan adults.</entry>
+</b> (launched July 2003) –  uses volunteers to teach reading, writing, and arithmetic to Venezuelan adults.</entry>
 <entry level="1" type="bullet">
 
  <b><politics wordnetid="113840719" confidence="0.8">
@@ -359,7 +359,7 @@ Mission Ribas</link></nongovernmental_organization>
 </social_relation>
 </mission>
 </politics>
-</b> (launched November 2003)&nbsp;&ndash;  provides remedial high school level classes to Venezeulan high school dropouts; named after independence hero <link>
+</b> (launched November 2003) –  provides remedial high school level classes to Venezeulan high school dropouts; named after independence hero <link>
 José Felix Ribas</link>.   In 2004, about 600,000 students were enrolled in this night school programme, and paid a small stipend.  The were taught grammar, geography and a second language. </entry>
 <entry level="1" type="bullet">
 
@@ -368,7 +368,7 @@ José Felix Ribas</link>.   In 2004, about 600,000 students were enrolled in thi
 <link xlink:type="simple" xlink:href="../834/2950834.xml">
 Mission Sucre</link></nongovernmental_organization>
 </mission>
-</b> (launched in late 2003)&nbsp;&ndash;  provides free and ongoing basic education courses to adult Venezuelans who had not completed their elementary-level education.</entry>
+</b> (launched in late 2003) –  provides free and ongoing basic education courses to adult Venezuelans who had not completed their elementary-level education.</entry>
 </list>
 </p>
 
@@ -386,7 +386,7 @@ Electoral</st>
 <link xlink:type="simple" xlink:href="../726/5257726.xml">
 Mission Florentino</link></nongovernmental_organization>
 </mission>
-</b> (launched June 2004)&nbsp;&ndash;  organized by <link>
+</b> (launched June 2004) –  organized by <link>
 Hugo Chávez</link> to coordinate the population to vote "No" in the <link xlink:type="simple" xlink:href="../002/711002.xml">
 Venezuelan recall referendum of 2004</link>. The organizational centers of the Mission were named "Comando Maisanta" and were the ideological central headquarters for those who wished to keep Chávez as the President of Venezuela for the remainder of his presidential period.</entry>
 </list>
@@ -402,7 +402,7 @@ Environmental</st>
 <entry level="1" type="bullet">
 
 <b><link>
-Mission Energía</link></b> (launched November 2006)&nbsp;&ndash;  has begun a campaign to reduce environmental degradation by replacing <link xlink:type="simple" xlink:href="../139/47139.xml">
+Mission Energía</link></b> (launched November 2006) –  has begun a campaign to reduce environmental degradation by replacing <link xlink:type="simple" xlink:href="../139/47139.xml">
 incandescent lightbulb</link>s with more energy-efficient <link xlink:type="simple" xlink:href="../545/1201545.xml">
 fluorescent bulb</link>s.</entry>
 </list>
@@ -426,7 +426,7 @@ Mission Mercal</link></nongovernmental_organization>
 </social_relation>
 </mission>
 </politics>
-</b>&nbsp;&ndash;  seeks to provide access to high-quality produce, grains, dairy, and meat at discounted prices. Seeks to provide Venezuela's poor increased access to nutritious, safe, and organic locally- and nationally-grown foodstuffs. Seeks also to increase Venezuela's <link xlink:type="simple" xlink:href="../447/432447.xml">
+</b> –  seeks to provide access to high-quality produce, grains, dairy, and meat at discounted prices. Seeks to provide Venezuela's poor increased access to nutritious, safe, and organic locally- and nationally-grown foodstuffs. Seeks also to increase Venezuela's <link xlink:type="simple" xlink:href="../447/432447.xml">
 food sovereignty</link>. Its concrete results, however, are highly debatable, as in <link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link> the country is heavily more dependent on <link xlink:type="simple" xlink:href="../651/7515651.xml">
 imported</link> foodstuffs than it was in <link xlink:type="simple" xlink:href="../601/34601.xml">
@@ -449,7 +449,7 @@ shortage</link>s in several basic supplies: milk, edible oils, sugar, cereals, e
 <link xlink:type="simple" xlink:href="../751/1578751.xml">
 Mission Barrio Adentro</link></nongovernmental_organization>
 </mission>
-</b> ("Mission Inside the Neighborhood")&nbsp;&ndash;  a series of initiatives (deployed in three distinct stages) to provide comprehensive and community <link xlink:type="simple" xlink:href="../925/261925.xml">
+</b> ("Mission Inside the Neighborhood") –  a series of initiatives (deployed in three distinct stages) to provide comprehensive and community <link xlink:type="simple" xlink:href="../925/261925.xml">
 health care</link> (at both the primary (<it>Consultorios y Clínicas Populares</it> or popular <link xlink:type="simple" xlink:href="../314/832314.xml">
 clinics</link>) and secondary (hospital) levels), in addition to preventative medical counsel to Venezuela's medically under-served and impoverished <it><link xlink:type="simple" xlink:href="../582/488582.xml">
 barrio</link>s</it>.</entry>
@@ -466,7 +466,7 @@ barrio</link>s</it>.</entry>
 <entry level="1" type="bullet">
 
  <b><link>
-Mission Hábitat</link></b>&nbsp;&ndash;  has as its goal the construction of new housing units for the poor. The program also seeks to develop agreeable and integrated housing zones that make available a full range of social services&nbsp;&ndash;  from education to healthcare&nbsp;&ndash;  which likens its vision to that of <link xlink:type="simple" xlink:href="../951/158951.xml">
+Mission Hábitat</link></b> –  has as its goal the construction of new housing units for the poor. The program also seeks to develop agreeable and integrated housing zones that make available a full range of social services –  from education to healthcare –  which likens its vision to that of <link xlink:type="simple" xlink:href="../951/158951.xml">
 new urbanism</link>. Critics have denounced the slow rate of construction (less than 10,000 housing units built over the last six years).</entry>
 </list>
 
@@ -485,7 +485,7 @@ new urbanism</link>. Critics have denounced the slow rate of construction (less 
 <link xlink:type="simple" xlink:href="../417/2956417.xml">
 Mission Identidad</link></nongovernmental_organization>
 </mission>
-</b>&nbsp;&ndash;  provides Venezuelan national identity cards to facilitate access to the social services provided by other Missions.</entry>
+</b> –  provides Venezuelan national identity cards to facilitate access to the social services provided by other Missions.</entry>
 </list>
 
 </p>
@@ -503,7 +503,7 @@ Mission Identidad</link></nongovernmental_organization>
 <link xlink:type="simple" xlink:href="../789/2950789.xml">
 Mission Guaicaipuro</link></nongovernmental_organization>
 </mission>
-</b> (launched October 2003)&nbsp;&ndash;  carried out by the Venezuelan Ministry of Environment and Natural Resources, this program seeks to restore communal land titles and human rights to Venezuela's numerous indigenous communities, in addition to defending their rights against resource and financial speculation by the dominant culture.</entry>
+</b> (launched October 2003) –  carried out by the Venezuelan Ministry of Environment and Natural Resources, this program seeks to restore communal land titles and human rights to Venezuela's numerous indigenous communities, in addition to defending their rights against resource and financial speculation by the dominant culture.</entry>
 </list>
 
 </p>
@@ -521,7 +521,7 @@ Mission Guaicaipuro</link></nongovernmental_organization>
 <link xlink:type="simple" xlink:href="../644/1087644.xml">
 Mission Zamora</link></nongovernmental_organization>
 </mission>
-</b>&nbsp;&ndash;  provides a comprehensive land expropriation and redistribution program that mainly benefits poor Venezuelans.  Several large landed estates and factories have been, or are in the process of, being expropriated.</entry>
+</b> –  provides a comprehensive land expropriation and redistribution program that mainly benefits poor Venezuelans.  Several large landed estates and factories have been, or are in the process of, being expropriated.</entry>
 </list>
 </p>
 
@@ -539,7 +539,7 @@ Mission Zamora</link></nongovernmental_organization>
 <link xlink:type="simple" xlink:href="../569/2956569.xml">
 Mission Vuelta al Campo</link></nongovernmental_organization>
 </mission>
-</b> ("Return to the Countryside"; announced mid&ndash; 2005)&nbsp;&ndash;  seeks to encourage impoverished and unemployed urban Venezuelans to willingly return to the countryside.</entry>
+</b> ("Return to the Countryside"; announced mid– 2005) –  seeks to encourage impoverished and unemployed urban Venezuelans to willingly return to the countryside.</entry>
 </list>
 </p>
 <p>
@@ -548,7 +548,7 @@ Mission Vuelta al Campo</link></nongovernmental_organization>
 <entry level="1" type="bullet">
 
  <b><link>
-Mission Árbol</link></b> (Mission Tree, announced June 2006)&nbsp;&ndash;  seeks to recover Venezuelan forests, with plans to plant 100,000 trees in 5 years. The project is also to involve the rural population, in an effort to stop harm to forests through from slash/burn practices by promoting more sustainable agriculture, such as growing coffee or cocoa. The projects aim to achieve this through self organization of the local populations.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref></entry>
+Mission Árbol</link></b> (Mission Tree, announced June 2006) –  seeks to recover Venezuelan forests, with plans to plant 100,000 trees in 5 years. The project is also to involve the rural population, in an effort to stop harm to forests through from slash/burn practices by promoting more sustainable agriculture, such as growing coffee or cocoa. The projects aim to achieve this through self organization of the local populations.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref></entry>
 </list>
 </p>
 
@@ -562,7 +562,7 @@ Mission Árbol</link></b> (Mission Tree, announced June 2006)&nbsp;&ndash;  seek
 <entry level="1" type="bullet">
 
  <b><link>
-Mission Ciencia</link></b> ("Mission Science" launched February 2006)&nbsp;&ndash;  includes a project to train 400,000 people in open source software,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2214%22])">14</ref> and scholarships for graduate studies and the creation of laboratories in different universities.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref></entry>
+Mission Ciencia</link></b> ("Mission Science" launched February 2006) –  includes a project to train 400,000 people in open source software,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2214%22])">14</ref> and scholarships for graduate studies and the creation of laboratories in different universities.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref></entry>
 </list>
 </p>
 
@@ -580,7 +580,7 @@ Mission Ciencia</link></b> ("Mission Science" launched February 2006)&nbsp;&ndas
 <link xlink:type="simple" xlink:href="../868/2950868.xml">
 Mission Vuelvan Caras</link></nongovernmental_organization>
 </mission>
-</b> ("Mission Turn Faces")&nbsp;&ndash;  has as its objective the transformation of the present Venezuelan economy to one that is oriented towards social, rather than fiscal and remunerative, goals. It seeks to facilitate increased involvement of ordinary citizens in programs of endogenous and sustainable social development, emphasizing in particular the involvement of traditionally marginalized or excluded Venezuelan social and economic sectors, including those participating in Venezuela's significant "informal" economy. The mission's ultimate goal, according to Hugo Chávez, is to foster an economy that brings "a quality and dignified life for all". In January 2006, Chávez declared that, after fulfilling the first stage of the mission, the goal of the second stage will be to turn every "endogenous nuclei of development" into "military nuclei of resistance against American imperialism"<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2216%22])">16</ref> as part of a continuous program to create "citizen militias".<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref></entry>
+</b> ("Mission Turn Faces") –  has as its objective the transformation of the present Venezuelan economy to one that is oriented towards social, rather than fiscal and remunerative, goals. It seeks to facilitate increased involvement of ordinary citizens in programs of endogenous and sustainable social development, emphasizing in particular the involvement of traditionally marginalized or excluded Venezuelan social and economic sectors, including those participating in Venezuela's significant "informal" economy. The mission's ultimate goal, according to Hugo Chávez, is to foster an economy that brings "a quality and dignified life for all". In January 2006, Chávez declared that, after fulfilling the first stage of the mission, the goal of the second stage will be to turn every "endogenous nuclei of development" into "military nuclei of resistance against American imperialism"<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2216%22])">16</ref> as part of a continuous program to create "citizen militias".<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref></entry>
 </list>
 </p>
 
@@ -598,7 +598,7 @@ Mission Vuelvan Caras</link></nongovernmental_organization>
 <link xlink:type="simple" xlink:href="../453/2956453.xml">
 Mission Miranda</link></nongovernmental_organization>
 </mission>
-</b>&nbsp;&ndash;  establishes a Venezuelan military reserve composed of civilians who could participate in the defense of the Venezuelan territory.</entry>
+</b> –  establishes a Venezuelan military reserve composed of civilians who could participate in the defense of the Venezuelan territory.</entry>
 </list>
 </p>
 
@@ -628,10 +628,10 @@ UNICEF</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id
 <p>
 
 Oil profits, being about US$25 billion in 2004, have allowed the Chávez administration to carry out what he calls a "new socialist revolution."  The leftist platform involves a remarkable increase in spending on social programs.  The Chávez administration has thus built free health care clinics, subsidized food and created small manufacturing cooperatives.
-Between them, these programs have constructed and modernized thousands of public medical and dental clinics, launched massive literacy and education initiatives, subsidized food, gasoline, and other consumer goods, and established numerous worker-managed manufacturing and industrial cooperatives. Critics allege that these programs are corrupt and inefficient, while a number of international organizations&nbsp;&ndash;  including the <link xlink:type="simple" xlink:href="../769/31769.xml">
+Between them, these programs have constructed and modernized thousands of public medical and dental clinics, launched massive literacy and education initiatives, subsidized food, gasoline, and other consumer goods, and established numerous worker-managed manufacturing and industrial cooperatives. Critics allege that these programs are corrupt and inefficient, while a number of international organizations –  including the <link xlink:type="simple" xlink:href="../769/31769.xml">
 UN</link>, <link xlink:type="simple" xlink:href="../110/19698110.xml">
 UNICEF</link>, and the <link xlink:type="simple" xlink:href="../583/33583.xml">
-WHO</link><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2220%22])">20</ref>&nbsp;&ndash;  have praised the programs as positive models for bringing about social development.</p>
+WHO</link><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2220%22])">20</ref> –  have praised the programs as positive models for bringing about social development.</p>
 
 <ss1>
 <st>
@@ -668,7 +668,7 @@ Georgetown University</link></university>
 <p>
 
 During Chávez's presidency from 1999 to 2004, per-capita <link xlink:type="simple" xlink:href="../594/12594.xml">
-GDP</link> dropped 1&ndash;2%,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2224%22])">24</ref> but with the help of rising oil prices, the end of the oil strike, and strong consumption growth, recent economic activity under Chávez has been robust.  GDP growth rates were 18% in 2004,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2225%22])">25</ref> 9% in 2005,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2226%22])">26</ref> and 9.6% in the first half of 2006, with the private sector growing at a 10.3% clip.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2227%22])">27</ref> From 2004 to the first half of 2006, non-petroleum sectors of the economy showed growth rates greater than 10%.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2228%22])">28</ref>  Most of that growth was in the poorest sectors of society, with real income growth of 55% reported between 2003 and 2005.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2229%22])">29</ref>  Some economists argue that this subsidized growth could stop if oil prices decline,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2230%22])">30</ref> and some social scientists and economists claim that the government's reported poverty figures have not fallen in proportion to the country's vast oil revenues in the last two years.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2225%22])">25</ref>  
+GDP</link> dropped 1–2%,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2224%22])">24</ref> but with the help of rising oil prices, the end of the oil strike, and strong consumption growth, recent economic activity under Chávez has been robust.  GDP growth rates were 18% in 2004,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2225%22])">25</ref> 9% in 2005,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2226%22])">26</ref> and 9.6% in the first half of 2006, with the private sector growing at a 10.3% clip.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2227%22])">27</ref> From 2004 to the first half of 2006, non-petroleum sectors of the economy showed growth rates greater than 10%.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2228%22])">28</ref>  Most of that growth was in the poorest sectors of society, with real income growth of 55% reported between 2003 and 2005.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2229%22])">29</ref>  Some economists argue that this subsidized growth could stop if oil prices decline,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2230%22])">30</ref> and some social scientists and economists claim that the government's reported poverty figures have not fallen in proportion to the country's vast oil revenues in the last two years.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2225%22])">25</ref>  
 The president of the private Venezuelan research firm which documented 55% real income growth among the poorest sectors of society said that, although his surveys showed rising incomes because of subsidies and grants, the number of people in the worst living conditions has grown.  "The poor of Venezuela are living much better lately and have increased their purchasing power . . . [but] without being able to improve their housing, education level, and social mobility," he said. "Rather than help [the poor] become stakeholders in the economic system, what [the government has] done is distribute as much oil wealth as possible in missions and social programs."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2231%22])">31</ref></p>
 <p>
 
@@ -736,7 +736,7 @@ Crime</st>
 Since he took office, <it><newspaper wordnetid="106267145" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../449/50449.xml">
 The Economist</link></newspaper>
-</it> reports that the murder rate has almost tripled, and that Venezuela's capital&nbsp;&ndash;  Caracas&nbsp;&ndash;  has become South America's most violent, with police implicated in some of the crimes.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2223%22])">23</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2240%22])">40</ref> The <link xlink:type="simple" xlink:href="../769/31769.xml">
+</it> reports that the murder rate has almost tripled, and that Venezuela's capital –  Caracas –  has become South America's most violent, with police implicated in some of the crimes.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2223%22])">23</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2240%22])">40</ref> The <link xlink:type="simple" xlink:href="../769/31769.xml">
 United Nations</link> reported in 2005 that Venezuela had the highest number of deaths by gunfire per capita in the world,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2241%22])">41</ref> garnering for Venezuela claim to the title of the world's most violent crime capital.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2242%22])">42</ref> </p>
 <p>
 
@@ -773,7 +773,7 @@ According to an article in <it>The Washington Post</it> a program called <missio
 <link xlink:type="simple" xlink:href="../417/2956417.xml">
 "Mission Identity"</link></nongovernmental_organization>
 </mission>
-, to fast track voter registration of immigrants to Venezuela&nbsp;&ndash;  including Chávez supporters benefiting from his subsidies&nbsp;&ndash;  has been put in place prior to the upcoming 2006 presidential elections.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2230%22])">30</ref></p>
+, to fast track voter registration of immigrants to Venezuela –  including Chávez supporters benefiting from his subsidies –  has been put in place prior to the upcoming 2006 presidential elections.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2230%22])">30</ref></p>
 
 </ss1>
 </sec>
@@ -839,7 +839,7 @@ Ceaser, M. (<it>BBC</it>, 1 Jul 2005). <weblink xlink:type="simple" xlink:href="
 Chávez anunció núcleos endógenos militares para la resistencia.</weblink> <it>El Universal</it> (18 January 2006) (Spanish)</entry>
 <entry id="19">
 <weblink xlink:type="simple" xlink:href="http://www.gobiernoenlinea.gob.ve/docMgr/sharedfiles/ConstitucionRBV1999.pdf">
-Constitución de la República Bolivariana de Venezuela</weblink>&nbsp;&ndash;  Official text.</entry>
+Constitución de la República Bolivariana de Venezuela</weblink> –  Official text.</entry>
 <entry id="18">
 Bruce, Iain. <weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/2/hi/business/4035787.stm">
 Venezuela shuns IMF advice on oil money.</weblink> <it>BBC News</it> (24 November 2004).</entry>
@@ -850,7 +850,7 @@ Venezuela’s Barrio Adentro: A Model of Universal Primary Health Care</weblink>
 <entry id="20">
 <link xlink:type="simple" xlink:href="../583/33583.xml">
 WHO</link>: <weblink xlink:type="simple" xlink:href="http://www.ops-oms.org.ve/site/venezuela/docs/Cumpliendo_las_Metas_del_Milenio_2004.pdf">
-República Bolivariana de Venezuela: Cumpliendo las Metas del Milenio</weblink>&nbsp;&ndash;  A report on Venezuela's objectives and progress regarding the <link xlink:type="simple" xlink:href="../769/31769.xml">
+República Bolivariana de Venezuela: Cumpliendo las Metas del Milenio</weblink> –  A report on Venezuela's objectives and progress regarding the <link xlink:type="simple" xlink:href="../769/31769.xml">
 UN</link> <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../571/827571.xml">
@@ -969,23 +969,23 @@ References</st>
 <entry level="1" type="bullet">
 
  (Spanish) <weblink xlink:type="simple" xlink:href="http://www.gobiernoenlinea.ve/miscelaneas/misiones.html">
-Gobierno en Línea: Misiones</weblink>&nbsp;&ndash;  Official government website detailing the Bolivarian Missions.</entry>
+Gobierno en Línea: Misiones</weblink> –  Official government website detailing the Bolivarian Missions.</entry>
 <entry level="1" type="bullet">
 
  (Spanish) <weblink xlink:type="simple" xlink:href="http://www.barrioadentro.gov.ve/">
-Misión Barrio Adentro</weblink>&nbsp;&ndash;  Official government Mission Barrio Adentro web portal.</entry>
+Misión Barrio Adentro</weblink> –  Official government Mission Barrio Adentro web portal.</entry>
 <entry level="1" type="bullet">
 
  (Spanish) <weblink xlink:type="simple" xlink:href="http://www.ine.gov.ve/">
-Instituto Nacional de Estadística</weblink>&nbsp;&ndash;  Venezuela's National Institute of Statistics; has web several portals for accessing demographic and economic data related to the impact of Bolivarian Missions.</entry>
+Instituto Nacional de Estadística</weblink> –  Venezuela's National Institute of Statistics; has web several portals for accessing demographic and economic data related to the impact of Bolivarian Missions.</entry>
 <entry level="1" type="bullet">
 
  (Spanish) <weblink xlink:type="simple" xlink:href="http://www.gobiernoenlinea.ve/docMgr/sharedfiles/MisionBarrioAdentro.pdf">
-Barrio Adentro</weblink>&nbsp;&ndash;  Official government dossier on <it>Barrio Adentro</it> (in Spanish)</entry>
+Barrio Adentro</weblink> –  Official government dossier on <it>Barrio Adentro</it> (in Spanish)</entry>
 <entry level="1" type="bullet">
 
  (Spanish) <weblink xlink:type="simple" xlink:href="http://200.109.120.52/alopresidente/alopresidente225.wmv">
-Aló Presidente 225</weblink>&nbsp;&ndash;  Video of a July 2005 episode of <link>
+Aló Presidente 225</weblink> –  Video of a July 2005 episode of <link>
 Hugo Chávez</link>'s talkshow <link>
 Aló Presidente</link> that features an eight hour tour of a new Barrio Adentro II CDI (Centros de Diagnóstico Integral) in Maturín, Monagas state, <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../374/32374.xml">
@@ -994,7 +994,7 @@ Venezuela</link></country>
 <entry level="1" type="bullet">
 
  (Spanish) <weblink xlink:type="simple" xlink:href="http://www.alopresidente.gob.ve/docs/Alocuciones/Alo_Presidente_225.pdf">
-Programa Nro. 225 - Aló Presidente</weblink>&nbsp;&ndash;  Transcript of <link>
+Programa Nro. 225 - Aló Presidente</weblink> –  Transcript of <link>
 Aló Presidente</link> 225.</entry>
 <entry level="1" type="bullet">
 
@@ -1045,8 +1045,8 @@ Hugo Chávez</link></header>
 Biography</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-Early life</link>&nbsp;·  <link>
-Military career</link>&nbsp;·  <link>
+Early life</link> ·  <link>
+Military career</link> ·  <link>
 Presidency</link></col>
 </row>
 <row style="height:2px">
@@ -1057,8 +1057,8 @@ Presidency</link></col>
 Political events</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link>
-Coup attempt of 1992</link>&nbsp;·  <link>
-Coup attempt of 2002</link>&nbsp;·  <group_action wordnetid="101080366" confidence="0.8">
+Coup attempt of 1992</link> ·  <link>
+Coup attempt of 2002</link> ·  <group_action wordnetid="101080366" confidence="0.8">
 <election wordnetid="100181781" confidence="0.8">
 <vote wordnetid="100182213" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1071,8 +1071,8 @@ Recall referendum of 2004</link></psychological_feature>
 </vote>
 </election>
 </group_action>
-&nbsp;·  <link>
-Putative coup attempt of 2004</link>&nbsp;· <group_action wordnetid="101080366" confidence="0.8">
+ ·  <link>
+Putative coup attempt of 2004</link> · <group_action wordnetid="101080366" confidence="0.8">
 <politics wordnetid="113840719" confidence="0.8">
 <election wordnetid="100181781" confidence="0.8">
 <vote wordnetid="100182213" confidence="0.8">
@@ -1111,7 +1111,7 @@ Presidential election of 1998</link></psychological_feature>
 </vote>
 </election>
 </group_action>
-&nbsp;·  <group_action wordnetid="101080366" confidence="0.8">
+ ·  <group_action wordnetid="101080366" confidence="0.8">
 <election wordnetid="100181781" confidence="0.8">
 <vote wordnetid="100182213" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1124,7 +1124,7 @@ Presidential election of 2000</link></psychological_feature>
 </vote>
 </election>
 </group_action>
-&nbsp;·  <group_action wordnetid="101080366" confidence="0.8">
+ ·  <group_action wordnetid="101080366" confidence="0.8">
 <politics wordnetid="113840719" confidence="0.8">
 <election wordnetid="100181781" confidence="0.8">
 <vote wordnetid="100182213" confidence="0.8">
@@ -1161,31 +1161,31 @@ Bolivarian Alternative for the Americas</link></social_relation>
 </bloc>
 </politics>
 </alliance>
-&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link xlink:type="simple" xlink:href="../105/286105.xml">
 Bolivarian Circles</link></social_relation>
 </politics>
-&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link xlink:type="simple" xlink:href="../774/280774.xml">
 Bolivarian Revolution</link></social_relation>
 </politics>
-&nbsp;·  <power wordnetid="105190804" confidence="0.8">
+ ·  <power wordnetid="105190804" confidence="0.8">
 <influence wordnetid="105194151" confidence="0.8">
 <force wordnetid="105194578" confidence="0.8">
 <link xlink:type="simple" xlink:href="../186/326186.xml">
 Bolivarianism</link></force>
 </influence>
 </power>
-&nbsp;·  <link>
-Cabinet</link>&nbsp;·  <link xlink:type="simple" xlink:href="../020/6720020.xml">
-Chavismo</link>&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <link>
+Cabinet</link> ·  <link xlink:type="simple" xlink:href="../020/6720020.xml">
+Chavismo</link> ·  <politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link xlink:type="simple" xlink:href="../684/1211684.xml">
 Constitution</link></social_relation>
 </politics>
-&nbsp;·  <link>
+ ·  <link>
 Foreign policy</link></col>
 </row>
 <row style="height:2px">
@@ -1205,18 +1205,18 @@ Bolivarian Missions</link></social_relation>
 <link xlink:type="simple" xlink:href="../751/1578751.xml">
 Barrio Adentro</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../789/2950789.xml">
 Guaicaipuro</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <link>
-Hábitat</link>&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <link>
+Hábitat</link> ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../417/2956417.xml">
 Identidad</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <politics wordnetid="113840719" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
@@ -1225,17 +1225,17 @@ Mercal</link></nongovernmental_organization>
 </social_relation>
 </mission>
 </politics>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../453/2956453.xml">
 Miranda</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../497/2959497.xml">
 Piar</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <politics wordnetid="113840719" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
@@ -1244,7 +1244,7 @@ Plan Bolivar 2000</link></nongovernmental_organization>
 </social_relation>
 </mission>
 </politics>
-&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <politics wordnetid="113840719" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
@@ -1253,27 +1253,27 @@ Ribas</link></nongovernmental_organization>
 </social_relation>
 </mission>
 </politics>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../814/2950814.xml">
 Robinson</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../834/2950834.xml">
 Sucre</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../569/2956569.xml">
 Vuelta al Campo</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../868/2950868.xml">
 Vuelvan Caras</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../644/1087644.xml">
 Zamora</link></nongovernmental_organization>
@@ -1288,12 +1288,12 @@ Zamora</link></nongovernmental_organization>
 Reactions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link>
-Criticism</link>&nbsp;·  <link>
-Media representation</link>&nbsp;·  <it><link>
-¿¡Revolución!?</link></it>&nbsp;·  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
+Criticism</link> ·  <link>
+Media representation</link> ·  <it><link>
+¿¡Revolución!?</link></it> ·  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../145/2025145.xml">
 The Revolution Will Not Be Televised</link></movie>
-</it>&nbsp;·  <link>
+</it> ·  <link>
 Súmate</link></col>
 </row>
 </table>
@@ -1317,7 +1317,7 @@ Súmate</link></col>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../374/32374.xml">
 Venezuela</link></country>
  <link xlink:type="simple" xlink:href="../514/3030514.xml">
@@ -1334,10 +1334,10 @@ Geography</link></col>
 <issue wordnetid="105814650" confidence="0.8">
 <link xlink:type="simple" xlink:href="../318/4243318.xml">
 Environmental issues</link></issue>
-&nbsp;·  <link xlink:type="simple" xlink:href="../841/9946841.xml">
-Fauna</link>&nbsp;·  <link xlink:type="simple" xlink:href="../780/9947780.xml">
-Flora</link>&nbsp;·  <link xlink:type="simple" xlink:href="../526/4651526.xml">
-National parks</link>&nbsp;·  <subdivision wordnetid="108674251" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../841/9946841.xml">
+Fauna</link> ·  <link xlink:type="simple" xlink:href="../780/9947780.xml">
+Flora</link> ·  <link xlink:type="simple" xlink:href="../526/4651526.xml">
+National parks</link> ·  <subdivision wordnetid="108674251" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1349,8 +1349,8 @@ Subdivisions</link></geographical_area>
 </region>
 </subdivision>
  (<link xlink:type="simple" xlink:href="../009/5196009.xml">
-Administrative regions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../395/343395.xml">
-Cities</link>&nbsp;·  <subdivision wordnetid="108674251" confidence="0.8">
+Administrative regions</link> ·  <link xlink:type="simple" xlink:href="../395/343395.xml">
+Cities</link> ·  <subdivision wordnetid="108674251" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1361,7 +1361,7 @@ States</link></geographical_area>
 </location>
 </region>
 </subdivision>
-)&nbsp;·  
+) ·  
 World Heritage Sites in Venezuela|World Heritage Sites</col>
 </row>
 <row style="height:2px">
@@ -1375,7 +1375,7 @@ History</link></col>
 <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../265/38265.xml">
 New Granada</link></country>
-&nbsp;·  <autocracy wordnetid="108361001" confidence="0.8">
+ ·  <autocracy wordnetid="108361001" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <monarchy wordnetid="108363812" confidence="0.8">
 <political_system wordnetid="108367880" confidence="0.8">
@@ -1386,24 +1386,24 @@ Captaincy General</link></group>
 </monarchy>
 </social_group>
 </autocracy>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <declaration wordnetid="106725877" confidence="0.8">
 <link xlink:type="simple" xlink:href="../505/2389505.xml">
 Declaration of Independence</link></declaration>
 </message>
 </statement>
-&nbsp;·  <conflict wordnetid="100958896" confidence="0.9508927676800064">
+ ·  <conflict wordnetid="100958896" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/562862.xml">
 War of Independence</link></conflict>
-&nbsp;·  <link>
-Bolívar's War</link>&nbsp;·  <conflict wordnetid="100958896" confidence="0.9508927676800064">
+ ·  <link>
+Bolívar's War</link> ·  <conflict wordnetid="100958896" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../024/1747024.xml">
 Battle of Carabobo</link></conflict>
-&nbsp;·  <country wordnetid="108544813" confidence="0.9508927676800064">
+ ·  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../871/11226871.xml">
 Gran Colombia</link></country>
-&nbsp;·  <conflict wordnetid="100958896" confidence="0.9508927676800064">
+ ·  <conflict wordnetid="100958896" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/11038939.xml">
 Federal War</link></conflict>
 </col>
@@ -1421,8 +1421,8 @@ Government</link></col>
 <link xlink:type="simple" xlink:href="../684/1211684.xml">
 Constitution</link></social_relation>
 </politics>
-&nbsp;·  <link xlink:type="simple" xlink:href="../461/32461.xml">
-Foreign relations</link>&nbsp;·  <military wordnetid="108199025" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../461/32461.xml">
+Foreign relations</link> ·  <military wordnetid="108199025" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../460/32460.xml">
 Military</link></military>
  • <politics wordnetid="113840719" confidence="0.8">
@@ -1430,7 +1430,7 @@ Military</link></military>
 <link xlink:type="simple" xlink:href="../474/2850474.xml">
 Missions</link></social_relation>
 </politics>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <assembly wordnetid="108163792" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -1441,8 +1441,8 @@ National Assembly</link></legislature>
 </gathering>
 </assembly>
 </social_group>
-&nbsp;·  <link xlink:type="simple" xlink:href="../102/165102.xml">
-Presidents</link>&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../102/165102.xml">
+Presidents</link> ·  <social_group wordnetid="107950920" confidence="0.8">
 <assembly wordnetid="108163792" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <court wordnetid="108329453" confidence="0.8">
@@ -1464,26 +1464,26 @@ Supreme Tribunal of Justice</link></group>
 Politics</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../177/924177.xml">
-Elections</link>&nbsp;·  <link xlink:type="simple" xlink:href="../121/409121.xml">
+Elections</link> ·  <link xlink:type="simple" xlink:href="../121/409121.xml">
 Political parties</link> (<party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../712/174712.xml">
 Fifth Republic Movement</link></party>
-&nbsp;·  <party wordnetid="108256968" confidence="0.9508927676800064">
+ ·  <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../374/1104374.xml">
 Democratic Action</link></party>
-&nbsp;·  <party wordnetid="108256968" confidence="0.9508927676800064">
+ ·  <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../101/1965101.xml">
 COPEI (Social Christian Party)</link></party>
-&nbsp;·  <party wordnetid="108256968" confidence="0.9508927676800064">
+ ·  <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../983/4604983.xml">
 For Social Democracy</link></party>
-&nbsp;·  <party wordnetid="108256968" confidence="0.9508927676800064">
+ ·  <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/1825560.xml">
 Communist Party</link></party>
-&nbsp;·  <party wordnetid="108256968" confidence="0.9508927676800064">
+ ·  <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../895/8512895.xml">
 United Socialist Party</link></party>
-&nbsp;·  <party wordnetid="108256968" confidence="0.9508927676800064">
+ ·  <party wordnetid="108256968" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../306/6369306.xml">
 A New Era</link></party>
 )</col>
@@ -1497,14 +1497,14 @@ A New Era</link></party>
 Economy</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../458/32458.xml">
-Communications</link>&nbsp;·  <link xlink:type="simple" xlink:href="../201/1292201.xml">
-Companies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../281/7653281.xml">
-Cooperatives</link>&nbsp;·  <link>
-Currency</link>&nbsp;·  <link xlink:type="simple" xlink:href="../253/12207253.xml">
-Energy</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+Communications</link> ·  <link xlink:type="simple" xlink:href="../201/1292201.xml">
+Companies</link> ·  <link xlink:type="simple" xlink:href="../281/7653281.xml">
+Cooperatives</link> ·  <link>
+Currency</link> ·  <link xlink:type="simple" xlink:href="../253/12207253.xml">
+Energy</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../087/4010087.xml">
 Stock exchange</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../459/32459.xml">
+ ·  <link xlink:type="simple" xlink:href="../459/32459.xml">
 Transport</link></col>
 </row>
 <row style="height:2px">
@@ -1516,20 +1516,20 @@ Transport</link></col>
 Culture</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../177/2442177.xml">
-Cuisine</link>&nbsp;·  <link xlink:type="simple" xlink:href="../455/32455.xml">
-Demographics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../124/3854124.xml">
-Education</link>&nbsp;·  <link xlink:type="simple" xlink:href="../626/3877626.xml">
-Healthcare</link>&nbsp;·  <link xlink:type="simple" xlink:href="../016/4771016.xml">
-Heritage</link>&nbsp;·  <link xlink:type="simple" xlink:href="../237/12823237.xml">
-Languages</link>&nbsp;·  <link xlink:type="simple" xlink:href="../974/4200974.xml">
-Literature</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Cuisine</link> ·  <link xlink:type="simple" xlink:href="../455/32455.xml">
+Demographics</link> ·  <link xlink:type="simple" xlink:href="../124/3854124.xml">
+Education</link> ·  <link xlink:type="simple" xlink:href="../626/3877626.xml">
+Healthcare</link> ·  <link xlink:type="simple" xlink:href="../016/4771016.xml">
+Heritage</link> ·  <link xlink:type="simple" xlink:href="../237/12823237.xml">
+Languages</link> ·  <link xlink:type="simple" xlink:href="../974/4200974.xml">
+Literature</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../784/37784.xml">
 Media</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <representation wordnetid="100898518" confidence="0.8">
+ ·  <representation wordnetid="100898518" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <pageant wordnetid="100899761" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1542,10 +1542,10 @@ Miss Venezuela</link></activity>
 </pageant>
 </event>
 </representation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../935/290935.xml">
-Music</link>&nbsp;·  <link xlink:type="simple" xlink:href="../551/9978551.xml">
-National symbols</link>&nbsp;·  <link xlink:type="simple" xlink:href="../180/182180.xml">
-Notable Venezuelans</link>&nbsp;·  <holiday wordnetid="115183428" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../935/290935.xml">
+Music</link> ·  <link xlink:type="simple" xlink:href="../551/9978551.xml">
+National symbols</link> ·  <link xlink:type="simple" xlink:href="../180/182180.xml">
+Notable Venezuelans</link> ·  <holiday wordnetid="115183428" confidence="0.8">
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <calendar_day wordnetid="115157041" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">

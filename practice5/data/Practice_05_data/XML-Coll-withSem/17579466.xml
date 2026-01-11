@@ -123,8 +123,8 @@ Amantea</link></city>
 <col>
 <b>Elevation</b></col>
 <col>
-55&nbsp;<link xlink:type="simple" xlink:href="../947/18947.xml">
-m</link> (180&nbsp;<unit_of_measurement wordnetid="113583724" confidence="0.8">
+55 <link xlink:type="simple" xlink:href="../947/18947.xml">
+m</link> (180 <unit_of_measurement wordnetid="113583724" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
 <link xlink:type="simple" xlink:href="../482/202482.xml">
 ft</link></definite_quantity>
@@ -175,7 +175,7 @@ camporesi</col>
  <b><phone_number wordnetid="106426111" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <link xlink:type="simple" xlink:href="../529/1039529.xml">
-Dialing&nbsp;code</link></signal>
+Dialing code</link></signal>
 </phone_number>
 </b></col>
 <col>
@@ -199,7 +199,7 @@ Francis of Paola</link></saint>
 </row>
 <row>
 <col>
-&nbsp;- Day</col>
+ - Day</col>
 <col>
 1 to <link xlink:type="simple" xlink:href="../989/27989.xml">
 3 September</link></col>

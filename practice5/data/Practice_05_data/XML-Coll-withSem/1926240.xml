@@ -1480,7 +1480,7 @@ Broadcast video format</link>s</header>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../831/29831.xml">
+ <link xlink:type="simple" xlink:href="../831/29831.xml">
 Television</link></header>
 </row>
 <row style="height:2px;">
@@ -1513,8 +1513,8 @@ NTSC</link></advice>
 </proposal>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../920/1023920.xml">
-NTSC-J</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../920/1023920.xml">
+NTSC-J</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../531/7356531.xml">
@@ -1531,15 +1531,15 @@ PAL-M</link></format>
 625 lines</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../438/24438.xml">
-PAL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../438/24438.xml#xpointer(//*[./st=%22PAL-N+and+PAL-NC%22])">
-PAL-N/NC</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+PAL</link> ·  <link xlink:type="simple" xlink:href="../438/24438.xml#xpointer(//*[./st=%22PAL-N+and+PAL-NC%22])">
+PAL-N/NC</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../143/733143.xml">
 PALplus</link></format>
 </information>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../706/28706.xml">
@@ -1557,10 +1557,10 @@ SECAM</link></format>
 Audio</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../966/276966.xml">
-BTSC (MTS)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../983/501983.xml">
-NICAM-728</link>&nbsp;·  <link xlink:type="simple" xlink:href="../628/3666628.xml">
-Zweiton (A2&nbsp;/  IGR)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../117/13311117.xml">
-EIAJ</link>&nbsp;·  <link xlink:type="simple" xlink:href="../779/276779.xml">
+BTSC (MTS)</link> ·  <link xlink:type="simple" xlink:href="../983/501983.xml">
+NICAM-728</link> ·  <link xlink:type="simple" xlink:href="../628/3666628.xml">
+Zweiton (A2 /  IGR)</link> ·  <link xlink:type="simple" xlink:href="../117/13311117.xml">
+EIAJ</link> ·  <link xlink:type="simple" xlink:href="../779/276779.xml">
 SAP</link></col>
 </row>
 <row style="height:2px">
@@ -1571,19 +1571,19 @@ SAP</link></col>
 Hidden signals</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../883/40883.xml">
-Captioning</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Captioning</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../240/1926240.xml">
 Teletext</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../263/2733263.xml">
-CGMS-A</link>&nbsp;·  <link xlink:type="simple" xlink:href="../673/3352673.xml">
-GCR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../627/250627.xml">
-PDC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../829/329829.xml">
-VBI</link>&nbsp;·  <link xlink:type="simple" xlink:href="../089/3506089.xml">
-VEIL</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../263/2733263.xml">
+CGMS-A</link> ·  <link xlink:type="simple" xlink:href="../673/3352673.xml">
+GCR</link> ·  <link xlink:type="simple" xlink:href="../627/250627.xml">
+PDC</link> ·  <link xlink:type="simple" xlink:href="../829/329829.xml">
+VBI</link> ·  <link xlink:type="simple" xlink:href="../089/3506089.xml">
+VEIL</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -1596,8 +1596,8 @@ VITC</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../656/801656.xml">
-WSS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../548/1907548.xml">
+ ·  <link xlink:type="simple" xlink:href="../656/801656.xml">
+WSS</link> ·  <link xlink:type="simple" xlink:href="../548/1907548.xml">
 XDS</link></col>
 </row>
 <row style="height:2px">
@@ -1608,13 +1608,13 @@ XDS</link></col>
 Defunct systems</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../436/7357436.xml">
-Pre-1940</link>&nbsp;·  <link xlink:type="simple" xlink:href="../581/1361581.xml">
-Baird-Nipkow</link>&nbsp;·  <link xlink:type="simple" xlink:href="../649/18333649.xml">
-180 lines</link>&nbsp;·  <link xlink:type="simple" xlink:href="../598/3247598.xml">
-405 lines</link>&nbsp;·  <link xlink:type="simple" xlink:href="../173/18293173.xml">
-441 lines</link>&nbsp;·   <link xlink:type="simple" xlink:href="../303/5729303.xml">
-819 lines</link>&nbsp;·  <link xlink:type="simple" xlink:href="../737/3172737.xml">
-MAC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../379/7300379.xml">
+Pre-1940</link> ·  <link xlink:type="simple" xlink:href="../581/1361581.xml">
+Baird-Nipkow</link> ·  <link xlink:type="simple" xlink:href="../649/18333649.xml">
+180 lines</link> ·  <link xlink:type="simple" xlink:href="../598/3247598.xml">
+405 lines</link> ·  <link xlink:type="simple" xlink:href="../173/18293173.xml">
+441 lines</link> ·   <link xlink:type="simple" xlink:href="../303/5729303.xml">
+819 lines</link> ·  <link xlink:type="simple" xlink:href="../737/3172737.xml">
+MAC</link> ·  <link xlink:type="simple" xlink:href="../379/7300379.xml">
 MUSE</link></col>
 </row>
 </table>
@@ -1648,14 +1648,14 @@ SDTV</link> (<message wordnetid="106598915" confidence="0.8">
 480i</link></format>
 </information>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../924/1315924.xml">
 576i</link></format>
 </information>
 </message>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../657/16315657.xml">
+) ·  <link xlink:type="simple" xlink:href="../657/16315657.xml">
 HDTV</link> (<message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
@@ -1675,9 +1675,9 @@ Progressive</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;background:transparent;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../190/3135190.xml">
 LDTV</link> (<link xlink:type="simple" xlink:href="../190/3135190.xml">
-240p</link>&nbsp;·  <link xlink:type="simple" xlink:href="../190/3135190.xml">
-288p</link>&nbsp;·  <link xlink:type="simple" xlink:href="../719/3391719.xml">
-1seg</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../019/453019.xml">
+240p</link> ·  <link xlink:type="simple" xlink:href="../190/3135190.xml">
+288p</link> ·  <link xlink:type="simple" xlink:href="../719/3391719.xml">
+1seg</link>) ·  <link xlink:type="simple" xlink:href="../019/453019.xml">
 EDTV</link> (<message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
@@ -1685,14 +1685,14 @@ EDTV</link> (<message wordnetid="106598915" confidence="0.8">
 480p</link></format>
 </information>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../925/1315925.xml">
 576p</link></format>
 </information>
 </message>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../657/16315657.xml">
+) ·  <link xlink:type="simple" xlink:href="../657/16315657.xml">
 HDTV</link> (<message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
@@ -1700,7 +1700,7 @@ HDTV</link> (<message wordnetid="106598915" confidence="0.8">
 720p</link></format>
 </information>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../427/1660427.xml">
@@ -1718,13 +1718,13 @@ HDTV</link> (<message wordnetid="106598915" confidence="0.8">
 MPEG-2</link>standards</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;background:#f7f7f7;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../313/272313.xml">
-ATSC</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ATSC</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../977/146977.xml">
 DVB</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../231/272231.xml">
-ISDB</link>&nbsp;·  <link xlink:type="simple" xlink:href="../951/7708951.xml">
+ ·  <link xlink:type="simple" xlink:href="../231/272231.xml">
+ISDB</link> ·  <link xlink:type="simple" xlink:href="../951/7708951.xml">
 DMB-T/H</link></col>
 </row>
 <row style="height:2px">
@@ -1748,15 +1748,15 @@ MPEG-4 AVC</link></system_of_measurement>
 standards</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;background:transparent;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../313/272313.xml">
-ATSC 2.0 (A/72)</link> &nbsp;· <link xlink:type="simple" xlink:href="../857/2800857.xml">
-DMB</link>&nbsp;·  <link xlink:type="simple" xlink:href="../951/7708951.xml">
-DMB-T/H</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ATSC 2.0 (A/72)</link>  · <link xlink:type="simple" xlink:href="../857/2800857.xml">
+DMB</link> ·  <link xlink:type="simple" xlink:href="../951/7708951.xml">
+DMB-T/H</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../977/146977.xml">
 DVB</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../260/3435260.xml">
-SBTVD</link>&nbsp;·  <link xlink:type="simple" xlink:href="../719/3391719.xml">
+ ·  <link xlink:type="simple" xlink:href="../260/3435260.xml">
+SBTVD</link> ·  <link xlink:type="simple" xlink:href="../719/3391719.xml">
 1seg</link></col>
 </row>
 <row style="height:2px">
@@ -1769,8 +1769,8 @@ Audio</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;background:#f7f7f7;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../898/82898.xml">
 AC-3</link> (<link xlink:type="simple" xlink:href="../836/253836.xml">
-5.1</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../152/5192152.xml">
-MPEG Multichannel</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+5.1</link>) ·  <link xlink:type="simple" xlink:href="../152/5192152.xml">
+MPEG Multichannel</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <manner wordnetid="104928903" confidence="0.8">
@@ -1781,8 +1781,8 @@ PCM</link></format>
 </property>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../949/1499949.xml">
-LPCM</link>&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../949/1499949.xml">
+LPCM</link> ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../247/218247.xml">
 AAC</link></format>
 </col>
@@ -1795,17 +1795,17 @@ AAC</link></format>
 Hidden signals</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;background:transparent;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../883/40883.xml">
-Captioning</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Captioning</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../240/1926240.xml">
 Teletext</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../129/5090129.xml">
-CPCM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../913/358913.xml">
-Broadcast flag</link>&nbsp;·  <link xlink:type="simple" xlink:href="../541/4666541.xml">
-AFD</link>&nbsp;·  <link xlink:type="simple" xlink:href="../154/1331154.xml">
+ ·  <link xlink:type="simple" xlink:href="../129/5090129.xml">
+CPCM</link> ·  <link xlink:type="simple" xlink:href="../913/358913.xml">
+Broadcast flag</link> ·  <link xlink:type="simple" xlink:href="../541/4666541.xml">
+AFD</link> ·  <link xlink:type="simple" xlink:href="../154/1331154.xml">
 EPG</link></col>
 </row>
 </table>
@@ -1825,7 +1825,7 @@ EPG</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<artifact wordnetid="100021939" confidence="0.8">
+ <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../844/8844.xml">
@@ -1847,8 +1847,8 @@ Super_Hi-Vision</link> (<message wordnetid="106598915" confidence="0.8">
 2540p</link></format>
 </information>
 </message>
-&nbsp;·  <link>
-4320p</link>)&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link>
+4320p</link>) ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../814/2154814.xml">
@@ -1868,19 +1868,19 @@ DCI</link></medium>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Technical issues</header>
+ Technical issues</header>
 </row>
 <row style="height:2px;">
 
 </row>
 <row>
 <col colspan="2" style="width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
-&nbsp;·  <link xlink:type="simple" xlink:href="../465/1492465.xml">
-MPEG transport</link>&nbsp;·  <link xlink:type="simple" xlink:href="../794/7392794.xml">
-Reverse Standards Conversion</link>&nbsp;·  <link xlink:type="simple" xlink:href="../250/10789250.xml">
-Standards conversion</link>&nbsp;·  <link xlink:type="simple" xlink:href="../224/8484224.xml">
-Video processing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../143/147143.xml">
-Video on demand</link>&nbsp;·  <link xlink:type="simple" xlink:href="../853/12544853.xml">
+ ·  <link xlink:type="simple" xlink:href="../465/1492465.xml">
+MPEG transport</link> ·  <link xlink:type="simple" xlink:href="../794/7392794.xml">
+Reverse Standards Conversion</link> ·  <link xlink:type="simple" xlink:href="../250/10789250.xml">
+Standards conversion</link> ·  <link xlink:type="simple" xlink:href="../224/8484224.xml">
+Video processing</link> ·  <link xlink:type="simple" xlink:href="../143/147143.xml">
+Video on demand</link> ·  <link xlink:type="simple" xlink:href="../853/12544853.xml">
 HDTV blur</link></col>
 </row>
 </table>

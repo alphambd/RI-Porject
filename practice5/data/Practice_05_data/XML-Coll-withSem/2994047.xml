@@ -332,20 +332,20 @@ Districts</col>
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../440/361440.xml">
 Belgravia</link></site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../129/3133129.xml">
-Brompton</link>&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../129/3133129.xml">
+Brompton</link> ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../113/310113.xml">
 Chelsea</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../091/355091.xml">
 Earls Court</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../779/593779.xml">
 Holland Park</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../732/54732.xml">
 Kensington</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -358,20 +358,20 @@ Kensal Town</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../153/94153.xml">
 Knightsbridge</link></site>
-&nbsp;·  <link>
-Ladbroke Grove</link>&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <link>
+Ladbroke Grove</link> ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../047/2994047.xml">
 North Kensington</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../200/94200.xml">
 Notting Hill</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../549/542549.xml">
 South Kensington</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../462/4080462.xml">
 West Brompton</link></site>
 </col>
@@ -408,7 +408,7 @@ Albert Memorial</link></end_product>
 </structure>
 </creation>
 </product>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <financial_institution wordnetid="108054721" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
@@ -427,8 +427,8 @@ Chelsea Physic Garden</link></institution>
 </financial_institution>
 </social_event>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../922/601922.xml">
-Holland House</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../922/601922.xml">
+Holland House</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <memorial wordnetid="103743902" confidence="0.8">
@@ -437,7 +437,7 @@ Kensal Green Cemetery</link></memorial>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <mansion wordnetid="103719053" confidence="0.8">
@@ -454,7 +454,7 @@ Kensington Palace</link></palace>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -467,14 +467,14 @@ Natural History Museum</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../212/890212.xml">
 Olympia</link></artifact>
 </building>
 </structure>
-&nbsp;·  <passageway wordnetid="103895585" confidence="0.8">
+ ·  <passageway wordnetid="103895585" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -499,8 +499,8 @@ Royal Albert Hall</link></room>
 </building>
 </structure>
 </passageway>
-&nbsp;·  <link xlink:type="simple" xlink:href="../951/152951.xml">
-Science Museum</link>&nbsp;·  <link xlink:type="simple" xlink:href="../275/97275.xml">
+ ·  <link xlink:type="simple" xlink:href="../951/152951.xml">
+Science Museum</link> ·  <link xlink:type="simple" xlink:href="../275/97275.xml">
 Victoria &amp; Albert Museum</link></col>
 </row>
 <row style="height:2px">
@@ -513,13 +513,13 @@ Theatres</col>
 <theater wordnetid="104417809" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../662/9544662.xml">
 Chelsea Theatre</link></theater>
-&nbsp;·  <theater wordnetid="104417809" confidence="0.9508927676800064">
+ ·  <theater wordnetid="104417809" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../731/2249731.xml">
 Finborough Theatre</link></theater>
-&nbsp;·  <building wordnetid="102913152" confidence="0.9508927676800064">
+ ·  <building wordnetid="102913152" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../559/1007559.xml">
 Gate Theatre</link></building>
-&nbsp;·  <link xlink:type="simple" xlink:href="../718/229718.xml">
+ ·  <link xlink:type="simple" xlink:href="../718/229718.xml">
 Royal Court</link></col>
 </row>
 <row style="height:2px">
@@ -555,7 +555,7 @@ Brompton Cemetery</link></geographical_area>
 </park>
 </region>
 </site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -602,7 +602,7 @@ Portobello Road Market</link></activity>
 Constituencies</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../702/1829702.xml">
-Kensington and Chelsea</link>&nbsp;·  <link xlink:type="simple" xlink:href="../704/1829704.xml">
+Kensington and Chelsea</link> ·  <link xlink:type="simple" xlink:href="../704/1829704.xml">
 Regent's Park and Kensington North</link></col>
 </row>
 <row style="height:2px;">

@@ -192,7 +192,7 @@ To summarize, the basic quadratic sieve algorithm has these main steps:</p>
  Choose a smoothness bound <it>B</it>. The number π(<it>B</it>), denoting the number of prime numbers less than <it>B</it>, will control both the length of the vectors and the number of vectors needed.</entry>
 <entry level="1" type="number">
 
- Use sieving to locate π(<it>B</it>)&nbsp;+&nbsp;1 numbers <it>ai</it> such that <it>bi</it>=(<it>ai</it>2 mod <it>n</it>) is <it>B</it>-smooth. </entry>
+ Use sieving to locate π(<it>B</it>) + 1 numbers <it>ai</it> such that <it>bi</it>=(<it>ai</it>2 mod <it>n</it>) is <it>B</it>-smooth. </entry>
 <entry level="1" type="number">
 
 Factor the <it>bi</it> and generate exponent vectors mod 2 for each one.</entry>
@@ -763,7 +763,7 @@ primality test</link></entry>
 <entry id="1">
  <cite id="CITEREFPomerance1996" style="font-style:normal"><link>
 Pomerance, Carl</link>&#32;(December 1996),&#32;"<weblink xlink:type="simple" xlink:href="http://www.ams.org/notices/199612/pomerance.pdf">
-A Tale of Two Sieves</weblink>",&#32;<it>Notices of the AMS</it>&#32;<b>43</b>(12):  1473-1485, </cite>&nbsp;</entry>
+A Tale of Two Sieves</weblink>",&#32;<it>Notices of the AMS</it>&#32;<b>43</b>(12):  1473-1485, </cite> </entry>
 </reflist>
 </p>
 <p>
@@ -791,7 +791,7 @@ Carl Pomerance</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(2001). Prime Numbers: A Computational Perspective, 1st edition,&#32;Springer. ISBN 0-387-94777-9.</cite>&nbsp; Section 6.1: The quadratic sieve factorization method, pp.227&ndash;244.</entry>
+&#32;(2001). Prime Numbers: A Computational Perspective, 1st edition,&#32;Springer. ISBN 0-387-94777-9.</cite>  Section 6.1: The quadratic sieve factorization method, pp.227–244.</entry>
 </list>
 </p>
 

@@ -142,10 +142,10 @@ Community Forests in England</link></group>
 There are twelve forests</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-Forest of Avon</link>&nbsp;• <link>
-Great North Forest</link>&nbsp;• <link>
-Great Western Forest</link>&nbsp;• <link>
-Greenwood Forest</link>&nbsp;• <event wordnetid="100029378" confidence="0.8">
+Forest of Avon</link> • <link>
+Great North Forest</link> • <link>
+Great Western Forest</link> • <link>
+Greenwood Forest</link> • <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
 <forest wordnetid="108438533" confidence="0.8">
@@ -164,9 +164,9 @@ Forest of Marston Vale</link></attraction>
 </show>
 </social_event>
 </event>
-&nbsp;• <link>
-Forest of Mercia</link>&nbsp;• <link xlink:type="simple" xlink:href="../779/15277779.xml">
-Mersey Forest</link>&nbsp;• <event wordnetid="100029378" confidence="0.8">
+ • <link>
+Forest of Mercia</link> • <link xlink:type="simple" xlink:href="../779/15277779.xml">
+Mersey Forest</link> • <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
 <forest wordnetid="108438533" confidence="0.8">
@@ -185,9 +185,9 @@ Red Rose Forest</link></attraction>
 </show>
 </social_event>
 </event>
-&nbsp;• <link>
-South Yorkshire Forest</link>&nbsp;• <link>
-Tees Forest</link>&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <link>
+South Yorkshire Forest</link> • <link>
+Tees Forest</link> • <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -198,7 +198,7 @@ Thames Chase</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;• <link xlink:type="simple" xlink:href="../856/15874856.xml">
+ • <link xlink:type="simple" xlink:href="../856/15874856.xml">
 Watling Chase</link></col>
 </row>
 </table>

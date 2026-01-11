@@ -44,7 +44,7 @@ trademark</link> of IUPAC).<ref xlink:type="simple" xlink:href="#xpointer(//refl
 Overview</st>
 <p>
 
-The identifiers describe chemical substances in terms of <it>layers</it> of information &mdash; the atoms and their bond connectivity, <link xlink:type="simple" xlink:href="../949/1325949.xml">
+The identifiers describe chemical substances in terms of <it>layers</it> of information — the atoms and their bond connectivity, <link xlink:type="simple" xlink:href="../949/1325949.xml">
 tautomeric</link> information, <link xlink:type="simple" xlink:href="../416/19600416.xml">
 isotope</link> information, <link xlink:type="simple" xlink:href="../756/28756.xml">
 stereochemistry</link>, and electronic charge information. 
@@ -252,7 +252,7 @@ Molecule editor</link></entry>
  McNaught, Alan&#32;(2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.iupac.org/publications/ci/2006/2806/4_tools.html">
 The IUPAC International Chemical Identifier:InChl</weblink>", <it>Chemistry International</it>, <link>
 IUPAC</link>.&#32;Retrieved on <link>
-2007-09-18</link>.&nbsp;</entry>
+2007-09-18</link>. </entry>
 <entry id="2">
 "<weblink xlink:type="simple" xlink:href="http://www.iupac.org/inchi/release102.html">
 The IUPAC International Chemical Identifier (InChI)</weblink>".</entry>
@@ -296,7 +296,7 @@ PDF</link></format>
 </language>
 </information>
 </message>
-&nbsp;(335 KB)</entry>
+ (335 KB)</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://depth-first.com/articles/2006/08/12/inchi-canonicalization-algorithm">

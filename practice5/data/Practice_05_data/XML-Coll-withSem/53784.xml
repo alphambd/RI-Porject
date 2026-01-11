@@ -38,7 +38,7 @@ EFF</link></company>
 cracking machine</link></device>
 </instrumentality>
 </artifact>
- contained over 1,800 custom chips and could brute force a DES key in a matter of days &mdash; the photograph shows a DES Cracker circuit board fitted with several Deep Crack chips.
+ contained over 1,800 custom chips and could brute force a DES key in a matter of days — the photograph shows a DES Cracker circuit board fitted with several Deep Crack chips.
 </caption>
 </image>
 
@@ -88,7 +88,7 @@ In a brute force attack, the expected number of trials before the correct key is
 
 For each trial of a candidate key the attacker needs to be able to recognize when he has found the correct key. The most straightforward way is to obtain a few corresponding plaintext and ciphertext pairs, that is, a <link xlink:type="simple" xlink:href="../019/517019.xml">
 known-plaintext attack</link>. Alternatively, a <link xlink:type="simple" xlink:href="../938/522938.xml">
-ciphertext-only attack</link> is possible by decrypting ciphertext using each candidate key, and testing the result for similarity to plaintext language&mdash;for example, <language wordnetid="106282651" confidence="0.8">
+ciphertext-only attack</link> is possible by decrypting ciphertext using each candidate key, and testing the result for similarity to plaintext language—for example, <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../916/8569916.xml">
 English</link></language>
  encoded in <message wordnetid="106598915" confidence="0.8">
@@ -127,7 +127,7 @@ FPGA</link>s.
 </p>
 <p>
 
-Symmetric ciphers with keys of length up to 64&nbsp;bits have been broken by brute force attacks. <cipher wordnetid="106254239" confidence="0.9508927676800064">
+Symmetric ciphers with keys of length up to 64 bits have been broken by brute force attacks. <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/7978.xml">
 DES</link></cipher>
 , a widely-used <link xlink:type="simple" xlink:href="../594/4594.xml">
@@ -467,16 +467,16 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- Leonard M. Adleman, Paul W. K. Rothemund, Sam Roweis and Erik Winfree,  On Applying Molecular Computation To The Data Encryption Standard, in Proceedings of the Second Annual Meeting on DNA Based Computers, Princeton University, June 10&ndash;12, 1996.</entry>
+ Leonard M. Adleman, Paul W. K. Rothemund, Sam Roweis and Erik Winfree,  On Applying Molecular Computation To The Data Encryption Standard, in Proceedings of the Second Annual Meeting on DNA Based Computers, Princeton University, June 10–12, 1996.</entry>
 <entry level="1" type="bullet">
 
- <it>Cracking DES &mdash; Secrets of Encryption Research, Wiretap Politics &amp; Chip Design</it> by the Electronic Frontier Foundation (ISBN 1-56592-520-3).</entry>
+ <it>Cracking DES — Secrets of Encryption Research, Wiretap Politics &amp; Chip Design</it> by the Electronic Frontier Foundation (ISBN 1-56592-520-3).</entry>
 <entry level="1" type="bullet">
 
- W. Diffie and M.E. Hellman, Exhaustive cryptanalysis of the NBS Data Encryption Standard, Computer 10 (1977), pp74&ndash;84.</entry>
+ W. Diffie and M.E. Hellman, Exhaustive cryptanalysis of the NBS Data Encryption Standard, Computer 10 (1977), pp74–84.</entry>
 <entry level="1" type="bullet">
 
- Michael J. Wiener, "Efficient DES Key Search", presented at the rump session of Crypto 93; reprinted in Practical Cryptography for Data Internetworks, W. Stallings, editor, IEEE Computer Society Press, pp31&ndash;79 (1996).</entry>
+ Michael J. Wiener, "Efficient DES Key Search", presented at the rump session of Crypto 93; reprinted in Practical Cryptography for Data Internetworks, W. Stallings, editor, IEEE Computer Society Press, pp31–79 (1996).</entry>
 </list>
 </p>
 
@@ -490,7 +490,7 @@ External links</st>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.cl.cam.ac.uk/users/rnc1/brute.html">
-Brute force attacks on cryptographic keys</weblink> &mdash; a survey by Richard Clayton</entry>
+Brute force attacks on cryptographic keys</weblink> — a survey by Richard Clayton</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.distributed.net/des/">
@@ -522,13 +522,13 @@ WASC Threat Classification - Brute Force</weblink></entry>
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal" class="book">Bruce Schneier&#32;(1996). Applied Cryptography, Second Edition.&#32;John Wiley &amp; Sons,&#32;p. 151. ISBN 0-471-11709-9.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Bruce Schneier&#32;(1996). Applied Cryptography, Second Edition.&#32;John Wiley &amp; Sons,&#32;p. 151. ISBN 0-471-11709-9.</cite> </entry>
 <entry id="2">
 Rolf Landauer, "<weblink xlink:type="simple" xlink:href="http://domino.research.ibm.com/tchjr/journalindex.nsf/c469af92ea9eceac85256bd50048567c/8a9d4b4e96887b8385256bfa0067fba2?OpenDocument">
 Irreversibility and heat generation in the computing process</weblink>," IBM Journal of Research and Development, vol. 5, pp. 183-191, 1961.</entry>
 <entry id="3">
  <cite style="font-style:normal" class="book">Robert Reynard&#32;(1997). <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=3nTmBW0ONEEC&amp;pg=PA86">
-Secret Code Breaker II: A Cryptanalyst's Handbook</weblink>,&#32;p86. ISBN 1889668060.</cite>&nbsp;</entry>
+Secret Code Breaker II: A Cryptanalyst's Handbook</weblink>,&#32;p86. ISBN 1889668060.</cite> </entry>
 <entry id="4">
 "<weblink xlink:type="simple" xlink:href="http://www.us-cert.gov/cas/techalerts/TA08-137A.html">
 Technical Cyber Security Alert TA08-137A: Debian/Ubuntu OpenSSL Random Number Generator Vulnerability</weblink>".&#32;  <link xlink:type="simple" xlink:href="../446/1289446.xml">
@@ -551,7 +551,7 @@ United States Computer Emergency Readiness Team</link>&#32;(2008-05-16).&#32;Ret
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <primitive wordnetid="109627462" confidence="0.8">
@@ -570,75 +570,75 @@ Message authentication codes (MACs)</link></header>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Hash algorithms:</b> <link xlink:type="simple" xlink:href="../232/3080232.xml">
-GOST</link>&nbsp;&#124; 
+GOST</link> &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../408/1063408.xml">
 HAS-160</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../362/1018362.xml">
 HAVAL</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../062/2642062.xml">
 MDC-2</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <function wordnetid="113783816" confidence="0.9508927676800064">
 <link>
 MD2</link></function>
-&nbsp;&#124; 
+ &#124; 
 <function wordnetid="113783816" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../106/578106.xml">
 MD4</link></function>
-&nbsp;&#124; 
+ &#124; 
 <function wordnetid="113783816" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../826/18826.xml">
 MD5</link></function>
-&nbsp;&#124; 
+ &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../247/1002247.xml">
 N-Hash</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <link>
-RadioGatún</link>&nbsp;&#124; 
+RadioGatún</link> &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../363/26363.xml">
 RIPEMD</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../672/26672.xml">
 SHA family</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../613/450613.xml">
 Snefru</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../596/511596.xml">
 Tiger</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../567/567567.xml">
 WHIRLPOOL</link></function>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../924/4179924.xml#xpointer(//*[./st=%22Library+Function%22])">
@@ -658,37 +658,37 @@ crypt(3) DES</link></function>
 <link xlink:type="simple" xlink:href="../570/2845570.xml">
 DAA</link></code>
 </written_communication>
-&nbsp;&#124; 
+ &#124; 
 <written_communication wordnetid="106349220" confidence="0.8">
 <code wordnetid="106667317" confidence="0.8">
 <link xlink:type="simple" xlink:href="../574/2840574.xml">
 CBC-MAC</link></code>
 </written_communication>
-&nbsp;&#124; 
+ &#124; 
 <written_communication wordnetid="106349220" confidence="0.8">
 <code wordnetid="106667317" confidence="0.8">
 <link xlink:type="simple" xlink:href="../112/17112.xml">
 HMAC</link></code>
 </written_communication>
-&nbsp;&#124; 
+ &#124; 
 <written_communication wordnetid="106349220" confidence="0.8">
 <code wordnetid="106667317" confidence="0.8">
 <link xlink:type="simple" xlink:href="../548/567548.xml">
 OMAC/CMAC</link></code>
 </written_communication>
-&nbsp;&#124; 
+ &#124; 
 <written_communication wordnetid="106349220" confidence="0.8">
 <code wordnetid="106667317" confidence="0.8">
 <link xlink:type="simple" xlink:href="../910/8667910.xml">
 PMAC</link></code>
 </written_communication>
-&nbsp;&#124; 
+ &#124; 
 <written_communication wordnetid="106349220" confidence="0.8">
 <code wordnetid="106667317" confidence="0.8">
 <link xlink:type="simple" xlink:href="../331/2005331.xml">
 UMAC</link></code>
 </written_communication>
-&nbsp;&#124; 
+ &#124; 
 <written_communication wordnetid="106349220" confidence="0.8">
 <code wordnetid="106667317" confidence="0.8">
 <link xlink:type="simple" xlink:href="../690/2017690.xml">
@@ -709,19 +709,19 @@ Authenticated encryption</link> modes:</b> <message wordnetid="106253690" confid
 <link xlink:type="simple" xlink:href="../043/2244043.xml">
 CCM</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../344/7475344.xml">
 CWC</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../161/4260161.xml">
 EAX</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <message wordnetid="106253690" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
@@ -737,7 +737,7 @@ GCM</link></cipher>
 </field>
 </message>
 </region>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../546/2233546.xml">
@@ -769,7 +769,7 @@ Hash collision</link></function>
 </event>
 </operation>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -783,7 +783,7 @@ Birthday attack</link></activity>
 </attack>
 </event>
 </operation>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -797,7 +797,7 @@ Preimage attack</link></activity>
 </attack>
 </event>
 </operation>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
@@ -817,9 +817,9 @@ Rainbow table</link></algorithm>
 </rule>
 </event>
 </operation>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../678/667678.xml">
-Side channel attack</link>&nbsp;&#124; 
+Side channel attack</link> &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -843,7 +843,7 @@ Brute force attack</link></activity>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Misc:</b> <link xlink:type="simple" xlink:href="../439/769439.xml">
-Avalanche effect</link>&nbsp;&#124; 
+Avalanche effect</link> &#124; 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -861,15 +861,15 @@ Hash collision</link></function>
 </event>
 </operation>
 </mathematical_relation>
-&nbsp;&#124; 
+ &#124; 
 <link>
-Merkle-Damgård construction</link>&nbsp;&nbsp;
+Merkle-Damgård construction</link>  
 <b>Standardization:</b> <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../159/549159.xml">
 CRYPTREC</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/497430.xml">
@@ -892,7 +892,7 @@ NESSIE</link></system_of_measurement>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

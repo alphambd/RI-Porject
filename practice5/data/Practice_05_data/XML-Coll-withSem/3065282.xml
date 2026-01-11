@@ -398,21 +398,21 @@ Solaris</link></database>
 Technologies</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../455/6642455.xml">
-Doors</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Doors</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../136/1179136.xml">
 DTrace</link></software>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../745/3838745.xml">
 IPMP</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../343/3212343.xml">
-MPxIO</link>&nbsp;·  <link xlink:type="simple" xlink:href="../270/2107270.xml">
-SMF</link>&nbsp;·  <link xlink:type="simple" xlink:href="../088/6784088.xml">
-snoop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../334/5097334.xml">
-Solaris Containers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../035/14167035.xml">
-Crossbow</link>&nbsp;·  <link xlink:type="simple" xlink:href="../586/2471586.xml">
-Solaris Cluster</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../343/3212343.xml">
+MPxIO</link> ·  <link xlink:type="simple" xlink:href="../270/2107270.xml">
+SMF</link> ·  <link xlink:type="simple" xlink:href="../088/6784088.xml">
+snoop</link> ·  <link xlink:type="simple" xlink:href="../334/5097334.xml">
+Solaris Containers</link> ·  <link xlink:type="simple" xlink:href="../035/14167035.xml">
+Crossbow</link> ·  <link xlink:type="simple" xlink:href="../586/2471586.xml">
+Solaris Cluster</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -425,7 +425,7 @@ Trusted Solaris</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../693/1205693.xml">
@@ -445,14 +445,14 @@ OpenSolaris</link></col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../850/4202850.xml">
 BeleniX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../282/3065282.xml">
-Nexenta OS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../282/3065282.xml">
+Nexenta OS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../617/2121617.xml">
 SchilliX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/16350434.xml">
 MilaX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../993/13227993.xml">
+ ·  <link xlink:type="simple" xlink:href="../993/13227993.xml">
 OpenSolaris for System z</link></col>
 </row>
 </table>
@@ -486,25 +486,25 @@ History and people</col>
 <link xlink:type="simple" xlink:href="../414/1097414.xml">
 Canonical Ltd.</link></institution>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../143/2193143.xml">
-Ubuntu Foundation</link>&nbsp;·  <entrepreneur wordnetid="110060352" confidence="0.9173553029164789">
+ ·  <link xlink:type="simple" xlink:href="../143/2193143.xml">
+Ubuntu Foundation</link> ·  <entrepreneur wordnetid="110060352" confidence="0.9173553029164789">
 <astronaut wordnetid="109818022" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../962/604962.xml">
 Mark Shuttleworth</link></astronaut>
 </entrepreneur>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <research_worker wordnetid="110523076" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../645/3306645.xml">
 Benjamin Mako Hill</link></research_worker>
 </person>
-&nbsp;·  <link xlink:type="simple" xlink:href="../237/5678237.xml">
-Matt Zimmerman</link>&nbsp;·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../237/5678237.xml">
+Matt Zimmerman</link> ·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../175/7848175.xml">
 Scott James Remnant</link></celebrity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../233/561233.xml">
 Jono Bacon</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -521,12 +521,12 @@ Ben Collins</link></hacker>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <adviser wordnetid="109774266" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../952/5677952.xml">
 Jeff Waugh</link></adviser>
 </person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -535,7 +535,7 @@ Ian Jackson</link></causal_agent>
 </leader>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../489/19264489.xml">
+ ·  <link xlink:type="simple" xlink:href="../489/19264489.xml">
 Releases</link></col>
 </row>
 <row style="height:2px">
@@ -549,21 +549,21 @@ Partner Projects</link></col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/990298.xml">
 Ubuntu</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../333/2906333.xml">
-Edubuntu</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../333/2906333.xml">
+Edubuntu</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../456/12201456.xml">
 Gobuntu</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../286/1582286.xml">
 Kubuntu</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../897/9428897.xml">
 Ubuntu Studio</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../262/2931262.xml">
 Xubuntu</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../113/14269113.xml">
-Ubuntu Mobile</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../113/14269113.xml">
+Ubuntu Mobile</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -589,42 +589,42 @@ External</link></col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../275/6063275.xml">
 Fluxbuntu</link></O>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../680/2630680.xml">
 Freespire</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../116/14014116.xml">
-gOS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../808/6747808.xml">
-gNewSense</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../116/14014116.xml">
+gOS</link> ·  <link xlink:type="simple" xlink:href="../808/6747808.xml">
+gNewSense</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../837/345837.xml">
 Gnoppix</link></O>
-&nbsp;·   <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·   <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../157/658157.xml">
 Guadalinex</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../488/387488.xml">
 Impi Linux</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../251/8577251.xml">
 Linux Mint</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../827/6225827.xml">
-Molinux</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../827/6225827.xml">
+Molinux</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../962/11635962.xml">
 Mythbuntu</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../282/3065282.xml">
-Nexenta OS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../408/3588408.xml">
-nUbuntu</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../282/3065282.xml">
+Nexenta OS</link> ·  <link xlink:type="simple" xlink:href="../408/3588408.xml">
+nUbuntu</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../790/1908790.xml">
 Symphony OS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../495/19287495.xml">
-TurnKey Linux</link>&nbsp;·  <link xlink:type="simple" xlink:href="../150/12096150.xml">
+ ·  <link xlink:type="simple" xlink:href="../495/19287495.xml">
+TurnKey Linux</link> ·  <link xlink:type="simple" xlink:href="../150/12096150.xml">
 more…</link></col>
 </row>
 <row style="height:2px">
@@ -637,9 +637,9 @@ Software and support</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../915/522915.xml">
 OpenCD</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../347/6707347.xml">
-Upstart</link>&nbsp;·  <link xlink:type="simple" xlink:href="../457/5966457.xml">
-Bazaar</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../347/6707347.xml">
+Upstart</link> ·  <link xlink:type="simple" xlink:href="../457/5966457.xml">
+Bazaar</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -652,15 +652,15 @@ Launchpad</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../849/9612849.xml">
-Medibuntu</link>&nbsp;·  <qualification wordnetid="104717139" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../849/9612849.xml">
+Medibuntu</link> ·  <qualification wordnetid="104717139" confidence="0.8">
 <fitness wordnetid="104716864" confidence="0.8">
 <suitability wordnetid="104715487" confidence="0.8">
 <link xlink:type="simple" xlink:href="../862/12333862.xml">
 Ubuntu Certified Professional</link></suitability>
 </fitness>
 </qualification>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">

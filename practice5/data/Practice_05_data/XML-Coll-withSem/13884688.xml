@@ -104,7 +104,7 @@ North</col>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -129,7 +129,7 @@ Ed Warinner</col>
 </row>
 <row>
 <header>
-Offensive&nbsp;scheme</header>
+Offensive scheme</header>
 <col style="vertical-align:middle;">
 Multiple</col>
 </row>
@@ -141,13 +141,13 @@ Bill Young, Clint Bowen</col>
 </row>
 <row>
 <header>
-Base&nbsp;defense</header>
+Base defense</header>
 <col style="vertical-align:middle;">
 4-3</col>
 </row>
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -167,11 +167,11 @@ Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../267/14410267.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../267/14410267.xml">
 2006</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../694/14982694.xml">
-2008</link>&nbsp;&amp;raquo;</col>
+2008</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -443,7 +443,7 @@ Lawrence, KS</link></village>
 </col>
 
 <col>
-<b>W</b>&nbsp;52-7&nbsp;</col>
+<b>W</b> 52-7 </col>
 <col align="center">
 46,815</col>
 </row>
@@ -462,7 +462,7 @@ Southeastern Louisiana</link></university>
 Memorial Stadium • Lawrence, KS</col>
 
 <col>
-<b>W</b>&nbsp;62-0&nbsp;</col>
+<b>W</b> 62-0 </col>
 <col align="center">
 43,914</col>
 </row>
@@ -481,7 +481,7 @@ Toledo</link></university>
 Memorial Stadium • Lawrence, KS</col>
 
 <col>
-<b>W</b>&nbsp;45-13&nbsp;</col>
+<b>W</b> 45-13 </col>
 <col align="center">
 48,112</col>
 </row>
@@ -500,7 +500,7 @@ Florida International</link></university>
 Memorial Stadium • Lawrence, KS</col>
 
 <col>
-<b>W</b>&nbsp;55-3&nbsp;</col>
+<b>W</b> 55-3 </col>
 <col align="center">
 42,134</col>
 </row>
@@ -510,7 +510,7 @@ Memorial Stadium • Lawrence, KS</col>
 <col>
 11:00 a.m.</col>
 <col>
- at&nbsp;<university wordnetid="108286163" confidence="0.9508927676800064">
+ at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../855/16855.xml">
 Kansas State</link></university>
 </col>
@@ -529,7 +529,7 @@ Manhattan, KS</link></village>
 FSN Midwest</link></channel>
 </col>
 <col>
-<b>W</b>&nbsp;30-24&nbsp;</col>
+<b>W</b> 30-24 </col>
 <col align="center">
 50,924</col>
 </row>
@@ -553,7 +553,7 @@ Memorial Stadium • Lawrence, KS</col>
 FCS Central</link></network>
 </col>
 <col>
-<b>W</b>&nbsp;58-10&nbsp;</col>
+<b>W</b> 58-10 </col>
 <col align="center">
 43,556</col>
 </row>
@@ -563,7 +563,7 @@ FCS Central</link></network>
 <col>
 4:30 p.m.</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../735/9733735.xml">
+ at <link xlink:type="simple" xlink:href="../735/9733735.xml">
 Colorado</link></col>
 <col align="center">
 &#35;15</col>
@@ -587,7 +587,7 @@ Boulder, CO</link></col>
 ESPN</link></channel>
 </col>
 <col>
-<b>W</b>&nbsp;19-14&nbsp;</col>
+<b>W</b> 19-14 </col>
 <col align="center">
 51,940</col>
 </row>
@@ -597,7 +597,7 @@ ESPN</link></channel>
 <col>
 6:00 p.m.</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../538/13169538.xml">
+ at <link xlink:type="simple" xlink:href="../538/13169538.xml">
 Texas A&amp;M</link></col>
 <col align="center">
 &#35;10</col>
@@ -623,7 +623,7 @@ College Station, TX</link></village>
 ESPN2</link></channel>
 </col>
 <col>
-<b>W</b>&nbsp;19-11&nbsp;</col>
+<b>W</b> 19-11 </col>
 <col align="center">
 85,341</col>
 </row>
@@ -645,7 +645,7 @@ Memorial Stadium • Lawrence, KS</col>
 FSN</link></channel>
 </col>
 <col>
-<b>W</b>&nbsp;76-39&nbsp;</col>
+<b>W</b> 76-39 </col>
 <col align="center">
 51,910</col>
 </row>
@@ -655,7 +655,7 @@ FSN</link></channel>
 <col>
 7:00 p.m.</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../078/323078.xml">
+ at <link xlink:type="simple" xlink:href="../078/323078.xml">
 Oklahoma State</link></col>
 <col align="center">
 &#35;5</col>
@@ -701,7 +701,7 @@ ABC</link></activity>
 </structure>
 </col>
 <col>
-<b>W</b>&nbsp;43-28&nbsp;</col>
+<b>W</b> 43-28 </col>
 <col align="center">
 39,848</col>
 </row>
@@ -720,7 +720,7 @@ Memorial Stadium • Lawrence, KS</col>
 <col>
 ABC</col>
 <col>
-<b>W</b>&nbsp;45-7&nbsp;</col>
+<b>W</b> 45-7 </col>
 <col align="center">
 51,050</col>
 </row>
@@ -730,7 +730,7 @@ ABC</col>
 <col>
 7:00 p.m.</col>
 <col>
- vs.&nbsp;&#35;4&nbsp;<link xlink:type="simple" xlink:href="../088/13237088.xml">
+ vs. &#35;4 <link xlink:type="simple" xlink:href="../088/13237088.xml">
 Missouri</link></col>
 <col align="center">
 &#35;2</col>
@@ -754,7 +754,7 @@ Border Showdown</link>)</col>
 <col>
 ABC</col>
 <col>
-<b>L</b>&nbsp;36-28&nbsp;</col>
+<b>L</b> 36-28 </col>
 <col align="center">
 80,537</col>
 </row>
@@ -768,7 +768,7 @@ Postseason</header>
 <col>
 7:15 p.m.</col>
 <col>
- vs.&nbsp;&#35;5&nbsp;<link xlink:type="simple" xlink:href="../424/10173424.xml">
+ vs. &#35;5 <link xlink:type="simple" xlink:href="../424/10173424.xml">
 Virginia Tech</link></col>
 <col align="center">
 &#35;8</col>
@@ -829,7 +829,7 @@ FOX</link></activity>
 </military_unit>
 </col>
 <col>
-<b>W</b>&nbsp;24-21&nbsp;</col>
+<b>W</b> 24-21 </col>
 <col align="center">
 74,111 <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref></col>
 </row>
@@ -977,7 +977,7 @@ Game notes</st>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -1246,7 +1246,7 @@ Toledo Rockets</link> in the third week of the <link xlink:type="simple" xlink:h
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -1359,7 +1359,7 @@ Northwestern State Demons</link></university>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -1477,7 +1477,7 @@ Toledo</link></village>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -1592,7 +1592,7 @@ Mario Cristobal</link></trainer>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -1665,7 +1665,7 @@ Kansas State</st>
 Todd Reesing led the Jayhawks to victory in Manhattan for the first time in eighteen years. Aqib Talib sealed the game by picking off Josh Freeman's pass with less than two minutes left in the game.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></p>
 <p>
 
-The Jayhawks got their first touchdown on Kansas State's home field since 1999 when Jake Sharp, apparently stopped for a short gain, burst out of a gang of tacklers and sped 20&nbsp;yards to make it 7-7 with 9:11 left in the first half. Sharp had picked up 14&nbsp;yards the previous play.</p>
+The Jayhawks got their first touchdown on Kansas State's home field since 1999 when Jake Sharp, apparently stopped for a short gain, burst out of a gang of tacklers and sped 20 yards to make it 7-7 with 9:11 left in the first half. Sharp had picked up 14 yards the previous play.</p>
 <p>
 
 The victory was KU's third in the last four <link xlink:type="simple" xlink:href="../605/3248605.xml">
@@ -1695,7 +1695,7 @@ Sunflower Showdown</link></competition>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -1772,8 +1772,8 @@ CST</link><b>Elapsed time:</b> 3:48<b>Game attendance:</b> 43,556<b>Game weather
 Baylor</st>
 <p>
 
-Lightning delayed the start of the game 2&nbsp;hours.
-Reesing passed for 186&nbsp;yards as the Jayhawks were 6-0 for the first time since 1995.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref></p>
+Lightning delayed the start of the game 2 hours.
+Reesing passed for 186 yards as the Jayhawks were 6-0 for the first time since 1995.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref></p>
 
 
 
@@ -1788,7 +1788,7 @@ Reesing passed for 186&nbsp;yards as the Jayhawks were 6-0 for the first time si
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -1881,7 +1881,7 @@ Colorado</st>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -2010,11 +2010,11 @@ BCS standings</link></group>
 <p>
 
 In the game, KU <link xlink:type="simple" xlink:href="../079/295079.xml">
-running back</link> Brandon McAnderson rushed for a career-high of 183&nbsp;yards, and quarterback Todd Reesing completed 21 of 33 passes for 180&nbsp;yards. Through the first three quarters, the Jayhawks <link xlink:type="simple" xlink:href="../346/313346.xml">
-shutout</link> the Aggies' 5th-ranked rushing offense and held them to only 56&nbsp;yards. A&amp;M running back <athlete wordnetid="109820263" confidence="0.9508927676800064">
+running back</link> Brandon McAnderson rushed for a career-high of 183 yards, and quarterback Todd Reesing completed 21 of 33 passes for 180 yards. Through the first three quarters, the Jayhawks <link xlink:type="simple" xlink:href="../346/313346.xml">
+shutout</link> the Aggies' 5th-ranked rushing offense and held them to only 56 yards. A&amp;M running back <athlete wordnetid="109820263" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/10433784.xml">
 Jorvorskie Lane</link></athlete>
- had only rushed for 24&nbsp;yards the entire game. KU gained a 13–0 lead in the third quarter, after kicker Scott Webb kicked two field goals and Reesing led his team to a 54-yard touchdown drive on 6 plays. In the fourth quarter, Reesing led his team to a 43-yard touchdown drive on  4 plays.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref>  </p>
+ had only rushed for 24 yards the entire game. KU gained a 13–0 lead in the third quarter, after kicker Scott Webb kicked two field goals and Reesing led his team to a 54-yard touchdown drive on 6 plays. In the fourth quarter, Reesing led his team to a 43-yard touchdown drive on  4 plays.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref>  </p>
 <p>
 
 For the first time since <link xlink:type="simple" xlink:href="../273/189273.xml">
@@ -2033,7 +2033,7 @@ For the first time since <link xlink:type="simple" xlink:href="../273/189273.xml
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -2115,7 +2115,7 @@ Nebraska</st>
 2007 Nebraska Cornhuskers football team</link></it>
 </indent>
 
-The Nebraska-Kansas series is the longest uninterrupted series in college football at 102&nbsp;years.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2214%22])">14</ref>   In the 2007&nbsp;meeting, Kansas beat Nebraska 76-39.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref>   The Jayhawks set an all-time record for most touchdowns and most points scored by a Nebraska opponent.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref>  Their 48&nbsp;points in the first half was the most ever scored against Nebraska in the first half; and it came one point short of tying the record for most points scored on Nebraska in a half.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2216%22])">16</ref>  With the win, Kansas took their record to 9&ndash;0 for the first&nbsp;time since 1908.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref>   </p>
+The Nebraska-Kansas series is the longest uninterrupted series in college football at 102 years.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2214%22])">14</ref>   In the 2007 meeting, Kansas beat Nebraska 76-39.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref>   The Jayhawks set an all-time record for most touchdowns and most points scored by a Nebraska opponent.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref>  Their 48 points in the first half was the most ever scored against Nebraska in the first half; and it came one point short of tying the record for most points scored on Nebraska in a half.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2216%22])">16</ref>  With the win, Kansas took their record to 9–0 for the first time since 1908.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref>   </p>
 <p>
 
 <link xlink:type="simple" xlink:href="../539/1699539.xml">
@@ -2134,7 +2134,7 @@ Fox Sports</link> reported, "It was only the second victory for Kansas in the la
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -2213,7 +2213,7 @@ Oklahoma State</st>
 The Kansas Jayhawks game against the Oklahoma State Cowboys attracted a great deal of attention. This was due to the match up between both potent offenses. The crucial match up was that between cornerback Aqib Talib and star Cowboy wideout <player wordnetid="110439851" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../891/12198891.xml">
 Adarius Bowman</link></player>
-. In the 2006 matchup between the two, Bowman had 13 catches for 300&nbsp;yards <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2218%22])">18</ref>. However Bowman left the game injured. The game was broadcast to 63 percent of the nation on ABC as the top primetime college football game of the week <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2219%22])">19</ref>.</p>
+. In the 2006 matchup between the two, Bowman had 13 catches for 300 yards <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2218%22])">18</ref>. However Bowman left the game injured. The game was broadcast to 63 percent of the nation on ABC as the top primetime college football game of the week <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2219%22])">19</ref>.</p>
 <p>
 
 The Jayhawks went to 10-0 for the first time since 1899.</p>
@@ -2231,7 +2231,7 @@ The Jayhawks went to 10-0 for the first time since 1899.</p>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -2328,7 +2328,7 @@ Sports Illustrated</link></magazine>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -2701,7 +2701,7 @@ Columbia, Missouri</link></village>
 <table style="text-align:center; float:right; margin-top:0; margin-right:0;" align="right" class="wikitable">
 <row>
 <header>
-by&nbsp;Quarter</header>
+by Quarter</header>
 <header width="20">
 1</header>
 <header width="20">
@@ -3294,7 +3294,7 @@ Scoring</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Points per Game</col>
+  Points per Game</col>
 <col>
 44.3</col>
 <col>
@@ -3310,7 +3310,7 @@ First Downs</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Rushing</col>
+  Rushing</col>
 <col>
 129</col>
 <col>
@@ -3318,7 +3318,7 @@ First Downs</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Passing</col>
+  Passing</col>
 <col>
 157</col>
 <col>
@@ -3326,7 +3326,7 @@ First Downs</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Penalty</col>
+  Penalty</col>
 <col>
 21</col>
 <col>
@@ -3342,7 +3342,7 @@ Total Offense</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Play</col>
+  Avg per Play</col>
 <col>
 6.4</col>
 <col>
@@ -3350,7 +3350,7 @@ Total Offense</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Game</col>
+  Avg per Game</col>
 <col>
 491.1</col>
 <col>
@@ -3374,7 +3374,7 @@ Penalties-Yards</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Game</col>
+  Avg per Game</col>
 <col>
 4.0-36.5</col>
 <col>
@@ -3398,7 +3398,7 @@ Punts-Yards</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Punt</col>
+  Avg per Punt</col>
 <col>
 36.9</col>
 
@@ -3458,14 +3458,14 @@ Total Attendance (Games)</col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Game</col>
+  Avg per Game</col>
 <col>
 46,784</col>
 
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Neutral Site</col>
+  Neutral Site</col>
 <col>
 80,537 (1)</col>
 
@@ -3509,7 +3509,7 @@ MU won, but KU still shows off trophy</weblink></entry>
 <entry id="2">
 "<weblink xlink:type="simple" xlink:href="http://www.cjonline.com/stories/120707/haw_223529744.shtml">
 Mangino receives coach of the year honor</weblink>", <it>The Topeka Capital-Journal</it>, CJOnline.com&#32;(2007-12-07).&#32;Retrieved on <link>
-2008-09-06</link>.&nbsp;</entry>
+2008-09-06</link>. </entry>
 <entry id="3">
 <weblink xlink:type="simple" xlink:href="http://scores.espn.go.com/ncf/boxscore?gameId=280030259">
 ESPN - Kansas Jayhawks vs. Virginia Tech Hokies Box Score, January 3 2008 - NCAA College Football</weblink></entry>
@@ -3522,7 +3522,7 @@ ESPN Baylor @ KU</weblink></entry>
 <entry id="6">
 "<weblink xlink:type="simple" xlink:href="http://www.aggieathletics.com/pressRelease.php?SID=&amp;PRID=13482">
 GAME 9: Kansas (7-0) at Texas A&amp;M (6-2)</weblink>", Texas A&amp;M Athletics&#32;(2007-10-23).&#32;Retrieved on <link>
-2007-10-23</link>.&nbsp;</entry>
+2007-10-23</link>. </entry>
 <entry id="7">
 "<weblink xlink:type="simple" xlink:href="http://www.aggieathletics.com/sports/football/history/opp/kansas.html">
 All-Time Football Scores: Kansas</weblink>".&#32;  Texas A&amp;M University Athletic Department.&#32;Retrieved on <link>
@@ -3547,31 +3547,31 @@ TEAM RANKINGS: TEXAS A&amp;M</weblink>".&#32;  NCAA&#32;(2007-10-20).&#32;Retrie
 <entry id="12">
 Associated Press&#32;(2007-10-28).&#32;"<weblink xlink:type="simple" xlink:href="http://sports.espn.go.com/ncf/recap?gameId=273000245">
 McAnderson's 183 rushing yards lead Jayhawks to historic win</weblink>", ESPN.&#32;Retrieved on <link>
-2007-10-28</link>.&nbsp;</entry>
+2007-10-28</link>. </entry>
 <entry id="13">
 "<weblink xlink:type="simple" xlink:href="http://sports.espn.go.com/ncf/preview?gameId=273072305">
 Nebraska 39, (8) Kansas 36</weblink>", <it>ESPN.com</it>, The Disney Company&#32;(<link xlink:type="simple" xlink:href="../764/21764.xml">
 November 3</link><link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>).&#32;Retrieved on <link>
-2007-11-03</link>.&nbsp;</entry>
+2007-11-03</link>. </entry>
 <entry id="14">
 "<weblink xlink:type="simple" xlink:href="http://www.huskers.com/ViewArticle.dbml?DB_OEM_ID=100&amp;ATCLID=1291583">
 Huskers Set for Road Trip to Face Undefeated Kansas</weblink>", <it>Huskers.com</it>, University of Nebraska&#32;(2007).&#32;Retrieved on <link>
-2007-11-03</link>.&nbsp;</entry>
+2007-11-03</link>. </entry>
 <entry id="15">
 "<weblink xlink:type="simple" xlink:href="http://www.huskers.com//pdf1/78902.pdf?SPSID=7&amp;SPID=22&amp;DB_OEM_ID=100">
 Opponent Records</weblink>"&#32;(PDF), <it>Huskers.com</it>, University of Nebraska.&#32;Retrieved on <link>
-2007-11-03</link>.&nbsp;</entry>
+2007-11-03</link>. </entry>
 <entry id="17">
 "<weblink xlink:type="simple" xlink:href="http://msn.foxsports.com/cfb/story/7405050">
 Nebraska sets school record in loss</weblink>", <it>FoxSports.com</it>, Fox Broadcasting Company&#32;(<link xlink:type="simple" xlink:href="../764/21764.xml">
 November 3</link><link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>).&#32;Retrieved on <link>
-2007-11-03</link>.&nbsp;</entry>
+2007-11-03</link>. </entry>
 <entry id="16">
 "<weblink xlink:type="simple" xlink:href="http://firebillcallahan.blogspot.com/">
 Fire Bill Callahan</weblink>", <it>Blogspot.com</it>.&#32;Retrieved on <link>
-2007-11-03</link>.&nbsp;</entry>
+2007-11-03</link>. </entry>
 <entry id="19">
 <weblink xlink:type="simple" xlink:href="http://assets.espn.go.com/espntv/topics/coveragemaps/111007abc8pm.jpg">
 ABC Coverage Map 11/10</weblink> </entry>
@@ -3580,22 +3580,22 @@ Andrea Cohen&#32;(<link xlink:type="simple" xlink:href="../667/21667.xml">
 November 7</link><link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://newsok.com/article/3166031/">
 Kansas keeping an eye on Adarius this time</weblink>", Daily Oklahoman.&#32;Retrieved on <link>
-2007-11-09</link>.&nbsp;</entry>
+2007-11-09</link>. </entry>
 <entry id="21">
 "<weblink xlink:type="simple" xlink:href="http://www.big12sports.com/sports/m-footbl/spec-rel/112507aaa.html">
 Tigers Down Jayhawks 36-28 to Win Big 12 North</weblink>", AP&#32;(2007-11-25).&#32;Retrieved on <link>
-2007-11-28</link>.&nbsp;</entry>
+2007-11-28</link>. </entry>
 <entry id="20">
 <weblink xlink:type="simple" xlink:href="http://vault.sportsillustrated.cnn.com/vault/cover/featured/10874/index.htm">
 Kerry Meier, Football, Jayhawks - 11.26.07 - SI Vault</weblink></entry>
 <entry id="23">
 "<weblink xlink:type="simple" xlink:href="http://kuathletics.cstv.com/sports/m-footbl/spec-rel/111807aab.html">
 Kansas Football Moves To Second In Major Polls</weblink>", KUAthletics.com&#32;(2007-11-18).&#32;Retrieved on <link>
-2007-11-18</link>.&nbsp;</entry>
+2007-11-18</link>. </entry>
 <entry id="22">
 "<weblink xlink:type="simple" xlink:href="http://kuathletics.cstv.com/sports/m-footbl/spec-rel/071907aaa.html">
 Kansas Football Picked To Finish Fourth In North By Big 12 Media</weblink>", KUAthletics.com&#32;(2007-07-19).&#32;Retrieved on <link>
-2007-11-18</link>.&nbsp;</entry>
+2007-11-18</link>. </entry>
 </reflist>
 </p>
 <p>

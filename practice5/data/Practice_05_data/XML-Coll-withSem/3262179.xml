@@ -103,7 +103,7 @@ There are many lines of objection to Cobham's thesis. The thesis essentially sta
 <p>
 
 All three are related, and are general complaints about <link xlink:type="simple" xlink:href="../ury/23rd_century.xml">
-analysis of algorithms</link>, but they particularly apply to Cobham's thesis since it makes an explicit claim about practicality.  Under Cobham's thesis, we are to call a problem for which the best algorithm takes 10100n instructions feasible, and a problem with an algorithm that takes 20.00001 n infeasible&mdash;even though we could never solve an instance of size n=1 with the former algorithm, whereas we could solve instance of the latter problem that have size n=106 without difficulty.  As we saw, it takes a day on a typical modern machine to process 2n operations when n=46; this may be the size of inputs we have, and the amount of time we have to solve a typical problem, making the 2n-time algorithm feasible in practice on the inputs we have.</p>
+analysis of algorithms</link>, but they particularly apply to Cobham's thesis since it makes an explicit claim about practicality.  Under Cobham's thesis, we are to call a problem for which the best algorithm takes 10100n instructions feasible, and a problem with an algorithm that takes 20.00001 n infeasible—even though we could never solve an instance of size n=1 with the former algorithm, whereas we could solve instance of the latter problem that have size n=106 without difficulty.  As we saw, it takes a day on a typical modern machine to process 2n operations when n=46; this may be the size of inputs we have, and the amount of time we have to solve a typical problem, making the 2n-time algorithm feasible in practice on the inputs we have.</p>
 <p>
 
 The typical response to this objection is that in general, algorithms for computational problems that naturally occur in computer science and in other fields have neither enormous nor minuscule constants and exponents.  Even when a polynomial-time algorithm has a large exponent, historically, other algorithms are subsequently developed that improve the exponent.  Also, typically, when computers are finally able to solve problems of size n fast enough, users of computers ask them to solve problems of size n+1.  These are all subjective statements.</p>
@@ -168,9 +168,9 @@ References</st>
 <reflist>
 <entry id="1">
  <cite style="font-style:normal" class="book">Steven Homer and Alan L. Selman&#32;(1992).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cse.buffalo.edu/tech-reports/91-04.ps">
-Complexity Theory</weblink>",&#32;in Alan Kent and James G. Williams: Encyclopedia of Computer Science and Technology&#32;<b>26</b>.&#32;CRC Press.</cite>&nbsp;</entry>
+Complexity Theory</weblink>",&#32;in Alan Kent and James G. Williams: Encyclopedia of Computer Science and Technology&#32;<b>26</b>.&#32;CRC Press.</cite> </entry>
 <entry id="2">
- <cite style="font-style:normal" class="book">Alan Cobham&#32;(1965).&#32;"The intrinsic computational difficulty of functions", Proc. Logic, Methodology, and Philosophy of Science II.&#32;North Holland.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Alan Cobham&#32;(1965).&#32;"The intrinsic computational difficulty of functions", Proc. Logic, Methodology, and Philosophy of Science II.&#32;North Holland.</cite> </entry>
 </reflist>
 
 <list>

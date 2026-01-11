@@ -619,12 +619,12 @@ Plasticizers</link>: <link xlink:type="simple" xlink:href="../552/343552.xml">
 Phthalate</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../420/4953420.xml">
-DIBP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../751/6888751.xml">
-DBP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../126/3007126.xml">
-BBP</link> aka BBzP&nbsp;·  <link xlink:type="simple" xlink:href="../614/3003614.xml">
-DEHP</link> aka DOP&nbsp;·  <link>
-DIDP</link>&nbsp;·  <link>
-DINP</link>&nbsp;·  <link>
+DIBP</link> ·  <link xlink:type="simple" xlink:href="../751/6888751.xml">
+DBP</link> ·  <link xlink:type="simple" xlink:href="../126/3007126.xml">
+BBP</link> aka BBzP ·  <link xlink:type="simple" xlink:href="../614/3003614.xml">
+DEHP</link> aka DOP ·  <link>
+DIDP</link> ·  <link>
+DINP</link> ·  <link>
 DIDP</link></col>
 </row>
 <row style="height:2px">
@@ -635,7 +635,7 @@ DIDP</link></col>
 Other plasticizers</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../629/959629.xml">
-Organophosphates</link>&nbsp;·  <ion wordnetid="109315159" confidence="0.8">
+Organophosphates</link> ·  <ion wordnetid="109315159" confidence="0.8">
 <particle wordnetid="109386422" confidence="0.8">
 <body wordnetid="109224911" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
@@ -647,7 +647,7 @@ Adipate</link></anion>
 </particle>
 </ion>
 -based (<link xlink:type="simple" xlink:href="../279/3151279.xml">
-DEHA</link>&nbsp;·  <link xlink:type="simple" xlink:href="../562/3000562.xml">
+DEHA</link> ·  <link xlink:type="simple" xlink:href="../562/3000562.xml">
 DOA</link>)</col>
 </row>
 <row style="height:2px">
@@ -687,8 +687,8 @@ PBDEs</link></material>
 </waste>
 </physical_entity>
 </retardant>
-&nbsp;·  <link xlink:type="simple" xlink:href="../230/48230.xml">
-PCBs</link>&nbsp;·  <waste wordnetid="114856263" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../230/48230.xml">
+PCBs</link> ·  <waste wordnetid="114856263" confidence="0.8">
 <substance wordnetid="100019613" confidence="0.8">
 <compound wordnetid="105870180" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
@@ -712,10 +712,10 @@ s</col>
 Health issues</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../011/223011.xml">
-Teratogen</link>&nbsp;·  <link xlink:type="simple" xlink:href="../445/6445.xml">
-Carcinogen</link>&nbsp;·  <link xlink:type="simple" xlink:href="../152/903152.xml">
-Endocrine disruptor</link>&nbsp;·  <link xlink:type="simple" xlink:href="../677/44677.xml">
-Diabetes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../435/56435.xml">
+Teratogen</link> ·  <link xlink:type="simple" xlink:href="../445/6445.xml">
+Carcinogen</link> ·  <link xlink:type="simple" xlink:href="../152/903152.xml">
+Endocrine disruptor</link> ·  <link xlink:type="simple" xlink:href="../677/44677.xml">
+Diabetes</link> ·  <link xlink:type="simple" xlink:href="../435/56435.xml">
 Obesity</link></col>
 </row>
 <row style="height:2px">
@@ -726,12 +726,12 @@ Obesity</link></col>
 Miscellaneous</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../458/24458.xml">
-PVC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../119/1999119.xml">
-Plastic recycling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../796/11614796.xml">
-Plastic bottle</link>&nbsp;·  <link xlink:type="simple" xlink:href="../888/301888.xml">
-Vinyl chloride</link>&nbsp;·  <link xlink:type="simple" xlink:href="../142/13932142.xml">
-dioxin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../393/168393.xml">
-polystyrene</link>&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+PVC</link> ·  <link xlink:type="simple" xlink:href="../119/1999119.xml">
+Plastic recycling</link> ·  <link xlink:type="simple" xlink:href="../796/11614796.xml">
+Plastic bottle</link> ·  <link xlink:type="simple" xlink:href="../888/301888.xml">
+Vinyl chloride</link> ·  <link xlink:type="simple" xlink:href="../142/13932142.xml">
+dioxin</link> ·  <link xlink:type="simple" xlink:href="../393/168393.xml">
+polystyrene</link> ·  <substance wordnetid="100019613" confidence="0.8">
 <polymer wordnetid="114994328" confidence="0.8">
 <compound wordnetid="114818238" confidence="0.8">
 <chemical wordnetid="114806838" confidence="0.8">
@@ -744,8 +744,8 @@ Styrofoam</link></material>
 </compound>
 </polymer>
 </substance>
-&nbsp;·  <link xlink:type="simple" xlink:href="../791/30791.xml">
-PTFE</link> (Teflon)&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../791/30791.xml">
+PTFE</link> (Teflon) ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <group_action wordnetid="101080366" confidence="0.8">
 <vote wordnetid="100182213" confidence="0.8">
@@ -764,8 +764,8 @@ California Proposition 65 (1986)</link></psychological_feature>
 </group_action>
 </message>
 </statement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../347/154347.xml">
-List of environmental health hazards</link>&nbsp;·  <process wordnetid="100029677" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../347/154347.xml">
+List of environmental health hazards</link> ·  <process wordnetid="100029677" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <phenomenon wordnetid="100034213" confidence="0.8">
 <issue wordnetid="105814650" confidence="0.8">

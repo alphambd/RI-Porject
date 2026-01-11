@@ -642,7 +642,7 @@ Comparison of numerical analysis software</link></entry>
 <entry id="1">
  <cite style="font-style:normal" class="book">Kurt Hornik. <weblink xlink:type="simple" xlink:href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#Why-is-R-named-R_003f">
 The R FAQ: Why is R named R?</weblink>. ISBN 3-900051-08-9. Retrieved on <link>
-2008-01-29</link>.</cite>&nbsp;</entry>
+2008-01-29</link>.</cite> </entry>
 <entry id="2">
 Fox, John and Andersen, Robert&#32;(January 2005).&#32;"<it><weblink xlink:type="simple" xlink:href="http://www.unt.edu/rss/Teaching-with-R.pdf">
 Using the R Statistical Computing Environment to Teach Social Statistics Courses</weblink></it>"&#32;(<link xlink:type="simple" xlink:href="../077/24077.xml">
@@ -653,7 +653,7 @@ PDF</link>). &#32;Department of Sociology, McMaster University.&#32;Retrieved on
 R For the Political Methodologist</weblink>"&#32;(<link xlink:type="simple" xlink:href="../077/24077.xml">
 PDF</link>). <it>The Political Methodologist</it>&#32;<b>11</b>&#32;(1): 20–22.&#32;Political Methodology Section, <link xlink:type="simple" xlink:href="../211/1329211.xml">
 American Political Science Association</link>. Retrieved on <link>
-2006-08-03</link>.</cite>&nbsp;</entry>
+2006-08-03</link>.</cite> </entry>
 <entry id="4">
 "<weblink xlink:type="simple" xlink:href="http://www.sciviews.org/benchmark">
 Speed comparison of various number crunching packages (version 2)</weblink>".&#32;  SciView.&#32;Retrieved on <link>
@@ -734,22 +734,22 @@ CRAN: R News</weblink></entry>
 <list>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Crawley-2002" style="font-style:normal" class="book">Crawley, M.J.&#32;(2002). Statistical Computing.&#32;John Wiley, New York.</cite>&nbsp;</entry>
+ <cite id="Reference-Crawley-2002" style="font-style:normal" class="book">Crawley, M.J.&#32;(2002). Statistical Computing.&#32;John Wiley, New York.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Crawley-2005" style="font-style:normal" class="book">Crawley, M.J.&#32;(2005). Statistics: An Introduction Using R.&#32;John Wiley, New York.</cite>&nbsp;</entry>
+ <cite id="Reference-Crawley-2005" style="font-style:normal" class="book">Crawley, M.J.&#32;(2005). Statistics: An Introduction Using R.&#32;John Wiley, New York.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Crawley-2007" style="font-style:normal" class="book">Crawley, M.J.&#32;(2007). The R Book.&#32;John Wiley, New York. ISBN 978-0-470-51024-7.</cite>&nbsp;</entry>
+ <cite id="Reference-Crawley-2007" style="font-style:normal" class="book">Crawley, M.J.&#32;(2007). The R Book.&#32;John Wiley, New York. ISBN 978-0-470-51024-7.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Everitt, B. S. and Hothorn, T.&#32;(2006). A Handbook of Statistical Analyses Using R.&#32;Chapman &amp; Hall/CRC.</cite>&nbsp; </entry>
+ <cite style="font-style:normal" class="book">Everitt, B. S. and Hothorn, T.&#32;(2006). A Handbook of Statistical Analyses Using R.&#32;Chapman &amp; Hall/CRC.</cite>  </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Faraway, J. J.&#32;(2004). Linear Models with R.&#32;Chapman &amp; Hall/CRC.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Faraway, J. J.&#32;(2004). Linear Models with R.&#32;Chapman &amp; Hall/CRC.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Faraway, J. J.&#32;(2005). Extending the Linear Model with R: Generalized Linear, Mixed Effects and Nonparametric Regression Models.&#32;Chapman &amp; Hall/CRC.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Faraway, J. J.&#32;(2005). Extending the Linear Model with R: Generalized Linear, Mixed Effects and Nonparametric Regression Models.&#32;Chapman &amp; Hall/CRC.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ihaka, R.; Gentleman, R.&#32;(1996).&#32;"R: A language for data analysis and graphics". <it>Journal of Computational and Graphical Statistics</it>&#32;<b>5</b>&#32;(3): 299–314. <document wordnetid="106470073" confidence="0.8">
@@ -760,19 +760,19 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F1390807">
-10.2307/1390807</weblink>.</cite>&nbsp;</entry>
+10.2307/1390807</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Maindonald, J. and Braun, W. J.&#32;(2007). Data Analysis and Graphics Using R, second edition.&#32;Cambridge University Press.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Maindonald, J. and Braun, W. J.&#32;(2007). Data Analysis and Graphics Using R, second edition.&#32;Cambridge University Press.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Murrell, P.&#32;(2005). R Graphics.&#32;Chapman &amp; Hall/CRC.</cite>&nbsp; </entry>
+ <cite style="font-style:normal" class="book">Murrell, P.&#32;(2005). R Graphics.&#32;Chapman &amp; Hall/CRC.</cite>  </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Verzani, J.&#32;(2004). Using R for Introductory Statistics.&#32;Chapman &amp; Hall/CRC.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Verzani, J.&#32;(2004). Using R for Introductory Statistics.&#32;Chapman &amp; Hall/CRC.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Venables &amp; Ripley&#32;(2002). Modern Applied Statistics with SPlus.&#32;Springer.</cite>&nbsp; (See also <weblink xlink:type="simple" xlink:href="http://www.stats.ox.ac.uk/pub/MASS3/VR3R.pdf">
+ <cite style="font-style:normal" class="book">Venables &amp; Ripley&#32;(2002). Modern Applied Statistics with SPlus.&#32;Springer.</cite>  (See also <weblink xlink:type="simple" xlink:href="http://www.stats.ox.ac.uk/pub/MASS3/VR3R.pdf">
 ‘R’ Complements to Modern Applied Statistics with SPlus</weblink> by the same authors.)</entry>
 </list>
 </p>

@@ -95,7 +95,7 @@ Jacobi symbol</link> is a generalisation of the Legendre symbol to </p>
 <math>\left(\frac{a}{n}\right)</math>
 </indent>
 
-where <it>n</it> can be any odd integer.  The Jacobi symbol can be computed in time O((log&nbsp;<it>n</it>)²) using Jacobi's generalization of 
+where <it>n</it> can be any odd integer.  The Jacobi symbol can be computed in time O((log <it>n</it>)²) using Jacobi's generalization of 
 <link xlink:type="simple" xlink:href="../272/25272.xml">
 law of quadratic reciprocity</link>.</p>
 <p>
@@ -205,7 +205,7 @@ for <it>k</it> rounds of the test, applied to uniformly random <it>n</it> ≤ <i
 Complexity</st>
 <p>
 
-The Solovay&ndash;Strassen algorithm shows that the <link xlink:type="simple" xlink:href="../336/8336.xml">
+The Solovay–Strassen algorithm shows that the <link xlink:type="simple" xlink:href="../336/8336.xml">
 decision problem</link> <b>COMPOSITE</b> is in the <link xlink:type="simple" xlink:href="../426/502426.xml">
 complexity class</link>  <b><class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
@@ -232,7 +232,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2008231">
-10.2307/2008231</weblink>.</cite>&nbsp;</entry>
+10.2307/2008231</weblink>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">I. Damgård; P. Landrock, C. Pomerance&#32;(1993).&#32;"Average case error estimates for the strong probable prime test". <it>Mathematics of Computation</it>&#32;<b>61</b>&#32;(203): 177–194. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -242,9 +242,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2152945">
-10.2307/2152945</weblink>.</cite>&nbsp;</entry>
+10.2307/2152945</weblink>.</cite> </entry>
 <entry id="3">
- <cite style="font-style:normal" class="book">R. Motwani;&#32;P. Raghavan&#32;(1995). Randomized Algorithms.&#32;Cambridge University Press,&#32;417-423. ISBN 0-521-47465-5.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">R. Motwani;&#32;P. Raghavan&#32;(1995). Randomized Algorithms.&#32;Cambridge University Press,&#32;417-423. ISBN 0-521-47465-5.</cite> </entry>
 </reflist>
 
 <list>
@@ -258,7 +258,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137%2F0206006">
-10.1137/0206006</weblink>.</cite>&nbsp;</entry>
+10.1137/0206006</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Martin Dietzfelbinger, Primality Testing in Polynomial Time, From Randomized Algorithms to "PRIMES Is in P" (section 6), Series: Lecture Notes in Computer Science , Vol. 3000</entry>

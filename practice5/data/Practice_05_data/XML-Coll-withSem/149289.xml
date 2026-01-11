@@ -208,7 +208,7 @@ recurrence plot</link>.
 
 The dot-matrix approach, which implicitly produces a family of alignments for individual sequence regions, is qualitative and simple, though time-consuming to analyze on a large scale. It is very easy to visually identify certain sequence features—such as insertions, deletions, repeats, or <link xlink:type="simple" xlink:href="../132/65132.xml">
 inverted repeat</link>s—from a dot-matrix plot. To construct a dot-matrix plot, the two sequences are written along the top row and leftmost column of a two-dimensional <link xlink:type="simple" xlink:href="../728/19008728.xml">
-matrix</link> and a dot is placed at any point where the characters in the appropriate columns match&mdash;this is a typical <link xlink:type="simple" xlink:href="../120/546120.xml">
+matrix</link> and a dot is placed at any point where the characters in the appropriate columns match—this is a typical <link xlink:type="simple" xlink:href="../120/546120.xml">
 recurrence plot</link>. Some implementations vary the size or intensity of the dot depending on the degree of similarity of the two characters, to accommodate conservative substitutions. The dot plots of very closely related sequences will appear as a single line along the matrix's <link xlink:type="simple" xlink:href="../990/194990.xml">
 main diagonal</link>.</p>
 <p>
@@ -616,7 +616,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fnar%2F18.20.6097">
-10.1093/nar/18.20.6097</weblink>. PMID 2172928.</cite>&nbsp;</entry>
+10.1093/nar/18.20.6097</weblink>. PMID 2172928.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Brudno M, Malde S, Poliakov A, Do CB, Couronne O, Dubchak I, Batzoglou S&#32;(2003).&#32;"<weblink xlink:type="simple" xlink:href="http://bioinformatics.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=12855437">
 Glocal alignment: finding rearrangements during alignment</weblink>". <it>Bioinformatics</it>&#32;<b>19 Suppl 1</b>: i54–62. <document wordnetid="106470073" confidence="0.8">
@@ -627,11 +627,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2Fbtg1005">
-10.1093/bioinformatics/btg1005</weblink>. PMID 12855437.</cite>&nbsp;</entry>
+10.1093/bioinformatics/btg1005</weblink>. PMID 12855437.</cite> </entry>
 <entry id="3">
- <cite style="font-style:normal" class="book">Mount DM.&#32;(2004). Bioinformatics: Sequence and Genome Analysis 2nd ed..&#32;Cold Spring Harbor Laboratory Press: Cold Spring Harbor, NY.. ISBN 0-87969-608-7.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Mount DM.&#32;(2004). Bioinformatics: Sequence and Genome Analysis 2nd ed..&#32;Cold Spring Harbor Laboratory Press: Cold Spring Harbor, NY.. ISBN 0-87969-608-7.</cite> </entry>
 <entry id="4">
- <cite style="font-style:normal">Wang L, Jiang T.&#32;(1994).&#32;"On the complexity of multiple sequence alignment". <it>J Comput Biol</it>&#32;<b>1</b>: 337–48. PMID 8790475.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Wang L, Jiang T.&#32;(1994).&#32;"On the complexity of multiple sequence alignment". <it>J Comput Biol</it>&#32;<b>1</b>: 337–48. PMID 8790475.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Lipman DJ, Altschul SF, Kececioglu JD&#32;(1989).&#32;"<weblink xlink:type="simple" xlink:href="http://www.pnas.org/cgi/pmidlookup?view=long&amp;pmid=2734293">
 A tool for multiple sequence alignment</weblink>". <it>Proc Natl Acad Sci U S A</it>&#32;<b>86</b>: 4412–5. <document wordnetid="106470073" confidence="0.8">
@@ -642,7 +642,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.86.12.4412">
-10.1073/pnas.86.12.4412</weblink>. PMID 2734293.</cite>&nbsp;</entry>
+10.1073/pnas.86.12.4412</weblink>. PMID 2734293.</cite> </entry>
 <entry id="6">
  <cite style="font-style:normal">Higgins DG, Sharp PM&#32;(1988).&#32;"<weblink xlink:type="simple" xlink:href="http://linkinghub.elsevier.com/retrieve/pii/0378-1119(88)90330-7">
 CLUSTAL: a package for performing multiple sequence alignment on a microcomputer</weblink>". <it>Gene</it>&#32;<b>73</b>&#32;(1): 237–44. <document wordnetid="106470073" confidence="0.8">
@@ -653,7 +653,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2F0378-1119%2888%2990330-7">
-10.1016/0378-1119(88)90330-7</weblink>. PMID 3243435.</cite>&nbsp;</entry>
+10.1016/0378-1119(88)90330-7</weblink>. PMID 3243435.</cite> </entry>
 <entry id="7">
  <cite style="font-style:normal">Thompson JD, Higgins DG, Gibson TJ.&#32;(1994).&#32;"<weblink xlink:type="simple" xlink:href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&amp;pubmedid=7984417">
 CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice</weblink>". <it>Nucleic Acids Res</it>&#32;<b>22</b>: 4673–80. <document wordnetid="106470073" confidence="0.8">
@@ -664,7 +664,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fnar%2F22.22.4673">
-10.1093/nar/22.22.4673</weblink>. PMID 7984417.</cite>&nbsp;</entry>
+10.1093/nar/22.22.4673</weblink>. PMID 7984417.</cite> </entry>
 <entry id="8">
  <cite style="font-style:normal">Chenna R, Sugawara H, Koike T, Lopez R, Gibson TJ, Higgins DG, Thompson JD.&#32;(2003).&#32;"<weblink xlink:type="simple" xlink:href="http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=12824352">
 Multiple sequence alignment with the Clustal series of programs</weblink>". <it>Nucleic Acids Res</it>&#32;<b>31</b>: 3497–500. <document wordnetid="106470073" confidence="0.8">
@@ -675,7 +675,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fnar%2Fgkg500">
-10.1093/nar/gkg500</weblink>. PMID 12824352.</cite>&nbsp;</entry>
+10.1093/nar/gkg500</weblink>. PMID 12824352.</cite> </entry>
 <entry id="9">
  <cite style="font-style:normal">Notredame C, Higgins DG, Heringa J.&#32;(2000).&#32;"<weblink xlink:type="simple" xlink:href="http://linkinghub.elsevier.com/retrieve/pii/S0022-2836(00)94042-7">
 T-Coffee: A novel method for fast and accurate multiple sequence alignment</weblink>". <it>J Mol Biol</it>&#32;<b>302</b>&#32;(1): 205–17. <document wordnetid="106470073" confidence="0.8">
@@ -686,7 +686,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fjmbi.2000.4042">
-10.1006/jmbi.2000.4042</weblink>. PMID 10964570.</cite>&nbsp;</entry>
+10.1006/jmbi.2000.4042</weblink>. PMID 10964570.</cite> </entry>
 <entry id="10">
  <cite style="font-style:normal">Hirosawa M, Totoki Y, Hoshida M, Ishikawa M.&#32;(1995).&#32;"<weblink xlink:type="simple" xlink:href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/11/1/13">
 Comprehensive study on iterative algorithms of multiple sequence alignment</weblink>". <it>Comput Appl Biosci</it>&#32;<b>11</b>: 13–8. <document wordnetid="106470073" confidence="0.8">
@@ -697,7 +697,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2F11.1.13">
-10.1093/bioinformatics/11.1.13</weblink>. PMID 7796270.</cite>&nbsp;</entry>
+10.1093/bioinformatics/11.1.13</weblink>. PMID 7796270.</cite> </entry>
 <entry id="11">
  <cite style="font-style:normal">Karplus K, Barrett C, Hughey R.&#32;(1998).&#32;"<weblink xlink:type="simple" xlink:href="http://bioinformatics.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=9927713">
 Hidden Markov models for detecting remote protein homologies</weblink>". <it>Bioinformatics</it>&#32;<b>14</b>&#32;(10): 846–856. <document wordnetid="106470073" confidence="0.8">
@@ -708,10 +708,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2F14.10.846">
-10.1093/bioinformatics/14.10.846</weblink>. PMID 9927713.</cite>&nbsp;</entry>
+10.1093/bioinformatics/14.10.846</weblink>. PMID 9927713.</cite> </entry>
 <entry id="12">
  <cite style="font-style:normal">Chothia C, Lesk AM.&#32;(1986).&#32;"<weblink xlink:type="simple" xlink:href="http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&amp;pubmedid=3709526">
-The relation between the divergence of sequence and structure in proteins</weblink>". <it>EMBO J</it>&#32;<b>5</b>&#32;(4): 823–6. PMID 3709526.</cite>&nbsp;</entry>
+The relation between the divergence of sequence and structure in proteins</weblink>". <it>EMBO J</it>&#32;<b>5</b>&#32;(4): 823–6. PMID 3709526.</cite> </entry>
 <entry id="13">
  <cite style="font-style:normal">Zhang Y, Skolnick J.&#32;(2005).&#32;"<weblink xlink:type="simple" xlink:href="http://www.pnas.org/cgi/pmidlookup?view=long&amp;pmid=15653774">
 The protein structure prediction problem could be solved using the current PDB library</weblink>". <it>Proc Natl Acad Sci U S A</it>&#32;<b>102</b>: 1029–34. <document wordnetid="106470073" confidence="0.8">
@@ -722,7 +722,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.0407152101">
-10.1073/pnas.0407152101</weblink>. PMID 15653774.</cite>&nbsp;</entry>
+10.1073/pnas.0407152101</weblink>. PMID 15653774.</cite> </entry>
 <entry id="14">
  <cite style="font-style:normal">Holm L, Sander C&#32;(1996).&#32;"<weblink xlink:type="simple" xlink:href="http://www.sciencemag.org/cgi/pmidlookup?view=long&amp;pmid=8662544">
 Mapping the protein universe</weblink>". <it>Science</it>&#32;<b>273</b>: 595–603. <document wordnetid="106470073" confidence="0.8">
@@ -733,10 +733,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1126%2Fscience.273.5275.595">
-10.1126/science.273.5275.595</weblink>. PMID 8662544.</cite>&nbsp;</entry>
+10.1126/science.273.5275.595</weblink>. PMID 8662544.</cite> </entry>
 <entry id="15">
  <cite style="font-style:normal">Taylor WR, Flores TP, Orengo CA.&#32;(1994).&#32;"<weblink xlink:type="simple" xlink:href="http://www.proteinscience.org/cgi/pmidlookup?view=long&amp;pmid=7849601">
-Multiple protein structure alignment</weblink>". <it>Protein Sci</it>&#32;<b>3</b>: 1858–70. PMID 7849601.</cite>&nbsp;</entry>
+Multiple protein structure alignment</weblink>". <it>Protein Sci</it>&#32;<b>3</b>: 1858–70. PMID 7849601.</cite> </entry>
 <entry id="17">
  <cite style="font-style:normal">Shindyalov IN, Bourne PE.&#32;(1998).&#32;"<weblink xlink:type="simple" xlink:href="http://peds.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=9796821">
 Protein structure alignment by incremental combinatorial extension (CE) of the optimal path</weblink>". <it>Protein Eng</it>&#32;<b>11</b>: 739–47. <document wordnetid="106470073" confidence="0.8">
@@ -747,7 +747,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fprotein%2F11.9.739">
-10.1093/protein/11.9.739</weblink>. PMID 9796821.</cite>&nbsp;</entry>
+10.1093/protein/11.9.739</weblink>. PMID 9796821.</cite> </entry>
 <entry id="16">
  <cite style="font-style:normal">Orengo CA, Michie AD, Jones S, Jones DT, Swindells MB, Thornton JM&#32;(1997).&#32;"CATH--a hierarchic classification of protein domain structures". <it>Structure</it>&#32;<b>5</b>: 1093–108. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -757,7 +757,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0969-2126%2897%2900260-8">
-10.1016/S0969-2126(97)00260-8</weblink>. PMID 9309224.</cite>&nbsp;</entry>
+10.1016/S0969-2126(97)00260-8</weblink>. PMID 9309224.</cite> </entry>
 <entry id="19">
  <cite style="font-style:normal">Wolfsheimer S, Burghardt B, Hartmann AK&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1186/1748-7188-2-9">
 Local sequence alignments statistics: deviations from Gumbel statistics in the rare-event tail</weblink>". <it>Algorithms Mol Biol</it>&#32;<b>2</b>: article 9. <document wordnetid="106470073" confidence="0.8">
@@ -768,9 +768,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1186%2F1748-7188-2-9">
-10.1186/1748-7188-2-9</weblink>. PMID 17625018.</cite>&nbsp;</entry>
+10.1186/1748-7188-2-9</weblink>. PMID 17625018.</cite> </entry>
 <entry id="18">
- <cite style="font-style:normal" class="book">Felsenstein J.&#32;(2004). Inferring Phylogenies.&#32;Sinauer Associates: Sunderland, MA. ISBN 0-87893-177-5.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Felsenstein J.&#32;(2004). Inferring Phylogenies.&#32;Sinauer Associates: Sunderland, MA. ISBN 0-87893-177-5.</cite> </entry>
 <entry id="21">
  <cite style="font-style:normal">Abbott A., Tsay A.&#32;(2000).&#32;"Sequence Analysis and Optimal Matching Methods in Sociology, Review and Prospect". <it>Sociological Methods and Research</it>&#32;<b>29</b>: 3-33. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -780,7 +780,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1177%2F0049124100029001001">
-10.1177/0049124100029001001</weblink>.</cite>&nbsp;</entry>
+10.1177/0049124100029001001</weblink>.</cite> </entry>
 <entry id="20">
  <cite style="font-style:normal">Eddy SR&#32;(2008).&#32;"<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1371/journal.pcbi.1000069">
 A probabilistic model of local sequence alignment that simplifies statistical significance estimation</weblink>". <it>PLoS Comput Biol</it>&#32;<b>4</b>: e1000069. <document wordnetid="106470073" confidence="0.8">
@@ -791,7 +791,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1371%2Fjournal.pcbi.1000069">
-10.1371/journal.pcbi.1000069</weblink>. PMID 18516236.</cite>&nbsp;</entry>
+10.1371/journal.pcbi.1000069</weblink>. PMID 18516236.</cite> </entry>
 <entry id="23">
 Kondrak, Grzegorz.&#32;"<it><weblink xlink:type="simple" xlink:href="http://www.cs.ualberta.ca/~kondrak/papers/thesis.pdf">
 Algorithms for Language Reconstruction</weblink></it>"&#32;(PDF). &#32;University of Toronto, Ontario.&#32;Retrieved on <link>
@@ -806,7 +806,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.3115%2F1118693.1118715">
-10.3115/1118693.1118715</weblink>.</cite>&nbsp; </entry>
+10.3115/1118693.1118715</weblink>.</cite>  </entry>
 <entry id="25">
  <cite style="font-style:normal">Thompson JD, Plewniak F, Poch O&#32;(1999).&#32;"<weblink xlink:type="simple" xlink:href="http://bioinformatics.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=10068696">
 BAliBASE: a benchmark alignment database for the evaluation of multiple alignment programs</weblink>". <it>Bioinformatics</it>&#32;<b>15</b>: 87–8. <document wordnetid="106470073" confidence="0.8">
@@ -817,7 +817,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2F15.1.87">
-10.1093/bioinformatics/15.1.87</weblink>. PMID 10068696.</cite>&nbsp;</entry>
+10.1093/bioinformatics/15.1.87</weblink>. PMID 10068696.</cite> </entry>
 <entry id="24">
  <cite style="font-style:normal">Prinzie A., D. Van den Poel&#32;(2006).&#32;"<weblink xlink:type="simple" xlink:href="http://econpapers.repec.org/paper/rugrugwps/05_2F292.htm">
 Incorporating sequential information into traditional classification models by using an element/position-sensitive SAM</weblink>". <it>Decision Support Systems</it>&#32;<b>42</b>&#32;(2): 508–526. <document wordnetid="106470073" confidence="0.8">
@@ -828,7 +828,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.dss.2005.02.004">
-10.1016/j.dss.2005.02.004</weblink>.</cite>&nbsp; See also Prinzie and Van den Poel's paper  <cite style="font-style:normal">Prinzie, A&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://econpapers.repec.org/paper/rugrugwps/07_2F442.htm">
+10.1016/j.dss.2005.02.004</weblink>.</cite>  See also Prinzie and Van den Poel's paper  <cite style="font-style:normal">Prinzie, A&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://econpapers.repec.org/paper/rugrugwps/07_2F442.htm">
 Predicting home-appliance acquisition sequences: Markov/Markov for Discrimination and survival analysis for modeling sequential information in NPTB models</weblink>". <it>Decision Support Systems</it>&#32;<b>44</b>&#32;(1): 28–45. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
@@ -837,7 +837,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.dss.2007.02.008">
-10.1016/j.dss.2007.02.008</weblink>.</cite>&nbsp;</entry>
+10.1016/j.dss.2007.02.008</weblink>.</cite> </entry>
 <entry id="26">
  <cite style="font-style:normal">Thompson JD, Plewniak F, Poch O.&#32;(1999).&#32;"<weblink xlink:type="simple" xlink:href="http://nar.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=10373585">
 A comprehensive comparison of multiple sequence alignment programs</weblink>". <it>Nucleic Acids Res</it>&#32;<b>27</b>: 2682–90. <document wordnetid="106470073" confidence="0.8">
@@ -848,7 +848,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fnar%2F27.13.2682">
-10.1093/nar/27.13.2682</weblink>. PMID 10373585.</cite>&nbsp;</entry>
+10.1093/nar/27.13.2682</weblink>. PMID 10373585.</cite> </entry>
 </reflist>
 </p>
 <p>

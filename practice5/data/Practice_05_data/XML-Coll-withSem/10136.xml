@@ -694,7 +694,7 @@ mortgages</link> there are hard and fast rules which do not always exist with ot
 
 While expert systems have distinguished themselves in <link xlink:type="simple" xlink:href="../164/1164.xml">
 AI</link> research in finding practical application, their application has been limited. Expert systems are notoriously narrow in their domain of <link xlink:type="simple" xlink:href="../391/243391.xml">
-knowledge</link>&mdash;as an amusing example, a researcher used the "skin disease" expert system to diagnose his rustbucket car as likely to have developed measles&mdash;and the systems were thus prone to making <link xlink:type="simple" xlink:href="../118/41118.xml">
+knowledge</link>—as an amusing example, a researcher used the "skin disease" expert system to diagnose his rustbucket car as likely to have developed measles—and the systems were thus prone to making <link xlink:type="simple" xlink:href="../118/41118.xml">
 error</link>s that <link xlink:type="simple" xlink:href="../482/682482.xml">
 human</link>s would easily spot. Additionally, once some of the mystique had worn off, most <link xlink:type="simple" xlink:href="../716/23716.xml">
 programmer</link>s realized that simple expert systems were essentially just slightly more elaborate versions of the <link>
@@ -708,8 +708,8 @@ troubleshooting</link> software located in the "help" section in the <link xlink
 taskbar</link> menu. Obtaining expert / technical operating system support is often difficult for individuals not closely involved with the development of the operating system. Microsoft has designed their expert system to provide solutions, advice, and suggestions to common errors encountered throughout using the operating systems.</p>
 <p>
 
-Another 1970s and 1980s application of expert systems &mdash; which we today would simply call <link xlink:type="simple" xlink:href="../268/1268.xml">
-AI</link> &mdash; was in <link xlink:type="simple" xlink:href="../363/5363.xml">
+Another 1970s and 1980s application of expert systems — which we today would simply call <link xlink:type="simple" xlink:href="../268/1268.xml">
+AI</link> — was in <link xlink:type="simple" xlink:href="../363/5363.xml">
 computer games</link>.  For example, the computer <link xlink:type="simple" xlink:href="../850/3850.xml">
 baseball</link> games <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -816,7 +816,7 @@ professional</link>. Real experts in the problem domain (which will typically be
 rules of thumb</link>" on how they evaluate the problems, either explicitly with the aid of experienced <link xlink:type="simple" xlink:href="../565/27565.xml">
 systems developer</link>s, or sometimes implicitly, by getting such experts to evaluate <link xlink:type="simple" xlink:href="../949/1343949.xml">
 test case</link>s and using computer programs to examine the test data and (in a strictly limited manner) derive <link xlink:type="simple" xlink:href="../213/22213.xml">
-rule</link>s from that.  Generally, expert systems are used for problems for which there is no single "correct" solution which can be encoded in a conventional algorithm &mdash; one would not write an expert system to find shortest paths through graphs, or sort data, as there are simply easier ways to do these tasks.</p>
+rule</link>s from that.  Generally, expert systems are used for problems for which there is no single "correct" solution which can be encoded in a conventional algorithm — one would not write an expert system to find shortest paths through graphs, or sort data, as there are simply easier ways to do these tasks.</p>
 <p>
 
 Simple systems use simple true/false <link xlink:type="simple" xlink:href="../225/3729225.xml">
@@ -1033,7 +1033,7 @@ Expert systems for mortgages</link></entry>
  Peter <b>Jackson</b> <it>Introduction to Expert Systems</it> (1998), ISBN 0-201-87686-8</entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">WALKER, Adrian et al&#32;(1990). Knowledge Systems and Prolog.&#32;Addison-Wesley. ISBN 0-201-52424-4.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">WALKER, Adrian et al&#32;(1990). Knowledge Systems and Prolog.&#32;Addison-Wesley. ISBN 0-201-52424-4.</cite> </entry>
 </list>
 </p>
 

@@ -1092,10 +1092,10 @@ Design of experiments</link></header>
 Overview</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../717/241717.xml">
-Clinical trial</link>&nbsp;·  <link xlink:type="simple" xlink:href="../391/2193391.xml">
-Clinical trial protocol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../487/2196487.xml">
-Clinical trial management</link>&nbsp;·  <link xlink:type="simple" xlink:href="../281/2312281.xml">
-Academic clinical trials</link>&nbsp;·  <link xlink:type="simple" xlink:href="../829/2944829.xml">
+Clinical trial</link> ·  <link xlink:type="simple" xlink:href="../391/2193391.xml">
+Clinical trial protocol</link> ·  <link xlink:type="simple" xlink:href="../487/2196487.xml">
+Clinical trial management</link> ·  <link xlink:type="simple" xlink:href="../281/2312281.xml">
+Academic clinical trials</link> ·  <link xlink:type="simple" xlink:href="../829/2944829.xml">
 Study design</link></col>
 </row>
 <row style="height:2px">
@@ -1185,7 +1185,7 @@ Nested case-control study</link>)</p>
 <link xlink:type="simple" xlink:href="../159/11832159.xml">
 Case series</link></method>
 </know-how>
-&nbsp;·  <link xlink:type="simple" xlink:href="../471/304471.xml">
+ ·  <link xlink:type="simple" xlink:href="../471/304471.xml">
 Case study</link>/<link xlink:type="simple" xlink:href="../729/4585729.xml">
 Case report</link></p>
 </col>
@@ -1202,25 +1202,25 @@ methods</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <it>Occurrence:</it> <link xlink:type="simple" xlink:href="../008/167008.xml">
 Incidence</link> (<link xlink:type="simple" xlink:href="../897/5075897.xml">
-Cumulative incidence</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../688/126688.xml">
+Cumulative incidence</link>) ·  <link xlink:type="simple" xlink:href="../688/126688.xml">
 Prevalence</link> (<link xlink:type="simple" xlink:href="../112/9459112.xml">
 Point prevalence</link>, <link xlink:type="simple" xlink:href="../191/9459191.xml">
 Period prevalence</link>)<p>
 
 <it><link xlink:type="simple" xlink:href="../313/569313.xml">
 Association</link>:</it> <link xlink:type="simple" xlink:href="../159/2622159.xml">
-Relative risk</link>&nbsp;·  <link xlink:type="simple" xlink:href="../880/406880.xml">
-Odds ratio</link>&nbsp;·  <link xlink:type="simple" xlink:href="../769/265769.xml">
-Hazard ratio</link>&nbsp;·  <link xlink:type="simple" xlink:href="../923/7735923.xml">
+Relative risk</link> ·  <link xlink:type="simple" xlink:href="../880/406880.xml">
+Odds ratio</link> ·  <link xlink:type="simple" xlink:href="../769/265769.xml">
+Hazard ratio</link> ·  <link xlink:type="simple" xlink:href="../923/7735923.xml">
 Attributable risk</link></p>
 <p>
 
 <it>other:</it> <link xlink:type="simple" xlink:href="../929/406929.xml">
-Virulence</link>&nbsp;·  <link xlink:type="simple" xlink:href="../235/2945235.xml">
-Infectivity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../305/191305.xml">
-Mortality rate</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/196018.xml">
-Morbidity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../385/3560385.xml">
-Case fatality</link>&nbsp;·  <link xlink:type="simple" xlink:href="../330/5599330.xml">
+Virulence</link> ·  <link xlink:type="simple" xlink:href="../235/2945235.xml">
+Infectivity</link> ·  <link xlink:type="simple" xlink:href="../305/191305.xml">
+Mortality rate</link> ·  <link xlink:type="simple" xlink:href="../018/196018.xml">
+Morbidity</link> ·  <link xlink:type="simple" xlink:href="../385/3560385.xml">
+Case fatality</link> ·  <link xlink:type="simple" xlink:href="../330/5599330.xml">
 Sensitivity and specificity</link></p>
 </col>
 </row>
@@ -1233,7 +1233,7 @@ Trial/test types</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../188/15188.xml">
 In vitro</link>/<link xlink:type="simple" xlink:href="../187/15187.xml">
-In vivo</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+In vivo</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <right wordnetid="105174653" confidence="0.8">
@@ -1242,14 +1242,14 @@ Animal testing</link></right>
 </method>
 </know-how>
 </technique>
-&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+ ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../113/12005113.xml">
 First-in-man study</link></method>
 </know-how>
-&nbsp;·  <link xlink:type="simple" xlink:href="../461/2221461.xml">
-Multicenter trial</link>&nbsp;·  <link xlink:type="simple" xlink:href="../065/18931065.xml">
-Seeding trial</link>&nbsp;·  <link xlink:type="simple" xlink:href="../730/1065730.xml">
+ ·  <link xlink:type="simple" xlink:href="../461/2221461.xml">
+Multicenter trial</link> ·  <link xlink:type="simple" xlink:href="../065/18931065.xml">
+Seeding trial</link> ·  <link xlink:type="simple" xlink:href="../730/1065730.xml">
 Vaccine trial</link></col>
 </row>
 <row style="height:2px">
@@ -1273,8 +1273,8 @@ Risk-benefit analysis</link></method>
 <row>
 <col colspan="2" style=";" class="navbox-abovebelow">
 <b>
-Clinical research|Category</b>&nbsp;&amp;bull; <b><link xlink:type="simple" xlink:href="../485/19627485.xml">
-Glossary</link></b>&nbsp;&amp;bull; <b><link xlink:type="simple" xlink:href="../563/19645563.xml">
+Clinical research|Category</b> &amp;bull; <b><link xlink:type="simple" xlink:href="../485/19627485.xml">
+Glossary</link></b> &amp;bull; <b><link xlink:type="simple" xlink:href="../563/19645563.xml">
 List of topics</link></b></col>
 </row>
 </table>

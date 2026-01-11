@@ -31,7 +31,7 @@
 <weight>
 0.2 Kg</weight>
 <cpu>
-266&nbsp;MHz <chip wordnetid="103020034" confidence="0.8">
+266 MHz <chip wordnetid="103020034" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <microprocessor wordnetid="103760310" confidence="0.8">
@@ -166,8 +166,8 @@ XScale</link></semiconductor_device>
 </artifact>
 </chip>
  IXP420 CPU. In models manufactured prior to around April 2006, Linksys had, for an unknown reason, <link xlink:type="simple" xlink:href="../875/208875.xml">
-underclocked</link> the processor to 133&nbsp;MHz, though a simple hardware modification to remove this restriction is possible. Later models (circa. <link xlink:type="simple" xlink:href="../858/5377858.xml">
-May 2006</link>) are clocked at the rated speed of 266&nbsp;MHz. The device includes 32 MB of <link xlink:type="simple" xlink:href="../807/93807.xml">
+underclocked</link> the processor to 133 MHz, though a simple hardware modification to remove this restriction is possible. Later models (circa. <link xlink:type="simple" xlink:href="../858/5377858.xml">
+May 2006</link>) are clocked at the rated speed of 266 MHz. The device includes 32 MB of <link xlink:type="simple" xlink:href="../807/93807.xml">
 SDRAM</link>, and 8 MB of <link xlink:type="simple" xlink:href="../595/50595.xml">
 Flash memory</link>. It also has a 100 megabit Ethernet network connection.</p>
 
@@ -466,9 +466,9 @@ list</link>)</header>
 Desktops</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../507/17780507.xml">
-Asus Eee Box</link> &nbsp;·  <link xlink:type="simple" xlink:href="../766/18619766.xml">
-CherryPal</link> &nbsp;·  <link xlink:type="simple" xlink:href="../142/15875142.xml">
-fit-PC</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+Asus Eee Box</link>  ·  <link xlink:type="simple" xlink:href="../766/18619766.xml">
+CherryPal</link>  ·  <link xlink:type="simple" xlink:href="../142/15875142.xml">
+fit-PC</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -479,7 +479,7 @@ Linutop</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -490,7 +490,7 @@ Lemote</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -501,7 +501,7 @@ ThinCan</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -514,7 +514,7 @@ WE Appliance</link></appliance>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../198/11437198.xml">
 Zonbu</link></company>
 </col>
@@ -540,19 +540,19 @@ s</col>
 <cellular_telephone wordnetid="102992529" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../829/14312829.xml">
 Amazon Kindle</link></cellular_telephone>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../947/13316947.xml">
 Archos PMA400</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <system wordnetid="104377057" confidence="0.9508927676800064">
+ ·  <system wordnetid="104377057" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../533/2652533.xml">
 GP2X</link></system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../548/19051548.xml">
-GP2X Wiz</link>&nbsp;·  <link xlink:type="simple" xlink:href="../763/6346763.xml">
-mylo</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../548/19051548.xml">
+GP2X Wiz</link> ·  <link xlink:type="simple" xlink:href="../763/6346763.xml">
+mylo</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -563,7 +563,7 @@ Nokia 770</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;/  <computer wordnetid="103082979" confidence="0.8">
+ /  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -574,7 +574,7 @@ N800</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;/  <computer wordnetid="103082979" confidence="0.8">
+ /  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -585,10 +585,10 @@ N810</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <system wordnetid="104377057" confidence="0.9508927676800064">
+ ·  <system wordnetid="104377057" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../208/14833208.xml">
 Pandora</link></system>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <furnishing wordnetid="103405265" confidence="0.8">
@@ -607,14 +607,14 @@ Pepper Pad</link></console_table>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../137/247137.xml">
 Zaurus</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../511/7636511.xml">
@@ -638,7 +638,7 @@ Laptop</link>s</col>
 Aspire One</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <merchandise wordnetid="103748886" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
@@ -649,25 +649,25 @@ ASUS Eee PC</link></device>
 </merchandise>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../026/8328026.xml">
 Classmate PC</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <appliance wordnetid="102729965" confidence="0.9508927676800064">
+ ·  <appliance wordnetid="102729965" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/15201819.xml">
 CloudBook</link></appliance>
-&nbsp;·  <link xlink:type="simple" xlink:href="../120/18500120.xml">
-Dell Inspiron Mini 9</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../120/18500120.xml">
+Dell Inspiron Mini 9</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../592/15982592.xml">
 Elonex ONE</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -680,10 +680,10 @@ InkMedia</link></appliance>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <appliance wordnetid="102729965" confidence="0.9508927676800064">
+ ·  <appliance wordnetid="102729965" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../755/16769755.xml">
 HP 2133 Mini-Note PC</link></appliance>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -694,7 +694,7 @@ Noahpad</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -705,8 +705,8 @@ OLPC XO-1</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../510/17502510.xml">
-One A110</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../510/17502510.xml">
+One A110</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -717,7 +717,7 @@ Palm Foleo</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <appliance wordnetid="102729965" confidence="0.9508927676800064">
+ ·  <appliance wordnetid="102729965" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../456/8522456.xml">
 Tianhua GX-1C</link></appliance>
 </col>
@@ -737,7 +737,7 @@ Multimedia</link></col>
 DBox2</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <recorder wordnetid="104063373" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -748,7 +748,7 @@ Dreambox</link></equipment>
 </recorder>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <receiver wordnetid="104060647" confidence="0.8">
 <recorder wordnetid="104063373" confidence="0.8">
@@ -763,11 +763,11 @@ Hauppauge MediaMVP</link></electronic_equipment>
 </receiver>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../865/1500865.xml#xpointer(//*[./st=%22Neuros+OSD%22])">
-Neuros OSD</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../865/1500865.xml#xpointer(//*[./st=%22Neuros+OSD%22])">
+Neuros OSD</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../936/30936.xml">
 TiVo</link></company>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -795,31 +795,31 @@ Wizpy</link></causal_agent>
 Networking</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../669/11470669.xml#xpointer(//*[./st=%22MI424WR%22])">
-Actiontec MI424WR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../887/16849887.xml">
-Asus Routers</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Actiontec MI424WR</link> ·  <link xlink:type="simple" xlink:href="../887/16849887.xml">
+Asus Routers</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../079/9504079.xml">
 BT Home Hub</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../772/14902772.xml">
 Buffalo AirStation</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../831/19289831.xml">
-Junxion Box</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../831/19289831.xml">
+Junxion Box</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../761/1151761.xml">
 Linksys WRT54G series</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../318/19279318.xml">
-Netgear FVS336G</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../318/19279318.xml">
+Netgear FVS336G</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -841,10 +841,10 @@ Storage</link></col>
 <appliance wordnetid="102729965" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../675/5847675.xml">
 Buffalo LinkStation / TeraStation</link></appliance>
-&nbsp;·  <appliance wordnetid="102729965" confidence="0.9508927676800064">
+ ·  <appliance wordnetid="102729965" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../379/3534379.xml">
 Linksys NSLU2</link></appliance>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -855,7 +855,7 @@ Synology</link></institution>
 </company>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../740/5330740.xml">
@@ -875,8 +875,8 @@ Phones</link></col>
 <cellular_telephone wordnetid="102992529" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../743/11727743.xml">
 Motorola ROKR Z6</link></cellular_telephone>
-&nbsp;/  <link>
-RAZR2 V8</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ /  <link>
+RAZR2 V8</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -889,7 +889,7 @@ Neo 1973</link></electronic_equipment>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;/ <artifact wordnetid="100021939" confidence="0.8">
+ / <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -918,10 +918,10 @@ Other</col>
 Chumby</link></device>
 </instrumentality>
 </artifact>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../092/2102092.xml">
 Gumstix</link></company>
-&nbsp;·  <conveyance wordnetid="103100490" confidence="0.8">
+ ·  <conveyance wordnetid="103100490" confidence="0.8">
 <car wordnetid="102958343" confidence="0.8">
 <self-propelled_vehicle wordnetid="104170037" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -940,7 +940,7 @@ Stanley</link></motor_vehicle>
 </self-propelled_vehicle>
 </car>
 </conveyance>
-&nbsp;·  <cellular_telephone wordnetid="102992529" confidence="0.9508927676800064">
+ ·  <cellular_telephone wordnetid="102992529" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../325/5770325.xml">
 ILiad</link></cellular_telephone>
 </col>

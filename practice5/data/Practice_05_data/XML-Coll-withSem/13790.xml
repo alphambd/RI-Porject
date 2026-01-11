@@ -37,7 +37,7 @@ integer</link>, that may serve as an <link xlink:type="simple" xlink:href="../76
 index</link> into an <link xlink:type="simple" xlink:href="../052/2052.xml">
 array</link>.  The values returned by a hash function  are called <b>hash values</b>, <b>hash codes</b>, <b>hash sums</b>, or simply <b>hashes</b>.<p>
 
-Hash functions are mostly used to speed up table lookup or data comparison tasks &mdash; such as finding items in a <link xlink:type="simple" xlink:href="../377/8377.xml">
+Hash functions are mostly used to speed up table lookup or data comparison tasks — such as finding items in a <link xlink:type="simple" xlink:href="../377/8377.xml">
 database</link>, detecting duplicated or similar <link xlink:type="simple" xlink:href="../142/1041142.xml">
 record</link>s in a large <link xlink:type="simple" xlink:href="../077/7077.xml">
 file</link>, finding similar stretches in <link xlink:type="simple" xlink:href="../496/21496.xml">
@@ -86,7 +86,7 @@ In general, a hashing function may map several different keys to the same hash v
 set</link> of records, rather than a single record.  For this reason, each slot of a hash table is often called a <b>bucket</b>, and hash values are also called <it>bucket indices</it>.</p>
 <p>
 
-Thus, the hash function only hints at the record's location &mdash; it only tells where one should start looking for it.  Still, in a half-full table, a good hash function will typically narrow the search down to only one or two entries.</p>
+Thus, the hash function only hints at the record's location — it only tells where one should start looking for it.  Still, in a half-full table, a good hash function will typically narrow the search down to only one or two entries.</p>
 <p>
 
 In the <link xlink:type="simple" xlink:href="../881/15881.xml">
@@ -189,7 +189,7 @@ Determinism</st>
 <p>
 
 A hash function must be <link xlink:type="simple" xlink:href="../951/665951.xml">
-deterministic</link> &mdash; meaning that two identical or equivalent inputs must generate the same hash value.</p>
+deterministic</link> — meaning that two identical or equivalent inputs must generate the same hash value.</p>
 
 </ss1>
 <ss1>
@@ -198,7 +198,7 @@ Uniformity</st>
 <p>
 
 A good hash function  should map the expected inputs as evenly as possible over its output range.  That is, every hash value in the output range should be generated with roughly the same  <link xlink:type="simple" xlink:href="../934/22934.xml">
-probability</link>.  The reason for this last requirement is that the cost of hashing-based methods goes up sharply as the number of <it>collisions</it> &mdash; pairs of inputs that are mapped to the same hash value &mdash; increases.  Basically, if some hash values are more likely to occur than others, a larger fraction of the lookup operations will have to search through a larger set of colliding table entries.</p>
+probability</link>.  The reason for this last requirement is that the cost of hashing-based methods goes up sharply as the number of <it>collisions</it> — pairs of inputs that are mapped to the same hash value — increases.  Basically, if some hash values are more likely to occur than others, a larger fraction of the lookup operations will have to search through a larger set of colliding table entries.</p>
 <p>
 
 Note that this criterion only requires the value to be <it>uniformly distributed</it>, not <it>random</it> in any sense.  A good randomizing function is usually good for hashing, but the converse need not be true. </p>
@@ -216,7 +216,7 @@ birthday paradox</link>).</p>
 Variable range</st>
 <p>
 
-In many applications, the range of hash values may be different for each run of the program, or may change along the same run (for instance, when a hash table needs to be expanded).  In those situations, one needs a hash function which takes two parameters &mdash; the input data <it>z</it>, and the number <it>n</it> of allowed hash values. </p>
+In many applications, the range of hash values may be different for each run of the program, or may change along the same run (for instance, when a hash table needs to be expanded).  In those situations, one needs a hash function which takes two parameters — the input data <it>z</it>, and the number <it>n</it> of allowed hash values. </p>
 
 </ss1>
 <ss1>
@@ -283,7 +283,7 @@ Injective and perfect hashing</st>
 <p>
 
 The ideal hashing function should be <link xlink:type="simple" xlink:href="../196/45196.xml">
-injective</link> &mdash; that is, it should map  each valid input to a different hash value.  Such a function would directly locate the desired entry in a hash table, without any additional search.</p>
+injective</link> — that is, it should map  each valid input to a different hash value.  Such a function would directly locate the desired entry in a hash table, without any additional search.</p>
 <p>
 
 An injective hash function whose range is all integers between 0 and <it>n</it>−1, where <it>n</it> is the number of valid inputs, is said to be <link xlink:type="simple" xlink:href="../162/268162.xml">
@@ -317,11 +317,11 @@ supermarket</link> will live in the same geographic area, so their telephone num
 <p>
 
 When the data values are long (or variable-length) <link xlink:type="simple" xlink:href="../443/73443.xml">
-character</link> strings &mdash; such as personal names, <link xlink:type="simple" xlink:href="../277/32277.xml">
-web page addresses</link>, or mail messages &mdash; their distribution is usually very uneven, with complicated dependencies.  For example, text in any <link xlink:type="simple" xlink:href="../173/21173.xml">
+character</link> strings — such as personal names, <link xlink:type="simple" xlink:href="../277/32277.xml">
+web page addresses</link>, or mail messages — their distribution is usually very uneven, with complicated dependencies.  For example, text in any <link xlink:type="simple" xlink:href="../173/21173.xml">
 natural language</link> has highly non-uniform distributions of <link xlink:type="simple" xlink:href="../269/5269.xml">
 characters</link>, and <link xlink:type="simple" xlink:href="../746/403746.xml">
-character pair</link>s, very characteristic of the language.  For such data, it is prudent to use a hash function that depends on all characters of the string &mdash; and depends on each character in a different way.</p>
+character pair</link>s, very characteristic of the language.  For such data, it is prudent to use a hash function that depends on all characters of the string — and depends on each character in a different way.</p>
 
 </ss1>
 <ss1>
@@ -338,7 +338,7 @@ heuristic</link>) hash function that yield many fewer collisions than a good gen
 Hashing with checksum functions</st>
 <p>
 
-One can obtain good general-purpose hash functions for string data by adapting certain checksum or fingerprinting algorithms.  Some of those algorithms will map arbitrary long string data <it>z</it>, with any typical real-world distribution &mdash; no matter how non-uniform and dependent &mdash; to a fixed length bit string, with a fairly uniform distribution.  This string can be interpreted as a binary integer <it>k</it>, and turned into a hash value by the formula  <it>h</it> = <it>k</it> <b>mod</b> <it>n</it>.</p>
+One can obtain good general-purpose hash functions for string data by adapting certain checksum or fingerprinting algorithms.  Some of those algorithms will map arbitrary long string data <it>z</it>, with any typical real-world distribution — no matter how non-uniform and dependent — to a fixed length bit string, with a fairly uniform distribution.  This string can be interpreted as a binary integer <it>k</it>, and turned into a hash value by the formula  <it>h</it> = <it>k</it> <b>mod</b> <it>n</it>.</p>
 <p>
 
 This method will produce a fairly even distribution of hash values, as long as the hash range size <it>n</it> is small compared to the range of the checksum function.   Bob Jenkins' <weblink xlink:type="simple" xlink:href="http://burtleburtle.net/bob/c/lookup3.c">
@@ -647,7 +647,7 @@ Notes</st>
 <entry level="1" type="number">
 
   <cite id="endnote_function" style="font-style: normal;">
-<b>^</b></cite>&nbsp; In the remainder of this article, the term <it>function</it> is used to refer to <link xlink:type="simple" xlink:href="../775/775.xml">
+<b>^</b></cite>  In the remainder of this article, the term <it>function</it> is used to refer to <link xlink:type="simple" xlink:href="../775/775.xml">
 algorithm</link>s as well as the <link xlink:type="simple" xlink:href="../427/185427.xml">
 functions</link> they compute.</entry>
 </list>
@@ -666,7 +666,7 @@ functions</link> they compute.</entry>
 "Robust Audio Hashing for Content Identification by Jaap Haitsma, Ton Kalker and Job Oostveen"</weblink></entry>
 <entry id="2">
   <cite id="CITEREFJenkins1997" style="font-style:normal">Jenkins, Bob&#32;(September, 1997),&#32;<weblink xlink:type="simple" xlink:href="http://www.ddj.com/184410284">
-<it>Hash Functions''</it></weblink>,&#32;"Algorithm Alley",&#32;<it>Dr. Dobb's Journal</it>, </cite>&nbsp; </entry>
+<it>Hash Functions''</it></weblink>,&#32;"Algorithm Alley",&#32;<it>Dr. Dobb's Journal</it>, </cite>  </entry>
 <entry id="3">
  <cite style="font-style:normal" class="book"><person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -686,7 +686,7 @@ The Art of Computer Programming</link></publication>
 </creation>
 </product>
 </work>
-, volume 3, Sorting and Searching,&#32;506-542.</cite>&nbsp;</entry>
+, volume 3, Sorting and Searching,&#32;506-542.</cite> </entry>
 </reflist>
 </p>
 
@@ -749,7 +749,7 @@ Ajax-based Hash Generator</weblink> Online Hash Generator with instant hash comp
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.qdecoder.org/goto/qHash.html">
-qDecoder's C/C++ hash functions</weblink> &mdash; opensource library</entry>
+qDecoder's C/C++ hash functions</weblink> — opensource library</entry>
 </list>
 </p>
 

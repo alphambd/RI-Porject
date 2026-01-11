@@ -307,7 +307,7 @@ Lockheed Martin</link></company>
 <table style="width:100%;;;;" class="nowraplinks collapsible autocollapse navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#bbcce3;" class="navbox-title">
-&nbsp;Companies and partnerships</header>
+ Companies and partnerships</header>
 </row>
 <row style="height:2px;">
 
@@ -326,21 +326,21 @@ Lockheed Martin</link></company>
 </enterprise>
 </company>
 </manufacturer>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../167/18626167.xml">
-LM Canada</link>&nbsp;· 
+LM Canada</link> · 
 <link xlink:type="simple" xlink:href="../252/4707252.xml">
-LM Information Technology</link>&nbsp;· 
+LM Information Technology</link> · 
 <link xlink:type="simple" xlink:href="../970/6475970.xml">
- LM Maritime Systems and Sensors</link>&nbsp;· 
+ LM Maritime Systems and Sensors</link> · 
 <link xlink:type="simple" xlink:href="../601/5976601.xml">
- LM Missiles and Fire Control</link>&nbsp;· 
+ LM Missiles and Fire Control</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../271/3290271.xml">
 LM Orincon</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../793/3153793.xml">
-LM Simulation, Training &amp; Support</link>&nbsp;· 
+LM Simulation, Training &amp; Support</link> · 
 <manufacturer wordnetid="108060446" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
@@ -352,23 +352,23 @@ LM Space Systems</link></institution>
 </enterprise>
 </company>
 </manufacturer>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../617/6707617.xml">
-LM Systems Integration - Owego</link>&nbsp;· 
+LM Systems Integration - Owego</link> · 
 <link>
-LM Transportation &amp; Security Solutions</link>&nbsp;· 
+LM Transportation &amp; Security Solutions</link> · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../055/923055.xml">
 LM UK</link></institution>
 </company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../455/995455.xml">
-Savi Technology</link>&nbsp;· 
+Savi Technology</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../579/3575579.xml">
 United Space Alliance</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../089/4164089.xml">
 United Launch Alliance</link></company>
@@ -386,7 +386,7 @@ United Launch Alliance</link></company>
 <table style="width:100%;;;;" class="nowraplinks collapsible autocollapse navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#bbcce3;" class="navbox-title">
-&nbsp;Facilities</header>
+ Facilities</header>
 </row>
 <row style="height:2px;">
 
@@ -415,7 +415,7 @@ Goodyear Airdock</link></aircraft>
 </structure>
 </airship>
 </conveyance>
-&nbsp;· 
+ · 
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -423,9 +423,9 @@ Goodyear Airdock</link></aircraft>
 Knolls Atomic Power Laboratory</link></artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../315/2914315.xml">
-LM Space Applications Laboratory</link>&nbsp;· 
+LM Space Applications Laboratory</link> · 
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -435,7 +435,7 @@ Michoud Assembly Facility</link></facility>
 </artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -457,7 +457,7 @@ Sandia National Laboratories</link></instrument>
 </artifact>
 </region>
 </site>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../249/55249.xml#xpointer(//*[./st=%22Lockheed's+Skunk+Works%22])">
 Skunk Works</link></p>
 </col>
@@ -473,7 +473,7 @@ Skunk Works</link></p>
 <table style="width:100%;;;;" class="nowraplinks collapsible autocollapse navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";" class="navbox-title">
-&nbsp;Active products</header>
+ Active products</header>
 </row>
 <row style="height:2px;">
 
@@ -500,27 +500,27 @@ Aegis</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;· 
+ · 
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../222/10804222.xml">
 AeroText</link></software>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../070/788070.xml">
-Asroc</link>&nbsp;· 
+Asroc</link> · 
 <link xlink:type="simple" xlink:href="../015/147015.xml">
-ATACMS</link>&nbsp;· 
+ATACMS</link> · 
 <rocket wordnetid="104099429" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../778/1824778.xml">
 Atlas V rocket</link></rocket>
-&nbsp;· 
+ · 
 <aircraft wordnetid="102686568" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/160434.xml">
 C-5</link></aircraft>
-&nbsp;· 
+ · 
 <aircraft wordnetid="102686568" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../697/7697.xml">
 C-130</link></aircraft>
-&nbsp;· 
+ · 
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -536,21 +536,21 @@ Space Shuttle External Fuel Tank</link></part>
 </artifact>
 </concept>
 </idea>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../715/3684715.xml">
- Force Hawk</link>&nbsp;· 
+ Force Hawk</link> · 
 <aircraft wordnetid="102686568" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../813/11813.xml">
 F-16</link></aircraft>
-&nbsp;· 
+ · 
 <aircraft wordnetid="102686568" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../299/66299.xml">
 F-22</link></aircraft>
-&nbsp;· 
+ · 
 <aircraft wordnetid="102686568" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../812/11812.xml">
 F-35</link></aircraft>
-&nbsp;· 
+ · 
 <conveyance wordnetid="103100490" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -572,19 +572,19 @@ JASSM</link></air-to-ground_missile>
 </instrumentality>
 </artifact>
 </conveyance>
-&nbsp;· 
+ · 
 <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../575/315575.xml">
 Javelin</link></weapon>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../572/3718572.xml">
-JCM</link>&nbsp;· 
+JCM</link> · 
 <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../151/38151.xml">
 Hellfire</link></weapon>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../011/147011.xml">
-HIMARS</link>&nbsp;· 
+HIMARS</link> · 
 <conveyance wordnetid="103100490" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -608,15 +608,15 @@ MEADS</link></instrument>
 </instrumentality>
 </artifact>
 </conveyance>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../202/1167202.xml">
-Milstar</link>&nbsp;· 
+Milstar</link> · 
 <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../976/932976.xml">
 MLRS</link></weapon>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../185/2088185.xml">
-MUOS</link>&nbsp;· 
+MUOS</link> · 
 <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -626,13 +626,13 @@ Nimiq</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../291/454291.xml">
-Orion spacecraft</link> (under development)&nbsp;· 
+Orion spacecraft</link> (under development) · 
 <aircraft wordnetid="102686568" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../863/162863.xml">
 P-3</link></aircraft>
-&nbsp;· 
+ · 
 <conveyance wordnetid="103100490" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -652,7 +652,7 @@ Predator missile</link></instrument>
 </instrumentality>
 </artifact>
 </conveyance>
-&nbsp;· 
+ · 
 <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -662,7 +662,7 @@ SBIRS</link></equipment>
 </instrumentality>
 </artifact>
 </satellite>
-&nbsp;· 
+ · 
 <conveyance wordnetid="103100490" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -682,7 +682,7 @@ THAAD</link></instrument>
 </instrumentality>
 </artifact>
 </conveyance>
-&nbsp;· 
+ · 
 <sheath wordnetid="105238036" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <covering wordnetid="109257949" confidence="0.8">
@@ -694,15 +694,15 @@ Sniper XR</link></pod>
 </covering>
 </natural_object>
 </sheath>
-&nbsp;· 
+ · 
 <link>
-T-50</link>&nbsp;· 
+T-50</link> · 
 <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../158/31158.xml">
 Trident missile</link></weapon>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../903/4838903.xml">
-VH-71/US101</link>&nbsp;· 
+VH-71/US101</link> · 
 <aircraft wordnetid="102686568" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../310/32310.xml">
 U-2</link></aircraft>
@@ -720,7 +720,7 @@ U-2</link></aircraft>
 <table style="width:100%;;;;" class="nowraplinks collapsible autocollapse navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";" class="navbox-title">
-&nbsp;Statistics</header>
+ Statistics</header>
 </row>
 <row style="height:2px;">
 
@@ -730,9 +730,9 @@ U-2</link></aircraft>
 
 <b>Annual Revenue</b>: ▲$37.2 billion <link xlink:type="simple" xlink:href="../338/18717338.xml">
 USD</link> (<link xlink:type="simple" xlink:href="../099/5752099.xml">
-FY</link>2005)&nbsp;· 
-<b>Employees</b>:&nbsp;135,000&nbsp;· 
-<b>Stock Symbol</b>:&nbsp;<site wordnetid="108651247" confidence="0.8">
+FY</link>2005) · 
+<b>Employees</b>: 135,000 · 
+<b>Stock Symbol</b>: <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
@@ -757,8 +757,8 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lcddata.html?ticker=LMT">
-LMT</weblink>&nbsp;· 
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lcddata.html?ticker=LMT">
+LMT</weblink> · 
 <b>CEO: </b> <physical_entity wordnetid="100001930" confidence="0.8">
 <executive wordnetid="110069645" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -774,8 +774,8 @@ Robert J. Stevens</link></head>
 </person>
 </executive>
 </physical_entity>
-&nbsp;· 
-<b>Website</b>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.lockheedmartin.com/">
+ · 
+<b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.lockheedmartin.com/">
 www.lockheedmartin.com</weblink></p>
 </col>
 </row>

@@ -165,7 +165,7 @@ BGP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -178,7 +178,7 @@ DHCP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -187,8 +187,8 @@ DNS</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../289/53289.xml">
-FTP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../289/53289.xml">
+FTP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -201,7 +201,7 @@ Gopher</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -210,7 +210,7 @@ GTP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
@@ -227,7 +227,7 @@ HTTP</link></system_of_measurement>
 </protocol>
 </information>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -236,7 +236,7 @@ IMAP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -245,7 +245,7 @@ IRC</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -258,7 +258,7 @@ NNTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -271,7 +271,7 @@ NTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -280,7 +280,7 @@ POP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -293,7 +293,7 @@ RIP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -302,7 +302,7 @@ RPC</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -311,7 +311,7 @@ RTCP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -324,7 +324,7 @@ RTP</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -333,7 +333,7 @@ RTSP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·    <message wordnetid="106598915" confidence="0.8">
+ ·    <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -348,7 +348,7 @@ SDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -361,7 +361,7 @@ SIP</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -370,7 +370,7 @@ SMTP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -383,8 +383,8 @@ SNMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../215/29215.xml">
-SOAP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../215/29215.xml">
+SOAP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -397,8 +397,8 @@ SSH</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../813/187813.xml">
-SSL</link> &nbsp;· <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../813/187813.xml">
+SSL</link>  · <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -411,8 +411,8 @@ STUN</link></rule>
 </idea>
 </protocol>
 </message>
-&nbsp;· <link xlink:type="simple" xlink:href="../062/31062.xml">
-Telnet</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../062/31062.xml">
+Telnet</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -425,8 +425,8 @@ TLS</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
- &nbsp;· <link xlink:type="simple" xlink:href="../455/192455.xml">
-XMPP</link> &nbsp;·    
+  · <link xlink:type="simple" xlink:href="../455/192455.xml">
+XMPP</link>  ·    
 Application layer protocols|(more)</p>
 </col>
 </row>
@@ -438,7 +438,7 @@ Transport Layer</link></header>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../538/30538.xml">
-TCP</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+TCP</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -451,7 +451,7 @@ UDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -460,7 +460,7 @@ DCCP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -473,7 +473,7 @@ SCTP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -482,7 +482,7 @@ RSVP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -491,7 +491,7 @@ ECN</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  
+ ·  
 Transport layer protocols|(more)</col>
 </row>
 <row>
@@ -523,7 +523,7 @@ IPv4</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -532,7 +532,7 @@ IPv6</link></rule>
 </direction>
 </protocol>
 </message>
-)&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+) ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -545,7 +545,7 @@ ICMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -554,7 +554,7 @@ ICMPv6</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -567,7 +567,7 @@ IGMP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -576,7 +576,7 @@ IPsec</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;· 
+ · 
 Internet Layer protocols|(more)</col>
 </row>
 <row>
@@ -599,7 +599,7 @@ ARP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -612,7 +612,7 @@ RARP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -625,7 +625,7 @@ NDP</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -638,8 +638,8 @@ OSPF</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../738/1272738.xml">
-Tunnels</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../738/1272738.xml">
+Tunnels</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -652,8 +652,8 @@ Media Access Control</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../101/9101.xml">
-Device Driver</link>s &nbsp;·  
+ ·  <link xlink:type="simple" xlink:href="../101/9101.xml">
+Device Driver</link>s  ·  
 Link protocols|(more)</col>
 </row>
 
@@ -1215,7 +1215,7 @@ virtual hosting</link>. While optional in HTTP/1.0, it is mandatory in HTTP/1.1.
 <b>Server response</b> (followed by a blank line and text of the requested page):
 
  HTTP/1.1 200 OK
- Date: Mon, 23&nbsp;May 2005&nbsp;22:38:34 GMT
+ Date: Mon, 23 May 2005 22:38:34 GMT
  Server: Apache/1.3.3.7 (Unix)  (Red-Hat/Linux)
  Last-Modified: Wed, 08 Jan 2003 23:11:55 GMT
  Etag: "3f80f-1b6-3e1cb03b"

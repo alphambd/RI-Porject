@@ -68,11 +68,11 @@ PLEKHA5</weblink>; FLJ10667; FLJ31492; KIAA1686; PEPP2</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=607770">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=607770">
 607770</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1923802">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1923802">
 1923802</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=10377">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=10377">
 10377</weblink></col>
 </row>
 
@@ -228,13 +228,13 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Nakajima D, Okazaki N, Yamakawa H, et al.&#32;(2003).&#32;"Construction of expression-ready cDNA clones for KIAA genes: manual curation of 330 KIAA cDNA clones.". <it>DNA Res.</it>&#32;<b>9</b>&#32;(3): 99–106. PMID 12168954.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Nakajima D, Okazaki N, Yamakawa H, et al.&#32;(2003).&#32;"Construction of expression-ready cDNA clones for KIAA genes: manual curation of 330 KIAA cDNA clones.". <it>DNA Res.</it>&#32;<b>9</b>&#32;(3): 99–106. PMID 12168954.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Dowler S, Currie  RA, Campbell  DG, et al.&#32;(2001).&#32;"Identification of pleckstrin-homology-domain-containing proteins with novel phosphoinositide-binding specificities.". <it>Biochem. J.</it>&#32;<b>351</b>&#32;(Pt 1): 19–31. PMID 11001876.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Dowler S, Currie  RA, Campbell  DG, et al.&#32;(2001).&#32;"Identification of pleckstrin-homology-domain-containing proteins with novel phosphoinositide-binding specificities.". <it>Biochem. J.</it>&#32;<b>351</b>&#32;(Pt 1): 19–31. PMID 11001876.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Nagase T, Kikuno R, Hattori A, et al.&#32;(2001).&#32;"Prediction of the coding sequences of unidentified human genes. XIX. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.". <it>DNA Res.</it>&#32;<b>7</b>&#32;(6): 347–55. PMID 11214970.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Nagase T, Kikuno R, Hattori A, et al.&#32;(2001).&#32;"Prediction of the coding sequences of unidentified human genes. XIX. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.". <it>DNA Res.</it>&#32;<b>7</b>&#32;(6): 347–55. PMID 11214970.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -245,7 +245,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ota T, Suzuki Y, Nishikawa T, et al.&#32;(2004).&#32;"Complete sequencing and characterization of 21,243 full-length human cDNAs.". <it>Nat. Genet.</it>&#32;<b>36</b>&#32;(1): 40–5. <document wordnetid="106470073" confidence="0.8">
@@ -256,7 +256,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fng1285">
-10.1038/ng1285</weblink>. PMID 14702039.</cite>&nbsp;</entry>
+10.1038/ng1285</weblink>. PMID 14702039.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Lehner B, Sanderson CM&#32;(2004).&#32;"A protein interaction framework for human mRNA degradation.". <it>Genome Res.</it>&#32;<b>14</b>&#32;(7): 1315–23. <document wordnetid="106470073" confidence="0.8">
@@ -267,7 +267,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2122004">
-10.1101/gr.2122004</weblink>. PMID 15231747.</cite>&nbsp;</entry>
+10.1101/gr.2122004</weblink>. PMID 15231747.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Jin J, Smith FD, Stark C, et al.&#32;(2004).&#32;"Proteomic, functional, and domain-based analysis of in vivo 14-3-3 binding proteins involved in cytoskeletal regulation and cellular organization.". <it>Curr. Biol.</it>&#32;<b>14</b>&#32;(16): 1436–50. <document wordnetid="106470073" confidence="0.8">
@@ -278,7 +278,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cub.2004.07.051">
-10.1016/j.cub.2004.07.051</weblink>. PMID 15324660.</cite>&nbsp;</entry>
+10.1016/j.cub.2004.07.051</weblink>. PMID 15324660.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Gerhard DS, Wagner L, Feingold EA, et al.&#32;(2004).&#32;"The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).". <it>Genome Res.</it>&#32;<b>14</b>&#32;(10B): 2121–7. <document wordnetid="106470073" confidence="0.8">
@@ -289,7 +289,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2596504">
-10.1101/gr.2596504</weblink>. PMID 15489334.</cite>&nbsp;</entry>
+10.1101/gr.2596504</weblink>. PMID 15489334.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Zhang Y, Wolf-Yadlin A, Ross PL, et al.&#32;(2005).&#32;"Time-resolved mass spectrometry of tyrosine phosphorylation sites in the epidermal growth factor receptor signaling network reveals dynamic modules.". <it>Mol. Cell Proteomics</it>&#32;<b>4</b>&#32;(9): 1240–50. <document wordnetid="106470073" confidence="0.8">
@@ -300,7 +300,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fmcp.M500089-MCP200">
-10.1074/mcp.M500089-MCP200</weblink>. PMID 15951569.</cite>&nbsp;</entry>
+10.1074/mcp.M500089-MCP200</weblink>. PMID 15951569.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Lim J, Hao T, Shaw C, et al.&#32;(2006).&#32;"A protein-protein interaction network for human inherited ataxias and disorders of Purkinje cell degeneration.". <it>Cell</it>&#32;<b>125</b>&#32;(4): 801–14. <document wordnetid="106470073" confidence="0.8">
@@ -311,7 +311,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cell.2006.03.032">
-10.1016/j.cell.2006.03.032</weblink>. PMID 16713569.</cite>&nbsp;</entry>
+10.1016/j.cell.2006.03.032</weblink>. PMID 16713569.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Beausoleil SA, Villén J, Gerber SA, et al.&#32;(2006).&#32;"A probability-based approach for high-throughput protein phosphorylation analysis and site localization.". <it>Nat. Biotechnol.</it>&#32;<b>24</b>&#32;(10): 1285–92. <document wordnetid="106470073" confidence="0.8">
@@ -322,7 +322,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnbt1240">
-10.1038/nbt1240</weblink>. PMID 16964243.</cite>&nbsp;</entry>
+10.1038/nbt1240</weblink>. PMID 16964243.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Olsen JV, Blagoev B, Gnad F, et al.&#32;(2006).&#32;"Global, in vivo, and site-specific phosphorylation dynamics in signaling networks.". <it>Cell</it>&#32;<b>127</b>&#32;(3): 635–48. <document wordnetid="106470073" confidence="0.8">
@@ -333,7 +333,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cell.2006.09.026">
-10.1016/j.cell.2006.09.026</weblink>. PMID 17081983.</cite>&nbsp;</entry>
+10.1016/j.cell.2006.09.026</weblink>. PMID 17081983.</cite> </entry>
 </list>
 </p>
 

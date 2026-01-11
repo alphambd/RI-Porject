@@ -176,14 +176,14 @@ Java</link></request>
 <p>
 
 UCSD p-System achieved machine independence by defining a <link xlink:type="simple" xlink:href="../353/32353.xml">
-virtual machine</link>, called the <it>p-Machine</it> (or pseudo-machine, which many users began to call the "Pascal-machine" like the OS&mdash;although UCSD documentation always used "pseudo-machine") with its own <link xlink:type="simple" xlink:href="../772/47772.xml">
+virtual machine</link>, called the <it>p-Machine</it> (or pseudo-machine, which many users began to call the "Pascal-machine" like the OS—although UCSD documentation always used "pseudo-machine") with its own <link xlink:type="simple" xlink:href="../772/47772.xml">
 instruction set</link> called <link xlink:type="simple" xlink:href="../316/347316.xml">
 p-code</link> (or pseudo-code). Urs Ammann, a student of <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/21642.xml">
 Niklaus Wirth</link></scientist>
 </person>
-, originally presented p-code in his PhD thesis (see Urs Aman, On Code Generation in a Pascal Compiler, <it>Software&mdash;Practice and Experience</it>, Vol. 7, No. 3, 1977, pp. 391&ndash;423). This p-code was optimized for generation by the <link xlink:type="simple" xlink:href="../773/23773.xml">
+, originally presented p-code in his PhD thesis (see Urs Aman, On Code Generation in a Pascal Compiler, <it>Software—Practice and Experience</it>, Vol. 7, No. 3, 1977, pp. 391–423). This p-code was optimized for generation by the <link xlink:type="simple" xlink:href="../773/23773.xml">
 Pascal programming language</link>, and all the original development was done in <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../925/31925.xml">
@@ -342,7 +342,7 @@ References</st>
 <entry level="1" type="bullet">
 
 <it><weblink xlink:type="simple" xlink:href="http://www.bitsavers.org/pdf/univOfCalSanDiego/UCSD_PASCAL_II.0_Manual_Mar79.pdf">
-UCSD PASCAL System II.0 User's Manual March 1979</weblink></it> &mdash; Institute for Information Systems, UCSD. Copyright 1978 Regents of the University of California.</entry>
+UCSD PASCAL System II.0 User's Manual March 1979</weblink></it> — Institute for Information Systems, UCSD. Copyright 1978 Regents of the University of California.</entry>
 </list>
 </p>
 

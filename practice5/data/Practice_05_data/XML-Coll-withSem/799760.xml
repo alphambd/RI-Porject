@@ -145,7 +145,7 @@ Relationship to leverage</st>
 <p>
 
 Mahalanobis distance is closely related to the <link>
-leverage statistic</link> <it>h</it>. The Mahalanobis distance of a data point from the centroid of a multivariate data set is (<it>N</it>&nbsp;&amp;minus;&nbsp;1) times the leverage of that data point, where <it>N</it> is the number of data points in the set.</p>
+leverage statistic</link> <it>h</it>. The Mahalanobis distance of a data point from the centroid of a multivariate data set is (<it>N</it> &amp;minus; 1) times the leverage of that data point, where <it>N</it> is the number of data points in the set.</p>
 
 </sec>
 <sec>

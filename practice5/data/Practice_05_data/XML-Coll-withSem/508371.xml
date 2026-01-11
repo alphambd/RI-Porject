@@ -425,7 +425,7 @@ Client-Server</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../539/12306539.xml">
 Bongo</link></software>
-&nbsp;· <physical_entity wordnetid="100001930" confidence="0.8">
+ · <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -438,14 +438,14 @@ Buni Meldware</link></agent>
 </client>
 </person>
 </physical_entity>
-&nbsp;·   <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·   <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../968/3428968.xml">
 Citadel</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../975/1740975.xml">
 Kolab</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../371/508371.xml">
-OpenGroupware.org</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../371/508371.xml">
+OpenGroupware.org</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -460,13 +460,13 @@ Open-Xchange</link></institution>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../492/2263492.xml">
 Scalix</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../586/2732586.xml">
 Zimbra</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../278/15684278.xml">
+  ·  <link xlink:type="simple" xlink:href="../278/15684278.xml">
 Zarafa</link></col>
 </row>
 <row style="height:2px">
@@ -479,8 +479,8 @@ Web based</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../968/3428968.xml">
 Citadel</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../376/13905376.xml">
-eGroupWare</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../376/13905376.xml">
+eGroupWare</link> ·  <system wordnetid="104377057" confidence="0.8">
 <software wordnetid="106566077" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
@@ -501,18 +501,18 @@ Group-Office</link></coding_system>
 </artifact>
 </software>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../207/2342207.xml">
-Horde Groupware</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../207/2342207.xml">
+Horde Groupware</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../377/8967377.xml">
 KnowledgeTree</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../975/1740975.xml">
 Kolab</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -527,9 +527,9 @@ Open-Xchange</link></institution>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../532/2834532.xml">
-phpGroupWare</link>&nbsp;·  <link xlink:type="simple" xlink:href="../207/12824207.xml">
-ProjectPier</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../532/2834532.xml">
+phpGroupWare</link> ·  <link xlink:type="simple" xlink:href="../207/12824207.xml">
+ProjectPier</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/2834497.xml">
 Simple Groupware</link></software>
 </col>
@@ -543,16 +543,16 @@ Simple Groupware</link></software>
 Personal information manager</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../630/145630.xml">
-Evolution</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Evolution</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../691/1444691.xml">
 Kontact</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../410/15620410.xml">
 Spicebird</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../337/479337.xml">
 Mozilla Sunbird</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <collector wordnetid="109936620" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">

@@ -188,7 +188,7 @@ Population</link>²(1999)</col>
 
 <row>
 <col>
-&nbsp;-&nbsp;<link xlink:type="simple" xlink:href="../608/128608.xml">
+ - <link xlink:type="simple" xlink:href="../608/128608.xml">
 Density</link></col>
 <col>
 72/km² (1999)</col>
@@ -399,7 +399,7 @@ Aix-en-Provence</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -410,7 +410,7 @@ Allauch</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -421,8 +421,8 @@ Alleins</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../494/79494.xml">
-Arles</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../494/79494.xml">
+Arles</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -433,7 +433,7 @@ Aubagne</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -444,8 +444,8 @@ Aureille</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Auriol</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Auriol</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -456,7 +456,7 @@ Aurons</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -467,7 +467,7 @@ La Barben</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -478,7 +478,7 @@ Barbentane</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -489,7 +489,7 @@ Les Baux-de-Provence</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -500,9 +500,9 @@ Beaurecueil</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Belcodène</link>&nbsp;·  <link>
-Berre-l'Étang</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Belcodène</link> ·  <link>
+Berre-l'Étang</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -513,7 +513,7 @@ Bouc-Bel-Air</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -524,7 +524,7 @@ La Bouilladisse</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -535,9 +535,9 @@ Boulbon</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Cabannes</link>&nbsp;·  <link>
-Cabriès</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Cabannes</link> ·  <link>
+Cabriès</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -548,7 +548,7 @@ Cadolive</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -559,7 +559,7 @@ Carnoux-en-Provence</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -570,7 +570,7 @@ Carry-le-Rouet</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -589,7 +589,7 @@ Cassis</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -600,11 +600,11 @@ Ceyreste</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Charleval</link>&nbsp;·  <link>
-Châteauneuf-le-Rouge</link>&nbsp;·  <link>
-Châteauneuf-les-Martigues</link>&nbsp;·  <link>
-Châteaurenard</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Charleval</link> ·  <link>
+Châteauneuf-le-Rouge</link> ·  <link>
+Châteauneuf-les-Martigues</link> ·  <link>
+Châteaurenard</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -623,7 +623,7 @@ La Ciotat</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -634,7 +634,7 @@ Cornillon-Confoux</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -645,7 +645,7 @@ Coudoux</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -656,7 +656,7 @@ Cuges-les-Pins</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -667,11 +667,11 @@ La Destrousse</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Éguilles</link>&nbsp;·  <link>
-Ensuès-la-Redonne</link>&nbsp;·  <link>
-Eygalières</link>&nbsp;·  <link>
-Eyguières</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Éguilles</link> ·  <link>
+Ensuès-la-Redonne</link> ·  <link>
+Eygalières</link> ·  <link>
+Eyguières</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -682,7 +682,7 @@ Eyragues</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -693,8 +693,8 @@ La Fare-les-Oliviers</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Fontvieille</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Fontvieille</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -713,7 +713,7 @@ Fos-sur-Mer</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -724,7 +724,7 @@ Fuveau</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -735,8 +735,8 @@ Gardanne</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Gémenos</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Gémenos</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -747,8 +747,8 @@ Gignac-la-Nerthe</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../415/11695415.xml">
-Grans</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../415/11695415.xml">
+Grans</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -759,8 +759,8 @@ Graveson</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Gréasque</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Gréasque</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -771,7 +771,7 @@ Istres</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -782,7 +782,7 @@ Jouques</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -793,7 +793,7 @@ Lamanon</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -804,8 +804,8 @@ Lambesc</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Lançon-Provence</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Lançon-Provence</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -816,7 +816,7 @@ Maillane</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -827,7 +827,7 @@ Mallemort</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -838,8 +838,8 @@ Marignane</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../486/71486.xml">
-Marseille</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../486/71486.xml">
+Marseille</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -850,7 +850,7 @@ Martigues</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -861,7 +861,7 @@ Mas-Blanc-des-Alpilles</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -872,7 +872,7 @@ Maussane-les-Alpilles</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -883,7 +883,7 @@ Meyrargues</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -894,7 +894,7 @@ Meyreuil</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -905,7 +905,7 @@ Mimet</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -916,9 +916,9 @@ Miramas</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Mollégès</link>&nbsp;·  <link>
-Mouriès</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Mollégès</link> ·  <link>
+Mouriès</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -929,7 +929,7 @@ Noves</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -940,7 +940,7 @@ Orgon</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -951,8 +951,8 @@ Paradou</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Pélissanne</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Pélissanne</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -963,7 +963,7 @@ La Penne-sur-Huveaune</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -974,7 +974,7 @@ Les Pennes-Mirabeau</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -985,7 +985,7 @@ Peynier</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -996,7 +996,7 @@ Peypin</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1007,7 +1007,7 @@ Peyrolles-en-Provence</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1018,7 +1018,7 @@ Plan-de-Cuques</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1029,7 +1029,7 @@ Plan-d'Orgon</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1040,8 +1040,8 @@ Port-de-Bouc</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Port-Saint-Louis-du-Rhône</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Port-Saint-Louis-du-Rhône</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1052,8 +1052,8 @@ Puyloubier</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Le Puy-Sainte-Réparade</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Le Puy-Sainte-Réparade</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1064,8 +1064,8 @@ Rognac</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Rognes</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Rognes</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1076,9 +1076,9 @@ Rognonas</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-La Roque-d'Anthéron</link>&nbsp;·  <link>
-Roquefort-la-Bédoule</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+La Roque-d'Anthéron</link> ·  <link>
+Roquefort-la-Bédoule</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1089,8 +1089,8 @@ Roquevaire</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Rousset</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Rousset</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1101,7 +1101,7 @@ Le Rove</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1112,7 +1112,7 @@ Saint-Andiol</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1123,7 +1123,7 @@ Saint-Antonin-sur-Bayon</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1134,7 +1134,7 @@ Saint-Cannat</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1145,7 +1145,7 @@ Saint-Chamas</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1156,9 +1156,9 @@ Saintes-Maries-de-la-Mer</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Saint-Estève-Janson</link>&nbsp;·  <link>
-Saint-Étienne-du-Grès</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Saint-Estève-Janson</link> ·  <link>
+Saint-Étienne-du-Grès</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1169,7 +1169,7 @@ Saint-Marc-Jaumegarde</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1180,7 +1180,7 @@ Saint-Martin-de-Crau</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1191,10 +1191,10 @@ Saint-Mitre-les-Remparts</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Saint-Paul-lès-Durance</link>&nbsp;·  <link>
-Saint-Pierre-de-Mézoargues</link>&nbsp;·  <link>
-Saint-Rémy-de-Provence</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Saint-Paul-lès-Durance</link> ·  <link>
+Saint-Pierre-de-Mézoargues</link> ·  <link>
+Saint-Rémy-de-Provence</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1205,7 +1205,7 @@ Saint-Savournin</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1216,7 +1216,7 @@ Saint-Victoret</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1227,7 +1227,7 @@ Salon-de-Provence</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1238,9 +1238,9 @@ Sausset-les-Pins</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Sénas</link>&nbsp;·  <link>
-Septèmes-les-Vallons</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Sénas</link> ·  <link>
+Septèmes-les-Vallons</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1251,7 +1251,7 @@ Simiane-Collongue</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1262,7 +1262,7 @@ Tarascon</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1273,7 +1273,7 @@ Le Tholonet</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1284,8 +1284,8 @@ Trets</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Vauvenargues</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Vauvenargues</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1296,7 +1296,7 @@ Velaux</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1307,7 +1307,7 @@ Venelles</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <commune wordnetid="108541609" confidence="0.8">
@@ -1318,9 +1318,9 @@ Ventabren</link></district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Vernègues</link>&nbsp;·  <link>
-Verquières</link>&nbsp;·  <link>
+ ·  <link>
+Vernègues</link> ·  <link>
+Verquières</link> ·  <link>
 Vitrolles</link></col>
 </row>
 </table>

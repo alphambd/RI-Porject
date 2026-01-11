@@ -777,14 +777,14 @@ Mac OS</link></header>
 Applications</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-Apple File Security</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Apple File Security</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../249/3828249.xml">
 Calculator</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../710/842710.xml">
-Chooser</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../710/842710.xml">
+Chooser</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../966/4221966.xml">
 Drive Setup</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -795,16 +795,16 @@ DVD Player</link></causal_agent>
 </player>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../166/156166.xml">
 Finder</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../169/1098169.xml">
 Graphing Calculator</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/3969978.xml">
 Keychain Access</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <spectator wordnetid="110633450" confidence="0.8">
@@ -815,23 +815,23 @@ PictureViewer</link></perceiver>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../867/901867.xml">
-PowerTalk</link>&nbsp;·  <link xlink:type="simple" xlink:href="../231/25231.xml">
-QuickTime Player</link>&nbsp;·  <link xlink:type="simple" xlink:href="../180/2623180.xml">
-Network Browser</link>&nbsp;·  <link xlink:type="simple" xlink:href="../803/6348803.xml">
-Scrapbook</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../867/901867.xml">
+PowerTalk</link> ·  <link xlink:type="simple" xlink:href="../231/25231.xml">
+QuickTime Player</link> ·  <link xlink:type="simple" xlink:href="../180/2623180.xml">
+Network Browser</link> ·  <link xlink:type="simple" xlink:href="../803/6348803.xml">
+Scrapbook</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../710/342710.xml">
 Sherlock</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../321/3049321.xml">
 Software Update</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../613/696613.xml">
 Stickies</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../083/3395083.xml">
 Apple System Profiler</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../257/29257.xml">
 SimpleText</link></software>
 </col>
@@ -846,7 +846,7 @@ Developer</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../698/435698.xml">
 MacsBug</link></software>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -865,7 +865,7 @@ Macintosh Programmer's Workshop</link></writer>
 </communicator>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../021/745021.xml">
 ResEdit</link></software>
 </col>
@@ -878,7 +878,7 @@ ResEdit</link></software>
 Technology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../630/1243630.xml">
-Command (⌘)</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Command (⌘)</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <key wordnetid="103613294" confidence="0.8">
@@ -887,52 +887,52 @@ Option (⌥)</link></key>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../076/7379076.xml">
-Apple menu</link>&nbsp;·  <link xlink:type="simple" xlink:href="../333/1479333.xml">
-Balloon help</link>&nbsp;·  <link xlink:type="simple" xlink:href="../580/1628580.xml">
-Bomb Error</link>&nbsp;·  <link>
-Code Fragment Manager</link>&nbsp;·  <link xlink:type="simple" xlink:href="../077/2187077.xml">
-Control Panel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../362/11712362.xml">
-Control Strip</link>&nbsp;·  <link xlink:type="simple" xlink:href="../973/147973.xml">
-Creator code</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../076/7379076.xml">
+Apple menu</link> ·  <link xlink:type="simple" xlink:href="../333/1479333.xml">
+Balloon help</link> ·  <link xlink:type="simple" xlink:href="../580/1628580.xml">
+Bomb Error</link> ·  <link>
+Code Fragment Manager</link> ·  <link xlink:type="simple" xlink:href="../077/2187077.xml">
+Control Panel</link> ·  <link xlink:type="simple" xlink:href="../362/11712362.xml">
+Control Strip</link> ·  <link xlink:type="simple" xlink:href="../973/147973.xml">
+Creator code</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../347/55347.xml">
 Hierarchical File System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../752/927752.xml">
 HFS Plus</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../527/3049527.xml">
 Keychain</link></software>
-&nbsp;·  <link>
-Apple Data Detectors</link>&nbsp;·  <link>
-Apple Information Access Technology</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link>
+Apple Data Detectors</link> ·  <link>
+Apple Information Access Technology</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../727/927727.xml">
 Macintosh File System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../039/352039.xml">
-PICT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../439/256439.xml">
-QuickDraw</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../039/352039.xml">
+PICT</link> ·  <link xlink:type="simple" xlink:href="../439/256439.xml">
+QuickDraw</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../231/25231.xml">
 QuickTime</link></format>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../655/146655.xml">
-Resource fork</link>&nbsp;·  <link xlink:type="simple" xlink:href="../094/10773094.xml">
-Special menu</link>&nbsp;·  <link xlink:type="simple" xlink:href="../805/2386805.xml">
-System Folder</link>&nbsp;·  <link xlink:type="simple" xlink:href="../458/5144458.xml">
-System suitcase</link>&nbsp;·  <link xlink:type="simple" xlink:href="../970/147970.xml">
-Type code</link>&nbsp;·  <link xlink:type="simple" xlink:href="../333/1404333.xml">
+ ·  <link xlink:type="simple" xlink:href="../655/146655.xml">
+Resource fork</link> ·  <link xlink:type="simple" xlink:href="../094/10773094.xml">
+Special menu</link> ·  <link xlink:type="simple" xlink:href="../805/2386805.xml">
+System Folder</link> ·  <link xlink:type="simple" xlink:href="../458/5144458.xml">
+System suitcase</link> ·  <link xlink:type="simple" xlink:href="../970/147970.xml">
+Type code</link> ·  <link xlink:type="simple" xlink:href="../333/1404333.xml">
 WorldScript</link></col>
 </row>
 <row style="height:2px">
@@ -943,11 +943,11 @@ WorldScript</link></col>
 Related articles</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../396/4517396.xml">
-Manager</link>&nbsp;·  <link xlink:type="simple" xlink:href="../398/861398.xml">
-Toolbox</link>&nbsp;·  <link xlink:type="simple" xlink:href="../617/299617.xml">
-Memory Management</link>&nbsp;·  <link xlink:type="simple" xlink:href="../471/861471.xml">
-Old World ROM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../454/861454.xml">
-New World ROM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../065/866065.xml">
+Manager</link> ·  <link xlink:type="simple" xlink:href="../398/861398.xml">
+Toolbox</link> ·  <link xlink:type="simple" xlink:href="../617/299617.xml">
+Memory Management</link> ·  <link xlink:type="simple" xlink:href="../471/861471.xml">
+Old World ROM</link> ·  <link xlink:type="simple" xlink:href="../454/861454.xml">
+New World ROM</link> ·  <link xlink:type="simple" xlink:href="../065/866065.xml">
 EFI</link></col>
 </row>
 </table>

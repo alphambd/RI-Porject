@@ -565,7 +565,7 @@ Parallelized Quicksort with Optimal Speedup</weblink>, <it>Proceedings of Intern
 Novosibirsk</link></city>
 . 1991.</entry>
 <entry id="4">
-M. D. McIlroy. A Killer Adversary for Quicksort. Software Practice and Experience: vol.29, no.4, 341&ndash;344. 1999. <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/212772.html">
+M. D. McIlroy. A Killer Adversary for Quicksort. Software Practice and Experience: vol.29, no.4, 341–344. 1999. <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/212772.html">
 At Citeseer</weblink></entry>
 </reflist>
 </p>
@@ -602,7 +602,7 @@ David Musser. Introspective Sorting and Selection Algorithms, Software Practice 
 <link xlink:type="simple" xlink:href="../095/8095.xml">
 Donald Knuth</link></scientist>
 </person>
-. <it>The Art of Computer Programming</it>, Volume 3: <it>Sorting and Searching</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0. Pages 113&ndash;122 of section 5.2.2: Sorting by Exchanging.</entry>
+. <it>The Art of Computer Programming</it>, Volume 3: <it>Sorting and Searching</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0. Pages 113–122 of section 5.2.2: Sorting by Exchanging.</entry>
 <entry level="1" type="bullet">
 
  <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -634,7 +634,7 @@ MIT Press</link></company>
  and <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../269/651269.xml">
 McGraw-Hill</link></company>
-, 2001. ISBN 0-262-03293-7. Chapter 7: Quicksort, pp.145&ndash;164.</entry>
+, 2001. ISBN 0-262-03293-7. Chapter 7: Quicksort, pp.145–164.</entry>
 <entry level="1" type="bullet">
 
 A. LaMarca and R. E. Ladner. "The Influence of Caches on the Performance of Sorting." Proceedings of the Eighth Annual ACM-SIAM Symposium on Discrete Algorithms, 1997. pp. 370-379.</entry>
@@ -676,7 +676,7 @@ State University of New York at Stony Brook</link>.</entry>
 <entry level="1" type="bullet">
 
  Jon L. Bentley and M. Douglas McIlroy, <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/bentley93engineering.html">
-Engineering a Sort Function</weblink>,  <it>Software&mdash;Practice and Experience</it>, Vol. 23(11), 1249&ndash;1265, 1993</entry>
+Engineering a Sort Function</weblink>,  <it>Software—Practice and Experience</it>, Vol. 23(11), 1249–1265, 1993</entry>
 </list>
 </p>
 

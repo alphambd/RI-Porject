@@ -248,7 +248,7 @@ Stallman on Qt, the GPL, KDE, and GNOME</weblink>".&#32;Retrieved on <link>
 <entry id="4">
 "<weblink xlink:type="simple" xlink:href="http://www.usenix.org/directory/flame.html">
 USENIX Lifetime Achievement Award ("The Flame")</weblink>".&#32;Retrieved on <link>
-2007-12-05</link>.&nbsp;"Awarded for the ubiquity, breadth, and quality of its freely available redistributable and modifiable software, which has enabled a generation of research and commercial development."</entry>
+2007-12-05</link>. "Awarded for the ubiquity, breadth, and quality of its freely available redistributable and modifiable software, which has enabled a generation of research and commercial development."</entry>
 </reflist>
 </p>
 
@@ -325,10 +325,10 @@ GNU Manifesto</link></medium>
 </artifact>
 </creation>
 </product>
-&nbsp;·  <group wordnetid="100031264" confidence="0.8">
+ ·  <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../437/18949437.xml">
 Free Software Foundation</link></group>
-&nbsp;·  <link xlink:type="simple" xlink:href="../064/9374064.xml">
+ ·  <link xlink:type="simple" xlink:href="../064/9374064.xml">
 History of free software</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="9">
 <image width="64px" src="Heckert_GNU_white.svg">
@@ -347,10 +347,10 @@ GNU is not a gnu
 Licences</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../683/18938683.xml">
-GNU General Public License</link>&nbsp;·  <link xlink:type="simple" xlink:href="../073/13073.xml">
-GNU Lesser General Public License</link>&nbsp;·  <link xlink:type="simple" xlink:href="../801/6842801.xml">
-Affero General Public License</link>&nbsp;·  <link xlink:type="simple" xlink:href="../782/18938782.xml">
-GNU Free Documentation License</link>&nbsp;·  <link xlink:type="simple" xlink:href="../406/390406.xml">
+GNU General Public License</link> ·  <link xlink:type="simple" xlink:href="../073/13073.xml">
+GNU Lesser General Public License</link> ·  <link xlink:type="simple" xlink:href="../801/6842801.xml">
+Affero General Public License</link> ·  <link xlink:type="simple" xlink:href="../782/18938782.xml">
+GNU Free Documentation License</link> ·  <link xlink:type="simple" xlink:href="../406/390406.xml">
 GPL linking exception</link></col>
 </row>
 <row style="height:2px">
@@ -362,14 +362,14 @@ Software</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../875/11875.xml">
 GNU</link> (<link xlink:type="simple" xlink:href="../973/8820973.xml">
-variants</link>)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+variants</link>) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../236/13236.xml">
 Hurd</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../362/12362.xml">
-GNOME</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../362/12362.xml">
+GNOME</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/7404018.xml">
 Gnuzilla</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -386,7 +386,7 @@ IceCat</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -397,8 +397,8 @@ Gnash</link></causal_agent>
 </player>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../547/4547.xml">
-Bash</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../547/4547.xml">
+Bash</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -411,8 +411,8 @@ GCC</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../234/18933234.xml">
-GNU Emacs</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../234/18933234.xml">
+GNU Emacs</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -423,8 +423,8 @@ glibc</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../194/940194.xml">
-Coreutils</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../194/940194.xml">
+Coreutils</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -433,7 +433,7 @@ Build system</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../936/774936.xml">
+ ·  <link xlink:type="simple" xlink:href="../936/774936.xml">
 Other GNU packages and programs</link></col>
 </row>
 <row style="height:2px">
@@ -444,8 +444,8 @@ Other GNU packages and programs</link></col>
 Public speakers</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../966/801966.xml">
-Robert J. Chassell</link>&nbsp;·  <link>
-Loïc Dachary</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Robert J. Chassell</link> ·  <link>
+Loïc Dachary</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -462,7 +462,7 @@ Ricardo Galli</link></research_worker>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <reformer wordnetid="110515194" confidence="0.8">
@@ -481,7 +481,7 @@ Georg C. F. Greve</link></causal_agent>
 </person>
 </disputant>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -494,26 +494,26 @@ Federico Heinz</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <research_worker wordnetid="110523076" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../645/3306645.xml">
 Benjamin Mako Hill</link></research_worker>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../799/1609799.xml">
 Bradley M. Kuhn</link></person>
-&nbsp;·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/383972.xml">
 Eben Moglen</link></celebrity>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9173553029164789">
+ ·  <president wordnetid="110468559" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../143/3434143.xml">
 Richard Stallman</link></person>
 </president>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../380/12284380.xml">
 John Sullivan</link></person>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../587/7122587.xml">
 Leonard H. Tower Jr.</link></scientist>
 </col>
@@ -540,7 +540,7 @@ GNU/Linux naming controversy</link></speech_act>
 </dispute>
 </event>
 </controversy>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -588,29 +588,29 @@ operating system</header>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../236/2397236.xml">
-Adoption</link>&nbsp;·  <link xlink:type="simple" xlink:href="../759/916759.xml">
-Comparison of Windows and Linux</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+Adoption</link> ·  <link xlink:type="simple" xlink:href="../759/916759.xml">
+Comparison of Windows and Linux</link> ·  <message wordnetid="106598915" confidence="0.8">
 <disapproval wordnetid="106709533" confidence="0.8">
 <criticism wordnetid="106710546" confidence="0.8">
 <link xlink:type="simple" xlink:href="../262/8761262.xml">
 Criticism</link></criticism>
 </disapproval>
 </message>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../549/275549.xml">
 GNU Project</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../417/14032417.xml">
-History</link>&nbsp;·  <link xlink:type="simple" xlink:href="../249/9055249.xml">
-Linux Foundation</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../417/14032417.xml">
+History</link> ·  <link xlink:type="simple" xlink:href="../249/9055249.xml">
+Linux Foundation</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../510/18510.xml">
 Kernel</link></software>
  (<link xlink:type="simple" xlink:href="../791/10496791.xml">
-portability</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../370/70370.xml">
-Linus's Law</link>&nbsp;·  <controversy wordnetid="107183151" confidence="0.8">
+portability</link>) ·  <link xlink:type="simple" xlink:href="../370/70370.xml">
+Linus's Law</link> ·  <controversy wordnetid="107183151" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <dispute wordnetid="107181935" confidence="0.8">
 <disagreement wordnetid="107180787" confidence="0.8">
@@ -625,7 +625,7 @@ GNU/Linux naming controversy</link></speech_act>
 </dispute>
 </event>
 </controversy>
-&nbsp;·  <link xlink:type="simple" xlink:href="../325/18934325.xml">
+ ·  <link xlink:type="simple" xlink:href="../325/18934325.xml">
 Tux</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="15">
 <image width="64px" src="NewTux.svg">
@@ -656,7 +656,7 @@ Distribution</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../212/18212.xml">
 Distribution</link> (<link xlink:type="simple" xlink:href="../052/1357052.xml">
-comparison</link>)&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+comparison</link>) ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../137/331137.xml">
@@ -664,15 +664,15 @@ Live CD</link></distribution>
 </arrangement>
 </structure>
  (<link xlink:type="simple" xlink:href="../250/6798250.xml">
-comparison</link>)&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+comparison</link>) ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../416/5321416.xml">
 Live USB</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../019/593019.xml">
-Mini Linux</link>&nbsp;·  <link xlink:type="simple" xlink:href="../967/5010967.xml">
+ ·  <link xlink:type="simple" xlink:href="../019/593019.xml">
+Mini Linux</link> ·  <link xlink:type="simple" xlink:href="../967/5010967.xml">
 Package formats</link></col>
 </row>
 <row style="height:2px">
@@ -685,10 +685,10 @@ Applications</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../539/165539.xml">
 ALSA</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../068/10827068.xml">
-Desktop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../528/1762528.xml">
-Devices</link>&nbsp;·  <link xlink:type="simple" xlink:href="../204/1146204.xml">
-Embedded</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../068/10827068.xml">
+Desktop</link> ·  <link xlink:type="simple" xlink:href="../528/1762528.xml">
+Devices</link> ·  <link xlink:type="simple" xlink:href="../204/1146204.xml">
+Embedded</link> ·  <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -699,9 +699,9 @@ Gaming</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../172/2382172.xml">
-LAMP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../156/4988156.xml">
-Proprietary</link>&nbsp;·  <link xlink:type="simple" xlink:href="../473/954473.xml">
+ ·  <link xlink:type="simple" xlink:href="../172/2382172.xml">
+LAMP</link> ·  <link xlink:type="simple" xlink:href="../156/4988156.xml">
+Proprietary</link> ·  <link xlink:type="simple" xlink:href="../473/954473.xml">
 Thin client</link></col>
 </row>
 <row style="height:2px">
@@ -714,18 +714,18 @@ People</col>
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../233/561233.xml">
 Jono Bacon</link></person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../013/18951013.xml">
 Alan Cox</link></programmer>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <research_worker wordnetid="110523076" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../645/3306645.xml">
 Benjamin Mako Hill</link></research_worker>
 </person>
-&nbsp;·  <link xlink:type="simple" xlink:href="../837/391837.xml">
-Pamela Jones</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../837/391837.xml">
+Pamela Jones</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -738,25 +738,25 @@ Ari Lemmke</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../940/384940.xml">
 Andrew Morton</link></programmer>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../851/14851.xml">
 Ian Murdock</link></programmer>
 </person>
-&nbsp;·  <developer wordnetid="110010062" confidence="0.9173553029164789">
+ ·  <developer wordnetid="110010062" confidence="0.9173553029164789">
 <criminal wordnetid="109977660" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../815/350815.xml">
 Hans Reiser</link></criminal>
 </developer>
-&nbsp;·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../175/7848175.xml">
 Scott James Remnant</link></celebrity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -769,27 +769,27 @@ Daniel Robbins</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <entrepreneur wordnetid="110060352" confidence="0.9173553029164789">
+ ·  <entrepreneur wordnetid="110060352" confidence="0.9173553029164789">
 <astronaut wordnetid="109818022" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../962/604962.xml">
 Mark Shuttleworth</link></astronaut>
 </entrepreneur>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9173553029164789">
+ ·  <president wordnetid="110468559" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../143/3434143.xml">
 Richard Stallman</link></person>
 </president>
-&nbsp;·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ ·  <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <programmer wordnetid="110481268" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../618/17618.xml">
 Linus Torvalds</link></programmer>
 </person>
 </celebrity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../724/1034724.xml">
 Theodore Ts'o</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -808,8 +808,8 @@ Patrick Volkerding</link></scholar>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../991/5831991.xml">
-Warren Woodford</link>&nbsp;·  <link xlink:type="simple" xlink:href="../237/5678237.xml">
+ ·  <link xlink:type="simple" xlink:href="../991/5831991.xml">
+Warren Woodford</link> ·  <link xlink:type="simple" xlink:href="../237/5678237.xml">
 Matt Zimmerman</link></col>
 </row>
 <row style="height:2px">
@@ -848,7 +848,7 @@ Enterprise open source journal</link></web_site>
 </creation>
 </computer>
 </work>
-&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ ·  <work wordnetid="104599396" confidence="0.8">
 <computer wordnetid="103082979" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -877,10 +877,10 @@ Free Software Magazine</link></web_site>
 </creation>
 </computer>
 </work>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../597/10525597.xml">
 Linux.com</link></web_site>
-&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ ·  <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <magazine wordnetid="106595351" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -901,7 +901,7 @@ Linux Format</link></publication>
 </magazine>
 </product>
 </work>
-&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ ·  <work wordnetid="104599396" confidence="0.8">
 <computer wordnetid="103082979" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -930,7 +930,7 @@ Linux Gazette</link></web_site>
 </creation>
 </computer>
 </work>
-&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ ·  <work wordnetid="104599396" confidence="0.8">
 <computer wordnetid="103082979" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -959,7 +959,7 @@ Linux Journal</link></web_site>
 </creation>
 </computer>
 </work>
-&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ ·  <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <magazine wordnetid="106595351" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -980,8 +980,8 @@ Linux-Magazin</link></publication>
 </magazine>
 </product>
 </work>
-&nbsp;· <link xlink:type="simple" xlink:href="../228/507228.xml">
-Linux Magazine</link>&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../228/507228.xml">
+Linux Magazine</link> ·  <work wordnetid="104599396" confidence="0.8">
 <computer wordnetid="103082979" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -1010,7 +1010,7 @@ LWN.net</link></web_site>
 </creation>
 </computer>
 </work>
-&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ ·  <work wordnetid="104599396" confidence="0.8">
 <computer wordnetid="103082979" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <print_media wordnetid="106263609" confidence="0.8">
@@ -1039,10 +1039,10 @@ O3 Magazine</link></web_site>
 </creation>
 </computer>
 </work>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../332/8428332.xml">
 Phoronix</link></web_site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../562/8718562.xml">
+ ·  <link xlink:type="simple" xlink:href="../562/8718562.xml">
 LugRadio</link></col>
 </row>
 <row style="height:2px">
@@ -1053,8 +1053,8 @@ LugRadio</link></col>
 Lists</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../959/16806959.xml">
-Devices</link>&nbsp;·  <link xlink:type="simple" xlink:href="../709/620709.xml">
-Distributions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../362/8111362.xml">
+Devices</link> ·  <link xlink:type="simple" xlink:href="../709/620709.xml">
+Distributions</link> ·  <link xlink:type="simple" xlink:href="../362/8111362.xml">
 Live Distros</link></col>
 </row>
 <row style="height:2px">
@@ -1065,16 +1065,16 @@ Live Distros</link></col>
 Mobile</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../520/4636520.xml">
-Access Linux Platform</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+Access Linux Platform</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../483/12610483.xml">
 Android</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../622/16035622.xml">
-LiMo Platform</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../622/16035622.xml">
+LiMo Platform</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../656/1803656.xml">
 Mobilinux</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../538/16884538.xml">
-Moblin project</link>&nbsp;·  <link xlink:type="simple" xlink:href="../113/14269113.xml">
-Ubuntu Mobile</link>&nbsp;·  <link xlink:type="simple" xlink:href="../468/3171468.xml">
+ ·  <link xlink:type="simple" xlink:href="../538/16884538.xml">
+Moblin project</link> ·  <link xlink:type="simple" xlink:href="../113/14269113.xml">
+Ubuntu Mobile</link> ·  <link xlink:type="simple" xlink:href="../468/3171468.xml">
 Linux Phone Standards Forum</link></col>
 </row>
 <row style="height:2px">
@@ -1097,13 +1097,13 @@ Linux malware</link></infectious_agent>
 </virus>
 </microorganism>
 </physical_entity>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <club wordnetid="108227214" confidence="0.8">
 <link xlink:type="simple" xlink:href="../770/19442770.xml">
 Linux User Group (LUG)</link></club>
 </association>
-&nbsp;·  <link xlink:type="simple" xlink:href="../753/246753.xml">
-Linux Standard Base</link>&nbsp;·  <it><product wordnetid="104007894" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../753/246753.xml">
+Linux Standard Base</link> ·  <it><product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1122,8 +1122,8 @@ Revolution OS</link></psychological_feature>
 </artifact>
 </creation>
 </product>
-</it>&nbsp;·  <link xlink:type="simple" xlink:href="../847/872847.xml">
-SCO and Linux</link>&nbsp;·  <link xlink:type="simple" xlink:href="../911/5087911.xml">
+</it> ·  <link xlink:type="simple" xlink:href="../847/872847.xml">
+SCO and Linux</link> ·  <link xlink:type="simple" xlink:href="../911/5087911.xml">
 Tanenbaum-Torvalds debate</link></col>
 </row>
 </table>
@@ -1154,17 +1154,17 @@ General</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../418/414418.xml">
 Common Unix Printing System</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../894/10894.xml">
-The Free Software Definition</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../894/10894.xml">
+The Free Software Definition</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../549/275549.xml">
 GNU Project</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../314/43314.xml">
-List of applications</link>&nbsp;·  <link xlink:type="simple" xlink:href="../758/18938758.xml">
-Open source</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../314/43314.xml">
+List of applications</link> ·  <link xlink:type="simple" xlink:href="../758/18938758.xml">
+Open source</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -1201,10 +1201,10 @@ Free softwareportal</it></b></col>
 History</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../417/14032417.xml">
-Linux</link>&nbsp;·  <link xlink:type="simple" xlink:href="../225/20225.xml">
+Linux</link> ·  <link xlink:type="simple" xlink:href="../225/20225.xml">
 Mozilla</link> (<link xlink:type="simple" xlink:href="../570/2024570.xml">
-Application Suite</link>&nbsp;·  <link xlink:type="simple" xlink:href="../550/1564550.xml">
-Firefox</link>&nbsp;·  <link xlink:type="simple" xlink:href="../227/1890227.xml">
+Application Suite</link> ·  <link xlink:type="simple" xlink:href="../550/1564550.xml">
+Firefox</link> ·  <link xlink:type="simple" xlink:href="../227/1890227.xml">
 Thunderbird</link>)</col>
 </row>
 <row style="height:2px">
@@ -1218,19 +1218,19 @@ Operating system families</link></col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/18932622.xml">
 BSD</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../076/53076.xml">
-Darwin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../875/11875.xml">
-GNU</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../076/53076.xml">
+Darwin</link> ·  <link xlink:type="simple" xlink:href="../875/11875.xml">
+GNU</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/18977.xml">
 MINIX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
-OpenSolaris</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
+OpenSolaris</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/360889.xml">
 ReactOS</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../281/554281.xml">
 Haiku</link></O>
 </col>
@@ -1256,7 +1256,7 @@ GCC</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -1269,15 +1269,15 @@ LLVM</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 Java</link></request>
 </message>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/23939.xml">
 Perl</link></programming_language>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -1292,15 +1292,15 @@ PHP</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/23862.xml">
 Python</link></programming_language>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <link xlink:type="simple" xlink:href="../768/25768.xml">
 Ruby</link></causal_agent>
 </physical_entity>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../237/30237.xml">
 Tcl</link></programming_language>
 </col>
@@ -1316,36 +1316,36 @@ Desktop environments</link></col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../262/229262.xml">
 Blackbox</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../391/68391.xml">
 EDE</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../969/79969.xml">
 Enlightenment</link></software>
-&nbsp;·  <link>
-Étoilé</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link>
+Étoilé</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../364/169364.xml">
 Fluxbox</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../362/12362.xml">
-GNOME</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../362/12362.xml">
+GNOME</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/79977.xml">
 IceWM</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../629/16629.xml">
 KDE</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../104/761104.xml">
 LiteStep</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../016/374016.xml">
 Openbox</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../725/294725.xml">
 ROX</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../163/432163.xml">
 Window Maker</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../103/69103.xml">
 Xfce</link></software>
 </col>
@@ -1365,9 +1365,9 @@ Free Software Foundation</link></group>
 Europe</link></company>
 , <link xlink:type="simple" xlink:href="../326/2305326.xml">
 India</link>, <link xlink:type="simple" xlink:href="../125/3175125.xml">
-Latin America</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../249/9055249.xml">
-Linux Foundation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../489/382489.xml">
-Mozilla Foundation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/22298.xml">
+Latin America</link>) ·  <link xlink:type="simple" xlink:href="../249/9055249.xml">
+Linux Foundation</link> ·  <link xlink:type="simple" xlink:href="../489/382489.xml">
+Mozilla Foundation</link> ·  <link xlink:type="simple" xlink:href="../298/22298.xml">
 Open Source Initiative</link></col>
 </row>
 <row style="height:2px">
@@ -1379,13 +1379,13 @@ Open Source Initiative</link></col>
 Licences</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../908/145908.xml">
-Apache</link>&nbsp;·  <link xlink:type="simple" xlink:href="../111/18933111.xml">
-BSD</link>&nbsp;·  <link xlink:type="simple" xlink:href="../683/18938683.xml">
-GPL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../073/13073.xml">
-LGPL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../193/19193.xml">
-MIT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../528/608528.xml">
-MPL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../057/2404057.xml">
-Permissive free software licences</link>&nbsp;·  <link xlink:type="simple" xlink:href="../003/11689003.xml">
+Apache</link> ·  <link xlink:type="simple" xlink:href="../111/18933111.xml">
+BSD</link> ·  <link xlink:type="simple" xlink:href="../683/18938683.xml">
+GPL</link> ·  <link xlink:type="simple" xlink:href="../073/13073.xml">
+LGPL</link> ·  <link xlink:type="simple" xlink:href="../193/19193.xml">
+MIT</link> ·  <link xlink:type="simple" xlink:href="../528/608528.xml">
+MPL</link> ·  <link xlink:type="simple" xlink:href="../057/2404057.xml">
+Permissive free software licences</link> ·  <link xlink:type="simple" xlink:href="../003/11689003.xml">
 License proliferation</link></col>
 </row>
 <row style="height:2px">
@@ -1396,12 +1396,12 @@ License proliferation</link></col>
 Challenges</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../467/5540467.xml">
-Binary blob</link>&nbsp;·  <link xlink:type="simple" xlink:href="../226/18938226.xml">
-Digital rights management</link>&nbsp;·  <link xlink:type="simple" xlink:href="../415/17501415.xml">
-Open source software security</link>&nbsp;·  <link xlink:type="simple" xlink:href="../886/18934886.xml">
-Proprietary software</link>&nbsp;·  <link xlink:type="simple" xlink:href="../847/872847.xml">
-SCO-Linux controversies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../620/9807620.xml">
-Software patents and free software</link>&nbsp;·  <word wordnetid="106286395" confidence="0.8">
+Binary blob</link> ·  <link xlink:type="simple" xlink:href="../226/18938226.xml">
+Digital rights management</link> ·  <link xlink:type="simple" xlink:href="../415/17501415.xml">
+Open source software security</link> ·  <link xlink:type="simple" xlink:href="../886/18934886.xml">
+Proprietary software</link> ·  <link xlink:type="simple" xlink:href="../847/872847.xml">
+SCO-Linux controversies</link> ·  <link xlink:type="simple" xlink:href="../620/9807620.xml">
+Software patents and free software</link> ·  <word wordnetid="106286395" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <neologism wordnetid="106294441" confidence="0.8">
 <language_unit wordnetid="106284225" confidence="0.8">
@@ -1410,7 +1410,7 @@ Tivoization</link></language_unit>
 </neologism>
 </part>
 </word>
-&nbsp;·  <link xlink:type="simple" xlink:href="../608/58608.xml">
+ ·  <link xlink:type="simple" xlink:href="../608/58608.xml">
 Trusted Computing</link></col>
 </row>
 <row style="height:2px">
@@ -1421,18 +1421,18 @@ Trusted Computing</link></col>
 Other topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../900/2953900.xml">
-Alternative terms</link>&nbsp;·  <link xlink:type="simple" xlink:href="../466/6974466.xml">
-Community</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Alternative terms</link> ·  <link xlink:type="simple" xlink:href="../466/6974466.xml">
+Community</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../638/10638.xml">
 Movement</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../636/2009636.xml">
-Comparison of open source and closed source</link>&nbsp;·  <link xlink:type="simple" xlink:href="../496/1721496.xml">
-Free and open source software</link>&nbsp;·  <link xlink:type="simple" xlink:href="../890/12869890.xml">
-Floss manuals</link>&nbsp;·  <it><product wordnetid="104007894" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../636/2009636.xml">
+Comparison of open source and closed source</link> ·  <link xlink:type="simple" xlink:href="../496/1721496.xml">
+Free and open source software</link> ·  <link xlink:type="simple" xlink:href="../890/12869890.xml">
+Floss manuals</link> ·  <it><product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">

@@ -194,7 +194,7 @@ key-scheduling</link></algorithm>
 </rule>
 </event>
  algorithm is used to initialize the permutation in the array "S". "keylength" is defined as the number of bytes in the key and can be in the range 1 ≤ keylength ≤ 256, typically between 5 and 16, corresponding to a <link xlink:type="simple" xlink:href="../749/5749.xml">
-key length</link> of 40 &ndash; 128 bits. First, the array "S" is initialized to the <link xlink:type="simple" xlink:href="../428/298428.xml">
+key length</link> of 40 – 128 bits. First, the array "S" is initialized to the <link xlink:type="simple" xlink:href="../428/298428.xml">
 identity permutation</link>. S is then processed for 256 iterations in a similar way to the main PRGA algorithm, but also mixes in bytes of the key at the same time.</p>
 <p>
 
@@ -624,7 +624,7 @@ Cypherpunks</link> mailing list</it>&#32;(<link>
 1994-09-09</link>).&#32;Retrieved on <link>
 2007-05-28</link>.</entry>
 <entry id="3">
-Scott R. Fluhrer and David A. McGrew, Statistical Analysis of the Alleged RC4 Keystream Generator. FSE 2000, pp19 &ndash; 30 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/FluhrerMcgrew.pdf">
+Scott R. Fluhrer and David A. McGrew, Statistical Analysis of the Alleged RC4 Keystream Generator. FSE 2000, pp19 – 30 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/FluhrerMcgrew.pdf">
 (PDF)</weblink></entry>
 <entry id="4">
 <weblink xlink:type="simple" xlink:href="http://www.users.zetnet.co.uk/hopwood/crypto/scan/cs.html#RC4-drop">
@@ -650,15 +650,15 @@ Selected Areas in Cryptography</link></conference>
 </gathering>
 </meeting>
 </social_group>
- 2001, pp1 &ndash; 24 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/Rc4_ksa.ps">
+ 2001, pp1 – 24 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/Rc4_ksa.ps">
 (PS)</weblink>.</entry>
 <entry level="1" type="bullet">
 
- Jovan Dj. Golic, Iterative Probabilistic Cryptanalysis of RC4 Keystream Generator. ACISP 2000, pp220 &ndash; 233</entry>
+ Jovan Dj. Golic, Iterative Probabilistic Cryptanalysis of RC4 Keystream Generator. ACISP 2000, pp220 – 233</entry>
 <entry level="1" type="bullet">
 
  Jovan Dj. Golic, Linear Statistical Weakness of Alleged RC4 Keystream Generator. <link xlink:type="simple" xlink:href="../207/4229207.xml">
-EUROCRYPT</link> 1997, pp226 &ndash; 238 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/Golic.PDF">
+EUROCRYPT</link> 1997, pp226 – 238 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/Golic.PDF">
 (PDF)</weblink>.</entry>
 <entry level="1" type="bullet">
 
@@ -682,7 +682,7 @@ Vincent Rijmen</link></decoder>
 </person>
 </physical_entity>
  and Sven Verdoolaege, Analysis Methods for (Alleged) RC4. <link xlink:type="simple" xlink:href="../573/4229573.xml">
-ASIACRYPT</link> 1998, pp327 &ndash; 341 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/Knudsen.ps">
+ASIACRYPT</link> 1998, pp327 – 341 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/Knudsen.ps">
 (PS)</weblink>.</entry>
 <entry level="1" type="bullet">
 
@@ -691,16 +691,16 @@ ASIACRYPT</link> 1998, pp327 &ndash; 341 <weblink xlink:type="simple" xlink:href
 <link xlink:type="simple" xlink:href="../314/57314.xml">
 Adi Shamir</link></scientist>
 </person>
-, A Practical Attack on Broadcast RC4. FSE 2001, pp152 &ndash; 164 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/bc_rc4.ps">
+, A Practical Attack on Broadcast RC4. FSE 2001, pp152 – 164 <weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/~itsik/RC4/Papers/bc_rc4.ps">
 (PS)</weblink>.</entry>
 <entry level="1" type="bullet">
 
  Serge Mister and <link xlink:type="simple" xlink:href="../396/9546396.xml">
-Stafford E. Tavares</link>, Cryptanalysis of RC4-like Ciphers. Selected Areas in Cryptography 1998, pp131 &ndash; 143</entry>
+Stafford E. Tavares</link>, Cryptanalysis of RC4-like Ciphers. Selected Areas in Cryptography 1998, pp131 – 143</entry>
 <entry level="1" type="bullet">
 
  Ilya Mironov, (Not So) Random Shuffles of RC4. <link xlink:type="simple" xlink:href="../977/40977.xml">
-CRYPTO</link> 2002, pp304 &ndash; 319</entry>
+CRYPTO</link> 2002, pp304 – 319</entry>
 <entry level="1" type="bullet">
 
  <physical_entity wordnetid="100001930" confidence="0.8">
@@ -724,7 +724,7 @@ Souradyuti Paul</link></decoder>
 Bart Preneel</link></professor>
 </person>
 , Analysis of Non-fortuitous Predictive States of the RC4 Keystream Generator. <link xlink:type="simple" xlink:href="../663/9578663.xml">
-INDOCRYPT</link> 2003, pp52 &ndash; 67 <weblink xlink:type="simple" xlink:href="http://www.cosic.esat.kuleuven.be/publications/article-86.pdf">
+INDOCRYPT</link> 2003, pp52 – 67 <weblink xlink:type="simple" xlink:href="http://www.cosic.esat.kuleuven.be/publications/article-86.pdf">
 (PDF)</weblink>.</entry>
 <entry level="1" type="bullet">
 
@@ -759,7 +759,7 @@ Fast Software Encryption</link></conference>
 </gathering>
 </meeting>
 </social_group>
- - FSE 2004, pp245 &ndash; 259 <weblink xlink:type="simple" xlink:href="http://www.cosic.esat.kuleuven.be/publications/article-40.pdf">
+ - FSE 2004, pp245 – 259 <weblink xlink:type="simple" xlink:href="http://www.cosic.esat.kuleuven.be/publications/article-40.pdf">
 (PDF)</weblink>.</entry>
 </list>
 </p>
@@ -831,7 +831,7 @@ Fluhrer, Mantin, and Shamir attack on WEP (postscript format)</weblink></entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../007/49007.xml">
+ <link xlink:type="simple" xlink:href="../007/49007.xml">
 Stream cipher</link>s</header>
 </row>
 <row style="height:2px;">
@@ -849,13 +849,13 @@ A5/1</link></system_of_measurement>
 </cipher>
 </standard>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../816/543816.xml">
 A5/2</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -871,7 +871,7 @@ E0</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <amount wordnetid="105107765" confidence="0.8">
 <magnitude wordnetid="105090441" confidence="0.8">
@@ -885,19 +885,19 @@ FISH</link></cipher>
 </magnitude>
 </amount>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../390/2710390.xml">
 Grain</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../087/4546087.xml">
 HC-256</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -913,91 +913,91 @@ ISAAC</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../225/1508225.xml">
 MUGI</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../789/4170789.xml">
-Panama</link>&nbsp;&#124; 
+Panama</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../596/883596.xml">
 Phelix</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../128/294128.xml">
 Pike</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../084/3955084.xml">
 Py</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../998/15603998.xml">
  QUAD </link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../952/4565952.xml">
 Rabbit</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../831/25831.xml">
 RC4</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../329/2701329.xml">
 Salsa20</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../011/4159011.xml">
 Scream</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../108/294108.xml">
 SEAL</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../325/8648325.xml">
 SOBER</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../280/1080280.xml">
 SOBER-128</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../152/4546152.xml">
 SOSEMANUK</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../653/2620653.xml">
 Trivium</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../536/2613536.xml">
-VEST</link>&nbsp;&#124; 
+VEST</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../287/599287.xml">
@@ -1013,15 +1013,15 @@ WAKE</link></cipher>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Theory:</b> <link xlink:type="simple" xlink:href="../699/41699.xml">
-Shift register</link>&nbsp;&#124; 
+Shift register</link> &#124; 
 <link xlink:type="simple" xlink:href="../992/58992.xml">
-LFSR</link>&nbsp;&#124; 
+LFSR</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../481/2613481.xml">
 NLFSR</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1037,7 +1037,7 @@ Shrinking generator</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1047,7 +1047,7 @@ T-function</link></primitive>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../971/105971.xml">
 IV</link></p>
 </col>
@@ -1078,7 +1078,7 @@ eSTREAM</link></cipher>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

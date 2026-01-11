@@ -813,7 +813,7 @@ brand</link>ed their 2G CDMA standard, IS-95, as cdmaOne.)</p>
 
 CDMA2000 is an incompatible competitor of the other major 3G standard <link xlink:type="simple" xlink:href="../237/32237.xml">
 UMTS</link>.
-It is defined to operate at 450&nbsp;MHz, 700&nbsp;MHz, 800&nbsp;MHz, 900&nbsp;MHz, 1700&nbsp;MHz, 1800&nbsp;MHz, 1900&nbsp;MHz, and 2100&nbsp;MHz.</p>
+It is defined to operate at 450 MHz, 700 MHz, 800 MHz, 900 MHz, 1700 MHz, 1800 MHz, 1900 MHz, and 2100 MHz.</p>
 <p>
 
 Below are the different types of CDMA2000, in order of increasing complexity:</p>
@@ -830,7 +830,7 @@ Below are the different types of CDMA2000, in order of increasing complexity:</p
 IS-95</link></system_of_measurement>
 </standard>
 : a <link xlink:type="simple" xlink:href="../491/2112491.xml">
-duplex</link> pair of 1.25&nbsp;MHz radio channels. This contrasts with 3xRTT, which uses channels 3 times as wide (3.75&nbsp;MHz) channels.  1xRTT almost doubles the capacity of IS-95 by adding 64 more traffic channels to the <link>
+duplex</link> pair of 1.25 MHz radio channels. This contrasts with 3xRTT, which uses channels 3 times as wide (3.75 MHz) channels.  1xRTT almost doubles the capacity of IS-95 by adding 64 more traffic channels to the <link>
 forward link</link>, <link xlink:type="simple" xlink:href="../221/102221.xml">
 orthogonal</link> to (in <link xlink:type="simple" xlink:href="../178/3440178.xml">
 quadrature</link> with) the original set of 64.  Although capable of higher data rates, most deployments are limited to a peak of 144 kbit/s. IMT-2000 also made changes to the <link xlink:type="simple" xlink:href="../949/152949.xml">
@@ -942,7 +942,7 @@ OneTel Communications Ltd.</weblink>,<weblink xlink:type="simple" xlink:href="ht
 <link xlink:type="simple" xlink:href="../457/3457.xml">
 Belarus</link></country>
 : <weblink xlink:type="simple" xlink:href="http://www.belcel.by/en/">
-BelCel (diallog)</weblink> provides CDMA2000 1x and EV-DO in the 450&nbsp;MHz band (for phones and modems).</entry>
+BelCel (diallog)</weblink> provides CDMA2000 1x and EV-DO in the 450 MHz band (for phones and modems).</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -994,14 +994,14 @@ Virgin Mobile Canada</link></company>
  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../321/5321.xml">
 Czech Republic</link></country>
-: Telefonica O2 Czech Republic, formerly Eurotel (the world's first CDMA EV-DO in 450&nbsp;MHz launched in August 2004), succeeded by UMTS, and Mobilkom a.s. alias <weblink xlink:type="simple" xlink:href="http://www.ufon.cz/">
-U:fon</weblink>(430&nbsp;MHz launched in May 2007) </entry>
+: Telefonica O2 Czech Republic, formerly Eurotel (the world's first CDMA EV-DO in 450 MHz launched in August 2004), succeeded by UMTS, and Mobilkom a.s. alias <weblink xlink:type="simple" xlink:href="http://www.ufon.cz/">
+U:fon</weblink>(430 MHz launched in May 2007) </entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/76972.xml">
 Denmark</link></country>
-: Nordisk Mobiltelefoni operates CDMA2000 network in the 450&nbsp;MHz band. Modems will work in Norway, Sweden, Iceland, Poland and Ireland.</entry>
+: Nordisk Mobiltelefoni operates CDMA2000 network in the 450 MHz band. Modems will work in Norway, Sweden, Iceland, Poland and Ireland.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1010,7 +1010,7 @@ Ecuador</link></country>
 : Telecsa S.A <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../670/16864670.xml">
 Alegro PCS</link></company>
- CDMA 1X - CDMA 1X EVDO network operating in 1900&nbsp;MHz. Movistar CDMA 1X network operating in 850&nbsp;MHz.</entry>
+ CDMA 1X - CDMA 1X EVDO network operating in 1900 MHz. Movistar CDMA 1X network operating in 850 MHz.</entry>
 <entry level="1" type="bullet">
 
  <political_orientation wordnetid="106212839" confidence="0.8">
@@ -1018,7 +1018,7 @@ Alegro PCS</link></company>
 <link xlink:type="simple" xlink:href="../577/17238577.xml">
 Estonia</link></democracy>
 </political_orientation>
-: CDMA2000 1x network operating in 450&nbsp;MHz spectrum is available since July 2007 by <company wordnetid="108058098" confidence="0.9508927676800064">
+: CDMA2000 1x network operating in 450 MHz spectrum is available since July 2007 by <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../744/7242744.xml">
 Eesti Energia</link></company>
  subsidiary <link>
@@ -1026,13 +1026,13 @@ Televõrgu</link> AS by name Kõu, covering all of country territory.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../656/65656.xml">
-Gambia</link>: CDMA20001x network, 450, 800&nbsp;MHz, since 2005 from Gamtel, named Jamano, equipment from Huawei. EV-D0 planned.</entry>
+Gambia</link>: CDMA20001x network, 450, 800 MHz, since 2005 from Gamtel, named Jamano, equipment from Huawei. EV-D0 planned.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../067/12067.xml">
 Ghana</link></country>
-: CDMA2000 1x network operating in 800&nbsp;MHz spectrum is available since October 2005 by Kasapa subsidiary Hutchinson Telecom, covering most of the country's 10 regions.</entry>
+: CDMA2000 1x network operating in 800 MHz spectrum is available since October 2005 by Kasapa subsidiary Hutchinson Telecom, covering most of the country's 10 regions.</entry>
 <entry level="1" type="bullet">
 
  <system wordnetid="108435388" confidence="0.8">
@@ -1043,7 +1043,7 @@ Iceland</link></group>
 </economy>
 </system>
 : <weblink xlink:type="simple" xlink:href="http://www.ice.net/">
-Ice.net</weblink> "Nordisk Mobiltelefoni AB" will soon launch a CDMA2000 network in the 450&nbsp;MHz band on Iceland. Modems will work in Norway, Sweden, Denmark, Poland and Ireland.</entry>
+Ice.net</weblink> "Nordisk Mobiltelefoni AB" will soon launch a CDMA2000 network in the 450 MHz band on Iceland. Modems will work in Norway, Sweden, Denmark, Poland and Ireland.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1077,14 +1077,14 @@ Tata Teleservices</link></institution>
 <link xlink:type="simple" xlink:href="../579/14579.xml">
 Indonesia</link></country>
 : <weblink xlink:type="simple" xlink:href="http://www.mobile-8.com/">
-Mobile-8 Telecom</weblink> with its brand, FREN is the first Indonesian major wireless operator with CDMA2000 1x RTT and currently expand its EVDO Rev A, who has introduced the first Mobile TV in the market. Later followed by Sampoerna Telecom with its brand, CERIA which operates CDMA 2000 at 450&nbsp;MHz. The other CDMA2000 providers are running with fixed wireless access license such as Bakrie Telkom with its brand, Esia and Telkom with its brand, TelkomFlexi.</entry>
+Mobile-8 Telecom</weblink> with its brand, FREN is the first Indonesian major wireless operator with CDMA2000 1x RTT and currently expand its EVDO Rev A, who has introduced the first Mobile TV in the market. Later followed by Sampoerna Telecom with its brand, CERIA which operates CDMA 2000 at 450 MHz. The other CDMA2000 providers are running with fixed wireless access license such as Bakrie Telkom with its brand, Esia and Telkom with its brand, TelkomFlexi.</entry>
 <entry level="1" type="bullet">
 
  <island wordnetid="109316454" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../575/147575.xml">
 Ireland</link></island>
 : <weblink xlink:type="simple" xlink:href="http://www.ice.net/">
-Ice.net</weblink> "Nordisk Mobiltelefoni AB" will soon launch a CDMA2000 network in the 450&nbsp;MHz band on Ireland. Modems will work in Norway, Sweden, Denmark, Iceland and Poland.</entry>
+Ice.net</weblink> "Nordisk Mobiltelefoni AB" will soon launch a CDMA2000 network in the 450 MHz band on Ireland. Modems will work in Norway, Sweden, Denmark, Iceland and Poland.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../573/15573.xml">
@@ -1113,20 +1113,20 @@ Latvia</link></group>
 </economy>
 </system>
 : <weblink xlink:type="simple" xlink:href="http://www.triatel.lv">
-Triatel</weblink> offers mobile and fixed telephony and data services using CDMA2000 at 450&nbsp;MHz.</entry>
+Triatel</weblink> offers mobile and fixed telephony and data services using CDMA2000 at 450 MHz.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../088/19088.xml">
 Malawi</link></country>
 : CDMA2000 1x and EV-DO will be available in Malawi in 2008 through <weblink xlink:type="simple" xlink:href="http://www.access.mw">
-Access Communications Ltd</weblink> the Second National Operator in the 800&nbsp;MHz Band.</entry>
+Access Communications Ltd</weblink> the Second National Operator in the 800 MHz Band.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../964/18964.xml">
 Madagascar</link></country>
-: Telma (Telecom Malagasy) operates CDMA2000 network in the 450&nbsp;MHz band. The network called "Telma fixe" is available since 2005 and offers fixed telephony and data services.</entry>
+: Telma (Telecom Malagasy) operates CDMA2000 network in the 450 MHz band. The network called "Telma fixe" is available since 2005 and offers fixed telephony and data services.</entry>
 <entry level="1" type="bullet">
 
  <body wordnetid="107965085" confidence="0.8">
@@ -1159,7 +1159,7 @@ Unefon</link> are using the 1x technology.</entry>
 <link xlink:type="simple" xlink:href="../260/19260.xml">
 Moldova</link></region>
 : <weblink xlink:type="simple" xlink:href="http://www.unite.md">
-Unite</weblink> offers both mobile and fixed telephony and data services using CDMA2000 in the 450&nbsp;MHz band since March 2007.</entry>
+Unite</weblink> offers both mobile and fixed telephony and data services using CDMA2000 in the 450 MHz band since March 2007.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1224,7 +1224,7 @@ Norway</link></group>
 </system>
 : <weblink xlink:type="simple" xlink:href="http://www.ice.no/">
 Ice.net</weblink> former known as <link>
-Nordisk Mobiltelefon</link>, provides CDMA2000 in the 450&nbsp;MHz band (for modems). Modems will work in Norway, Sweden, Denmark, Poland, Iceland and Ireland.</entry>
+Nordisk Mobiltelefon</link>, provides CDMA2000 in the 450 MHz band (for modems). Modems will work in Norway, Sweden, Denmark, Poland, Iceland and Ireland.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1276,9 +1276,9 @@ Sferia</weblink> provides fixed and mobile telephones in <site wordnetid="108651
 <link xlink:type="simple" xlink:href="../908/32908.xml">
 Warsaw</link></village>
 </site>
- using a CDMA2000 radio network in the 870&nbsp;MHz band. <weblink xlink:type="simple" xlink:href="http://www.ice.net/">
-Ice.net</weblink> "Nordisk Mobiltelefoni AB" will soon launch a CDMA2000 network in the 450&nbsp;MHz band in Poland. Modems will work in Norway, Sweden, Denmark, Iceland and Ireland. Also the national telephone and internet service provider, <weblink xlink:type="simple" xlink:href="http://www.tp.pl/">
-Telekomunikacja Polska S.A.</weblink> is about to launch a CDMA2000 based internet access service in the 450&nbsp;MHz band.</entry>
+ using a CDMA2000 radio network in the 870 MHz band. <weblink xlink:type="simple" xlink:href="http://www.ice.net/">
+Ice.net</weblink> "Nordisk Mobiltelefoni AB" will soon launch a CDMA2000 network in the 450 MHz band in Poland. Modems will work in Norway, Sweden, Denmark, Iceland and Ireland. Also the national telephone and internet service provider, <weblink xlink:type="simple" xlink:href="http://www.tp.pl/">
+Telekomunikacja Polska S.A.</weblink> is about to launch a CDMA2000 based internet access service in the 450 MHz band.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1287,7 +1287,7 @@ Portugal</link></country>
 : <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../144/313144.xml">
 Zapp Mobile</link></company>
- provides CDMA2000 in the 450&nbsp;MHz band (for modems).</entry>
+ provides CDMA2000 in the 450 MHz band (for modems).</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1296,7 +1296,7 @@ Romania</link></country>
 : <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../144/313144.xml">
 Zapp Mobile</link></company>
- provides CDMA2000 in the 450&nbsp;MHz band (for phones and modems).</entry>
+ provides CDMA2000 in the 450 MHz band (for phones and modems).</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1339,7 +1339,7 @@ Sri Lanka Telecom</link></institution>
  (SLT) <weblink xlink:type="simple" xlink:href="http://www.slt.lk/">
 www.slt.lk</weblink> moved to CDMA2000 service supplier and has ZTE EVDO Rev. 0 network and all island covered 1x data service. Suntel <weblink xlink:type="simple" xlink:href="http://www.suntel.lk/">
 www.suntel.lk</weblink> and Lanka Bell <weblink xlink:type="simple" xlink:href="http://www.lankabell.com/">
-www.lankabell.com</weblink> are using 800&nbsp;MHz range. Both operators have islandwide 1x data service and these days trying to enter EVDO rev0 data market.  DBN and Tritel are expecting to enter the Sri Lanka CDMA2000 market in June 2007 on 450&nbsp;MHz.  Among the five operators, Lanka Bell has the largest CDMA2000 market share.</entry>
+www.lankabell.com</weblink> are using 800 MHz range. Both operators have islandwide 1x data service and these days trying to enter EVDO rev0 data market.  DBN and Tritel are expecting to enter the Sri Lanka CDMA2000 market in June 2007 on 450 MHz.  Among the five operators, Lanka Bell has the largest CDMA2000 market share.</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1366,14 +1366,14 @@ Sweden</link></democracy>
 </social_group>
 </autocracy>
 : <weblink xlink:type="simple" xlink:href="http://www.ice.net/">
-Ice.net</weblink> former known as "Nordisk Mobiltelefoni AB" provides CDMA2000 in the 450&nbsp;MHz band for data modems. The modems can be used on the same network in Norway and Denmark. And later also on Ireland, Iceland and in Poland.</entry>
+Ice.net</weblink> former known as "Nordisk Mobiltelefoni AB" provides CDMA2000 in the 450 MHz band for data modems. The modems can be used on the same network in Norway and Denmark. And later also on Ireland, Iceland and in Poland.</entry>
 <entry level="1" type="bullet">
 
  <island wordnetid="109316454" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../107/30107.xml">
 Taiwan</link></island>
 : <link>
-Asia Pacific Telecom Group</link> (APTG) provides CDMA2000 in the 800&nbsp;MHz band</entry>
+Asia Pacific Telecom Group</link> (APTG) provides CDMA2000 in the 800 MHz band</entry>
 <entry level="1" type="bullet">
 
  <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1392,9 +1392,9 @@ CAT Telecom</link></institution>
 <link xlink:type="simple" xlink:href="../750/31750.xml">
 Ukraine</link></country>
 : <weblink xlink:type="simple" xlink:href="http://people.net.ua/">
-PEOPLEnet</weblink> is the provider 800&nbsp;MHz CDMA2000 1x and EV-DO Rev A since 2007 year. <weblink xlink:type="simple" xlink:href="http://mts.com.ua/">
-MTS</weblink> 450&nbsp;MHz Rev A (only data, no telephony), <weblink xlink:type="simple" xlink:href="http://www.intertelecom.ua/">
-Intertelecom (ITC)</weblink> 800&nbsp;MHz CDMA2000 1x and partly EV-DO Rev 0</entry>
+PEOPLEnet</weblink> is the provider 800 MHz CDMA2000 1x and EV-DO Rev A since 2007 year. <weblink xlink:type="simple" xlink:href="http://mts.com.ua/">
+MTS</weblink> 450 MHz Rev A (only data, no telephony), <weblink xlink:type="simple" xlink:href="http://www.intertelecom.ua/">
+Intertelecom (ITC)</weblink> 800 MHz CDMA2000 1x and partly EV-DO Rev 0</entry>
 <entry level="1" type="bullet">
 
  <body wordnetid="107965085" confidence="0.8">

@@ -452,7 +452,7 @@ Choose section with select strategy</col>
 <col valign="top">
 SSG4 suggests two strategies. The template-driven strategy is chosen because it is the most appropriate way to become familiar with the goal formalisation proposed by the CREWS-L’Ecritoire method</col>
 <col valign="top">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col valign="top">
@@ -477,7 +477,7 @@ Choose section with select intention</col>
 ISG1 provides RE with arguments to advise him on choosing one of the two possible intentions from <it>
 Elicit a Goal</it>, namely to <it>Elicit a Goal</it> or to <it>Write a Scenario</it>. The former is selected so as to generate alternative design solutions</col>
 <col valign="top">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col valign="top">
@@ -501,7 +501,7 @@ Choose section with select strategy</col>
 <col valign="top">
 SSG3 offers two strategies from which the template-driven strategy is chosen. This is because there is uncertainty about what a scenerio should be. The templates lead to some certainty</col>
 <col valign="top">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col valign="top">
@@ -525,7 +525,7 @@ Choose section with select strategy</col>
 <col valign="top">
 SSG2 offers two strategies to conceptualise a Scenario. Among the two strategies, manual and computer based, the former is chosen since the service scenario (SC4) is very simple and can be handled manually</col>
 <col valign="top">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col valign="top">
@@ -549,7 +549,7 @@ Choose section with select strategy</col>
 <col valign="top">
 The RE knows that he wants to analyse the scenario SC4 to discover a new goal. Thus, he knows the target intention ‘Elicit a Goal’ and SSG1 is displayed. SSG1 offers three strategies to discover new goals from scenario analysis. The refinement strategy, is chosen because there is a need to discover the functional requirements of recycling machine</col>
 <col valign="top">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col valign="top">
@@ -573,7 +573,7 @@ Choose section with select strategy</col>
 <col valign="top">
 The RE knows his target intention, namely ‘Write a Scenario’. Thus SSG3 is displayed to help the RE in selecting the right strategy. The free prose strategy is selected because the text is likely to be long and the free prose facilitates this</col>
 <col valign="top">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col valign="top">
@@ -597,7 +597,7 @@ Choose section with select strategy</col>
 <col valign="top">
 SSG2 is displayed. The automated support strategy is selected to take advantage of the powerful linguistic devices and obtain a scenario formulation which will be the basis for automated reasoning</col>
 <col valign="top">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col valign="top">
@@ -609,7 +609,7 @@ Enact section with automated support</col>
 <col valign="top">
 IAG9 semi-automatically transforms the initial prose into a structured text whose semantics conform to the scenario model. The transformation includes disambiguation, completion and mapping onto the linguistic structures associated to the concepts of the scenario model. SC24-2 is the result of the transformation of SC24-1. (Underlined statements result of the transformation)</col>
 <col valign="top">
-SC24-2: 1.&nbsp; The customer inserts the customer card in the RM, 2.&nbsp; The RM checks if the card is valid, 3.&nbsp; If the card is valid, 4.&nbsp; A prompt is given to the customer, 5.&nbsp; The customer inputs the bottles and the boxes in the RM, 6.&nbsp; The RM checks if the bottles and the boxes are not blocked, 7.&nbsp; If the bottles and the boxes are not blocked, 8.&nbsp; The RM ejects the card to the customer, 9.&nbsp; The RM prints a receipt to the customer</col>
+SC24-2: 1.  The customer inserts the customer card in the RM, 2.  The RM checks if the card is valid, 3.  If the card is valid, 4.  A prompt is given to the customer, 5.  The customer inputs the bottles and the boxes in the RM, 6.  The RM checks if the bottles and the boxes are not blocked, 7.  If the bottles and the boxes are not blocked, 8.  The RM ejects the card to the customer, 9.  The RM prints a receipt to the customer</col>
 </row>
 <row>
 <col valign="top">
@@ -621,7 +621,7 @@ Choose section with select strategy</col>
 <col valign="top">
 Of the three strategies proposed by SSG1, the alternative discovery strategy is chosen. This strategy suits the need to investigate variations and exceptions of the normal course of actions described in SC242</col>
 <col valign="top">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col valign="top">

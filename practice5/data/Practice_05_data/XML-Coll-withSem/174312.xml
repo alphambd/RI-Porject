@@ -163,7 +163,7 @@ PC</link>s are generally not vulnerable to this worm unless they have MSDE insta
 The worm was made possible by a <link xlink:type="simple" xlink:href="../827/1129827.xml">
 software security vulnerability</link> in SQL Server first reported by Microsoft on <link xlink:type="simple" xlink:href="../888/15888.xml">
 July 24</link>, <link xlink:type="simple" xlink:href="../502/35502.xml">
-2002</link>. A patch had been available from Microsoft for six months prior to the worm's launch, but many installations had not been patched &ndash; including some at Microsoft.  </p>
+2002</link>. A patch had been available from Microsoft for six months prior to the worm's launch, but many installations had not been patched – including some at Microsoft.  </p>
 <p>
 
 The slowdown was caused by the collapse of numerous <link xlink:type="simple" xlink:href="../748/25748.xml">
@@ -178,7 +178,7 @@ SQL Slammer was the first observed example of a "<worm wordnetid="101922303" con
 Warhol worm</link></animal>
 </invertebrate>
 </worm>
-" &ndash; a fast-propagating Internet infection of the sort first hypothesized in 2002 in a paper by Nicholas Weaver. Two key aspects contributed to SQL Slammer's rapid propagation. The worm infected new hosts over <message wordnetid="106598915" confidence="0.8">
+" – a fast-propagating Internet infection of the sort first hypothesized in 2002 in a paper by Nicholas Weaver. Two key aspects contributed to SQL Slammer's rapid propagation. The worm infected new hosts over <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">

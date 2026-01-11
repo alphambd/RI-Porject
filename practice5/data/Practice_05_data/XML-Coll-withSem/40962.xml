@@ -58,7 +58,7 @@ Convolutional encoding</st>
 To convolutionally encode data, start with <it>k</it> <link xlink:type="simple" xlink:href="../432/486432.xml">
 memory register</link>s, each holding 1 input bit.  Unless otherwise specified, all memory registers start with a value of 0.  The encoder has <it>n</it> modulo-2 <link xlink:type="simple" xlink:href="../856/426856.xml">
 adder</link>s, and <it>n</it>  <link>
-generator polynomial</link>s &mdash; one for each adder (see figure below).  An input bit <it>m</it>1 is fed into the leftmost register.  Using the generator polynomials and the existing values in the remaining registers, the encoder outputs <it>n</it> bits.  Now <link>
+generator polynomial</link>s — one for each adder (see figure below).  An input bit <it>m</it>1 is fed into the leftmost register.  Using the generator polynomials and the existing values in the remaining registers, the encoder outputs <it>n</it> bits.  Now <link>
 bit shift</link> all register values to the right (<it>m</it>1 moves to <it>m</it>0, <it>m</it>0 moves to <it>m</it>-1) and wait for the next input bit.  If there are no remaining input bits, the encoder continues output until all registers have returned to the zero state.</p>
 <p>
 

@@ -201,7 +201,7 @@ fixed point</link></kind>
 </category>
 </concept>
 </idea>
- format. The values of <math>z'</math> are grouped much more densely near the <math>near</math> plane, and much more sparsely farther away, resulting in better precision closer to the camera. The smaller the <math>near/far</math> ratio is, the less precision there is far away&mdash;having the <math>near</math> plane set too closely is a common cause of undesirable rendering artifacts in more distant objects.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref>  </p>
+ format. The values of <math>z'</math> are grouped much more densely near the <math>near</math> plane, and much more sparsely farther away, resulting in better precision closer to the camera. The smaller the <math>near/far</math> ratio is, the less precision there is far away—having the <math>near</math> plane set too closely is a common cause of undesirable rendering artifacts in more distant objects.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref>  </p>
 
 <ss1>
 <st>
@@ -210,7 +210,7 @@ W-buffer</st>
 <p>
 
 To implement a w-buffer, the old values of <math>z</math> in camera space, or <math>w</math>, are stored in the buffer, generally in <link xlink:type="simple" xlink:href="../376/11376.xml">
-floating point</link> format. However, these values cannot be linearly interpolated across screen space from the vertices&mdash;they usually have to be <link xlink:type="simple" xlink:href="../958/193958.xml">
+floating point</link> format. However, these values cannot be linearly interpolated across screen space from the vertices—they usually have to be <link xlink:type="simple" xlink:href="../958/193958.xml">
 inverted</link>, interpolated, and then inverted again. The resulting values of <math>w</math>, as opposed to <math>z'</math>, are spaced evenly between <math>near</math> and <math>far</math>. There are implementations of the w-buffer that avoid the inversions altogether. </p>
 <p>
 
@@ -264,7 +264,7 @@ Edwin Catmull</link></associate>
 </person>
 </peer>
 </physical_entity>
- &ndash; inventor of the z-buffer concept.</entry>
+ – inventor of the z-buffer concept.</entry>
 <entry level="1" type="bullet">
 
 <process wordnetid="100029677" confidence="0.8">

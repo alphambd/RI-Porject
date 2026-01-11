@@ -205,7 +205,7 @@ http://doi.acm.org/10.1145/355541.355562</weblink>
 <weblink xlink:type="simple" xlink:href="http://doi.acm.org/10.1145/355541.355554">
 http://doi.acm.org/10.1145/355541.355554</weblink>
 Its running time is <it><link xlink:type="simple" xlink:href="../578/44578.xml">
-O</link></it>(<it>e</it>&nbsp;α(<it>e</it>,<it>v</it>)), where <it>e</it> is the number of edges, <it>v</it> is the number of vertices and α is the classical functional inverse of the <mathematical_relation wordnetid="113783581" confidence="0.8">
+O</link></it>(<it>e</it> α(<it>e</it>,<it>v</it>)), where <it>e</it> is the number of edges, <it>v</it> is the number of vertices and α is the classical functional inverse of the <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../ury/30th_century.xml">
 Ackermann function</link></function>
@@ -242,7 +242,7 @@ David A. Bader</link></scientist>
 </person>
  and <link>
 Guojing Cong</link> demonstrates a pragmatic algorithm that can compute MSTs 5 times faster on 8 processors than an optimized sequential algorithm.<weblink xlink:type="simple" xlink:href="http://www.cs.unm.edu/~treport/tr/03-12/MST-bader.pdf">
-http://www.cs.unm.edu/~treport/tr/03-12/MST-bader.pdf</weblink> Typically, parallel algorithms are based on Boruvka's algorithm &mdash; Prim's and especially Kruskal's algorithm do not scale as well to additional processors.</p>
+http://www.cs.unm.edu/~treport/tr/03-12/MST-bader.pdf</weblink> Typically, parallel algorithms are based on Boruvka's algorithm — Prim's and especially Kruskal's algorithm do not scale as well to additional processors.</p>
 <p>
 
 Other specialized algorithms have been designed for computing minimum spanning trees of a graph so large that most of it must be stored on disk at all times. These <it>external storage</it> algorithms, for example as described in "Engineering an External Memory Minimum Spanning Tree Algorithm" by Roman Dementiev et al.,<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/dementiev04engineering.html">
@@ -490,7 +490,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapter 23: Minimum Spanning Trees, pp.561&ndash;579.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapter 23: Minimum Spanning Trees, pp.561–579.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://p.oisono.us/misc/gabow77.pdf">

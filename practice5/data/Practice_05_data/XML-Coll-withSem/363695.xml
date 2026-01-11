@@ -443,7 +443,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fjmbi.1990.9999">
-10.1006/jmbi.1990.9999</weblink>. PMID 2231712.</cite>&nbsp;</entry>
+10.1006/jmbi.1990.9999</weblink>. PMID 2231712.</cite> </entry>
 <entry id="3">
 <weblink xlink:type="simple" xlink:href="http://www.sciencewatch.com/july-aug2000/sw_july-aug2000_page3.htm">
 Sense from Sequences: Stephen F. Altschul on Bettering BLAST</weblink>. ScienceWatch July/August 2000.</entry>
@@ -540,35 +540,35 @@ Variations of BLAST</st>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://blast.wustl.edu/">
-WU-BLAST</weblink> &mdash; the original gapping BLAST with statistics, developed and maintained by Warren Gish at <university wordnetid="108286163" confidence="0.9508927676800064">
+WU-BLAST</weblink> — the original gapping BLAST with statistics, developed and maintained by Warren Gish at <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../920/58920.xml">
 Washington University in St. Louis</link></university>
 </entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.ebi.ac.uk/Tools/blast">
-EBI's BLAST Services</weblink> &mdash; <link>
+EBI's BLAST Services</weblink> — <link>
 EBI's</link> main blast services page.  </entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.fsa-blast.org/">
-FSA-BLAST</weblink> &mdash; a new, faster but still accurate version of NCBI BLAST based on recently published algorithmic improvements</entry>
+FSA-BLAST</weblink> — a new, faster but still accurate version of NCBI BLAST based on recently published algorithmic improvements</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://services.nbic.nl:4080/bb/cgi-bin/bb_login.cgi">
-NBIC mpiBLAST</weblink> &mdash; at the Netherlands Bioinformatics Centre</entry>
+NBIC mpiBLAST</weblink> — at the Netherlands Bioinformatics Centre</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www-users.cs.umn.edu/~rangwala/final_bglBLAST.pdf">
-Parallel BLAST</weblink> &mdash; a dual scheduling BLAST tested on the Blue Gene/L</entry>
+Parallel BLAST</weblink> — a dual scheduling BLAST tested on the Blue Gene/L</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.mpiblast.org/">
-mpiBLAST</weblink> &mdash; open-source parallel BLAST</entry>
+mpiBLAST</weblink> — open-source parallel BLAST</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://developer.apple.com/darwin/projects/blast/">
-A/G BLAST</weblink> &mdash; implementation for PowerPC G4/G5 processors and Mac OS X, from <link xlink:type="simple" xlink:href="../856/856.xml">
+A/G BLAST</weblink> — implementation for PowerPC G4/G5 processors and Mac OS X, from <link xlink:type="simple" xlink:href="../856/856.xml">
 Apple Computer</link>'s <link xlink:type="simple" xlink:href="../522/993522.xml">
 Advanced Computation Group</link> and <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../464/362464.xml">
@@ -577,7 +577,7 @@ Genentech</link></company>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://3d-alignment.eu">
-STRAP</weblink> &mdash; the protein workbench <weblink xlink:type="simple" xlink:href="http://www.charite.de/bioinf/strap/">
+STRAP</weblink> — the protein workbench <weblink xlink:type="simple" xlink:href="http://www.charite.de/bioinf/strap/">
 STRAP</weblink> contains a comfortable BLAST front-end with a cache for BLAST results</entry>
 </list>
 
@@ -592,15 +592,15 @@ Commercial versions</st>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://dnasoftware.com/ThermoBLAST/tabid/110/Default.aspx">
-ThermoBLAST by DNA Software Inc.</weblink> &mdash; scans entire genomes quickly and accurately combing the power of BLAST with the most advanced thermodynamics parameters</entry>
+ThermoBLAST by DNA Software Inc.</weblink> — scans entire genomes quickly and accurately combing the power of BLAST with the most advanced thermodynamics parameters</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.bioinformaticssolutions.com/products/ph/index.php">
-PatternHunter</weblink> &mdash; an alternative software which provides similar functionality to BLAST while claiming increased speed and sensitivity</entry>
+PatternHunter</weblink> — an alternative software which provides similar functionality to BLAST while claiming increased speed and sensitivity</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.korilog.com/products">
-KoriBlast</weblink> &mdash; a reliable graphical environment dedicated to sequence data mining. KoriBlast combines Blast searches with advanced data management capabilities and a state-of-the-art graphical user interface.</entry>
+KoriBlast</weblink> — a reliable graphical environment dedicated to sequence data mining. KoriBlast combines Blast searches with advanced data management capabilities and a state-of-the-art graphical user interface.</entry>
 </list>
 
 </p>
@@ -618,7 +618,7 @@ NCBI-BLAST Tutorial</weblink></entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.openwetware.org/wiki/BLAST">
-BLAST HOWTO</weblink> &mdash; at the <weblink xlink:type="simple" xlink:href="http://www.openwetware.org/">
+BLAST HOWTO</weblink> — at the <weblink xlink:type="simple" xlink:href="http://www.openwetware.org/">
 OpenWetWare wiki</weblink></entry>
 <entry level="1" type="bullet">
 
@@ -643,14 +643,14 @@ Bioinformatic Harvester</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../695/363695.xml">
-NCBI-BLAST</link> &nbsp;·  CDD &nbsp;·  <link xlink:type="simple" xlink:href="../930/2039930.xml">
-Ensembl</link> &nbsp;·  <link xlink:type="simple" xlink:href="../212/559212.xml">
-Entrez</link> &nbsp;·  <link xlink:type="simple" xlink:href="../178/8758178.xml">
-Flybase</link> &nbsp;·  <link>
-Flymine</link> &nbsp;·  <link xlink:type="simple" xlink:href="../493/3808493.xml">
-GFP-cDNA</link> &nbsp;·  <link xlink:type="simple" xlink:href="../024/393024.xml">
-Genome browser</link> &nbsp;·  <link>
-GeneCard</link> &nbsp;·  <work wordnetid="100575741" confidence="0.8">
+NCBI-BLAST</link>  ·  CDD  ·  <link xlink:type="simple" xlink:href="../930/2039930.xml">
+Ensembl</link>  ·  <link xlink:type="simple" xlink:href="../212/559212.xml">
+Entrez</link>  ·  <link xlink:type="simple" xlink:href="../178/8758178.xml">
+Flybase</link>  ·  <link>
+Flymine</link>  ·  <link xlink:type="simple" xlink:href="../493/3808493.xml">
+GFP-cDNA</link>  ·  <link xlink:type="simple" xlink:href="../024/393024.xml">
+Genome browser</link>  ·  <link>
+GeneCard</link>  ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -663,7 +663,7 @@ Google Scholar</link></activity>
 </service>
 </event>
 </work>
- &nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+  ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -676,9 +676,9 @@ GoPubMed</link></machine>
 </engine>
 </instrumentality>
 </artifact>
- &nbsp;·  <link xlink:type="simple" xlink:href="../372/19609372.xml">
-Harvester42</link> &nbsp;·  <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link> &nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../372/19609372.xml">
+Harvester42</link>  ·  <link xlink:type="simple" xlink:href="../246/3948246.xml">
+HomoloGene</link>  ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -691,10 +691,10 @@ iHOP</link></machine>
 </engine>
 </instrumentality>
 </artifact>
- &nbsp;·  <link>
-IPI</link> &nbsp;·  <link xlink:type="simple" xlink:href="../449/670449.xml">
-OMIM</link> &nbsp;·  <link>
-MGI</link> &nbsp;·  <work wordnetid="100575741" confidence="0.8">
+  ·  <link>
+IPI</link>  ·  <link xlink:type="simple" xlink:href="../449/670449.xml">
+OMIM</link>  ·  <link>
+MGI</link>  ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <undertaking wordnetid="100795720" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -707,23 +707,23 @@ Mitocheck</link></activity>
 </undertaking>
 </event>
 </work>
- &nbsp;·  <link xlink:type="simple" xlink:href="../423/4901423.xml">
-PSORT</link> &nbsp;·  <link>
-PolyMeta</link> &nbsp;·  <link>
-RGD</link> &nbsp;·  <link xlink:type="simple" xlink:href="../428/1664428.xml">
-UniProt</link> &nbsp;·  <link>
-SOURCE</link> &nbsp;·  <link xlink:type="simple" xlink:href="../457/3954457.xml">
-SOSUI</link> &nbsp;·  <link>
-RZPD</link> &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <link xlink:type="simple" xlink:href="../423/4901423.xml">
+PSORT</link>  ·  <link>
+PolyMeta</link>  ·  <link>
+RGD</link>  ·  <link xlink:type="simple" xlink:href="../428/1664428.xml">
+UniProt</link>  ·  <link>
+SOURCE</link>  ·  <link xlink:type="simple" xlink:href="../457/3954457.xml">
+SOSUI</link>  ·  <link>
+RZPD</link>  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../558/13907558.xml">
 Sciencenet</link></software>
- &nbsp;·  <link>
-STRING</link> &nbsp;·  <link>
-SMART</link> &nbsp;·  <link>
-TAIR</link> &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <link>
+STRING</link>  ·  <link>
+SMART</link>  ·  <link>
+TAIR</link>  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../432/9518432.xml">
 WikiProfessional</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../182/12879182.xml">
+  ·  <link xlink:type="simple" xlink:href="../182/12879182.xml">
 ZFIN</link></col>
 </row>
 </table>

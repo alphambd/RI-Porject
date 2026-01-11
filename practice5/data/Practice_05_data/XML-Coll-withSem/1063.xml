@@ -314,7 +314,7 @@ It should be noted that by preserving the value <math>\delta / n</math>, only on
 <p>
 
 Assume that all floating point operations use the standard <link xlink:type="simple" xlink:href="../039/405039.xml#xpointer(//*[./st=%22Double-precision+64+bit%22])">
-IEEE 754 double-precision</link> arithmetic. Consider the sample (4, 7, 13, 16) from an infinite population. Based on this sample, the estimated population mean is 10, and the unbiased estimate of population variance is 30.  Both Algorithm I and Algorithm II compute these values correctly.  Next consider the sample (108&nbsp;+&nbsp;4, 108&nbsp;+&nbsp;7, 108&nbsp;+&nbsp;13, 108&nbsp;+&nbsp;16), which gives rise to the same estimated variance as the first sample.  Algorithm II computes this variance estimate correctly, but Algorithm I returns 29.333333333333332 instead of 30.  While this loss of precision may be tolerable and viewed as a minor flaw of Algorithm I, it is easy to find data that reveal a major flaw in the naive algorithm: Take the sample to be (109&nbsp;+&nbsp;4, 109&nbsp;+&nbsp;7, 109&nbsp;+&nbsp;13, 109&nbsp;+&nbsp;16).  Again the estimated population variance of 30 is computed correctly by Algorithm II, but the naive algorithm now computes it as &amp;minus;170.66666666666666.  This is a serious problem with Algorithm I, since the variance can, by definition, never be negative.</p>
+IEEE 754 double-precision</link> arithmetic. Consider the sample (4, 7, 13, 16) from an infinite population. Based on this sample, the estimated population mean is 10, and the unbiased estimate of population variance is 30.  Both Algorithm I and Algorithm II compute these values correctly.  Next consider the sample (108 + 4, 108 + 7, 108 + 13, 108 + 16), which gives rise to the same estimated variance as the first sample.  Algorithm II computes this variance estimate correctly, but Algorithm I returns 29.333333333333332 instead of 30.  While this loss of precision may be tolerable and viewed as a minor flaw of Algorithm I, it is easy to find data that reveal a major flaw in the naive algorithm: Take the sample to be (109 + 4, 109 + 7, 109 + 13, 109 + 16).  Again the estimated population variance of 30 is computed correctly by Algorithm II, but the naive algorithm now computes it as &amp;minus;170.66666666666666.  This is a serious problem with Algorithm I, since the variance can, by definition, never be negative.</p>
 
 </sec>
 <sec>
@@ -388,10 +388,10 @@ Communications of the ACM</link></publication>
 <entry id="4">
  <cite id="CITEREFChanGolubLeVeque1979" style="font-style:normal">Chan, Tony F.; <link>
 Golub, Gene H.</link>&#32;&amp;&#32;LeVeque, Randall J.&#32;(1979),&#32;<weblink xlink:type="simple" xlink:href="ftp://reports.stanford.edu/pub/cstr/reports/cs/tr/79/773/CS-TR-79-773.pdf">
-"Updating Formulae and a Pairwise Algorithm for Computing Sample Variances."</weblink>,&#32;<it>Technical Report STAN-CS-79-773</it>, Department of Computer Science, Stanford University</cite>&nbsp;.</entry>
+"Updating Formulae and a Pairwise Algorithm for Computing Sample Variances."</weblink>,&#32;<it>Technical Report STAN-CS-79-773</it>, Department of Computer Science, Stanford University</cite> .</entry>
 <entry id="5">
  <cite id="CITEREFTerriberry2007" style="font-style:normal">Terriberry, Timothy B.&#32;(2007),&#32;<it><weblink xlink:type="simple" xlink:href="http://people.xiph.org/~tterribe/notes/homs.html">
-Computing Higher-Order Moments Online</weblink></it>, </cite>&nbsp;</entry>
+Computing Higher-Order Moments Online</weblink></it>, </cite> </entry>
 </reflist>
 </p>
 

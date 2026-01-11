@@ -41,7 +41,7 @@ logarithmic</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entr
 </caption>
 </image>
 
-The numbers that evenly divide the powers of 60 arise in several areas of mathematics and its applications, and have different names coming from these different areas of study. As an example, 602&nbsp;=&nbsp;3600&nbsp;=&nbsp;48&nbsp;&amp;times;&nbsp;75, so both 48 and 75 are divisors of a power of 60.<p>
+The numbers that evenly divide the powers of 60 arise in several areas of mathematics and its applications, and have different names coming from these different areas of study. As an example, 602 = 3600 = 48 &amp;times; 75, so both 48 and 75 are divisors of a power of 60.<p>
 
 In the study of <link xlink:type="simple" xlink:href="../353/3861353.xml">
 Babylonian mathematics</link>, the divisors of powers of 60 are called <b>regular numbers</b> or <b>regular sexagesimal numbers</b>, and are of great importance due to the <link xlink:type="simple" xlink:href="../316/135316.xml">
@@ -270,8 +270,8 @@ Python programming language</link></programming_language>
 <p>
 
 A related problem, discussed by <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFKnuth1972%22])">
-Knuth (1972)</link>, is to list all <it>k</it>-digit sexagesimal numbers in ascending order, as was done (for <it>k</it>&nbsp;=&nbsp;6) by Inakibit-Anu, the <link xlink:type="simple" xlink:href="../398/28398.xml">
-Seleucid</link>-era scribe of tablet AO6456. In algorithmic terms, this is equivalent to generating (in order) the subsequence of the infinite sequence of regular numbers, ranging from 60<it>k</it> to 60<it>k</it>&nbsp;+&nbsp;1.
+Knuth (1972)</link>, is to list all <it>k</it>-digit sexagesimal numbers in ascending order, as was done (for <it>k</it> = 6) by Inakibit-Anu, the <link xlink:type="simple" xlink:href="../398/28398.xml">
+Seleucid</link>-era scribe of tablet AO6456. In algorithmic terms, this is equivalent to generating (in order) the subsequence of the infinite sequence of regular numbers, ranging from 60<it>k</it> to 60<it>k</it> + 1.
 See <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFGingerich1965%22])">
 Gingerich (1965)</link> for an early description of computer code that generates these numbers out of order and then sorts them; Knuth describes an ad-hoc algorithm, which he attributes to <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFBruins1970%22])">
 Bruins (1970)</link>, for generating the six-digit numbers more quickly but that does not generalize in a straightforward way to larger values of <it>k</it>.</p>
@@ -395,7 +395,7 @@ MR</link></publication>
 </product>
 </work>
 <weblink xlink:type="simple" xlink:href="http://www.ams.org/mathscinet-getitem?mr=0191779">
-0191779</weblink></cite>&nbsp;.</entry>
+0191779</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -404,7 +404,7 @@ MR</link></publication>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFAsmussen2001" style="font-style:normal">Asmussen&#32;(2001),&#32;<it><weblink xlink:type="simple" xlink:href="http://www.terraworld.net/c-jasmussen/thesis_asmussen.pdf">
-Periodicity of sinusoidal frequencies as a basis for the analysis of Baroque and Classical harmony: a computer based study</weblink></it>, Ph.D. thesis, Univ. of Leeds, </cite>&nbsp;.</entry>
+Periodicity of sinusoidal frequencies as a basis for the analysis of Baroque and Classical harmony: a computer based study</weblink></it>, Ph.D. thesis, Univ. of Leeds, </cite> .</entry>
 </list>
 </p>
 <p>
@@ -420,7 +420,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F592627">
-10.2307/592627</weblink></cite>&nbsp;.</entry>
+10.2307/592627</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -428,7 +428,7 @@ doi</link></writing>
 <list>
 <entry level="1" type="bullet">
 
- <cite id="CITEREFBruins1970" style="font-style:normal">Bruins, E. M.&#32;(1970),&#32;"La construction de la grande table le valeurs réciproques AO 6456", in&#32;Finet, André,&#32;<it>Actes de la XVIIe Rencontre Assyriologique Internationale</it>, Comité belge de recherches en Mésopotamie, pp. 99–115</cite>&nbsp;.</entry>
+ <cite id="CITEREFBruins1970" style="font-style:normal">Bruins, E. M.&#32;(1970),&#32;"La construction de la grande table le valeurs réciproques AO 6456", in&#32;Finet, André,&#32;<it>Actes de la XVIIe Rencontre Assyriologique Internationale</it>, Comité belge de recherches en Mésopotamie, pp. 99–115</cite> .</entry>
 </list>
 </p>
 <p>
@@ -438,7 +438,7 @@ doi</link></writing>
 
  <cite id="CITEREFConwayGuy1996" style="font-style:normal"><link>
 Conway, John H.</link>&#32;&amp;&#32;<link>
-Guy, Richard K.</link>&#32;(1996),&#32;<it>The Book of Numbers</it>, Copernicus, pp. 172–176, ISBN 0-387-97993-X</cite>&nbsp;.</entry>
+Guy, Richard K.</link>&#32;(1996),&#32;<it>The Book of Numbers</it>, Copernicus, pp. 172–176, ISBN 0-387-97993-X</cite> .</entry>
 </list>
 </p>
 <p>
@@ -448,7 +448,7 @@ Guy, Richard K.</link>&#32;(1996),&#32;<it>The Book of Numbers</it>, Copernicus,
 
  <cite id="CITEREFDijkstra1981" style="font-style:normal"><link>
 Dijkstra, Edsger W.</link>&#32;(1981),&#32;<it><weblink xlink:type="simple" xlink:href="http://www.cs.utexas.edu/users/EWD/ewd07xx/EWD792.PDF">
-Hamming's exercise in SASL</weblink></it>, Report EWD792. Originally a privately-circulated handwitten note, </cite>&nbsp;.</entry>
+Hamming's exercise in SASL</weblink></it>, Report EWD792. Originally a privately-circulated handwitten note, </cite> .</entry>
 </list>
 </p>
 <p>
@@ -464,7 +464,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F1006080">
-10.2307/1006080</weblink></cite>&nbsp;.</entry>
+10.2307/1006080</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -473,7 +473,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFHabens1889" style="font-style:normal">Habens, Rev. W. J.&#32;(1889),&#32;"<weblink xlink:type="simple" xlink:href="http://www.jstor.org/stable/765355">
-On the musical scale</weblink>",&#32;<it>Proceedings of the Musical Association</it>:  16th Session, p. 1, </cite>&nbsp;.</entry>
+On the musical scale</weblink>",&#32;<it>Proceedings of the Musical Association</it>:  16th Session, p. 1, </cite> .</entry>
 </list>
 </p>
 <p>
@@ -516,7 +516,7 @@ MR</link></publication>
 </product>
 </work>
 <weblink xlink:type="simple" xlink:href="http://www.ams.org/mathscinet-getitem?mr=0313189">
-0313189</weblink></cite>&nbsp;.</entry>
+0313189</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -532,7 +532,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F44326.44335">
-10.1145/44326.44335</weblink></cite>&nbsp;.</entry>
+10.1145/44326.44335</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -542,7 +542,7 @@ doi</link></writing>
 
  <cite id="CITEREFHeningerRainsSloane2005" style="font-style:normal">Heninger, Nadia; Rains, E. M.&#32;&amp;&#32;<link>
 Sloane, N. J. A.</link>&#32;(2005),&#32;<it>On the integrality of nth roots of generating functions</it>, <link xlink:type="simple" xlink:href="../751/38751.xml">
-ar&amp;Chi;iv</link>:</cite>&nbsp;.</entry>
+ar&amp;Chi;iv</link>:</cite> .</entry>
 </list>
 </p>
 <p>
@@ -558,7 +558,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1080%2F09298210500280612">
-10.1080/09298210500280612</weblink></cite>&nbsp;.</entry>
+10.1080/09298210500280612</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -575,7 +575,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F361454.361514">
-10.1145/361454.361514</weblink></cite>&nbsp;. Errata in <it>CACM</it> <b>19</b>(2), 1976. Reprinted with a brief addendum in <it>Selected Papers on Computer Science</it>, CSLI Lecture Notes 59, Cambridge Univ. Press, 1996, pp. 185–203.</entry>
+10.1145/361454.361514</weblink></cite> . Errata in <it>CACM</it> <b>19</b>(2), 1976. Reprinted with a brief addendum in <it>Selected Papers on Computer Science</it>, CSLI Lecture Notes 59, Cambridge Univ. Press, 1996, pp. 185–203.</entry>
 </list>
 </p>
 <p>
@@ -583,7 +583,7 @@ doi</link></writing>
 <list>
 <entry level="1" type="bullet">
 
- <cite id="CITEREFLonguet-Higgins1962" style="font-style:normal">Longuet-Higgins, H. C.&#32;(1962),&#32;"Letter to a musical friend",&#32;<it>Music Review</it>&#32;(August):  244–248</cite>&nbsp;.</entry>
+ <cite id="CITEREFLonguet-Higgins1962" style="font-style:normal">Longuet-Higgins, H. C.&#32;(1962),&#32;"Letter to a musical friend",&#32;<it>Music Review</it>&#32;(August):  244–248</cite> .</entry>
 </list>
 </p>
 <p>
@@ -600,7 +600,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F843638">
-10.2307/843638</weblink></cite>&nbsp;.</entry>
+10.2307/843638</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -630,7 +630,7 @@ MR</link></publication>
 </product>
 </work>
 <weblink xlink:type="simple" xlink:href="http://www.ams.org/mathscinet-getitem?mr=0022180">
-0022180</weblink></cite>&nbsp;.</entry>
+0022180</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -659,7 +659,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2316896">
-10.2307/2316896</weblink></cite>&nbsp;.</entry>
+10.2307/2316896</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -668,7 +668,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFSt.C3.B8rmer1897" style="font-style:normal"><link>
-Størmer, Carl</link>&#32;(1897),&#32;"Quelques théorèmes sur l'équation de Pell x2 - Dy2 = ±1 et leurs applications",&#32;<it>Skrifter Videnskabs-selskabet (Christiania), Mat.-Naturv. Kl.</it>&#32;<b>I</b>(2)</cite>&nbsp;.</entry>
+Størmer, Carl</link>&#32;(1897),&#32;"Quelques théorèmes sur l'équation de Pell x2 - Dy2 = ±1 et leurs applications",&#32;<it>Skrifter Videnskabs-selskabet (Christiania), Mat.-Naturv. Kl.</it>&#32;<b>I</b>(2)</cite> .</entry>
 </list>
 </p>
 <p>
@@ -684,7 +684,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137%2F0913039">
-10.1137/0913039</weblink></cite>&nbsp;.</entry>
+10.1137/0913039</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -700,7 +700,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F142137.142151">
-10.1145/142137.142151</weblink></cite>&nbsp;.</entry>
+10.1145/142137.142151</weblink></cite> .</entry>
 </list>
 </p>
 

@@ -34,7 +34,7 @@ Description</st>
 
 <p>
 
-The computer and operating system instance that executes the twoOStwo process is referred to as the host machine. Instances of operating systems running inside a virtual machine are referred to as guest virtual machines. Like an emulator, twoOStwo provides a completely virtualized set of hardware to the guest operating system &ndash; for example, irrespective of make and model of the physical network adapter, the guest machine will see a Novell/Eagle NE2000 or Realtek RTL8029(AS) network adapter. twoOStwo virtualizes all devices within the virtual environment, including the video adapter, network adapter, and hard disk adapters. It also provides pass-through drivers serial, and parallel devices.</p>
+The computer and operating system instance that executes the twoOStwo process is referred to as the host machine. Instances of operating systems running inside a virtual machine are referred to as guest virtual machines. Like an emulator, twoOStwo provides a completely virtualized set of hardware to the guest operating system – for example, irrespective of make and model of the physical network adapter, the guest machine will see a Novell/Eagle NE2000 or Realtek RTL8029(AS) network adapter. twoOStwo virtualizes all devices within the virtual environment, including the video adapter, network adapter, and hard disk adapters. It also provides pass-through drivers serial, and parallel devices.</p>
 <p>
 
 Because all guest virtual machines use the same hardware drivers irrespective of the actual hardware on the host computer, virtual machine instances are highly portable between computers. For example, a running virtual machine can be stopped, copied to another physical computer, and started.  </p>

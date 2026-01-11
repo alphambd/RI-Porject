@@ -75,7 +75,7 @@ Literary Machines</link></book>
 micropayment</link>s could be automatically exacted from the reader for all the text, no matter how many snippets of content are taken from various places.</p>
 <p>
 
-Nelson has recently delivered a demonstration of Web transclusion, the Little Transquoter (programmed to Nelson's specification by Andrew Pam).  It creates a new format built on portion addresses from Web pages; when dereferenced, each portion on the resulting page remains click-connected to its original context&mdash;always a key aspect of transclusion for Nelson, but missing in most implementations of transclusion.</p>
+Nelson has recently delivered a demonstration of Web transclusion, the Little Transquoter (programmed to Nelson's specification by Andrew Pam).  It creates a new format built on portion addresses from Web pages; when dereferenced, each portion on the resulting page remains click-connected to its original context—always a key aspect of transclusion for Nelson, but missing in most implementations of transclusion.</p>
 
 <sec>
 <st>
@@ -162,7 +162,7 @@ XPointer</link></system_of_measurement>
 XSLT</link> manipulations. (XPointer is patent-encumbered.)</p>
 <p>
 
-The practice of 'remote loading'&mdash;including data, such as images, directly from other sites&mdash;is usually frowned upon because of the use of bandwidth and computing power required from the remote computer system (see <link xlink:type="simple" xlink:href="../762/326762.xml">
+The practice of 'remote loading'—including data, such as images, directly from other sites—is usually frowned upon because of the use of bandwidth and computing power required from the remote computer system (see <link xlink:type="simple" xlink:href="../762/326762.xml">
 Bandwidth theft</link>). This is said to "tax" another <generic wordnetid="107899976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../116/42116.xml">
 server</link></generic>
@@ -205,7 +205,7 @@ Publications</st>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Di Iorio, A.;&#32;Vitali, F.&#32;(August 2003). "<weblink xlink:type="simple" xlink:href="http://www.csc.liv.ac.uk/~wda2003/Papers/Section_III/Paper_11.pdf">
-A Xanalogical Collaborative Editing Environment</weblink>"&#32;(PDF).&#32;<it>Proceedings of the Second International Workshop of Web Document Analysis 2003 (WDA2003)</it>.</cite>&nbsp;</entry>
+A Xanalogical Collaborative Editing Environment</weblink>"&#32;(PDF).&#32;<it>Proceedings of the Second International Workshop of Web Document Analysis 2003 (WDA2003)</it>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -222,7 +222,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2498%2Fcit.2006.02.07">
-10.2498/cit.2006.02.07</weblink>.</cite>&nbsp;</entry>
+10.2498/cit.2006.02.07</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -231,7 +231,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Kolbitsch, J.&#32;(June 2005).&#32;"<weblink xlink:type="simple" xlink:href="http://www.jucs.org/jucs_11_6/fine_grained_transclusions_of/">
-Fine-Grained Transclusions of Multimedia Documents in HTML</weblink>". <it>Journal of Universal Computer Science</it>&#32;<b>11</b>&#32;(6).</cite>&nbsp;</entry>
+Fine-Grained Transclusions of Multimedia Documents in HTML</weblink>". <it>Journal of Universal Computer Science</it>&#32;<b>11</b>&#32;(6).</cite> </entry>
 </list>
 </p>
 <p>
@@ -240,7 +240,7 @@ Fine-Grained Transclusions of Multimedia Documents in HTML</weblink>". <it>Journ
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Krottmaier, H.&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://hkrott.iicm.edu/docs/publications/elpub-2002.pdf">
-Transcluded Documents: Advantages of Reusing Document Fragments</weblink>"&#32;(PDF).&#32;<it>Proceedings of the 6th International ICCC/IFIP Conference on Electronic Publishing (ELPUB2002)</it>: 359–367, Czech Republic:&#32;Karlovy Vary.</cite>&nbsp;</entry>
+Transcluded Documents: Advantages of Reusing Document Fragments</weblink>"&#32;(PDF).&#32;<it>Proceedings of the 6th International ICCC/IFIP Conference on Electronic Publishing (ELPUB2002)</it>: 359–367, Czech Republic:&#32;Karlovy Vary.</cite> </entry>
 </list>
 </p>
 <p>
@@ -249,7 +249,7 @@ Transcluded Documents: Advantages of Reusing Document Fragments</weblink>"&#32;(
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Krottmaier, H.;&#32;Helic, D.&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://coronet.iicm.edu/denis/pubs/elearn2002b.pdf">
-Issues of Transclusions</weblink>"&#32;(PDF).&#32;<it>Proceedings of the World Conference on E-Learning in Corporate, Government, Healthcare, &amp; Higher Education (E-Learn 2002)</it>: 1730–1733.</cite>&nbsp;</entry>
+Issues of Transclusions</weblink>"&#32;(PDF).&#32;<it>Proceedings of the World Conference on E-Learning in Corporate, Government, Healthcare, &amp; Higher Education (E-Learn 2002)</it>: 1730–1733.</cite> </entry>
 </list>
 </p>
 <p>
@@ -263,7 +263,7 @@ PDF</link>, <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../191/13191.xml">
 HTML</link></format>
 , <link xlink:type="simple" xlink:href="../080/24080.xml">
-PostScript</link>). <it>Journal of Universal Computer Science</it>&#32;<b>7</b>&#32;(12): 1125–1136.</cite>&nbsp;</entry>
+PostScript</link>). <it>Journal of Universal Computer Science</it>&#32;<b>7</b>&#32;(12): 1125–1136.</cite> </entry>
 </list>
 </p>
 <p>
@@ -271,7 +271,7 @@ PostScript</link>). <it>Journal of Universal Computer Science</it>&#32;<b>7</b>&
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Moore, A.;&#32;et al&#32;(2001). "Personally tailored teaching in WHURLE using conditional translucion".&#32;<it>Proceedings of the Twelfth ACM Conference on Hypertext and Hypermedia</it>: 163–164.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Moore, A.;&#32;et al&#32;(2001). "Personally tailored teaching in WHURLE using conditional translucion".&#32;<it>Proceedings of the Twelfth ACM Conference on Hypertext and Hypermedia</it>: 163–164.</cite> </entry>
 </list>
 </p>
 <p>
@@ -279,7 +279,7 @@ PostScript</link>). <it>Journal of Universal Computer Science</it>&#32;<b>7</b>&
 <list>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Nelson-1981" style="font-style:normal" class="book">Nelson, T. H.&#32;(1981). Literary Machines.&#32;Mindful Press.</cite>&nbsp;</entry>
+  <cite id="Reference-Nelson-1981" style="font-style:normal" class="book">Nelson, T. H.&#32;(1981). Literary Machines.&#32;Mindful Press.</cite> </entry>
 </list>
 </p>
 <p>
@@ -287,7 +287,7 @@ PostScript</link>). <it>Journal of Universal Computer Science</it>&#32;<b>7</b>&
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Nelson, T. H.&#32;(1995).&#32;"The Heart of Connection: Hypermedia Unified by Transclusion". <it>Communications of the ACM</it>&#32;(8): 31–33.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Nelson, T. H.&#32;(1995).&#32;"The Heart of Connection: Hypermedia Unified by Transclusion". <it>Communications of the ACM</it>&#32;(8): 31–33.</cite> </entry>
 </list>
 </p>
 <p>
@@ -315,7 +315,7 @@ Transcopyright: Pre-Permission for Virtual Republishing</weblink>".</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Nelson, T. H.&#32;(1999).&#32;"<weblink xlink:type="simple" xlink:href="http://xanadu.com.au/ted/XUsurvey/xuDation.html">
-Xanalogical Structure, Needed Now More than Ever: Parallel Documents, Deep Links to Content, Deep Versioning and Deep Re-Use</weblink>". <it>ACM Computing Surveys</it>&#32;(4es).</cite>&nbsp;</entry>
+Xanalogical Structure, Needed Now More than Ever: Parallel Documents, Deep Links to Content, Deep Versioning and Deep Re-Use</weblink>". <it>ACM Computing Surveys</it>&#32;(4es).</cite> </entry>
 </list>
 </p>
 <p>
@@ -333,7 +333,7 @@ Fine-Grained Transclusion in the Hypertext Markup Language</weblink>"&#32;(Text)
 <entry level="1" type="bullet">
 
   <cite id="Reference-Wilde-2002" style="font-style:normal" class="book">Wilde, E.;&#32;Lowe, D.&#32;(2002).&#32;"<weblink xlink:type="simple" xlink:href="http://searchwebservices.techtarget.com/searchWebServices/downloads/wilde-lowe_07.pdf">
-XML Linking Language</weblink>", XPath, XLink, XPointer, and XML: A Practical Guide to Web Hyperlinking and Transclusion&#32;(PDF),&#32;Addison-Wesley Professional,&#32;169-198.</cite>&nbsp;</entry>
+XML Linking Language</weblink>", XPath, XLink, XPointer, and XML: A Practical Guide to Web Hyperlinking and Transclusion&#32;(PDF),&#32;Addison-Wesley Professional,&#32;169-198.</cite> </entry>
 </list>
 </p>
 

@@ -212,9 +212,9 @@ OASIS</link></activity>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-BCM</link>&nbsp;·  <link>
-CAM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../657/827657.xml">
-CAP</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+BCM</link> ·  <link>
+CAM</link> ·  <link xlink:type="simple" xlink:href="../657/827657.xml">
+CAP</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -227,32 +227,32 @@ CIQ</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../119/13033119.xml">
 DSS</link></system_of_measurement>
 </standard>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../193/44193.xml">
 DocBook</link></format>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../187/1223187.xml">
 DITA</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../996/176996.xml">
-ebXML</link>&nbsp;· <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../996/176996.xml">
+ebXML</link> · <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../608/627608.xml">
 OpenDocument</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../888/973888.xml">
-SAML</link>&nbsp;·  <link xlink:type="simple" xlink:href="../452/13890452.xml">
-SDD</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../888/973888.xml">
+SAML</link> ·  <link xlink:type="simple" xlink:href="../452/13890452.xml">
+SDD</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../454/1476454.xml">
 SPML</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../253/1619253.xml">
-UBL</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../253/1619253.xml">
+UBL</link> ·  <work wordnetid="100575741" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -269,17 +269,17 @@ WSDM</link></activity>
 </event>
 </standard>
 </work>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../142/3914142.xml">
 XRI</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../861/1133861.xml">
 XDI</link></system_of_measurement>
 </standard>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -296,7 +296,7 @@ WSRF</link></activity>
 </event>
 </standard>
 </work>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <description wordnetid="106724763" confidence="0.8">
@@ -309,7 +309,7 @@ WSS</link></system_of_measurement>
 </standard>
 </message>
 </statement>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">

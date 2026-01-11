@@ -42,7 +42,7 @@ time-sharing</link> operating systems, showing their subsequent evolution.
  For clarity, the direct successors of these systems are also included, as well as several important interactive systems that, although not multi-user, had an impact on user interface design. </entry>
 <entry level="1" type="bullet">
 
- Family relationships have been shown where practical, to help structure the tables. However, the intent is to provide a simple, compact set of links to all these systems &ndash; not to illustrate every relationship. See each system's main article for further details; all had many direct and indirect influences.</entry>
+ Family relationships have been shown where practical, to help structure the tables. However, the intent is to provide a simple, compact set of links to all these systems – not to illustrate every relationship. See each system's main article for further details; all had many direct and indirect influences.</entry>
 </list>
 <p>
 
@@ -51,7 +51,7 @@ time-sharing</link> operating systems, showing their subsequent evolution.
 
  In the 1960s, <link xlink:type="simple" xlink:href="../958/30958.xml">
 time-sharing</link> was a new concept, a departure from the <link xlink:type="simple" xlink:href="../285/37285.xml">
-batch processing</link> approach previously used with computers. The idea of an individual user being able to initiate a computer job at a particular time, and to see results immediately, was regarded as strange &ndash; and probably wasteful. Computers were very expensive, and individual users had to conform to the computer's schedule, not vice versa. Time-sharing systems were thus a major change and, for a generation, represented a distinct category of operating system. Famous political battles were waged at IBM and elsewhere over this issue. Today, of course, virtually all operating systems are time-sharing systems.
+batch processing</link> approach previously used with computers. The idea of an individual user being able to initiate a computer job at a particular time, and to see results immediately, was regarded as strange – and probably wasteful. Computers were very expensive, and individual users had to conform to the computer's schedule, not vice versa. Time-sharing systems were thus a major change and, for a generation, represented a distinct category of operating system. Famous political battles were waged at IBM and elsewhere over this issue. Today, of course, virtually all operating systems are time-sharing systems.
 </indent>
 
 </p>
@@ -74,13 +74,13 @@ MS-DOS</link></O>
 <table style="border:2px solid; text-align:left; vertical-align:middle; margin:6pt; padding:6pt">
 <caption>
  <b>Family tree</b> of major <link xlink:type="simple" xlink:href="../958/30958.xml">
-time-sharing</link>operating system familiesInfluences:&nbsp;&nbsp;&nbsp;&nbsp;→ derivation&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt;&amp;gt; strong influence&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt; some influence/precedence</caption>
+time-sharing</link>operating system familiesInfluences:    → derivation    &amp;gt;&amp;gt; strong influence    &amp;gt; some influence/precedence</caption>
 <row>
 <col style="border-right:1px solid" rowspan="99">
  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../141/254141.xml">
 CTSS</link></O>
-&nbsp;&amp;gt;&nbsp;</col>
+ &amp;gt; </col>
 </row>
 <row>
 <col colspan="99" style="border-bottom:1px solid">
@@ -93,16 +93,16 @@ IBM mainframe</link>time-sharing systems''</it></col>
 CP-40/CMS</link> → <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
  CP[-67]/CMS</link></O>
-→&nbsp;</col>
+→ </col>
 <col colspan="99">
- &nbsp;<link xlink:type="simple" xlink:href="../018/315018.xml">
+  <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link> → VM/XA versions → <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/ESA</link> → <link xlink:type="simple" xlink:href="../680/1266680.xml">
 z/VM</link></col>
 </row>
 <row>
 <col>
- &nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../581/6190581.xml">
 VP/CSS</link></O>
 </col>
@@ -157,24 +157,24 @@ DEC</link>time-sharing systems''</it></col>
 </row>
 <row>
 <col colspan="99">
- &nbsp;&nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+   <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../607/529607.xml">
 TOPS-10</link></O>
- &amp;gt; TENEX&nbsp;&amp;gt;&amp;gt;&nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+ &amp;gt; TENEX &amp;gt;&amp;gt; <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../380/66380.xml">
 TOPS-20</link></O>
 </col>
 </row>
 <row>
 <col colspan="99">
- &nbsp;&nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+   <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../899/313899.xml">
 RSTS/E</link></O>
 </col>
 </row>
 <row>
 <col colspan="99">
- &nbsp;&nbsp;<link xlink:type="simple" xlink:href="../342/62342.xml">
+   <link xlink:type="simple" xlink:href="../342/62342.xml">
 RSX-11M</link> &amp;gt;&amp;gt; <link>
 VAX/VMS</link> → <link xlink:type="simple" xlink:href="../520/32520.xml">
 VMS</link> → <O wordnetid="106832680" confidence="0.9508927676800064">
@@ -197,14 +197,14 @@ CP/M</link></O>
  → <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
 MS-DOS</link></O>
-→&nbsp;</col>
+→ </col>
 <col style="text-align:center;">
  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/167719.xml">
 Windows 3.x</link></version>
 </col>
 <col style="border-left:1px solid" rowspan="2">
- &nbsp;→ <link xlink:type="simple" xlink:href="../890/18890.xml">
+  → <link xlink:type="simple" xlink:href="../890/18890.xml">
 Microsoft Windows</link></col>
 </row>
 <row>
@@ -229,7 +229,7 @@ System descriptions and relationships</st>
 Important time-sharing and interactive systems, 1960-1990 (and successors); listed alphabetically</caption>
 <row>
 <col colspan="6">
-Influences:&nbsp;&nbsp;&nbsp;&nbsp;→ derivation&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt;&amp;gt; strong influence&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt; some influence/precedence</col>
+Influences:    → derivation    &amp;gt;&amp;gt; strong influence    &amp;gt; some influence/precedence</col>
 </row>
 <row>
 <header>
@@ -243,7 +243,7 @@ Developer</header>
 <header>
 Description</header>
 <header>
-Influences: <it>from</it>→&nbsp;&nbsp;&nbsp;→<it>to''</it></header>
+Influences: <it>from</it>→   →<it>to''</it></header>
 </row>
 <row>
 <col>

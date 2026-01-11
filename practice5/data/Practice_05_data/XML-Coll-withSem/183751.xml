@@ -33,19 +33,19 @@ Naïve methods</st>
 <p>
 
 The simplest primality test is as follows:  Given an input number <it>n</it>,
-check whether any integer <it>m</it> from 2 to <it>n</it>&nbsp;&amp;minus;&nbsp;1 <link xlink:type="simple" xlink:href="../492/49492.xml">
+check whether any integer <it>m</it> from 2 to <it>n</it> &amp;minus; 1 <link xlink:type="simple" xlink:href="../492/49492.xml">
 divides</link> <it>n</it>.  If <it>n</it> is divisible by any <it>m</it> then <it>n</it> is composite, otherwise it is prime.</p>
 <p>
 
-However, rather than testing all <it>m</it> up to <it>n</it>&nbsp;&amp;minus;&nbsp;1, it is only necessary to test <it>m</it> up to <math>\scriptstyle\sqrt n</math>:  if <it>n</it> is composite then it can be factored into two values, at least one of which must be less than or equal to <math>\scriptstyle\sqrt n</math>.  </p>
+However, rather than testing all <it>m</it> up to <it>n</it> &amp;minus; 1, it is only necessary to test <it>m</it> up to <math>\scriptstyle\sqrt n</math>:  if <it>n</it> is composite then it can be factored into two values, at least one of which must be less than or equal to <math>\scriptstyle\sqrt n</math>.  </p>
 <p>
 
-The efficiency can also be improved by skipping all even <it>m</it> except 2, since if any even number divides <it>n</it> then 2 does.   It can be improved further by observing that all primes are of the form 6<it>k</it>&nbsp;±&nbsp;1, with the only exceptions of 2 and 3. This is because all integers can be expressed as (6<it>k</it>&nbsp;+&nbsp;<it>i</it>) for some <it>k</it> and for <it>i</it> = &amp;minus;1, 0, 1, 2, 3, or 4;  2 divides (6<it>k</it>&nbsp;+&nbsp;0), (6<it>k</it>&nbsp;+&nbsp;2), (6<it>k</it>&nbsp;+&nbsp;4); and 3 divides (6<it>k</it>&nbsp;+&nbsp;3). So a more efficient method is to test if <it>n</it> is divisible by 2 or 3, then to check through all the numbers of form 6<it>k</it>&nbsp;±&nbsp;1 <math>\scriptstyle{}\leq\sqrt n</math>. This is 3 times as fast as the previous method.</p>
+The efficiency can also be improved by skipping all even <it>m</it> except 2, since if any even number divides <it>n</it> then 2 does.   It can be improved further by observing that all primes are of the form 6<it>k</it> ± 1, with the only exceptions of 2 and 3. This is because all integers can be expressed as (6<it>k</it> + <it>i</it>) for some <it>k</it> and for <it>i</it> = &amp;minus;1, 0, 1, 2, 3, or 4;  2 divides (6<it>k</it> + 0), (6<it>k</it> + 2), (6<it>k</it> + 4); and 3 divides (6<it>k</it> + 3). So a more efficient method is to test if <it>n</it> is divisible by 2 or 3, then to check through all the numbers of form 6<it>k</it> ± 1 <math>\scriptstyle{}\leq\sqrt n</math>. This is 3 times as fast as the previous method.</p>
 <p>
 
-Generalising further, it can be seen that all primes are of the form <it>c</it>#<it>k</it>&nbsp;+&nbsp;<it>i</it> for <it>i</it>&nbsp;&nbsp;<it>c</it># where <it>i</it> represents the numbers that are <link xlink:type="simple" xlink:href="../556/6556.xml">
+Generalising further, it can be seen that all primes are of the form <it>c</it>#<it>k</it> + <it>i</it> for <it>i</it>  <it>c</it># where <it>i</it> represents the numbers that are <link xlink:type="simple" xlink:href="../556/6556.xml">
 coprime</link> to <link xlink:type="simple" xlink:href="../786/422786.xml">
-c#</link>. In fact, as <it>c</it>&nbsp;→&nbsp;∞ the number of values that <it>c</it>#<it>k</it>&nbsp;+&nbsp;<it>i</it> can take over a certain range decreases, and so the time to test <it>n</it> decreases. For this method, it is also necessary to check for divisibility by all primes that are less than <it>c</it>.  Observations analogous to the preceding can be applied <link xlink:type="simple" xlink:href="../798/54798.xml">
+c#</link>. In fact, as <it>c</it> → ∞ the number of values that <it>c</it>#<it>k</it> + <it>i</it> can take over a certain range decreases, and so the time to test <it>n</it> decreases. For this method, it is also necessary to check for divisibility by all primes that are less than <it>c</it>.  Observations analogous to the preceding can be applied <link xlink:type="simple" xlink:href="../798/54798.xml">
 recursive</link>ly, giving the <link xlink:type="simple" xlink:href="../415/73415.xml">
 sieve of Eratosthenes</link>.</p>
 <p>
@@ -177,18 +177,18 @@ Fast deterministic tests</st>
 The first <link xlink:type="simple" xlink:href="../951/665951.xml">
 deterministic</link> primality test significantly faster than the naïve methods was the <link xlink:type="simple" xlink:href="../761/8198761.xml">
 cyclotomy test</link>; its runtime can be proven to be <link xlink:type="simple" xlink:href="../578/44578.xml">
-O</link>((log&nbsp;<it>n</it>)<it>c</it>log log log <it>n</it>), where <it>n</it> is the number to test for primality and <it>c</it> is a constant independent of <it>n</it>. </p>
+O</link>((log <it>n</it>)<it>c</it>log log log <it>n</it>), where <it>n</it> is the number to test for primality and <it>c</it> is a constant independent of <it>n</it>. </p>
 <p>
 
 The <link xlink:type="simple" xlink:href="../015/4049015.xml">
-elliptic curve primality test</link> can be proven to run in O((log&nbsp;<it>n</it>)6), but only if some still unproven (but widely assumed to be true) statements of analytic number theory are used. It is one of the most often used deterministic tests in practice.</p>
+elliptic curve primality test</link> can be proven to run in O((log <it>n</it>)6), but only if some still unproven (but widely assumed to be true) statements of analytic number theory are used. It is one of the most often used deterministic tests in practice.</p>
 <p>
 
 The implementation of these two methods is rather difficult, creating a risk of programming errors; this is one reason they are not preferred.</p>
 <p>
 
 If the <link xlink:type="simple" xlink:href="../567/152567.xml">
-generalized Riemann hypothesis</link> is assumed, the Miller-Rabin test can be turned into a deterministic version with runtime Õ((log&nbsp;<it>n</it>)4). In practice, this algorithm is slower than the other two for sizes of numbers that can be dealt with at all.</p>
+generalized Riemann hypothesis</link> is assumed, the Miller-Rabin test can be turned into a deterministic version with runtime Õ((log <it>n</it>)4). In practice, this algorithm is slower than the other two for sizes of numbers that can be dealt with at all.</p>
 <p>
 
 In 2002, Manindra Agrawal, Nitin Saxena and Neeraj Kayal described a new deterministic primality test, the <process wordnetid="105701363" confidence="0.8">
@@ -210,7 +210,7 @@ AKS primality test</link></higher_cognitive_process>
 </inquiry>
 </institute>
 </process>
-, which they proved runs in Õ((log&nbsp;<it>n</it>)12), later improved to Õ((log&nbsp;<it>n</it>)6) <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref>. In practice, this algorithm is slower than probabilistic methods.</p>
+, which they proved runs in Õ((log <it>n</it>)12), later improved to Õ((log <it>n</it>)6) <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref>. In practice, this algorithm is slower than probabilistic methods.</p>
 
 </sec>
 <sec>
@@ -419,7 +419,7 @@ Carl Pomerance</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(2005). Prime Numbers: A Computational Perspective, 2nd edition,&#32;Springer. ISBN 0-387-25282-7.</cite>&nbsp; Chapter 3: Recognizing Primes and Composites, pp.109&ndash;158. Chapter 4: Primality Proving, pp.159&ndash;190. Section 7.6: Elliptic curve primality proving (ECPP), pp.334&ndash;340.</entry>
+&#32;(2005). Prime Numbers: A Computational Perspective, 2nd edition,&#32;Springer. ISBN 0-387-25282-7.</cite>  Chapter 3: Recognizing Primes and Composites, pp.109–158. Chapter 4: Primality Proving, pp.159–190. Section 7.6: Elliptic curve primality proving (ECPP), pp.334–340.</entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Knuth-1997" style="font-style:normal" class="book"><person wordnetid="100007846" confidence="0.9508927676800064">
@@ -427,7 +427,7 @@ Carl Pomerance</link></mathematician>
 <link xlink:type="simple" xlink:href="../095/8095.xml">
 Knuth, Donald</link></scientist>
 </person>
-&#32;(1997).&#32;"section 4.5.4", The Art of Computer Programming, Third Edition&#32;<b>Volume 2: Seminumerical Algorithms</b>,&#32;Addison-Wesley,&#32;391&ndash;396. ISBN 0-201-89684-2.</cite>&nbsp;</entry>
+&#32;(1997).&#32;"section 4.5.4", The Art of Computer Programming, Third Edition&#32;<b>Volume 2: Seminumerical Algorithms</b>,&#32;Addison-Wesley,&#32;391–396. ISBN 0-201-89684-2.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -453,7 +453,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-, Second Edition,&#32;MIT Press and McGraw-Hill,&#32;887&ndash;896. ISBN 0-262-03293-7.</cite>&nbsp;</entry>
+, Second Edition,&#32;MIT Press and McGraw-Hill,&#32;887–896. ISBN 0-262-03293-7.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -497,7 +497,7 @@ Christos Papadimitriou</link></scholar>
 </person>
 </peer>
 </physical_entity>
-&#32;(1993).&#32;"Section 10.2: Primality", Computational Complexity, 1st edition,&#32;Addison Wesley,&#32;222&ndash;227. ISBN 0-201-53082-1.</cite>&nbsp;</entry>
+&#32;(1993).&#32;"Section 10.2: Primality", Computational Complexity, 1st edition,&#32;Addison Wesley,&#32;222–227. ISBN 0-201-53082-1.</cite> </entry>
 <entry level="1" type="bullet">
 
  <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -538,7 +538,7 @@ Nitin Saxena</link></recipient>
 </person>
 </physical_entity>
 , <it><weblink xlink:type="simple" xlink:href="http://www.cse.iitk.ac.in/users/manindra/primality_v6.pdf">
-PRIMES is in P</weblink></it>, Annals of Mathematics 160 (2004), no. 2, pp. 781&ndash;793.</entry>
+PRIMES is in P</weblink></it>, Annals of Mathematics 160 (2004), no. 2, pp. 781–793.</entry>
 </list>
 </p>
 

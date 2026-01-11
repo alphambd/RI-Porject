@@ -457,7 +457,7 @@ non-disclosure agreement</link>s (NDAs): OpenBSD developers do not permit the in
 closed source</link> binary drivers in the source tree and are reluctant to sign NDAs. However, the FreeBSD project has a different policy and much of the Adaptec RAID management code Scott Long proposed as assistance for OpenBSD was closed source or written under an NDA. As no documentation was forthcoming before the deadline for release of OpenBSD 3.7, support for Adaptec AAC RAID controllers was removed from the standard OpenBSD kernel.</p>
 <p>
 
-The OpenBSD policy on openness extends to hardware documentation: in the slides for a December 2006 presentation, de Raadt explained that without it "developers often make mistakes writing drivers," and pointed out that "the [oh my god, I got it to work] rush is harder to achieve, and some developers just give up."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2219%22])">19</ref> He went on to say that vendor binary drivers are considered unacceptable to OpenBSD&mdash;in their view they cannot be trusted and there is "no way to fix [them] ... when they break;" vendor source is "marginally acceptable" and still difficult to fix when problems occur.</p>
+The OpenBSD policy on openness extends to hardware documentation: in the slides for a December 2006 presentation, de Raadt explained that without it "developers often make mistakes writing drivers," and pointed out that "the [oh my god, I got it to work] rush is harder to achieve, and some developers just give up."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2219%22])">19</ref> He went on to say that vendor binary drivers are considered unacceptable to OpenBSD—in their view they cannot be trusted and there is "no way to fix [them] ... when they break;" vendor source is "marginally acceptable" and still difficult to fix when problems occur.</p>
 
 </sec>
 <sec>
@@ -1557,7 +1557,7 @@ timeline</link></written_record>
 </indication>
 </chronology>
 </record>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <property wordnetid="105849040" confidence="0.8">
 <feature wordnetid="105849789" confidence="0.8">
@@ -1576,17 +1576,17 @@ security</link></feature>
 Related projects</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../578/22578.xml">
-OpenSSH</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+OpenSSH</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../936/4692936.xml">
 OpenCVS</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../813/3448813.xml">
 OpenBGPD</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../947/1949947.xml">
 OpenNTPD</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../396/352396.xml">
-PF</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../396/352396.xml">
+PF</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -1595,8 +1595,8 @@ CARP</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../227/3272227.xml">
-spamd</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../227/3272227.xml">
+spamd</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../826/10446826.xml">
 Xenocara</link></software>
 </col>
@@ -1613,7 +1613,7 @@ People</col>
 <link xlink:type="simple" xlink:href="../270/356270.xml">
 Theo de Raadt</link></scientist>
 </person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <computer_user wordnetid="109951274" confidence="0.8">
 <programmer wordnetid="110481268" confidence="0.8">
@@ -1626,9 +1626,9 @@ Damien Bergamini</link></causal_agent>
 </computer_user>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../787/3444787.xml">
-List of developers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../501/12470501.xml">
-OpenBSD Foundation</link>&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../787/3444787.xml">
+List of developers</link> ·  <link xlink:type="simple" xlink:href="../501/12470501.xml">
+OpenBSD Foundation</link> ·  <social_group wordnetid="107950920" confidence="0.8">
 <set wordnetid="108240169" confidence="0.8">
 <musical_organization wordnetid="108246613" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -1670,13 +1670,13 @@ operating system</link>s</header>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/22nd_century.xml">
 AIX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/18932622.xml">
 BSD</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../229/294229.xml">
 DragonFly BSD</link></O>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -1685,32 +1685,32 @@ FreeBSD</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <link xlink:type="simple" xlink:href="../875/11875.xml">
-GNU</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../875/11875.xml">
+GNU</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../704/36704.xml">
 HP-UX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../537/14537.xml">
-IRIX</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../537/14537.xml">
+IRIX</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../980/867980.xml">
 LynxOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/18977.xml">
 MINIX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../495/21495.xml">
-NetBSD</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../495/21495.xml">
+NetBSD</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../571/18949571.xml">
 OpenBSD</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../226/24226.xml">
 Plan 9</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../184/65184.xml">
 QNX</link></O>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -1719,10 +1719,10 @@ Research Unix</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../906/1579906.xml">
 SCO OpenServer</link></O>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -1735,14 +1735,14 @@ Solaris</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link>
-System V</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link>
+System V</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../275/38275.xml">
 Tru64</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../105/157105.xml">
 VxWorks</link></O>
-&nbsp;·  <it>
+ ·  <it>
 Unix variants|more''</it></col>
 </row>
 </table>

@@ -82,11 +82,11 @@ Coastal</col>
 <header>
 2008 record</header>
 <col>
-&nbsp;3-3 (&nbsp;1-1 ACC)</col>
+ 3-3 ( 1-1 ACC)</col>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -132,7 +132,7 @@ Mike Groh</link></trainer>
 </row>
 <row>
 <header>
-Offensive&nbsp;scheme</header>
+Offensive scheme</header>
 <col style="vertical-align:middle;">
  <link xlink:type="simple" xlink:href="../743/638743.xml">
 West Coast</link></col>
@@ -158,14 +158,14 @@ Bob Pruett</link></trainer>
 </row>
 <row>
 <header>
-Base&nbsp;defense</header>
+Base defense</header>
 <col style="vertical-align:middle;">
  <link xlink:type="simple" xlink:href="../826/1372826.xml#xpointer(//*[./st=%223-4%22])">
 3–4</link></col>
 </row>
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -185,11 +185,11 @@ Scott Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../768/13341768.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../768/13341768.xml">
 2007</link></col>
 <col align="center">
  <link>
-2009</link>&nbsp;&amp;raquo;</col>
+2009</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -628,7 +628,7 @@ August 30</link>&#42;</col>
 <col>
 3:30 pm</col>
 <col>
- &#35;2&nbsp;<link xlink:type="simple" xlink:href="../693/15066693.xml">
+ &#35;2 <link xlink:type="simple" xlink:href="../693/15066693.xml">
 USC</link></col>
 <col align="center"></col>
 <col>
@@ -671,7 +671,7 @@ ABC</link></activity>
 </structure>
 </col>
 <col>
-<b>L</b>&nbsp;7-52&nbsp;</col>
+<b>L</b> 7-52 </col>
 <col align="center">
 64,947</col>
 </row>
@@ -693,7 +693,7 @@ Scott Stadium • Charlottesville, VA</col>
 ESPNU</link></channel>
 </col>
 <col>
-<b>W</b>&nbsp;16-0&nbsp;</col>
+<b>W</b> 16-0 </col>
 <col align="center">
 51,007</col>
 </row>
@@ -704,7 +704,7 @@ September 13</link>&#42;</col>
 <col>
 7:30 pm</col>
 <col>
- at&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../521/6880521.xml">
 Connecticut</link></sport>
 </col>
@@ -728,7 +728,7 @@ East Hartford, CT</link></village>
 <col>
 ESPNU</col>
 <col>
-<b>L</b>&nbsp;10-45&nbsp;</col>
+<b>L</b> 10-45 </col>
 <col align="center">
 40,000<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref></col>
 </row>
@@ -739,7 +739,7 @@ September 27</link></col>
 <col>
 12:00 pm</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../921/15197921.xml">
+ at <link xlink:type="simple" xlink:href="../921/15197921.xml">
 Duke</link></col>
 <col align="center"></col>
 <col>
@@ -761,7 +761,7 @@ Durham, NC</link></village>
 <col>
 ESPNU</col>
 <col>
-<b>L</b>&nbsp;3-31&nbsp;</col>
+<b>L</b> 3-31 </col>
 <col align="center">
 25,527</col>
 </row>
@@ -786,7 +786,7 @@ Scott Stadium • Charlottesville, VA</col>
 <col>
 ESPNU</col>
 <col>
-<b>W</b>&nbsp;31-0&nbsp;</col>
+<b>W</b> 31-0 </col>
 <col align="center">
 50,727</col>
 </row>
@@ -806,9 +806,9 @@ Scott Stadium • Charlottesville, VA</col>
  <link xlink:type="simple" xlink:href="../508/2375508.xml">
 Raycom</link></col>
 <col>
-<b>W</b>&nbsp;35-20&nbsp;</col>
+<b>W</b> 35-20 </col>
 <col align="center">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -825,9 +825,9 @@ Scott Stadium • Charlottesville, VA</col>
 <col>
 ABC/ESPN2</col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col align="center">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -835,7 +835,7 @@ ABC/ESPN2</col>
 October 25</link></col>
 
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../924/14602924.xml">
+ at <link xlink:type="simple" xlink:href="../924/14602924.xml">
 Georgia Tech</link></col>
 <col align="center"></col>
 <col>
@@ -857,9 +857,9 @@ GA</link></symbol>
 </col>
 
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col align="center">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -874,9 +874,9 @@ Miami</link></col>
 Scott Stadium • Charlottesville, VA</col>
 
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col align="center">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -884,7 +884,7 @@ Scott Stadium • Charlottesville, VA</col>
 November 8</link></col>
 
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../142/15504142.xml">
+ at <link xlink:type="simple" xlink:href="../142/15504142.xml">
 Wake Forest</link></col>
 <col align="center"></col>
 <col>
@@ -914,9 +914,9 @@ NC</link></country>
 </col>
 
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col align="center">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -931,9 +931,9 @@ Clemson</link></col>
 Scott Stadium • Charlottesville, VA</col>
 
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col align="center">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
@@ -941,7 +941,7 @@ Scott Stadium • Charlottesville, VA</col>
 November 29</link></col>
 
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../271/15611271.xml">
+ at <link xlink:type="simple" xlink:href="../271/15611271.xml">
 Virginia Tech</link></col>
 <col align="center"></col>
 <col>
@@ -962,9 +962,9 @@ Blacksburg, VA</link></village>
 </col>
 
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col align="center">
-&nbsp;</col>
+ </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -1213,7 +1213,7 @@ Players</st>
 <indent level="1">
 
 <it>See also: <link xlink:type="simple" xlink:href="../259/4009259.xml">
-American football positions</link>&nbsp;and <work wordnetid="104599396" confidence="0.8">
+American football positions</link> and <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <glossary wordnetid="106420781" confidence="0.8">
@@ -2737,97 +2737,97 @@ Opp</header>
 <col>
 Scoring</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Points per Game</col>
+  Points per Game</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 First Downs</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Rushing</col>
+  Rushing</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Passing</col>
+  Passing</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Penalty</col>
+  Penalty</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 Total Offense</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Play</col>
+  Avg per Play</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Game</col>
+  Avg per Game</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 Fumbles-Lost</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 Penalties-Yards</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Game</col>
+  Avg per Game</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 </table>
 </col>
@@ -2842,81 +2842,81 @@ Opp</header>
 <col>
 Punts-Yards</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Avg per Punt</col>
+  Avg per Punt</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 Time of Possession/Game</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 3rd Down Conversions</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 4th Down Conversions</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 Touchdowns Scored</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 Field Goals-Attempts-Long</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 PAT-Attempts</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 Attendance</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
-&nbsp;&nbsp;Games/Avg per Game</col>
+  Games/Avg per Game</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 </table>
 </col>
@@ -3008,45 +3008,45 @@ Avg/G</header>
 <col>
 <b>Total</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 <b>Opponents</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 </table>
 </p>
@@ -3080,45 +3080,45 @@ Avg/G</header>
 <col>
 <b>Total</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 <b>Opponents</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 </table>
 </p>
@@ -3150,45 +3150,45 @@ Avg/G</header>
 <col>
 <b>Total</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col>
 <b>Opponents</b></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 </table>
 </p>
@@ -3393,7 +3393,7 @@ References</st>
 <entry id="1">
 Kilgore, Adam&#32;(2008-01-18).&#32;"<weblink xlink:type="simple" xlink:href="http://www.washingtonpost.com/wp-dyn/content/article/2008/01/17/AR2008011702761.html">
 U-Va.'s Sewell Not Enrolled For the Spring</weblink>", <it><link xlink:type="simple" xlink:href="../226/102226.xml">
-Washington Post</link></it>.&nbsp;</entry>
+Washington Post</link></it>. </entry>
 <entry id="2">
 "<weblink xlink:type="simple" xlink:href="http://www.wsls.com/sls/sports/college/college_football/article/uva_football_player_arrested/6688/">
 UVA football player arrested</weblink>".&#32;<it>WSLS</it>&#32;(2008-03-03).&#32;Retrieved on <link>
@@ -3405,7 +3405,7 @@ Fitzgerald Leaves University of Virginia</weblink>".&#32;<it>NBC-29</it>.&#32;Re
 <entry id="4">
 Kilgore, Adam&#32;(2008-08-04).&#32;"<weblink xlink:type="simple" xlink:href="http://www.washingtonpost.com/wp-dyn/content/article/2008/08/03/AR2008080301703.html">
 Five Questions for Virginia</weblink>", <it><link xlink:type="simple" xlink:href="../226/102226.xml">
-Washington Post</link></it>.&nbsp;</entry>
+Washington Post</link></it>. </entry>
 <entry id="5">
 White, Jeff&#32;(2008-07-24).&#32;"<weblink xlink:type="simple" xlink:href="http://www.inrich.com/cva/ric/news.apx.-content-articles-RTD-2008-07-24-0189.html">
 U.Va. QB lalich Charged with Alcohol Posession</weblink>".&#32;Retrieved on <link>
@@ -3413,11 +3413,11 @@ U.Va. QB lalich Charged with Alcohol Posession</weblink>".&#32;Retrieved on <lin
 <entry id="6">
 McKenzie, Bryan&#32;(2008-09-05).&#32;"<weblink xlink:type="simple" xlink:href="http://www.dailyprogress.com/cdp/sports/cavalier_insider/ci_football/article/more_charges_for_uvas_lalich/27361/">
 More charges for UVa’s Lalich</weblink>", <it><link>
-Daily Progress</link></it>.&nbsp;</entry>
+Daily Progress</link></it>. </entry>
 <entry id="7">
 Doughty, Doug&#32;(2008-09-10).&#32;"<weblink xlink:type="simple" xlink:href="http://www.roanoke.com/sports/breaking/wb/176395">
 UVa QB Lalich won't play Saturday</weblink>", <it><link xlink:type="simple" xlink:href="../116/14580116.xml">
-Roanoke Times</link></it>.&nbsp;</entry>
+Roanoke Times</link></it>. </entry>
 <entry id="8">
 "<weblink xlink:type="simple" xlink:href="http://www.dailypress.com/sports/spt_lalich_0919,0,7961835.story">
 UVa dismisses Lalich from team</weblink>".&#32;  Daily Press&#32;(2008-09-18).&#32;Retrieved on <link>
@@ -3542,23 +3542,23 @@ ACADEMICS</p>
 School of Architecture</link></institution>
 </educational_institution>
 </school>
- (SARC/GARC)&nbsp;· 
+ (SARC/GARC) · 
 <link xlink:type="simple" xlink:href="../925/10701925.xml">
-Batten School of Leadership and Public Policy</link>&nbsp;· 
+Batten School of Leadership and Public Policy</link> · 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../647/4694647.xml">
 College of Arts &amp; Sciences</link></university>
- (CLAS/GSAS)&nbsp;· 
+ (CLAS/GSAS) · 
 <link xlink:type="simple" xlink:href="../507/7695507.xml">
-School of Continuing and Professional Studies</link> (SCED)&nbsp;· 
+School of Continuing and Professional Studies</link> (SCED) · 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../901/1026901.xml">
 Darden Graduate School of Business Administration</link></university>
- (GSBA)&nbsp;· 
+ (GSBA) · 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../207/1583207.xml">
 McIntire School of Commerce</link></university>
- (SCC)&nbsp;· 
+ (SCC) · 
 <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -3566,62 +3566,62 @@ McIntire School of Commerce</link></university>
 Curry School of Education</link></institution>
 </educational_institution>
 </school>
- (SED/GED)&nbsp;· 
+ (SED/GED) · 
 <link xlink:type="simple" xlink:href="../209/5747209.xml">
-School of Engineering and Applied Science</link> (SEAS/GEAS)&nbsp;· 
+School of Engineering and Applied Science</link> (SEAS/GEAS) · 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../258/1713258.xml">
 School of Law</link></university>
- (LAW/GLAW)&nbsp;· 
+ (LAW/GLAW) · 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../255/5675255.xml">
 School of Medicine</link></university>
- (SMD)&nbsp;· 
+ (SMD) · 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../142/7710142.xml">
 School of Nursing</link></university>
- (NURS/GNUR)&nbsp;· 
+ (NURS/GNUR) · 
 <link xlink:type="simple" xlink:href="../299/2622299.xml">
 US Army Judge Advocate General’s School</link>
 <b>Programs:</b>
-Jefferson Scholars&nbsp;· 
+Jefferson Scholars · 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../647/4694647.xml#xpointer(//*[./st=%22Echols+Scholars%22])">
 Echols Scholars</link></university>
-&nbsp;· 
+ · 
 <link>
 Rodman Scholars</link>
 <b>Research:</b>
 <organization wordnetid="108008335" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../764/7954764.xml">
 Association of American Universities</link></organization>
-&nbsp;· 
+ · 
 <institute wordnetid="108407330" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
 <link xlink:type="simple" xlink:href="../147/643147.xml">
 Association of Universities for Research in Astronomy</link></association>
 </institute>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../774/2832774.xml">
-Institute for Advanced Technology in the Humanities</link>&nbsp;· 
+Institute for Advanced Technology in the Humanities</link> · 
 <link xlink:type="simple" xlink:href="../691/3170691.xml">
-Japanese Text Initiative</link>&nbsp;· 
+Japanese Text Initiative</link> · 
 <association wordnetid="108049401" confidence="0.8">
 <link xlink:type="simple" xlink:href="../775/7954775.xml">
 Universitas 21</link></association>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../033/3369033.xml">
-Mid Atlantic Terascale Partnership</link>&nbsp;· 
+Mid Atlantic Terascale Partnership</link> · 
 <link xlink:type="simple" xlink:href="../358/3484358.xml">
-Flexible Extensible Digital Object Repository Architecture</link>&nbsp;· 
+Flexible Extensible Digital Object Repository Architecture</link> · 
 <link xlink:type="simple" xlink:href="../351/10033351.xml">
-Applied Research in Patacriticism</link>&nbsp;· 
+Applied Research in Patacriticism</link> · 
 <link>
-Networked Infrastructure for Nineteenth-Century Electronic Scholarship</link>&nbsp;· 
+Networked Infrastructure for Nineteenth-Century Electronic Scholarship</link> · 
 <link xlink:type="simple" xlink:href="../255/311255.xml">
-Legion</link>&nbsp;· 
+Legion</link> · 
 <link xlink:type="simple" xlink:href="../276/1924276.xml">
-Mentat</link>&nbsp;· 
+Mentat</link> · 
 <link xlink:type="simple" xlink:href="../728/479728.xml">
 Real-Time Cmix</link>
 <b>Research publications:</b>
@@ -3629,26 +3629,26 @@ Real-Time Cmix</link>
 Journal of Law and Politics</link>
 <b>Miscellaneous:</b>
 <link xlink:type="simple" xlink:href="../494/1043494.xml">
-Honor code</link>&nbsp;· 
+Honor code</link> · 
 <link xlink:type="simple" xlink:href="../716/3506716.xml">
-Rare Book School</link>&nbsp;· 
+Rare Book School</link> · 
 <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../861/1103861.xml">
 Semester at Sea</link></plan>
 </idea>
-&nbsp;· 
+ · 
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../003/3475003.xml">
 University of Virginia's College at Wise</link></university>
-&nbsp;· 
-Weldon Cooper Center for Public Service&nbsp;· 
+ · 
+Weldon Cooper Center for Public Service · 
 <politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link xlink:type="simple" xlink:href="../588/7857588.xml">
 Sorensen Institute for Political Leadership</link></social_relation>
 </politics>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../961/12487961.xml">
 Miller Center of Public Affairs</link></p>
 </col>
@@ -3665,13 +3665,13 @@ ATHLETICS</p>
 <conference wordnetid="108308497" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../023/78023.xml">
 ACC</link></conference>
-&nbsp;· 
+ · 
 <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../377/3485377.xml">
 Virginia Cavaliers</link></plan>
 </idea>
-&nbsp;· 
+ · 
 <social_group wordnetid="107950920" confidence="0.8">
 <set wordnetid="108240169" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -3679,11 +3679,11 @@ Virginia Cavaliers</link></plan>
 Virginia Pep Band</link></group>
 </set>
 </social_group>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../401/8993401.xml">
-theSabre</link>&nbsp;· 
+theSabre</link> · 
 <link xlink:type="simple" xlink:href="../543/539543.xml">
-Wahoos</link>&nbsp;· 
+Wahoos</link> · 
 <music wordnetid="107020895" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
@@ -3693,7 +3693,7 @@ The Good Old Song</link></musical_composition>
 </auditory_communication>
 </song>
 </music>
-&nbsp;·  
+ ·  
 <music wordnetid="107020895" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
@@ -3703,18 +3703,18 @@ The Cavalier Song</link></musical_composition>
 </auditory_communication>
 </song>
 </music>
-&nbsp;· 
+ · 
 <link>
 Wah-hoo-wah</link>
 <b>Teams:</b>
 <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../182/13635182.xml">
 Baseball</link></team>
-&nbsp;· 
+ · 
 <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../778/7915778.xml">
 Men's basketball</link></team>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../993/7768993.xml">
 Football</link> 
 <b>Rivalries:</b>
@@ -3735,7 +3735,7 @@ Virginia-Virginia Tech rivalry</link></competition>
 </event>
 </diversion>
 </group_action>
-&nbsp;· 
+ · 
 <group_action wordnetid="101080366" confidence="0.8">
 <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
@@ -3755,7 +3755,7 @@ South's Oldest Rivalry</link></competition>
 </symbol>
 </trophy>
 </group_action>
-&nbsp;· 
+ · 
 <group_action wordnetid="101080366" confidence="0.8">
 <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
@@ -3775,7 +3775,7 @@ Commonwealth Cup</link></competition>
 </symbol>
 </trophy>
 </group_action>
-&nbsp;· 
+ · 
 <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
@@ -3787,8 +3787,8 @@ Jefferson-Eppes Trophy</link></signal>
 </trophy>
  
 <b>Current Facilities:</b>
-Aquatics and Fitness Center&nbsp;· 
-Birdwood Golf Course&nbsp;· 
+Aquatics and Fitness Center · 
+Birdwood Golf Course · 
 <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -3800,7 +3800,7 @@ Davenport Field</link></venue>
 </location>
 </area>
 </region>
-&nbsp;· 
+ · 
 <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -3812,14 +3812,14 @@ John Paul Jones Arena</link></venue>
 </location>
 </area>
 </region>
-&nbsp;· 
+ · 
 <link>
-Klöckner Stadium</link>&nbsp;· 
+Klöckner Stadium</link> · 
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../602/137602.xml">
 Lake Monticello</link></village>
- &nbsp;· 
-Lannigan Track&nbsp;· 
+  · 
+Lannigan Track · 
 <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -3837,9 +3837,9 @@ Memorial Gym</link></venue>
 </area>
 </region>
 </site>
-&nbsp;· 
-Panorama Farms&nbsp;· 
-The Park&nbsp;· 
+ · 
+Panorama Farms · 
+The Park · 
 <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -3851,11 +3851,11 @@ Scott Stadium</link></venue>
 </location>
 </area>
 </region>
-&nbsp;· 
+ · 
 <stadium wordnetid="104295881" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../581/7822581.xml">
 Sheridan Snyder Tennis Center</link></stadium>
-&nbsp;· 
+ · 
 Turf Field
 <b>Past Facilities:</b>
 <link xlink:type="simple" xlink:href="../840/1919840.xml">
@@ -3880,7 +3880,7 @@ The Lawn</link></location>
 </landmark>
 </point>
 </position>
-&nbsp;· 
+ · 
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -3888,15 +3888,15 @@ The Lawn</link></location>
 The Range</link></artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../038/739038.xml">
-The Rotunda</link>&nbsp;· 
+The Rotunda</link> · 
 <link xlink:type="simple" xlink:href="../813/8181813.xml">
-The Corner</link>&nbsp;· 
+The Corner</link> · 
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../343/91343.xml">
 Charlottesville</link></village>
-&nbsp;· 
+ · 
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -3906,7 +3906,7 @@ Fan Mountain Observatory</link></observatory>
 </artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -3914,7 +3914,7 @@ Fan Mountain Observatory</link></observatory>
 Jefferson Hall</link></artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -3932,7 +3932,7 @@ McCormick Observatory</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;· 
+ · 
 <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <landmark wordnetid="108624891" confidence="0.8">
@@ -3958,13 +3958,13 @@ STUDENT LIFE</p>
 <newspaper wordnetid="106267145" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../703/4368703.xml">
 The Cavalier Daily</link></newspaper>
-&nbsp;· 
-The Declaration&nbsp;· 
-Corks &amp; Curls&nbsp;· 
+ · 
+The Declaration · 
+Corks &amp; Curls · 
 <newspaper wordnetid="106267145" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../386/3775386.xml">
 The Virginia Quarterly Review</link></newspaper>
-&nbsp;· 
+ · 
 <firm wordnetid="108059870" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
 <business wordnetid="108061042" confidence="0.8">
@@ -3974,7 +3974,7 @@ University of Virginia Press</link></publisher>
 </business>
 </enterprise>
 </firm>
-&nbsp;· 
+ · 
 <print_media wordnetid="106263609" confidence="0.8">
 <press wordnetid="106263369" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -3993,26 +3993,26 @@ Virginia Law Weekly</link></newspaper>
 The Hoos News Show 
 <b>Debating Societies:</b>
 <link xlink:type="simple" xlink:href="../426/1825426.xml">
-Jefferson Literary and Debating Society</link>&nbsp;· 
+Jefferson Literary and Debating Society</link> · 
 <link xlink:type="simple" xlink:href="../974/3876974.xml">
 Washington Literary Society and Debating Union</link>
 <b>Performing Arts:</b>
-Academical Village People&nbsp;·  
+Academical Village People ·  
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../721/5064721.xml">
 Hullabahoos</link></group>
-&nbsp;· 
-New Dominions&nbsp;· 
+ · 
+New Dominions · 
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../759/7366759.xml">
 Virginia Glee Club</link></group>
-&nbsp;· 
+ · 
 <musical_organization wordnetid="108246613" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../717/12891717.xml">
 Virginia Gentlemen</link></group>
 </musical_organization>
-&nbsp;· 
+ · 
 Other
 <b><idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -4029,8 +4029,8 @@ Residential Colleges</link></kind>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../035/2652035.xml">
 Brown College at Monroe Hill</link></university>
-&nbsp;·  
-Hereford College&nbsp;· 
+ ·  
+Hereford College · 
 International Residential College
 <b><social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
@@ -4047,7 +4047,7 @@ Secret Societies</link></group>
 IMP Society</link></group>
 </society>
 </social_group>
-&nbsp;· 
+ · 
 <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -4055,7 +4055,7 @@ IMP Society</link></group>
 Seven Society</link></group>
 </society>
 </social_group>
-&nbsp;· 
+ · 
 <social_group wordnetid="107950920" confidence="0.8">
 <society wordnetid="107966140" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -4063,7 +4063,7 @@ Seven Society</link></group>
 Z Society</link></group>
 </society>
 </social_group>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../032/3477032.xml">
 Other</link></p>
 </col>
@@ -4078,7 +4078,7 @@ PEOPLE</p>
 <p>
 
 <b><link xlink:type="simple" xlink:href="../502/1818502.xml">
-Notable Alumni</link></b>&nbsp;· 
+Notable Alumni</link></b> · 
 <b><link xlink:type="simple" xlink:href="../106/7758106.xml">
 University Presidents</link></b>
 <president wordnetid="110468559" confidence="0.9508927676800064">
@@ -4090,7 +4090,7 @@ Thomas Jefferson</link></lawyer>
 </farmer>
 </person>
 </president>
-&nbsp;· 
+ · 
 <president wordnetid="110468559" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <lawyer wordnetid="110249950" confidence="0.9173553029164789">
@@ -4098,7 +4098,7 @@ Thomas Jefferson</link></lawyer>
 James Madison</link></lawyer>
 </person>
 </president>
-&nbsp;· 
+ · 
 <president wordnetid="110468559" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <farmer wordnetid="110078806" confidence="0.9173553029164789">
@@ -4106,7 +4106,7 @@ James Madison</link></lawyer>
 James Monroe</link></farmer>
 </person>
 </president>
-&nbsp;·  
+ ·  
 <president wordnetid="110468559" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <lawyer wordnetid="110249950" confidence="0.9173553029164789">
@@ -4114,11 +4114,11 @@ James Monroe</link></farmer>
 Woodrow Wilson</link></lawyer>
 </person>
 </president>
-&nbsp;·  
+ ·  
 <official wordnetid="110372373" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../106/26106.xml">
 Robert F. Kennedy</link></official>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <writer wordnetid="110794014" confidence="0.9508927676800064">
 <critic wordnetid="109979321" confidence="0.9173553029164789">
@@ -4126,21 +4126,21 @@ Robert F. Kennedy</link></official>
 Edgar Allan Poe</link></critic>
 </writer>
 </person>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../615/311615.xml">
 Georgia O'Keeffe</link></person>
-&nbsp;·  
+ ·  
 <link xlink:type="simple" xlink:href="../110/391110.xml">
-Javier Solana</link>&nbsp;·  
+Javier Solana</link> ·  
 <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../268/2142268.xml">
 Paul Tudor Jones</link></person>
-&nbsp;·  
+ ·  
 <journalist wordnetid="110224578" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../620/331620.xml">
 Katie Couric</link></journalist>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -4164,7 +4164,7 @@ Tiki Barber</link></athlete>
 </person>
 </expert>
 </physical_entity>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <cornerback wordnetid="109965787" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -4182,11 +4182,11 @@ Ronde Barber</link></athlete>
 </person>
 </cornerback>
 </physical_entity>
-&nbsp;·  
+ ·  
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../143/1429143.xml">
 Ralph Sampson</link></person>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -4208,7 +4208,7 @@ Dawn Staley</link></basketball_player>
 </player>
 </person>
 </physical_entity>
-&nbsp;·  
+ ·  
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
@@ -4224,7 +4224,7 @@ Claudio Reyna</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;· 
+ · 
 <comedian wordnetid="109940146" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
@@ -4259,7 +4259,7 @@ World Heritage Site</link></administration>
 </meeting>
 </social_group>
 </body>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../901/31901.xml">
 United Nations Educational, Scientific and Cultural Organization</link></agency>

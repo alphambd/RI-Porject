@@ -509,7 +509,7 @@ Pearl, Judea</link></scientist>
 &#32;(2000). Causality:  Models, Reasoning, and Inference.&#32;<company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../199/73199.xml">
 Cambridge University Press</link></company>
-. ISBN 0-521-77362-8.</cite>&nbsp;</entry>
+. ISBN 0-521-77362-8.</cite> </entry>
 <entry id="3">
 P. Spirtes and C. Glymour, "An algorithm for fast recovery of sparse causal graphs", <it>Social Science Computer Review,</it> Vol. 9, pp. 62-72, 1991.</entry>
 <entry id="4">
@@ -525,7 +525,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.ipm.2004.03.001">
-10.1016/j.ipm.2004.03.001</weblink>.</cite>&nbsp;</entry>
+10.1016/j.ipm.2004.03.001</weblink>.</cite> </entry>
 <entry id="7">
  <cite style="font-style:normal">G. A. Davis&#32;(2003).&#32;"Bayesian reconstruction of traffic accidents". <it>Law, Probability and Risk</it>&#32;<b>2</b>: 69–89. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -535,12 +535,12 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Flpr%2F2.2.69">
-10.1093/lpr/2.2.69</weblink>.</cite>&nbsp;</entry>
+10.1093/lpr/2.2.69</weblink>.</cite> </entry>
 <entry id="8">
- <cite style="font-style:normal" class="book">J. B. Kadane and D. A. Schum&#32;(1996). A Probabilistic Analysis of the Sacco and Vanzetti Evidence.&#32;New York:&#32;Wiley. ISBN 0-471-14182-8.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">J. B. Kadane and D. A. Schum&#32;(1996). A Probabilistic Analysis of the Sacco and Vanzetti Evidence.&#32;New York:&#32;Wiley. ISBN 0-471-14182-8.</cite> </entry>
 <entry id="9">
  <cite style="font-style:normal" class="book">O. Pourret, P. Naim and B. Marcot&#32;(2008). <weblink xlink:type="simple" xlink:href="http://www.wiley.com/go/pourret">
-Bayesian Networks: A Practical Guide to Applications</weblink>.&#32;Chichester, UK:&#32;Wiley. ISBN 978-0-470-06030-8.</cite>&nbsp;</entry>
+Bayesian Networks: A Practical Guide to Applications</weblink>.&#32;Chichester, UK:&#32;Wiley. ISBN 978-0-470-06030-8.</cite> </entry>
 <entry id="10">
 Judea Pearl (1985). "Bayesian Networks: A Model of Self-Activated Memory for Evidential Reasoning". In Proceedings of the 7th Conference of the Cognitive Science Society, University of California, Irvine, CA, pp. 329-334, August 15-17.</entry>
 <entry id="11">
@@ -552,7 +552,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1098%2Frstl.1763.0053">
-10.1098/rstl.1763.0053</weblink>.</cite>&nbsp;</entry>
+10.1098/rstl.1763.0053</weblink>.</cite> </entry>
 <entry id="12">
 Wright, Sewall (1921) "Correlation and Causation," <it>Journal of Agricultural Research</it>, 20:557-585.</entry>
 </reflist>
@@ -588,21 +588,21 @@ Springer-Verlag</link></institution>
 <link xlink:type="simple" xlink:href="../949/1418949.xml">
 Springer</link></institution>
 </company>
-.</cite>&nbsp;</entry>
+.</cite> </entry>
 <entry level="1" type="bullet">
 
  M. Neil, N. E. Fenton, and M. Tailor (2005), "<weblink xlink:type="simple" xlink:href="http://www.dcs.qmul.ac.uk/~norman/papers/oprisk.pdf">
 Using Bayesian Networks to model Expected and Unexpected Operational Losses</weblink>," Risk Analysis: An International Journal, Vol. 25(4), pp. 963-972.</entry>
 <entry level="1" type="bullet">
 
- Judea Pearl (1986), "Fusion, propagation, and structuring in belief networks". <it>Artificial Intelligence</it> <b>29</b>(3):241&ndash;288.</entry>
+ Judea Pearl (1986), "Fusion, propagation, and structuring in belief networks". <it>Artificial Intelligence</it> <b>29</b>(3):241–288.</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Judea Pearl&#32;(1988). Probabilistic Reasoning in Intelligent Systems.&#32;<link xlink:type="simple" xlink:href="../989/8306989.xml">
-Morgan Kaufmann</link>. ISBN 0-934613-73-7.</cite>&nbsp;</entry>
+Morgan Kaufmann</link>. ISBN 0-934613-73-7.</cite> </entry>
 <entry level="1" type="bullet">
 
- Judea Pearl and Stuart Russell. Bayesian Networks, in M. A. Arbib (editor), <it>Handbook of Brain Theory and Neural Networks</it>, pp. 157&ndash;160, Cambridge, MA: <company wordnetid="108058098" confidence="0.9508927676800064">
+ Judea Pearl and Stuart Russell. Bayesian Networks, in M. A. Arbib (editor), <it>Handbook of Brain Theory and Neural Networks</it>, pp. 157–160, Cambridge, MA: <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../601/719601.xml">
 MIT Press</link></company>
 , 2003, ISBN 0-262-01197-2.</entry>
@@ -612,7 +612,7 @@ MIT Press</link></company>
 D. L. Dowe</weblink>, "<weblink xlink:type="simple" xlink:href="http://www.csse.monash.edu.au/~dld/David.Dowe.publications.html#ComleyDowe2005">
 Minimum Message Length, MDL and Generalised Bayesian Networks with Asymmetric Languages</weblink>", <weblink xlink:type="simple" xlink:href="http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=10478&amp;mode=toc">
 chapter 11</weblink> (pp<weblink xlink:type="simple" xlink:href="http://www.csse.monash.edu.au/~dld/Publications/2005/ComleyDowe2005MMLGeneralizedBayesianNetsAsymmetricLanguages_p265.jpg">
-265</weblink>&ndash;<weblink xlink:type="simple" xlink:href="http://www.csse.monash.edu.au/~dld/Publications/2005/ComleyDowe2005MMLGeneralizedBayesianNetsAsymmetricLanguages_p294.jpg">
+265</weblink>–<weblink xlink:type="simple" xlink:href="http://www.csse.monash.edu.au/~dld/Publications/2005/ComleyDowe2005MMLGeneralizedBayesianNetsAsymmetricLanguages_p294.jpg">
 294</weblink>) in P. Grunwald, M. A. Pitt and I. J. Myung (editors), <weblink xlink:type="simple" xlink:href="http://mitpress.mit.edu/catalog/item/default.asp?sid=4C100C6F-2255-40FF-A2ED-02FC49FEBE7C&amp;ttype=2&amp;tid=10478">
 Advances in Minimum Description Length: Theory and Applications</weblink>, Cambridge, MA: <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../601/719601.xml">
@@ -626,13 +626,13 @@ Comley and Dowe (2003)</weblink>, <weblink xlink:type="simple" xlink:href="http:
 <entry level="1" type="bullet">
 
  Christian Borgelt and Rudolf Kruse. <weblink xlink:type="simple" xlink:href="http://fuzzy.cs.uni-magdeburg.de/books/gm/">
-Graphical Models &ndash; Methods for Data Analysis and Mining</weblink>, Chichester, UK: <link xlink:type="simple" xlink:href="../469/2319469.xml">
+Graphical Models – Methods for Data Analysis and Mining</weblink>, Chichester, UK: <link xlink:type="simple" xlink:href="../469/2319469.xml">
 Wiley</link>, 2002, ISBN 0-470-84337-3</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Kevin B. Korb;&#32;Ann E. Nicholson&#32;(2004). <weblink xlink:type="simple" xlink:href="http://www.csse.monash.edu.au/bai">
 Bayesian Artificial Intelligence</weblink>.&#32;<link xlink:type="simple" xlink:href="../382/834382.xml">
-CRC Press</link>. ISBN 1-58488-387-1.</cite>&nbsp;</entry>
+CRC Press</link>. ISBN 1-58488-387-1.</cite> </entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.cs.ust.hk/faculty/lzhang/bio.html">

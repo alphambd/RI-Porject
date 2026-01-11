@@ -188,7 +188,7 @@ The linear subspace where these equations are satisfied is one of the constraint
 
 <it>a</it>1 = (<it>x</it>11 - <it>x</it>21 + <it>x</it>41) / 3
 </indent>
-:<it>x</it>11 &amp;rarr; <it>a</it>1 &nbsp; <it>x</it>21 &amp;rarr; -<it>a</it>1        &nbsp; <it>x</it>41 &amp;rarr; <it>a</it>1</p>
+:<it>x</it>11 &amp;rarr; <it>a</it>1   <it>x</it>21 &amp;rarr; -<it>a</it>1          <it>x</it>41 &amp;rarr; <it>a</it>1</p>
 <p>
 
 The second difference map constraint applies to the rows of the table, the clauses. In a satisfying assignment, the two variables in each row must be assigned the values (1, 1), (1, -1), or (-1, 1). The corresponding constraint set, <it>B</it>, is thus a set of 34 = 729 points. In projecting to this constraint the following operation is applied to each row. First, the two real values are rounded to 1 or -1; then, if the outcome is (-1, -1), the larger of the two original values is replaced by 1. Examples: </p>

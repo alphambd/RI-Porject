@@ -140,49 +140,49 @@ Elektronika BK</link></computer>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../322/169322.xml">
 ANDOS</link></O>
-&nbsp;&#124; 
+ &#124; 
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../363/13547363.xml">
 MK-DOS</link></O>
-&nbsp;&#124; 
+ &#124; 
 <link>
-OS BK-11</link>&nbsp;&#124; 
+OS BK-11</link> &#124; 
 <link>
-AO-DOS</link>&nbsp;&#124; 
+AO-DOS</link> &#124; 
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../772/10997772.xml">
 CSI-DOS</link></O>
-&nbsp;&#124; 
+ &#124; 
 <link>
-BASIS</link>&nbsp;&#124; 
+BASIS</link> &#124; 
 <link>
-DOSB10</link>&nbsp;&#124; 
+DOSB10</link> &#124; 
 <link>
-NORD</link>&nbsp;&#124; 
+NORD</link> &#124; 
 <link>
-NORTON-BK</link>&nbsp;&#124; 
+NORTON-BK</link> &#124; 
 <link>
-MicroDOS</link>&nbsp;&#124; 
+MicroDOS</link> &#124; 
 <link>
-KMON</link>&nbsp;&#124; 
+KMON</link> &#124; 
 <link>
-PascalDOS</link>&nbsp;&#124; 
+PascalDOS</link> &#124; 
 <link>
-Turbo-DOS</link>&nbsp;&#124; 
+Turbo-DOS</link> &#124; 
 <link>
-DX-DOS</link>&nbsp;&#124; 
+DX-DOS</link> &#124; 
 <link>
-RAMON</link>&nbsp;&#124; 
+RAMON</link> &#124; 
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../309/69309.xml">
 RT-11</link></O>
-&nbsp;&#124; 
+ &#124; 
 <link>
-HC-DOS</link>&nbsp;&#124; 
+HC-DOS</link> &#124; 
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../604/11021604.xml">
 BKUNIX</link></O>
-&nbsp;&#124; 
+ &#124; 
 <link>
 OS/A WASP</link></p>
 </col>
@@ -218,13 +218,13 @@ operating system</link>s</header>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/22nd_century.xml">
 AIX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/18932622.xml">
 BSD</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../229/294229.xml">
 DragonFly BSD</link></O>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -233,32 +233,32 @@ FreeBSD</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <link xlink:type="simple" xlink:href="../875/11875.xml">
-GNU</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../875/11875.xml">
+GNU</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../704/36704.xml">
 HP-UX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../537/14537.xml">
-IRIX</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../537/14537.xml">
+IRIX</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../980/867980.xml">
 LynxOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/18977.xml">
 MINIX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../495/21495.xml">
-NetBSD</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../495/21495.xml">
+NetBSD</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../571/18949571.xml">
 OpenBSD</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../226/24226.xml">
 Plan 9</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../184/65184.xml">
 QNX</link></O>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -267,10 +267,10 @@ Research Unix</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../906/1579906.xml">
 SCO OpenServer</link></O>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -283,14 +283,14 @@ Solaris</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link>
-System V</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link>
+System V</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../275/38275.xml">
 Tru64</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../105/157105.xml">
 VxWorks</link></O>
-&nbsp;·  <it>
+ ·  <it>
 Unix variants|more''</it></col>
 </row>
 </table>

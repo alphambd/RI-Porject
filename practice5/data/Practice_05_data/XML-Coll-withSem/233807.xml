@@ -24,7 +24,7 @@ mathematical</link> subfield of <link xlink:type="simple" xlink:href="../506/215
 numerical analysis</link>, <b>numerical stability</b> is a desirable property of numerical <link xlink:type="simple" xlink:href="../775/775.xml">
 algorithm</link>s. The precise definition of <it>stability</it> depends on the context, but it is related to the accuracy of the algorithm.<p>
 
-Sometimes a single calculation can be achieved in several ways, all of which are algebraically equivalent in terms of ideal real or complex numbers, but in practice when performed on digital computers yield different results. Some calculations might damp out approximation errors that occur; others might magnify such errors.  Calculations that do not magnify approximation errors are called <it>numerically stable</it>.  One of the common tasks of numerical analysis is to try to select algorithms which are <it>robust</it> &mdash; that is to say, have good numerical stability.</p>
+Sometimes a single calculation can be achieved in several ways, all of which are algebraically equivalent in terms of ideal real or complex numbers, but in practice when performed on digital computers yield different results. Some calculations might damp out approximation errors that occur; others might magnify such errors.  Calculations that do not magnify approximation errors are called <it>numerically stable</it>.  One of the common tasks of numerical analysis is to try to select algorithms which are <it>robust</it> — that is to say, have good numerical stability.</p>
 
 <sec>
 <st>

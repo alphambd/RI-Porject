@@ -38,7 +38,7 @@ states</link></causal_agent>
 </person>
 </physical_entity>
 </it>.  The grid can be in any finite number of dimensions.  Time is also <link xlink:type="simple" xlink:href="../137/305137.xml">
-discrete</link>, and the state of a cell at time <it>t</it> is a function of the states of a finite number of cells (called its <it>neighborhood</it>) at time <it>t</it>&nbsp;&amp;minus;&nbsp;1. These neighbors are a selection of cells relative to the specified cell, and do not change (though the cell itself may be in its neighborhood, it is not usually considered a neighbor). Every cell has the same rule for updating, based on the values in this neighbourhood. Each time the rules are applied to the whole grid a new <it>generation</it> is created.
+discrete</link>, and the state of a cell at time <it>t</it> is a function of the states of a finite number of cells (called its <it>neighborhood</it>) at time <it>t</it> &amp;minus; 1. These neighbors are a selection of cells relative to the specified cell, and do not change (though the cell itself may be in its neighborhood, it is not usually considered a neighbor). Every cell has the same rule for updating, based on the values in this neighbourhood. Each time the rules are applied to the whole grid a new <it>generation</it> is created.
 <sec>
 <st>
 Overview</st>
@@ -70,7 +70,7 @@ Cellular automata are often simulated on a finite grid rather than an infinite o
 periodic</link> tiling, and in the field of <link xlink:type="simple" xlink:href="../564/52564.xml">
 Partial Differential Equations</link> is sometimes referred to as <it>periodic</it> boundary conditions.) This can be visualized as taping the left and right edges of the rectangle to form a tube, then taping the top and bottom edges of the tube to form a <link xlink:type="simple" xlink:href="../800/74800.xml">
 torus</link> (doughnut shape).  Universes of other <link xlink:type="simple" xlink:href="../778/898778.xml">
-dimensions</link> are handled similarly. This is done in order to solve boundary problems with neighborhoods. For example, in a 1-dimensional cellular automaton like the examples below, the neighborhood of a cell <it>xit</it>&mdash;where <it>t</it> is the time step (vertical), and <it>i</it> is the index (horizontal) in one generation&mdash;is {<it>xi</it>&amp;minus;1<it>t</it>&amp;minus;1, <it>xit</it>&amp;minus;1, <it>xi</it>+1<it>t</it>&amp;minus;1}. There will obviously be problems when a neighbourhood on a left border references its upper left cell, which is not in the cellular space, as part of its neighborhood.</p>
+dimensions</link> are handled similarly. This is done in order to solve boundary problems with neighborhoods. For example, in a 1-dimensional cellular automaton like the examples below, the neighborhood of a cell <it>xit</it>—where <it>t</it> is the time step (vertical), and <it>i</it> is the index (horizontal) in one generation—is {<it>xi</it>&amp;minus;1<it>t</it>&amp;minus;1, <it>xit</it>&amp;minus;1, <it>xi</it>+1<it>t</it>&amp;minus;1}. There will obviously be problems when a neighbourhood on a left border references its upper left cell, which is not in the cellular space, as part of its neighborhood.</p>
 
 </sec>
 <sec>
@@ -194,7 +194,7 @@ Stephen Wolfram</link></scientist>
 </person>
  published the first of a series of papers systematically investigating a very basic but essentially unknown class of cellular automata, which he terms <it>elementary cellular automata</it> (see below). The unexpected complexity of the behavior of these simple rules led Wolfram to suspect that complexity in nature may be due to similar mechanisms.  Additionally, during this period Wolfram formulated the concepts of intrinsic randomness and computational irreducibility, and suggested that <link xlink:type="simple" xlink:href="../028/491028.xml">
 rule 110</link> may be <link xlink:type="simple" xlink:href="../621/30621.xml">
-universal</link>&mdash;a fact proved later with the help of Wolfram's research assistant <physical_entity wordnetid="100001930" confidence="0.8">
+universal</link>—a fact proved later with the help of Wolfram's research assistant <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">

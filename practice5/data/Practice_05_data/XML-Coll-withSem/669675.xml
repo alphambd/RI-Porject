@@ -270,7 +270,7 @@ The <information wordnetid="105816287" confidence="0.8">
 
 <indent level="1">
 
-<it>Example:</it> The data set has three dimensions and the cluster has two points: <it>X</it> = (<it>x</it>1, <it>x</it>2, <it>x</it>3) and <it>Y</it> = (<it>y</it>1, <it>y</it>2, <it>y</it>3). Then the centroid <it>Z</it> becomes <it>Z</it> = (<it>z</it>1, <it>z</it>2, <it>z</it>3), where <it>z</it>1 = (<it>x</it>1&nbsp;+&nbsp;<it>y</it>1)/2 and <it>z</it>2 = (<it>x</it>2&nbsp;+&nbsp;<it>y</it>2)/2 and <it>z</it>3 = (<it>x</it>3&nbsp;+&nbsp;<it>y</it>3)/2.
+<it>Example:</it> The data set has three dimensions and the cluster has two points: <it>X</it> = (<it>x</it>1, <it>x</it>2, <it>x</it>3) and <it>Y</it> = (<it>y</it>1, <it>y</it>2, <it>y</it>3). Then the centroid <it>Z</it> becomes <it>Z</it> = (<it>z</it>1, <it>z</it>2, <it>z</it>3), where <it>z</it>1 = (<it>x</it>1 + <it>y</it>1)/2 and <it>z</it>2 = (<it>x</it>2 + <it>y</it>2)/2 and <it>z</it>3 = (<it>x</it>3 + <it>y</it>3)/2.
 </indent>
 
 The algorithm steps are (J. MacQueen, 1967):
@@ -498,7 +498,7 @@ Robert L. Thorndike</link></associate>
 
 Other ways to determine the number of clusters use <link xlink:type="simple" xlink:href="../512/690512.xml">
 Akaike information criterion</link> (AIC) or <link xlink:type="simple" xlink:href="../272/2473272.xml">
-Bayesian information criterion</link> (BIC) &mdash; if it is possible to make a likelihood function for the clustering model. 
+Bayesian information criterion</link> (BIC) — if it is possible to make a likelihood function for the clustering model. 
 For example: The k-means model is "almost" a <link xlink:type="simple" xlink:href="../681/871681.xml">
 Gaussian mixture model</link> and one can construct a likelihood for the  Gaussian mixture model and thus also determine AIC and BIC values.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%226%22])">6</ref></p>
 
@@ -878,11 +878,11 @@ Structured data analysis (statistics)</link></entry>
 Google News personalization: scalable online collaborative filtering</weblink></entry>
 <entry id="2">
  <cite style="font-style:normal" class="book"><link xlink:type="simple" xlink:href="../910/7105910.xml">
-Kanti Mardia</link> et al.&#32;(1979). Multivariate Analysis.&#32;Academic Press.</cite>&nbsp;</entry>
+Kanti Mardia</link> et al.&#32;(1979). Multivariate Analysis.&#32;Academic Press.</cite> </entry>
 <entry id="3">
 See, e.g.,  <cite style="font-style:normal">David J. Ketchen, Jr &amp; Christopher L. Shook&#32;(1996).&#32;"<weblink xlink:type="simple" xlink:href="http://www3.interscience.wiley.com/cgi-bin/fulltext/17435/PDFSTART">
 The application of cluster analysis in Strategic Management Research: An analysis and critique</weblink>". <it><link>
-Strategic Management Journal</link></it>&#32;<b>17</b>&#32;(6): 441&ndash;458.</cite>&nbsp;</entry>
+Strategic Management Journal</link></it>&#32;<b>17</b>&#32;(6): 441–458.</cite> </entry>
 <entry id="4">
 See, e.g., Figure 6 in
 <list>
@@ -892,7 +892,7 @@ See, e.g., Figure 6 in
 Lars Kai Hansen</link>&#32;(March 1999).&#32;"On Clustering fMRI Time Series". <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../788/6330788.xml">
 NeuroImage</link></periodical>
-</it>&#32;<b>9</b>&#32;(3): 298&ndash;310. <document wordnetid="106470073" confidence="0.8">
+</it>&#32;<b>9</b>&#32;(3): 298–310. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -900,7 +900,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fnimg.1998.0391">
-10.1006/nimg.1998.0391</weblink>. PMID 10075900.</cite>&nbsp;</entry>
+10.1006/nimg.1998.0391</weblink>. PMID 10075900.</cite> </entry>
 </list>
 </entry>
 <entry id="5">
@@ -922,12 +922,12 @@ Robert L. Thorndike</link></associate>
 </peer>
 </physical_entity>
 &#32;(December 1953).&#32;"Who Belong in the Family?". <it><link>
-Psychometrika</link></it>&#32;<b>18</b>&#32;(4).</cite>&nbsp;</entry>
+Psychometrika</link></it>&#32;<b>18</b>&#32;(4).</cite> </entry>
 <entry id="6">
  <cite style="font-style:normal">Cyril Goutte, <link>
 Lars Kai Hansen</link>, Matthew G. Liptrot &amp; Egill Rostrup&#32;(2001).&#32;"<weblink xlink:type="simple" xlink:href="http://www3.interscience.wiley.com/cgi-bin/fulltext/82002382/">
 Feature-Space Clustering for fMRI Meta-Analysis</weblink>". <it><link xlink:type="simple" xlink:href="../360/18948360.xml">
-Human Brain Mapping</link></it>&#32;<b>13</b>&#32;(3): 165&ndash;183.</cite>&nbsp; see especially Figure 14 and appendix.</entry>
+Human Brain Mapping</link></it>&#32;<b>13</b>&#32;(3): 165–183.</cite>  see especially Figure 14 and appendix.</entry>
 <entry id="7">
 Basak  S.C.,  Magnuson  V.R.,  Niemi  C.J.,   Regal   R.R. "Determing Structural Similarity of Chemicals  Using  Graph Theoretic Indices". <it>Discr. Appl. Math.</it>, <b>19</b>, 1988: 17-44.</entry>
 <entry id="8">
@@ -935,7 +935,7 @@ Basak  S.C.,  Magnuson  V.R.,  Niemi  C.J.,   Regal   R.R. "Determing Structural
 1983</link>).&#32;"A Method for Comparing Two Hierarchical Clusterings". <it><periodical wordnetid="106593296" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../313/16179313.xml">
 Journal of the American Statistical Association</link></periodical>
-</it>&#32;<b>78</b>&#32;(383): 553&ndash;584. <document wordnetid="106470073" confidence="0.8">
+</it>&#32;<b>78</b>&#32;(383): 553–584. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -943,7 +943,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2288117">
-10.2307/2288117</weblink>.</cite>&nbsp;</entry>
+10.2307/2288117</weblink>.</cite> </entry>
 <entry id="9">
 Alexander Kraskov, Harald Stögbauer, Ralph G. Andrzejak, and Peter Grassberger, "Hierarchical Clustering Based on Mutual Information", (2003) <it><weblink xlink:type="simple" xlink:href="http://arxiv.org/abs/q-bio/0311039">
 ArXiv q-bio/0311039</weblink>''</it></entry>

@@ -309,7 +309,7 @@ The earliest variant of OS/360's control program was the Primary Control Program
 Later modifications of MFT-II added <it>sub-tasking</it>, so that the fixed number of tasks was no longer fixed, although the number of partitions did remain a limitation.</p>
 <p>
 
-Although officially PCP, MFT and MVT were not a separate operating systems from OS/360,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> those were only an install-time configuration options&mdash;in today's words, a three different variants of OS kernel&mdash;because of quite different behaviour and memory requirements, users commonly considered them de facto separate operating systems, and referred to them as <it>early OS/360</it>, <b>OS/MFT</b>, <it>OS/MVT</it>, respectively.</p>
+Although officially PCP, MFT and MVT were not a separate operating systems from OS/360,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> those were only an install-time configuration options—in today's words, a three different variants of OS kernel—because of quite different behaviour and memory requirements, users commonly considered them de facto separate operating systems, and referred to them as <it>early OS/360</it>, <b>OS/MFT</b>, <it>OS/MVT</it>, respectively.</p>
 
 <sec>
 <st>
@@ -321,7 +321,7 @@ References</st>
 <entry id="1">
  <cite style="font-style:normal" class="book">IBM&#32;(1972). <weblink xlink:type="simple" xlink:href="http://bitsavers.vt100.net/pdf/ibm/360/GC28-6534-3_OS360introJan72.pdf">
 OS/360 Introduction</weblink>, IBM Systems Reference Library,&#32;50-51. GC28-6534-3. Retrieved during <link xlink:type="simple" xlink:href="../165/36165.xml">
-2007</link>.</cite>&nbsp; "there are two configurations of the [OS/360] control program: ... MFT configuration"</entry>
+2007</link>.</cite>  "there are two configurations of the [OS/360] control program: ... MFT configuration"</entry>
 </reflist>
 </p>
 

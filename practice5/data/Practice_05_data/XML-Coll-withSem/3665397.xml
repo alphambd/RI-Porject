@@ -94,7 +94,7 @@ estates</link></faculty>
 </row>
 <row>
 <col style=" padding-right:0.4em; padding-bottom:0.4em; padding-left:0.4em; none;  padding:0; border:0; line-height:0.4em;">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col style=" padding-right:0.4em; padding-bottom:0.4em; padding-left:0.4em; none;  padding:0 0.2em 0.8em; line-height:1.1em; font-size:95%;">
@@ -136,7 +136,7 @@ Joint wills and mutual wills</link> <volition wordnetid="105652593" confidence="
 <link xlink:type="simple" xlink:href="../252/2305252.xml">
 Will contract</link></faculty>
 </volition>
-&nbsp;·  <volition wordnetid="105652593" confidence="0.8">
+ ·  <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../206/3948206.xml">
 Codicil</link></faculty>
@@ -146,7 +146,7 @@ Codicil</link></faculty>
 <link xlink:type="simple" xlink:href="../682/1464682.xml">
 Holographic will</link></faculty>
 </volition>
-&nbsp;·  <volition wordnetid="105652593" confidence="0.8">
+ ·  <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../827/9383827.xml">
 Oral will</link></faculty>
@@ -196,7 +196,7 @@ Undue influence</link></faculty>
 <link xlink:type="simple" xlink:href="../994/2279994.xml">
 Insane delusion</link></faculty>
 </volition>
-&nbsp;·  <link xlink:type="simple" xlink:href="../790/58790.xml">
+ ·  <link xlink:type="simple" xlink:href="../790/58790.xml">
 Fraud</link></col>
 </row>
 <row>
@@ -208,7 +208,7 @@ Lapse and anti-lapse</link> <volition wordnetid="105652593" confidence="0.8">
 <link xlink:type="simple" xlink:href="../662/2226662.xml">
 Ademption</link></faculty>
 </volition>
-&nbsp;·  <link xlink:type="simple" xlink:href="../654/2654.xml">
+ ·  <link xlink:type="simple" xlink:href="../654/2654.xml">
 Abatement</link> <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../864/2279864.xml">
@@ -219,7 +219,7 @@ Acts of independent significance</link></faculty>
 <link xlink:type="simple" xlink:href="../144/1663144.xml">
 Elective share</link></faculty>
 </volition>
-&nbsp;·  <volition wordnetid="105652593" confidence="0.8">
+ ·  <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../217/2150217.xml">
 Pretermitted heir</link></faculty>
@@ -239,8 +239,8 @@ Trusts</link></faculty>
 <col style="padding-top:0.1em; padding-right:0.4em; padding-bottom:0.4em; padding-left:0.4em; none;  padding-bottom:0.3em;">
 <link xlink:type="simple" xlink:href="../458/2432458.xml">
 Express</link>
-&nbsp;·  <link xlink:type="simple" xlink:href="../250/2106250.xml">
-Constructive</link>&nbsp;·  <link xlink:type="simple" xlink:href="../262/1649262.xml">
+ ·  <link xlink:type="simple" xlink:href="../250/2106250.xml">
+Constructive</link> ·  <link xlink:type="simple" xlink:href="../262/1649262.xml">
 Resulting</link></col>
 </row>
 <row>
@@ -251,7 +251,7 @@ Resulting</link></col>
 <link xlink:type="simple" xlink:href="../510/4849510.xml">
 Bare</link></faculty>
 </volition>
-&nbsp;·  <link xlink:type="simple" xlink:href="../113/7422113.xml">
+ ·  <link xlink:type="simple" xlink:href="../113/7422113.xml">
 Discretionary</link> <link xlink:type="simple" xlink:href="../508/9405508.xml">
 Accumulation and Maintenance</link> <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
@@ -259,12 +259,12 @@ Accumulation and Maintenance</link> <volition wordnetid="105652593" confidence="
 Interest in possession</link></faculty>
 </volition>
  <link xlink:type="simple" xlink:href="../565/148565.xml">
-Charitable</link>&nbsp;·  <volition wordnetid="105652593" confidence="0.8">
+Charitable</link> ·  <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../271/2839271.xml">
 Purpose</link></faculty>
 </volition>
-&nbsp;·  <volition wordnetid="105652593" confidence="0.8">
+ ·  <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../000/12277000.xml">
 Incentive</link></faculty>
@@ -279,7 +279,7 @@ Incentive</link></faculty>
 <link xlink:type="simple" xlink:href="../429/2431429.xml">
 Protective</link></faculty>
 </volition>
-&nbsp;·  <link xlink:type="simple" xlink:href="../247/2256247.xml">
+ ·  <link xlink:type="simple" xlink:href="../247/2256247.xml">
 Spendthrift</link> <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -293,12 +293,12 @@ Life insurance</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  Remainder Life interest&nbsp;·  Reversionary interest <volition wordnetid="105652593" confidence="0.8">
+ ·  Remainder Life interest ·  Reversionary interest <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../513/2286513.xml">
 Honorary</link></faculty>
 </volition>
-&nbsp;·  <volition wordnetid="105652593" confidence="0.8">
+ ·  <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../738/2431738.xml">
 Asset-protection</link></faculty>
@@ -323,7 +323,7 @@ Supplemental Needs</link></faculty>
 <link xlink:type="simple" xlink:href="../867/2248867.xml">
 Pour-over will</link></faculty>
 </volition>
-&nbsp;·  <link>
+ ·  <link>
 Cy-près doctrine</link></col>
 </row>
 <row>
@@ -339,15 +339,15 @@ Estate administration</link></faculty>
 <col style="padding-top:0.1em; padding-right:0.4em; padding-bottom:0.4em; padding-left:0.4em; none;  ">
 <link xlink:type="simple" xlink:href="../508/181508.xml">
 Intestacy</link>
-&nbsp;·  <link xlink:type="simple" xlink:href="../983/1643983.xml">
-Testator</link>&nbsp;·  <link xlink:type="simple" xlink:href="../001/1043001.xml">
+ ·  <link xlink:type="simple" xlink:href="../983/1643983.xml">
+Testator</link> ·  <link xlink:type="simple" xlink:href="../001/1043001.xml">
 Probate</link> <link xlink:type="simple" xlink:href="../923/2301923.xml">
 Power of appointment</link> <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../676/2279676.xml">
 Simultaneous death</link></faculty>
 </volition>
-&nbsp;·  <volition wordnetid="105652593" confidence="0.8">
+ ·  <volition wordnetid="105652593" confidence="0.8">
 <faculty wordnetid="105650329" confidence="0.8">
 <link xlink:type="simple" xlink:href="../728/2279728.xml">
 Slayer rule</link></faculty>
@@ -379,10 +379,10 @@ common law</link>areas</col>
 <col style="padding-top:0.1em; padding-right:0.4em; padding-bottom:0.4em; padding-left:0.4em; none;  ">
 <link xlink:type="simple" xlink:href="../537/19280537.xml">
 Contract</link>
-&nbsp;·  <link xlink:type="simple" xlink:href="../813/29813.xml">
-Tort</link>&nbsp;·  <link xlink:type="simple" xlink:href="../647/24647.xml">
+ ·  <link xlink:type="simple" xlink:href="../813/29813.xml">
+Tort</link> ·  <link xlink:type="simple" xlink:href="../647/24647.xml">
 Property</link> <link xlink:type="simple" xlink:href="../054/7397054.xml">
-Criminal law</link>&nbsp;·  <link xlink:type="simple" xlink:href="../231/2001231.xml">
+Criminal law</link> ·  <link xlink:type="simple" xlink:href="../231/2001231.xml">
 Evidence</link></col>
 </row>
 <row>

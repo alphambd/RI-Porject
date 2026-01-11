@@ -29,9 +29,9 @@ In <link xlink:type="simple" xlink:href="../542/23542.xml">
 probability theory</link>, a <b>quantile function</b> of a 
 <link xlink:type="simple" xlink:href="../543/23543.xml">
 probability distribution</link> is the <link xlink:type="simple" xlink:href="../907/14907.xml">
-inverse</link> <it>F</it>&nbsp;&amp;minus;1 of its <link xlink:type="simple" xlink:href="../793/5793.xml">
+inverse</link> <it>F</it> &amp;minus;1 of its <link xlink:type="simple" xlink:href="../793/5793.xml">
 cumulative distribution function</link> (cdf) <it>F</it>.  Assuming a continuous and strictly monotonic distribution function, 
-<math>\scriptstyle F\colon R \to (0,1)</math>, the quantile function returns the value below which random draws from the given distribution would fall, <it>p</it>&amp;times;100&nbsp;percent of the time.  That is, it returns the value of <it>x</it> such that<p>
+<math>\scriptstyle F\colon R \to (0,1)</math>, the quantile function returns the value below which random draws from the given distribution would fall, <it>p</it>&amp;times;100 percent of the time.  That is, it returns the value of <it>x</it> such that<p>
 
 <indent level="1">
 
@@ -49,7 +49,7 @@ In either case, the quantile function is</p>
 <math>F^{-1}(p) = \inf\left\{ x\in R : p \le F(x) \right\} </math>
 </indent>
 
-for a probability 0&nbsp;&nbsp;<it>p</it>&nbsp;&nbsp;1, and the quantile function returns the minimum value of <it>x</it> for which the previous probability statement holds.</p>
+for a probability 0  <it>p</it>  1, and the quantile function returns the minimum value of <it>x</it> for which the previous probability statement holds.</p>
 
 <sec>
 <st>
@@ -65,7 +65,7 @@ For example, the quantile function for Exponential(&amp;lambda;) is</p>
 <math>F^{-1}(p;\lambda) = \frac{-\ln(1-p)}{\lambda}, \!</math>
 </indent>
 
-for 0&nbsp;&amp;le;&nbsp;<it>p</it>&nbsp;&nbsp;1.  The <link xlink:type="simple" xlink:href="../170/25170.xml">
+for 0 &amp;le; <it>p</it>  1.  The <link xlink:type="simple" xlink:href="../170/25170.xml">
 quartile</link>s are therefore:</p>
 <p>
 
@@ -220,7 +220,7 @@ Student's t-distribution</link></function>
 </mathematical_relation>
 </it>
 </indent>
-This has historically been one of the more intractable cases, as the presence of a parameter, &amp;nu;, the degrees of freedom, makes the use of rational and other approximations awkward. Simple formulas exist when the &amp;nu;&nbsp;=&nbsp;1,&nbsp;2,&nbsp;4 and the problem may be reduced to the solution of a polynomial when &amp;nu; is even. In other cases the quantile functions may be developed as power series (see Shaw (2006) for details). The simple cases are as follows:</p>
+This has historically been one of the more intractable cases, as the presence of a parameter, &amp;nu;, the degrees of freedom, makes the use of rational and other approximations awkward. Simple formulas exist when the &amp;nu; = 1, 2, 4 and the problem may be reduced to the solution of a polynomial when &amp;nu; is even. In other cases the quantile functions may be developed as power series (see Shaw (2006) for details). The simple cases are as follows:</p>
 
 <ss1>
 <st>
@@ -317,10 +317,10 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Gilchrist, W.&#32;(2000). Statistical Modelling with Quantile Functions.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Gilchrist, W.&#32;(2000). Statistical Modelling with Quantile Functions.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Jaeckel, P.&#32;(2002). Monte Carlo methods in finance.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Jaeckel, P.&#32;(2002). Monte Carlo methods in finance.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Wichura, M.J.&#32;(1988).&#32;"Algorithm AS241: The Percentage Points of the Normal Distribution". <it>Applied Statistics</it>&#32;<b>37</b>: 477–484. <document wordnetid="106470073" confidence="0.8">
@@ -331,10 +331,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2347330">
-10.2307/2347330</weblink>.</cite>&nbsp;</entry>
+10.2307/2347330</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Shaw, W.T.&#32;(2006).&#32;"Sampling Student’s T distribution – use of the inverse cumulative distribution function.". <it>Journal of Computational Finance</it>&#32;<b>9</b>&#32;(4): 37–73.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Shaw, W.T.&#32;(2006).&#32;"Sampling Student’s T distribution – use of the inverse cumulative distribution function.". <it>Journal of Computational Finance</it>&#32;<b>9</b>&#32;(4): 37–73.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Steinbrecher, G., Shaw, W.T.&#32;(2008).&#32;"Quantile mechanics". <it>European Journal of Applied Mathematics</it>&#32;<b>19</b>&#32;(2): 87–112. <document wordnetid="106470073" confidence="0.8">
@@ -345,7 +345,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1017%2FS0956792508007341">
-10.1017/S0956792508007341</weblink>.</cite>&nbsp;</entry>
+10.1017/S0956792508007341</weblink>.</cite> </entry>
 </list>
 
 </p>
@@ -417,9 +417,9 @@ probability distribution</link>s</header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../725/154725.xml">
-probability mass function</link> (pmf)&nbsp;·  <link xlink:type="simple" xlink:href="../487/43487.xml">
-probability density function</link> (pdf)&nbsp;·  <link xlink:type="simple" xlink:href="../793/5793.xml">
-cumulative distribution function</link> (cdf)&nbsp;·  <link xlink:type="simple" xlink:href="../616/10167616.xml">
+probability mass function</link> (pmf) ·  <link xlink:type="simple" xlink:href="../487/43487.xml">
+probability density function</link> (pdf) ·  <link xlink:type="simple" xlink:href="../793/5793.xml">
+cumulative distribution function</link> (cdf) ·  <link xlink:type="simple" xlink:href="../616/10167616.xml">
 quantile function</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="5">
 <image width="90px" src="Loglogisticpdf.svg">
@@ -432,12 +432,12 @@ quantile function</link></col>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../684/368684.xml">
-raw moment</link>&nbsp;·  <link xlink:type="simple" xlink:href="../983/19983.xml">
-central moment</link>&nbsp;·  <link xlink:type="simple" xlink:href="../653/9653.xml">
-mean</link>&nbsp;·  <link xlink:type="simple" xlink:href="../344/32344.xml">
-variance</link>&nbsp;·  <link xlink:type="simple" xlink:href="../590/27590.xml">
-standard deviation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../212/28212.xml">
-skewness</link>&nbsp;·  <link xlink:type="simple" xlink:href="../848/16848.xml">
+raw moment</link> ·  <link xlink:type="simple" xlink:href="../983/19983.xml">
+central moment</link> ·  <link xlink:type="simple" xlink:href="../653/9653.xml">
+mean</link> ·  <link xlink:type="simple" xlink:href="../344/32344.xml">
+variance</link> ·  <link xlink:type="simple" xlink:href="../590/27590.xml">
+standard deviation</link> ·  <link xlink:type="simple" xlink:href="../212/28212.xml">
+skewness</link> ·  <link xlink:type="simple" xlink:href="../848/16848.xml">
 kurtosis</link></col>
 </row>
 <row style="height:2px">
@@ -446,9 +446,9 @@ kurtosis</link></col>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../634/194634.xml">
-moment-generating function</link> (mgf)&nbsp;·  <link xlink:type="simple" xlink:href="../401/3229401.xml">
-characteristic function</link>&nbsp;·  <link xlink:type="simple" xlink:href="../841/236841.xml">
-probability-generating function</link> (pgf)&nbsp;·  <link xlink:type="simple" xlink:href="../684/359684.xml">
+moment-generating function</link> (mgf) ·  <link xlink:type="simple" xlink:href="../401/3229401.xml">
+characteristic function</link> ·  <link xlink:type="simple" xlink:href="../841/236841.xml">
+probability-generating function</link> (pgf) ·  <link xlink:type="simple" xlink:href="../684/359684.xml">
 cumulant</link></col>
 </row>
 </table>

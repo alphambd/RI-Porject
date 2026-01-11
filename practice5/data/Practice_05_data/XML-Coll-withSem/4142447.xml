@@ -124,7 +124,7 @@ Some of the track models used by the National Hurricane Center (NHC) are as foll
 
 <b>BAM</b> (<link>
 Beta</link> and <link xlink:type="simple" xlink:href="../377/166377.xml">
-Advection</link>) uses vertically-averaged winds and computes trajectories provided by the GFS model to provide track forecasts. There are three forms: BAMD (BAM Deep, 850-200&nbsp;hPa), BAMM (BAM Medium, 850-400&nbsp;hPa) and BAMS (BAM Shallow, 850-700&nbsp;hPa) that use different altitudes of wind. For a weak hurricane without a well-developed eye wall extending deep into the atmosphere (or for a tropical storm), the shallow-version model may work well, because weak storms tend to be steered by low-level winds.  As the storm grows stronger and the eye wall gets deeper, the deeper versions become more accurate, as these types of storms are steered more by the winds in the upper-level.  If the forecast from the three versions is similar, then the forecaster can conclude that the storm may go as predicted, but if the versions vary by a great deal, then the forecaster has less confidence in the track predicted.  Large differences between model predictions can also indicate wind shear in the atmosphere, which could affect the intensity forecast as well.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
+Advection</link>) uses vertically-averaged winds and computes trajectories provided by the GFS model to provide track forecasts. There are three forms: BAMD (BAM Deep, 850-200 hPa), BAMM (BAM Medium, 850-400 hPa) and BAMS (BAM Shallow, 850-700 hPa) that use different altitudes of wind. For a weak hurricane without a well-developed eye wall extending deep into the atmosphere (or for a tropical storm), the shallow-version model may work well, because weak storms tend to be steered by low-level winds.  As the storm grows stronger and the eye wall gets deeper, the deeper versions become more accurate, as these types of storms are steered more by the winds in the upper-level.  If the forecast from the three versions is similar, then the forecaster can conclude that the storm may go as predicted, but if the versions vary by a great deal, then the forecaster has less confidence in the track predicted.  Large differences between model predictions can also indicate wind shear in the atmosphere, which could affect the intensity forecast as well.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></entry>
 <entry level="1" type="bullet">
 
 <b>VICBAR</b> (<link>
@@ -203,7 +203,7 @@ United States Navy</link></activity>
 <link xlink:type="simple" xlink:href="../989/286989.xml">
 National Weather Service</link></agency>
  <link xlink:type="simple" xlink:href="../634/3093634.xml">
-Global Forecast System</link>) is the main meteorological model for the United States.  The model is run four times a day (six hours apart).  It is a merger and expansion of the <b>AVN</b> and <b>MRF</b> models and is extended out to 384&nbsp;hours.</entry>
+Global Forecast System</link>) is the main meteorological model for the United States.  The model is run four times a day (six hours apart).  It is a merger and expansion of the <b>AVN</b> and <b>MRF</b> models and is extended out to 384 hours.</entry>
 <entry level="1" type="bullet">
 
 <b>HWRF</b> <link xlink:type="simple" xlink:href="../508/12113508.xml">
@@ -297,7 +297,7 @@ National Hurricane Center</link></windstorm>
 </atmospheric_phenomenon>
 </region>
 </physical_entity>
- are around 100, 200, and 300&nbsp;nautical miles (560&nbsp;km) in 1, 2, and 3&nbsp;days, respectively - the source of the <link>
+ are around 100, 200, and 300 nautical miles (560 km) in 1, 2, and 3 days, respectively - the source of the <link>
 1-2-3 rule</link> - although the errors have been decreasing.</p>
 
 </ss1>
@@ -486,7 +486,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1175%2F1520-0493%281992%291201628%3AANSMFH%3E2.0.CO%3B2">
-10.1175/1520-0493(1992)1201628:ANSMFH&amp;gt;2.0.CO;2</weblink>.</cite>&nbsp;</entry>
+10.1175/1520-0493(1992)1201628:ANSMFH&amp;gt;2.0.CO;2</weblink>.</cite> </entry>
 <entry id="6">
 <weblink xlink:type="simple" xlink:href="http://www.noaanews.noaa.gov/stories2007/s2885.htm">
 NOAA News Online (Story 2885)</weblink></entry>

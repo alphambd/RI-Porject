@@ -632,7 +632,7 @@ Afif</link></urban_area>
 </village>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -649,10 +649,10 @@ Arar</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../017/2451017.xml">
 Abha</link></city>
-</b>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+</b> ·  <region wordnetid="108630985" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -677,8 +677,8 @@ Abqaiq</link></urban_area>
 </administrative_district>
 </social_group>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../698/468698.xml">
-Al-Bahah</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../698/468698.xml">
+Al-Bahah</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -695,14 +695,14 @@ Bisha</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <b><link xlink:type="simple" xlink:href="../389/1134389.xml">
-Buraydah</link></b>&nbsp;·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <b><link xlink:type="simple" xlink:href="../389/1134389.xml">
+Buraydah</link></b> ·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../214/479214.xml">
 Dammam</link></city>
-</b>&nbsp;·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
+</b> ·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/6838977.xml">
 Dhahran</link></city>
-</b>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+</b> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -723,7 +723,7 @@ Diriyah</link></urban_area>
 </village>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -740,13 +740,13 @@ Duba</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../792/2466792.xml">
 Ha'il</link></city>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../366/13632366.xml">
 Hafar Al-Batin</link></city>
-&nbsp;·  <b><region wordnetid="108630985" confidence="0.8">
+ ·  <b><region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -763,11 +763,11 @@ Hofuf</link></urban_area>
 </location>
 </administrative_district>
 </region>
-</b>&nbsp;·  <link xlink:type="simple" xlink:href="../002/3932002.xml">
-Al Jawf</link>&nbsp;·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
+</b> ·  <link xlink:type="simple" xlink:href="../002/3932002.xml">
+Al Jawf</link> ·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../718/277718.xml">
 Jeddah</link></city>
-</b>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+</b> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -786,7 +786,7 @@ Jizan</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -803,10 +803,10 @@ Jubail</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/60978.xml">
 Khamis Mushait</link></village>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -823,10 +823,10 @@ Al-Kharj</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/690043.xml">
 Khobar</link></city>
-</b>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+</b> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -847,9 +847,9 @@ Al Majma'ah</link></urban_area>
 </village>
 </administrative_district>
 </region>
-&nbsp;·  <b><link xlink:type="simple" xlink:href="../021/21021.xml">
-Mecca</link></b> (Makkah)&nbsp;·  <b><link xlink:type="simple" xlink:href="../636/36636.xml">
-Medina</link></b>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <b><link xlink:type="simple" xlink:href="../021/21021.xml">
+Mecca</link></b> (Makkah) ·  <b><link xlink:type="simple" xlink:href="../636/36636.xml">
+Medina</link></b> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -868,10 +868,10 @@ Najran</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../754/1581754.xml">
 Qatif</link></city>
-</b>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+</b> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -890,7 +890,7 @@ Ras Tanura</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -907,17 +907,17 @@ Khafji</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <b><city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../554/51554.xml">
 Riyadh</link></city>
-</b> (capital)&nbsp;·  <link>
-Ta’if</link>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+</b> (capital) ·  <link>
+Ta’if</link> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../737/900737.xml">
 Tabuk</link></village>
-&nbsp;·  <city wordnetid="108524735" confidence="0.9508927676800064">
+ ·  <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../378/1829378.xml">
 Unaizah</link></city>
-&nbsp;·  <link xlink:type="simple" xlink:href="../638/629638.xml">
+ ·  <link xlink:type="simple" xlink:href="../638/629638.xml">
 Yanbu' al Bahr</link></col>
 </row>
 </table>

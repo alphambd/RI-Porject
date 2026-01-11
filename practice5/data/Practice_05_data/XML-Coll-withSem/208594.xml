@@ -242,10 +242,10 @@ Desktop software</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../734/363734.xml">
 Creative Suite</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../997/13429997.xml">
 Technical Communication Suite</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <reader wordnetid="110508710" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -258,22 +258,22 @@ Acrobat</link></scholar>
 </reader>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../805/442805.xml">
 Audition</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../243/10790243.xml">
 Digital Editions</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../641/11871641.xml">
 Director</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../430/204430.xml">
 GoLive</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../435/204435.xml">
 PageMaker</link></software>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <editor wordnetid="110044879" confidence="0.8">
@@ -292,7 +292,7 @@ Photoshop Lightroom</link></thinker>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <it><link xlink:type="simple" xlink:href="../440/3268440.xml">
+ ·  <it><link xlink:type="simple" xlink:href="../440/3268440.xml">
 more</link>''</it></col>
 </row>
 <row style="height:2px">
@@ -305,16 +305,16 @@ Server software</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../636/374636.xml">
 ColdFusion</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../332/7446332.xml">
 LiveCycle</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../124/5205124.xml">
 Flash Media Server</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../481/4258481.xml">
 JRun</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../860/2247860.xml">
 Premiere Express</link></software>
 </col>
@@ -327,7 +327,7 @@ Premiere Express</link></software>
 Technology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../080/24080.xml">
-PostScript</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+PostScript</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <language wordnetid="106282651" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
@@ -336,28 +336,28 @@ PDF</link></format>
 </language>
 </information>
 </message>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../873/1712873.xml">
 FlashPaper</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../954/286954.xml">
 Authorware</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../947/20947.xml">
 Flash</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../817/14271817.xml">
 Font Folio</link></software>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../571/1022571.xml">
 DNG</link></format>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../941/1197941.xml">
 Flex</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../928/7741928.xml">
 AIR</link></software>
- &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../293/14688293.xml">
 BlazeDS</link></software>
 </col>
@@ -376,7 +376,7 @@ Services</col>
 ASN</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link>
+ ·  <link>
 ADC</link></col>
 </row>
 <row style="height:2px">
@@ -406,11 +406,11 @@ Charles Geschke</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../594/208594.xml">
 John Warnock</link></scientist>
-&nbsp;·  <link xlink:type="simple" xlink:href="../298/4913298.xml">
-Bruce Chizen</link>&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../298/4913298.xml">
+Bruce Chizen</link> ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../634/8595634.xml">
 Shantanu Narayen</link></person>
 </col>

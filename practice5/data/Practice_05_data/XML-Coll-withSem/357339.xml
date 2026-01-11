@@ -31,8 +31,8 @@ halting problem</link>, a total correctness assertion may lie much deeper.</p>
 <p>
 
 For example, if we are successively searching through <link xlink:type="simple" xlink:href="../563/14563.xml">
-integer</link>s 1, 2, 3, … to see if we can find an example of some phenomenon &mdash; say an odd <link xlink:type="simple" xlink:href="../670/23670.xml">
-perfect number</link> &mdash; it is quite easy to write a partially correct program (use <link xlink:type="simple" xlink:href="../491/15491.xml">
+integer</link>s 1, 2, 3, … to see if we can find an example of some phenomenon — say an odd <link xlink:type="simple" xlink:href="../670/23670.xml">
+perfect number</link> — it is quite easy to write a partially correct program (use <link xlink:type="simple" xlink:href="../491/15491.xml">
 integer factorization</link> to check <it>n</it> as perfect or not). But to say this program is totally correct would be to assert something currently not known in <link xlink:type="simple" xlink:href="../527/21527.xml">
 number theory</link>.</p>
 <p>

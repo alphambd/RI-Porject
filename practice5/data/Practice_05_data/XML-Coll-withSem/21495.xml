@@ -479,8 +479,8 @@ Perl</link></programming_language>
 
 Following its <link xlink:type="simple" xlink:href="../367/197367.xml">
 mantra</link> of <link xlink:type="simple" xlink:href="../804/214804.xml">
-portability</link>, pkgsrc has been made portable not only across the hardware platforms that run NetBSD, but also &mdash; with the help of an <link xlink:type="simple" xlink:href="../527/171527.xml">
-autoconf</link>-based bootstrap system &mdash; on several other <family wordnetid="108078020" confidence="0.8">
+portability</link>, pkgsrc has been made portable not only across the hardware platforms that run NetBSD, but also — with the help of an <link xlink:type="simple" xlink:href="../527/171527.xml">
+autoconf</link>-based bootstrap system — on several other <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../815/31815.xml">
 Unix-like</link></family>
  operating systems, such as <O wordnetid="106832680" confidence="0.9508927676800064">
@@ -784,20 +784,20 @@ Recent Security Enhancements in NetBSD</weblink></entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://netbsd.gw.com/cgi-bin/man-cgi?bus_space+9+NetBSD-current">
-bus_space(9)</weblink>&#58;&nbsp;architecture independent bus&nbsp;–&nbsp;<link xlink:type="simple" xlink:href="../495/21495.xml">
+bus_space(9)</weblink>&#58; architecture independent bus – <link xlink:type="simple" xlink:href="../495/21495.xml">
 NetBSD</link> Kernel Developer's <link xlink:type="simple" xlink:href="../332/85332.xml">
 Manual</link></entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://netbsd.gw.com/cgi-bin/man-cgi?bus_dma+9+NetBSD-current">
-bus_dma(9)</weblink>&#58;&nbsp;architecture independent <link xlink:type="simple" xlink:href="../717/57717.xml">
-DMA</link>&nbsp;–&nbsp;<link xlink:type="simple" xlink:href="../495/21495.xml">
+bus_dma(9)</weblink>&#58; architecture independent <link xlink:type="simple" xlink:href="../717/57717.xml">
+DMA</link> – <link xlink:type="simple" xlink:href="../495/21495.xml">
 NetBSD</link> Kernel Developer's <link xlink:type="simple" xlink:href="../332/85332.xml">
 Manual</link></entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://netbsd.gw.com/cgi-bin/man-cgi?uvm+9+NetBSD-current">
-uvm(9)</weblink>&#58;&nbsp;architecture independent virtual memory management&nbsp;–&nbsp;<link xlink:type="simple" xlink:href="../495/21495.xml">
+uvm(9)</weblink>&#58; architecture independent virtual memory management – <link xlink:type="simple" xlink:href="../495/21495.xml">
 NetBSD</link> Kernel Developer's <link xlink:type="simple" xlink:href="../332/85332.xml">
 Manual</link></entry>
 <entry level="1" type="bullet">
@@ -907,13 +907,13 @@ operating system</link>s</header>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/22nd_century.xml">
 AIX</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/18932622.xml">
 BSD</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../229/294229.xml">
 DragonFly BSD</link></O>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -922,32 +922,32 @@ FreeBSD</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <link xlink:type="simple" xlink:href="../875/11875.xml">
-GNU</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../875/11875.xml">
+GNU</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../704/36704.xml">
 HP-UX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../537/14537.xml">
-IRIX</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../537/14537.xml">
+IRIX</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../980/867980.xml">
 LynxOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/18977.xml">
 MINIX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../495/21495.xml">
-NetBSD</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../495/21495.xml">
+NetBSD</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../571/18949571.xml">
 OpenBSD</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../226/24226.xml">
 Plan 9</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../184/65184.xml">
 QNX</link></O>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -956,10 +956,10 @@ Research Unix</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../906/1579906.xml">
 SCO OpenServer</link></O>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -972,14 +972,14 @@ Solaris</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link>
-System V</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link>
+System V</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../275/38275.xml">
 Tru64</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../105/157105.xml">
 VxWorks</link></O>
-&nbsp;·  <it>
+ ·  <it>
 Unix variants|more''</it></col>
 </row>
 </table>

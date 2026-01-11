@@ -61,7 +61,7 @@ Videoland Television Network</network_name>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../734/25734.xml">
 Taiwan</link></country>
 </available>
@@ -72,7 +72,7 @@ Taiwan</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../734/25734.xml">
 Taiwan</link></country>
 </country>
@@ -728,7 +728,7 @@ North America</link></group>
 border 
 </caption>
 </image>
-&nbsp;<region wordnetid="108630039" confidence="0.9508927676800064">
+ <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
 </col>
@@ -856,7 +856,7 @@ Shaw Phoenix North America Channel</link>(Vancouver)</col>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -967,7 +967,7 @@ Channel V Taiwan</link></channel>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/5405.xml">
 China</link></country>
 </col>
@@ -992,7 +992,7 @@ Mainland</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../894/77894.xml">
 CCTV</link></company>
- (National)&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ (National) ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../445/1486445.xml">
@@ -1002,74 +1002,74 @@ BTV</link></network>
  (<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../746/18603746.xml">
 Beijing</link></village>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../665/18317665.xml">
-CETV</link>&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+) ·  <link xlink:type="simple" xlink:href="../665/18317665.xml">
+CETV</link> ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/6711560.xml">
 CQTV</link></network>
  (<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../752/171752.xml">
 Chongqing</link></village>
-)&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+) ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../800/6758800.xml">
 FJTV</link></network>
  (<state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../585/88585.xml">
 Fujian</link></state>
-)&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+) ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../917/6708917.xml">
 GDTV</link></network>
  (<state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../109/65109.xml">
 Guangdong</link></state>
-)&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+) ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../151/6743151.xml">
 HEBTV</link></network>
  (<state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../664/72664.xml">
 Hebei</link></state>
-)&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+) ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../009/7390009.xml">
 HLJTV</link></network>
  (<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../373/143373.xml">
 Harbin</link></village>
-)&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+) ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../997/12534997.xml">
 HTV</link></company>
  (<state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/166409.xml">
 Hunan</link></state>
-)&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+) ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../653/6703653.xml">
 NBN</link></network>
  (<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../791/21791.xml">
 Nanjing</link></village>
-)&nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+) ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../624/6708624.xml">
 SMG</link></radio_station>
  (<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../643/27643.xml">
 Shanghai</link></village>
-)&nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+) ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../877/6075877.xml">
 SZMG</link></radio_station>
  (<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../368/83368.xml">
 Shenzhen</link></village>
-)&nbsp;·  <link>
+) ·  <link>
 SCTV</link> (<state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/65185.xml">
 Sichuan</link></state>
-)&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+) ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../800/6711800.xml">
 TJTV</link></network>
  (<village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../821/50821.xml">
 Tianjin</link></village>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../860/6707860.xml">
+) ·  <link xlink:type="simple" xlink:href="../860/6707860.xml">
 XJTV</link> (<link>
-Ürümqi</link>)&nbsp;·  <network wordnetid="108434259" confidence="0.9508927676800064">
+Ürümqi</link>) ·  <network wordnetid="108434259" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../499/6758499.xml">
 XMTV</link></network>
  (<village wordnetid="108672738" confidence="0.9508927676800064">
@@ -1088,7 +1088,7 @@ Xiamen</link></village>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../404/13404.xml">
 Hong Kong</link></country>
 </col>
@@ -1096,18 +1096,18 @@ Hong Kong</link></country>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../460/346460.xml">
 ATV</link></company>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../664/2859664.xml">
 Cable TV</link></channel>
-• &nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+•  ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../397/1000397.xml">
 Channel V</link></channel>
  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../103/2863103.xml">
 HKBN</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../006/2857006.xml">
-now TV</link>&nbsp;·  <link xlink:type="simple" xlink:href="../003/13275003.xml">
-Phoenix Television</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../006/2857006.xml">
+now TV</link> ·  <link xlink:type="simple" xlink:href="../003/13275003.xml">
+Phoenix Television</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <radio_station wordnetid="104044119" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -1122,10 +1122,10 @@ RTHK</link></broadcasting_station>
 </instrumentality>
 </radio_station>
 </artifact>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../968/343968.xml">
 TVB</link></company>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../965/5670965.xml">
 Xing Kong</link></channel>
 </col>
@@ -1141,7 +1141,7 @@ Xing Kong</link></channel>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../068/19068.xml">
 Macau</link></country>
 </col>
@@ -1162,10 +1162,10 @@ CCTV</link></company>
 : <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../209/6711209.xml">
 CCTV-4</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/9787434.xml#xpointer(//*[./st=%22MTV+Mandarin%22])">
 MTV Mandarin</link></channel>
-&nbsp;·  <link xlink:type="simple" xlink:href="../968/343968.xml">
+ ·  <link xlink:type="simple" xlink:href="../968/343968.xml">
 TVBS-Europe</link></col>
 </row>
 </table>
@@ -1215,7 +1215,7 @@ Southeast Asia</link></location>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../579/14579.xml">
 Indonesia</link></country>
 </col>
@@ -1223,7 +1223,7 @@ Indonesia</link></country>
 <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../711/2778711.xml">
 Metro TV</link></channel>
-&nbsp;·  <link>
+ ·  <link>
 Da Ai TV Indonesia</link></col>
 </row>
 <row style="height:2px">
@@ -1237,7 +1237,7 @@ Da Ai TV Indonesia</link></col>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../937/3607937.xml">
 Malaysia</link></country>
 </col>
@@ -1261,7 +1261,7 @@ RTM2</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1274,8 +1274,8 @@ TV3</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../749/1709749.xml">
-ntv7</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../749/1709749.xml">
+ntv7</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1288,7 +1288,7 @@ ntv7</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1324,8 +1324,8 @@ Astro AEC</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <link>
-Hua Hee Dai</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link>
+Hua Hee Dai</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1336,7 +1336,7 @@ Shuang Xing</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1347,9 +1347,9 @@ Wah Lai Toi</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <link>
-Xiao Tai Yang</link>&nbsp;·  <link>
-Astro On Demand</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <link>
+Xiao Tai Yang</link> ·  <link>
+Astro On Demand</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../057/10948057.xml">
 Jia Yu Channel</link></channel>
 </col>
@@ -1368,7 +1368,7 @@ Jia Yu Channel</link></channel>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../318/27318.xml">
 Singapore</link></country>
 </col>
@@ -1386,14 +1386,14 @@ Channel 8</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../749/1572749.xml">
 Channel U</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../453/1793453.xml">
 Channel NewsAsia</link></channel>
-&nbsp;·  <link xlink:type="simple" xlink:href="../600/5495600.xml">
-TVMobile</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../600/5495600.xml">
+TVMobile</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1425,7 +1425,7 @@ Asian Food Channel</link></broadcasting_station>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../734/25734.xml">
 Taiwan</link></country>
 </col>
@@ -1443,10 +1443,10 @@ Television in Taiwan</header>
 <link xlink:type="simple" xlink:href="../556/776556.xml">
 Free-to-air</link>(All national)</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../558/9663558.xml">
 Family</link></channel>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1459,8 +1459,8 @@ Finance</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <link>
-Health</link>  &nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link>
+Health</link>   ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1473,20 +1473,20 @@ News</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../647/10465647.xml">
 MyLife</link></channel>
-  &nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+   ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../958/10465958.xml">
 News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../768/10465768.xml">
 FMTV</link></channel>
-    &nbsp;·  <link xlink:type="simple" xlink:href="../729/10466729.xml">
-Education and Culture</link> &nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+     ·  <link xlink:type="simple" xlink:href="../729/10466729.xml">
+Education and Culture</link>  ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../131/10466131.xml">
 Recreation</link></channel>
-  &nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+   ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../450/10467450.xml">
 Dimo TV</link></channel>
 </col>
@@ -1530,7 +1530,7 @@ Hakka</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1578,7 +1578,7 @@ SET Taiwan</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1591,7 +1591,7 @@ SET Metro</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../954/11197954.xml">
 SET News</link></channel>
 </col>
@@ -1613,10 +1613,10 @@ TVBS</link></network>
 <link xlink:type="simple" xlink:href="../120/1202120.xml">
 TVBS</link></network>
 </channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../881/1669881.xml">
 TVBS-G</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/11198297.xml">
 TVBS-NEWS</link></channel>
 </col>
@@ -1644,7 +1644,7 @@ ERA</link></broadcasting_station>
 <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../452/13741452.xml">
 Era News</link></channel>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1657,7 +1657,7 @@ Much TV</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../625/13741625.xml">
 Azio TV</link></channel>
 </col>
@@ -1685,10 +1685,10 @@ CTi</link></broadcasting_station>
 <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../674/13741674.xml">
 News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../697/13741697.xml">
 Variety</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../715/13741715.xml">
 Entertainment</link></channel>
 </col>
@@ -1704,7 +1704,7 @@ USTV</link></col>
 <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../603/14072603.xml">
 UBN</link></channel>
-&nbsp;·  <link>
+ ·  <link>
 USTV</link></col>
 </row>
 <row style="height:2px">
@@ -1720,16 +1720,16 @@ STAR</link></network>
 <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../860/5402860.xml">
 Chinese</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../486/5403486.xml">
 Chinese Movies</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/3771977.xml">
 Sports</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../397/1000397.xml">
 Channel V Taiwan</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../795/77795.xml">
 ESPN</link></channel>
 </col>
@@ -1755,9 +1755,9 @@ GTV</link></broadcasting_station>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link>
-One</link>&nbsp;·  <link>
-Entertainment</link>&nbsp;·  <link>
-Drama</link>&nbsp;·  <link>
+One</link> ·  <link>
+Entertainment</link> ·  <link>
+Drama</link> ·  <link>
 K Channel</link></col>
 </row>
 <row style="height:2px">
@@ -1783,20 +1783,20 @@ ETTV</link></broadcasting_station>
 <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../645/14072645.xml">
 News</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../715/14072715.xml">
 ETtoday</link></channel>
-&nbsp;·  <link>
-Variety</link>&nbsp;·  <link>
-Drama</link>&nbsp;·  <link>
-Movie</link>&nbsp;·  <link>
-Entertainment</link>&nbsp;·  <link xlink:type="simple" xlink:href="../597/9636597.xml">
-Yoyo</link>&nbsp;·  <link xlink:type="simple" xlink:href="../597/9636597.xml">
+ ·  <link>
+Variety</link> ·  <link>
+Drama</link> ·  <link>
+Movie</link> ·  <link>
+Entertainment</link> ·  <link xlink:type="simple" xlink:href="../597/9636597.xml">
+Yoyo</link> ·  <link xlink:type="simple" xlink:href="../597/9636597.xml">
 Shopping</link>: <link>
-1</link>&nbsp;·  <link>
-2</link>&nbsp;·  <link>
-3</link>&nbsp;·  <link>
-4</link>&nbsp;·  <link>
+1</link> ·  <link>
+2</link> ·  <link>
+3</link> ·  <link>
+4</link> ·  <link>
 5</link></col>
 </row>
 <row style="height:2px">
@@ -1820,11 +1820,11 @@ VL</link></broadcasting_station>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link>
-Sports</link>&nbsp;·  <link>
-Movie</link>&nbsp;·  <link>
-General Entertainment (ONTV)</link>&nbsp;·  <link>
-Drama</link>&nbsp;·  <link>
-Max-TV</link>&nbsp;·  <link>
+Sports</link> ·  <link>
+Movie</link> ·  <link>
+General Entertainment (ONTV)</link> ·  <link>
+Drama</link> ·  <link>
+Max-TV</link> ·  <link>
 Kids TV</link></col>
 </row>
 <row style="height:2px">
@@ -1835,17 +1835,17 @@ Kids TV</link></col>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link>
-DaAi</link>&nbsp;·  <link>
-Good TV</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+DaAi</link> ·  <link>
+Good TV</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../239/7410239.xml">
 Disney</link></channel>
-&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../581/17189581.xml">
 Cartoon Network</link></channel>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../395/2717395.xml">
 Animax</link></company>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1859,8 +1859,8 @@ JET TV</link></broadcasting_station>
 </facility>
 </artifact>
  (<link xlink:type="simple" xlink:href="../573/15573.xml">
-Japan</link>)&nbsp;·  <link>
-GoldSunTV</link>&nbsp;·  <link>
+Japan</link>) ·  <link>
+GoldSunTV</link> ·  <link>
 MTV Taiwan</link></col>
 </row>
 </table>
@@ -1874,7 +1874,7 @@ MTV Taiwan</link></col>
 International</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link>
-Taiwan Macroview TV</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Taiwan Macroview TV</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1887,7 +1887,7 @@ TTV World</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1900,18 +1900,18 @@ TVBS-Asia</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../984/9531984.xml">
 ETTV America</link></network>
 </group>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../597/9636597.xml">
-ETTV Asia</link>&nbsp;·  <channel wordnetid="106259898" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../597/9636597.xml">
+ETTV Asia</link> ·  <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../734/13741734.xml">
 CTi International</link></channel>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <station wordnetid="104306080" confidence="0.8">
 <television_station wordnetid="104406350" confidence="0.8">
@@ -1924,7 +1924,7 @@ SET International</link></broadcasting_station>
 </station>
 </facility>
 </artifact>
-&nbsp;·  <link>
+ ·  <link>
 USTV International</link></col>
 </row>
 </table>

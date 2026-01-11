@@ -98,7 +98,7 @@ public company</link> (<company wordnetid="108058098" confidence="0.8">
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=SCUR&amp;selected=SCUR">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=SCUR&amp;selected=SCUR">
 SCUR</weblink>) that develops and sells <link xlink:type="simple" xlink:href="../398/7398.xml">
 computer security</link> appliances and hosted services that protect users and data.  The company has developed filtering systems used by governments such as <link xlink:type="simple" xlink:href="../280/12831280.xml">
 Iran</link> and <link xlink:type="simple" xlink:href="../274/27274.xml">
@@ -164,7 +164,7 @@ computer game</link> for the <computer wordnetid="103082979" confidence="0.95089
 <link xlink:type="simple" xlink:href="../747/30747.xml">
 TRS-80</link></computer>
  <link xlink:type="simple" xlink:href="../950/13950.xml">
-home computer</link> in 1979, called <it>80 Space Raiders</it>, that used a simple challenge response mechanism for copy protection. People who used the mechanism encouraged him to repackage it for remote authentication. Bosen started Enigma Logic to do so, and filed for patents in 1982&ndash;3; a patent was issued in the United Kingdom in 1986. Ultimately, the <it>challenge</it> portion of the challenge response was eliminated to produce a one-time password token similar to the <know-how wordnetid="105616786" confidence="0.8">
+home computer</link> in 1979, called <it>80 Space Raiders</it>, that used a simple challenge response mechanism for copy protection. People who used the mechanism encouraged him to repackage it for remote authentication. Bosen started Enigma Logic to do so, and filed for patents in 1982–3; a patent was issued in the United Kingdom in 1986. Ultimately, the <it>challenge</it> portion of the challenge response was eliminated to produce a one-time password token similar to the <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../363/293363.xml">
 SecurID</link></method>
@@ -351,7 +351,7 @@ The company's flagship firewall product is called Secure Firewall (formerly know
 <list>
 <entry level="1" type="bullet">
 
- Secure Firewall (Sidewinder) &ndash; based on SecureOS, the company's derivative of <platform wordnetid="103961939" confidence="0.8">
+ Secure Firewall (Sidewinder) – based on SecureOS, the company's derivative of <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -375,35 +375,35 @@ BSD/OS</link></O>
  CyberGuard </entry>
 <entry level="2" type="bullet">
 
- Secure SnapGear &ndash; embedded system based on <link xlink:type="simple" xlink:href="../556/514556.xml">
+ Secure SnapGear – embedded system based on <link xlink:type="simple" xlink:href="../556/514556.xml">
 &amp;mu;Clinux</link></entry>
 <entry level="2" type="bullet">
 
- Classic &ndash; built on <O wordnetid="106832680" confidence="0.9508927676800064">
+ Classic – built on <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../953/566953.xml">
 UnixWare</link></O>
 </entry>
 <entry level="2" type="bullet">
 
- TSP (Total Stream Protection) &ndash; built on <O wordnetid="106832680" confidence="0.9508927676800064">
+ TSP (Total Stream Protection) – built on <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
 </entry>
 <entry level="1" type="bullet">
 
- Borderware &ndash; sold off, as noted previously</entry>
+ Borderware – sold off, as noted previously</entry>
 <entry level="1" type="bullet">
 
- SecureZone &ndash; discontinued</entry>
+ SecureZone – discontinued</entry>
 <entry level="1" type="bullet">
 
  Firewall for <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../438/33438.xml">
 NT</link></family>
- &ndash; discontinued</entry>
+ – discontinued</entry>
 <entry level="1" type="bullet">
 
- Gauntlet &ndash; built on <message wordnetid="106598915" confidence="0.8">
+ Gauntlet – built on <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">

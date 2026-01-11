@@ -49,13 +49,13 @@ Activities and steps</header>
 <col colspan="2" style="text-align:center; line-height:1.4em;" class="">
 <link xlink:type="simple" xlink:href="../449/522449.xml">
 Requirements</link>
-&nbsp;·  <link xlink:type="simple" xlink:href="../231/9053231.xml">
+ ·  <link xlink:type="simple" xlink:href="../231/9053231.xml">
 Specification</link> <link xlink:type="simple" xlink:href="../364/48364.xml">
-Architecture</link>&nbsp;·  <link xlink:type="simple" xlink:href="../325/223325.xml">
+Architecture</link> ·  <link xlink:type="simple" xlink:href="../325/223325.xml">
 Design</link> <link xlink:type="simple" xlink:href="../311/5311.xml">
-Implementation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../090/29090.xml">
+Implementation</link> ·  <link xlink:type="simple" xlink:href="../090/29090.xml">
 Testing</link> <link xlink:type="simple" xlink:href="../759/1688759.xml">
-Deployment</link>&nbsp;·  <link xlink:type="simple" xlink:href="../960/780960.xml">
+Deployment</link> ·  <link xlink:type="simple" xlink:href="../960/780960.xml">
 Maintenance</link></col>
 </row>
 <row>
@@ -70,18 +70,18 @@ Models</header>
 Agile</link></doctrine>
 </belief>
 
-&nbsp;·  <link xlink:type="simple" xlink:href="../116/3348116.xml">
-Cleanroom</link>&nbsp;·  <link xlink:type="simple" xlink:href="../878/163878.xml">
-Iterative</link>&nbsp;·  <link xlink:type="simple" xlink:href="../993/239993.xml">
+ ·  <link xlink:type="simple" xlink:href="../116/3348116.xml">
+Cleanroom</link> ·  <link xlink:type="simple" xlink:href="../878/163878.xml">
+Iterative</link> ·  <link xlink:type="simple" xlink:href="../993/239993.xml">
 RAD</link> <link xlink:type="simple" xlink:href="../624/233624.xml">
-RUP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../504/149504.xml">
-Spiral</link>&nbsp;·  <link xlink:type="simple" xlink:href="../980/33980.xml">
-Waterfall</link>&nbsp;·  <belief wordnetid="105941423" confidence="0.8">
+RUP</link> ·  <link xlink:type="simple" xlink:href="../504/149504.xml">
+Spiral</link> ·  <link xlink:type="simple" xlink:href="../980/33980.xml">
+Waterfall</link> ·  <belief wordnetid="105941423" confidence="0.8">
 <doctrine wordnetid="105943300" confidence="0.8">
 <link xlink:type="simple" xlink:href="../352/10352.xml">
 XP</link></doctrine>
 </belief>
-&nbsp;·  <belief wordnetid="105941423" confidence="0.8">
+ ·  <belief wordnetid="105941423" confidence="0.8">
 <doctrine wordnetid="105943300" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/4743665.xml">
 Scrum</link></doctrine>
@@ -592,7 +592,7 @@ Kenneth E. Iverson</link></scientist>
 , the originator of the <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../451/1451.xml">
 APL programming language</link></programming_language>
-, believed that the Sapir&ndash;Whorf hypothesis applied to computer languages (without actually mentioning the hypothesis by name).  His <link xlink:type="simple" xlink:href="../093/31093.xml">
+, believed that the Sapir–Whorf hypothesis applied to computer languages (without actually mentioning the hypothesis by name).  His <link xlink:type="simple" xlink:href="../093/31093.xml">
 Turing award</link> lecture, "Notation as a tool of thought", was devoted to this theme, arguing that more powerful notations aided thinking about computer algorithms. Iverson K.E.,"<weblink xlink:type="simple" xlink:href="http://elliscave.com/APL_J/tool.pdf">
 Notation as a tool of thought</weblink>", <it>Communications of the ACM</it>, 23: 444-465 (August 1980).</entry>
 <entry id="3">
@@ -602,7 +602,7 @@ A 13th Century Programmable Robot</weblink>, <university wordnetid="108286163" c
 University of Sheffield</link></university>
 </entry>
 <entry id="4">
- <cite id="CITEREFFowler1970" style="font-style:normal">Fowler, Charles B.&#32;(October 1967),&#32;"The Museum of Music: A History of Mechanical Instruments",&#32;<it>Music Educators Journal</it>&#32;<b>54</b>(2):  45-49</cite>&nbsp;</entry>
+ <cite id="CITEREFFowler1970" style="font-style:normal">Fowler, Charles B.&#32;(October 1967),&#32;"The Museum of Music: A History of Mechanical Instruments",&#32;<it>Music Educators Journal</it>&#32;<b>54</b>(2):  45-49</cite> </entry>
 <entry id="5">
 <weblink xlink:type="simple" xlink:href="http://www.computerweekly.com/Articles/2007/09/11/226631/sslcomputer-weekly-it-salary-survey-finance-boom-drives-it-job.htm">
 Survey of Job advertisements mentioning a given language</weblink>&amp;gt;</entry>

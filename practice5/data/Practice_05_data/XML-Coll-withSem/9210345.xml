@@ -92,7 +92,7 @@ improve the article</weblink></b> or discuss these issues on the .
 <b>Gaussian adaptation (GA)</b> is an <link xlink:type="simple" xlink:href="../837/190837.xml">
 evolutionary algorithm</link> designed for the maximization of manufacturing yield due to statistical deviation of component values of <link xlink:type="simple" xlink:href="../324/29324.xml">
 signal processing</link> systems. In short, GA is a stochastic adaptive process where a number of samples of an <it>n</it>-dimensional vector <it>x</it>[''x''T = (''x''1, ''x''2, ..., ''xn'')] are taken from a <link>
-multivariate Gaussian distribution</link>, <it>N</it>(<it>m</it>&nbsp;&amp;minus;&nbsp;<it>x</it>), having mean <it>m</it> and <link xlink:type="simple" xlink:href="../752/191752.xml">
+multivariate Gaussian distribution</link>, <it>N</it>(<it>m</it> &amp;minus; <it>x</it>), having mean <it>m</it> and <link xlink:type="simple" xlink:href="../752/191752.xml">
 moment matrix</link> <it>M</it>. The samples are tested for fail or pass. The first and second order moments of the Gaussian restricted to the pass samples are <it>m*</it> and <it>M*</it>.</p>
 <p>
 
@@ -138,7 +138,7 @@ mean fitness</link> determined as a mean over the set of individuals in a large 
 <p>
 
 Phenotypes are often Gaussian distributed in a large population and a necessary condition for the natural evolution to be able to fulfill the theorem of Gaussian adaptation, with respect to all Gaussian quantitative characters, is that it may push the centre of gravity of the Gaussian to the centre of gravity of the selected individuals. This may be accomplished by the <link>
-Hardy&ndash;Weinberg law</link>. This is possible because the theorem of Gaussian adaptation is valid for any region of acceptability independent of the structure (Kjellström, 1996).</p>
+Hardy–Weinberg law</link>. This is possible because the theorem of Gaussian adaptation is valid for any region of acceptability independent of the structure (Kjellström, 1996).</p>
 <p>
 
 In this case the rules of genetic variation such as crossover, inversion, transposition etcetera may be seen as random number generators for the phenotypes. So, in this sense Gaussian adaptation may be seen as a genetic algorithm.</p>
@@ -162,7 +162,7 @@ Fraktal.gif
 </p>
 <p>
 
-If the mutation rate is sufficiently high, the disorder or variance  may increase and the parameter(s) may become distributed like the green bell curve. Then the climbing will take place on the green curve, which is even more smoothed out. Because the hollows to the right of B and C have now disappeared, the process may continue up to the peaks at D. But of course the landscape puts a limit on the disorder or variability. Besides &mdash; dependent on the landscape &mdash; the process may become very jerky, and if the ratio between the time spent by the process at a local peak and the time of transition to the next peak is very high, it may as well look like a <link xlink:type="simple" xlink:href="../980/24980.xml">
+If the mutation rate is sufficiently high, the disorder or variance  may increase and the parameter(s) may become distributed like the green bell curve. Then the climbing will take place on the green curve, which is even more smoothed out. Because the hollows to the right of B and C have now disappeared, the process may continue up to the peaks at D. But of course the landscape puts a limit on the disorder or variability. Besides — dependent on the landscape — the process may become very jerky, and if the ratio between the time spent by the process at a local peak and the time of transition to the next peak is very high, it may as well look like a <link xlink:type="simple" xlink:href="../980/24980.xml">
 punctuated equilibrium</link> as suggested by Gould (see Ridley).</p>
 
 </sec>
@@ -351,7 +351,7 @@ random search</link> processes provided that certain conditions are at hand.</p>
 average information</link> to some region of acceptability, because linear transformations of the whole process do not have an impact on efficiency.</p>
 <p>
 
-2   All individuals have equal cost and the derivative at <it>P</it> = 1 is &nbsp;0. </p>
+2   All individuals have equal cost and the derivative at <it>P</it> = 1 is  0. </p>
 <p>
 
 Then, the following theorem may be proved:</p>
@@ -370,7 +370,7 @@ Efficiency.GIF
 The figure above shows a possible efficiency function for a random search process such as Gaussian adaptation. To the left the process is most chaotic when <it>P</it> = 0, while there is perfect order to the right where <it>P</it> = 1.</p>
 <p>
 
-In an example by Rechenberg, 1971, 1973, a random walk is pushed thru a corridor maximizing the parameter <it>x</it>1. In this case the region of acceptability is defined as a (<it>n</it>&nbsp;&amp;minus;&nbsp;1)-dimensional interval in the parameters <it>x</it>2, <it>x</it>3, ..., <it>xn</it>, but a <it>x</it>1-value below the last accepted will never be accepted. Since <it>P</it> can never exceed 0.5 in this case, the maximum speed towards higher <it>x</it>1-values is reached for <it>P</it> = 0.5/<it>e</it> = 0.18, in agreement with the findings of Rechenberg.</p>
+In an example by Rechenberg, 1971, 1973, a random walk is pushed thru a corridor maximizing the parameter <it>x</it>1. In this case the region of acceptability is defined as a (<it>n</it> &amp;minus; 1)-dimensional interval in the parameters <it>x</it>2, <it>x</it>3, ..., <it>xn</it>, but a <it>x</it>1-value below the last accepted will never be accepted. Since <it>P</it> can never exceed 0.5 in this case, the maximum speed towards higher <it>x</it>1-values is reached for <it>P</it> = 0.5/<it>e</it> = 0.18, in agreement with the findings of Rechenberg.</p>
 <p>
 
 A point of view that also may be of interest in this context is that no definition of information (other than that sampled points inside some region of acceptability gives information about the extension of the region) is needed for the proof of the theorem. Then, because, the formula may be interpreted as information divided by the work needed to get the information, this is also an indication that &amp;minus;log(<it>P</it>) is a good candidate for being a measure of information.</p>
@@ -498,7 +498,7 @@ Unit of selection</link></entry>
 <list>
 <entry level="1" type="bullet">
 
-Bergström, R. M. An Entropy Model of the Developing Brain. <it>Developmental Psychobiology</it>, 2(3): 139&ndash;152, 1969.</entry>
+Bergström, R. M. An Entropy Model of the Developing Brain. <it>Developmental Psychobiology</it>, 2(3): 139–152, 1969.</entry>
 <entry level="1" type="bullet">
 
 Brooks, D. R. &amp; Wiley, E. O. <it>Evolution as Entropy, Towards a unified theory of Biology</it>. The University of Chicago Press, 1986.</entry>
@@ -507,25 +507,25 @@ Brooks, D. R. &amp; Wiley, E. O. <it>Evolution as Entropy, Towards a unified the
 Brooks, D. R. Evolution in the Information Age: Rediscovering the Nature of the Organism. Semiosis, Evolution, Energy, Development, Volume 1, Number 1, March 2001 </entry>
 <entry level="1" type="bullet">
 
-Gaines, Brian R. Knowledge Management in Societies of Intelligent Adaptive Agents. <it>Journal of intelligent Information systems</it> 9, 277&ndash;298 (1997).</entry>
+Gaines, Brian R. Knowledge Management in Societies of Intelligent Adaptive Agents. <it>Journal of intelligent Information systems</it> 9, 277–298 (1997).</entry>
 <entry level="1" type="bullet">
 
 Hartl, D. L. <it>A Primer of Population Genetics</it>. Sinauer, Sunderland, Massachusetts, 1981.</entry>
 <entry level="1" type="bullet">
 
-Hamilton, WD. 1963. The evolution of altruistic behavior. American Naturalist 97:354&ndash;356</entry>
+Hamilton, WD. 1963. The evolution of altruistic behavior. American Naturalist 97:354–356</entry>
 <entry level="1" type="bullet">
 
 Kandel, E. R., Schwartz, J. H., Jessel, T. M. <it>Essentials of Neural Science and Behavior</it>. Prentice Hall International, London, 1995.</entry>
 <entry level="1" type="bullet">
 
-S. Kirkpatrick and C. D. Gelatt and M. P. Vecchi, Optimization by Simulated Annealing, Science, Vol 220, Number 4598, pages 671&ndash;680, 1983.  </entry>
+S. Kirkpatrick and C. D. Gelatt and M. P. Vecchi, Optimization by Simulated Annealing, Science, Vol 220, Number 4598, pages 671–680, 1983.  </entry>
 <entry level="1" type="bullet">
 
-Kjellström, G. Network Optimization by Random Variation of component values. <it>Ericsson Technics</it>, vol. 25, no. 3, pp. 133&ndash;151, 1969.</entry>
+Kjellström, G. Network Optimization by Random Variation of component values. <it>Ericsson Technics</it>, vol. 25, no. 3, pp. 133–151, 1969.</entry>
 <entry level="1" type="bullet">
 
-Kjellström, G. Optimization of electrical Networks with respect to Tolerance Costs. <it>Ericsson Technics</it>, no. 3, pp. 157&ndash;175, 1970.</entry>
+Kjellström, G. Optimization of electrical Networks with respect to Tolerance Costs. <it>Ericsson Technics</it>, no. 3, pp. 157–175, 1970.</entry>
 <entry level="1" type="bullet">
 
 Kjellström, G. &amp; Taxén, L. Stochastic Optimization in System Design. IEEE Trans. on Circ. and Syst., vol. CAS-28, no. 7, July 1981.</entry>
@@ -537,13 +537,13 @@ Kjellström, G., Taxén, L. and Lindberg, P. O. Discrete Optimization of Digital
 Kjellström, G. On the Efficiency of Gaussian Adaptation. <it>Journal of Optimization Theory and Applications</it>, vol. 71, no. 3, December 1991.</entry>
 <entry level="1" type="bullet">
 
-Kjellström, G. &amp; Taxén, L. Gaussian Adaptation, an evolution-based efficient global optimizer; Computational and Applied Mathematics, In, C. Brezinski &amp; U. Kulish (Editors), Elsevier Science Publishers B. V., pp 267&ndash;276, 1992.</entry>
+Kjellström, G. &amp; Taxén, L. Gaussian Adaptation, an evolution-based efficient global optimizer; Computational and Applied Mathematics, In, C. Brezinski &amp; U. Kulish (Editors), Elsevier Science Publishers B. V., pp 267–276, 1992.</entry>
 <entry level="1" type="bullet">
 
-Kjellström, G. Evolution as a statistical optimization algorithm. <it>Evolutionary Theory</it> 11:105&ndash;117 (January, 1996).</entry>
+Kjellström, G. Evolution as a statistical optimization algorithm. <it>Evolutionary Theory</it> 11:105–117 (January, 1996).</entry>
 <entry level="1" type="bullet">
 
-Kjellström, G. The evolution in the brain. <it>Applied Mathematics and Computation</it>, 98(2&ndash;3):293&ndash;300, February, 1999.</entry>
+Kjellström, G. The evolution in the brain. <it>Applied Mathematics and Computation</it>, 98(2–3):293–300, February, 1999.</entry>
 <entry level="1" type="bullet">
 
 Kjellström, G. Evolution in a nutshell and some consequences concerning valuations. EVOLVE, ISBN 91-972936-1-X, Stockholm, 2002.</entry>
@@ -555,7 +555,7 @@ Levine, D. S. Introduction to Neural &amp; Cognitive Modeling. Laurence Erlbaum 
 MacLean, P. D. <it>A Triune Concept of the Brain and Behavior</it>. Toronto, Univ. Toronto Press, 1973.</entry>
 <entry level="1" type="bullet">
 
-Maynard Smith, J. 1964. Group Selection and Kin Selection, Nature 201:1145&ndash;1147.</entry>
+Maynard Smith, J. 1964. Group Selection and Kin Selection, Nature 201:1145–1147.</entry>
 <entry level="1" type="bullet">
 
 Maynard Smith, J. <it>Evolutionary Genetics</it>. Oxford University Press, 1998.</entry>
@@ -567,7 +567,7 @@ Mayr, E. <it>What Evolution is</it>. Basic Books, New York, 2001.</entry>
 Pinel, J. F. and Singhal, K. Statistical Design Centering and Tolerancing Using Parametric Sampling. IEEE Transactions on Circuits and Systems, Vol. Das-28, No. 7, July 1981. </entry>
 <entry level="1" type="bullet">
 
-Rechenberg, I. (1971): Evolutionsstrategie &mdash; Optimierung technischer Systeme nach Prinzipien der biologischen Evolution (PhD thesis). Reprinted by Fromman-Holzboog (1973).</entry>
+Rechenberg, I. (1971): Evolutionsstrategie — Optimierung technischer Systeme nach Prinzipien der biologischen Evolution (PhD thesis). Reprinted by Fromman-Holzboog (1973).</entry>
 <entry level="1" type="bullet">
 
 Ridley, M. <it>Evolution</it>. Blackwell Science, 1996.</entry>

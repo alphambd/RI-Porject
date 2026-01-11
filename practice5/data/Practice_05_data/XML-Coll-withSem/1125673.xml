@@ -421,8 +421,8 @@ Brian Souter</link></accountant>
 </businessperson>
 </person>
 </physical_entity>
- (CEO)&nbsp;·  <link>
-Robert Spiers</link> (chairman)&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ (CEO) ·  <link>
+Robert Spiers</link> (chairman) ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <nurse wordnetid="110366966" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -469,7 +469,7 @@ Stagecoach West Scotland</link></theodolite>
 </b> (<link xlink:type="simple" xlink:href="../980/1252980.xml">
 Western</link>, <link xlink:type="simple" xlink:href="../980/1252980.xml">
 A1 Service</link>, <link xlink:type="simple" xlink:href="../980/1252980.xml">
-Glasgow</link>)&nbsp;·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
+Glasgow</link>) ·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../008/1256008.xml">
 Stagecoach East Scotland</link></theodolite>
 </b> (<link xlink:type="simple" xlink:href="../541/1129541.xml">
@@ -480,7 +480,7 @@ Perth</link>, <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../549/1129549.xml">
 Strathtay</link></company>
 , <link xlink:type="simple" xlink:href="../008/1256008.xml">
-JW Coaches</link>)&nbsp;·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
+JW Coaches</link>) ·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -546,7 +546,7 @@ Teesside</link></function>
 </operator>
 </company>
 </mathematical_relation>
-)&nbsp;·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
+) ·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -561,7 +561,7 @@ Stagecoach North West</link></function>
 Cumbria</link>, <link>
 Lancaster</link>, <link xlink:type="simple" xlink:href="../759/3221759.xml">
 Lancashire</link>, <link xlink:type="simple" xlink:href="../178/8302178.xml">
-Network Chorley</link>)&nbsp;·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
+Network Chorley</link>) ·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../399/5233399.xml">
 Stagecoach Manchester</link></theodolite>
 </b> (<link xlink:type="simple" xlink:href="../399/5233399.xml">
@@ -582,11 +582,11 @@ Magicbus</link></body_part>
 </plate>
 </structure>
 </mathematical_relation>
-)&nbsp;·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
+) ·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/5760304.xml">
 Stagecoach Merseyside</link></theodolite>
 </b> (<link xlink:type="simple" xlink:href="../304/5760304.xml">
-Merseyside</link>)&nbsp;·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
+Merseyside</link>) ·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -604,7 +604,7 @@ Chesterfield</link></company>
 , <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../444/5491444.xml">
 Sheffield</link></theodolite>
-)&nbsp;·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
+) ·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../504/13878504.xml">
@@ -632,17 +632,17 @@ Lincolnshire</link></function>
 </operator>
 </company>
 </mathematical_relation>
-)&nbsp;·  <b><link xlink:type="simple" xlink:href="../464/14076464.xml">
+) ·  <b><link xlink:type="simple" xlink:href="../464/14076464.xml">
 Stagecoach Warwickshire</link></b> (<theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../464/14076464.xml">
 Warwickshire</link></theodolite>
-)&nbsp;·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
+) ·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../673/1125673.xml">
 Stagecoach Oxfordshire</link></theodolite>
 </b> (<link>
 Oxfordshire</link>, <link>
 Brookes Bus</link>, <link>
-Oxford Tube</link>)&nbsp;·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
+Oxford Tube</link>) ·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../055/13928055.xml">
@@ -658,12 +658,12 @@ Peterborough</link></theodolite>
 . <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../407/18048407.xml">
 The Fens</link></theodolite>
-)&nbsp;·  <b><link xlink:type="simple" xlink:href="../592/1040592.xml">
+) ·  <b><link xlink:type="simple" xlink:href="../592/1040592.xml">
 Stagecoach East</link></b> (<link>
 Northants</link>, <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../995/1939995.xml">
 Bedford</link></company>
-)&nbsp;·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
+) ·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../421/3292421.xml">
 Stagecoach West</link></theodolite>
 </b> (<company wordnetid="108058098" confidence="0.9508927676800064">
@@ -675,9 +675,9 @@ Swindon</link></company>
 , <link xlink:type="simple" xlink:href="../902/19286902.xml">
 Gloucester</link>, <link>
 Cotswolds</link>, <link>
-Wye and Dean</link>)&nbsp;·  <b><link xlink:type="simple" xlink:href="../045/13928045.xml">
+Wye and Dean</link>) ·  <b><link xlink:type="simple" xlink:href="../045/13928045.xml">
 Stagecoach Wales</link></b> (<link xlink:type="simple" xlink:href="../045/13928045.xml">
-Stagecoach in South Wales</link>)&nbsp;·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
+Stagecoach in South Wales</link>) ·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../828/4115828.xml">
@@ -694,7 +694,7 @@ East Kent</link></function>
 , <link>
 East Sussex</link>, <link>
 Hastings</link>, <link xlink:type="simple" xlink:href="../828/4115828.xml">
-Portsmouth</link>, Stagecoach in the South Downs)&nbsp;·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
+Portsmouth</link>, Stagecoach in the South Downs) ·  <b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/6117099.xml">
 Stagecoach South</link></theodolite>
 </b> (<theodolite wordnetid="104419073" confidence="0.9508927676800064">
@@ -706,12 +706,12 @@ Hampshire</link></theodolite>
 , <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../775/14692775.xml">
 Coastline</link></company>
-)&nbsp;·  <b><link xlink:type="simple" xlink:href="../729/5818729.xml">
+) ·  <b><link xlink:type="simple" xlink:href="../729/5818729.xml">
 Stagecoach South West</link></b> (<company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../729/5818729.xml">
 Devon</link></company>
-)&nbsp;·  <b><link xlink:type="simple" xlink:href="../433/2492433.xml">
-Stagecoach Express</link></b>&nbsp;·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
+) ·  <b><link xlink:type="simple" xlink:href="../433/2492433.xml">
+Stagecoach Express</link></b> ·  <b><mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -725,7 +725,7 @@ Scottish Citylink</link></function>
 </b> (35% with <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../203/1190203.xml">
 ComfortDelGro</link></company>
-)&nbsp;·  <b><link xlink:type="simple" xlink:href="../966/864966.xml">
+) ·  <b><link xlink:type="simple" xlink:href="../966/864966.xml">
 Megabus (United Kingdom)</link></b></col>
 </row>
 <row style="height:2px">
@@ -738,17 +738,17 @@ United Kingdomrailway companies</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../146/11895146.xml">
 East Midlands Trains</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../459/234459.xml">
 South West Trains</link></company>
  (<link xlink:type="simple" xlink:href="../464/12872464.xml">
-Island Line Trains</link>)&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+Island Line Trains</link>) ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../230/183230.xml">
 Virgin Trains</link></company>
  (49% with <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../782/213782.xml">
 Virgin Group</link></company>
-)&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+) ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../271/2109271.xml">
 Megatrain</link></company>
 </col>
@@ -763,7 +763,7 @@ United Kingdomtram operations</col>
 <public_transit wordnetid="104018951" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../976/314976.xml">
 Stagecoach Sheffield Supertram</link></public_transit>
-&nbsp;·  <public_transit wordnetid="104018951" confidence="0.9508927676800064">
+ ·  <public_transit wordnetid="104018951" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../314/253314.xml">
 Manchester Metrolink</link></public_transit>
 </col>
@@ -793,7 +793,7 @@ Rockland Coaches</link></theodolite>
 Short Line Bus</link>, <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../169/14056169.xml">
 Suburban Trails</link></theodolite>
-)&nbsp;·  (<b>North Central</b>: Butler Motor Transit, Central Cab Company, Coach USA Chicago, Lenzner Coach Lines, Tri-State/United Limo, <control wordnetid="105196375" confidence="0.8">
+) ·  (<b>North Central</b>: Butler Motor Transit, Central Cab Company, Coach USA Chicago, Lenzner Coach Lines, Tri-State/United Limo, <control wordnetid="105196375" confidence="0.8">
 <authority wordnetid="105196582" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <power wordnetid="105190804" confidence="0.8">
@@ -805,7 +805,7 @@ Wisconsin Coach Lines</link></institution>
 </authority>
 </control>
 , <link xlink:type="simple" xlink:href="../265/19310265.xml">
-Van Galder</link>)&nbsp;·  <b><link xlink:type="simple" xlink:href="../327/19065327.xml">
+Van Galder</link>) ·  <b><link xlink:type="simple" xlink:href="../327/19065327.xml">
 Megabus (United States)</link></b>Canada<b>: </b><theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../961/1629961.xml">
 Coach Canada</link></theodolite>
@@ -824,13 +824,13 @@ Gray Line Montreal</link></theodolite>
 <col colspan="3" style=";background:#FB0A1A;" class="navbox-abovebelow">
 <b>Annual revenue</b>: £2,176 million <link xlink:type="simple" xlink:href="../673/270673.xml">
 GBP</link> (▲ 8.9% <link xlink:type="simple" xlink:href="../099/5752099.xml">
-FY</link> 2007)&nbsp;·  <b>Employees</b>: 27,000&nbsp;·  <b>Stock symbol</b>: <company wordnetid="108058098" confidence="0.8">
+FY</link> 2007) ·  <b>Employees</b>: 27,000 ·  <b>Stock symbol</b>: <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../867/197867.xml">
 LSE</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.londonstockexchange.com/en-gb/pricesnews/prices/Trigger/genericsearch.htm?bsg=true&amp;ns=SGC">
-SGC</weblink>&nbsp;·   <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.stagecoachgroup.com/">
+: <weblink xlink:type="simple" xlink:href="http://www.londonstockexchange.com/en-gb/pricesnews/prices/Trigger/genericsearch.htm?bsg=true&amp;ns=SGC">
+SGC</weblink> ·   <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.stagecoachgroup.com/">
 www.stagecoachgroup.com</weblink></col>
 </row>
 </table>
@@ -875,7 +875,7 @@ Arriva Shires &amp; Essex</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -887,7 +887,7 @@ First Berkshire &amp; The Thames Valley</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/1124785.xml">
 Reading Transport</link></theodolite>
@@ -897,15 +897,15 @@ Newbury Buses</link></theodolite>
 , <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/1124785.xml#xpointer(//*[./st=%22Reading+Buses%22])">
 Reading Buses</link></theodolite>
-)&nbsp;· 
+) · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../174/6117174.xml">
 Stagecoach in Hampshire</link></theodolite>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../124/8841124.xml">
 Thamesdown Transport</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -913,7 +913,7 @@ Thamesdown Transport</link></theodolite>
 Thames Travel</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -971,7 +971,7 @@ Arriva Shires &amp; Essex</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -983,7 +983,7 @@ First Berkshire &amp; The Thames Valley</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -991,9 +991,9 @@ First Berkshire &amp; The Thames Valley</link></function>
 First London</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../592/1040592.xml">
-Stagecoach East</link>&nbsp;· 
+Stagecoach East</link> · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../419/7999419.xml">
 MK Metro</link></theodolite>
@@ -1022,13 +1022,13 @@ Arriva Southern Counties</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../560/1941560.xml">
-Brighton &amp; Hove</link>&nbsp;· 
+Brighton &amp; Hove</link> · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../045/11993045.xml">
 Cavendish Motor Services</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1036,7 +1036,7 @@ Cavendish Motor Services</link></theodolite>
 Compass Travel</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1044,11 +1044,11 @@ Compass Travel</link></function>
 Countryliner</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../058/5382058.xml">
 Eastbourne Buses</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1060,11 +1060,11 @@ Metrobus</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../991/14946991.xml">
 Renown Coaches</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1072,11 +1072,11 @@ Renown Coaches</link></theodolite>
 Southdown PSV</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/6117099.xml">
 Stagecoach South</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1101,7 +1101,7 @@ Hampshire</link></council>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <link xlink:type="simple" xlink:href="../220/16864220.xml">
-AMK Mini Coaches</link>&nbsp;· 
+AMK Mini Coaches</link> · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1113,7 +1113,7 @@ Bluestar</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1121,7 +1121,7 @@ Bluestar</link></function>
 Brijan Tours</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1133,7 +1133,7 @@ Cango</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1141,7 +1141,7 @@ Cango</link></function>
 Countryliner</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1153,9 +1153,9 @@ Damory</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../595/5299595.xml">
-Emsworth &amp; District</link>&nbsp;· 
+Emsworth &amp; District</link> · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1167,7 +1167,7 @@ First Hampshire &amp; Dorset</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1179,7 +1179,7 @@ Marchwood Motorways</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/1124785.xml">
 Reading Transport</link></theodolite>
@@ -1189,7 +1189,7 @@ Newbury Buses</link></theodolite>
 , <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/1124785.xml#xpointer(//*[./st=%22Reading+Buses%22])">
 Reading Buses</link></theodolite>
-)&nbsp;· 
+) · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/6117099.xml">
 Stagecoach South</link></theodolite>
@@ -1202,7 +1202,7 @@ Stagecoach in Hampshire</link></theodolite>
 , <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../516/17406516.xml">
 Stagecoach in Hants &amp; Surrey</link></theodolite>
-)&nbsp;· 
+) · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1210,7 +1210,7 @@ Stagecoach in Hants &amp; Surrey</link></theodolite>
 Stagecoach South East</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1219,11 +1219,11 @@ Uni-link</link></function>
 </operator>
 </mathematical_relation>
  (<link xlink:type="simple" xlink:href="../959/5360959.xml">
-Enterprise</link>)&nbsp;· 
+Enterprise</link>) · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/15361458.xml">
 Velvet</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1284,7 +1284,7 @@ Island Breezers</link></attraction>
 </path>
 </event>
 </location>
-)&nbsp;· 
+) · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../881/13011881.xml">
 Wightbus</link></theodolite>
@@ -1313,7 +1313,7 @@ Arriva Southern Counties</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1321,7 +1321,7 @@ Arriva Southern Counties</link></function>
 Countryliner</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1333,7 +1333,7 @@ The Kings Ferry</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1345,7 +1345,7 @@ Metrobus</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1353,7 +1353,7 @@ Metrobus</link></function>
 Nu-Venture</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1361,7 +1361,7 @@ Nu-Venture</link></function>
 Stagecoach South East</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1392,7 +1392,7 @@ Arriva Shires &amp; Essex</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <commercial_enterprise wordnetid="108065093" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -1410,7 +1410,7 @@ Oxford Bus Company</link></function>
 </company>
 </commercial_enterprise>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/1124785.xml">
 Reading Transport</link></theodolite>
@@ -1420,15 +1420,15 @@ Newbury Buses</link></theodolite>
 , <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/1124785.xml#xpointer(//*[./st=%22Reading+Buses%22])">
 Reading Buses</link></theodolite>
-)&nbsp;· 
+) · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../673/1125673.xml">
 Stagecoach Oxfordshire</link></theodolite>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../124/8841124.xml">
 Thamesdown Transport</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1459,9 +1459,9 @@ Alder Valley Travel</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../567/9425567.xml">
-Arriva Guildford &amp; West Surrey</link>&nbsp;· 
+Arriva Guildford &amp; West Surrey</link> · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1469,7 +1469,7 @@ Arriva Guildford &amp; West Surrey</link>&nbsp;·
 Arriva London</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1477,7 +1477,7 @@ Arriva London</link></function>
 Compass Travel</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1485,7 +1485,7 @@ Compass Travel</link></function>
 Countryliner</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1500,7 +1500,7 @@ Epsom Coaches</link></function>
 Quality Line</link></function>
 </operator>
 </mathematical_relation>
-)&nbsp;· 
+) · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1512,7 +1512,7 @@ First Berkshire &amp; The Thames Valley</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1520,7 +1520,7 @@ First Berkshire &amp; The Thames Valley</link></function>
 London General</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1532,7 +1532,7 @@ Metrobus</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1544,11 +1544,11 @@ Metroline</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../657/16622657.xml">
 Safeguard Coaches</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1556,7 +1556,7 @@ Safeguard Coaches</link></theodolite>
 Southdown PSV</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/6117099.xml">
 Stagecoach South</link></theodolite>
@@ -1569,7 +1569,7 @@ Stagecoach in Hampshire</link></theodolite>
 , <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../516/17406516.xml">
 Stagecoach in Hants &amp; Surrey</link></theodolite>
-)&nbsp;· 
+) · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1577,11 +1577,11 @@ Stagecoach in Hants &amp; Surrey</link></theodolite>
 Sullivan Buses</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../945/16315945.xml">
 Sunray Travel</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1593,7 +1593,7 @@ Transdev London</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../109/13061109.xml">
 Travel Surrey</link></theodolite>
@@ -1632,7 +1632,7 @@ New Enterprise Coaches</link></function>
 </operator>
 </company>
 </mathematical_relation>
-)&nbsp;· 
+) · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1644,9 +1644,9 @@ Big Lemon</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../560/1941560.xml">
-Brighton &amp; Hove</link>&nbsp;· 
+Brighton &amp; Hove</link> · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1654,7 +1654,7 @@ Brighton &amp; Hove</link>&nbsp;·
 Compass Travel</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1662,9 +1662,9 @@ Compass Travel</link></function>
 Countryliner</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../595/5299595.xml">
-Emsworth &amp; District</link>&nbsp;· 
+Emsworth &amp; District</link> · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1676,7 +1676,7 @@ Flights Hallmark</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1684,7 +1684,7 @@ Flights Hallmark</link></function>
 Minerva Accord</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1696,7 +1696,7 @@ Metrobus</link></function>
 </operator>
 </company>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1704,7 +1704,7 @@ Metrobus</link></function>
 Southdown PSV</link></function>
 </operator>
 </mathematical_relation>
-&nbsp;· 
+ · 
 <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/6117099.xml">
 Stagecoach South</link></theodolite>
@@ -1714,7 +1714,7 @@ Stagecoach in Hampshire</link></theodolite>
 , <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../516/17406516.xml">
 Stagecoach in Hants &amp; Surrey</link></theodolite>
-&nbsp;· 
+ · 
 <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
@@ -1737,7 +1737,7 @@ National</link></country>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <link xlink:type="simple" xlink:href="../966/864966.xml">
-Megabus</link>&nbsp;· 
+Megabus</link> · 
 <link xlink:type="simple" xlink:href="../689/99689.xml">
 National Express</link></p>
 </col>

@@ -137,8 +137,8 @@ Motorola 68000</link></semiconductor_device>
 </instrumentality>
 </artifact>
 </chip>
- running at 7.5&nbsp;MHz, or a <link xlink:type="simple" xlink:href="../863/38863.xml">
-68010</link> running at 15&nbsp;MHz.</entry>
+ running at 7.5 MHz, or a <link xlink:type="simple" xlink:href="../863/38863.xml">
+68010</link> running at 15 MHz.</entry>
 <entry level="1" type="bullet">
 
  512 <link xlink:type="simple" xlink:href="../755/149755.xml">
@@ -220,7 +220,7 @@ The disk controller card contains:
 
  A <link xlink:type="simple" xlink:href="../461/34461.xml">
 Zilog Z80</link> <link xlink:type="simple" xlink:href="../831/2172831.xml">
-processor</link> running at 6&nbsp;MHz</entry>
+processor</link> running at 6 MHz</entry>
 <entry level="1" type="bullet">
 
  32 <link xlink:type="simple" xlink:href="../755/149755.xml">

@@ -169,7 +169,7 @@ A graphical "proof" of Jensen's inequality for the probabilistic case. The dashe
 </p>
 <p>
 
-A proof of Jensen's inequality can be provided in several ways, and three different proofs corresponding to the different statements above will be offered. Before embarking on these mathematical derivations, however, it is worth analyzing an intuitive graphical argument based on the probabilistic case where <it>X</it> is a real number (see figure). Assuming a hypothetical distribution of <it>X</it> values, one can immediately identify the position of <math>\scriptstyle\mathbb{E}\{X\}</math> and its image <math>\scriptstyle\varphi(\mathbb{E}\{X\})</math> in the graph. Noticing that for convex mappings <math>\scriptstyle Y\,=\,\varphi(X)</math> the corresponding distribution of <it>Y</it> values is increasingly "stretched out" for increasing values of <it>X</it>, it is easy to see that the distribution of <it>Y</it> is broader than that of <it>X</it> in the interval corresponding to <it>X</it>&nbsp;&amp;gt;&nbsp;<it>X</it>0 and narrower in <it>X</it>&nbsp;&nbsp;<it>X</it>0 for any <it>X</it>0; in particular, this is also true for <math>\scriptstyle X_0 \,=\, \mathbb{E}\{ X \}</math>. Consequently, in this picture the expectation of <it>Y</it> will always shift upwards with respect to the position of <math>\scriptstyle\varphi(\mathbb{E}\{ X \} )</math>, and this "proves" the inequality, i.e.</p>
+A proof of Jensen's inequality can be provided in several ways, and three different proofs corresponding to the different statements above will be offered. Before embarking on these mathematical derivations, however, it is worth analyzing an intuitive graphical argument based on the probabilistic case where <it>X</it> is a real number (see figure). Assuming a hypothetical distribution of <it>X</it> values, one can immediately identify the position of <math>\scriptstyle\mathbb{E}\{X\}</math> and its image <math>\scriptstyle\varphi(\mathbb{E}\{X\})</math> in the graph. Noticing that for convex mappings <math>\scriptstyle Y\,=\,\varphi(X)</math> the corresponding distribution of <it>Y</it> values is increasingly "stretched out" for increasing values of <it>X</it>, it is easy to see that the distribution of <it>Y</it> is broader than that of <it>X</it> in the interval corresponding to <it>X</it> &amp;gt; <it>X</it>0 and narrower in <it>X</it>  <it>X</it>0 for any <it>X</it>0; in particular, this is also true for <math>\scriptstyle X_0 \,=\, \mathbb{E}\{ X \}</math>. Consequently, in this picture the expectation of <it>Y</it> will always shift upwards with respect to the position of <math>\scriptstyle\varphi(\mathbb{E}\{ X \} )</math>, and this "proves" the inequality, i.e.</p>
 <p>
 
 <indent level="1">
@@ -187,7 +187,7 @@ The proofs below formalize this intuitive notion.</p>
 Proof 1 (finite form)</st>
 <p>
 
-If <it>λ</it>1 and <it>λ</it>2 are two arbitrary positive real numbers such that <it>λ</it>1&nbsp;+&nbsp;<it>λ</it>2&nbsp;=&nbsp;1 then convexity of <math>\scriptstyle\varphi</math> implies</p>
+If <it>λ</it>1 and <it>λ</it>2 are two arbitrary positive real numbers such that <it>λ</it>1 + <it>λ</it>2 = 1 then convexity of <math>\scriptstyle\varphi</math> implies</p>
 <p>
 
 <indent level="1">
@@ -195,7 +195,7 @@ If <it>λ</it>1 and <it>λ</it>2 are two arbitrary positive real numbers such th
 <math>\varphi(\lambda_1 x_1+\lambda_2 x_2)\leq \lambda_1\,\varphi(x_1)+\lambda_2\,\varphi(x_2)\text{ for any }x_1,\,x_2.</math> 
 </indent>
 
-This can be easily generalized: if <it>λ</it>1, <it>λ</it>2, ..., <it>λn</it> are positive real numbers such that <it>λ</it>1&nbsp;+&nbsp;...&nbsp;+&nbsp;<it>λn</it>&nbsp;=&nbsp;1, then</p>
+This can be easily generalized: if <it>λ</it>1, <it>λ</it>2, ..., <it>λn</it> are positive real numbers such that <it>λ</it>1 + ... + <it>λn</it> = 1, then</p>
 <p>
 
 <indent level="1">
@@ -203,8 +203,8 @@ This can be easily generalized: if <it>λ</it>1, <it>λ</it>2, ..., <it>λn</it>
 <math>\varphi(\lambda_1 x_1+\lambda_2 x_2+\cdots+\lambda_n x_n)\leq \lambda_1\,\varphi(x_1)+\lambda_2\,\varphi(x_2)+\cdots+\lambda_n\,\varphi(x_n),</math>
 </indent>
 
-for any <it>x</it>1,&nbsp;...,&nbsp;<it>xn</it>. This <it>finite form</it> of the Jensen's inequality can be proved by <link xlink:type="simple" xlink:href="../881/18881.xml">
-induction</link>: by convexity hypotheses, the statement is true for <it>n</it>&nbsp;=&nbsp;2. Suppose it is true also for some <it>n</it>, one needs to prove it for <it>n</it>&nbsp;+&nbsp;1. At least one of the <it>λi</it> is strictly positive, say <it>λ</it>1; therefore by convexity inequality:</p>
+for any <it>x</it>1, ..., <it>xn</it>. This <it>finite form</it> of the Jensen's inequality can be proved by <link xlink:type="simple" xlink:href="../881/18881.xml">
+induction</link>: by convexity hypotheses, the statement is true for <it>n</it> = 2. Suppose it is true also for some <it>n</it>, one needs to prove it for <it>n</it> + 1. At least one of the <it>λi</it> is strictly positive, say <it>λ</it>1; therefore by convexity inequality:</p>
 <p>
 
 <indent level="1">
@@ -281,7 +281,7 @@ Now, let us define the following:</p>
 <math>b:=\varphi(x_0)-x_0\varphi^\prime(x_0).</math>
 </indent>
 
-Then for all <it>x</it>, <it>ax</it>&nbsp;+&nbsp;<it>b</it>&nbsp;≤&nbsp;<it>φ</it>(<it>x</it>). To see that, take <it>x</it>&nbsp;&amp;gt;&nbsp;<it>x</it>0, and define <it>t</it> = <it>x</it>&nbsp;&amp;minus;&nbsp;<it>x</it>0 &amp;gt; 0. Then,</p>
+Then for all <it>x</it>, <it>ax</it> + <it>b</it> ≤ <it>φ</it>(<it>x</it>). To see that, take <it>x</it> &amp;gt; <it>x</it>0, and define <it>t</it> = <it>x</it> &amp;minus; <it>x</it>0 &amp;gt; 0. Then,</p>
 <p>
 
 <indent level="1">
@@ -297,7 +297,7 @@ Therefore,</p>
 <math>\varphi^\prime(x_0)(x-x_0)+\varphi(x_0)\leq\varphi(x)</math>
 </indent>
 
-as desired. The case for <it>x</it>  <it>x</it>0 is proven similarly, and clearly <it>ax</it>0&nbsp;+&nbsp;<it>b</it>&nbsp;=&nbsp;<it>φ</it>(<it>x</it>0).</p>
+as desired. The case for <it>x</it>  <it>x</it>0 is proven similarly, and clearly <it>ax</it>0 + <it>b</it> = <it>φ</it>(<it>x</it>0).</p>
 <p>
 
 φ(<it>x</it>0) can then be rewritten as</p>
@@ -347,7 +347,7 @@ is decreasing as θ approaches 0+. In particular, the <it>subdifferential</it> o
 <math>(D\varphi)(x)\cdot y:=\lim_{\theta \downarrow 0} \frac{\varphi(x+\theta\,y)-\varphi(x)}{\theta}=\inf_{\theta \neq 0} \frac{\varphi(x+\theta\,y)-\varphi(x)}{\theta}.</math>
 </indent>
 
-It is easily seen that the subdifferential is linear in <it>y</it> and, since the infimum taken in the right-hand side of the previous formula is smaller than the value of the same term for <it>θ</it>&nbsp;=&nbsp;1, one gets</p>
+It is easily seen that the subdifferential is linear in <it>y</it> and, since the infimum taken in the right-hand side of the previous formula is smaller than the value of the same term for <it>θ</it> = 1, one gets</p>
 <p>
 
 <indent level="1">
@@ -576,7 +576,7 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Walter Rudin&#32;(1987). Real and Complex Analysis.&#32;McGraw-Hill. ISBN 0-07-054234-1.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Walter Rudin&#32;(1987). Real and Complex Analysis.&#32;McGraw-Hill. ISBN 0-07-054234-1.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -590,7 +590,7 @@ David Chandler</link></chemist>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(1987). Introduction to Modern Statistical Mechanics.&#32;Oxford. ISBN 0-19-504277-8.</cite>&nbsp;</entry>
+&#32;(1987). Introduction to Modern Statistical Mechanics.&#32;Oxford. ISBN 0-19-504277-8.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -628,7 +628,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF02418571">
-10.1007/BF02418571</weblink>.</cite>&nbsp;</entry>
+10.1007/BF02418571</weblink>.</cite> </entry>
 </list>
 </p>
 

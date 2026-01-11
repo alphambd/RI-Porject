@@ -224,7 +224,7 @@ MX record#History of fallback to A</link>.</entry>
 Plain message forwarding may disclose the final destination-address irrespectively of the user's intention. See sections 7.7 <it>Information Disclosure in Message Forwarding</it>, and 4.4 <it>Trace Information</it> in RFC 5321.
 </entry>
 <entry id="7">
- <cite style="font-style:normal" class="book">Hunt, Craig&#32;(2002). TCP/IP Network Administration.&#32;O'Reilly,&#32;page 606. ISBN 059600334X.</cite>&nbsp;
+ <cite style="font-style:normal" class="book">Hunt, Craig&#32;(2002). TCP/IP Network Administration.&#32;O'Reilly,&#32;page 606. ISBN 059600334X.</cite> 
 The <link>
 current</link> (version 8.708 of 2006) <weblink xlink:type="simple" xlink:href="http://www.sendmail.org/doc/sendmail-current/doc/op/op.pdf">
 sendmail documentation</weblink> mentions no restrictions in using the -f switch, and uses the verb <it>set</it> rather than <it>override</it> to describe its action on the envelope sender data.

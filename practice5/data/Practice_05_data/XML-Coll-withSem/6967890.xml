@@ -148,7 +148,7 @@ VP/CSS</link></O>
 <entry level="2" type="bullet">
 
  IBM <link xlink:type="simple" xlink:href="../785/59785.xml">
-System/370</link> announced (June) &ndash; <it>without</it> virtual memory.</entry>
+System/370</link> announced (June) – <it>without</it> virtual memory.</entry>
 <entry level="2" type="bullet">
 
  Work begins on CP-370, a complete reimplementation of CP-67, for use on the System/370 series.</entry>
@@ -171,7 +171,7 @@ System/370</link> series.</entry>
  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link></O>
- announced &ndash; and running on announcement date. VM/370 includes the ability to run VM under VM (previously implemented both at IBM and at user sites under CP/CMS, but not made part of standard releases).</entry>
+ announced – and running on announcement date. VM/370 includes the ability to run VM under VM (previously implemented both at IBM and at user sites under CP/CMS, but not made part of standard releases).</entry>
 <entry level="1" type="bullet">
 
  1973</entry>
@@ -562,8 +562,8 @@ IBM announced the <link xlink:type="simple" xlink:href="../785/59785.xml">
 System/370</link> in 1970. To the disappointment of <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
- users &ndash; as with the <link xlink:type="simple" xlink:href="../294/29294.xml">
-System/360</link> announcement &ndash; the series would not include <link xlink:type="simple" xlink:href="../354/32354.xml">
+ users – as with the <link xlink:type="simple" xlink:href="../294/29294.xml">
+System/360</link> announcement – the series would not include <link xlink:type="simple" xlink:href="../354/32354.xml">
 virtual memory</link>. In 1972, IBM changed direction, announcing that the option would be made available on all S/370 models, and also announcing several virtual storage operating systems, including <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link></O>

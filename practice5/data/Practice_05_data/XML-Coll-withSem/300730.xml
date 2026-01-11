@@ -128,7 +128,7 @@ MFCC values are not very robust in the presence of additive noise, and so some r
 <reflist>
 <entry id="1">
  <cite style="font-style:normal" class="book">Min Xu et al.&#32;(2004).&#32;"HMM-based audio keyword generation",&#32;in Kiyoharu Aizawa, Yuichi Nakamura, Shin'ichi Satoh: <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=Ijdp9UWb5ZYC&amp;pg=PA569&amp;dq=Mel-frequency-cepstrum&amp;as_brr=3&amp;sig=M4PKJKxiclebl7_BDBWkrPjYWOQ">
-Advances in Multimedia Information Processing - PCM 2004: 5th Pacific Rim Conference on Multimedia</weblink>.&#32;Springer.</cite>&nbsp;</entry>
+Advances in Multimedia Information Processing - PCM 2004: 5th Pacific Rim Conference on Multimedia</weblink>.&#32;Springer.</cite> </entry>
 <entry id="2">
 Fang Zheng, Guoliang Zhang and Zhanjiang Song, <b>Comparison of Different Implementations of MFCC</b>, J. Computer Science &amp; Technology, 16(6): 582-589, Sept. 2001. 
 </entry>
@@ -154,7 +154,7 @@ On desensitizing the Mel-Cepstrum to spurious spectral components for Robust Spe
 <reflist>
 <entry id="1">
  <cite style="font-style:normal" class="book">Min Xu et al.&#32;(2004).&#32;"HMM-based audio keyword generation",&#32;in Kiyoharu Aizawa, Yuichi Nakamura, Shin'ichi Satoh: <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=Ijdp9UWb5ZYC&amp;pg=PA569&amp;dq=Mel-frequency-cepstrum&amp;as_brr=3&amp;sig=M4PKJKxiclebl7_BDBWkrPjYWOQ">
-Advances in Multimedia Information Processing - PCM 2004: 5th Pacific Rim Conference on Multimedia</weblink>.&#32;Springer.</cite>&nbsp;</entry>
+Advances in Multimedia Information Processing - PCM 2004: 5th Pacific Rim Conference on Multimedia</weblink>.&#32;Springer.</cite> </entry>
 <entry id="2">
 Fang Zheng, Guoliang Zhang and Zhanjiang Song, <b>Comparison of Different Implementations of MFCC</b>, J. Computer Science &amp; Technology, 16(6): 582-589, Sept. 2001. 
 </entry>

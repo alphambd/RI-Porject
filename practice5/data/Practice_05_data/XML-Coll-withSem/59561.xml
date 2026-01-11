@@ -122,7 +122,7 @@ How EOF works</st>
 Enterprise Objects provides tools and frameworks for object-relational mapping. The technology specializes in providing mechanisms to retrieve data from various data sources, such as relational databases via JDBC and JNDI directories, and mechanisms to commit data back to those data sources. These mechanisms are designed in a layered, abstract approach that allows developers to think about data retrieval and commitment at a higher level than a specific data source or data source vendor.</p>
 <p>
 
-Central to this mapping is a model file (an "EOModel") that you build with a visual tool &mdash; either EOModeler, or the EOModeler plug-in to <software wordnetid="106566077" confidence="0.9508927676800064">
+Central to this mapping is a model file (an "EOModel") that you build with a visual tool — either EOModeler, or the EOModeler plug-in to <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../878/356878.xml">
 Xcode</link></software>
 . The mapping works as follows:</p>
@@ -172,7 +172,7 @@ An Enterprise Object is analogous to what is often known in object-oriented prog
 <link xlink:type="simple" xlink:href="../333/1538333.xml">
 business object</link></concept>
 </idea>
- &mdash; a class which models a physical or <link xlink:type="simple" xlink:href="../995/509995.xml">
+ — a class which models a physical or <link xlink:type="simple" xlink:href="../995/509995.xml">
 conceptual object</link> in the business domain (eg. a customer, an order, an item, etc.). What makes an EO different from other objects is that its instance data maps to a data store. Typically, an enterprise object contains key-value pairs that represent a row in a relational database. The key is basically the column name, and the value is what was in that row in the database. So it can be said that an EO's properties persist beyond the life of any particular running application.</p>
 <p>
 

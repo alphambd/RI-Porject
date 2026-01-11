@@ -233,7 +233,7 @@ big O notation</link>, ignores constant factors, and additional machine/cache-sp
 One commonly argued disadvantage of a divide-and-conquer approach is that recursion is slow: the overhead of the repeated subroutine calls, along with that of storing the call stack (the state at each point in the recursion), can outweigh any advantages of the approach. This, however, depends upon the implementation style: with large enough recursive base cases, the overhead of recursion can become negligible for many problems.</p>
 <p>
 
-Another problem of a divide-and-conquer approach is that, for simple problems, it may be more complicated than an iterative approach, especially if large base cases are to be implemented for performance reasons. For example, to add <it>N</it> numbers, a simple loop to add them up in sequence is much easier to code than a divide-and-conquer approach that breaks the set of numbers into two halves, adds them recursively, and then adds the sums.  (On the other hand, there may be compensating advantages&mdash;for example, this recursive summation process is generally considerably more accurate in <link xlink:type="simple" xlink:href="../376/11376.xml">
+Another problem of a divide-and-conquer approach is that, for simple problems, it may be more complicated than an iterative approach, especially if large base cases are to be implemented for performance reasons. For example, to add <it>N</it> numbers, a simple loop to add them up in sequence is much easier to code than a divide-and-conquer approach that breaks the set of numbers into two halves, adds them recursively, and then adds the sums.  (On the other hand, there may be compensating advantages—for example, this recursive summation process is generally considerably more accurate in <link xlink:type="simple" xlink:href="../376/11376.xml">
 floating-point arithmetic</link> than a simple loop-based sum.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref>)</p>
 <p>
 
@@ -299,7 +299,7 @@ Binary search algorithm</link></algorithm>
 <entry id="1">
 A. Karatsuba and Yu Ofman, <it>Multiplication of Many-Digital Numbers by Automatic Computers.</it> Doklady Akad. Nauk SSSR, Vol. 145 (1962), pp. 293–294. Translation in Physics-Doklady, 7 (1963), pp. 595–596.</entry>
 <entry id="2">
-Heideman, M. T., D. H. Johnson, and C. S. Burrus, "Gauss and the history of the fast Fourier transform," IEEE ASSP Magazine, 1, (4), 14&ndash;21 (1984)</entry>
+Heideman, M. T., D. H. Johnson, and C. S. Burrus, "Gauss and the history of the fast Fourier transform," IEEE ASSP Magazine, 1, (4), 14–21 (1984)</entry>
 <entry id="3">
 Paul E. Black, <weblink xlink:type="simple" xlink:href="http://www.nist.gov/dads/HTML/dividemarrig.html">
 Divide and marriage before conquest</weblink> at the <link xlink:type="simple" xlink:href="../888/21888.xml">

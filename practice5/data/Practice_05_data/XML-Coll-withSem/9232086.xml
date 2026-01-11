@@ -389,7 +389,7 @@ Brampton, Ontario</link></village>
 Geography</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../532/16207532.xml">
-410@Steeles Business Park</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+410@Steeles Business Park</link> ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -400,13 +400,13 @@ Claireville</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <lake wordnetid="109328904" confidence="0.9508927676800064">
+ ·  <lake wordnetid="109328904" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../053/5619053.xml">
 Heart Lake</link></lake>
-&nbsp;·  <lake wordnetid="109328904" confidence="0.9508927676800064">
+ ·  <lake wordnetid="109328904" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../017/17046017.xml">
 Loafers Lake</link></lake>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -417,7 +417,7 @@ Mount Pleasant</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <camp wordnetid="102945594" confidence="0.8">
@@ -442,10 +442,10 @@ Camp Naivelt</link></living_quarters>
 </structure>
 </region>
 </site>
-&nbsp;·  <lake wordnetid="109328904" confidence="0.9508927676800064">
+ ·  <lake wordnetid="109328904" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../684/7761684.xml">
 Professor's Lake</link></lake>
-&nbsp;·  <link xlink:type="simple" xlink:href="../408/7762408.xml">
+ ·  <link xlink:type="simple" xlink:href="../408/7762408.xml">
 Toronto Gore Township</link></col>
 </row>
 <row style="height:2px">
@@ -456,10 +456,10 @@ Toronto Gore Township</link></col>
 Buildings and structures</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../461/17208461.xml">
-A. Grenville and William Davis Courthouse</link>&nbsp;·  <plaza wordnetid="103965456" confidence="0.9508927676800064">
+A. Grenville and William Davis Courthouse</link> ·  <plaza wordnetid="103965456" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../817/584817.xml">
 Bramalea City Centre</link></plaza>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -472,14 +472,14 @@ Brampton Library</link></room>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../677/16183677.xml">
 Brampton Soccer Centre</link></artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <memorial wordnetid="103743902" confidence="0.8">
@@ -488,7 +488,7 @@ Korean War Memorial Wall</link></memorial>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
@@ -501,7 +501,7 @@ Peel Heritage Complex</link></museum>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -512,7 +512,7 @@ Powerade Centre</link></venue>
 </location>
 </area>
 </region>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <theater wordnetid="104417809" confidence="0.8">
@@ -521,7 +521,7 @@ Rose Theatre</link></theater>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <mercantile_establishment wordnetid="103748162" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -536,7 +536,7 @@ Shoppers World Brampton</link></plaza>
 </building>
 </mercantile_establishment>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <mercantile_establishment wordnetid="103748162" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -561,7 +561,7 @@ Trinity Common Mall</link></plaza>
 Organization</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../589/209589.xml">
-Brampton Arts Council</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+Brampton Arts Council</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <enclosure wordnetid="103285912" confidence="0.8">
@@ -572,7 +572,7 @@ Brampton Board of Trade</link></chamber>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../085/160085.xml">
+ ·  <link xlink:type="simple" xlink:href="../085/160085.xml">
 Visual Arts Brampton</link></col>
 </row>
 <row style="height:2px">
@@ -599,7 +599,7 @@ Brampton Fall Fair</link></activity>
 </event>
 </carnival>
 </diversion>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <festival wordnetid="115162388" confidence="0.8">
@@ -624,21 +624,21 @@ Politics</col>
 <link xlink:type="simple" xlink:href="../658/3441658.xml">
 Brampton City Council</link></council>
 </administrative_unit>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../694/17693694.xml">
 Brampton City Hall</link></artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../183/17693183.xml">
 Peel Centre</link></artifact>
 </building>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../132/17693132.xml">
+ ·  <link xlink:type="simple" xlink:href="../132/17693132.xml">
 Peel County Courthouse and Jail</link></col>
 </row>
 <row style="height:2px">
@@ -669,7 +669,7 @@ The Brampton Guardian</link></newspaper>
 </print_media>
 </product>
 </work>
-&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+ ·  <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -684,13 +684,13 @@ The Bramptonian</link></publication>
 </creation>
 </product>
 </work>
-&nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+ ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../673/164673.xml">
 CFNY-FM</link></radio_station>
-&nbsp;·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+ ·  <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/3917465.xml">
 CIAO</link></radio_station>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../253/4039253.xml">
@@ -717,7 +717,7 @@ Peel District School Board</link></school_district>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <school wordnetid="108276720" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -744,10 +744,10 @@ Dufferin-Peel Catholic District School Board</link></institution>
 Transportation</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../146/3493146.xml">
-AcceleRide</link>&nbsp;·  <airport wordnetid="102692232" confidence="0.9508927676800064">
+AcceleRide</link> ·  <airport wordnetid="102692232" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../563/1678563.xml">
 Brampton Airport</link></airport>
-&nbsp;·  <theodolite wordnetid="104419073" confidence="0.9508927676800064">
+ ·  <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../128/1604128.xml">
 Brampton Transit</link></theodolite>
 </col>

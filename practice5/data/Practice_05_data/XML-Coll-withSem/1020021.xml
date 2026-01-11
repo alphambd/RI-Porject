@@ -47,7 +47,7 @@ The <b>eccentricity</b> <math>\epsilon</math> of a vertex <math>v</math> is the 
 The <b>radius</b> of a graph is the minimum eccentricity of any vertex.</p>
 <p>
 
-The <b>diameter</b> of a graph is the maximum eccentricity of any vertex in the graph.  That is, it is the greatest distance between any two vertices.  A <b>peripheral vertex</b> in a graph of diameter <math>d</math> is one that is distance <math>d</math> from some other vertex&mdash;that is, a vertex that achieves the diameter.</p>
+The <b>diameter</b> of a graph is the maximum eccentricity of any vertex in the graph.  That is, it is the greatest distance between any two vertices.  A <b>peripheral vertex</b> in a graph of diameter <math>d</math> is one that is distance <math>d</math> from some other vertex—that is, a vertex that achieves the diameter.</p>
 <p>
 
 A <b>pseudo-peripheral vertex</b> <math>v</math> has the property that for any vertex <math>u</math>, if <math>v</math> is as far away from <math>u</math> as possible, then <math>u</math> is as far away from <math>v</math> as possible.  Formally, if the distance from <math>u</math> to <math>v</math> equals the eccentricity of <math>u</math>, then it equals the eccentricity of <math>v</math>.</p>
@@ -94,7 +94,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0550-3213%2803%2900355-9">
 10.1016/S0550-3213(03)00355-9</weblink>. Retrieved on <link>
-2008-04-23</link>.&#32;“By distance we mean here geodesic distance along the graph, namely the length of any shortest path between say two given faces”</cite>&nbsp;</entry>
+2008-04-23</link>.&#32;“By distance we mean here geodesic distance along the graph, namely the length of any shortest path between say two given faces”</cite> </entry>
 <entry id="2">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
@@ -123,7 +123,7 @@ Weisstein, Eric W.</link></scholar>
 </physical_entity>
 .&#32;"<weblink xlink:type="simple" xlink:href="http://mathworld.wolfram.com/GraphGeodesic.html">
 "Graph Geodesic"</weblink>"&#32;(HTML).&#32;<it>MathWorld--A Wolfram Web Resource</it>.&#32;  Wolfram Research.&#32;Retrieved on <link>
-2008-04-23</link>.&nbsp;"The length of the graph geodesic between these points d(u,v) is called the graph distance between u and v"
+2008-04-23</link>. "The length of the graph geodesic between these points d(u,v) is called the graph distance between u and v"
 </entry>
 </reflist>
 </p>

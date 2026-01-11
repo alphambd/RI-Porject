@@ -145,7 +145,7 @@ Fred Glover</link></trainer>
 tabu search</link></it><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2210%22])">10</ref> :</entry>
 <entry level="1" type="indent">
 
- <cite id="CITEREF" style="font-style:normal"></cite>&nbsp;</entry>
+ <cite id="CITEREF" style="font-style:normal"></cite> </entry>
 <entry level="1" type="bullet">
 
  1986: Farmer, Packard and Perelson work on <link xlink:type="simple" xlink:href="../987/1589987.xml">
@@ -432,7 +432,7 @@ General criticisms</st>
 While there are many computer scientists who are enthusiastic advocates of metaheuristics, there are also many who are highly critical of the concept and have little regard for much of the research that is done on it. </p>
 <p>
 
-Those critics point out, for one thing, that the general goal of the typical metaheuristic &mdash; the efficient optimization of an arbitrary black-box function—cannot be solved efficiently, since for any metaheuristic <it>M</it> one can easily build a function <it>f</it> that will force <it>M</it> to enumerate the whole search space (or worse). Indeed, the "<link xlink:type="simple" xlink:href="../402/1297402.xml">
+Those critics point out, for one thing, that the general goal of the typical metaheuristic — the efficient optimization of an arbitrary black-box function—cannot be solved efficiently, since for any metaheuristic <it>M</it> one can easily build a function <it>f</it> that will force <it>M</it> to enumerate the whole search space (or worse). Indeed, the "<link xlink:type="simple" xlink:href="../402/1297402.xml">
 no-free-lunch theorem</link>" says that over the set of all mathematically possible problems, each optimization algorithm will do on average as well as any other. Thus, at best, a specific metaheuristic can be efficient only for restricted classes of goal functions (usually those that are partially "smooth" in some sense).  However, when these restrictions are stated at all, they either exclude most applications of interest, or make the problem amenable to specific solution methods that are much more efficient than the meta-heuristic.  </p>
 <p>
 
@@ -569,7 +569,7 @@ bee colony algorithm, Applied Soft Computing, vol. 8, 687 (2008) </entry>
 <list>
 <entry level="1" type="bullet">
 
- C. Blum and A. Roli (2003). Metaheuristics in combinatorial optimization: Overview and conceptual comparison. <it>ACM Computing Surveys</it> 35(3) 268&ndash;308.</entry>
+ C. Blum and A. Roli (2003). Metaheuristics in combinatorial optimization: Overview and conceptual comparison. <it>ACM Computing Surveys</it> 35(3) 268–308.</entry>
 <entry level="1" type="bullet">
 
  Geem Z. W., Kim J. H., and Loganathan G. V., A new heuristic optimization algorithm: harmony search, Simulation, vol. 76, 60 (2001)</entry>

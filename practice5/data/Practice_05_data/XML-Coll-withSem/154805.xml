@@ -105,7 +105,7 @@ CP-67</link> was a substantial re-implementation of <link xlink:type="simple" xl
 CP-40</link>, CMS remained essentially the same. IBM provided <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
- "as is" &ndash; without any support, in source code form, as part of the <link xlink:type="simple" xlink:href="../204/7218204.xml">
+ "as is" – without any support, in source code form, as part of the <link xlink:type="simple" xlink:href="../204/7218204.xml">
 IBM Type-III Library</link>. <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
@@ -174,7 +174,7 @@ CMS is an intrinsic part of the VM/CMS architecture, established with <O wordnet
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
 . Each CMS user has control over a private <link xlink:type="simple" xlink:href="../353/32353.xml">
-virtual machine</link> &ndash; a simulated copy of the underlying physical computer &ndash; in which CMS runs as a stand-alone operating system. This approach has remained consistent through the years, and is based on:
+virtual machine</link> – a simulated copy of the underlying physical computer – in which CMS runs as a stand-alone operating system. This approach has remained consistent through the years, and is based on:
 <list>
 <entry level="1" type="bullet">
 
@@ -240,7 +240,7 @@ Terminal support</st>
 <p>
 
 CMS started in the era of teletype-style paper terminals, and the later "glass teletype" <link>
-dumb terminals</link>. By the late 1970s, however, most VM users were connecting via full-screen terminals &ndash; particularly the <message wordnetid="106598915" confidence="0.8">
+dumb terminals</link>. By the late 1970s, however, most VM users were connecting via full-screen terminals – particularly the <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <terminal wordnetid="104412901" confidence="0.8">
@@ -285,13 +285,13 @@ IBM 3705</link>) or Memorex 1270. These <link xlink:type="simple" xlink:href="..
 asynchronous</link> <link xlink:type="simple" xlink:href="../318/7044318.xml">
 terminal controller</link>s assembled a line of characters, up to a fixed maximum length, until the RETURN key was pressed. Typing too many characters would result in an error, a familiar situation to users of the day. (Most data centers did not include this equipment, except as needed for dial-up access. The 3270 approach was preferred.)
 Block-oriented terminals like the 3270 made it practical to implement <link xlink:type="simple" xlink:href="../310/30310.xml">
-screen-oriented editors</link> on mainframes &ndash; as opposed to <link xlink:type="simple" xlink:href="../693/152693.xml">
+screen-oriented editors</link> on mainframes – as opposed to <link xlink:type="simple" xlink:href="../693/152693.xml">
 line-oriented editors</link>, the previous norm. This had been an important advantage of contemporary minicomputers and other character-oriented systems, and its availability via the 3270 was warmly welcomed.
 A gulf developed between the 3270 world, focused on page-oriented mainframe transaction processing (especially via <link xlink:type="simple" xlink:href="../505/391505.xml">
 CICS</link>), and the asynch terminal world, focused on character-oriented minicomputers and dial-up timesharing. Asynchronous terminal vendors gradually improved their products with a range of <link xlink:type="simple" xlink:href="../508/6086508.xml">
 smart terminal</link> features, usually accessed via <link xlink:type="simple" xlink:href="../114/60114.xml">
 escape sequences</link>. However, these devices rarely competed for 3270 users; IBM maintained its dominance over mainframe data center hardware purchase decisions.
-Viewed in retrospect, there was a major philosophical divergence between block-oriented and character-oriented computing. Asynchronous terminal controllers and 3270s both provided the mainframe with block-oriented interactions &ndash; essentially, they made the terminal input look like a card reader. This approach, preferred by IBM, led to the development of entirely different user interface paradigms and programming strategies. Character-oriented systems evolved differently. The difference is apparent when comparing the <link xlink:type="simple" xlink:href="../074/4695074.xml">
+Viewed in retrospect, there was a major philosophical divergence between block-oriented and character-oriented computing. Asynchronous terminal controllers and 3270s both provided the mainframe with block-oriented interactions – essentially, they made the terminal input look like a card reader. This approach, preferred by IBM, led to the development of entirely different user interface paradigms and programming strategies. Character-oriented systems evolved differently. The difference is apparent when comparing the <link xlink:type="simple" xlink:href="../074/4695074.xml">
 atomic transaction</link> approach of dominant <link xlink:type="simple" xlink:href="../505/391505.xml">
 CICS</link> with the interactive, stream-oriented style of <link xlink:type="simple" xlink:href="../642/31642.xml">
 UNIX</link>. VM/CMS evolved somewhere between these extremes. CMS has a command-driven, <link xlink:type="simple" xlink:href="../512/285512.xml">
@@ -404,7 +404,7 @@ CTSS</link></O>
 <list>
 <entry level="1" type="bullet">
 
- E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0― extensive (819&nbsp;<it>pp.</it>) treatment of IBM's offerings during this period; the limited coverage of <O wordnetid="106832680" confidence="0.9508927676800064">
+ E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0― extensive (819 <it>pp.</it>) treatment of IBM's offerings during this period; the limited coverage of <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
  in such a definitive work is telling</entry>

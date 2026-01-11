@@ -962,7 +962,7 @@ Andrijevica</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -981,7 +981,7 @@ Bar</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -998,7 +998,7 @@ Berane</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1015,7 +1015,7 @@ Bijelo Polje</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1034,7 +1034,7 @@ Budva</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1063,7 +1063,7 @@ Cetinje</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1080,7 +1080,7 @@ Danilovgrad</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1097,11 +1097,11 @@ Herceg Novi</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Kolašin</link>&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <link>
+Kolašin</link> ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../565/277565.xml">
 Kotor</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1118,8 +1118,8 @@ Mojkovac</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Nikšić</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Nikšić</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1136,7 +1136,7 @@ Plav</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1153,13 +1153,13 @@ Pljevlja</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Plužine</link>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <link>
+Plužine</link> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../136/172136.xml">
 Podgorica</link></village>
-&nbsp;·  <link>
-Rožaje</link>&nbsp;·  <link>
-Šavnik</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Rožaje</link> ·  <link>
+Šavnik</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1176,7 +1176,7 @@ Tivat</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -1195,7 +1195,7 @@ Ulcinj</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
+ ·  <link>
 Žabljak</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="1">
 <image width="40px" src="Flag_of_Montenegro.svg">

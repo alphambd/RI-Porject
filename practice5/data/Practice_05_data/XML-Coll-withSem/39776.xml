@@ -215,7 +215,7 @@ Ping flood</link></activity>
 </attack>
 </event>
 </operation>
-,&nbsp;and <operation wordnetid="100955060" confidence="0.8">
+, and <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -549,7 +549,7 @@ fraggle attack</link>s (these are also known as bandwidth consumption attacks). 
 
 Unlike MyDoom's DDoS mechanism, botnets can be turned against any IP address. <link>
 Script kiddies</link> use them to deny the availability of well known websites to legitimate users.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> More sophisticated attackers use DDoS tools for the purposes of <link xlink:type="simple" xlink:href="../449/162449.xml">
-extortion</link> &mdash; even against their business rivals.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref></p>
+extortion</link> — even against their business rivals.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref></p>
 <p>
 
 It is important to note the difference between a DDoS and DoS attack. If an attacker mounts a smurf attack from a single host it would be classified as a DoS attack. In fact, any attack against availability would be classed as a Denial of Service attack. On the other hand, if an attacker uses a thousand zombie systems to simultaneously launch smurf attacks against a remote host, this would be classified as a DDoS attack.</p>
@@ -1095,7 +1095,7 @@ Vaughn, Randal and Evron, Gadi (2006), <it><weblink xlink:type="simple" xlink:hr
 DNS Amplification Attacks</weblink>''</it></entry>
 <entry id="15">
 "<weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/2/hi/business/6108502.stm">
-YouTube sued by sound-alike site</weblink>", <it>BBC News</it>&#32;(2006-11-02).&nbsp;</entry>
+YouTube sued by sound-alike site</weblink>", <it>BBC News</it>&#32;(2006-11-02). </entry>
 <entry id="17">
 <weblink xlink:type="simple" xlink:href="http://www.honeynet.org/reverse">
 Honeynet Project Reverse Challenge</weblink></entry>

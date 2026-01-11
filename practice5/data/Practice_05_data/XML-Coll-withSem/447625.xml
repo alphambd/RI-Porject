@@ -226,7 +226,7 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite id="CITEREFRoth1982" style="font-style:normal">Roth, Scott D.&#32;(February 1982),&#32;"Ray Casting for Modeling Solids",&#32;<it>Computer Graphics and Image Processing</it>&#32;<b>18</b>:  109-144</cite>&nbsp;</entry>
+ <cite id="CITEREFRoth1982" style="font-style:normal">Roth, Scott D.&#32;(February 1982),&#32;"Ray Casting for Modeling Solids",&#32;<it>Computer Graphics and Image Processing</it>&#32;<b>18</b>:  109-144</cite> </entry>
 <entry id="2">
    <cite id="CITEREFWoopSchmittlerSlusallek" style="font-style:normal">Woop, Sven; Schmittler, Jörg&#32;&amp;&#32;Slusallek, Philipp,&#32;"RPU: A Programmable Ray Processing Unit for Realtime Ray Tracing",&#32;<it>SIGGRAPH 2005</it>, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -236,11 +236,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F1073204.1073211">
-10.1145/1073204.1073211</weblink></cite>&nbsp;</entry>
+10.1145/1073204.1073211</weblink></cite> </entry>
 <entry id="3">
  <cite id="CITEREFFoleyvan_DamFeinerHughes1995" style="font-style:normal"><link>
 Foley, James D.</link>; <link>
-van Dam, Andries</link>; Feiner, Steven K.&#32;&amp;&#32;Hughes, John F.&#32;(1995),&#32;<it>Computer Graphis: Principles and Practice</it>, Addison-Wesley, pp. 701, ISBN 0-201-84840-6</cite>&nbsp;</entry>
+van Dam, Andries</link>; Feiner, Steven K.&#32;&amp;&#32;Hughes, John F.&#32;(1995),&#32;<it>Computer Graphis: Principles and Practice</it>, Addison-Wesley, pp. 701, ISBN 0-201-84840-6</cite> </entry>
 <entry id="4">
 For example,  <cite id="CITEREFBoulos" style="font-style:normal">Boulos, Solomon,&#32;"Notes on efficient ray tracing",&#32;<it>SIGGRAPH 2005 Courses</it>, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -250,7 +250,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F1198555.1198749">
-10.1145/1198555.1198749</weblink></cite>&nbsp;</entry>
+10.1145/1198555.1198749</weblink></cite> </entry>
 <entry id="5">
 <weblink xlink:type="simple" xlink:href="http://nccastaff.bournemouth.ac.uk/jmacey/CGF/slides/RayTracing4up.pdf">
 "Ray-tracing and other Rendering Approaches"</weblink> (PDF), lecture notes, MSc Computer Animation and Visual Effects, Jon Macey, <link xlink:type="simple" xlink:href="../396/703396.xml">

@@ -62,7 +62,7 @@ The algorithm</st>
 <p>
 
 The algorithm starts accordingly with the <link xlink:type="simple" xlink:href="../220/6220.xml">
-circle</link> equation <it>x</it>2&nbsp;+&nbsp;<it>y</it>2&nbsp;=&nbsp;<it>r</it>2. We consider first only the first octant  and draw a curve which starts at point (r,0) and proceeds to the top right, reaching the angle of 45°.</p>
+circle</link> equation <it>x</it>2 + <it>y</it>2 = <it>r</it>2. We consider first only the first octant  and draw a curve which starts at point (r,0) and proceeds to the top right, reaching the angle of 45°.</p>
 <p>
 
 The "fast" direction here is the y direction. The algorithm always does a step in the positive y direction (upwards), and every now and then also has to do a step in the "slow" direction, the negative x direction.</p>
@@ -74,14 +74,14 @@ trigonometric</link> expressions or <link xlink:type="simple" xlink:href="../208
 square root</link>s can again be avoided by dissolving everything into single steps and recursive computation of the quadratic terms from the preceding ones.</p>
 <p>
 
-From the circle equation we obtain the transformed equation 0=x²+y²-r², with r² to be computed only a single time during initialization, <it>x</it>2&nbsp;=&nbsp;(xpreceding&nbsp;&amp;minus;&nbsp;1)2&nbsp;=&nbsp;xpreceding2&nbsp;&amp;minus;&nbsp;2&nbsp;&amp;times;&nbsp;xpreceding&nbsp;+&nbsp;1 (according for <it>y</it>), where <it>x</it>2 (or xpreceding2) is kept as an own variable. Additionally we need to add the mid point coordinates when setting a pixel. These frequent integer additions do not limit the <link xlink:type="simple" xlink:href="../801/225801.xml">
+From the circle equation we obtain the transformed equation 0=x²+y²-r², with r² to be computed only a single time during initialization, <it>x</it>2 = (xpreceding &amp;minus; 1)2 = xpreceding2 &amp;minus; 2 &amp;times; xpreceding + 1 (according for <it>y</it>), where <it>x</it>2 (or xpreceding2) is kept as an own variable. Additionally we need to add the mid point coordinates when setting a pixel. These frequent integer additions do not limit the <link xlink:type="simple" xlink:href="../801/225801.xml">
 performance</link> much, as we can spare those square (root) computations in the inner loop in turn. Again the zero in the transformed circle equation is replaced by the error term.</p>
 <p>
 
 The initialization of the error term is derived from an offset of ½ pixel at the start. Until the intersection with the perpendicular line, this leads to an accumulated value of r in the error term, so that this value is used for initialization.</p>
 <p>
 
-A possible implementation of the Bresenham Algorithm for a full circle in C. Here another variable for recursive computation of the quadratic terms is used, which corresponds with the term 2<it>n</it>&nbsp;+&nbsp;1 above. It just has to be increased by 2 from one step to the next:</p>
+A possible implementation of the Bresenham Algorithm for a full circle in C. Here another variable for recursive computation of the quadratic terms is used, which corresponds with the term 2<it>n</it> + 1 above. It just has to be increased by 2 from one step to the next:</p>
 
 <p>
 

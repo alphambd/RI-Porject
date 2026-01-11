@@ -67,7 +67,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lm.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lm.html">
 LM</weblink>)</company_type>
 <operating_income>
 US$1.043 billion (year ending <link xlink:type="simple" xlink:href="../587/20587.xml">
@@ -137,7 +137,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lm.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lm.html">
 LM</weblink>) is a leading Global Asset Management Firm that serves the institutional, mutual fund and wealth management markets.  The firm is headquartered in <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../582/36582.xml">
 Baltimore, Maryland</link></village>

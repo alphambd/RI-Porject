@@ -229,7 +229,7 @@ Secretary of the Air Force</link></secretary>
 </leader>
 </person>
 </physical_entity>
-&nbsp;· <physical_entity wordnetid="100001930" confidence="0.8">
+ · <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -240,7 +240,7 @@ Chief of Staff</link></head>
 </leader>
 </person>
 </physical_entity>
-&nbsp;· <choice wordnetid="100161243" confidence="0.8">
+ · <choice wordnetid="100161243" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -255,7 +255,7 @@ Vice Chief of Staff</link></appointment>
 </action>
 </event>
 </choice>
-&nbsp;· <skilled_worker wordnetid="110605985" confidence="0.8">
+ · <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <noncommissioned_officer wordnetid="110360747" confidence="0.8">
@@ -297,11 +297,11 @@ Organization</link></col>
 <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../416/1253416.xml">
 Reserve</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.8">
+ · <military_unit wordnetid="108198398" confidence="0.8">
 <link xlink:type="simple" xlink:href="../572/265572.xml">
 Air National Guard</link></military_unit>
-&nbsp;· <link xlink:type="simple" xlink:href="../061/5922061.xml">
-Field Operating Agencies</link>&nbsp;· <link xlink:type="simple" xlink:href="../064/322064.xml">
+ · <link xlink:type="simple" xlink:href="../061/5922061.xml">
+Field Operating Agencies</link> · <link xlink:type="simple" xlink:href="../064/322064.xml">
 Installations</link></p>
 </col>
 </row>
@@ -319,8 +319,8 @@ Direct reporting units</link></military_unit>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../587/77587.xml">
 USAF Academy</link></university>
-&nbsp;· <link xlink:type="simple" xlink:href="../736/4557736.xml">
-District of Washington</link>&nbsp;· <link xlink:type="simple" xlink:href="../900/8691900.xml">
+ · <link xlink:type="simple" xlink:href="../736/4557736.xml">
+District of Washington</link> · <link xlink:type="simple" xlink:href="../900/8691900.xml">
 Operational Test and Evaluation Center</link></p>
 </col>
 </row>
@@ -336,26 +336,26 @@ Major commands</link>:''</it></col>
 <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../901/193901.xml">
 Air Combat</link></military_unit>
-&nbsp;· <link xlink:type="simple" xlink:href="../287/1249287.xml">
-Air Education and Training</link>&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../287/1249287.xml">
+Air Education and Training</link> · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../306/1250306.xml">
 Materiel</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../049/586049.xml">
 Space</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../745/843745.xml">
 Special Operations</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../921/391921.xml">
 Air Mobility</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../851/7875851.xml">
 Cyber</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/1044264.xml">
 Pacific</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../868/1030868.xml">
 Europe</link></military_unit>
 </p>
@@ -373,63 +373,63 @@ Numbered air force</link>s:''</it></col>
 <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../007/464007.xml">
 First</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../009/464009.xml">
 Second</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../016/464016.xml">
 Third</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../021/464021.xml">
 Fourth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../024/464024.xml">
 Fifth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../026/464026.xml">
 Seventh</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/464027.xml">
 Eighth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../029/464029.xml">
 Ninth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../030/464030.xml">
 Tenth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../717/2221717.xml">
 Eleventh</link></military_unit>
-&nbsp;· <link xlink:type="simple" xlink:href="../040/464040.xml">
-Twelfth</link>&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../040/464040.xml">
+Twelfth</link> · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/464043.xml">
 Thirteenth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../046/464046.xml">
 Fourteenth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../076/9160076.xml">
 Seventeenth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../049/464049.xml">
 Eighteenth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../050/464050.xml">
 Nineteenth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../120/2513120.xml">
 Twentieth</link></military_unit>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../058/464058.xml">
 Twenty-Second</link></military_unit>
-&nbsp;· <power wordnetid="105190804" confidence="0.8">
+ · <power wordnetid="105190804" confidence="0.8">
 <influence wordnetid="105194151" confidence="0.8">
 <force wordnetid="105194578" confidence="0.8">
 <link xlink:type="simple" xlink:href="../996/15704996.xml">
 Twenty-Third</link></force>
 </influence>
 </power>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../532/16337532.xml">
 Twenty Fourth</link></military_unit>
 </p>
@@ -443,11 +443,11 @@ Twenty Fourth</link></military_unit>
 
 <link xlink:type="simple" xlink:href="../302/2912302.xml">
 Wings</link> (<link xlink:type="simple" xlink:href="../510/16410510.xml">
-ANG</link>)&nbsp;· <link xlink:type="simple" xlink:href="../494/3449494.xml">
+ANG</link>) · <link xlink:type="simple" xlink:href="../494/3449494.xml">
 Groups</link> (<link xlink:type="simple" xlink:href="../510/16410510.xml">
-ANG</link>)&nbsp;· <link xlink:type="simple" xlink:href="../021/474021.xml">
+ANG</link>) · <link xlink:type="simple" xlink:href="../021/474021.xml">
 Squadrons</link> (<link xlink:type="simple" xlink:href="../992/17011992.xml">
-ANG</link>)&nbsp;· Civilian <link xlink:type="simple" xlink:href="../888/1568888.xml">
+ANG</link>) · Civilian <link xlink:type="simple" xlink:href="../888/1568888.xml">
 auxiliary</link>: <link xlink:type="simple" xlink:href="../059/14298059.xml">
 Civil Air Patrol</link></p>
 </col>
@@ -463,29 +463,29 @@ Civil Air Patrol</link></p>
 Personnel and training</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../524/5221524.xml">
-People</link>&nbsp;· Rank: <link xlink:type="simple" xlink:href="../057/552057.xml">
+People</link> · Rank: <link xlink:type="simple" xlink:href="../057/552057.xml">
 Officers</link> / <link xlink:type="simple" xlink:href="../560/550560.xml">
-enlisted</link>&nbsp;· <link xlink:type="simple" xlink:href="../172/1667172.xml">
-Air Force Specialty Code</link>&nbsp;· <power wordnetid="105190804" confidence="0.8">
+enlisted</link> · <link xlink:type="simple" xlink:href="../172/1667172.xml">
+Air Force Specialty Code</link> · <power wordnetid="105190804" confidence="0.8">
 <influence wordnetid="105194151" confidence="0.8">
 <force wordnetid="105194578" confidence="0.8">
 <link xlink:type="simple" xlink:href="../018/2259018.xml">
 Pararescue</link></force>
 </influence>
 </power>
-&nbsp;· <link xlink:type="simple" xlink:href="../803/756803.xml">
+ · <link xlink:type="simple" xlink:href="../803/756803.xml">
 Judge Advocate General's Corps</link>
 Training: <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../587/77587.xml">
 USAF Academy</link></university>
-&nbsp;· <link xlink:type="simple" xlink:href="../584/1430584.xml">
-Officer Training School</link>&nbsp;· <airport wordnetid="102692232" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../584/1430584.xml">
+Officer Training School</link> · <airport wordnetid="102692232" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../875/405875.xml#xpointer(//*[./st=%22Basic+training%22])">
 Basic Military Training</link></airport>
-&nbsp;· <skill wordnetid="105637558" confidence="0.8">
+ · <skill wordnetid="105637558" confidence="0.8">
 <link xlink:type="simple" xlink:href="../533/2203533.xml">
 SERE</link></skill>
-&nbsp;· <link xlink:type="simple" xlink:href="../320/18073320.xml">
+ · <link xlink:type="simple" xlink:href="../320/18073320.xml">
 USAF Fitness Test</link></col>
 </row>
 <row style="height:2px">
@@ -508,15 +508,15 @@ Uniforms</link></covering>
 </uniform>
 </commodity>
 </artifact>
-&nbsp;· <link xlink:type="simple" xlink:href="../160/2104160.xml">
-Awards</link>&nbsp;· <symbol wordnetid="106806469" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../160/2104160.xml">
+Awards</link> · <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <link xlink:type="simple" xlink:href="../952/1529952.xml">
 Badges</link></signal>
 </award>
 </symbol>
-&nbsp;· <link xlink:type="simple" xlink:href="../xas/Richardson=2C_T$exas.xml">
+ · <link xlink:type="simple" xlink:href="../xas/Richardson=2C_T$exas.xml">
 List of military aircraft of the United States</link></col>
 </row>
 <row style="height:2px">
@@ -527,7 +527,7 @@ List of military aircraft of the United States</link></col>
 History and traditions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../061/9895061.xml">
-History</link>&nbsp;· <link xlink:type="simple" xlink:href="../917/662917.xml">
+History</link> · <link xlink:type="simple" xlink:href="../917/662917.xml">
 Army Air Service</link>/<unit_of_measurement wordnetid="113583724" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
 <link xlink:type="simple" xlink:href="../250/147250.xml">
@@ -536,7 +536,7 @@ Corps</link></definite_quantity>
 /<military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../248/147248.xml">
 Forces</link></military_unit>
-&nbsp;· <it><music wordnetid="107020895" confidence="0.8">
+ · <it><music wordnetid="107020895" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
 <musical_composition wordnetid="107037465" confidence="0.8">
@@ -545,10 +545,10 @@ The U.S. Air Force</link></musical_composition>
 </auditory_communication>
 </song>
 </music>
-</it>&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+</it> · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../821/1897821.xml#xpointer(//*[./st=%22Air+Force+Band%22])">
 Air Force Band</link></military_unit>
-&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+ · <artifact wordnetid="100021939" confidence="0.8">
 <flag wordnetid="103354903" confidence="0.8">
 <emblem wordnetid="103282591" confidence="0.8">
 <decoration wordnetid="103169390" confidence="0.8">
@@ -559,15 +559,15 @@ Flag</link></design>
 </emblem>
 </flag>
 </artifact>
-&nbsp;· <symbol wordnetid="106806469" confidence="0.8">
+ · <symbol wordnetid="106806469" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <link xlink:type="simple" xlink:href="../925/3748925.xml">
 Symbol</link></signal>
 </symbol>
-&nbsp;· <museum wordnetid="103800563" confidence="0.9508927676800064">
+ · <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../462/571462.xml">
 National Museum</link></museum>
-&nbsp;· <message wordnetid="106598915" confidence="0.8">
+ · <message wordnetid="106598915" confidence="0.8">
 <memorial wordnetid="106688522" confidence="0.8">
 <recognition wordnetid="106688274" confidence="0.8">
 <approval wordnetid="106686736" confidence="0.8">
@@ -576,15 +576,15 @@ Memorial</link></approval>
 </recognition>
 </memorial>
 </message>
-&nbsp;· <aviation wordnetid="108433727" confidence="0.9508927676800064">
+ · <aviation wordnetid="108433727" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../475/148475.xml">
 Air Force One</link></aviation>
-&nbsp;· <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ · <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../984/182984.xml">
 Thunderbirds</link></military_unit>
-&nbsp;· <link xlink:type="simple" xlink:href="../022/14170022.xml">
-Airman's Creed</link>&nbsp;· <link xlink:type="simple" xlink:href="../500/3715500.xml">
-Honor Guard</link>&nbsp;· <link xlink:type="simple" xlink:href="../843/10099843.xml">
+ · <link xlink:type="simple" xlink:href="../022/14170022.xml">
+Airman's Creed</link> · <link xlink:type="simple" xlink:href="../500/3715500.xml">
+Honor Guard</link> · <link xlink:type="simple" xlink:href="../843/10099843.xml">
 Air Force Blues</link></col>
 </row>
 </table>

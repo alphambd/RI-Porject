@@ -336,7 +336,7 @@ The Eleventh Hour for Riau's Forests</weblink></entry>
 <weblink xlink:type="simple" xlink:href="http://www.suarapembaruan.com/News/2008/03/22/Editor/edit02.htm">
 Riau, Provinsi yang Maju Pesat</weblink></entry>
 <entry id="3">
- <cite style="font-style:normal" class="book">&#32;(2003) Indonesia's Population: Ethnicity and Religion in a Changing Political Landscape.&#32;Institute of Southeast Asian Studies.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">&#32;(2003) Indonesia's Population: Ethnicity and Religion in a Changing Political Landscape.&#32;Institute of Southeast Asian Studies.</cite> </entry>
 </reflist>
 </p>
 <p>
@@ -382,7 +382,7 @@ Regencies</col>
 <regency wordnetid="115298995" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../700/1987700.xml">
 Bengkalis</link></regency>
-&nbsp;&#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ &#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <duration wordnetid="115133621" confidence="0.8">
 <regency wordnetid="115298995" confidence="0.8">
@@ -393,7 +393,7 @@ Indragiri Hilir</link></rule>
 </duration>
 </time_period>
 </fundamental_quantity>
-&nbsp;&#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ &#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <duration wordnetid="115133621" confidence="0.8">
 <regency wordnetid="115298995" confidence="0.8">
@@ -404,10 +404,10 @@ Indragiri Hulu</link></rule>
 </duration>
 </time_period>
 </fundamental_quantity>
-&nbsp;&#124; <regency wordnetid="115298995" confidence="0.9508927676800064">
+ &#124; <regency wordnetid="115298995" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../835/7506835.xml">
 Kampar</link></regency>
-&nbsp;&#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ &#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <duration wordnetid="115133621" confidence="0.8">
 <regency wordnetid="115298995" confidence="0.8">
@@ -418,7 +418,7 @@ Kuantan Singingi</link></rule>
 </duration>
 </time_period>
 </fundamental_quantity>
-&nbsp;&#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ &#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <duration wordnetid="115133621" confidence="0.8">
 <regency wordnetid="115298995" confidence="0.8">
@@ -429,7 +429,7 @@ Pelalawan</link></rule>
 </duration>
 </time_period>
 </fundamental_quantity>
-&nbsp;&#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ &#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <duration wordnetid="115133621" confidence="0.8">
 <regency wordnetid="115298995" confidence="0.8">
@@ -440,7 +440,7 @@ Rokan Hulu</link></rule>
 </duration>
 </time_period>
 </fundamental_quantity>
-&nbsp;&#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ &#124; <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <duration wordnetid="115133621" confidence="0.8">
 <regency wordnetid="115298995" confidence="0.8">
@@ -451,7 +451,7 @@ Rokan Hilir</link></rule>
 </duration>
 </time_period>
 </fundamental_quantity>
-&nbsp;&#124; <regency wordnetid="115298995" confidence="0.9508927676800064">
+ &#124; <regency wordnetid="115298995" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../927/7506927.xml">
 Siak</link></regency>
 </col>
@@ -488,7 +488,7 @@ Dumai</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;&#124; <city wordnetid="108524735" confidence="0.9508927676800064">
+ &#124; <city wordnetid="108524735" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../721/773721.xml">
 Pekanbaru</link></city>
 </col>
@@ -505,23 +505,23 @@ Islands</col>
 <link xlink:type="simple" xlink:href="../459/11739459.xml">
 Rupat</link></island>
 </land>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../057/12868057.xml">
-Bengkalis</link>&nbsp;&#124; <land wordnetid="109334396" confidence="0.8">
+ &#124; <link xlink:type="simple" xlink:href="../057/12868057.xml">
+Bengkalis</link> &#124; <land wordnetid="109334396" confidence="0.8">
 <island wordnetid="109316454" confidence="0.8">
 <link xlink:type="simple" xlink:href="../259/12120259.xml">
 Padang</link></island>
 </land>
-&nbsp;&#124; <land wordnetid="109334396" confidence="0.8">
+ &#124; <land wordnetid="109334396" confidence="0.8">
 <island wordnetid="109316454" confidence="0.8">
 <link xlink:type="simple" xlink:href="../398/11826398.xml">
 Rangsang</link></island>
 </land>
-&nbsp;&#124; <land wordnetid="109334396" confidence="0.8">
+ &#124; <land wordnetid="109334396" confidence="0.8">
 <island wordnetid="109316454" confidence="0.8">
 <link xlink:type="simple" xlink:href="../954/13228954.xml">
 Tebing Tinggi Island</link></island>
 </land>
-&nbsp;&#124; <link xlink:type="simple" xlink:href="../633/13532633.xml">
+ &#124; <link xlink:type="simple" xlink:href="../633/13532633.xml">
 Basu</link></col>
 </row>
 </table>
@@ -567,31 +567,31 @@ Sumatra</link></island>
 <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../625/170625.xml">
 Aceh</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../595/453595.xml">
 North Sumatra</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../590/453590.xml">
 West Sumatra</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../711/453711.xml">
 Bengkulu</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../699/262699.xml">
 Riau</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../745/453745.xml">
 Riau Islands</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../709/453709.xml">
 Jambi</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../666/453666.xml">
 South Sumatra</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../705/453705.xml">
 Lampung</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../714/453714.xml">
 Bangka-Belitung Islands</link></state>
 </col>
@@ -615,19 +615,19 @@ Java</link></col>
 <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../275/16275.xml">
 Jakarta</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../356/314356.xml">
 West Java</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../290/82290.xml">
 Banten</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/453584.xml">
 Central Java</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/164149.xml">
 Yogyakarta</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/320443.xml">
 East Java</link></state>
 </col>
@@ -643,13 +643,13 @@ Kalimantan</link></col>
 <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../636/453636.xml">
 West Kalimantan</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../643/453643.xml">
 Central Kalimantan</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../639/453639.xml">
 South Kalimantan</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../651/453651.xml">
 East Kalimantan</link></state>
 </col>
@@ -667,10 +667,10 @@ Lesser Sunda Islands</link></island>
 <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../147/4147.xml">
 Bali</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../731/453731.xml">
 West Nusa Tenggara</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../728/453728.xml">
 East Nusa Tenggara</link></state>
 </col>
@@ -688,19 +688,19 @@ Sulawesi</link></island>
 <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../775/1110775.xml">
 West Sulawesi</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../688/453688.xml">
 North Sulawesi</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../454/355454.xml">
 Central Sulawesi</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/389458.xml">
 South Sulawesi</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../690/453690.xml">
 South East Sulawesi</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../683/453683.xml">
 Gorontalo</link></state>
 </col>
@@ -722,13 +722,13 @@ New Guinea</link></island>
 <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../321/984321.xml">
 Maluku</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../682/453682.xml">
 North Maluku</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../269/593269.xml">
 West Papua</link></state>
-&nbsp;·  <state wordnetid="108654360" confidence="0.9508927676800064">
+ ·  <state wordnetid="108654360" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../199/15199.xml">
 Papua</link></state>
 </col>

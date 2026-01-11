@@ -130,7 +130,7 @@ eStream page on Salsa20</weblink></entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../007/49007.xml">
+ <link xlink:type="simple" xlink:href="../007/49007.xml">
 Stream cipher</link>s</header>
 </row>
 <row style="height:2px;">
@@ -148,13 +148,13 @@ A5/1</link></system_of_measurement>
 </cipher>
 </standard>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../816/543816.xml">
 A5/2</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -170,7 +170,7 @@ E0</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <amount wordnetid="105107765" confidence="0.8">
 <magnitude wordnetid="105090441" confidence="0.8">
@@ -184,19 +184,19 @@ FISH</link></cipher>
 </magnitude>
 </amount>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../390/2710390.xml">
 Grain</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../087/4546087.xml">
 HC-256</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -212,91 +212,91 @@ ISAAC</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../225/1508225.xml">
 MUGI</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../789/4170789.xml">
-Panama</link>&nbsp;&#124; 
+Panama</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../596/883596.xml">
 Phelix</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../128/294128.xml">
 Pike</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../084/3955084.xml">
 Py</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../998/15603998.xml">
  QUAD </link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../952/4565952.xml">
 Rabbit</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../831/25831.xml">
 RC4</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../329/2701329.xml">
 Salsa20</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../011/4159011.xml">
 Scream</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../108/294108.xml">
 SEAL</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../325/8648325.xml">
 SOBER</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../280/1080280.xml">
 SOBER-128</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../152/4546152.xml">
 SOSEMANUK</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../653/2620653.xml">
 Trivium</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../536/2613536.xml">
-VEST</link>&nbsp;&#124; 
+VEST</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../287/599287.xml">
@@ -312,15 +312,15 @@ WAKE</link></cipher>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Theory:</b> <link xlink:type="simple" xlink:href="../699/41699.xml">
-Shift register</link>&nbsp;&#124; 
+Shift register</link> &#124; 
 <link xlink:type="simple" xlink:href="../992/58992.xml">
-LFSR</link>&nbsp;&#124; 
+LFSR</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../481/2613481.xml">
 NLFSR</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -336,7 +336,7 @@ Shrinking generator</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -346,7 +346,7 @@ T-function</link></primitive>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../971/105971.xml">
 IV</link></p>
 </col>
@@ -377,7 +377,7 @@ eSTREAM</link></cipher>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

@@ -168,8 +168,8 @@ irrationality of the square root of two</link>.</p>
 The principle of mathematical induction states that:
 Let  <it>N</it> = { 1, 2, 3, 4, ... } be the set of natural numbers and <b><it>P(</it></b><b>n<it>)</it></b> be a mathematical statement involving the natural number <it>n</it> belonging to <b>N</b> such that
 <b><it>(i)</it></b> <it>P</it>(1) is true, ie, <it>P</it>(<it>n</it>) is true for <it>n</it> = 1
-<b><it>(ii)</it></b> <it>P</it>(<it>m</it>&nbsp;+&nbsp;1) is true whenever <it>P</it>(<it>m</it>) is true, ie, <it>P</it>(<it>m</it>) is true implies that 
-<it>P</it>(<it>m</it>&nbsp;+&nbsp;1) is true.
+<b><it>(ii)</it></b> <it>P</it>(<it>m</it> + 1) is true whenever <it>P</it>(<it>m</it>) is true, ie, <it>P</it>(<it>m</it>) is true implies that 
+<it>P</it>(<it>m</it> + 1) is true.
 <b>Then <it>P</it></b><b>(<it>n</it></b><b>) is true for all natural numbers <it>n</it></b><b>.</b></p>
 <p>
 
@@ -326,7 +326,7 @@ Visual proof</st>
 <caption>
 
 Visual proof for the (3, 4, 5) triangle as in the <link xlink:type="simple" xlink:href="../715/6131715.xml">
-Chou Pei Suan Ching</link> 500–200&nbsp;BC.
+Chou Pei Suan Ching</link> 500–200 BC.
 </caption>
 </image>
 
@@ -803,7 +803,7 @@ Logic</link></header>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;History and core topics</header>
+ History and core topics</header>
 </row>
 <row style="height:2px;">
 
@@ -816,10 +816,10 @@ Logic</link></header>
 History</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../945/59945.xml">
-General</link>&nbsp;·  <link xlink:type="simple" xlink:href="../752/1978752.xml">
-Chinese</link>&nbsp;·  <link xlink:type="simple" xlink:href="../019/499019.xml">
-Greek</link>&nbsp;·  <link xlink:type="simple" xlink:href="../980/2015980.xml">
-Indian</link>&nbsp;·  <link xlink:type="simple" xlink:href="../133/1978133.xml">
+General</link> ·  <link xlink:type="simple" xlink:href="../752/1978752.xml">
+Chinese</link> ·  <link xlink:type="simple" xlink:href="../019/499019.xml">
+Greek</link> ·  <link xlink:type="simple" xlink:href="../980/2015980.xml">
+Indian</link> ·  <link xlink:type="simple" xlink:href="../133/1978133.xml">
 Islamic</link></col>
 </row>
 <row style="height:2px">
@@ -830,17 +830,17 @@ Islamic</link></col>
 Core topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;  width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../446/42446.xml">
-Reason</link>&nbsp;·  <link xlink:type="simple" xlink:href="../939/304939.xml">
-Philosophical logic</link>&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+Reason</link> ·  <link xlink:type="simple" xlink:href="../939/304939.xml">
+Philosophical logic</link> ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <branch wordnetid="108401248" confidence="0.8">
 <link xlink:type="simple" xlink:href="../317/1251317.xml">
 Philosophy of logic</link></branch>
 </administrative_unit>
 </division>
-&nbsp;·  <link xlink:type="simple" xlink:href="../636/19636.xml">
-Mathematical logic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../934/387934.xml">
-Metalogic</link>&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../636/19636.xml">
+Mathematical logic</link> ·  <link xlink:type="simple" xlink:href="../934/387934.xml">
+Metalogic</link> ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../991/1151991.xml">
 Logic in computer science</link></method>
@@ -861,7 +861,7 @@ Logic in computer science</link></method>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Key concepts and logics</header>
+ Key concepts and logics</header>
 </row>
 <row style="height:2px;">
 
@@ -875,8 +875,8 @@ Logic in computer science</link></method>
 Reasoning</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../093/61093.xml">
-Deduction</link>&nbsp;·  <link xlink:type="simple" xlink:href="../736/393736.xml">
-Induction</link>&nbsp;·  <link xlink:type="simple" xlink:href="../459/60459.xml">
+Deduction</link> ·  <link xlink:type="simple" xlink:href="../736/393736.xml">
+Induction</link> ·  <link xlink:type="simple" xlink:href="../459/60459.xml">
 Abduction</link></col>
 </row>
 <row style="height:2px">
@@ -888,21 +888,21 @@ Abduction</link></col>
 Informal</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../094/81094.xml">
-Proposition</link>&nbsp;·  <link xlink:type="simple" xlink:href="../465/317465.xml">
-Inference</link>&nbsp;·  <link xlink:type="simple" xlink:href="../310/13018310.xml">
-Argument</link>&nbsp;·  <link xlink:type="simple" xlink:href="../366/32366.xml">
-Validity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../296/5296.xml">
-Cogency</link>&nbsp;·  <link xlink:type="simple" xlink:href="../652/321652.xml">
-Term logic</link>&nbsp;·  <qualification wordnetid="104717139" confidence="0.8">
+Proposition</link> ·  <link xlink:type="simple" xlink:href="../465/317465.xml">
+Inference</link> ·  <link xlink:type="simple" xlink:href="../310/13018310.xml">
+Argument</link> ·  <link xlink:type="simple" xlink:href="../366/32366.xml">
+Validity</link> ·  <link xlink:type="simple" xlink:href="../296/5296.xml">
+Cogency</link> ·  <link xlink:type="simple" xlink:href="../652/321652.xml">
+Term logic</link> ·  <qualification wordnetid="104717139" confidence="0.8">
 <fitness wordnetid="104716864" confidence="0.8">
 <suitability wordnetid="104715487" confidence="0.8">
 <link xlink:type="simple" xlink:href="../872/276872.xml">
 Critical thinking</link></suitability>
 </fitness>
 </qualification>
-&nbsp;·  <link xlink:type="simple" xlink:href="../986/53986.xml">
-Fallacies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../046/48046.xml">
-Syllogism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../383/1317383.xml">
+ ·  <link xlink:type="simple" xlink:href="../986/53986.xml">
+Fallacies</link> ·  <link xlink:type="simple" xlink:href="../046/48046.xml">
+Syllogism</link> ·  <link xlink:type="simple" xlink:href="../383/1317383.xml">
 Argumentation theory</link></col>
 </row>
 <row style="height:2px">
@@ -933,20 +933,20 @@ Platonic realism</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../529/622529.xml">
-Logical atomism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../672/350672.xml">
-Logicism</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../529/622529.xml">
+Logical atomism</link> ·  <link xlink:type="simple" xlink:href="../672/350672.xml">
+Logicism</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../863/324863.xml">
 Formalism</link></concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../176/21176.xml">
+ ·  <link xlink:type="simple" xlink:href="../176/21176.xml">
 Nominalism</link> 
-&nbsp;·  <link xlink:type="simple" xlink:href="../731/1535731.xml">
-Fictionalism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../121/1271121.xml">
-Realism</link>&nbsp;·   <link xlink:type="simple" xlink:href="../513/19513.xml">
-Intuitionism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../059/21059.xml">
-Constructivism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../900/152900.xml">
+ ·  <link xlink:type="simple" xlink:href="../731/1535731.xml">
+Fictionalism</link> ·  <link xlink:type="simple" xlink:href="../121/1271121.xml">
+Realism</link> ·   <link xlink:type="simple" xlink:href="../513/19513.xml">
+Intuitionism</link> ·  <link xlink:type="simple" xlink:href="../059/21059.xml">
+Constructivism</link> ·  <link xlink:type="simple" xlink:href="../900/152900.xml">
 Finitism</link></col>
 </row>
 <row style="height:2px">
@@ -958,51 +958,51 @@ Finitism</link></col>
 Mathematical</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../939/10939.xml">
-Formal language</link>&nbsp;·  <language wordnetid="106282651" confidence="0.8">
+Formal language</link> ·  <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../716/18020716.xml">
 Formal grammar</link></language>
-&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+ ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../102/396102.xml">
 Formal system</link></language>
 </method>
 </know-how>
-&nbsp;·  <language wordnetid="106282651" confidence="0.8">
+ ·  <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../822/15285822.xml">
 Deductive system</link></language>
-&nbsp;·  <language wordnetid="106282651" confidence="0.8">
+ ·  <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../184/1197184.xml">
 Formal proof</link></language>
-&nbsp;·  <language wordnetid="106282651" confidence="0.8">
+ ·  <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../968/693968.xml">
 Formal interpretation</link></language>
-&nbsp;·  <link xlink:type="simple" xlink:href="../888/909888.xml">
-Formal semantics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../382/4230382.xml">
-Formula</link>&nbsp;·  <link xlink:type="simple" xlink:href="../582/404582.xml">
-Wff</link>&nbsp;·  <link xlink:type="simple" xlink:href="../691/26691.xml">
-Set</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../888/909888.xml">
+Formal semantics</link> ·  <link xlink:type="simple" xlink:href="../382/4230382.xml">
+Formula</link> ·  <link xlink:type="simple" xlink:href="../582/404582.xml">
+Wff</link> ·  <link xlink:type="simple" xlink:href="../691/26691.xml">
+Set</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../629/682629.xml">
 Element</link></concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../696/20696.xml">
-Class</link>&nbsp;·  <link xlink:type="simple" xlink:href="../928/928.xml">
-Axiom</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../696/20696.xml">
+Class</link> ·  <link xlink:type="simple" xlink:href="../928/928.xml">
+Axiom</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <rule wordnetid="105846054" confidence="0.8">
 <link xlink:type="simple" xlink:href="../311/252311.xml">
 Rule of inference</link></rule>
 </concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../509/19509.xml">
-Relation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../977/30977.xml">
-Theorem</link>&nbsp;·  <link xlink:type="simple" xlink:href="../361/3674361.xml">
-Logical consequence</link>&nbsp;·  <link xlink:type="simple" xlink:href="../802/75802.xml">
-Consistency</link>&nbsp;·  <link xlink:type="simple" xlink:href="../819/26819.xml">
-Soundness</link>&nbsp;·  <link xlink:type="simple" xlink:href="../054/56054.xml">
-Completeness</link>&nbsp;·  <link xlink:type="simple" xlink:href="../118/913118.xml">
-Decidability</link>&nbsp;·  <condition wordnetid="113920835" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../509/19509.xml">
+Relation</link> ·  <link xlink:type="simple" xlink:href="../977/30977.xml">
+Theorem</link> ·  <link xlink:type="simple" xlink:href="../361/3674361.xml">
+Logical consequence</link> ·  <link xlink:type="simple" xlink:href="../802/75802.xml">
+Consistency</link> ·  <link xlink:type="simple" xlink:href="../819/26819.xml">
+Soundness</link> ·  <link xlink:type="simple" xlink:href="../054/56054.xml">
+Completeness</link> ·  <link xlink:type="simple" xlink:href="../118/913118.xml">
+Decidability</link> ·  <condition wordnetid="113920835" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
@@ -1015,26 +1015,26 @@ Satisfiability</link></difficulty>
 </state>
 </know-how>
 </condition>
-&nbsp;·  <link xlink:type="simple" xlink:href="../208/1141208.xml">
-Independence</link>&nbsp;·  <link xlink:type="simple" xlink:href="../553/27553.xml">
-Set theory</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../208/1141208.xml">
+Independence</link> ·  <link xlink:type="simple" xlink:href="../553/27553.xml">
+Set theory</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../401/188401.xml">
 Axiomatic system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../478/183478.xml">
-Proof theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../858/19858.xml">
-Model theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../414/155414.xml">
-Recursion theory</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../478/183478.xml">
+Proof theory</link> ·  <link xlink:type="simple" xlink:href="../858/19858.xml">
+Model theory</link> ·  <link xlink:type="simple" xlink:href="../414/155414.xml">
+Recursion theory</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../282/40282.xml">
 Type theory</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <language wordnetid="106282651" confidence="0.8">
+ ·  <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../039/546039.xml">
 Syntax</link></language>
 </col>
@@ -1048,11 +1048,11 @@ Syntax</link></language>
 Propositional</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../349/753349.xml">
-Boolean function</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../680/8015680.xml">
-Monadic predicate calculus</link>&nbsp;·  <link xlink:type="simple" xlink:href="../154/18154.xml">
-Propositional calculus</link>&nbsp;·  <link xlink:type="simple" xlink:href="../153/18153.xml">
-Logical connective</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../806/228806.xml">
-Quantifiers</link>&nbsp;·  <arrangement wordnetid="107938773" confidence="0.8">
+Boolean function</link>s ·  <link xlink:type="simple" xlink:href="../680/8015680.xml">
+Monadic predicate calculus</link> ·  <link xlink:type="simple" xlink:href="../154/18154.xml">
+Propositional calculus</link> ·  <link xlink:type="simple" xlink:href="../153/18153.xml">
+Logical connective</link>s ·  <link xlink:type="simple" xlink:href="../806/228806.xml">
+Quantifiers</link> ·  <arrangement wordnetid="107938773" confidence="0.8">
 <table wordnetid="108266235" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <array wordnetid="107939382" confidence="0.8">
@@ -1084,8 +1084,8 @@ Predicate</link></instrumentality>
 First-order</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../806/228806.xml">
-Quantifiers</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../806/228806.xml">
+Quantifiers</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../428/341428.xml">
@@ -1103,11 +1103,11 @@ Second-order</link></instrumentality>
 Modal</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../365/333365.xml#xpointer(//*[./st=%22Alethic+modalities%22])">
-Alethic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../714/3832714.xml#xpointer(//*[./st=%22Axiological%22])">
-Axiologic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../980/1343980.xml">
-Deontic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../590/12065590.xml">
-Doxastic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../197/3827197.xml">
-Epistemic</link>&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+Alethic</link> ·  <link xlink:type="simple" xlink:href="../714/3832714.xml#xpointer(//*[./st=%22Axiological%22])">
+Axiologic</link> ·  <link xlink:type="simple" xlink:href="../980/1343980.xml">
+Deontic</link> ·  <link xlink:type="simple" xlink:href="../590/12065590.xml">
+Doxastic</link> ·  <link xlink:type="simple" xlink:href="../197/3827197.xml">
+Epistemic</link> ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../481/321481.xml">
 Temporal</link></method>
@@ -1130,10 +1130,10 @@ classical</link></col>
 Computability</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../180/49180.xml">
-Fuzzy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../675/579675.xml">
-Linear</link>&nbsp;·  <link xlink:type="simple" xlink:href="../076/185076.xml">
-Relevance</link>&nbsp;·  <link xlink:type="simple" xlink:href="../086/341086.xml">
+ ·  <link xlink:type="simple" xlink:href="../180/49180.xml">
+Fuzzy</link> ·  <link xlink:type="simple" xlink:href="../675/579675.xml">
+Linear</link> ·  <link xlink:type="simple" xlink:href="../076/185076.xml">
+Relevance</link> ·  <link xlink:type="simple" xlink:href="../086/341086.xml">
 Non-monotonic</link></col>
 </row>
 </table>
@@ -1150,7 +1150,7 @@ Non-monotonic</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Controversies</header>
+ Controversies</header>
 </row>
 <row style="height:2px;">
 
@@ -1164,17 +1164,17 @@ Non-monotonic</link></col>
 Paraconsistent logic</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../359/591359.xml">
-Dialetheism</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../359/591359.xml">
+Dialetheism</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../262/169262.xml">
 Intuitionistic logic</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../390/24390.xml">
-Paradox</link>es&nbsp;·  <link xlink:type="simple" xlink:href="../175/3175.xml">
-Antinomies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../402/1166402.xml">
+ ·  <link xlink:type="simple" xlink:href="../390/24390.xml">
+Paradox</link>es ·  <link xlink:type="simple" xlink:href="../175/3175.xml">
+Antinomies</link> ·  <link xlink:type="simple" xlink:href="../402/1166402.xml">
 Is logic empirical?</link></col>
 </row>
 </table>
@@ -1188,7 +1188,7 @@ Is logic empirical?</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Key figures</header>
+ Key figures</header>
 </row>
 <row style="height:2px;">
 
@@ -1198,35 +1198,35 @@ Is logic empirical?</link></col>
 <scholar wordnetid="110557854" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../040/175040.xml">
 Alfarabi</link></scholar>
-&nbsp;·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
+ ·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../607/146607.xml">
 Algazel</link></philosopher>
-&nbsp;·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
+ ·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../065/272065.xml">
 Alkindus</link></philosopher>
-&nbsp;·  <scholar wordnetid="110557854" confidence="0.9508927676800064">
+ ·  <scholar wordnetid="110557854" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../595/326595.xml">
 Al-Razi</link></scholar>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../308/308.xml">
 Aristotle</link></philosopher>
 </person>
-&nbsp;·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
+ ·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../836/47836.xml">
 Averroes</link></philosopher>
-&nbsp;·  <scholar wordnetid="110557854" confidence="0.9508927676800064">
+ ·  <scholar wordnetid="110557854" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../130/1130.xml">
 Avicenna</link></scholar>
-&nbsp;·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
+ ·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/38298.xml">
 Boole</link></philosopher>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../216/12216.xml">
 Cantor</link></scientist>
 </person>
-&nbsp;·  <citizen wordnetid="109923673" confidence="0.8">
+ ·  <citizen wordnetid="109923673" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <disbeliever wordnetid="110015897" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1255,10 +1255,10 @@ Carnap</link></scholar>
 </disbeliever>
 </physical_entity>
 </citizen>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../731/49731.xml">
 Church</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
@@ -1279,13 +1279,13 @@ Dharmakirti</link></scholar>
 </communicator>
 </expert>
 </physical_entity>
-&nbsp;·  <link>
-Dignāga</link>&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <link>
+Dignāga</link> ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../416/48416.xml">
 Frege</link></philosopher>
 </person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1308,7 +1308,7 @@ Gentzen</link></educator>
 </person>
 </expert>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <mentor wordnetid="110309496" confidence="0.8">
 <sage wordnetid="110546202" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
@@ -1329,26 +1329,26 @@ Kanada</link></scholar>
 </sage>
 </mentor>
 </physical_entity>
-&nbsp;·  <link>
-Gödel</link>&nbsp;·  <link>
-Gotama</link>&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <link>
+Gödel</link> ·  <link>
+Gotama</link> ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../302/8302.xml">
 Hilbert</link></scientist>
 </person>
-&nbsp;·  <scholar wordnetid="110557854" confidence="0.9508927676800064">
+ ·  <scholar wordnetid="110557854" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../527/2426527.xml">
 Ibn al-Nafis</link></scholar>
-&nbsp;·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
+ ·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../830/1467830.xml">
 Ibn Hazm</link></philosopher>
-&nbsp;·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
+ ·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../074/272074.xml">
 Ibn Taymiyyah</link></philosopher>
-&nbsp;·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
+ ·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../039/48039.xml">
 Kripke</link></philosopher>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <physicist wordnetid="110428004" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1365,7 +1365,7 @@ Mozi</link></scholar>
 </philosopher>
 </physicist>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1392,34 +1392,34 @@ Nagarjuna</link></scholar>
 </philosopher>
 </person>
 </physical_entity>
-&nbsp;·  <link>
-Pāṇini</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+Pāṇini</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13043.xml">
 Peano</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../117/6117.xml">
 Peirce</link></scientist>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../233/75233.xml">
 Putnam</link></philosopher>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../833/33833.xml">
 Quine</link></philosopher>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../163/4163.xml">
 Russell</link></philosopher>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../765/453765.xml">
 Skolem</link></scientist>
 </person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1434,7 +1434,7 @@ Suhrawardi</link></scholar>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <citizen wordnetid="109923673" confidence="0.8">
+ ·  <citizen wordnetid="109923673" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <disbeliever wordnetid="110015897" confidence="0.8">
@@ -1465,17 +1465,17 @@ Tarski</link></scholar>
 </physical_entity>
 </expert>
 </citizen>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../208/1208.xml">
 Turing</link></scientist>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../395/43395.xml">
 Whitehead</link></philosopher>
 </person>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../155/201155.xml">
 Zadeh</link></scientist>
 </col>
@@ -1491,7 +1491,7 @@ Zadeh</link></scientist>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Lists</header>
+ Lists</header>
 </row>
 <row style="height:2px;">
 
@@ -1504,10 +1504,10 @@ Zadeh</link></scientist>
 Topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../178/302178.xml">
-General</link>&nbsp;·  <link xlink:type="simple" xlink:href="../271/6306271.xml">
-Basic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../167/346167.xml">
-Mathematical logic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../872/794872.xml">
-Boolean algebra</link>&nbsp;·  <link xlink:type="simple" xlink:href="../448/2059448.xml">
+General</link> ·  <link xlink:type="simple" xlink:href="../271/6306271.xml">
+Basic</link> ·  <link xlink:type="simple" xlink:href="../167/346167.xml">
+Mathematical logic</link> ·  <link xlink:type="simple" xlink:href="../872/794872.xml">
+Boolean algebra</link> ·  <link xlink:type="simple" xlink:href="../448/2059448.xml">
 Set theory</link></col>
 </row>
 <row style="height:2px">
@@ -1518,10 +1518,10 @@ Set theory</link></col>
 Other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em; width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../213/356213.xml">
-Logicians</link>&nbsp;·  <link xlink:type="simple" xlink:href="../285/354285.xml">
-Rules of inference</link>&nbsp;·  <link xlink:type="simple" xlink:href="../201/3575201.xml">
-Paradoxes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../940/8042940.xml">
-Fallacies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../388/2498388.xml">
+Logicians</link> ·  <link xlink:type="simple" xlink:href="../285/354285.xml">
+Rules of inference</link> ·  <link xlink:type="simple" xlink:href="../201/3575201.xml">
+Paradoxes</link> ·  <link xlink:type="simple" xlink:href="../940/8042940.xml">
+Fallacies</link> ·  <link xlink:type="simple" xlink:href="../388/2498388.xml">
 Logic symbols</link></col>
 </row>
 </table>
@@ -1536,10 +1536,10 @@ Logic symbols</link></col>
 <row>
 <col colspan="2" style=";" class="navbox-abovebelow">
 
-Portal&nbsp;·  
-Logic|Category&nbsp;·  &nbsp;·  
-Logic stubs|Logic stubs&nbsp;·  
-Mathematical logic stubs|Mathlogic stubs&nbsp;·  &nbsp;·  </col>
+Portal ·  
+Logic|Category ·   ·  
+Logic stubs|Logic stubs ·  
+Mathematical logic stubs|Mathlogic stubs ·   ·  </col>
 </row>
 </table>
 </col>

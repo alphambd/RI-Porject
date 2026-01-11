@@ -42,7 +42,7 @@ yes</physical_characteristics>
 -115 <link xlink:type="simple" xlink:href="../040/19593040.xml">
 C</link></mean_temp_2>
 <discovery_ref>
-&nbsp;<weblink xlink:type="simple" xlink:href="http://cfa-www.harvard.edu/iau/lists/NumberedMPs.html">
+ <weblink xlink:type="simple" xlink:href="http://cfa-www.harvard.edu/iau/lists/NumberedMPs.html">
 http://cfa-www.harvard.edu/iau/lists/NumberedMPs.html</weblink></discovery_ref>
 <mean_temp_1>
 ~158 <link xlink:type="simple" xlink:href="../121/19593121.xml">
@@ -72,7 +72,7 @@ variable; ~ 35−40 m/s</escape_velocity>
 yes</temperatures>
 <mp_category>
 <link xlink:type="simple" xlink:href="../264/47264.xml">
-Main belt</link>&nbsp;(<link xlink:type="simple" xlink:href="../760/1443760.xml">
+Main belt</link> (<link xlink:type="simple" xlink:href="../760/1443760.xml">
 Themis family</link>)</mp_category>
 <aphelion>
 545.753 Gm3.648 AU</aphelion>
@@ -151,7 +151,7 @@ FFFFC0</entry>
 </list>
 </bgcolour>
 <orbit_ref>
-&nbsp;<weblink xlink:type="simple" xlink:href="http://asteroid.lowell.edu">
+ <weblink xlink:type="simple" xlink:href="http://asteroid.lowell.edu">
 http://asteroid.lowell.edu</weblink></orbit_ref>
 <temp_name2>
 <unit_of_measurement wordnetid="113583724" confidence="0.8">
@@ -369,7 +369,7 @@ References</st>
 <reflist>
 <entry id="1">
  <cite style="font-style:normal">F. Marchis, F. Descamps, P. Hestroffer, and I. de Pater&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2004DPS....36.4602M&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=444b66a47d22122">
-Fine Analysis of 121 Hermione, 45 Eugenia, and 90 Antiope Binary Asteroid Systems With AO Observations</weblink>". <it>Bulletin of the American Astronomical Society</it>&#32;<b>36</b>: 1180.</cite>&nbsp;</entry>
+Fine Analysis of 121 Hermione, 45 Eugenia, and 90 Antiope Binary Asteroid Systems With AO Observations</weblink>". <it>Bulletin of the American Astronomical Society</it>&#32;<b>36</b>: 1180.</cite> </entry>
 <entry id="2">
 <weblink xlink:type="simple" xlink:href="http://cfa-www.harvard.edu/iauc/07500/07503.html#Item3">
 IAUC 7503</weblink></entry>
@@ -388,7 +388,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1051%2F0004-6361%3A20040449">
-10.1051/0004-6361:20040449</weblink>.</cite>&nbsp;</entry>
+10.1051/0004-6361:20040449</weblink>.</cite> </entry>
 <entry id="6">
 <weblink xlink:type="simple" xlink:href="http://www.psi.edu/pds/resource/taxonomy.html">
 PDS spectral class data</weblink></entry>
@@ -484,9 +484,9 @@ navigator</link></header>
 <planet wordnetid="109394007" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../872/737872.xml">
 89 Julia</link></planet>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       ·      
 <b>90 Antiope</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <planet wordnetid="109394007" confidence="0.9508927676800064">
+      ·       <planet wordnetid="109394007" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../892/737892.xml">
 91 Aegina</link></planet>
 </p>
@@ -516,18 +516,18 @@ Small Solar System bodies</link></header>
 <col colspan="2" style="width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../791/791.xml">
 Asteroid</link>s (<link xlink:type="simple" xlink:href="../584/21584.xml">
-Near-Earth</link>&nbsp;·  <link xlink:type="simple" xlink:href="../264/47264.xml">
-Main belt</link>&nbsp;·  <link xlink:type="simple" xlink:href="../409/7108409.xml">
-Jupiter Trojan</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../274/172274.xml">
-Centaur</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../441/587441.xml">
-Damocloid</link>s&nbsp;·  <group wordnetid="100031264" confidence="0.8">
+Near-Earth</link> ·  <link xlink:type="simple" xlink:href="../264/47264.xml">
+Main belt</link> ·  <link xlink:type="simple" xlink:href="../409/7108409.xml">
+Jupiter Trojan</link>s ·  <link xlink:type="simple" xlink:href="../274/172274.xml">
+Centaur</link>s ·  <link xlink:type="simple" xlink:href="../441/587441.xml">
+Damocloid</link>s ·  <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../956/3062956.xml">
 Neptune Trojan</link></group>
-s&nbsp;·  <link xlink:type="simple" xlink:href="../143/47143.xml">
-Groups</link>&nbsp;·  <group wordnetid="100031264" confidence="0.8">
+s ·  <link xlink:type="simple" xlink:href="../143/47143.xml">
+Groups</link> ·  <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../091/897091.xml">
 Families</link></group>
-&nbsp;·   <satellite wordnetid="104137444" confidence="0.8">
+ ·   <satellite wordnetid="104137444" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -537,10 +537,10 @@ Moons</link></equipment>
 </artifact>
 </satellite>
 )<link xlink:type="simple" xlink:href="../962/5962.xml">
-Comet</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../549/30549.xml">
+Comet</link>s ·  <link xlink:type="simple" xlink:href="../549/30549.xml">
 Trans-Neptunian</link>s (<link xlink:type="simple" xlink:href="../796/16796.xml">
-Kuiper belt</link>&nbsp;·  <link xlink:type="simple" xlink:href="../753/2719753.xml">
-Scattered disc object</link>s&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+Kuiper belt</link> ·  <link xlink:type="simple" xlink:href="../753/2719753.xml">
+Scattered disc object</link>s ·  <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <discovery wordnetid="100043195" confidence="0.8">
@@ -549,8 +549,8 @@ Oort cloud</link></discovery>
 </psychological_feature>
 </act>
 </event>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../425/17001425.xml">
-Minor planet</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../793/63793.xml">
+) ·  <link xlink:type="simple" xlink:href="../425/17001425.xml">
+Minor planet</link>s ·  <link xlink:type="simple" xlink:href="../793/63793.xml">
 Meteoroid</link>s</col>
 </row>
 <row style="height:2px;">
@@ -560,12 +560,12 @@ Meteoroid</link>s</col>
 <col colspan="2" style=";background:lavender; line-height:1.2em;" class="navbox-abovebelow">
 <b>Lists:</b> <link xlink:type="simple" xlink:href="../075/521075.xml">
 Minor planets</link>
-&nbsp;·  
-Asteroid groups and families|Asteroid groups and families&nbsp;·  
-Binary asteroids|Binary asteroids&nbsp;·  <link xlink:type="simple" xlink:href="../466/3834466.xml">
+ ·  
+Asteroid groups and families|Asteroid groups and families ·  
+Binary asteroids|Binary asteroids ·  <link xlink:type="simple" xlink:href="../466/3834466.xml">
 Asteroid moons</link> 
 <b>See also:</b> <link xlink:type="simple" xlink:href="../626/21626.xml">
-Near-Earth object</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+Near-Earth object</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -576,10 +576,10 @@ Dwarf planet</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../915/22915.xml">
-Planet</link>&nbsp;· <link xlink:type="simple" xlink:href="../903/26903.xml">
-Solar System</link>&nbsp;· <link xlink:type="simple" xlink:href="../072/1560072.xml">
-Pronunciation of asteroid names</link>&nbsp;·  <link xlink:type="simple" xlink:href="../058/940058.xml">
+ ·  <link xlink:type="simple" xlink:href="../915/22915.xml">
+Planet</link> · <link xlink:type="simple" xlink:href="../903/26903.xml">
+Solar System</link> · <link xlink:type="simple" xlink:href="../072/1560072.xml">
+Pronunciation of asteroid names</link> ·  <link xlink:type="simple" xlink:href="../058/940058.xml">
 Meanings of asteroid names</link>.</col>
 </row>
 </table>

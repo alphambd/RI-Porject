@@ -884,7 +884,7 @@ All teams are based in the <image width="22x20px" src="Flag_of_the_United_States
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -923,7 +923,7 @@ BMC Racing Team</link></team>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../041/23041.xml">
 Puerto Rico</link></country>
 </entry>
@@ -936,7 +936,7 @@ Calyon - Litespeed Pro Cycling Team</link> <image width="22x20px" src="Flag_of_C
 border 
 </caption>
 </image>
-&nbsp;<region wordnetid="108630039" confidence="0.9508927676800064">
+ <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
 </entry>
@@ -1006,7 +1006,7 @@ Symmetrics Professional Cycling Team</link></team>
 border 
 </caption>
 </image>
-&nbsp;<region wordnetid="108630039" confidence="0.9508927676800064">
+ <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
 </entry>
@@ -1019,7 +1019,7 @@ Team CSC</link> <image width="22x20px" src="Flag_of_Denmark.svg">
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/76972.xml">
 Denmark</link></country>
 </entry>
@@ -1036,7 +1036,7 @@ Tecos de la Universidad de Guadalajara</link> <image width="22x20px" src="Flag_o
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -1069,7 +1069,7 @@ T-Mobile Team</link> <image width="22x20px" src="Flag_of_Germany.svg">
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/11867.xml">
 Germany</link></country>
 </entry>
@@ -1088,7 +1088,7 @@ All teams are based in the <image width="22x20px" src="Flag_of_the_United_States
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -1118,7 +1118,7 @@ United States</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -1150,7 +1150,7 @@ United Kingdom</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../041/23041.xml">
 Puerto Rico</link></country>
 </entry>
@@ -1163,7 +1163,7 @@ Calyon - Litespeed Pro Cycling Team</link> <image width="22x20px" src="Flag_of_C
 border 
 </caption>
 </image>
-&nbsp;<region wordnetid="108630039" confidence="0.9508927676800064">
+ <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
 </entry>
@@ -1178,7 +1178,7 @@ Canada</link></region>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../222/5222.xml">
 Colombia</link></country>
 </entry>
@@ -1216,7 +1216,7 @@ Navigators Insurance Cycling Team</link></team>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../148/21148.xml">
@@ -1247,7 +1247,7 @@ Symmetrics Professional Cycling Team</link></team>
 border 
 </caption>
 </image>
-&nbsp;<region wordnetid="108630039" confidence="0.9508927676800064">
+ <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
 </entry>
@@ -1263,7 +1263,7 @@ Team CSC</link> <image width="22x20px" src="Flag_of_Denmark.svg">
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/76972.xml">
 Denmark</link></country>
 </entry>
@@ -1278,7 +1278,7 @@ Denmark</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/11867.xml">
 Germany</link></country>
 </entry>

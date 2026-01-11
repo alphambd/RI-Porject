@@ -55,7 +55,7 @@ The OSI Model</link></system_of_measurement>
 </row>
 <row style="background:#ccffcc">
 <col>
- <b>7.&nbsp;<message wordnetid="106598915" confidence="0.8">
+ <b>7. <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -138,7 +138,7 @@ Telnet</link></col>
 </row>
 <row style="background:#ccffcc">
 <col>
- <b>6.&nbsp;<message wordnetid="106598915" confidence="0.8">
+ <b>6. <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -191,7 +191,7 @@ TLS</link></system_of_measurement>
 </row>
 <row style="background:#ccffcc">
 <col>
- <b>5.&nbsp;<message wordnetid="106598915" confidence="0.8">
+ <b>5. <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -245,7 +245,7 @@ SIP</link></rule>
 </row>
 <row style="background:#ccffcc">
 <col>
- <b>4.&nbsp;<message wordnetid="106598915" confidence="0.8">
+ <b>4. <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -267,7 +267,7 @@ UDP</link> &middot;  <link>
 </row>
 <row style="background:#ccffcc">
 <col>
- <b>3.&nbsp;<message wordnetid="106598915" confidence="0.8">
+ <b>3. <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -319,7 +319,7 @@ EIGRP</link></rule>
 </row>
 <row style="background:#ccffcc">
 <col>
- <b>2.&nbsp;<message wordnetid="106598915" confidence="0.8">
+ <b>2. <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -350,7 +350,7 @@ PPP</link></system_of_measurement>
 </row>
 <row style="background:#ccffcc">
 <col>
- <b>1.&nbsp;<link xlink:type="simple" xlink:href="../300/78300.xml">
+ <b>1. <link xlink:type="simple" xlink:href="../300/78300.xml">
 Physical Layer</link></b></col>
 </row>
 <row>

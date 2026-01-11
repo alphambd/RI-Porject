@@ -65,7 +65,7 @@ ambox-style" style=""</col>
 <col style="" class="mbox-text">
  <b>This article or section needs  for  grammar, style, cohesion, tone or spelling.</b>
 You can assist by <weblink xlink:type="simple" xlink:href="http://localhost:18088/wiki/index.php?title=Kadir_Brady_saliency_detector&amp;action=edit">
-editing it</weblink> now. A how-to is available.<it>&nbsp;(March 2008)''</it></col>
+editing it</weblink> now. A how-to is available.<it> (March 2008)''</it></col>
 </row>
 </table>
 
@@ -496,31 +496,31 @@ A comparison of affine region detectors. K. Mikolajczyk, T. Tuytelaars, C. Schmi
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">A. Baumberg&#32;(2000). "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/baumberg00reliable.html">
-Reliable feature matching across widely separated views</weblink>".&#32;<it>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition</it>: pages I:1774--1781.</cite>&nbsp;</entry>
+Reliable feature matching across widely separated views</weblink>".&#32;<it>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition</it>: pages I:1774--1781.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">J. Matas, O. Chum, M. Urban, and T. Pajdla&#32;(2002). "Robust wide baseline stereo from maximally stable extremal regions".&#32;<it>Proceedings of British Machine Vision Conference</it>: pages 384–393.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">J. Matas, O. Chum, M. Urban, and T. Pajdla&#32;(2002). "Robust wide baseline stereo from maximally stable extremal regions".&#32;<it>Proceedings of British Machine Vision Conference</it>: pages 384–393.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">K. Mikolajczyk and C. Schmid&#32;(2002). "An aﬃne invariant interest point detector".&#32;<it>Proceedings of European Conference on Computer Vision</it>.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">K. Mikolajczyk and C. Schmid&#32;(2002). "An aﬃne invariant interest point detector".&#32;<it>Proceedings of European Conference on Computer Vision</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">F. Schaﬀalitzky and A. Zisserman&#32;(2002). "Multi-view matching for unordered image sets, or “How do I organize my holiday snaps?”".&#32;<it>Proceedings of European Conference on Computer Vision</it>: 414–431.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">F. Schaﬀalitzky and A. Zisserman&#32;(2002). "Multi-view matching for unordered image sets, or “How do I organize my holiday snaps?”".&#32;<it>Proceedings of European Conference on Computer Vision</it>: 414–431.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">T. Tuytelaars and L. Van Gool&#32;(2000). "Wide baseline stereo based on local, aﬃnely invariant regions".&#32;<it>Proceedings of British Machine Vision Conference</it>: 412–422.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">T. Tuytelaars and L. Van Gool&#32;(2000). "Wide baseline stereo based on local, aﬃnely invariant regions".&#32;<it>Proceedings of British Machine Vision Conference</it>: 412–422.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">S. Agarwal and D. Roth&#32;(2002). "Learning a sparse representation for object detection".&#32;<it>Proceedings of European Conference on Computer Vision</it>: 113–130.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">S. Agarwal and D. Roth&#32;(2002). "Learning a sparse representation for object detection".&#32;<it>Proceedings of European Conference on Computer Vision</it>: 113–130.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">E. Borenstein and S. Ullman&#32;(2002). "Class-speciﬁc, top-down segmentation".&#32;<it>Proceedings of European Conference on Computer Vision</it>: 109–124.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">E. Borenstein and S. Ullman&#32;(2002). "Class-speciﬁc, top-down segmentation".&#32;<it>Proceedings of European Conference on Computer Vision</it>: 109–124.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">R. Fergus, P. Perona, and A. Zisserman&#32;(2003). "Object class recognition by unsupervised scale-invariant learning".&#32;<it>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition</it>: II:264–271.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">R. Fergus, P. Perona, and A. Zisserman&#32;(2003). "Object class recognition by unsupervised scale-invariant learning".&#32;<it>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition</it>: II:264–271.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">M. Weber, M. Welling, and P. Perona&#32;(June 20002). "Unsupervised learning of models for recognition".&#32;<it>Proceedings of European Conference on Computer Vision</it>.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">M. Weber, M. Welling, and P. Perona&#32;(June 20002). "Unsupervised learning of models for recognition".&#32;<it>Proceedings of European Conference on Computer Vision</it>.</cite> </entry>
 </list>
 </p>
 

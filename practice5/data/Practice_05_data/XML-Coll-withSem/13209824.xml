@@ -168,7 +168,7 @@ Real-time access to remote content will depend the type of media being retrieved
 <entry level="1" type="bullet">
 
  Since bots work in the background, they are generally not used for isochronous communication in which the sender and receiver must interact, so round-trip-time is less of a consideration. ( <cite id="CITEREFCroll1999" style="font-style:normal">Croll, Alistair&#32;(1999),&#32;<it><weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=ByYOAAAACAAJ&amp;dq=Managing+Bandwidth&amp;ei=3qjnRpiEIafUowKRhPh6">
-Managing Bandwidth: Deploying QoS in Enterprise Networks</weblink></it>, New York, NY: Prentice Hall, </cite>&nbsp;)</entry>
+Managing Bandwidth: Deploying QoS in Enterprise Networks</weblink></it>, New York, NY: Prentice Hall, </cite> )</entry>
 </list>
 </p>
 

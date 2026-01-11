@@ -778,10 +778,10 @@ Main articles</col>
 Botnet</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../010/6010.xml">
-Computer worms</link>&nbsp;·  <link xlink:type="simple" xlink:href="../901/20901.xml">
-Malware</link>&nbsp;·  <link xlink:type="simple" xlink:href="../607/1569607.xml">
-Malbot</link>&nbsp;·  </col>
+ ·  <link xlink:type="simple" xlink:href="../010/6010.xml">
+Computer worms</link> ·  <link xlink:type="simple" xlink:href="../901/20901.xml">
+Malware</link> ·  <link xlink:type="simple" xlink:href="../607/1569607.xml">
+Malbot</link> ·  </col>
 </row>
 <row style="height:2px">
 
@@ -797,14 +797,14 @@ Notable botnets</col>
 Storm botnet</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../240/16810240.xml">
 Kraken botnet</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../772/18511772.xml">

@@ -300,7 +300,7 @@ Hopfield net</link>.</p>
 <p>
 
 In a neural network model simple <link xlink:type="simple" xlink:href="../771/349771.xml">
-nodes</link>, which can be called variously "neurons", "neurodes", "Processing Elements" (PE) or "units", are connected together to form a network of nodes &mdash; hence the term "neural network". While a neural network does not have to be adaptive <it>per se</it>, its practical use comes with algorithms designed to alter the strength (weights) of the connections in the network to produce a desired signal flow.</p>
+nodes</link>, which can be called variously "neurons", "neurodes", "Processing Elements" (PE) or "units", are connected together to form a network of nodes — hence the term "neural network". While a neural network does not have to be adaptive <it>per se</it>, its practical use comes with algorithms designed to alter the strength (weights) of the connections in the network to produce a desired signal flow.</p>
 <p>
 
 In modern <link xlink:type="simple" xlink:href="../924/3712924.xml">
@@ -780,15 +780,15 @@ You can  this article by introducing more precise citations .</col>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Arbib, Michael A. (Ed.)&#32;(1995). The Handbook of Brain Theory and Neural Networks.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Arbib, Michael A. (Ed.)&#32;(1995). The Handbook of Brain Theory and Neural Networks.</cite> </entry>
 <entry level="1" type="bullet">
 
  Alspector, <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4874963">
 U.S. Patent 4,874,963</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4874963">
-&nbsp;</weblink> "<it>Neuromorphic learning networks</it>". October 17, 1989.</entry>
+ </weblink> "<it>Neuromorphic learning networks</it>". October 17, 1989.</entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Agre, Philip E., et al.&#32;(1997). Comparative Cognitive Robotics: Computation and Human Experience.&#32;Cambridge University Press. ISBN 0-521-38603-9.</cite>&nbsp;, p. 80</entry>
+ <cite style="font-style:normal" class="book">Agre, Philip E., et al.&#32;(1997). Comparative Cognitive Robotics: Computation and Human Experience.&#32;Cambridge University Press. ISBN 0-521-38603-9.</cite> , p. 80</entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -809,7 +809,7 @@ Yaneer Bar-Yam</link></educator>
 </person>
 </physical_entity>
 &#32;(2003). <weblink xlink:type="simple" xlink:href="http://necsi.org/publications/dcs/Bar-YamChap2.pdf">
-Dynamics of Complex Systems, Chapter 2</weblink>.</cite>&nbsp;</entry>
+Dynamics of Complex Systems, Chapter 2</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -830,7 +830,7 @@ Yaneer Bar-Yam</link></educator>
 </person>
 </physical_entity>
 &#32;(2003). <weblink xlink:type="simple" xlink:href="http://necsi.org/publications/dcs/Bar-YamChap3.pdf">
-Dynamics of Complex Systems, Chapter 3</weblink>.</cite>&nbsp;</entry>
+Dynamics of Complex Systems, Chapter 3</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -851,17 +851,17 @@ Yaneer Bar-Yam</link></educator>
 </person>
 </physical_entity>
 &#32;(2005). <weblink xlink:type="simple" xlink:href="http://necsi.org/publications/mtw/">
-Making Things Work</weblink>.</cite>&nbsp; See chapter 3.</entry>
+Making Things Work</weblink>.</cite>  See chapter 3.</entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Bertsekas, Dimitri P.&#32;(1999). Nonlinear Programming.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Bertsekas, Dimitri P.&#32;(1999). Nonlinear Programming.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Bertsekas, Dimitri P. &amp; Tsitsiklis, John N.&#32;(1996). Neuro-dynamic Programming.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Bertsekas, Dimitri P. &amp; Tsitsiklis, John N.&#32;(1996). Neuro-dynamic Programming.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Bhadeshia H. K. D. H.&#32;(1992).&#32;"<weblink xlink:type="simple" xlink:href="http://www.msm.cam.ac.uk/phase-trans/abstracts/neural.review.pdf">
-Neural Networks in Materials Science</weblink>". <it>ISIJ International</it>&#32;<b>39</b>: 966&ndash;979. <document wordnetid="106470073" confidence="0.8">
+Neural Networks in Materials Science</weblink>". <it>ISIJ International</it>&#32;<b>39</b>: 966–979. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -869,17 +869,17 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2355%2Fisijinternational.39.966">
-10.2355/isijinternational.39.966</weblink>.</cite>&nbsp;</entry>
+10.2355/isijinternational.39.966</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book">Boyd, Stephen &amp; Vandenberghe, Lieven&#32;(2004). <weblink xlink:type="simple" xlink:href="http://www.stanford.edu/~boyd/cvxbook/">
-Convex Optimization</weblink>.</cite>&nbsp;</entry>
+Convex Optimization</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Dewdney, A. K.&#32;(1997). Yes, We Have No Neutrons: An Eye-Opening Tour through the Twists and Turns of Bad Science.&#32;Wiley, 192 pp.</cite>&nbsp;  See chapter 5.</entry>
+ <cite style="font-style:normal" class="book">Dewdney, A. K.&#32;(1997). Yes, We Have No Neutrons: An Eye-Opening Tour through the Twists and Turns of Bad Science.&#32;Wiley, 192 pp.</cite>   See chapter 5.</entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Egmont-Petersen, M., de Ridder, D., Handels, H.&#32;(2002).&#32;"Image processing with neural networks - a review". <it>Pattern Recognition</it>&#32;<b>35</b>: 2279&ndash;2301. <document wordnetid="106470073" confidence="0.8">
+  <cite style="font-style:normal">Egmont-Petersen, M., de Ridder, D., Handels, H.&#32;(2002).&#32;"Image processing with neural networks - a review". <it>Pattern Recognition</it>&#32;<b>35</b>: 2279–2301. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -887,10 +887,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0031-3203%2801%2900178-9">
-10.1016/S0031-3203(01)00178-9</weblink>.</cite>&nbsp;</entry>
+10.1016/S0031-3203(01)00178-9</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Fukushima, K.&#32;(1975).&#32;"Cognitron: A Self-Organizing Multilayered Neural Network". <it>Biological Cybernetics</it>&#32;<b>20</b>: 121&ndash;136. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Fukushima, K.&#32;(1975).&#32;"Cognitron: A Self-Organizing Multilayered Neural Network". <it>Biological Cybernetics</it>&#32;<b>20</b>: 121–136. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -898,10 +898,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF00342633">
-10.1007/BF00342633</weblink>.</cite>&nbsp;</entry>
+10.1007/BF00342633</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Frank, Michael J.&#32;(2005).&#32;"Dynamic Dopamine Modulation in the Basal Ganglia: A Neurocomputational Account of Cognitive Deficits in Medicated and Non-medicated Parkinsonism". <it>Journal of Cognitive Neuroscience</it>&#32;<b>17</b>: 51&ndash;72. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Frank, Michael J.&#32;(2005).&#32;"Dynamic Dopamine Modulation in the Basal Ganglia: A Neurocomputational Account of Cognitive Deficits in Medicated and Non-medicated Parkinsonism". <it>Journal of Cognitive Neuroscience</it>&#32;<b>17</b>: 51–72. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -909,10 +909,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1162%2F0898929052880093">
-10.1162/0898929052880093</weblink>.</cite>&nbsp;</entry>
+10.1162/0898929052880093</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Gardner, E.J., &amp; Derrida, B.&#32;(1988).&#32;"Optimal storage properties of neural network models". <it>Journal of Physics a</it>&#32;<b>21</b>: 271&ndash;284. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Gardner, E.J., &amp; Derrida, B.&#32;(1988).&#32;"Optimal storage properties of neural network models". <it>Journal of Physics a</it>&#32;<b>21</b>: 271–284. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -920,10 +920,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1088%2F0305-4470%2F21%2F1%2F031">
-10.1088/0305-4470/21/1/031</weblink>.</cite>&nbsp;</entry>
+10.1088/0305-4470/21/1/031</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Krauth, W., &amp; Mezard, M.&#32;(1989).&#32;"Storage capacity of memory with binary couplings". <it>Journal de Physique</it>&#32;<b>50</b>: 3057&ndash;3066. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Krauth, W., &amp; Mezard, M.&#32;(1989).&#32;"Storage capacity of memory with binary couplings". <it>Journal de Physique</it>&#32;<b>50</b>: 3057–3066. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -931,27 +931,27 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1051%2Fjphys%3A0198900500200305700">
-10.1051/jphys:0198900500200305700</weblink>.</cite>&nbsp;</entry>
+10.1051/jphys:0198900500200305700</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Maass, W., &amp; Markram, H.&#32;(2002).&#32;"<weblink xlink:type="simple" xlink:href="http://www.igi.tugraz.at/maass/publications.html">
-On the computational power of recurrent circuits of spiking neurons</weblink>". <it>Journal of Computer and System Sciences</it>&#32;<b>69(4)</b>: 593&ndash;616.</cite>&nbsp;</entry>
+On the computational power of recurrent circuits of spiking neurons</weblink>". <it>Journal of Computer and System Sciences</it>&#32;<b>69(4)</b>: 593–616.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book">MacKay, David&#32;(2003). <weblink xlink:type="simple" xlink:href="http://www.inference.phy.cam.ac.uk/mackay/itprnn/book.html">
-Information Theory, Inference, and Learning Algorithms</weblink>.</cite>&nbsp;</entry>
+Information Theory, Inference, and Learning Algorithms</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Mandic, D. &amp; Chambers, J.&#32;(2001). Recurrent Neural Networks for Prediction: Architectures, Learning algorithms and Stability.&#32;Wiley.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Mandic, D. &amp; Chambers, J.&#32;(2001). Recurrent Neural Networks for Prediction: Architectures, Learning algorithms and Stability.&#32;Wiley.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Minsky, M. &amp; Papert, S.&#32;(1969). An Introduction to Computational Geometry.&#32;MIT Press.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Minsky, M. &amp; Papert, S.&#32;(1969). An Introduction to Computational Geometry.&#32;MIT Press.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Muller, P. &amp; Insua, D.R.&#32;(1995).&#32;"Issues in Bayesian Analysis of Neural Network Models". <it>Neural Computation</it>&#32;<b>10</b>: 571&ndash;592.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Muller, P. &amp; Insua, D.R.&#32;(1995).&#32;"Issues in Bayesian Analysis of Neural Network Models". <it>Neural Computation</it>&#32;<b>10</b>: 571–592.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Reilly, D.L., Cooper, L.N. &amp; Elbaum, C.&#32;(1982).&#32;"A Neural Model for Category Learning". <it>Biological Cybernetics</it>&#32;<b>45</b>: 35&ndash;41. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Reilly, D.L., Cooper, L.N. &amp; Elbaum, C.&#32;(1982).&#32;"A Neural Model for Category Learning". <it>Biological Cybernetics</it>&#32;<b>45</b>: 35–41. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -959,20 +959,20 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF00387211">
-10.1007/BF00387211</weblink>.</cite>&nbsp;</entry>
+10.1007/BF00387211</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Rosenblatt, F.&#32;(1962). Principles of Neurodynamics.&#32;Spartan Books.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Rosenblatt, F.&#32;(1962). Principles of Neurodynamics.&#32;Spartan Books.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book">Sutton, Richard S. &amp; Barto, Andrew G.&#32;(1998). <weblink xlink:type="simple" xlink:href="http://www.cs.ualberta.ca/~sutton/book/the-book.html">
-Reinforcement Learning : An introduction</weblink>.</cite>&nbsp;</entry>
+Reinforcement Learning : An introduction</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
 Van den Bergh, F. Engelbrecht, AP.&#32;"<it>Cooperative Learning in Neural Networks using Particle Swarm Optimizers</it>". &#32;CIRG 2000.</entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Wilkes, A.L. &amp; Wade, N.J.&#32;(1997).&#32;"Bain on Neural Networks". <it>Brain and Cognition</it>&#32;<b>33</b>: 295&ndash;305. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">Wilkes, A.L. &amp; Wade, N.J.&#32;(1997).&#32;"Bain on Neural Networks". <it>Brain and Cognition</it>&#32;<b>33</b>: 295–305. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -980,10 +980,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fbrcg.1997.0869">
-10.1006/brcg.1997.0869</weblink>.</cite>&nbsp;</entry>
+10.1006/brcg.1997.0869</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Wasserman, P.D.&#32;(1989). Neural computing theory and practice.&#32;Van Nostrand Reinhold.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Wasserman, P.D.&#32;(1989). Neural computing theory and practice.&#32;Van Nostrand Reinhold.</cite> </entry>
 <entry level="1" type="bullet">
 
  Jeffrey T. Spooner, Manfredi Maggiore, Raul Ord onez, and Kevin M. Passino, Stable Adaptive Control and Estimation for Nonlinear Systems: Neural and Fuzzy Approximator Techniques, John Wiley and Sons, NY, 2002.</entry>
@@ -995,10 +995,10 @@ http://www.cs.stir.ac.uk/courses/31YF/Notes/Notes_PL.html</entry>
 http://www.shef.ac.uk/psychology/gurney/notes/l1/section3_3.html</entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Peter Dayan, L.F. Abbott. Theoretical Neuroscience.&#32;MIT Press.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Peter Dayan, L.F. Abbott. Theoretical Neuroscience.&#32;MIT Press.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Wulfram Gerstner, Werner Kistler. Spiking Neuron Models:Single Neurons, Populations, Plasticity.&#32;Cambridge University Press.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Wulfram Gerstner, Werner Kistler. Spiking Neuron Models:Single Neurons, Populations, Plasticity.&#32;Cambridge University Press.</cite> </entry>
 </list>
 </p>
 

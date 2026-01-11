@@ -79,7 +79,7 @@ Ohio State Buckeyes</link></b></col>
 </row>
 <row>
 <col style="font-size:95%;" align="center">
- Head&nbsp;coach:&nbsp;<b><physical_entity wordnetid="100001930" confidence="0.8">
+ Head coach: <b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -110,7 +110,7 @@ Urban Meyer</link></scholar>
 </physical_entity>
 </b></col>
 <col style="font-size:95%;" align="center">
- Head&nbsp;coach:&nbsp;<b><physical_entity wordnetid="100001930" confidence="0.8">
+ Head coach: <b><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -1282,13 +1282,13 @@ References</st>
 BCS title game ratings down from last year</weblink>", signonsandiego.com&#32;(<link xlink:type="simple" xlink:href="../988/15988.xml">
 January 8</link>, <link xlink:type="simple" xlink:href="../825/35825.xml">
 2008</link>).&#32;Retrieved on <link>
-2008-01-09</link>.&nbsp;</entry>
+2008-01-09</link>. </entry>
 <entry id="2">
 "<weblink xlink:type="simple" xlink:href="http://www.bcsfootball.org/cfb/story/6336144">
 BCS Championship Notebook</weblink>", bcsfootball.org&#32;(<link xlink:type="simple" xlink:href="../988/15988.xml">
 January 8</link> <link xlink:type="simple" xlink:href="../165/36165.xml">
 2007</link>).&#32;Retrieved on <link>
-2007-01-08</link>.&nbsp;</entry>
+2007-01-08</link>. </entry>
 <entry id="3">
 Forde, Pat&#32;(<link xlink:type="simple" xlink:href="../354/8354.xml">
 December 4</link>, <link xlink:type="simple" xlink:href="../164/36164.xml">
@@ -1771,31 +1771,31 @@ Florida bowl games</header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-1953 Gator Bowl</link>&nbsp;•  <link>
-1958 Gator Bowl</link>&nbsp;•  <link>
-1960 Gator Bowl</link>&nbsp;•  <link>
-1962 Gator Bowl</link>&nbsp;•  <link xlink:type="simple" xlink:href="../062/17615062.xml">
-1966 Sugar Bowl</link>&nbsp;•  <link>
-1967 Orange Bowl</link>&nbsp;•  <link>
-1969 Gator Bowl</link>&nbsp;•  <link>
-1973 Tangerine Bowl</link>&nbsp;•  <link>
-1974 Sugar Bowl</link>&nbsp;•  <link>
-1975 Gator Bowl</link>&nbsp;•  <link>
-1977 Sun Bowl</link>&nbsp;•  <link>
-1980 Tangerine Bowl</link>&nbsp;•  <link xlink:type="simple" xlink:href="../055/19625055.xml">
-1981 Peach Bowl (December)</link>&nbsp;•  <link>
-1982 Bluebonnet Bowl</link>&nbsp;•  <link>
-1983 Gator Bowl</link>&nbsp;•  <link>
-1987 Aloha Bowl</link>&nbsp;•  <link>
-1988 All-American Bowl</link>&nbsp;•  <link>
-1989 Freedom Bowl</link>&nbsp;•  <link xlink:type="simple" xlink:href="../263/17567263.xml">
-1992 Sugar Bowl</link>&nbsp;•  <link>
-1992 Gator Bowl</link>&nbsp;•  <link>
-1994 Sugar Bowl</link>&nbsp;•  <link>
-1995 Sugar Bowl (January)</link>&nbsp;•  <link>
-1996 Fiesta Bowl</link>&nbsp;•  <link xlink:type="simple" xlink:href="../180/17800180.xml">
-1997 Sugar Bowl</link>&nbsp;•  <link>
-1998 Citrus Bowl</link>&nbsp;•  <series wordnetid="108457976" confidence="0.8">
+1953 Gator Bowl</link> •  <link>
+1958 Gator Bowl</link> •  <link>
+1960 Gator Bowl</link> •  <link>
+1962 Gator Bowl</link> •  <link xlink:type="simple" xlink:href="../062/17615062.xml">
+1966 Sugar Bowl</link> •  <link>
+1967 Orange Bowl</link> •  <link>
+1969 Gator Bowl</link> •  <link>
+1973 Tangerine Bowl</link> •  <link>
+1974 Sugar Bowl</link> •  <link>
+1975 Gator Bowl</link> •  <link>
+1977 Sun Bowl</link> •  <link>
+1980 Tangerine Bowl</link> •  <link xlink:type="simple" xlink:href="../055/19625055.xml">
+1981 Peach Bowl (December)</link> •  <link>
+1982 Bluebonnet Bowl</link> •  <link>
+1983 Gator Bowl</link> •  <link>
+1987 Aloha Bowl</link> •  <link>
+1988 All-American Bowl</link> •  <link>
+1989 Freedom Bowl</link> •  <link xlink:type="simple" xlink:href="../263/17567263.xml">
+1992 Sugar Bowl</link> •  <link>
+1992 Gator Bowl</link> •  <link>
+1994 Sugar Bowl</link> •  <link>
+1995 Sugar Bowl (January)</link> •  <link>
+1996 Fiesta Bowl</link> •  <link xlink:type="simple" xlink:href="../180/17800180.xml">
+1997 Sugar Bowl</link> •  <link>
+1998 Citrus Bowl</link> •  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1814,7 +1814,7 @@ Florida bowl games</header>
 </event>
 </arrangement>
 </series>
-&nbsp;•  <bowl wordnetid="102881193" confidence="0.8">
+ •  <bowl wordnetid="102881193" confidence="0.8">
 <vessel wordnetid="104531098" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1825,7 +1825,7 @@ Florida bowl games</header>
 </artifact>
 </vessel>
 </bowl>
-&nbsp;•  <series wordnetid="108457976" confidence="0.8">
+ •  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1844,7 +1844,7 @@ Florida bowl games</header>
 </event>
 </arrangement>
 </series>
-&nbsp;•  <series wordnetid="108457976" confidence="0.8">
+ •  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1863,9 +1863,9 @@ Florida bowl games</header>
 </event>
 </arrangement>
 </series>
-&nbsp;•  <link xlink:type="simple" xlink:href="../876/15103876.xml">
-2003 Outback Bowl</link>&nbsp;•  <link xlink:type="simple" xlink:href="../630/15103630.xml">
-2004 Outback Bowl</link>&nbsp;•  <bowl wordnetid="102881193" confidence="0.8">
+ •  <link xlink:type="simple" xlink:href="../876/15103876.xml">
+2003 Outback Bowl</link> •  <link xlink:type="simple" xlink:href="../630/15103630.xml">
+2004 Outback Bowl</link> •  <bowl wordnetid="102881193" confidence="0.8">
 <vessel wordnetid="104531098" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1876,8 +1876,8 @@ Florida bowl games</header>
 </artifact>
 </vessel>
 </bowl>
-&nbsp;•  <link xlink:type="simple" xlink:href="../046/15103046.xml">
-2006 Outback Bowl</link>&nbsp;•  <series wordnetid="108457976" confidence="0.8">
+ •  <link xlink:type="simple" xlink:href="../046/15103046.xml">
+2006 Outback Bowl</link> •  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1896,7 +1896,7 @@ Florida bowl games</header>
 </event>
 </arrangement>
 </series>
-&nbsp;•  <bowl wordnetid="102881193" confidence="0.8">
+ •  <bowl wordnetid="102881193" confidence="0.8">
 <vessel wordnetid="104531098" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1931,36 +1931,36 @@ Ohio State bowl games</header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../366/18639366.xml">
-1921 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../457/19611457.xml">
-1950 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../362/19475362.xml">
-1955 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../157/16226157.xml">
-1958 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../008/17536008.xml">
-1969 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../745/19606745.xml">
-1971 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../134/15499134.xml">
-1973 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../510/19641510.xml">
-1974 Rose Bowl</link>&nbsp;·  <link>
-1975 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../289/14540289.xml">
-1976 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../278/335278.xml">
-1977 Orange Bowl</link>&nbsp;·  <link>
-1978 Sugar Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../765/335765.xml">
-1979 Gator Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../657/19658657.xml">
-1980 Rose Bowl</link>&nbsp;·  <link>
-1981 Fiesta Bowl</link>&nbsp;·  <link>
-1981 Liberty Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../435/17569435.xml">
-1982 Holiday Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../083/17452083.xml">
-1984 Fiesta Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../280/17145280.xml">
-1985 Rose Bowl</link>&nbsp;·  <link>
-1985 Citrus Bowl</link>&nbsp;·  <link>
-1987 Cotton Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../664/17572664.xml">
-1990 Hall of Fame Bowl</link>&nbsp;·  <link>
-1990 Liberty Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../770/17572770.xml">
-1992 Hall of Fame Bowl</link>·&nbsp;·  <link>
-1993 Citrus Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../069/17569069.xml">
-1993 Holiday Bowl</link>&nbsp;·  <link>
-1995 Citrus Bowl</link>&nbsp;·  <link>
-1996 Citrus Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../503/10627503.xml">
-1997 Rose Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../294/16224294.xml">
-1998 Sugar Bowl</link>&nbsp;·  <series wordnetid="108457976" confidence="0.8">
+1921 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../457/19611457.xml">
+1950 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../362/19475362.xml">
+1955 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../157/16226157.xml">
+1958 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../008/17536008.xml">
+1969 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../745/19606745.xml">
+1971 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../134/15499134.xml">
+1973 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../510/19641510.xml">
+1974 Rose Bowl</link> ·  <link>
+1975 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../289/14540289.xml">
+1976 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../278/335278.xml">
+1977 Orange Bowl</link> ·  <link>
+1978 Sugar Bowl</link> ·  <link xlink:type="simple" xlink:href="../765/335765.xml">
+1979 Gator Bowl</link> ·  <link xlink:type="simple" xlink:href="../657/19658657.xml">
+1980 Rose Bowl</link> ·  <link>
+1981 Fiesta Bowl</link> ·  <link>
+1981 Liberty Bowl</link> ·  <link xlink:type="simple" xlink:href="../435/17569435.xml">
+1982 Holiday Bowl</link> ·  <link xlink:type="simple" xlink:href="../083/17452083.xml">
+1984 Fiesta Bowl</link> ·  <link xlink:type="simple" xlink:href="../280/17145280.xml">
+1985 Rose Bowl</link> ·  <link>
+1985 Citrus Bowl</link> ·  <link>
+1987 Cotton Bowl</link> ·  <link xlink:type="simple" xlink:href="../664/17572664.xml">
+1990 Hall of Fame Bowl</link> ·  <link>
+1990 Liberty Bowl</link> ·  <link xlink:type="simple" xlink:href="../770/17572770.xml">
+1992 Hall of Fame Bowl</link>· ·  <link>
+1993 Citrus Bowl</link> ·  <link xlink:type="simple" xlink:href="../069/17569069.xml">
+1993 Holiday Bowl</link> ·  <link>
+1995 Citrus Bowl</link> ·  <link>
+1996 Citrus Bowl</link> ·  <link xlink:type="simple" xlink:href="../503/10627503.xml">
+1997 Rose Bowl</link> ·  <link xlink:type="simple" xlink:href="../294/16224294.xml">
+1998 Sugar Bowl</link> ·  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1979,9 +1979,9 @@ Ohio State bowl games</header>
 </event>
 </arrangement>
 </series>
-&nbsp;·  <link xlink:type="simple" xlink:href="../915/16947915.xml">
-2001 Outback Bowl</link>&nbsp;·  <link xlink:type="simple" xlink:href="../331/15104331.xml">
-2002 Outback Bowl</link>&nbsp;·  <series wordnetid="108457976" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../915/16947915.xml">
+2001 Outback Bowl</link> ·  <link xlink:type="simple" xlink:href="../331/15104331.xml">
+2002 Outback Bowl</link> ·  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <ordering wordnetid="108456993" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -1990,7 +1990,7 @@ Ohio State bowl games</header>
 </ordering>
 </arrangement>
 </series>
-&nbsp;·  <series wordnetid="108457976" confidence="0.8">
+ ·  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <ordering wordnetid="108456993" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -1999,8 +1999,8 @@ Ohio State bowl games</header>
 </ordering>
 </arrangement>
 </series>
-&nbsp;·  <link xlink:type="simple" xlink:href="../100/15112100.xml">
-2004 Alamo Bowl</link>&nbsp;·  <series wordnetid="108457976" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../100/15112100.xml">
+2004 Alamo Bowl</link> ·  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <ordering wordnetid="108456993" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -2009,7 +2009,7 @@ Ohio State bowl games</header>
 </ordering>
 </arrangement>
 </series>
-&nbsp;·  <series wordnetid="108457976" confidence="0.8">
+ ·  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -2028,7 +2028,7 @@ Ohio State bowl games</header>
 </event>
 </arrangement>
 </series>
-&nbsp;·  <series wordnetid="108457976" confidence="0.8">
+ ·  <series wordnetid="108457976" confidence="0.8">
 <arrangement wordnetid="107938773" confidence="0.8">
 <ordering wordnetid="108456993" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">

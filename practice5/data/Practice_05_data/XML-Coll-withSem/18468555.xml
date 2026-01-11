@@ -35,10 +35,10 @@ Winning score</win_label>
 China
 </caption>
 </image>
-&nbsp;<qi wordnetid="114050559" confidence="0.9508927676800064">
+ <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)</silver>
+ (CHN)</silver>
 <venue>
 <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -66,12 +66,12 @@ Olympic Green Archery Field</link></venue>
 France
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 France</link></political_unit>
 </state>
-&nbsp;(FRA)</bronze>
+ (FRA)</bronze>
 <teams>
 10</teams>
 <dates>
@@ -85,12 +85,12 @@ Women's team archery</event>
 South Korea
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 South Korea</link></political_unit>
 </state>
-&nbsp;(KOR)</gold>
+ (KOR)</gold>
 <nations>
 12</nations>
 <win_value>
@@ -132,12 +132,12 @@ Archery</link></psychological_feature>
 <col>
 Individual</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <link xlink:type="simple" xlink:href="../816/18454816.xml">
 men</link></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <link xlink:type="simple" xlink:href="../995/18454995.xml">
 women</link></col>
@@ -146,12 +146,12 @@ women</link></col>
 <col>
 Team</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <link xlink:type="simple" xlink:href="../431/18468431.xml">
 men</link></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <link xlink:type="simple" xlink:href="../555/18468555.xml">
 women</link></col>
@@ -301,12 +301,12 @@ Medalists</st>
 South Korea
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 South Korea</link></political_unit>
 </state>
-&nbsp;(KOR)</b><physical_entity wordnetid="100001930" confidence="0.8">
+ (KOR)</b><physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -333,10 +333,10 @@ Joo Hyun-Jung</link></col>
 China
 </caption>
 </image>
-&nbsp;<qi wordnetid="114050559" confidence="0.9508927676800064">
+ <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)</b><physical_entity wordnetid="100001930" confidence="0.8">
+ (CHN)</b><physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -383,12 +383,12 @@ Zhang Juanjuan</link></medalist>
 France
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 France</link></political_unit>
 </state>
-&nbsp;(FRA)</b><link>
+ (FRA)</b><link>
 Bérengère Schuh</link><link xlink:type="simple" xlink:href="../896/18808896.xml">
 Sophie Dodemont</link><link xlink:type="simple" xlink:href="../873/18808873.xml">
 Virginie Arnold</link></col>
@@ -425,7 +425,7 @@ Olympic records</link> were as follows. The change from the prior 27 arrow match
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../019/27019.xml">
 South Korea</link></country>
 <physical_entity wordnetid="100001930" confidence="0.8">
@@ -535,7 +535,7 @@ Greece</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../019/27019.xml">
 South Korea</link></country>
 <physical_entity wordnetid="100001930" confidence="0.8">
@@ -628,7 +628,7 @@ Australia</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../019/27019.xml">
 South Korea</link></country>
 <link xlink:type="simple" xlink:href="../342/8529342.xml">
@@ -889,12 +889,12 @@ Team</header>
 South Korea
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 South Korea</link></political_unit>
 </state>
-&nbsp;(KOR)</col>
+ (KOR)</col>
 </row>
 <row>
 <col>
@@ -906,12 +906,12 @@ South Korea</link></political_unit>
 Great Britain
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 Great Britain</link></political_unit>
 </state>
-&nbsp;(GBR)</col>
+ (GBR)</col>
 </row>
 <row>
 <col>
@@ -923,10 +923,10 @@ Great Britain</link></political_unit>
 China
 </caption>
 </image>
-&nbsp;<qi wordnetid="114050559" confidence="0.9508927676800064">
+ <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)</col>
+ (CHN)</col>
 </row>
 <row>
 <col>
@@ -938,12 +938,12 @@ China</link></qi>
 Italy
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../451/14891451.xml">
 Italy</link></political_unit>
 </state>
-&nbsp;(ITA)</col>
+ (ITA)</col>
 </row>
 <row>
 <col>
@@ -955,8 +955,8 @@ Italy</link></political_unit>
 Poland
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../256/16841256.xml">
-Poland</link>&nbsp;(POL)</col>
+ <link xlink:type="simple" xlink:href="../256/16841256.xml">
+Poland</link> (POL)</col>
 </row>
 <row>
 <col>
@@ -968,12 +968,12 @@ Poland</link>&nbsp;(POL)</col>
 Chinese Taipei
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../713/17409713.xml">
 Chinese Taipei</link></political_unit>
 </state>
-&nbsp;(TPE)</col>
+ (TPE)</col>
 </row>
 <row>
 <col>
@@ -985,12 +985,12 @@ Chinese Taipei</link></political_unit>
 India
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../577/16615577.xml">
 India</link></political_unit>
 </state>
-&nbsp;(IND)</col>
+ (IND)</col>
 </row>
 <row>
 <col>
@@ -1002,10 +1002,10 @@ India</link></political_unit>
 Japan
 </caption>
 </image>
-&nbsp;<japan wordnetid="103593222" confidence="0.9508927676800064">
+ <japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13442043.xml">
 Japan</link></japan>
-&nbsp;(JPN)</col>
+ (JPN)</col>
 </row>
 <row>
 <col>
@@ -1017,12 +1017,12 @@ Japan</link></japan>
 France
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 France</link></political_unit>
 </state>
-&nbsp;(FRA)</col>
+ (FRA)</col>
 </row>
 <row>
 <col>
@@ -1034,12 +1034,12 @@ France</link></political_unit>
 Colombia
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../276/17416276.xml">
 Colombia</link></political_unit>
 </state>
-&nbsp;(COL)</col>
+ (COL)</col>
 </row>
 </table>
 </p>
@@ -1079,12 +1079,12 @@ Score</header>
 South Korea
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 South Korea</link></political_unit>
 </state>
-&nbsp;(KOR)</col>
+ (KOR)</col>
 <col>
 1011</col>
 <col>
@@ -1100,7 +1100,7 @@ South Korea</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1117,7 +1117,7 @@ Park Sung-Hyun</link></medalist>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 KOR</link></political_unit>
@@ -1138,8 +1138,8 @@ KOR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../273/8529273.xml">
-Yun Ok-Hee</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../273/8529273.xml">
+Yun Ok-Hee</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 KOR</link></political_unit>
@@ -1160,8 +1160,8 @@ KOR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../674/18794674.xml">
-Joo Hyun-Jung</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../674/18794674.xml">
+Joo Hyun-Jung</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 KOR</link></political_unit>
@@ -1188,12 +1188,12 @@ KOR</link></political_unit>
 Great Britain
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 Great Britain</link></political_unit>
 </state>
-&nbsp;(GBR)</col>
+ (GBR)</col>
 <col>
 983</col>
 <col>
@@ -1209,7 +1209,7 @@ Great Britain</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1226,7 +1226,7 @@ Alison Williamson</link></medalist>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 GBR</link></political_unit>
@@ -1247,7 +1247,7 @@ GBR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1258,7 +1258,7 @@ Naomi Folkard</link></causal_agent>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 GBR</link></political_unit>
@@ -1279,8 +1279,8 @@ GBR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../187/18796187.xml">
-Charlotte Burgess</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../187/18796187.xml">
+Charlotte Burgess</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 GBR</link></political_unit>
@@ -1307,10 +1307,10 @@ GBR</link></political_unit>
 China
 </caption>
 </image>
-&nbsp;<qi wordnetid="114050559" confidence="0.9508927676800064">
+ <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)</col>
+ (CHN)</col>
 <col>
 975</col>
 <col>
@@ -1326,7 +1326,7 @@ China</link></qi>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1337,7 +1337,7 @@ Chen Ling</link></causal_agent>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<qi wordnetid="114050559" confidence="0.9508927676800064">
+ (<qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 CHN</link></qi>
 )</col>
@@ -1356,7 +1356,7 @@ CHN</link></qi>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1367,7 +1367,7 @@ Guo Dan</link></causal_agent>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<qi wordnetid="114050559" confidence="0.9508927676800064">
+ (<qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 CHN</link></qi>
 )</col>
@@ -1386,7 +1386,7 @@ CHN</link></qi>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1403,7 +1403,7 @@ Zhang Juanjuan</link></medalist>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<qi wordnetid="114050559" confidence="0.9508927676800064">
+ (<qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 CHN</link></qi>
 )</col>
@@ -1428,8 +1428,8 @@ CHN</link></qi>
 Poland
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../256/16841256.xml">
-Poland</link>&nbsp;(POL)</col>
+ <link xlink:type="simple" xlink:href="../256/16841256.xml">
+Poland</link> (POL)</col>
 <col>
 952</col>
 <col>
@@ -1445,8 +1445,8 @@ Poland</link>&nbsp;(POL)</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Poland.svg" type="border">
 </image>
-&nbsp;<link>
-Małgorzata Ćwieńczek</link>&nbsp;(<link xlink:type="simple" xlink:href="../256/16841256.xml">
+ <link>
+Małgorzata Ćwieńczek</link> (<link xlink:type="simple" xlink:href="../256/16841256.xml">
 POL</link>)</col>
 <col>
 323</col>
@@ -1463,7 +1463,7 @@ POL</link>)</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Poland.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1474,7 +1474,7 @@ Justyna Mospinek</link></causal_agent>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<link xlink:type="simple" xlink:href="../256/16841256.xml">
+ (<link xlink:type="simple" xlink:href="../256/16841256.xml">
 POL</link>)</col>
 <col>
 321</col>
@@ -1491,7 +1491,7 @@ POL</link>)</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Poland.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1502,7 +1502,7 @@ Iwona Marcinkiewicz</link></causal_agent>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<link xlink:type="simple" xlink:href="../256/16841256.xml">
+ (<link xlink:type="simple" xlink:href="../256/16841256.xml">
 POL</link>)</col>
 <col>
 308</col>
@@ -1525,12 +1525,12 @@ POL</link>)</col>
 France
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 France</link></political_unit>
 </state>
-&nbsp;(FRA)</col>
+ (FRA)</col>
 <col>
 946</col>
 <col>
@@ -1546,8 +1546,8 @@ France</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_France.svg" type="border">
 </image>
-&nbsp;<link>
-Bérengère Schuh</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Bérengère Schuh</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 FRA</link></political_unit>
@@ -1568,8 +1568,8 @@ FRA</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_France.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../896/18808896.xml">
-Sophie Dodemont</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../896/18808896.xml">
+Sophie Dodemont</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 FRA</link></political_unit>
@@ -1590,8 +1590,8 @@ FRA</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_France.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../873/18808873.xml">
-Virginie Arnold</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../873/18808873.xml">
+Virginie Arnold</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 FRA</link></political_unit>
@@ -1618,12 +1618,12 @@ FRA</link></political_unit>
 India
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../577/16615577.xml">
 India</link></political_unit>
 </state>
-&nbsp;(IND)</col>
+ (IND)</col>
 <col>
 959</col>
 <col>
@@ -1639,8 +1639,8 @@ India</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_India.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../692/18809692.xml">
-Laishram Bombaya Devi</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../692/18809692.xml">
+Laishram Bombaya Devi</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../577/16615577.xml">
 IND</link></political_unit>
@@ -1661,7 +1661,7 @@ IND</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_India.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1672,7 +1672,7 @@ Dola Banerjee</link></causal_agent>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../577/16615577.xml">
 IND</link></political_unit>
@@ -1693,8 +1693,8 @@ IND</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_India.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../841/18534841.xml">
-Pranitha Devi</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../841/18534841.xml">
+Pranitha Devi</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../577/16615577.xml">
 IND</link></political_unit>
@@ -1721,10 +1721,10 @@ IND</link></political_unit>
 Japan
 </caption>
 </image>
-&nbsp;<japan wordnetid="103593222" confidence="0.9508927676800064">
+ <japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13442043.xml">
 Japan</link></japan>
-&nbsp;(JPN)</col>
+ (JPN)</col>
 <col>
 949</col>
 <col>
@@ -1740,8 +1740,8 @@ Japan</link></japan>
 <col align="left">
  <image width="22x20px" src="Flag_of_Japan.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../464/18994464.xml">
-Nami Hayakawa</link>&nbsp;(<japan wordnetid="103593222" confidence="0.9508927676800064">
+ <link xlink:type="simple" xlink:href="../464/18994464.xml">
+Nami Hayakawa</link> (<japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13442043.xml">
 JPN</link></japan>
 )</col>
@@ -1760,8 +1760,8 @@ JPN</link></japan>
 <col align="left">
  <image width="22x20px" src="Flag_of_Japan.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../714/18994714.xml">
-Sayoko Kitabatake</link>&nbsp;(<japan wordnetid="103593222" confidence="0.9508927676800064">
+ <link xlink:type="simple" xlink:href="../714/18994714.xml">
+Sayoko Kitabatake</link> (<japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13442043.xml">
 JPN</link></japan>
 )</col>
@@ -1780,8 +1780,8 @@ JPN</link></japan>
 <col align="left">
  <image width="22x20px" src="Flag_of_Japan.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../541/18994541.xml">
-Yuki Hayashi</link>&nbsp;(<japan wordnetid="103593222" confidence="0.9508927676800064">
+ <link xlink:type="simple" xlink:href="../541/18994541.xml">
+Yuki Hayashi</link> (<japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13442043.xml">
 JPN</link></japan>
 )</col>
@@ -1806,12 +1806,12 @@ JPN</link></japan>
 Chinese Taipei
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../713/17409713.xml">
 Chinese Taipei</link></political_unit>
 </state>
-&nbsp;(TPE)</col>
+ (TPE)</col>
 <col>
 945</col>
 <col>
@@ -1827,8 +1827,8 @@ Chinese Taipei</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Chinese_Taipei_for_Olympic_games.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../248/918248.xml">
-Yuan Shu Chi</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../248/918248.xml">
+Yuan Shu Chi</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../713/17409713.xml">
 TPE</link></political_unit>
@@ -1849,8 +1849,8 @@ TPE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Chinese_Taipei_for_Olympic_games.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../694/916694.xml">
-Wu Hui Ju</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../694/916694.xml">
+Wu Hui Ju</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../713/17409713.xml">
 TPE</link></political_unit>
@@ -1871,8 +1871,8 @@ TPE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Chinese_Taipei_for_Olympic_games.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../107/18995107.xml">
-Wei Pi-Hsiu</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../107/18995107.xml">
+Wei Pi-Hsiu</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../713/17409713.xml">
 TPE</link></political_unit>
@@ -1899,12 +1899,12 @@ TPE</link></political_unit>
 Italy
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../451/14891451.xml">
 Italy</link></political_unit>
 </state>
-&nbsp;(ITA)</col>
+ (ITA)</col>
 <col>
 926</col>
 <col>
@@ -1920,7 +1920,7 @@ Italy</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Italy.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1937,7 +1937,7 @@ Natalia Valeeva</link></medalist>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../451/14891451.xml">
 ITA</link></political_unit>
@@ -1958,8 +1958,8 @@ ITA</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Italy.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../191/18395191.xml">
-Pia Carmen Maria Lionetti</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../191/18395191.xml">
+Pia Carmen Maria Lionetti</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../451/14891451.xml">
 ITA</link></political_unit>
@@ -1980,8 +1980,8 @@ ITA</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Italy.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../000/18395000.xml">
-Elena Tonetta</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../000/18395000.xml">
+Elena Tonetta</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../451/14891451.xml">
 ITA</link></political_unit>
@@ -2008,12 +2008,12 @@ ITA</link></political_unit>
 Colombia
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../276/17416276.xml">
 Colombia</link></political_unit>
 </state>
-&nbsp;(COL)</col>
+ (COL)</col>
 <col>
 926</col>
 <col>
@@ -2029,8 +2029,8 @@ Colombia</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Colombia.svg" type="border">
 </image>
-&nbsp;<link>
-Ana Rendón</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Ana Rendón</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../276/17416276.xml">
 COL</link></political_unit>
@@ -2051,8 +2051,8 @@ COL</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Colombia.svg" type="border">
 </image>
-&nbsp;<link>
-Natalia Sánchez</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Natalia Sánchez</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../276/17416276.xml">
 COL</link></political_unit>
@@ -2073,8 +2073,8 @@ COL</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Colombia.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../491/18995491.xml">
-Sigrid Romero</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../491/18995491.xml">
+Sigrid Romero</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../276/17416276.xml">
 COL</link></political_unit>
@@ -2104,7 +2104,7 @@ Elimination Round</st>
 <table style="font-size: 90%; margin:1em 2em 1em 1em;" cellpadding="0" border="0" cellspacing="0">
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="3" style="border:1px solid #aaa;" align="center" bgcolor="#f2f2f2">
 First Round</col>
 <col colspan="2"></col>
@@ -2119,74 +2119,74 @@ Finals</col>
 </row>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col style="width:2em;">
-&nbsp;</col>
+ </col>
 <col style="width:;">
-&nbsp;</col>
+ </col>
 <col style="width:2em;">
-&nbsp;</col>
+ </col>
 <col style="width:0.4em;">
-&nbsp;</col>
+ </col>
 <col style="width:0.4em;">
-&nbsp;</col>
+ </col>
 <col style="width:2em;">
-&nbsp;</col>
+ </col>
 <col style="width:;">
-&nbsp;</col>
+ </col>
 <col style="width:2em;">
-&nbsp;</col>
+ </col>
 <col style="width:0.4em;">
-&nbsp;</col>
+ </col>
 <col style="width:0.4em;">
-&nbsp;</col>
+ </col>
 <col style="width:2em;">
-&nbsp;</col>
+ </col>
 <col style="width:;">
-&nbsp;</col>
+ </col>
 <col style="width:2em;">
-&nbsp;</col>
+ </col>
 <col style="width:0.4em;">
-&nbsp;</col>
+ </col>
 <col style="width:0.4em;">
-&nbsp;</col>
+ </col>
 <col style="width:2em;">
-&nbsp;</col>
+ </col>
 <col style="width:;">
-&nbsp;</col>
+ </col>
 <col style="width:2em;">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 1</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
 <caption>
 
 South Korea
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 South Korea</link></political_unit>
 </state>
-&nbsp;(KOR)</b></col>
+ (KOR)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>231 (WR)</b></col>
 <col rowspan="2"></col>
@@ -2198,24 +2198,24 @@ South Korea</link></political_unit>
 <row>
 <col height="7"></col>
 <col style="border-width:0 2px 2px 0; border-style:solid;border-color:black;" align="center" rowspan="3">
-&nbsp;</col>
+ </col>
 <col style="border-width:2px 0 0 0; border-style:solid;border-color:black;" align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 9</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_Italy.svg" type="border">
+  <image width="22x20px" src="Flag_of_Italy.svg" type="border">
 <caption>
 
 Italy
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../451/14891451.xml">
 Italy</link></political_unit>
 </state>
-&nbsp;(ITA)</col>
+ (ITA)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 217</col>
 <col rowspan="12"></col>
@@ -2225,18 +2225,18 @@ Italy</link></political_unit>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 8</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_Chinese_Taipei_for_Olympic_games.svg" type="border">
+  <image width="22x20px" src="Flag_of_Chinese_Taipei_for_Olympic_games.svg" type="border">
 <caption>
 
 Chinese Taipei
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../713/17409713.xml">
 Chinese Taipei</link></political_unit>
 </state>
-&nbsp;(TPE)</col>
+ (TPE)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 211</col>
 </row>
@@ -2248,22 +2248,22 @@ Chinese Taipei</link></political_unit>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 9</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_Italy.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_Italy.svg" type="border">
 <caption>
 
 Italy
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../451/14891451.xml">
 Italy</link></political_unit>
 </state>
-&nbsp;(ITA)</b></col>
+ (ITA)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>215</b></col>
 <col style="border-width:2px 0 0 0; border-style:solid;border-color:black;" align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
@@ -2272,22 +2272,22 @@ Italy</link></political_unit>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 1</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
 <caption>
 
 South Korea
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 South Korea</link></political_unit>
 </state>
-&nbsp;(KOR)</b></col>
+ (KOR)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>213</b></col>
 <col style="border-width:0 0 2px 0; border-style:solid;border-color:black;" align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
@@ -2299,33 +2299,33 @@ South Korea</link></political_unit>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 5</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_France.svg" type="border">
+  <image width="22x20px" src="Flag_of_France.svg" type="border">
 <caption>
 
 France
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 France</link></political_unit>
 </state>
-&nbsp;(FRA)</col>
+ (FRA)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 184</col>
 <col style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;" align="center" rowspan="24">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
@@ -2333,33 +2333,33 @@ France</link></political_unit>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 5</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_France.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_France.svg" type="border">
 <caption>
 
 France
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 France</link></political_unit>
 </state>
-&nbsp;(FRA)</b></col>
+ (FRA)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>218</b></col>
 </row>
@@ -2370,20 +2370,20 @@ France</link></political_unit>
 <row>
 <col height="7"></col>
 <col rowspan="3">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 4</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_Poland.svg" type="border">
+  <image width="22x20px" src="Flag_of_Poland.svg" type="border">
 <caption>
 
 Poland
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../256/16841256.xml">
-Poland</link>&nbsp;(POL)</col>
+ <link xlink:type="simple" xlink:href="../256/16841256.xml">
+Poland</link> (POL)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 211</col>
 <col rowspan="12"></col>
@@ -2391,11 +2391,11 @@ Poland</link>&nbsp;(POL)</col>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
@@ -2403,34 +2403,34 @@ Poland</link>&nbsp;(POL)</col>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
 <col colspan="10"></col>
 <col style="border-width:0 0 2px 0; border-style:solid;border-color:black;" align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 1</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_South_Korea.svg" type="border">
 <caption>
 
 South Korea
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 South Korea</link></political_unit>
 </state>
-&nbsp;(KOR)</b></col>
+ (KOR)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>224</b></col>
 </row>
@@ -2442,33 +2442,33 @@ South Korea</link></political_unit>
 <row>
 <col height="7"></col>
 <col style="border-width:2px 0 0 0; border-style:solid;border-color:black;" align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 3</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
+  <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 <caption>
 
 China
 </caption>
 </image>
-&nbsp;<qi wordnetid="114050559" confidence="0.9508927676800064">
+ <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)</col>
+ (CHN)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 215</col>
 </row>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
@@ -2476,31 +2476,31 @@ China</link></qi>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 3</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 <caption>
 
 China
 </caption>
 </image>
-&nbsp;<qi wordnetid="114050559" confidence="0.9508927676800064">
+ <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)</b></col>
+ (CHN)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>211</b></col>
 <col colspan="6"></col>
@@ -2514,24 +2514,24 @@ Third Place</col>
 <row>
 <col height="7"></col>
 <col rowspan="3">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 6</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_India.svg" type="border">
+  <image width="22x20px" src="Flag_of_India.svg" type="border">
 <caption>
 
 India
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../577/16615577.xml">
 India</link></political_unit>
 </state>
-&nbsp;(IND)</col>
+ (IND)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 206</col>
 <col rowspan="12"></col>
@@ -2539,27 +2539,27 @@ India</link></political_unit>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col colspan="6" rowspan="2"></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 5</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_France.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_France.svg" type="border">
 <caption>
 
 France
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 France</link></political_unit>
 </state>
-&nbsp;(FRA)</b></col>
+ (FRA)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>203</b></col>
 </row>
@@ -2569,29 +2569,29 @@ France</link></political_unit>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col colspan="11"></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 2</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
+  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 <caption>
 
 Great Britain
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 Great Britain</link></political_unit>
 </state>
-&nbsp;(GBR)</col>
+ (GBR)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 201</col>
 </row>
@@ -2602,16 +2602,16 @@ Great Britain</link></political_unit>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 3</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 <caption>
 
 China
 </caption>
 </image>
-&nbsp;<qi wordnetid="114050559" confidence="0.9508927676800064">
+ <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)</b></col>
+ (CHN)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>208</b></col>
 </row>
@@ -2625,42 +2625,42 @@ China</link></qi>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 2</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
+  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 <caption>
 
 Great Britain
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 Great Britain</link></political_unit>
 </state>
-&nbsp;(GBR)</col>
+ (GBR)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 202</col>
 <col style="border-width:2px 0 0 0; border-style:solid;border-color:black;" align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 7</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_Japan.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_Japan.svg" type="border">
 <caption>
 
 Japan
 </caption>
 </image>
-&nbsp;<japan wordnetid="103593222" confidence="0.9508927676800064">
+ <japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13442043.xml">
 Japan</link></japan>
-&nbsp;(JPN)</b></col>
+ (JPN)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>206</b></col>
 <col style="border-width:0 0 2px 0; border-style:solid;border-color:black;" align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
@@ -2670,40 +2670,40 @@ Japan</link></japan>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 10</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_Colombia.svg" type="border">
+  <image width="22x20px" src="Flag_of_Colombia.svg" type="border">
 <caption>
 
 Colombia
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../276/17416276.xml">
 Colombia</link></political_unit>
 </state>
-&nbsp;(COL)</col>
+ (COL)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 199</col>
 <col style="border-width:2px 2px 0 0; border-style:solid;border-color:black;" align="center" rowspan="3">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
 <col style="border-width:0 0 2px 0; border-style:solid;border-color:black;" align="center" rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 7</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<image width="22x20px" src="Flag_of_Japan.svg" type="border">
+  <image width="22x20px" src="Flag_of_Japan.svg" type="border">
 <caption>
 
 Japan
 </caption>
 </image>
-&nbsp;<japan wordnetid="103593222" confidence="0.9508927676800064">
+ <japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13442043.xml">
 Japan</link></japan>
-&nbsp;(JPN)</col>
+ (JPN)</col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 196</col>
 </row>
@@ -2714,24 +2714,24 @@ Japan</link></japan>
 <row>
 <col height="7"></col>
 <col rowspan="3">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f2f2f2">
 2</col>
 <col style="border:1px solid #aaa;" rowspan="2" bgcolor="#f9f9f9">
- &nbsp;<b><image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
+  <b><image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 <caption>
 
 Great Britain
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 Great Britain</link></political_unit>
 </state>
-&nbsp;(GBR)</b></col>
+ (GBR)</b></col>
 <col style="border:1px solid #aaa;" align="center" rowspan="2" bgcolor="#f9f9f9">
 <b>201</b></col>
 <col rowspan="2"></col>
@@ -2739,11 +2739,11 @@ Great Britain</link></political_unit>
 <row>
 <col height="7"></col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 <col rowspan="2">
-&nbsp;&nbsp;</col>
+  </col>
 <col rowspan="2">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="7"></col>
@@ -2780,12 +2780,12 @@ gold medal icon.svg
 South Korea
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/15929475.xml">
 South Korea</link></political_unit>
 </state>
-&nbsp;(KOR)</col>
+ (KOR)</col>
 </row>
 <row>
 <col align="center">
@@ -2803,10 +2803,10 @@ silver medal icon.svg
 China
 </caption>
 </image>
-&nbsp;<qi wordnetid="114050559" confidence="0.9508927676800064">
+ <qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)</col>
+ (CHN)</col>
 </row>
 <row>
 <col align="center">
@@ -2824,12 +2824,12 @@ bronze medal icon.svg
 France
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/15754960.xml">
 France</link></political_unit>
 </state>
-&nbsp;(FRA)</col>
+ (FRA)</col>
 </row>
 <row>
 <col align="center">
@@ -2841,12 +2841,12 @@ France</link></political_unit>
 Great Britain
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 Great Britain</link></political_unit>
 </state>
-&nbsp;(GBR)</col>
+ (GBR)</col>
 </row>
 <row>
 <col align="center">
@@ -2858,12 +2858,12 @@ Great Britain</link></political_unit>
 Italy
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../451/14891451.xml">
 Italy</link></political_unit>
 </state>
-&nbsp;(ITA)</col>
+ (ITA)</col>
 </row>
 <row>
 <col align="center">
@@ -2875,8 +2875,8 @@ Italy</link></political_unit>
 Poland
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../256/16841256.xml">
-Poland</link>&nbsp;(POL)</col>
+ <link xlink:type="simple" xlink:href="../256/16841256.xml">
+Poland</link> (POL)</col>
 </row>
 <row>
 <col align="center">
@@ -2888,12 +2888,12 @@ Poland</link>&nbsp;(POL)</col>
 India
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../577/16615577.xml">
 India</link></political_unit>
 </state>
-&nbsp;(IND)</col>
+ (IND)</col>
 </row>
 <row>
 <col align="center">
@@ -2905,10 +2905,10 @@ India</link></political_unit>
 Japan
 </caption>
 </image>
-&nbsp;<japan wordnetid="103593222" confidence="0.9508927676800064">
+ <japan wordnetid="103593222" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/13442043.xml">
 Japan</link></japan>
-&nbsp;(JPN)</col>
+ (JPN)</col>
 </row>
 <row>
 <col align="center">
@@ -2920,12 +2920,12 @@ Japan</link></japan>
 Chinese Taipei
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../713/17409713.xml">
 Chinese Taipei</link></political_unit>
 </state>
-&nbsp;(TPE)</col>
+ (TPE)</col>
 </row>
 <row>
 <col align="center">
@@ -2937,12 +2937,12 @@ Chinese Taipei</link></political_unit>
 Colombia
 </caption>
 </image>
-&nbsp;<state wordnetid="108168978" confidence="0.8">
+ <state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../276/17416276.xml">
 Colombia</link></political_unit>
 </state>
-&nbsp;(COL)</col>
+ (COL)</col>
 </row>
 </table>
 </p>
@@ -2989,9 +2989,9 @@ South Korea</link></political_unit>
 </row>
 <row bgcolor="fffcaf">
 <col rowspan="8">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<link xlink:type="simple" xlink:href="../674/18794674.xml">
-Joo Hyun-Jung</link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<link xlink:type="simple" xlink:href="../273/8529273.xml">
-Yun Ok-Hee</link>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+       <link xlink:type="simple" xlink:href="../674/18794674.xml">
+Joo Hyun-Jung</link>       <link xlink:type="simple" xlink:href="../273/8529273.xml">
+Yun Ok-Hee</link>       <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -3120,7 +3120,7 @@ China</link></qi>
 </row>
 <row bgcolor="e5e5e5">
 <col rowspan="8">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+       <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -3131,7 +3131,7 @@ Chen Ling</link></causal_agent>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+       <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <archer wordnetid="109805324" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -3142,7 +3142,7 @@ Guo Dan</link></causal_agent>
 </archer>
 </expert>
 </physical_entity>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<link xlink:type="simple" xlink:href="../187/916187.xml">
+       <link xlink:type="simple" xlink:href="../187/916187.xml">
 Zhang Juan Juan</link></col>
 <col align="center" rowspan="2">
 <b>1</b></col>

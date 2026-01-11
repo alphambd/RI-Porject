@@ -50,7 +50,7 @@ Baseball</link></sport>
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../573/15573.xml">
+ <link xlink:type="simple" xlink:href="../573/15573.xml">
 Japan</link></country>
 </parameters>
 </template>
@@ -338,7 +338,7 @@ Ehime Mandarin Pirates</link></team>
 </club>
 </baseball_team>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <baseball_team wordnetid="108079319" confidence="0.8">
 <club wordnetid="108227214" confidence="0.8">
 <team wordnetid="108208560" confidence="0.8">
@@ -347,7 +347,7 @@ Kagawa Olive Guyners</link></team>
 </club>
 </baseball_team>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <baseball_team wordnetid="108079319" confidence="0.8">
 <club wordnetid="108227214" confidence="0.8">
 <team wordnetid="108208560" confidence="0.8">
@@ -356,7 +356,7 @@ Kochi Fighting Dogs</link></team>
 </club>
 </baseball_team>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <baseball_team wordnetid="108079319" confidence="0.8">
 <club wordnetid="108227214" confidence="0.8">
 <team wordnetid="108208560" confidence="0.8">
@@ -365,7 +365,7 @@ Tokushima Indigo Socks</link></team>
 </club>
 </baseball_team>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <baseball_team wordnetid="108079319" confidence="0.8">
 <club wordnetid="108227214" confidence="0.8">
@@ -384,7 +384,7 @@ Fukuoka Red Warblers</link></attraction>
 </baseball_team>
 </event>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <baseball_team wordnetid="108079319" confidence="0.8">
 <club wordnetid="108227214" confidence="0.8">
 <team wordnetid="108208560" confidence="0.8">
@@ -438,7 +438,7 @@ Major</link></league>
 <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../777/64777.xml">
 American League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../290/64290.xml">
 National League</link></league>
 </col>
@@ -454,56 +454,56 @@ Minor</link></col>
 <it>Triple-A:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../413/4680413.xml">
 International League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/69458.xml">
 Pacific Coast League</link></league>
-&nbsp;·  <link xlink:type="simple" xlink:href="../261/6370261.xml">
+ ·  <link xlink:type="simple" xlink:href="../261/6370261.xml">
 Mexican League</link><it>Double-A:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../899/69899.xml">
 Eastern League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../901/69901.xml">
 Southern League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/70292.xml">
 Texas League</link></league>
 <it>Class A Advanced:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../294/70294.xml">
 California League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../295/70295.xml">
 Carolina League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/70297.xml">
 Florida State League</link></league>
  • <it>Class A:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/70298.xml">
 Midwest League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../299/70299.xml">
 South Atlantic League</link></league>
  • <it>Class A Short-Season:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../300/70300.xml">
 New York - Penn League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../301/70301.xml">
 Northwest League</link></league>
 <it>Rookie:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../302/70302.xml">
 Appalachian League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../882/70882.xml">
 Arizona League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../342/3674342.xml">
 Dominican Summer League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../883/70883.xml">
 Gulf Coast League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../305/70305.xml">
 Pioneer League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../206/758206.xml">
 Venezuelan Summer League</link></league>
 </col>
@@ -523,25 +523,25 @@ Independent</link></league>
 <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../133/2896133.xml">
 American Association</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/63785.xml">
 Atlantic League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../882/341882.xml">
 Can-Am League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../066/7051066.xml">
 Continental Baseball League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../681/66681.xml">
 Frontier League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../801/1578801.xml">
 Golden Baseball League</link></league>
- &nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+  ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../066/68066.xml">
 Northern League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../002/3167002.xml">
 United League Baseball</link></league>
 </col>
@@ -556,30 +556,30 @@ Winter</col>
 <it>Affiliated:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../884/70884.xml">
 Arizona</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../208/4141208.xml">
 Dominican Republic</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../726/5775726.xml">
 Hawaii</link></league>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../820/4675820.xml">
 Mexico</link></league>
 </association>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/4376642.xml">
 Venezuela</link></league>
 <it>Independent:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../385/10530385.xml">
 Arizona</link></league>
-&nbsp;· <league wordnetid="108231184" confidence="0.9508927676800064">
+ · <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../075/17945075.xml">
 Colombia</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../066/7763066.xml">
 Puerto Rico</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../511/8152511.xml">
 Texas</link></league>
 </col>
@@ -594,28 +594,28 @@ Defunct</col>
 <it>Major:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../039/647039.xml">
 National Association</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../595/574595.xml">
 American Association</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../097/647097.xml">
 Union Association</link></league>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../121/647121.xml">
 Players' League</link></league>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../623/243623.xml">
 Federal League</link></league>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../945/39945.xml">
 Negro Leagues</link></league>
 </association>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
@@ -628,7 +628,7 @@ All-American Girls Professional Baseball League</link></administration>
 </association>
 </social_group>
 </body>
-&nbsp;·  <diversion wordnetid="100426928" confidence="0.8">
+ ·  <diversion wordnetid="100426928" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <sport wordnetid="100523513" confidence="0.8">
@@ -645,10 +645,10 @@ Continental League</link></activity>
 </event>
 </association>
 </diversion>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../582/4450582.xml">
 Cuban League</link></league>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../639/2686639.xml">
 National Association of Base Ball Players</link></league>
@@ -685,7 +685,7 @@ Nippon Professional Baseball</link></league>
 <link xlink:type="simple" xlink:href="../657/379657.xml">
 Central League</link></league>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../662/379662.xml">
 Pacific League</link></league>
@@ -693,11 +693,11 @@ Pacific League</link></league>
  • <it>Minor:</it> <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../191/9229191.xml">
 Western League</link></league>
-&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../214/7199214.xml">
 Eastern League</link></league>
  • <it>Independent:</it> <link>
-Shikoku-Kyūshū Island League</link>&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+Shikoku-Kyūshū Island League</link> ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../318/16889318.xml">
 Baseball Challenge League</link></league>
 </col>
@@ -737,7 +737,7 @@ Defunct</col>
 <link xlink:type="simple" xlink:href="../545/674545.xml">
 Japanese Baseball League</link></league>
 </association>
-&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../791/9245791.xml">
 Taiwan Major League</link></league>
@@ -765,17 +765,17 @@ Taiwan Major League</link></league>
 Current</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../493/18308493.xml">
-Division Elite</link> (France) &nbsp;·  <association wordnetid="108049401" confidence="0.8">
+Division Elite</link> (France)  ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../042/3441042.xml">
 Bundesliga</link></league>
 </association>
- (Germany)&nbsp;·  <link xlink:type="simple" xlink:href="../322/4675322.xml">
-Serie A1</link> (Italy) &nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ (Germany) ·  <link xlink:type="simple" xlink:href="../322/4675322.xml">
+Serie A1</link> (Italy)  ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../457/4183457.xml">
 Honkbal Hoofdklasse</link></league>
- (Netherlands)&nbsp;·  <link>
-División de Honor de Beisbol</link> (Spain)&nbsp;·  <association wordnetid="108049401" confidence="0.8">
+ (Netherlands) ·  <link>
+División de Honor de Beisbol</link> (Spain) ·  <association wordnetid="108049401" confidence="0.8">
 <league wordnetid="108231184" confidence="0.8">
 <link xlink:type="simple" xlink:href="../383/11436383.xml">
 Elitserien</link></league>
@@ -794,8 +794,8 @@ Defunct</col>
 <link xlink:type="simple" xlink:href="../345/4378345.xml">
 Australian Baseball League</link></league>
 </association>
-&nbsp;·  <link xlink:type="simple" xlink:href="../552/8626552.xml">
-International Baseball League of Australia</link>&nbsp;·  <league wordnetid="108231184" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../552/8626552.xml">
+International Baseball League of Australia</link> ·  <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../602/6720602.xml">
 Israel Baseball League</link></league>
 </col>

@@ -384,11 +384,11 @@ A variant of the Thomas algorithm is the Hu-Gallash algorithm, which uses forwar
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Conte, S.D., and deBoor, C.&#32;(1972). Elementary Numerical Analysis.&#32;McGraw-Hill, New York..</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Conte, S.D., and deBoor, C.&#32;(1972). Elementary Numerical Analysis.&#32;McGraw-Hill, New York..</cite> </entry>
 <entry level="1" type="bullet">
 
 This article incorporates text from the article <weblink xlink:type="simple" xlink:href="http://www.cfd-online.com/Wiki/Tridiagonal">
-matrix algorithm &mdash; TDMA (Thomas algorithm) Tridiagonal matrix algorithm &mdash; TDMA (Thomas algorithm)</weblink> on <weblink xlink:type="simple" xlink:href="http://www.cfd-online.com/Wiki/Main_Page">
+matrix algorithm — TDMA (Thomas algorithm) Tridiagonal matrix algorithm — TDMA (Thomas algorithm)</weblink> on <weblink xlink:type="simple" xlink:href="http://www.cfd-online.com/Wiki/Main_Page">
 CFD-Wiki</weblink> that is under the <link xlink:type="simple" xlink:href="../782/18938782.xml">
 GFDL</link> license.</entry>
 </list>
@@ -407,11 +407,11 @@ GFDL</link> license.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.arbredeslemuriens.com/Categorie.php?IDCategorie=AlgoScilab&amp;IDTitre=182">
-Thomas algorithm &mdash; SCILAB</weblink></entry>
+Thomas algorithm — SCILAB</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.arbredeslemuriens.com/Categorie.php?IDCategorie=AlgoScilab&amp;IDTitre=185">
-Thomas algorithm for tridiagonal superior periodic matrix &mdash; SCILAB</weblink></entry>
+Thomas algorithm for tridiagonal superior periodic matrix — SCILAB</weblink></entry>
 </list>
 </p>
 </sec>

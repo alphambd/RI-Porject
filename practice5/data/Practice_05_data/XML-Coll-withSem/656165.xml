@@ -65,7 +65,7 @@ Peter Borwein</link></mathematician>
 </physical_entity>
 , and Plouffe.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref><p>
 
-The discovery of this formula came as a surprise. For centuries it had been assumed that there was no way to compute the <it>n</it>th digit of π without calculating all of the preceding <it>n</it>&nbsp;&amp;minus;&nbsp;1 digits.</p>
+The discovery of this formula came as a surprise. For centuries it had been assumed that there was no way to compute the <it>n</it>th digit of π without calculating all of the preceding <it>n</it> &amp;minus; 1 digits.</p>
 
 <sec>
 <st>
@@ -141,7 +141,7 @@ where <it>s</it>, <it>b</it> and <it>m</it> are integers and <math>A = (a_1, a_2
 The search for new equalities</st>
 <p>
 
-Using the P function mentioned above, the simplest  known formula for π is for <it>s&nbsp;=&nbsp;1</it> but <it>m&nbsp;&amp;gt;&nbsp;1</it>. Many now-discovered formulae are known for b as an exponent of 2 or 3 and m is an exponent of 2 or it is some other factor-rich value but where several of the terms of vector A are zero. The discovery of these fomulae involves a computer search for such linear combinations after computer the individual sums. The search procedure consists of choosing a range of parameter values for s, b and m, evaluating the sums out to many digits, and then using an <link xlink:type="simple" xlink:href="../054/13644054.xml">
+Using the P function mentioned above, the simplest  known formula for π is for <it>s = 1</it> but <it>m &amp;gt; 1</it>. Many now-discovered formulae are known for b as an exponent of 2 or 3 and m is an exponent of 2 or it is some other factor-rich value but where several of the terms of vector A are zero. The discovery of these fomulae involves a computer search for such linear combinations after computer the individual sums. The search procedure consists of choosing a range of parameter values for s, b and m, evaluating the sums out to many digits, and then using an <link xlink:type="simple" xlink:href="../054/13644054.xml">
 integer relation finding algorithm</link> (typically <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <good_person wordnetid="110138767" confidence="0.8">
@@ -199,7 +199,7 @@ which reduces to this equivalent ratio of two polynomials:</p>
 \left(\frac{120k^2 + 151k + 47}{512k^4 + 1024k^3 + 712k^2 + 194k + 15}\right)</math>
 </indent>
 
-and to the compact notation of π&nbsp;=&nbsp;<it>P</it>(1,&nbsp;16,&nbsp;8,&nbsp;(4,&nbsp;0,&nbsp;0,&nbsp;&amp;minus;2,&nbsp;&amp;minus;1,&amp;minus;1,&nbsp;0,&nbsp;0)).  This formula has been shown through a rigorous and fairly simple proof to equal π.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></p>
+and to the compact notation of π = <it>P</it>(1, 16, 8, (4, 0, 0, &amp;minus;2, &amp;minus;1,&amp;minus;1, 0, 0)).  This formula has been shown through a rigorous and fairly simple proof to equal π.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></p>
 
 </ss1>
 </sec>
@@ -230,7 +230,7 @@ infinity</link> across the <it>n</it>th term </p>
  <math>\sum_{k = 0}^{\infty} \frac{1}{(16^k)(8k+1)} = \sum_{k = 0}^{n} \frac{1}{(16^k)(8k+1)} + \sum_{k = n + 1}^{\infty} \frac{1}{(16^k)(8k+1)}.</math>
 </indent>
 
-We now multiply by 16&nbsp;<it>n</it> so that the hexadecimal point (the divide between fractional and integer parts of the number) is in the <it>n</it>th place.</p>
+We now multiply by 16 <it>n</it> so that the hexadecimal point (the divide between fractional and integer parts of the number) is in the <it>n</it>th place.</p>
 <p>
 
 <indent level="1">
@@ -238,7 +238,7 @@ We now multiply by 16&nbsp;<it>n</it> so that the hexadecimal point (the divide 
  <math>\sum_{k = 0}^{\infty} \frac{16^{n-k}}{8k+1} = \sum_{k = 0}^{n} \frac{16^{n-k}}{8k+1} + \sum_{k = n + 1}^{\infty} \frac{16^{n-k}}{8k+1}.</math>
 </indent>
 
-Since we only care about the fractional part of the sum, we look at our two terms and realise that only the first sum is able to produce whole numbers whereas the second sum cannot produce whole numbers since the numerator can never be larger than the denominator for <it>k</it> &amp;gt; <it>n</it>. Therefore we need a trick to remove the whole numbers for the first sum. That trick is mod&nbsp;8<it>k</it>&nbsp;+&nbsp;1. Our sum for the first fractional part then becomes:</p>
+Since we only care about the fractional part of the sum, we look at our two terms and realise that only the first sum is able to produce whole numbers whereas the second sum cannot produce whole numbers since the numerator can never be larger than the denominator for <it>k</it> &amp;gt; <it>n</it>. Therefore we need a trick to remove the whole numbers for the first sum. That trick is mod 8<it>k</it> + 1. Our sum for the first fractional part then becomes:</p>
 <p>
 
 <indent level="1">
@@ -247,7 +247,7 @@ Since we only care about the fractional part of the sum, we look at our two term
 </indent>
 
 Notice how the <link xlink:type="simple" xlink:href="../973/20973.xml">
-modulo</link> operator always guarantees that only the fractional sum will be kept.  To calculate 16&nbsp;<it>n</it>&nbsp;&amp;minus;&nbsp;<it>k</it>&nbsp;mod&nbsp;8<it>k</it>&nbsp;+&nbsp;1 quickly and efficiently, use the <link xlink:type="simple" xlink:href="../032/903032.xml">
+modulo</link> operator always guarantees that only the fractional sum will be kept.  To calculate 16 <it>n</it> &amp;minus; <it>k</it> mod 8<it>k</it> + 1 quickly and efficiently, use the <link xlink:type="simple" xlink:href="../032/903032.xml">
 modular exponentiation</link> algorithm.  When the running product becomes greater than one, take the modulo just as you do for the running total in each sum.</p>
 <p>
 
@@ -276,7 +276,7 @@ Advantages of the BBP algorithm</st>
 
 <p>
 
-This algorithm computes π without requiring custom data types having thousands or even millions of digits. The method calculates the <it>n</it>th digit <it>without</it> calculating the first <it>n</it>&nbsp;&amp;minus;&nbsp;1 digits, and can use small, efficient data types. </p>
+This algorithm computes π without requiring custom data types having thousands or even millions of digits. The method calculates the <it>n</it>th digit <it>without</it> calculating the first <it>n</it> &amp;minus; 1 digits, and can use small, efficient data types. </p>
 <p>
 
 The algorithm is the fastest way to compute the <it>n</it>th digit (or a few digits in a neighborhood of the <it>n</it>th), but π-computing algorithms using large data types remain faster when the goal is to compute all the digits from 1 to <it>n</it>.</p>
@@ -381,7 +381,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1090%2FS0025-5718-97-00856-9">
-10.1090/S0025-5718-97-00856-9</weblink>.</cite>&nbsp;</entry>
+10.1090/S0025-5718-97-00856-9</weblink>.</cite> </entry>
 <entry id="2">
 <weblink xlink:type="simple" xlink:href="http://groups.google.com/group/sci.math.symbolic/msg/5b7e62ce42ae0cb6">
 Controversy surrounding who among the three actually invented this algorithm</weblink></entry>

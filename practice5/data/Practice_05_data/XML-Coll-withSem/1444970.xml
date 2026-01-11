@@ -158,7 +158,7 @@ Example: the mean of a series of angles</st>
 <p>
 
 A simple way to calculate the <link xlink:type="simple" xlink:href="../299/9956299.xml">
-mean of a series of angles</link> (in the interval [0&amp;deg;,&nbsp;360&amp;deg;)) is to calculate the mean of the cosines and sines of each angle, and obtain the angle by calculating the inverse tangent.  Consider the following three angles as an example: 10, 20, and 30 degrees. Intuitively, calculating the mean would involve adding these three angles together and dividing by 3, in this case indeed resulting in a correct mean angle of 20 degrees. By rotating this system anticlockwise through 15 degrees the three angles become 355 degrees, 5 degrees and 15 degrees. The naive mean is now 125 degrees, which is the wrong answer, as it should be 5 degrees. The true mean <math>\scriptstyle\bar \theta</math> can be calculated in the following way, using the mean sine <math>\scriptstyle\bar s</math> and the mean cosine <math>\scriptstyle\bar c \not = 0</math>: </p>
+mean of a series of angles</link> (in the interval [0&amp;deg;, 360&amp;deg;)) is to calculate the mean of the cosines and sines of each angle, and obtain the angle by calculating the inverse tangent.  Consider the following three angles as an example: 10, 20, and 30 degrees. Intuitively, calculating the mean would involve adding these three angles together and dividing by 3, in this case indeed resulting in a correct mean angle of 20 degrees. By rotating this system anticlockwise through 15 degrees the three angles become 355 degrees, 5 degrees and 15 degrees. The naive mean is now 125 degrees, which is the wrong answer, as it should be 5 degrees. The true mean <math>\scriptstyle\bar \theta</math> can be calculated in the following way, using the mean sine <math>\scriptstyle\bar s</math> and the mean cosine <math>\scriptstyle\bar c \not = 0</math>: </p>
 <p>
 
 <indent level="1">
@@ -364,7 +364,7 @@ Probability distribution</link>s</header>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22with+finite+support%22])">
+ <link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22with+finite+support%22])">
 Discrete univariate with finite support</link></header>
 </row>
 <row style="height:2px;">
@@ -379,25 +379,25 @@ Discrete univariate with finite support</link></header>
 Benford</link></group>
 </collection>
 </law>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../189/199189.xml">
 Bernoulli</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../876/3876.xml">
-binomial</link>&nbsp;·  <link xlink:type="simple" xlink:href="../717/10072717.xml">
-categorical</link>&nbsp;·  <link xlink:type="simple" xlink:href="../841/180841.xml">
-hypergeometric</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../876/3876.xml">
+binomial</link> ·  <link xlink:type="simple" xlink:href="../717/10072717.xml">
+categorical</link> ·  <link xlink:type="simple" xlink:href="../841/180841.xml">
+hypergeometric</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../890/1856890.xml">
 Rademacher</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../214/1699214.xml">
-discrete uniform</link>&nbsp;·  <law wordnetid="108441203" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../214/1699214.xml">
+discrete uniform</link> ·  <law wordnetid="108441203" confidence="0.8">
 <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
@@ -410,7 +410,7 @@ Zipf</link></distribution>
 </arrangement>
 </structure>
 </law>
-&nbsp;·  <link xlink:type="simple" xlink:href="../113/390113.xml">
+ ·  <link xlink:type="simple" xlink:href="../113/390113.xml">
 Zipf-Mandelbrot</link></col>
 </row>
 </table>
@@ -424,7 +424,7 @@ Zipf-Mandelbrot</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22with+infinite+support%22])">
+ <link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22with+infinite+support%22])">
 Discrete univariate with infinite support</link></header>
 </row>
 <row style="height:2px;">
@@ -433,49 +433,49 @@ Discrete univariate with infinite support</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../107/4107.xml">
-Boltzmann</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+Boltzmann</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../763/15845763.xml">
 Conway-Maxwell-Poisson</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../562/949562.xml">
 compound Poisson</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link>
-discrete phase-type</link>&nbsp;· <structure wordnetid="105726345" confidence="0.8">
+ ·  <link>
+discrete phase-type</link> · <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../534/17816534.xml">
 extended negative binomial</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../799/2196799.xml">
-Gauss-Kuzmin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../922/45922.xml">
-geometric</link>&nbsp;·   <link xlink:type="simple" xlink:href="../231/1119231.xml">
-logarithmic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../177/45177.xml">
-negative binomial</link>&nbsp;·  <link xlink:type="simple" xlink:href="../151/1096151.xml">
-parabolic fractal</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../799/2196799.xml">
+Gauss-Kuzmin</link> ·  <link xlink:type="simple" xlink:href="../922/45922.xml">
+geometric</link> ·   <link xlink:type="simple" xlink:href="../231/1119231.xml">
+logarithmic</link> ·  <link xlink:type="simple" xlink:href="../177/45177.xml">
+negative binomial</link> ·  <link xlink:type="simple" xlink:href="../151/1096151.xml">
+parabolic fractal</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../561/41561.xml">
 Poisson</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../757/1192757.xml">
 Skellam</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link>
-Yule-Simon</link>&nbsp;·  <link xlink:type="simple" xlink:href="../742/115742.xml">
+ ·  <link>
+Yule-Simon</link> ·  <link xlink:type="simple" xlink:href="../742/115742.xml">
 zeta</link></col>
 </row>
 </table>
@@ -489,7 +489,7 @@ zeta</link></col>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22Supported+on+a+bounded+interval%22])">
+ <link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22Supported+on+a+bounded+interval%22])">
 Continuous univariate supported on a bounded interval, e.g. [0,1]</link></header>
 </row>
 <row style="height:2px;">
@@ -504,43 +504,43 @@ Continuous univariate supported on a bounded interval, e.g. [0,1]</link></header
 Beta</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../594/15329594.xml">
 Irwin-Hall</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../583/2049583.xml">
 Kumaraswamy</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../605/2655605.xml">
 raised cosine</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../496/663496.xml">
-triangular</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../496/663496.xml">
+triangular</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../507/14108507.xml">
 U-quadratic</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../223/1699223.xml">
 uniform</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../321/1028321.xml">
@@ -560,7 +560,7 @@ Wigner semicircle</link></distribution>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Statistical distribution#Supported_on_semi-infinite_intervals.2C_usually_.5B0.2C.E2.88.9E.29|Continuous univariate supported on a semi-infinite interval, usually [0,∞)]]</header>
+ Statistical distribution#Supported_on_semi-infinite_intervals.2C_usually_.5B0.2C.E2.88.9E.29|Continuous univariate supported on a semi-infinite interval, usually [0,∞)]]</header>
 </row>
 <row style="height:2px;">
 
@@ -574,78 +574,78 @@ Wigner semicircle</link></distribution>
 Beta prime</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../582/12618582.xml">
 Burr</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../424/113424.xml">
-chi-square</link>&nbsp;·  <link xlink:type="simple" xlink:href="../151/3513151.xml#xpointer(//*[./st=%22coxian+distribution%22])">
-Coxian</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../424/113424.xml">
+chi-square</link> ·  <link xlink:type="simple" xlink:href="../151/3513151.xml#xpointer(//*[./st=%22coxian+distribution%22])">
+Coxian</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../028/199028.xml">
 Erlang</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../906/45906.xml">
-exponential</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../906/45906.xml">
+exponential</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../116/332116.xml">
 <it>F''</it></link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link>
-Fermi-Dirac</link>&nbsp;·  <link xlink:type="simple" xlink:href="../959/6260959.xml">
-folded normal</link>&nbsp;·  <link>
-Fréchet</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link>
+Fermi-Dirac</link> ·  <link xlink:type="simple" xlink:href="../959/6260959.xml">
+folded normal</link> ·  <link>
+Fréchet</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../079/207079.xml">
 Gamma</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../479/1494479.xml">
-generalized extreme value</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../479/1494479.xml">
+generalized extreme value</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../998/2682998.xml">
 generalized inverse Gaussian</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../148/7035148.xml">
 half-logistic</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../455/15906455.xml">
-half-normal</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../455/15906455.xml">
+half-normal</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../711/934711.xml">
 Hotelling's T-square</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../536/3520536.xml">
 hyper-exponential</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../318/1873318.xml">
 hypoexponential</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../924/1600924.xml">
@@ -659,74 +659,74 @@ inverse chi-square</link></distribution>
 scale inverse chi-square</link></distribution>
 </arrangement>
 </structure>
-)&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+) ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../161/5246161.xml">
 inverse Gaussian</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../565/1653565.xml">
 inverse gamma</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link>
-Lévy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../476/102476.xml">
-log-normal</link>&nbsp;·  <link xlink:type="simple" xlink:href="../106/15657106.xml">
-log-logistic</link>&nbsp;·  <link>
-Maxwell-Boltzmann</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link>
+Lévy</link> ·  <link xlink:type="simple" xlink:href="../476/102476.xml">
+log-normal</link> ·  <link xlink:type="simple" xlink:href="../106/15657106.xml">
+log-logistic</link> ·  <link>
+Maxwell-Boltzmann</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../296/4235296.xml">
 Maxwell speed</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../642/9492642.xml">
 Nakagami</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../749/2601749.xml">
 noncentral chi-square</link></distribution>
 </arrangement>
 </structure>
-&nbsp;· <link xlink:type="simple" xlink:href="../057/53057.xml">
-Pareto</link>&nbsp;·  <link>
- phase-type</link>&nbsp;·   <structure wordnetid="105726345" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../057/53057.xml">
+Pareto</link> ·  <link>
+ phase-type</link> ·   <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../296/262296.xml">
 Rayleigh</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link>
-relativistic Breit–Wigner</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link>
+relativistic Breit–Wigner</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../605/1843605.xml">
 Rice</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link>
-Rosin–Rammler</link>&nbsp;·  <link xlink:type="simple" xlink:href="../276/10067276.xml">
-shifted Gompertz</link>&nbsp;·  <link xlink:type="simple" xlink:href="../597/11753597.xml">
-truncated normal</link>&nbsp;·  <link xlink:type="simple" xlink:href="../829/1117829.xml">
-type-2 Gumbel</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link>
+Rosin–Rammler</link> ·  <link xlink:type="simple" xlink:href="../276/10067276.xml">
+shifted Gompertz</link> ·  <link xlink:type="simple" xlink:href="../597/11753597.xml">
+truncated normal</link> ·  <link xlink:type="simple" xlink:href="../829/1117829.xml">
+type-2 Gumbel</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../948/206948.xml">
 Weibull</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../348/8219348.xml">
@@ -746,7 +746,7 @@ Wilks' lambda</link></distribution>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22Supported+on+the+whole+real+line%22])">
+ <link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22Supported+on+the+whole+real+line%22])">
 Continuous univariate supported on the whole real line (-∞,∞)</link></header>
 </row>
 <row style="height:2px;">
@@ -761,22 +761,22 @@ Continuous univariate supported on the whole real line (-∞,∞)</link></header
 Cauchy</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../479/1494479.xml">
-extreme value</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../479/1494479.xml">
+extreme value</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../846/1117846.xml">
 exponential power</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../719/4967719.xml">
 Fisher's z</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <information wordnetid="105816287" confidence="0.8">
+ ·  <information wordnetid="105816287" confidence="0.8">
 <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <datum wordnetid="105816622" confidence="0.8">
@@ -787,46 +787,46 @@ Fisher-Tippett</link></distribution>
 </arrangement>
 </structure>
 </information>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../188/3420188.xml">
 generalized hyperbolic</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../043/2026043.xml">
-hyperbolic secant</link>&nbsp;·   <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../043/2026043.xml">
+hyperbolic secant</link> ·   <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../859/1117859.xml">
 Landau</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../213/1106213.xml">
 Laplace</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../869/1117869.xml">
 Lévy skew alpha-stable</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../666/542666.xml">
-logistic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../462/21462.xml">
-normal (Gaussian)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../836/6533836.xml">
-normal inverse Gaussian</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../666/542666.xml">
+logistic</link> ·  <link xlink:type="simple" xlink:href="../462/21462.xml">
+normal (Gaussian)</link> ·  <link xlink:type="simple" xlink:href="../836/6533836.xml">
+normal inverse Gaussian</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../475/16266475.xml">
 skew normal</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+ ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
@@ -837,15 +837,15 @@ Student's <it>t''</it></link></function>
 </arrangement>
 </structure>
 </mathematical_relation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../823/1117823.xml">
-type-1 Gumbel</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../823/1117823.xml">
+type-1 Gumbel</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../096/6534096.xml">
 Variance-Gamma</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../098/1202098.xml">
@@ -865,7 +865,7 @@ Voigt</link></distribution>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<idea wordnetid="105833840" confidence="0.8">
+ <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -890,15 +890,15 @@ Multivariate (joint</link></kind>
 Ewens</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../730/7377730.xml">
 Beta-binomial</link></distribution>
 </arrangement>
 </structure>
-&nbsp;· <link xlink:type="simple" xlink:href="../553/1045553.xml">
-multinomial</link>&nbsp;·  <link xlink:type="simple" xlink:href="../137/9169137.xml">
+ · <link xlink:type="simple" xlink:href="../553/1045553.xml">
+multinomial</link> ·  <link xlink:type="simple" xlink:href="../137/9169137.xml">
 multivariate Polya</link><it>Continuous:</it> <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
@@ -906,23 +906,23 @@ multivariate Polya</link><it>Continuous:</it> <structure wordnetid="105726345" c
 Dirichlet</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../537/12648537.xml">
 Generalized Dirichlet</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../347/50347.xml">
-multivariate normal</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../347/50347.xml">
+multivariate normal</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../768/7984768.xml">
 multivariate Student</link></distribution>
 </arrangement>
 </structure>
- &nbsp;·  <link xlink:type="simple" xlink:href="../463/17666463.xml">
-normal-scaled inverse gamma</link> &nbsp;·  <link xlink:type="simple" xlink:href="../234/10896234.xml">
+  ·  <link xlink:type="simple" xlink:href="../463/17666463.xml">
+normal-scaled inverse gamma</link>  ·  <link xlink:type="simple" xlink:href="../234/10896234.xml">
 normal-gamma</link> <it><link xlink:type="simple" xlink:href="../543/23543.xml#xpointer(//*[./st=%22Matrix-valued+distributions%22])">
 Matrix-valued</link>:</it> <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
@@ -931,8 +931,8 @@ Matrix-valued</link>:</it> <structure wordnetid="105726345" confidence="0.8">
 inverse-Wishart</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../758/437758.xml">
-matrix normal</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../758/437758.xml">
+matrix normal</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../996/364996.xml">
@@ -952,7 +952,7 @@ Wishart</link></distribution>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;<idea wordnetid="105833840" confidence="0.8">
+ <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -1006,11 +1006,11 @@ Directional</link></kind>
 Kent</link></distribution>
 </arrangement>
 </structure>
- &nbsp;·  <link xlink:type="simple" xlink:href="../727/1840727.xml">
-von Mises</link>&nbsp;·  <link>
+  ·  <link xlink:type="simple" xlink:href="../727/1840727.xml">
+von Mises</link> ·  <link>
 von Mises–Fisher</link>  <it><link xlink:type="simple" xlink:href="../843/101843.xml">
 Degenerate</link>:</it> <link xlink:type="simple" xlink:href="../843/101843.xml">
-discrete degenerate</link>&nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+discrete degenerate</link> ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../021/37021.xml">
 Dirac delta function</link></function>
@@ -1052,7 +1052,7 @@ Cantor</link></distribution>
 <table style="width:100%;;;;" class="nowraplinks collapsible collapsed navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";;" class="navbox-title">
-&nbsp;Families</header>
+ Families</header>
 </row>
 <row style="height:2px;">
 
@@ -1076,7 +1076,7 @@ exponential</link></kind>
 </concept>
 </idea>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
@@ -1093,8 +1093,8 @@ natural exponential</link></kind>
 </concept>
 </idea>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../667/2680667.xml">
-location-scale</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../667/2680667.xml">
+location-scale</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
@@ -1111,7 +1111,7 @@ maximum entropy</link></kind>
 </concept>
 </idea>
 </structure>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <structure wordnetid="105726345" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
@@ -1124,7 +1124,7 @@ Pearson</link></distribution>
 </artifact>
 </structure>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <structure wordnetid="105726345" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">

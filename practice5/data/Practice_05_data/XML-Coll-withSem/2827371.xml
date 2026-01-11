@@ -159,9 +159,9 @@ Here are the key ideas of the proof of the second condition. For sake of contrad
 <p>
 
 First, define <it>Ai</it> as follows:
-<it>Ai</it>={&nbsp;<it>v</it>&nbsp;: there is a path from <it>s</it> to <it>v</it> of length ≤ <it>i</it>&nbsp;}. In other words, <it>Ai</it> will include all vertices that are reachable from <it>s</it> in <it>i</it> or
-fewer hops. Let <it>ri</it>&nbsp;=|&nbsp;<it>Ai</it>&nbsp;|. Note that if
-<it>t</it> is not in <it>An-1</it>, where <it>n</it>&nbsp;=|&nbsp;<it>V</it>&nbsp;|, then there is no path from <it>s</it> to <it>t</it> in <it>G</it>, <it>i.e.</it> <it>G,s,t</it>&amp;gt; ∈ <link xlink:type="simple" xlink:href="../966/2832966.xml">
+<it>Ai</it>={ <it>v</it> : there is a path from <it>s</it> to <it>v</it> of length ≤ <it>i</it> }. In other words, <it>Ai</it> will include all vertices that are reachable from <it>s</it> in <it>i</it> or
+fewer hops. Let <it>ri</it> =| <it>Ai</it> |. Note that if
+<it>t</it> is not in <it>An-1</it>, where <it>n</it> =| <it>V</it> |, then there is no path from <it>s</it> to <it>t</it> in <it>G</it>, <it>i.e.</it> <it>G,s,t</it>&amp;gt; ∈ <link xlink:type="simple" xlink:href="../966/2832966.xml">
 st-non-connectivity</link>.</p>
 <p>
 
@@ -182,7 +182,7 @@ ENUMERATE(s,i,r_i,G)
 
 ENUMERATE goes through all vertices of graph <it>G</it> in logarithmic
 space, since the representation of each vertex and the <b>Counter</b> requires
-only log |&nbsp;<it>G</it>&nbsp;| bits and nondeterministically selecting a path also
+only log | <it>G</it> | bits and nondeterministically selecting a path also
 requires only logarithmic space.</p>
 <p>
 
@@ -193,7 +193,7 @@ Mathematical induction</link>. When using ENUMERATE as a subroutine, replace ACC
 Obviously <it>r0</it>=1 since <it>Ai</it> includes only the vertex <it>s</it> itself.</p>
 <p>
 
-Now, assume <it>ri</it> is given. Then <it>ri+1</it> = |&nbsp;<it>Ai+1</it> \ <it>Ai</it>&nbsp;| + <it>ri</it>&nbsp;, where \ is the <link xlink:type="simple" xlink:href="../347/54347.xml">
+Now, assume <it>ri</it> is given. Then <it>ri+1</it> = | <it>Ai+1</it> \ <it>Ai</it> | + <it>ri</it> , where \ is the <link xlink:type="simple" xlink:href="../347/54347.xml">
 set difference</link> operator. The set difference can be calculated by the following algorithm in log-space:</p>
 <p>
 
@@ -231,7 +231,7 @@ NOT-CONNECTED (G,s,t)
 9:    ACCEPT</p>
 <p>
 
-This algorithm runs in logarithmic space, since we need log |&nbsp;<it>G</it>&nbsp;| bits for storing <it>i and r_n</it>. As was shown above, the ENUMERATE and SET-DIFFERENCE algorithms also run in logarithmic space and again we do not need to store all of the output of ENUMERATE in line 4, but need only to check if <it>t</it> is ever output.  Thus, NOT-CONNECTED can decide if there exists no path from vertex <it>s</it> to <it>t</it> in logarithmic space. I.e. <link xlink:type="simple" xlink:href="../966/2832966.xml">
+This algorithm runs in logarithmic space, since we need log | <it>G</it> | bits for storing <it>i and r_n</it>. As was shown above, the ENUMERATE and SET-DIFFERENCE algorithms also run in logarithmic space and again we do not need to store all of the output of ENUMERATE in line 4, but need only to check if <it>t</it> is ever output.  Thus, NOT-CONNECTED can decide if there exists no path from vertex <it>s</it> to <it>t</it> in logarithmic space. I.e. <link xlink:type="simple" xlink:href="../966/2832966.xml">
 st-non-connectivity</link> is in <mathematical_relation wordnetid="113783581" confidence="0.8">
 <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">

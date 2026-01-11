@@ -111,7 +111,7 @@ Tejas and Jayhawk</link> processors, which is generally cited as the end of freq
 <p>
 
 <link xlink:type="simple" xlink:href="../418/39418.xml">
-Moore's Law</link> is the empirical observation that transistor density in a microprocessor doubles every 18 to 24&nbsp;months.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%229%22])">9</ref> Despite power consumption issues, and repeated predictions of its end, Moore's law is still in effect. With the end of frequency scaling, these additional transistors (which are no longer used for frequency scaling) can be used to add extra hardware for parallel computing.</p>
+Moore's Law</link> is the empirical observation that transistor density in a microprocessor doubles every 18 to 24 months.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%229%22])">9</ref> Despite power consumption issues, and repeated predictions of its end, Moore's law is still in effect. With the end of frequency scaling, these additional transistors (which are no longer used for frequency scaling) can be used to add extra hardware for parallel computing.</p>
 
 <ss1>
 <st>
@@ -194,7 +194,7 @@ A graphical representation of <idea wordnetid="105833840" confidence="0.8">
 Amdahl's law</link></rule>
 </concept>
 </idea>
- Assume that a task has two independent parts, A and B. B takes roughly 25% of the time of the whole computation. With effort, a programmer may be able to make this part five times faster, but this only reduces the time for the whole computation by a little. In contrast, one may need to perform less work to make part&nbsp;A twice as fast. This will make the computation much faster than by optimizing part&nbsp;B, even though B got a greater speed-up, (5x versus 2x).
+ Assume that a task has two independent parts, A and B. B takes roughly 25% of the time of the whole computation. With effort, a programmer may be able to make this part five times faster, but this only reduces the time for the whole computation by a little. In contrast, one may need to perform less work to make part A twice as fast. This will make the computation much faster than by optimizing part B, even though B got a greater speed-up, (5x versus 2x).
 </caption>
 </image>
 </p>
@@ -249,7 +249,7 @@ Consider the following functions, which demonstrate several kinds of dependencie
 4: end function</p>
 <p>
 
-Operation 3 in Dep(a, b) cannot be executed before (or even in parallel with) operation&nbsp;2, because operation&nbsp;3 uses a result from operation&nbsp;2. It violates condition&nbsp;1, and thus introduces a flow dependency.</p>
+Operation 3 in Dep(a, b) cannot be executed before (or even in parallel with) operation 2, because operation 3 uses a result from operation 2. It violates condition 1, and thus introduces a flow dependency.</p>
 <p>
 
 1: function NoDep(a, b)
@@ -425,7 +425,7 @@ One of the first consistency models was <scientist wordnetid="110560637" confide
 <link xlink:type="simple" xlink:href="../671/195671.xml">
 Leslie Lamport</link></scientist>
 's <link xlink:type="simple" xlink:href="../693/617693.xml">
-sequential consistency</link> model. Sequential consistency is the property of a parallel program that its parallel execution produces the same results as a sequential program. Specifically, a program is sequentially consistent if "...&nbsp;the results of any execution is the same as if the operations of all the processors were executed in some sequential order, and the operations of each individual processor appear in this sequence in the order specified by its program".<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref></p>
+sequential consistency</link> model. Sequential consistency is the property of a parallel program that its parallel execution produces the same results as a sequential program. Specifically, a program is sequentially consistent if "... the results of any execution is the same as if the operations of all the processors were executed in some sequential order, and the operations of each individual processor appear in this sequence in the order specified by its program".<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref></p>
 <p>
 
 <message wordnetid="106598915" confidence="0.8">
@@ -498,7 +498,7 @@ Flynn's taxonomy</link></group>
 </b></caption>
 <row>
 <header>
-&nbsp;</header>
+ </header>
 <header>
 Single  Instruction</header>
 <header>
@@ -578,12 +578,12 @@ computer word size</link></kind>
 —the amount of information the processor can execute per cycle.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref> Increasing the word size reduces the number of instructions the processor must execute to perform an operation on variables whose sizes are greater than the length of the word. For example, where an <link xlink:type="simple" xlink:href="../148/45148.xml">
 8-bit</link> processor must add two <link xlink:type="simple" xlink:href="../535/64535.xml">
 16-bit</link> <link xlink:type="simple" xlink:href="../563/14563.xml">
-integer</link>s, the processor must first add the 8&nbsp;lower-order bits from each integer using the standard addition instruction, then add the 8&nbsp;higher-order bits using an add-with-carry instruction and the <link xlink:type="simple" xlink:href="../176/5503176.xml">
+integer</link>s, the processor must first add the 8 lower-order bits from each integer using the standard addition instruction, then add the 8 higher-order bits using an add-with-carry instruction and the <link xlink:type="simple" xlink:href="../176/5503176.xml">
 carry bit</link> from the lower order addition; thus, an 8-bit processor requires two instructions to complete a single operation, where a 16-bit processor would be able to complete the operation with a single instruction.</p>
 <p>
 
 Historically, <link xlink:type="simple" xlink:href="../346/520346.xml">
-4-bit</link> microprocessors were replaced with 8-bit, then 16-bit, then 32-bit microprocessors. This trend generally came to an end with the introduction of 32-bit processors, which has been a standard in general-purpose computing for two decades. Not until recently (c. 2003&ndash;2004), with the advent of <link xlink:type="simple" xlink:href="../374/244374.xml">
+4-bit</link> microprocessors were replaced with 8-bit, then 16-bit, then 32-bit microprocessors. This trend generally came to an end with the introduction of 32-bit processors, which has been a standard in general-purpose computing for two decades. Not until recently (c. 2003–2004), with the advent of <link xlink:type="simple" xlink:href="../374/244374.xml">
 x86-64</link> architectures, have <link xlink:type="simple" xlink:href="../285/148285.xml">
 64-bit</link> processors become commonplace.</p>
 
@@ -636,7 +636,7 @@ Pentium 4</link></semiconductor_device>
 <image width="300px" src="Superscalarpipeline.png" type="thumb">
 <caption>
 
-A five-stage pipelined superscalar processor, capable of issuing two instructions per cycle. It can have two instructions in each stage of the pipeline, for a total of up to 10&nbsp;instructions (shown in green) being simultaneously executed.
+A five-stage pipelined superscalar processor, capable of issuing two instructions per cycle. It can have two instructions in each stage of the pipeline, for a total of up to 10 instructions (shown in green) being simultaneously executed.
 </caption>
 </image>
  </p>
@@ -859,7 +859,7 @@ Symmetric multiprocessing</st>
 Symmetric multiprocessing</link></it>
 </indent>
 A symmetric multiprocessor (SMP) is a computer system with multiple identical processors that share memory and connect via a bus.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2223%22])">23</ref> <link xlink:type="simple" xlink:href="../507/376507.xml">
-Bus contention</link> prevents bus architectures from scaling. As a result, SMPs generally do not comprise more than 32&nbsp;processors.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2224%22])">24</ref> "Because of the small size of the processors and the significant reduction in the requirements for bus bandwidth achieved by large caches, such symmetric multiprocessors are extremely cost-effective, provided that a sufficient amount of memory bandwidth exists."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2223%22])">23</ref></p>
+Bus contention</link> prevents bus architectures from scaling. As a result, SMPs generally do not comprise more than 32 processors.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2224%22])">24</ref> "Because of the small size of the processors and the significant reduction in the requirements for bus bandwidth achieved by large caches, such symmetric multiprocessors are extremely cost-effective, provided that a sufficient amount of memory bandwidth exists."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2223%22])">23</ref></p>
 
 </ss2>
 <ss2>
@@ -954,7 +954,7 @@ Massive parallel processing</st>
 Massive parallel processing</link></it>
 </indent>
 
-A massively parallel processor (MPP) is a single computer with many networked processors. MPPs have many of the same characteristics as clusters, but they are usually larger, typically having "far more" than 100&nbsp;processors.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2228%22])">28</ref> In an MPP, "each CPU contains its own memory and copy of the operating system and application. Each subsystem communicates with the others via a high-speed interconnect."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2229%22])">29</ref></p>
+A massively parallel processor (MPP) is a single computer with many networked processors. MPPs have many of the same characteristics as clusters, but they are usually larger, typically having "far more" than 100 processors.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2228%22])">28</ref> In an MPP, "each CPU contains its own memory and copy of the operating system and application. Each subsystem communicates with the others via a high-speed interconnect."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2229%22])">29</ref></p>
 <p>
 
 <image upright="upright" location="right" width="150px" src="BlueGeneL_cabinet.jpg" type="thumbnail">
@@ -1637,8 +1637,8 @@ ILLIAC IV</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2243%22])">43</ref> The key to its design was a fairly high parallelism, with up to 256&nbsp;processors, which allowed the machine to work on large datasets in what would later be known as <link xlink:type="simple" xlink:href="../205/58205.xml">
-vector processing</link>. However, ILLIAC IV was called "the most infamous of Supercomputers", because the project was only one fourth completed, but took 11&nbsp;years and cost almost four times the original estimate.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2246%22])">46</ref> When it was finally ready to run its first real application in 1976, it was outperformed by existing commercial supercomputers such as the <link xlink:type="simple" xlink:href="../171/37171.xml">
+.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2243%22])">43</ref> The key to its design was a fairly high parallelism, with up to 256 processors, which allowed the machine to work on large datasets in what would later be known as <link xlink:type="simple" xlink:href="../205/58205.xml">
+vector processing</link>. However, ILLIAC IV was called "the most infamous of Supercomputers", because the project was only one fourth completed, but took 11 years and cost almost four times the original estimate.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2246%22])">46</ref> When it was finally ready to run its first real application in 1976, it was outperformed by existing commercial supercomputers such as the <link xlink:type="simple" xlink:href="../171/37171.xml">
 Cray-1</link>.</p>
 
 </sec>
@@ -1654,7 +1654,7 @@ Almasi, G.S. and A. Gottlieb (1989). <weblink xlink:type="simple" xlink:href="ht
 <it>Highly Parallel Computing''</it></weblink>. Benjamin-Cummings publishers, Redwood City, CA.</entry>
 <entry id="2">
 Asanovic, Krste et al. (December 18, 2006). <weblink xlink:type="simple" xlink:href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf">
-"The Landscape of Parallel Computing Research: A View from Berkeley"</weblink> (PDF). University of California, Berkeley. Technical Report No. UCB/EECS-2006-183.  "Old [conventional wisdom]: Increasing clock frequency is the primary method of improving processor performance. New [conventional wisdom]: Increasing parallelism is the primary method of improving processor performance&nbsp;... Even representatives from Intel, a company generally associated with the 'higher clock-speed is better' position, warned that traditional approaches to maximizing performance through maximizing clock speed have been pushed to their limit."</entry>
+"The Landscape of Parallel Computing Research: A View from Berkeley"</weblink> (PDF). University of California, Berkeley. Technical Report No. UCB/EECS-2006-183.  "Old [conventional wisdom]: Increasing clock frequency is the primary method of improving processor performance. New [conventional wisdom]: Increasing parallelism is the primary method of improving processor performance ... Even representatives from Intel, a company generally associated with the 'higher clock-speed is better' position, warned that traditional approaches to maximizing performance through maximizing clock speed have been pushed to their limit."</entry>
 <entry id="3">
 Asanovic et al. Old [conventional wisdom]: Power is free, but transistors are expensive. New [conventional wisdom] is [that] power is expensive, but transistors are "free".</entry>
 <entry id="4">
@@ -1662,7 +1662,7 @@ Asanovic et al. Old [conventional wisdom]: Power is free, but transistors are ex
 Patterson, David A.</link> and <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../550/437550.xml">
 John L. Hennessy</link></scientist>
- (1998). <it>Computer Organization and Design</it>, Second Edition, Morgan Kaufmann Publishers, p.&nbsp;715. ISBN 1558604286. </entry>
+ (1998). <it>Computer Organization and Design</it>, Second Edition, Morgan Kaufmann Publishers, p. 715. ISBN 1558604286. </entry>
 <entry id="5">
 Barney, Blaise.&#32;"<weblink xlink:type="simple" xlink:href="http://www.llnl.gov/computing/tutorials/parallel_comp/">
 Introduction to Parallel Computing</weblink>".&#32;  Lawrence Livermore National Laboratory.&#32;Retrieved on <link>
@@ -1672,9 +1672,9 @@ Introduction to Parallel Computing</weblink>".&#32;  Lawrence Livermore National
 <link xlink:type="simple" xlink:href="../550/437550.xml">
 Hennessy, John L.</link></scientist>
  and <link xlink:type="simple" xlink:href="../239/816239.xml">
-David A. Patterson</link> (2002). <it>Computer Architecture: A Quantitative Approach</it>. 3rd edition, Morgan Kaufmann, p.&nbsp;43. ISBN 1558607242.</entry>
+David A. Patterson</link> (2002). <it>Computer Architecture: A Quantitative Approach</it>. 3rd edition, Morgan Kaufmann, p. 43. ISBN 1558607242.</entry>
 <entry id="7">
-Rabaey, J. M. (1996). <it>Digital Integrated Circuits</it>. Prentice Hall, p.&nbsp;235. ISBN 0131786091.</entry>
+Rabaey, J. M. (1996). <it>Digital Integrated Circuits</it>. Prentice Hall, p. 235. ISBN 0131786091.</entry>
 <entry id="8">
 Flynn, Laurie J. <weblink xlink:type="simple" xlink:href="http://www.nytimes.com/2004/05/08/business/08chip.html?ex=1399348800&amp;en=98cc44ca97b1a562&amp;ei=5007">
 "Intel Halts Development of 2 New Microprocessors"</weblink>. <it>The New York Times</it>, May 8, 2004.  Retrieved on April 22, 2008.</entry>
@@ -1705,7 +1705,7 @@ Electronics Magazine</link></publication>
 2006-11-11</link>.
 </entry>
 <entry id="10">
-Amdahl, G. (April 1967) "The validity of the single processor approach to achieving large-scale computing capabilities". In <it>Proceedings of AFIPS Spring Joint Computer Conference</it>,  Atlantic City, N.J., AFIPS Press, pp.&nbsp;483–85.</entry>
+Amdahl, G. (April 1967) "The validity of the single processor approach to achieving large-scale computing capabilities". In <it>Proceedings of AFIPS Spring Joint Computer Conference</it>,  Atlantic City, N.J., AFIPS Press, pp. 483–85.</entry>
 <entry id="11">
  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -1728,17 +1728,17 @@ Communications of the ACM</link></publication>
 </creation>
 </product>
 </work>
- 31(5), pp.&nbsp;532–33.</entry>
+ 31(5), pp. 532–33.</entry>
 <entry id="13">
- Bernstein, A. J. (October 1966). "Program Analysis for Parallel Processing,' IEEE Trans. on Electronic Computers". EC-15, pp.&nbsp;757–62.</entry>
+ Bernstein, A. J. (October 1966). "Program Analysis for Parallel Processing,' IEEE Trans. on Electronic Computers". EC-15, pp. 757–62.</entry>
 <entry id="14">
- Roosta, Seyed H. (2000). "Parallel processing and parallel algorithms: theory and computation". Springer, p.&nbsp;114. ISBN 0387987169.</entry>
+ Roosta, Seyed H. (2000). "Parallel processing and parallel algorithms: theory and computation". Springer, p. 114. ISBN 0387987169.</entry>
 <entry id="15">
-Lamport, Leslie (September 1979). "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", IEEE Transactions on Computers, C-28,9, pp.&nbsp;690–91.</entry>
+Lamport, Leslie (September 1979). "How to Make a Multiprocessor Computer That Correctly Executes Multiprocess Programs", IEEE Transactions on Computers, C-28,9, pp. 690–91.</entry>
 <entry id="17">
-Culler, David E.; Jaswinder Pal Singh and Anoop Gupta (1999). <it>Parallel Computer Architecture - A Hardware/Software Approach</it>. Morgan Kaufmann Publishers, p.&nbsp;15. ISBN 1558603433.</entry>
+Culler, David E.; Jaswinder Pal Singh and Anoop Gupta (1999). <it>Parallel Computer Architecture - A Hardware/Software Approach</it>. Morgan Kaufmann Publishers, p. 15. ISBN 1558603433.</entry>
 <entry id="16">
-Patterson and Hennessy, p.&nbsp;748.</entry>
+Patterson and Hennessy, p. 748.</entry>
 <entry id="19">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
@@ -1769,20 +1769,20 @@ The Microprocessor Ten Years From Now: What Are The Challenges, How Do We Meet T
 Carnegie Mellon University</link></university>
 . Retrieved on November 7, 2007.</entry>
 <entry id="18">
-Culler et al. p.&nbsp;15.</entry>
+Culler et al. p. 15.</entry>
 <entry id="21">
-Culler et al. p.&nbsp;125.</entry>
+Culler et al. p. 125.</entry>
 <entry id="20">
-Culler et al. p.&nbsp;124.</entry>
+Culler et al. p. 124.</entry>
 <entry id="23">
-Hennessy and Patterson, p.&nbsp;549.</entry>
+Hennessy and Patterson, p. 549.</entry>
 <entry id="22">
-Patterson and Hennessy, p.&nbsp;713.</entry>
+Patterson and Hennessy, p. 713.</entry>
 <entry id="25">
 <weblink xlink:type="simple" xlink:href="http://www.webopedia.com/TERM/c/clustering.html">
 What is clustering?</weblink> Webopedia computer dictionary. Retrieved on November 7, 2007.</entry>
 <entry id="24">
-Patterson and Hennessy, p.&nbsp;714.</entry>
+Patterson and Hennessy, p. 714.</entry>
 <entry id="27">
 <weblink xlink:type="simple" xlink:href="http://www.top500.org/stats/list/29/archtype">
 Architecture share for 06/2007</weblink>. TOP500 Supercomputing Sites. Clusters make up 74.60% of the machines on the list. Retrieved on November 7, 2007.</entry>
@@ -1793,7 +1793,7 @@ Beowulf definition.</weblink> <it>PC Magazine</it>. Retrieved on November 7, 200
 <weblink xlink:type="simple" xlink:href="http://www.pcmag.com/encyclopedia_term/0,,t=mpp&amp;i=47310,00.asp">
 MPP Definition.</weblink> <it>PC Magazine</it>. Retrieved on November 7, 2007.</entry>
 <entry id="28">
-Hennessy and Patterson, p.&nbsp;537.</entry>
+Hennessy and Patterson, p. 537.</entry>
 <entry id="31">
 D'Amour, Michael R., CEO <link>
 DRC Computer Corporation</link>. "Standard Reconfigurable Computing". Invited speaker at the University of Delaware, February 28, 2007.</entry>
@@ -1801,7 +1801,7 @@ DRC Computer Corporation</link>. "Standard Reconfigurable Computing". Invited sp
 Kirkpatrick, Scott (January 31, 2003). "Computer Science: Rough Times Ahead".  <it>Science</it>, Vol. 299. No. 5607, pp. 668 - 669. DOI: 10.1126/science.1081623</entry>
 <entry id="34">
 Shimokawa, Y.; Y. Fuwa and N. Aramaki (18–21 November 1991). <weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=170708">
-A parallel ASIC VLSI neurocomputer for a large number of neurons and billion connections per second speed.</weblink> IEEE International Joint Conference on Neural Networks. <b>3:</b> pp.&nbsp;2162–67.</entry>
+A parallel ASIC VLSI neurocomputer for a large number of neurons and billion connections per second speed.</weblink> IEEE International Joint Conference on Neural Networks. <b>3:</b> pp. 2162–67.</entry>
 <entry id="35">
 Acken,  K.P.; M.J. Irwin, R.M. Owens (July 1998). <weblink xlink:type="simple" xlink:href="http://www.ingentaconnect.com/content/klu/vlsi/1998/00000019/00000002/00167697?crawler=true">
 "A Parallel ASIC Architecture for Efficient Fractal Image Coding".</weblink>  <it>The Journal of VLSI Signal Processing</it>, <b>19</b>(2):97–113(17)</entry>
@@ -1810,17 +1810,17 @@ Boggan, Sha'Kia and Daniel M. Pressel (August 2007). <weblink xlink:type="simple
 GPUs: An Emerging Platform for General-Purpose Computation</weblink> (PDF). ARL-SR-154, U.S. Army Research Lab. Retrieved on November 7, 2007.</entry>
 <entry id="33">
 Maslennikov, Oleg (2002). <weblink xlink:type="simple" xlink:href="http://www.springerlink.com/content/jjrdrb0lelyeu3e9/">
-"Systematic Generation of Executing Programs for Processor Elements in Parallel ASIC or FPGA-Based Systems and Their Transformation into VHDL-Descriptions of Processor Element Control Units".</weblink> <it>Lecture Notes in Computer Science</it>, <b>2328/2002:</b> p.&nbsp;272.</entry>
+"Systematic Generation of Executing Programs for Processor Elements in Parallel ASIC or FPGA-Based Systems and Their Transformation into VHDL-Descriptions of Processor Element Control Units".</weblink> <it>Lecture Notes in Computer Science</it>, <b>2328/2002:</b> p. 272.</entry>
 <entry id="38">
-Shen, John Paul and Mikko H. Lipasti (2005). <it>Modern Processor Design: Fundamentals of Superscalar Processors</it>. McGraw-Hill Professional. p.&nbsp;561. ISBN 0070570647. "However, the holy grail of such research - automated parallelization of serial programs - has yet to materialize. While automated parallelization of certain classes of algorithms has been demonstrated, such success has largely been limited to scientific and numeric applications with predictable flow control (e.g., nested loop structures with statically determined iteration counts) and statically analyzable memory access patterns. (e.g., walks over large multidimensional arrays of float-point data)."</entry>
+Shen, John Paul and Mikko H. Lipasti (2005). <it>Modern Processor Design: Fundamentals of Superscalar Processors</it>. McGraw-Hill Professional. p. 561. ISBN 0070570647. "However, the holy grail of such research - automated parallelization of serial programs - has yet to materialize. While automated parallelization of certain classes of algorithms has been demonstrated, such success has largely been limited to scientific and numeric applications with predictable flow control (e.g., nested loop structures with statically determined iteration counts) and statically analyzable memory access patterns. (e.g., walks over large multidimensional arrays of float-point data)."</entry>
 <entry id="39">
 Asanovic, Krste, et al. (December 18, 2006). <weblink xlink:type="simple" xlink:href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-183.pdf">
 The Landscape of Parallel Computing Research: A View from Berkeley</weblink> (PDF). University of California, Berkeley. Technical Report No. UCB/EECS-2006-183. See table on pages 17-19.</entry>
 <entry id="36">
 Kahng, Andrew B. (June 21, 2004) "<weblink xlink:type="simple" xlink:href="http://www.future-fab.com/documents.asp?grID=353&amp;d_ID=2596">
-Scoping the Problem of DFM in the Semiconductor Industry</weblink>." University of California, San Diego. "Future design for manufacturing (DFM) technology must reduce design [non-recoverable expenditure] cost and directly address manufacturing [non-recoverable expenditures] – the cost of a mask set and probe card – which is well over $1&nbsp;million at the 90&nbsp;nm technology node and creates a significant damper on semiconductor-based innovation."</entry>
+Scoping the Problem of DFM in the Semiconductor Industry</weblink>." University of California, San Diego. "Future design for manufacturing (DFM) technology must reduce design [non-recoverable expenditure] cost and directly address manufacturing [non-recoverable expenditures] – the cost of a mask set and probe card – which is well over $1 million at the 90 nm technology node and creates a significant damper on semiconductor-based innovation."</entry>
 <entry id="37">
-Patterson and Hennessy, p.&nbsp;751.</entry>
+Patterson and Hennessy, p. 751.</entry>
 <entry id="42">
 da Cruz, Frank&#32;(2003).&#32;"<weblink xlink:type="simple" xlink:href="http://www.columbia.edu/acis/history/704.html">
 Columbia University Computing History: The IBM 704</weblink>".&#32;  Columbia University.&#32;Retrieved on <link>
@@ -1836,9 +1836,9 @@ Menabrea, L. F.</link></chancellor>
  (1842).  <weblink xlink:type="simple" xlink:href="http://www.fourmilab.ch/babbage/sketch.html">
 Sketch of the Analytic Engine Invented by Charles Babbage</weblink>. Bibliothèque Universelle de Genève. Retrieved on November 7, 2007.</entry>
 <entry id="41">
-Patterson and Hennessy, p.&nbsp;753.</entry>
+Patterson and Hennessy, p. 753.</entry>
 <entry id="46">
-Patterson and Hennessy, pp.&nbsp;749–50: "Although successful in pushing several technologies useful in later projects, the ILLIAC IV failed as a computer. Costs escalated from the $8&nbsp;million estimated in 1966 to $31&nbsp;million by 1972, despite the construction of only a quarter of the planned machine&nbsp;... It was perhaps the most infamous of supercomputers. The project started in 1965 and ran its first real application in 1976."</entry>
+Patterson and Hennessy, pp. 749–50: "Although successful in pushing several technologies useful in later projects, the ILLIAC IV failed as a computer. Costs escalated from the $8 million estimated in 1966 to $31 million by 1972, despite the construction of only a quarter of the planned machine ... It was perhaps the most infamous of supercomputers. The project started in 1965 and ran its first real application in 1976."</entry>
 <entry id="44">
 Anthes, Gry&#32;(<link>
 2001-11-19</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=65878">
@@ -1866,7 +1866,7 @@ Computerworld</link></publication>
 </it>.&#32;Retrieved on <link>
 2008-01-08</link>.</entry>
 <entry id="45">
-Patterson and Hennessy, p.&nbsp;749.</entry>
+Patterson and Hennessy, p. 749.</entry>
 </reflist>
 </p>
 
@@ -1970,9 +1970,9 @@ High-performance computing</link></difficulty>
 Parallelism</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../148/14229148.xml">
-Bit-level parallelism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../960/245960.xml">
-Instruction level parallelism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../420/9467420.xml">
-Data parallelism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../070/9468070.xml">
+Bit-level parallelism</link> ·  <link xlink:type="simple" xlink:href="../960/245960.xml">
+Instruction level parallelism</link> ·  <link xlink:type="simple" xlink:href="../420/9467420.xml">
+Data parallelism</link> ·  <link xlink:type="simple" xlink:href="../070/9468070.xml">
 Task parallelism</link></col>
 </row>
 <row style="height:2px">
@@ -1983,7 +1983,7 @@ Task parallelism</link></col>
 Threads</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../877/313877.xml">
-Superthreading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../443/151443.xml">
+Superthreading</link> ·  <link xlink:type="simple" xlink:href="../443/151443.xml">
 Hyperthreading</link></col>
 </row>
 <row style="height:2px">
@@ -1994,14 +1994,14 @@ Hyperthreading</link></col>
 Theory</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../612/1448612.xml">
-Speedup</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+Speedup</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <rule wordnetid="105846054" confidence="0.8">
 <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
 Amdahl's law</link></rule>
 </concept>
 </idea>
-&nbsp;·  <class wordnetid="107997703" confidence="0.8">
+ ·  <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../349/222349.xml">
@@ -2009,19 +2009,19 @@ Flynn's taxonomy</link></group>
 </collection>
 </class>
  (<link xlink:type="simple" xlink:href="../630/1103630.xml">
-SISD</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../359/55359.xml">
-SIMD</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../666/991666.xml">
-MISD</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../139/157139.xml">
-MIMD</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../721/3505721.xml">
-Cost efficiency</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+SISD</link> &amp;bull;  <link xlink:type="simple" xlink:href="../359/55359.xml">
+SIMD</link> &amp;bull;  <link xlink:type="simple" xlink:href="../666/991666.xml">
+MISD</link> &amp;bull;  <link xlink:type="simple" xlink:href="../139/157139.xml">
+MIMD</link>) ·  <link xlink:type="simple" xlink:href="../721/3505721.xml">
+Cost efficiency</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <rule wordnetid="105846054" confidence="0.8">
 <link xlink:type="simple" xlink:href="../252/4243252.xml">
 Gustafson's law</link></rule>
 </concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../042/9453042.xml">
-Karp-Flatt metric</link>&nbsp;·  <link xlink:type="simple" xlink:href="../068/15167068.xml">
+ ·  <link xlink:type="simple" xlink:href="../042/9453042.xml">
+Karp-Flatt metric</link> ·  <link xlink:type="simple" xlink:href="../068/15167068.xml">
 Parallel slowdown</link></col>
 </row>
 <row style="height:2px">
@@ -2032,9 +2032,9 @@ Parallel slowdown</link></col>
 Elements</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../178/45178.xml">
-Process</link>&nbsp;·  <link xlink:type="simple" xlink:href="../303/45303.xml">
-Thread</link>&nbsp;·  <link xlink:type="simple" xlink:href="../712/5533712.xml">
-Fiber</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Process</link> ·  <link xlink:type="simple" xlink:href="../303/45303.xml">
+Thread</link> ·  <link xlink:type="simple" xlink:href="../712/5533712.xml">
+Fiber</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -2057,14 +2057,14 @@ Parallel Random Access Machine</link></causal_agent>
 Coordination</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../020/64020.xml">
-Multiprocessing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../679/10520679.xml">
-Multithreading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../818/399818.xml">
-Memory coherency</link>&nbsp;·  <link xlink:type="simple" xlink:href="../865/176865.xml">
-Cache coherency</link>&nbsp;·  <link xlink:type="simple" xlink:href="../263/4736263.xml">
-Barrier</link>&nbsp;·  <link xlink:type="simple" xlink:href="../017/4726017.xml">
-Synchronization</link>&nbsp;·  <link xlink:type="simple" xlink:href="../501/8501.xml">
-Distributed computing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../373/49373.xml">
+Multiprocessing</link> ·  <link xlink:type="simple" xlink:href="../679/10520679.xml">
+Multithreading</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Multitasking</link> ·  <link xlink:type="simple" xlink:href="../818/399818.xml">
+Memory coherency</link> ·  <link xlink:type="simple" xlink:href="../865/176865.xml">
+Cache coherency</link> ·  <link xlink:type="simple" xlink:href="../263/4736263.xml">
+Barrier</link> ·  <link xlink:type="simple" xlink:href="../017/4726017.xml">
+Synchronization</link> ·  <link xlink:type="simple" xlink:href="../501/8501.xml">
+Distributed computing</link> ·  <link xlink:type="simple" xlink:href="../373/49373.xml">
 Grid computing</link></col>
 </row>
 <row style="height:2px">
@@ -2084,8 +2084,8 @@ Programming model</link></grammatical_relation>
 </inflection>
 </linguistic_relation>
 </paradigm>
-&nbsp;·  <link xlink:type="simple" xlink:href="../888/3453888.xml">
-Implicit parallelism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../332/3095332.xml">
+ ·  <link xlink:type="simple" xlink:href="../888/3453888.xml">
+Implicit parallelism</link> ·  <link xlink:type="simple" xlink:href="../332/3095332.xml">
 Explicit parallelism</link></col>
 </row>
 <row style="height:2px">
@@ -2097,19 +2097,19 @@ Explicit parallelism</link></col>
 Hardware</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../896/18949896.xml">
-Computer cluster</link>&nbsp;·  <link xlink:type="simple" xlink:href="../542/66542.xml">
-Beowulf</link>&nbsp;·  <link xlink:type="simple" xlink:href="../318/50318.xml">
-Symmetric multiprocessing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../643/40643.xml">
-Non-Uniform Memory Access</link>&nbsp;·  <link xlink:type="simple" xlink:href="../307/910307.xml">
-Cache only memory architecture</link>&nbsp;·  <link xlink:type="simple" xlink:href="../506/2576506.xml">
-Asymmetric multiprocessing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../021/315021.xml">
-Simultaneous multithreading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../653/825653.xml">
-Shared memory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../887/234887.xml">
-Distributed memory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../049/584049.xml">
-Massive parallel processing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../702/51702.xml">
-Superscalar processing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../205/58205.xml">
-Vector processing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../153/37153.xml">
-Supercomputer</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Computer cluster</link> ·  <link xlink:type="simple" xlink:href="../542/66542.xml">
+Beowulf</link> ·  <link xlink:type="simple" xlink:href="../318/50318.xml">
+Symmetric multiprocessing</link> ·  <link xlink:type="simple" xlink:href="../643/40643.xml">
+Non-Uniform Memory Access</link> ·  <link xlink:type="simple" xlink:href="../307/910307.xml">
+Cache only memory architecture</link> ·  <link xlink:type="simple" xlink:href="../506/2576506.xml">
+Asymmetric multiprocessing</link> ·  <link xlink:type="simple" xlink:href="../021/315021.xml">
+Simultaneous multithreading</link> ·  <link xlink:type="simple" xlink:href="../653/825653.xml">
+Shared memory</link> ·  <link xlink:type="simple" xlink:href="../887/234887.xml">
+Distributed memory</link> ·  <link xlink:type="simple" xlink:href="../049/584049.xml">
+Massive parallel processing</link> ·  <link xlink:type="simple" xlink:href="../702/51702.xml">
+Superscalar processing</link> ·  <link xlink:type="simple" xlink:href="../205/58205.xml">
+Vector processing</link> ·  <link xlink:type="simple" xlink:href="../153/37153.xml">
+Supercomputer</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -2130,7 +2130,7 @@ Stream processing</link></grammatical_relation>
 </model>
 </person>
 </physical_entity>
-&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+ ·  <substance wordnetid="100019613" confidence="0.8">
 <paper wordnetid="114974264" confidence="0.8">
 <card wordnetid="102962545" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
@@ -2152,8 +2152,8 @@ GPGPU</link></material>
 Software</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../843/399843.xml">
-Distributed shared memory</link> &nbsp;·  <link xlink:type="simple" xlink:href="../765/416765.xml">
-Application checkpointing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../129/2738129.xml">
+Distributed shared memory</link>  ·  <link xlink:type="simple" xlink:href="../765/416765.xml">
+Application checkpointing</link> ·  <link xlink:type="simple" xlink:href="../129/2738129.xml">
 Warewulf</link></col>
 </row>
 <row style="height:2px">
@@ -2169,11 +2169,11 @@ API</link>s</col>
 <link xlink:type="simple" xlink:href="../671/634671.xml">
 POSIX Threads</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../842/381842.xml">
-OpenMP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../466/221466.xml">
-Message Passing Interface (MPI)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../616/1057616.xml">
-UPC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../077/11625077.xml">
-Intel Threading Building Blocks</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../842/381842.xml">
+OpenMP</link> ·  <link xlink:type="simple" xlink:href="../466/221466.xml">
+Message Passing Interface (MPI)</link> ·  <link xlink:type="simple" xlink:href="../616/1057616.xml">
+UPC</link> ·  <link xlink:type="simple" xlink:href="../077/11625077.xml">
+Intel Threading Building Blocks</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -2200,7 +2200,7 @@ Problems</col>
 Embarrassingly parallel</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <condition wordnetid="113920835" confidence="0.8">
+ ·  <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
 <difficulty wordnetid="114408086" confidence="0.8">
@@ -2209,7 +2209,7 @@ Grand Challenge</link></difficulty>
 </problem>
 </state>
 </condition>
-&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+ ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../798/12332798.xml">

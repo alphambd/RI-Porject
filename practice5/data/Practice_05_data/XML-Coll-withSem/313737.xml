@@ -146,7 +146,7 @@ vicious circle</link>.</p>
 
 <p>
 
-Spammers often regard responses to their messages&mdash;even responses like "Don't spam me"&mdash;as confirmation that an email address is valid. Likewise, many spam messages contain Web links or addresses which the user is directed to follow to be removed from the spammer's mailing list. In several cases, spam-fighters have tested these links, confirming they do not lead to the recipient address's removal&mdash;if anything, they lead to more spam.</p>
+Spammers often regard responses to their messages—even responses like "Don't spam me"—as confirmation that an email address is valid. Likewise, many spam messages contain Web links or addresses which the user is directed to follow to be removed from the spammer's mailing list. In several cases, spam-fighters have tested these links, confirming they do not lead to the recipient address's removal—if anything, they lead to more spam.</p>
 <p>
 
 Sender addresses are often forged in spam messages, including using the recipient's own address as the forged sender address, so that responding to spam may result in failed deliveries or may reach innocent e-mail users whose addresses have been abused. In many countries providing a false identity in that way is a criminal offense. <it>Criminal</it> spammers sometimes send their messages from purposely compromised computers in order to hide their real identity. <it>Benign</it> spammers reveal their identity, allowing recipients to respond.</p>
@@ -243,7 +243,7 @@ Mail clients which do not automatically download and display HTML, images or att
 Disposable e-mail address</link></it>
 </indent>
 
-Many email users sometimes need to give an address to a site without complete assurance that the site will not send out spam. One way to mitigate the risk is to provide a <it>disposable</it> email address&mdash;a temporary address which forwards email to a real account, which the user can disable or abandon. A number of services provide disposable address forwarding. Addresses can be manually disabled, can expire after a given time interval, or can expire after a certain number of messages have been forwarded.  Sites that fail to treat such addresses appropriately have found themselves in legal jeopardy.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></p>
+Many email users sometimes need to give an address to a site without complete assurance that the site will not send out spam. One way to mitigate the risk is to provide a <it>disposable</it> email address—a temporary address which forwards email to a real account, which the user can disable or abandon. A number of services provide disposable address forwarding. Addresses can be manually disabled, can expire after a given time interval, or can expire after a certain number of messages have been forwarded.  Sites that fail to treat such addresses appropriately have found themselves in legal jeopardy.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></p>
 
 </ss1>
 <ss1>
@@ -252,7 +252,7 @@ Many email users sometimes need to give an address to a site without complete as
 
 <p>
 
-Tracking down a spammer's ISP and reporting the offense can lead to the spammer's service being terminated. Unfortunately, it can be difficult to track down the spammer&mdash;and while there are some online tools to assist, they are not always accurate. Occasionally, spammers employ their own netblocks. In this case, the abuse contact for the netblock can be the spammer itself and can confirm your address.</p>
+Tracking down a spammer's ISP and reporting the offense can lead to the spammer's service being terminated. Unfortunately, it can be difficult to track down the spammer—and while there are some online tools to assist, they are not always accurate. Occasionally, spammers employ their own netblocks. In this case, the abuse contact for the netblock can be the spammer itself and can confirm your address.</p>
 <p>
 
 Examples of these online tools are <link xlink:type="simple" xlink:href="../427/1905427.xml">
@@ -280,7 +280,7 @@ An alternative to contacting ISPs is to contact the registrar of a domain name t
 
 <p>
 
-Some advocate responding aggressively to spam&mdash;in other words, "spamming the spammer".</p>
+Some advocate responding aggressively to spam—in other words, "spamming the spammer".</p>
 <p>
 
 The basic idea is to make spamming less attractive to the spammer, by increasing the spammer's overhead. There are several ways to reach a spammer, but besides the caveats <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22Responding+to+spam%22])">
@@ -389,8 +389,8 @@ Another method which may be used by internet service providers, by specialized s
 checksum</link>, and look that checksum up in a database which collects the checksums of messages that email recipients consider to be spam (some people have a button on their email client which they can click to nominate a message as being spam); if the checksum is in the database, the message is likely to be spam.</p>
 <p>
 
-The advantage of this type of filtering is that it lets ordinary users help identify spam, and not just administrators, thus vastly increasing the pool of spam fighters.  The disadvantage is that spammers can insert unique invisible gibberish&mdash;known as <it><link xlink:type="simple" xlink:href="../294/3933294.xml">
-hashbusters</link></it>&mdash;into the middle of each of their messages, thus making each message unique and having a different checksum.  This leads to an <link xlink:type="simple" xlink:href="../600/212600.xml">
+The advantage of this type of filtering is that it lets ordinary users help identify spam, and not just administrators, thus vastly increasing the pool of spam fighters.  The disadvantage is that spammers can insert unique invisible gibberish—known as <it><link xlink:type="simple" xlink:href="../294/3933294.xml">
+hashbusters</link></it>—into the middle of each of their messages, thus making each message unique and having a different checksum.  This leads to an <link xlink:type="simple" xlink:href="../600/212600.xml">
 arms race</link> between the developers of the checksum software and the developers of the spam-generating software.</p>
 <p>
 
@@ -770,7 +770,7 @@ Return Path Sender Score Certified</weblink>.</entry>
 </p>
 <p>
 
-A potential difficulty with such systems is that the licensing organization makes its money by licensing more senders to use the tag&mdash;not by strictly enforcing the rules upon licensees. A concern exists that senders whose messages are more likely to be considered spam would accrue a greater benefit by using such a tag. The concern is that these factors form a <link xlink:type="simple" xlink:href="../234/97234.xml">
+A potential difficulty with such systems is that the licensing organization makes its money by licensing more senders to use the tag—not by strictly enforcing the rules upon licensees. A concern exists that senders whose messages are more likely to be considered spam would accrue a greater benefit by using such a tag. The concern is that these factors form a <link xlink:type="simple" xlink:href="../234/97234.xml">
 perverse incentive</link> for licensing organizations to be lenient with licensees who have offended.  However, the value of a license would drop if it was not strictly enforced, and financial gains due to enforcement of a license itself can provide an additional incentive for strict enforcement. The Habeas mail classing system attempts to further address this issue by classing email according to origin, purpose, and permission. The purpose is to describe why the email is not likely spam, but permission based email.</p>
 
 </ss1>
@@ -815,7 +815,7 @@ Paul Graham</link></writer>
 's influential <link xlink:type="simple" xlink:href="../502/35502.xml">
 2002</link> article <it><weblink xlink:type="simple" xlink:href="http://www.paulgraham.com/antispam.html">
 A Plan for Spam</weblink></it>, which proposed the use of <link xlink:type="simple" xlink:href="../339/87339.xml">
-naive Bayes classifier</link>s to predict whether messages are spam or not &ndash; based on collections of spam and nonspam ("ham") email submitted by users.   <weblink xlink:type="simple" xlink:href="http://research.microsoft.com/~horvitz/junkfilter.htm">
+naive Bayes classifier</link>s to predict whether messages are spam or not – based on collections of spam and nonspam ("ham") email submitted by users.   <weblink xlink:type="simple" xlink:href="http://research.microsoft.com/~horvitz/junkfilter.htm">
 http://research.microsoft.com/~horvitz/junkfilter.htm</weblink></p>
 <p>
 
@@ -1216,7 +1216,7 @@ electronic money</link> would be paid by the sender to the recipient or their IS
 
 <link xlink:type="simple" xlink:href="../204/1560204.xml">
 Proof-of-work system</link>s such as <link xlink:type="simple" xlink:href="../023/567023.xml">
-hashcash</link> require that a sender pay a computational cost by performing a calculation that the receiver can later verify.  Verification must be much faster than performing the calculation, so that the computation slows down a sender but does not significantly impact a receiver. The point is to slow down machines that send most of spam&mdash;often millions and millions of them. While every user that wants to send email to a moderate number of recipients suffers just a few seconds' delay, sending millions of emails would take an unaffordable amount of time.  This approach suffers when sender maintains a computation farm of their own or from zombies.</p>
+hashcash</link> require that a sender pay a computational cost by performing a calculation that the receiver can later verify.  Verification must be much faster than performing the calculation, so that the computation slows down a sender but does not significantly impact a receiver. The point is to slow down machines that send most of spam—often millions and millions of them. While every user that wants to send email to a moderate number of recipients suffers just a few seconds' delay, sending millions of emails would take an unaffordable amount of time.  This approach suffers when sender maintains a computation farm of their own or from zombies.</p>
 
 </ss2>
 <ss2>
@@ -1481,7 +1481,7 @@ Spamming</link></activity>
 <col colspan="2" style=";" class="navbox-abovebelow">
 <link>
 History</link>
-&nbsp;·  <link xlink:type="simple" xlink:href="../065/5200065.xml">
+ ·  <link xlink:type="simple" xlink:href="../065/5200065.xml">
 Network Abuse Clearinghouse</link></col>
 </row>
 <row style="height:2px;">
@@ -1507,11 +1507,11 @@ s</col>
 E-mail</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../353/527353.xml">
-Address munging</link>&nbsp;·  <link xlink:type="simple" xlink:href="../488/10748488.xml">
-Bulk email software</link>&nbsp;·  <link xlink:type="simple" xlink:href="../478/4884478.xml">
-Directory Harvest Attack</link>&nbsp;·  <link xlink:type="simple" xlink:href="../977/153977.xml">
-DNSBL</link>&nbsp;·   <link xlink:type="simple" xlink:href="../663/1466663.xml">
-Spambot</link>&nbsp;·  <link xlink:type="simple" xlink:href="../047/13497047.xml">
+Address munging</link> ·  <link xlink:type="simple" xlink:href="../488/10748488.xml">
+Bulk email software</link> ·  <link xlink:type="simple" xlink:href="../478/4884478.xml">
+Directory Harvest Attack</link> ·  <link xlink:type="simple" xlink:href="../977/153977.xml">
+DNSBL</link> ·   <link xlink:type="simple" xlink:href="../663/1466663.xml">
+Spambot</link> ·  <link xlink:type="simple" xlink:href="../047/13497047.xml">
 Pink contract</link></col>
 </row>
 <row style="height:2px">
@@ -1522,13 +1522,13 @@ Pink contract</link></col>
 Other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../958/179958.xml">
-Autodialer</link>&nbsp;·  <link xlink:type="simple" xlink:href="../563/2067563.xml">
-Flyposting</link>&nbsp;·  <link xlink:type="simple" xlink:href="../475/712475.xml">
-Junk fax</link>&nbsp;·  <link xlink:type="simple" xlink:href="../592/394592.xml">
-Messaging</link>&nbsp;·  <link xlink:type="simple" xlink:href="../616/394616.xml">
-Mobile phone</link>&nbsp;·  <link xlink:type="simple" xlink:href="../596/394596.xml">
-Newsgroup</link>&nbsp;·  <link xlink:type="simple" xlink:href="../180/162180.xml">
-Telemarketing</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+Autodialer</link> ·  <link xlink:type="simple" xlink:href="../563/2067563.xml">
+Flyposting</link> ·  <link xlink:type="simple" xlink:href="../475/712475.xml">
+Junk fax</link> ·  <link xlink:type="simple" xlink:href="../592/394592.xml">
+Messaging</link> ·  <link xlink:type="simple" xlink:href="../616/394616.xml">
+Mobile phone</link> ·  <link xlink:type="simple" xlink:href="../596/394596.xml">
+Newsgroup</link> ·  <link xlink:type="simple" xlink:href="../180/162180.xml">
+Telemarketing</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../252/1017252.xml">
 VoIP</link></concept>
@@ -1547,13 +1547,13 @@ VoIP</link></concept>
 Anti-spam</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../908/1626908.xml">
-Disposable e-mail address</link>&nbsp;·  <link xlink:type="simple" xlink:href="../388/1497388.xml">
-E-mail authentication</link>&nbsp;·  <link xlink:type="simple" xlink:href="../989/2064989.xml">
-SORBS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../427/1905427.xml">
-SpamCop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../954/1267954.xml">
-Spamhaus</link>&nbsp;·  <link xlink:type="simple" xlink:href="../790/5718790.xml">
-List poisoning</link>&nbsp;·  <link xlink:type="simple" xlink:href="../929/515929.xml">
-Bayesian spam filtering</link>&nbsp;·  <link xlink:type="simple" xlink:href="../288/15252288.xml">
+Disposable e-mail address</link> ·  <link xlink:type="simple" xlink:href="../388/1497388.xml">
+E-mail authentication</link> ·  <link xlink:type="simple" xlink:href="../989/2064989.xml">
+SORBS</link> ·  <link xlink:type="simple" xlink:href="../427/1905427.xml">
+SpamCop</link> ·  <link xlink:type="simple" xlink:href="../954/1267954.xml">
+Spamhaus</link> ·  <link xlink:type="simple" xlink:href="../790/5718790.xml">
+List poisoning</link> ·  <link xlink:type="simple" xlink:href="../929/515929.xml">
+Bayesian spam filtering</link> ·  <link xlink:type="simple" xlink:href="../288/15252288.xml">
 Policy block list</link></col>
 </row>
 <row style="height:2px">
@@ -1565,14 +1565,14 @@ Policy block list</link></col>
 Spamdexing</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../102/1789102.xml">
-Keyword stuffing</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+Keyword stuffing</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../747/286747.xml">
 Google bomb</link></method>
 </know-how>
 </technique>
-&nbsp;·   <computer wordnetid="103082979" confidence="0.8">
+ ·   <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1585,17 +1585,17 @@ Scraper site</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../213/270213.xml">
-Link farm</link>&nbsp;·  <link xlink:type="simple" xlink:href="../684/714684.xml">
-Webring</link>&nbsp;·  <link xlink:type="simple" xlink:href="../364/418364.xml">
-Cloaking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../839/594839.xml">
-Doorway page</link>&nbsp;·  <link xlink:type="simple" xlink:href="../686/636686.xml">
-URL redirection</link>&nbsp;·   <link xlink:type="simple" xlink:href="../302/2501302.xml">
-Spam blog</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../084/2791084.xml">
-Sping</link>&nbsp;·  <link xlink:type="simple" xlink:href="../822/4803822.xml">
-Forum spam</link>&nbsp;·  <link xlink:type="simple" xlink:href="../830/528830.xml">
-Blog spam</link>&nbsp;·  <link xlink:type="simple" xlink:href="../965/4927965.xml">
-Social networking spam</link>&nbsp;·  <link xlink:type="simple" xlink:href="../814/1376814.xml">
+ ·  <link xlink:type="simple" xlink:href="../213/270213.xml">
+Link farm</link> ·  <link xlink:type="simple" xlink:href="../684/714684.xml">
+Webring</link> ·  <link xlink:type="simple" xlink:href="../364/418364.xml">
+Cloaking</link> ·  <link xlink:type="simple" xlink:href="../839/594839.xml">
+Doorway page</link> ·  <link xlink:type="simple" xlink:href="../686/636686.xml">
+URL redirection</link> ·   <link xlink:type="simple" xlink:href="../302/2501302.xml">
+Spam blog</link>s ·  <link xlink:type="simple" xlink:href="../084/2791084.xml">
+Sping</link> ·  <link xlink:type="simple" xlink:href="../822/4803822.xml">
+Forum spam</link> ·  <link xlink:type="simple" xlink:href="../830/528830.xml">
+Blog spam</link> ·  <link xlink:type="simple" xlink:href="../965/4927965.xml">
+Social networking spam</link> ·  <link xlink:type="simple" xlink:href="../814/1376814.xml">
 Referer spam</link></col>
 </row>
 <row style="height:2px">
@@ -1607,10 +1607,10 @@ Referer spam</link></col>
 Internet fraud</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../526/46526.xml">
-Advance fee fraud</link>&nbsp;·  <link xlink:type="simple" xlink:href="../010/1093010.xml">
-Lottery scam</link>&nbsp;·  <link xlink:type="simple" xlink:href="../858/17362858.xml">
-Make Money Fast</link>&nbsp;·  <link xlink:type="simple" xlink:href="../849/12512849.xml">
-Microcap stock fraud</link>&nbsp;·  <accomplishment wordnetid="100035189" confidence="0.8">
+Advance fee fraud</link> ·  <link xlink:type="simple" xlink:href="../010/1093010.xml">
+Lottery scam</link> ·  <link xlink:type="simple" xlink:href="../858/17362858.xml">
+Make Money Fast</link> ·  <link xlink:type="simple" xlink:href="../849/12512849.xml">
+Microcap stock fraud</link> ·  <accomplishment wordnetid="100035189" confidence="0.8">
 <occupation wordnetid="100582388" confidence="0.8">
 <transgression wordnetid="100745005" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1633,7 +1633,7 @@ Phishing</link></activity>
 </transgression>
 </occupation>
 </accomplishment>
-&nbsp;·  <accomplishment wordnetid="100035189" confidence="0.8">
+ ·  <accomplishment wordnetid="100035189" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">

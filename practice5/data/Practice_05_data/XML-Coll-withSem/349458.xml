@@ -94,7 +94,7 @@ search algorithm</link>s.</p>
 
 In both cases, the method uses the concept of a <link xlink:type="simple" xlink:href="../781/39781.xml">
 simplex</link>, which is a <link xlink:type="simple" xlink:href="../471/23471.xml">
-polytope</link> of <it>N</it>&nbsp;+&nbsp;1 vertices in <it>N</it> dimensions: a <link xlink:type="simple" xlink:href="../193/232193.xml">
+polytope</link> of <it>N</it> + 1 vertices in <it>N</it> dimensions: a <link xlink:type="simple" xlink:href="../193/232193.xml">
 line segment</link> in one dimension, a <link xlink:type="simple" xlink:href="../654/30654.xml">
 triangle</link> in two dimensions, a <link xlink:type="simple" xlink:href="../606/30606.xml">
 tetrahedron</link> in three-dimensional space and so forth.</p>
@@ -392,7 +392,7 @@ Karmarkar's algorithm</link></algorithm>
 <entry id="1">
 <it>Computing in Science and Engineering</it>, volume 2, no. 1, 2000</entry>
 <entry id="2">
-Greenberg, cites: V. Klee and G.J. Minty. "How Good is the Simplex Algorithm?" In O. Shisha, editor, <it>Inequalities, III</it>, pages 159&ndash;175. Academic Press, New York, NY, 1972</entry>
+Greenberg, cites: V. Klee and G.J. Minty. "How Good is the Simplex Algorithm?" In O. Shisha, editor, <it>Inequalities, III</it>, pages 159–175. Academic Press, New York, NY, 1972</entry>
 </reflist>
 </p>
 
@@ -422,7 +422,7 @@ Charles E. Leiserson</link></scientist>
 Ronald L. Rivest</link>, and <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../993/3489993.xml">
 Clifford Stein</link></scientist>
-. <it>Introduction to Algorithms</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 29.3: The simplex algorithm, pp.790&ndash;804.</entry>
+. <it>Introduction to Algorithms</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 29.3: The simplex algorithm, pp.790–804.</entry>
 <entry level="1" type="bullet">
 
  Hamdy A. Taha: <it>Operations Research: An Introduction</it>, 8th ed., Prentice Hall, 2007. ISBN 0-13-188923-0</entry>

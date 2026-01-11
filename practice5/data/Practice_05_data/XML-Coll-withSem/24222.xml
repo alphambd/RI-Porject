@@ -84,7 +84,7 @@ symmetric cipher</link></algorithm>
 
 <b><it>Public-key cryptography</it></b>, also known as <b>asymmetric cryptography</b>, is a form of <link xlink:type="simple" xlink:href="../432/18934432.xml">
 cryptography</link> in which the key used to encrypt a message differs from the key used to decrypt it. In public key cryptography, a user has a pair of <link>
-cryptographic key</link>s&mdash;a <b>public key</b> and a <b>private key</b>. The private key is kept secret, while the public key may be widely distributed. Incoming messages would have been <link xlink:type="simple" xlink:href="../294/10294.xml">
+cryptographic key</link>s—a <b>public key</b> and a <b>private key</b>. The private key is kept secret, while the public key may be widely distributed. Incoming messages would have been <link xlink:type="simple" xlink:href="../294/10294.xml">
 encrypted</link> with the recipient's public key and can only be decrypted with his corresponding private key. The keys are related mathematically, but the private key cannot be practically derived from the public key. <p>
 
 Conversely, <it>secret key cryptography</it>, also known as <event wordnetid="100029378" confidence="0.8">
@@ -110,7 +110,7 @@ The two main branches of public key cryptography are:
 <list>
 <entry level="1" type="bullet">
 
- <b>Public key encryption</b> &mdash; a message encrypted with a recipient's public key cannot be decrypted by anyone except the recipient possessing the corresponding private key. This is used to ensure <link xlink:type="simple" xlink:href="../859/353859.xml">
+ <b>Public key encryption</b> — a message encrypted with a recipient's public key cannot be decrypted by anyone except the recipient possessing the corresponding private key. This is used to ensure <link xlink:type="simple" xlink:href="../859/353859.xml">
 confidentiality</link>.</entry>
 <entry level="1" type="bullet">
 
@@ -121,7 +121,7 @@ confidentiality</link>.</entry>
 Digital signature</link></writing>
 </written_communication>
 </document>
-s &mdash; a message signed with a sender's private key can be verified by anyone who has access to the sender's public key, thereby proving that the sender signed it and that the message has not been tampered with. This is used to ensure <link xlink:type="simple" xlink:href="../967/47967.xml">
+s — a message signed with a sender's private key can be verified by anyone who has access to the sender's public key, thereby proving that the sender signed it and that the message has not been tampered with. This is used to ensure <link xlink:type="simple" xlink:href="../967/47967.xml">
 authenticity</link>.</entry>
 </list>
 </p>
@@ -174,7 +174,7 @@ History</st>
 
 For most of the <link xlink:type="simple" xlink:href="../066/520066.xml">
 history of cryptography</link>, a key had to be kept absolutely secret and would be agreed upon beforehand using a secure, but non-cryptographic, method; for example, a face-to-face meeting or a trusted courier. There are a number of significant practical difficulties in this approach to <link xlink:type="simple" xlink:href="../275/1725275.xml">
-distributing keys</link>. Public-key cryptography was invented to address these drawbacks &mdash; 
+distributing keys</link>. Public-key cryptography was invented to address these drawbacks — 
 with public-key cryptography, users can communicate securely over an insecure channel without having to agree upon a shared key beforehand.</p>
 <p>
 
@@ -872,11 +872,11 @@ Public Key Cryptography</weblink></entry>
  <cite id="Reference-N. Ferguson-2003" style="font-style:normal" class="book">N. Ferguson;&#32;B. Schneier&#32;(2003). Practical Cryptography.&#32;<company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../930/537930.xml">
 Wiley</link></company>
-. ISBN 0-471-22357-3.</cite>&nbsp;</entry>
+. ISBN 0-471-22357-3.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite id="Reference-J. Katz-2007" style="font-style:normal" class="book">J. Katz;&#32;Y. Lindell&#32;(2007). Introduction to Modern Cryptography.&#32;<link xlink:type="simple" xlink:href="../382/834382.xml">
-CRC Press</link>. ISBN 1-58488-551-3.</cite>&nbsp;</entry>
+CRC Press</link>. ISBN 1-58488-551-3.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite id="Reference-A. J. Menezes-1997" style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -906,7 +906,7 @@ S. A. Vanstone</link></decoder>
 </person>
 </physical_entity>
 &#32;(1997). <weblink xlink:type="simple" xlink:href="http://www.cacr.math.uwaterloo.ca/hac/">
-Handbook of Applied Cryptography</weblink>. ISBN 0-8493-8523-7.</cite>&nbsp;</entry>
+Handbook of Applied Cryptography</weblink>. ISBN 0-8493-8523-7.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite id="Reference-Anoop MS-2007" style="font-style:normal" class="book">Anoop MS&#32;(2007). <weblink xlink:type="simple" xlink:href="http://www.infosecwriters.com/text_resources/pdf/Public_Key_Cryptography_AMS.pdf">
@@ -916,7 +916,7 @@ India</link></country>
 :&#32;<company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../718/2481718.xml">
 Tata Elxsi</link></company>
-.</cite>&nbsp;</entry>
+.</cite> </entry>
 </list>
 </p>
 
@@ -1054,7 +1054,7 @@ An account of how GCHQ kept their invention of PKE secret until 1997</weblink></
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../222/24222.xml">
+ <link xlink:type="simple" xlink:href="../222/24222.xml">
 Public-key cryptography</link></header>
 </row>
 <row style="height:2px;">
@@ -1064,9 +1064,9 @@ Public-key cryptography</link></header>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Algorithms:</b> <link xlink:type="simple" xlink:href="../287/14050287.xml">
-CEILIDH</link>&nbsp;&#124; 
+CEILIDH</link> &#124; 
 <link xlink:type="simple" xlink:href="../406/1564406.xml">
-Cramer-Shoup</link>&nbsp;&#124; 
+Cramer-Shoup</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -1076,13 +1076,13 @@ DH</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../470/59470.xml">
-DSA</link>&nbsp;&#124; 
+DSA</link> &#124; 
 <link xlink:type="simple" xlink:href="../958/3357958.xml">
-ECDH</link>&nbsp;&#124; 
+ECDH</link> &#124; 
 <link xlink:type="simple" xlink:href="../525/450525.xml">
-ECDSA</link>&nbsp;&#124; 
+ECDSA</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -1092,31 +1092,31 @@ EKE</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../458/59458.xml">
-ElGamal encryption</link>&nbsp;&#124; 
+ElGamal encryption</link> &#124; 
 <link xlink:type="simple" xlink:href="../473/2033473.xml">
-ElGamal signature scheme</link>&nbsp;&#124; 
+ElGamal signature scheme</link> &#124; 
 <link xlink:type="simple" xlink:href="../608/598608.xml">
-GMR</link>&nbsp;&#124; 
+GMR</link> &#124; 
 <link xlink:type="simple" xlink:href="../076/3530076.xml">
-IES</link>&nbsp;&#124; 
+IES</link> &#124; 
 <link xlink:type="simple" xlink:href="../486/3200486.xml">
-Lamport</link>&nbsp;&#124; 
+Lamport</link> &#124; 
 <link xlink:type="simple" xlink:href="../447/1586447.xml">
-MQV</link>&nbsp;&#124; 
+MQV</link> &#124; 
 <link xlink:type="simple" xlink:href="../582/481582.xml">
-NTRUEncrypt</link>&nbsp;&#124; 
+NTRUEncrypt</link> &#124; 
 <link xlink:type="simple" xlink:href="../327/3513327.xml">
-NTRUSign</link>&nbsp;&#124; 
+NTRUSign</link> &#124; 
 <link xlink:type="simple" xlink:href="../685/480685.xml">
-Paillier</link>&nbsp;&#124; 
+Paillier</link> &#124; 
 <link xlink:type="simple" xlink:href="../283/451283.xml">
-Rabin</link>&nbsp;&#124; 
+Rabin</link> &#124; 
 <link xlink:type="simple" xlink:href="../385/25385.xml">
-RSA</link>&nbsp;&#124; 
+RSA</link> &#124; 
 <link xlink:type="simple" xlink:href="../536/450536.xml">
-Schnorr</link>&nbsp;&#124; 
+Schnorr</link> &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -1126,7 +1126,7 @@ SPEKE</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -1140,7 +1140,7 @@ SRP</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -1154,7 +1154,7 @@ STS</link></method>
 </know-how>
 </protocol>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1176,7 +1176,7 @@ XTR</link></geographical_area>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Theory:</b> <link xlink:type="simple" xlink:href="../334/181334.xml">
-Discrete logarithm</link>&nbsp;&#124; 
+Discrete logarithm</link> &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -1188,7 +1188,7 @@ Elliptic curve cryptography</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../741/1544741.xml">
 RSA problem</link></p>
 </col>
@@ -1200,25 +1200,25 @@ RSA problem</link></p>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Standardization:</b> <link>
-ANS X9F1</link>&nbsp;&#124; 
+ANS X9F1</link> &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../159/549159.xml">
 CRYPTREC</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../154/1644154.xml">
 IEEE P1363</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/497430.xml">
 NESSIE</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../099/1602099.xml">
 NSA Suite B</link></p>
 </col>
@@ -1236,13 +1236,13 @@ NSA Suite B</link></p>
 Digital signature</link></writing>
 </written_communication>
 </document>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../312/7943312.xml">
-Fingerprint</link>&nbsp;&#124; 
+Fingerprint</link> &#124; 
 <link xlink:type="simple" xlink:href="../112/194112.xml">
-PKI</link>&nbsp;&#124; 
+PKI</link> &#124; 
 <link xlink:type="simple" xlink:href="../356/296356.xml">
-Web of trust</link>&nbsp;&#124; 
+Web of trust</link> &#124; 
 <link xlink:type="simple" xlink:href="../749/5749.xml">
 Key size</link></p>
 </col>
@@ -1261,7 +1261,7 @@ Key size</link></p>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

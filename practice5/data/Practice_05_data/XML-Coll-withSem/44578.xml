@@ -121,7 +121,7 @@ analysis of algorithms</link>. In both of the applications, the function <it>g</
 
 There are two formally close, but noticeably different, usages of this notation: <link xlink:type="simple" xlink:href="../455/15455.xml">
 infinite</link> asymptotics and <link xlink:type="simple" xlink:href="../990/160990.xml">
-infinitesimal</link> asymptotics. This distinction is only in application and not in principle, however&mdash;the formal definition for the "big O" is the same for both cases, only with different limits for the function argument.</p>
+infinitesimal</link> asymptotics. This distinction is only in application and not in principle, however—the formal definition for the "big O" is the same for both cases, only with different limits for the function argument.</p>
 
 <ss1>
 <st>
@@ -133,7 +133,7 @@ analyzing algorithms</link> for efficiency.  For example, the time (or the numbe
 <p>
 
 As <it>n</it> grows large, the <it>n</it>² <link xlink:type="simple" xlink:href="../665/668665.xml">
-term</link> will come to dominate, so that all other terms can be neglected &mdash; for instance when <it>n</it> = 500, the term 4<it>n</it>² is 1000 times as large as the 2<it>n</it> term. Ignoring the latter would have negligible effect on the expression's value for most purposes.</p>
+term</link> will come to dominate, so that all other terms can be neglected — for instance when <it>n</it> = 500, the term 4<it>n</it>² is 1000 times as large as the 2<it>n</it> term. Ignoring the latter would have negligible effect on the expression's value for most purposes.</p>
 <p>
 
 Further, the <link xlink:type="simple" xlink:href="../203/51203.xml">
@@ -211,7 +211,7 @@ for all <math>x &amp;gt; 1</math> (we take <math>x_0 = 1</math>):
 :<math> |6x^4 - 2x^3 + 5| \le 13x^4 \,</math>
 <indent level="1">
 
-<math> |6x^4 - 2x^3 + 5| \le 13 \,|x^4 |. \,</math> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  where M = 13 in this example
+<math> |6x^4 - 2x^3 + 5| \le 13 \,|x^4 |. \,</math>                        where M = 13 in this example
 </indent>
 
 </p>
@@ -1023,7 +1023,7 @@ differentiability</link> in quite general spaces, and also (asymptotical) equiva
 <math> f\sim g \iff (f-g) \in o(g) </math>
 </indent>
 which is an <link xlink:type="simple" xlink:href="../259/9259.xml">
-equivalence relation</link> and a more restrictive notion than the relationship "<it>f</it> is <it>Θ</it>(<it>g</it>)" from above. (It reduces to <math>\lim f/g = 1</math> if <it>f</it> and <it>g</it> are positive real valued functions.)  For example, 2<it>x</it> is <it>Θ</it>(<it>x</it>), but 2<it>x</it>&nbsp;&amp;minus;&nbsp;<it>x</it> is not <it>o</it>(<it>x</it>).</p>
+equivalence relation</link> and a more restrictive notion than the relationship "<it>f</it> is <it>Θ</it>(<it>g</it>)" from above. (It reduces to <math>\lim f/g = 1</math> if <it>f</it> and <it>g</it> are positive real valued functions.)  For example, 2<it>x</it> is <it>Θ</it>(<it>x</it>), but 2<it>x</it> &amp;minus; <it>x</it> is not <it>o</it>(<it>x</it>).</p>
 
 </sec>
 <sec>
@@ -1126,7 +1126,7 @@ Big Omicron and big Omega and big Theta</weblink></it>, ACM SIGACT News, Volume 
 <link xlink:type="simple" xlink:href="../095/8095.xml">
 Donald Knuth</link></scientist>
 </person>
-. <it>The Art of Computer Programming</it>, Volume 1: <it>Fundamental Algorithms</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89683-4. Section 1.2.11: Asymptotic Representations, pp.107&ndash;123.</entry>
+. <it>The Art of Computer Programming</it>, Volume 1: <it>Fundamental Algorithms</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89683-4. Section 1.2.11: Asymptotic Representations, pp.107–123.</entry>
 <entry level="1" type="bullet">
 
  <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -1166,7 +1166,7 @@ Michael Sipser</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>&nbsp; Pages 226–228 of section 7.1: Measuring complexity.</entry>
+&#32;(1997). Introduction to the Theory of Computation.&#32;PWS Publishing. ISBN 0-534-94728-X.</cite>  Pages 226–228 of section 7.1: Measuring complexity.</entry>
 <entry level="1" type="bullet">
 
  Jeremy Avigad, Kevin Donnelly. <it><weblink xlink:type="simple" xlink:href="http://www.andrew.cmu.edu/~avigad/Papers/bigo.pdf">

@@ -64,26 +64,26 @@ directories</link> in the same way. Different operating systems impose different
 <list>
 <entry level="1" type="bullet">
 
- <b>protocol</b> (or <b>scheme</b>) &mdash; access method (e.g., http, ftp, file etc.)</entry>
+ <b>protocol</b> (or <b>scheme</b>) — access method (e.g., http, ftp, file etc.)</entry>
 <entry level="1" type="bullet">
 
- <b>host</b> (or <b>network-ID</b>) &mdash; host name, IP address, domain name, or LAN network name (e.g., wikipedia.org, 207.142.131.206, \\MYCOMPUTER, SYS:, etc.)</entry>
+ <b>host</b> (or <b>network-ID</b>) — host name, IP address, domain name, or LAN network name (e.g., wikipedia.org, 207.142.131.206, \\MYCOMPUTER, SYS:, etc.)</entry>
 <entry level="1" type="bullet">
 
- <b>device</b> (or <b>node</b>) &mdash; port, socket, drive, root mountpoint, disc, volume (e.g., C:, /, SYSLIB, etc.)</entry>
+ <b>device</b> (or <b>node</b>) — port, socket, drive, root mountpoint, disc, volume (e.g., C:, /, SYSLIB, etc.)</entry>
 <entry level="1" type="bullet">
 
- <b>directory</b> (or <b>path</b>) &mdash; directory tree (e.g., <link xlink:type="simple" xlink:href="../790/287790.xml">
+ <b>directory</b> (or <b>path</b>) — directory tree (e.g., <link xlink:type="simple" xlink:href="../790/287790.xml">
 /usr/bin</link>, \TEMP, [USR.LIB.SRC], etc.)</entry>
 <entry level="1" type="bullet">
 
- <b>file</b> &mdash; base name of the file</entry>
+ <b>file</b> — base name of the file</entry>
 <entry level="1" type="bullet">
 
- <b>type</b> (format or <b>extension</b>) &mdash; indicates the content type of the file (e.g., .txt, .exe, .dir, etc.)</entry>
+ <b>type</b> (format or <b>extension</b>) — indicates the content type of the file (e.g., .txt, .exe, .dir, etc.)</entry>
 <entry level="1" type="bullet">
 
- <b>version</b> &mdash; revision number of the file</entry>
+ <b>version</b> — revision number of the file</entry>
 </list>
 </p>
 <p>
@@ -441,7 +441,7 @@ any (including Unicode characters)</col>
 <col>
 / null (i.e., 0x00)</col>
 <col>
-<b>Only in Root Directory:</b>&nbsp; $AttrDef $BadClus $Bitmap $Boot $LogFile $MFT $MFTMirr pagefile.sys $Secure $UpCase $Volume $Extend $Extend\$ObjId $Extend\$Quota $Extend\$Reparse ($Extend is a directory)</col>
+<b>Only in Root Directory:</b>  $AttrDef $BadClus $Bitmap $Boot $LogFile $MFT $MFTMirr pagefile.sys $Secure $UpCase $Volume $Extend $Extend\$ObjId $Extend\$Quota $Extend\$Reparse ($Extend is a directory)</col>
 <col>
 255</col>
 <col align="left">

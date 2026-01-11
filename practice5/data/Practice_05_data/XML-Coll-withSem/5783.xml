@@ -162,7 +162,7 @@ interpreter</link>.</p>
 <p>
 
 Compiled computer programs are commonly referred to as executables, binary images, or simply as <link xlink:type="simple" xlink:href="../702/920702.xml">
-binaries</link> &mdash; a reference to the <link xlink:type="simple" xlink:href="../686/238686.xml">
+binaries</link> — a reference to the <link xlink:type="simple" xlink:href="../686/238686.xml">
 binary</link> <link xlink:type="simple" xlink:href="../600/18933600.xml">
 file format</link> used to store the executable code. Compilers are used to translate source code from a programming language into either <link xlink:type="simple" xlink:href="../307/337307.xml">
 object code</link> or <link xlink:type="simple" xlink:href="../683/20683.xml">
@@ -373,7 +373,7 @@ web browser</link>.</p>
 <indent level="1">
 
 <it>See also: <link xlink:type="simple" xlink:href="../178/45178.xml">
-Process (computing)</link>&nbsp;and <link xlink:type="simple" xlink:href="../020/64020.xml">
+Process (computing)</link> and <link xlink:type="simple" xlink:href="../020/64020.xml">
 Multiprocessing</link></it>
 </indent>
 Many operating systems support <link xlink:type="simple" xlink:href="../857/6857.xml">
@@ -431,29 +431,29 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal" class="book">Stair, Ralph M., et al&#32;(2003). Principles of Information Systems, Sixth Edition.&#32;Thomson Learning, Inc.,&#32;132. ISBN 0-619-06489-7.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Stair, Ralph M., et al&#32;(2003). Principles of Information Systems, Sixth Edition.&#32;Thomson Learning, Inc.,&#32;132. ISBN 0-619-06489-7.</cite> </entry>
 <entry id="2">
- <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;58. ISBN 0-201-50480-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;58. ISBN 0-201-50480-4.</cite> </entry>
 <entry id="3">
- <cite style="font-style:normal" class="book">Wilson, Leslie B.&#32;(1993). Comparative Programming Languages, Second Edition.&#32;Addison-Wesley,&#32;75. ISBN 0-201-56885-3.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Wilson, Leslie B.&#32;(1993). Comparative Programming Languages, Second Edition.&#32;Addison-Wesley,&#32;75. ISBN 0-201-56885-3.</cite> </entry>
 <entry id="4">
- <cite style="font-style:normal" class="book">Wilson, Leslie B.&#32;(1993). Comparative Programming Languages, Second Edition.&#32;Addison-Wesley,&#32;213. ISBN 0-201-56885-3.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Wilson, Leslie B.&#32;(1993). Comparative Programming Languages, Second Edition.&#32;Addison-Wesley,&#32;213. ISBN 0-201-56885-3.</cite> </entry>
 <entry id="5">
- <cite style="font-style:normal" class="book">Wilson, Leslie B.&#32;(1993). Comparative Programming Languages, Second Edition.&#32;Addison-Wesley,&#32;244. ISBN 0-201-56885-3.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Wilson, Leslie B.&#32;(1993). Comparative Programming Languages, Second Edition.&#32;Addison-Wesley,&#32;244. ISBN 0-201-56885-3.</cite> </entry>
 <entry id="6">
- <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;97. ISBN 0-201-50480-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;97. ISBN 0-201-50480-4.</cite> </entry>
 <entry id="7">
- <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;30. ISBN 0-201-50480-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;30. ISBN 0-201-50480-4.</cite> </entry>
 <entry id="8">
- <cite style="font-style:normal" class="book">Tanenbaum, Andrew S.&#32;(1990). Structured Computer Organization, Third Edition.&#32;Prentice Hall,&#32;11. ISBN 0-13-854662-2.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Tanenbaum, Andrew S.&#32;(1990). Structured Computer Organization, Third Edition.&#32;Prentice Hall,&#32;11. ISBN 0-13-854662-2.</cite> </entry>
 <entry id="9">
- <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;6. ISBN 0-201-50480-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;6. ISBN 0-201-50480-4.</cite> </entry>
 <entry id="10">
- <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;100. ISBN 0-201-50480-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;100. ISBN 0-201-50480-4.</cite> </entry>
 <entry id="11">
- <cite style="font-style:normal" class="book">Akhter, Shameem&#32;(2006). Multi-Core Programming.&#32;Richard Bowles (Intel Press),&#32;pp. 11-13. ISBN 0-9764832-4-6.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Akhter, Shameem&#32;(2006). Multi-Core Programming.&#32;Richard Bowles (Intel Press),&#32;pp. 11-13. ISBN 0-9764832-4-6.</cite> </entry>
 <entry id="12">
- <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;1. ISBN 0-201-50480-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Silberschatz, Abraham&#32;(1994). Operating System Concepts, Fourth Edition.&#32;Addison-Wesley,&#32;1. ISBN 0-201-50480-4.</cite> </entry>
 </reflist>
 </p>
 
@@ -467,13 +467,13 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Knuth, Donald E.&#32;(1997). The Art of Computer Programming, Volume 1, 3rd Edition.&#32;Boston:&#32;Addison-Wesley. ISBN 0-201-89683-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Knuth, Donald E.&#32;(1997). The Art of Computer Programming, Volume 1, 3rd Edition.&#32;Boston:&#32;Addison-Wesley. ISBN 0-201-89683-4.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Knuth-1997" style="font-style:normal" class="book">Knuth, Donald E.&#32;(1997). The Art of Computer Programming, Volume 2, 3rd Edition.&#32;Boston:&#32;Addison-Wesley. ISBN 0-201-89684-2.</cite>&nbsp;</entry>
+ <cite id="Reference-Knuth-1997" style="font-style:normal" class="book">Knuth, Donald E.&#32;(1997). The Art of Computer Programming, Volume 2, 3rd Edition.&#32;Boston:&#32;Addison-Wesley. ISBN 0-201-89684-2.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Knuth-1997" style="font-style:normal" class="book">Knuth, Donald E.&#32;(1997). The Art of Computer Programming, Volume 3, 3rd Edition.&#32;Boston:&#32;Addison-Wesley. ISBN 0-201-89685-0.</cite>&nbsp;</entry>
+ <cite id="Reference-Knuth-1997" style="font-style:normal" class="book">Knuth, Donald E.&#32;(1997). The Art of Computer Programming, Volume 3, 3rd Edition.&#32;Boston:&#32;Addison-Wesley. ISBN 0-201-89685-0.</cite> </entry>
 </list>
 </p>
 

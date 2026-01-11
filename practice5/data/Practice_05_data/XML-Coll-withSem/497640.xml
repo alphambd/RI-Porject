@@ -245,8 +245,8 @@ limit</link></group>
 </sequence>
 </arrangement>
 </series>
- as <it>n</it> goes to infinity: if α&nbsp;&nbsp;1, the limit is one, while if α&nbsp;&amp;gt;&nbsp;1, the limit is zero. Thus, the problem exhibits a <link xlink:type="simple" xlink:href="../423/54423.xml">
-phase transition</link> at α&nbsp;=&nbsp;1.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref></p>
+ as <it>n</it> goes to infinity: if α  1, the limit is one, while if α &amp;gt; 1, the limit is zero. Thus, the problem exhibits a <link xlink:type="simple" xlink:href="../423/54423.xml">
+phase transition</link> at α = 1.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2217%22])">17</ref></p>
 
 </sec>
 <sec>
@@ -278,7 +278,7 @@ References</st>
 <reflist>
 <entry id="1">
  <cite id="CITEREFDoddiMaratheMirzaianMoret1997" style="font-style:normal">Doddi, Srinivas; Marathe, Madhav V.; Mirzaian, Andy; Moret, Bernard M. E.&#32;&amp;&#32;Zhu, Binhai&#32;(1997),&#32;<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=314250">
-"Map labeling and its generalizations"</weblink>,&#32;<it>Proc. 8th ACM-SIAM Symp. Discrete Algorithms (SODA)</it>, pp. 148–157, </cite>&nbsp;;  <cite id="CITEREFFormannWagner1991" style="font-style:normal">Formann, M.&#32;&amp;&#32;Wagner, F.&#32;(1991),&#32;"A packing problem with applications to lettering of maps",&#32;<it>Proc. 7th ACM Symp. Computational Geometry</it>, pp. 281–288</cite>&nbsp;;  <cite id="CITEREFPoonZhuChin1998" style="font-style:normal">Poon, Chung Keung; Zhu, Binhai&#32;&amp;&#32;Chin, Francis&#32;(1998),&#32;"A polynomial time solution for labeling a rectilinear map",&#32;<it>Information Processing Letters</it>&#32;<b>65</b>(4):  201–207, <document wordnetid="106470073" confidence="0.8">
+"Map labeling and its generalizations"</weblink>,&#32;<it>Proc. 8th ACM-SIAM Symp. Discrete Algorithms (SODA)</it>, pp. 148–157, </cite> ;  <cite id="CITEREFFormannWagner1991" style="font-style:normal">Formann, M.&#32;&amp;&#32;Wagner, F.&#32;(1991),&#32;"A packing problem with applications to lettering of maps",&#32;<it>Proc. 7th ACM Symp. Computational Geometry</it>, pp. 281–288</cite> ;  <cite id="CITEREFPoonZhuChin1998" style="font-style:normal">Poon, Chung Keung; Zhu, Binhai&#32;&amp;&#32;Chin, Francis&#32;(1998),&#32;"A polynomial time solution for labeling a rectilinear map",&#32;<it>Information Processing Letters</it>&#32;<b>65</b>(4):  201–207, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -286,7 +286,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0020-0190%2898%2900002-7">
-10.1016/S0020-0190(98)00002-7</weblink></cite>&nbsp;;  <cite id="CITEREFWagnerWolff1997" style="font-style:normal">Wagner, Frank&#32;&amp;&#32;Wolff, Alexander&#32;(1997),&#32;"A practical map labeling algorithm",&#32;<it>Computational Geometry: Theory and Applications</it>&#32;<b>7</b>(5–6):  387–404, <document wordnetid="106470073" confidence="0.8">
+10.1016/S0020-0190(98)00002-7</weblink></cite> ;  <cite id="CITEREFWagnerWolff1997" style="font-style:normal">Wagner, Frank&#32;&amp;&#32;Wolff, Alexander&#32;(1997),&#32;"A practical map labeling algorithm",&#32;<it>Computational Geometry: Theory and Applications</it>&#32;<b>7</b>(5–6):  387–404, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -294,7 +294,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0925-7721%2896%2900007-7">
-10.1016/S0925-7721(96)00007-7</weblink></cite>&nbsp;.</entry>
+10.1016/S0925-7721(96)00007-7</weblink></cite> .</entry>
 <entry id="2">
  <cite id="CITEREFBorosHammerMinouxRader1999" style="font-style:normal">Boros, Endre; Hammer, Peter L.; Minoux, Michel&#32;&amp;&#32;Rader, David J., Jr.&#32;(1999),&#32;"Optimal cell flipping to minimize channel density in VLSI design and pseudo-Boolean optimization",&#32;<it>Discrete Applied Mathematics</it>&#32;<b>90</b>(1–3):  69–88, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -304,10 +304,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0166-218X%2898%2900114-0">
-10.1016/S0166-218X(98)00114-0</weblink></cite>&nbsp;.</entry>
+10.1016/S0166-218X(98)00114-0</weblink></cite> .</entry>
 <entry id="3">
  <cite id="CITEREFEfratErtenKobourov2007" style="font-style:normal">Efrat, Alon; Erten, Cesim&#32;&amp;&#32;Kobourov, Stephen G.&#32;(2007),&#32;"<weblink xlink:type="simple" xlink:href="http://jgaa.info/accepted/2007/EfratErtenKobourov2007.11.1.pdf">
-Fixed-location circular arc drawing of planar graphs</weblink>",&#32;<it>Journal of Graph Algorithms and Applications</it>&#32;<b>11</b>(1):  145–164, </cite>&nbsp;;  <cite id="CITEREFRaghavanCohoonSahni1986" style="font-style:normal">Raghavan, Raghunath; Cohoon, James&#32;&amp;&#32;Sahni, Sartaj&#32;(1986),&#32;"Single bend wiring",&#32;<it>Journal of Algorithms</it>&#32;<b>7</b>(2):  232–237, <document wordnetid="106470073" confidence="0.8">
+Fixed-location circular arc drawing of planar graphs</weblink>",&#32;<it>Journal of Graph Algorithms and Applications</it>&#32;<b>11</b>(1):  145–164, </cite> ;  <cite id="CITEREFRaghavanCohoonSahni1986" style="font-style:normal">Raghavan, Raghunath; Cohoon, James&#32;&amp;&#32;Sahni, Sartaj&#32;(1986),&#32;"Single bend wiring",&#32;<it>Journal of Algorithms</it>&#32;<b>7</b>(2):  232–237, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -315,7 +315,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2F0196-6774%2886%2990006-4">
-10.1016/0196-6774(86)90006-4</weblink></cite>&nbsp;.</entry>
+10.1016/0196-6774(86)90006-4</weblink></cite> .</entry>
 <entry id="4">
  <cite id="CITEREFHansenJaumard1987" style="font-style:normal">Hansen, P.&#32;&amp;&#32;Jaumard, B.&#32;(1987),&#32;"Minimum sum of diameters clustering",&#32;<it>Journal of Classification</it>&#32;<b>4</b>(2):  215–226, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -325,7 +325,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF01896987">
-10.1007/BF01896987</weblink></cite>&nbsp;;  <cite id="CITEREFRamnath2004" style="font-style:normal">Ramnath, Sarnath&#32;(2004),&#32;"Dynamic digraph connectivity hastens minimum sum-of-diameters clustering",&#32;<it>SIAM Journal on Discrete Mathematics</it>&#32;<b>18</b>(2):  272–286, <document wordnetid="106470073" confidence="0.8">
+10.1007/BF01896987</weblink></cite> ;  <cite id="CITEREFRamnath2004" style="font-style:normal">Ramnath, Sarnath&#32;(2004),&#32;"Dynamic digraph connectivity hastens minimum sum-of-diameters clustering",&#32;<it>SIAM Journal on Discrete Mathematics</it>&#32;<b>18</b>(2):  272–286, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -333,7 +333,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137%2FS0895480102396099">
-10.1137/S0895480102396099</weblink></cite>&nbsp;.</entry>
+10.1137/S0895480102396099</weblink></cite> .</entry>
 <entry id="5">
  <cite id="CITEREFMiyashiroMatsui2005" style="font-style:normal">Miyashiro, Ryuhei&#32;&amp;&#32;Matsui, Tomomi&#32;(2005),&#32;"A polynomial-time algorithm to find an equitable home–away assignment",&#32;<it>Operations Research Letters</it>&#32;<b>33</b>(3):  235–241, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -343,7 +343,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.orl.2004.06.004">
-10.1016/j.orl.2004.06.004</weblink></cite>&nbsp;.</entry>
+10.1016/j.orl.2004.06.004</weblink></cite> .</entry>
 <entry id="6">
  <cite id="CITEREFBrandst.C3.A4dtHammerLeLozin2005" style="font-style:normal">Brandstädt, Andreas; Hammer, Peter L.; Le, Van Bang&#32;&amp;&#32;Lozin, Vadim V.&#32;(2005),&#32;"Bisplit graphs",&#32;<it>Discrete Mathematics</it>&#32;<b>299</b>(1–3):  11–32, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -353,7 +353,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.disc.2004.08.046">
-10.1016/j.disc.2004.08.046</weblink></cite>&nbsp;.</entry>
+10.1016/j.disc.2004.08.046</weblink></cite> .</entry>
 <entry id="7">
  <cite id="CITEREFWangXieYangSilberschatz2005" style="font-style:normal">Wang, Hao; Xie, Haiyong; Yang, Yang Richard; Silberschatz, Avi; Li, Li Erran&#32;&amp;&#32;Liu, Yanbin&#32;(2005),&#32;"Stable egress route selection for interdomain traffic engineering: model and analysis",&#32;<it>13th IEEE Conf. Network Protocols (ICNP)</it>, pp. 16–29, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -363,11 +363,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FICNP.2005.39">
-10.1109/ICNP.2005.39</weblink></cite>&nbsp;.</entry>
+10.1109/ICNP.2005.39</weblink></cite> .</entry>
 <entry id="8">
  <cite id="CITEREFEskinHalperinKarp2003" style="font-style:normal">Eskin, Eleazar; Halperin, Eran&#32;&amp;&#32;<link>
 Karp, Richard M.</link>&#32;(2003),&#32;"<weblink xlink:type="simple" xlink:href="http://www.worldscinet.com/cgi-bin/details.cgi?id=pii:S0219720003000174&amp;type=html">
-Efficient reconstruction of haplotype structure via perfect phylogeny</weblink>",&#32;<it>Journal of Bioinformatics and Computational Biology</it>&#32;<b>1</b>(1):  1–20, </cite>&nbsp;.</entry>
+Efficient reconstruction of haplotype structure via perfect phylogeny</weblink>",&#32;<it>Journal of Bioinformatics and Computational Biology</it>&#32;<b>1</b>(1):  1–20, </cite> .</entry>
 <entry id="9">
  <cite id="CITEREFBrunettiDaurat2003" style="font-style:normal">Brunetti, Sara&#32;&amp;&#32;Daurat, Alain&#32;(2003),&#32;"An algorithm reconstructing convex lattice sets",&#32;<it>Theoretical computer science</it>&#32;<b>304</b>(1–3):  35–57, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -377,7 +377,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0304-3975%2803%2900050-1">
-10.1016/S0304-3975(03)00050-1</weblink></cite>&nbsp;;  <cite id="CITEREFChrobakD.C3.BCrr1999" style="font-style:normal">Chrobak, Marek&#32;&amp;&#32;Dürr, Christoph&#32;(1999),&#32;"Reconstructing hv-convex polyominoes from orthogonal projections",&#32;<it>Information Processing Letters</it>&#32;<b>69</b>(6):  283–289, <document wordnetid="106470073" confidence="0.8">
+10.1016/S0304-3975(03)00050-1</weblink></cite> ;  <cite id="CITEREFChrobakD.C3.BCrr1999" style="font-style:normal">Chrobak, Marek&#32;&amp;&#32;Dürr, Christoph&#32;(1999),&#32;"Reconstructing hv-convex polyominoes from orthogonal projections",&#32;<it>Information Processing Letters</it>&#32;<b>69</b>(6):  283–289, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -385,7 +385,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0020-0190%2899%2900025-3">
-10.1016/S0020-0190(99)00025-3</weblink></cite>&nbsp;;  <cite id="CITEREFKubaBalogh2002" style="font-style:normal">Kuba, Attila&#32;&amp;&#32;Balogh, Emese&#32;(2002),&#32;"Reconstruction of convex 2D discrete sets in polynomial time",&#32;<it>Theoretical Computer Science</it>&#32;<b>283</b>(1):  223–242, <document wordnetid="106470073" confidence="0.8">
+10.1016/S0020-0190(99)00025-3</weblink></cite> ;  <cite id="CITEREFKubaBalogh2002" style="font-style:normal">Kuba, Attila&#32;&amp;&#32;Balogh, Emese&#32;(2002),&#32;"Reconstruction of convex 2D discrete sets in polynomial time",&#32;<it>Theoretical Computer Science</it>&#32;<b>283</b>(1):  223–242, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -393,10 +393,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0304-3975%2801%2900080-9">
-10.1016/S0304-3975(01)00080-9</weblink></cite>&nbsp;.</entry>
+10.1016/S0304-3975(01)00080-9</weblink></cite> .</entry>
 <entry id="10">
  <cite id="CITEREFAspvallPlassTarjan1979" style="font-style:normal">Aspvall, Bengt; Plass, Michael F.&#32;&amp;&#32;<link>
-Tarjan, Robert E.</link>&#32;(1979),&#32;"A linear-time algorithm for testing the truth of certain quantified boolean formulas",&#32;<it>Information Processing Letters</it>&#32;<b>8</b>(3):  121–123</cite>&nbsp;.</entry>
+Tarjan, Robert E.</link>&#32;(1979),&#32;"A linear-time algorithm for testing the truth of certain quantified boolean formulas",&#32;<it>Information Processing Letters</it>&#32;<b>8</b>(3):  121–123</cite> .</entry>
 <entry id="11">
  <cite id="CITEREFCook1971" style="font-style:normal">Cook, Stephen A.&#32;(1971),&#32;"The complexity of theorem-proving procedures",&#32;<it>Proc. 3rd ACM Symp. Theory of Computing (STOC)</it>, pp. 151–158, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -406,16 +406,16 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F800157.805047">
-10.1145/800157.805047</weblink></cite>&nbsp;.</entry>
+10.1145/800157.805047</weblink></cite> .</entry>
 <entry id="12">
  <cite id="CITEREFPapadimitriou1994" style="font-style:normal"><link>
-Papadimitriou, Christos H.</link>&#32;(1994),&#32;<it>Computational Complexity</it>, Addison-Wesley, pp. chapter 4.2, ISBN 0-201-53082-1</cite>&nbsp;., Thm. 16.3.</entry>
+Papadimitriou, Christos H.</link>&#32;(1994),&#32;<it>Computational Complexity</it>, Addison-Wesley, pp. chapter 4.2, ISBN 0-201-53082-1</cite> ., Thm. 16.3.</entry>
 <entry id="13">
  <cite id="CITEREFBandeltChepoi2008" style="font-style:normal">Bandelt, Hans-Jürgen&#32;&amp;&#32;Chepoi, V.&#32;(2008),&#32;"<weblink xlink:type="simple" xlink:href="http://www.lif-sud.univ-mrs.fr/%7Echepoi/survey_cm_bis.pdf">
-Metric graph theory and geometry: a survey</weblink>",&#32;<it>Contemporary Mathematics</it>, </cite>&nbsp;, to appear.  <cite id="CITEREFChungGrahamSaks1989" style="font-style:normal"><link>
+Metric graph theory and geometry: a survey</weblink>",&#32;<it>Contemporary Mathematics</it>, </cite> , to appear.  <cite id="CITEREFChungGrahamSaks1989" style="font-style:normal"><link>
 Chung, F. R. K.</link>; <link>
 Graham, R. L.</link>&#32;&amp;&#32;Saks, M. E.&#32;(1989),&#32;"<weblink xlink:type="simple" xlink:href="http://www.math.ucsd.edu/~fan/mypaps/fanpap/101location.pdf">
-A dynamic location problem for graphs</weblink>",&#32;<it>Combinatorica</it>&#32;<b>9</b>:  111–132, </cite>&nbsp;.  <cite id="CITEREFFeder1995" style="font-style:normal">Feder, T.&#32;(1995),&#32;<it>Stable Networks and Product Graphs</it>, Memoirs of the American Mathematical Society, <b>555</b></cite>&nbsp;.</entry>
+A dynamic location problem for graphs</weblink>",&#32;<it>Combinatorica</it>&#32;<b>9</b>:  111–132, </cite> .  <cite id="CITEREFFeder1995" style="font-style:normal">Feder, T.&#32;(1995),&#32;<it>Stable Networks and Product Graphs</it>, Memoirs of the American Mathematical Society, <b>555</b></cite> .</entry>
 <entry id="14">
  <cite id="CITEREFFeder1994" style="font-style:normal">Feder, Tomás&#32;(1994),&#32;"Network flow and 2-satisfiability",&#32;<it>Algorithmica</it>&#32;<b>11</b>(3):  291–319, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -425,7 +425,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF01240738">
-10.1007/BF01240738</weblink></cite>&nbsp;.</entry>
+10.1007/BF01240738</weblink></cite> .</entry>
 <entry id="15">
  <cite id="CITEREFDahll.C3.B6fJonssonWahlstr.C3.B6m2005" style="font-style:normal">Dahllöf, Vilhelm; Jonsson, Peter&#32;&amp;&#32;Wahlström, Magnus&#32;(2005),&#32;"Counting models for 2SAT and 3SAT formulae",&#32;<it>Theoretical Computer Science</it>&#32;<b>332</b>(1–3):  265–291, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -435,7 +435,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.tcs.2004.10.037">
-10.1016/j.tcs.2004.10.037</weblink></cite>&nbsp;;  <cite id="CITEREFF.C3.BCrerKasiviswanathan2007" style="font-style:normal">Fürer, Martin&#32;&amp;&#32;Kasiviswanathan, Shiva Prasad&#32;(2007),&#32;"Algorithms for counting 2-SAT solutions and colorings with applications",&#32;<it>Algorithmic Aspects in Information and Management</it>, Lecture Notes in Computer Science, <b>4508</b>, Springer-Verlag, pp. 47–57, <document wordnetid="106470073" confidence="0.8">
+10.1016/j.tcs.2004.10.037</weblink></cite> ;  <cite id="CITEREFF.C3.BCrerKasiviswanathan2007" style="font-style:normal">Fürer, Martin&#32;&amp;&#32;Kasiviswanathan, Shiva Prasad&#32;(2007),&#32;"Algorithms for counting 2-SAT solutions and colorings with applications",&#32;<it>Algorithmic Aspects in Information and Management</it>, Lecture Notes in Computer Science, <b>4508</b>, Springer-Verlag, pp. 47–57, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -443,7 +443,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F978-3-540-72870-2">
-10.1007/978-3-540-72870-2</weblink></cite>&nbsp;.</entry>
+10.1007/978-3-540-72870-2</weblink></cite> .</entry>
 <entry id="17">
  <cite id="CITEREFBollob.C3.A1sBorgsChayesKim2001" style="font-style:normal">Bollobás, Béla; Borgs, Christian; Chayes, Jennifer T.; Kim, Jeong Han&#32;&amp;&#32;Wilson, David B.&#32;(2001),&#32;"The scaling window of the 2-SAT transition",&#32;<it>Random Structures and Algorithms</it>&#32;<b>18</b>(3):  201–256, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -453,7 +453,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2Frsa.1006">
-10.1002/rsa.1006</weblink></cite>&nbsp;;  <cite id="CITEREFChv.C3.A1talReed1992" style="font-style:normal"><link>
+10.1002/rsa.1006</weblink></cite> ;  <cite id="CITEREFChv.C3.A1talReed1992" style="font-style:normal"><link>
 Chvátal, V.</link>&#32;&amp;&#32;Reed, B.&#32;(1992),&#32;"Mick gets some (the odds are on his side)",&#32;<it>Proc. 33rd IEEE Symp. Foundations of Computer Science (FOCS)</it>, pp. 620–627, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
@@ -462,7 +462,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FSFCS.1992.267789">
-10.1109/SFCS.1992.267789</weblink></cite>&nbsp;;  <cite id="CITEREFGoerdt1996" style="font-style:normal">Goerdt, A.&#32;(1996),&#32;"A threshold for unsatisfiability",&#32;<it>Journal of Computer and System Sciences</it>&#32;<b>53</b>:  469–486, <document wordnetid="106470073" confidence="0.8">
+10.1109/SFCS.1992.267789</weblink></cite> ;  <cite id="CITEREFGoerdt1996" style="font-style:normal">Goerdt, A.&#32;(1996),&#32;"A threshold for unsatisfiability",&#32;<it>Journal of Computer and System Sciences</it>&#32;<b>53</b>:  469–486, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -470,7 +470,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fjcss.1996.0081">
-10.1006/jcss.1996.0081</weblink></cite>&nbsp;.</entry>
+10.1006/jcss.1996.0081</weblink></cite> .</entry>
 <entry id="16">
  <cite id="CITEREFAngelsmarkThapper2005" style="font-style:normal">Angelsmark, Ola&#32;&amp;&#32;Thapper, Johan&#32;(2005),&#32;"Algorithms for the maximum Hamming distance problem",&#32;<it>Recent Advances in Constraints</it>, Lecture Notes in Computer Science, <b>3419</b>, Springer-Verlag, pp. 128–141, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -480,7 +480,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F11402763_10">
-10.1007/11402763_10</weblink></cite>&nbsp;.</entry>
+10.1007/11402763_10</weblink></cite> .</entry>
 <entry id="19">
  <cite id="CITEREFH.C3.A5stad2001" style="font-style:normal">Håstad, Johan&#32;(2001),&#32;"Some optimal inapproximability results",&#32;<it>Journal of the Association for Computing Machinery</it>&#32;<b>48</b>(4):  798–859, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -490,9 +490,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F502090.502098">
-10.1145/502090.502098</weblink></cite>&nbsp;.</entry>
+10.1145/502090.502098</weblink></cite> .</entry>
 <entry id="18">
- <cite id="CITEREFFeigeGoemans1995" style="font-style:normal">Feige, U.&#32;&amp;&#32;Goemans, M. X.&#32;(1995),&#32;"Approximating the value of two prover proof systems, with applications to MAX 2SAT and MAX DICUT",&#32;<it>Proc. 3rd Israel Symp. Theory of Computing and Systems</it>, IEEE Computer Society Press, pp. 182–189</cite>&nbsp;. For earlier approximation algorithms with weaker solution quality guarantees, see  <cite id="CITEREFGoemansWilliamson1995" style="font-style:normal">Goemans, M. X.&#32;&amp;&#32;Williamson, David P.&#32;(1995),&#32;"Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming",&#32;<it>Journal of the Association for Computing Machinery</it>&#32;<b>42</b>(6):  1115–1145, <document wordnetid="106470073" confidence="0.8">
+ <cite id="CITEREFFeigeGoemans1995" style="font-style:normal">Feige, U.&#32;&amp;&#32;Goemans, M. X.&#32;(1995),&#32;"Approximating the value of two prover proof systems, with applications to MAX 2SAT and MAX DICUT",&#32;<it>Proc. 3rd Israel Symp. Theory of Computing and Systems</it>, IEEE Computer Society Press, pp. 182–189</cite> . For earlier approximation algorithms with weaker solution quality guarantees, see  <cite id="CITEREFGoemansWilliamson1995" style="font-style:normal">Goemans, M. X.&#32;&amp;&#32;Williamson, David P.&#32;(1995),&#32;"Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming",&#32;<it>Journal of the Association for Computing Machinery</it>&#32;<b>42</b>(6):  1115–1145, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -500,7 +500,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F227683.227684">
-10.1145/227683.227684</weblink></cite>&nbsp; and  <cite id="CITEREFYannakakis1994" style="font-style:normal">Yannakakis, Mihalis&#32;(1994),&#32;"On the approximation of maximum satisfiability",&#32;<it>Journal of Algorithms</it>&#32;<b>17</b>(3):  475–502, <document wordnetid="106470073" confidence="0.8">
+10.1145/227683.227684</weblink></cite>  and  <cite id="CITEREFYannakakis1994" style="font-style:normal">Yannakakis, Mihalis&#32;(1994),&#32;"On the approximation of maximum satisfiability",&#32;<it>Journal of Algorithms</it>&#32;<b>17</b>(3):  475–502, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -508,9 +508,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fjagm.1994.1045">
-10.1006/jagm.1994.1045</weblink></cite>&nbsp;.</entry>
+10.1006/jagm.1994.1045</weblink></cite> .</entry>
 <entry id="20">
- <cite id="CITEREFBansalRaman1999" style="font-style:normal">Bansal, N.&#32;&amp;&#32;Raman, V.&#32;(1999),&#32;"Upper bounds for MaxSat: further improved", in&#32;Aggarwal, A.&#32;&amp;&#32;Pandu Rangan, C.,&#32;<it>Proc. 10th Conf. Algorithms and Computation, ISAAC’99</it>, Lecture Notes in Computer Science, <b>1741</b>, Springer-Verlag, pp. 247–258</cite>&nbsp;;  <cite id="CITEREFGrammHirschNiedermeierRossmanith2003" style="font-style:normal">Gramm, Jens; Hirsch, Edward A.; Niedermeier, Rolf&#32;&amp;&#32;Rossmanith, Peter&#32;(2003),&#32;"Worst-case upper bounds for MAX-2-SAT with an application to MAX-CUT",&#32;<it>Discrete Applied Mathematics</it>&#32;<b>130</b>(2):  139–155, <document wordnetid="106470073" confidence="0.8">
+ <cite id="CITEREFBansalRaman1999" style="font-style:normal">Bansal, N.&#32;&amp;&#32;Raman, V.&#32;(1999),&#32;"Upper bounds for MaxSat: further improved", in&#32;Aggarwal, A.&#32;&amp;&#32;Pandu Rangan, C.,&#32;<it>Proc. 10th Conf. Algorithms and Computation, ISAAC’99</it>, Lecture Notes in Computer Science, <b>1741</b>, Springer-Verlag, pp. 247–258</cite> ;  <cite id="CITEREFGrammHirschNiedermeierRossmanith2003" style="font-style:normal">Gramm, Jens; Hirsch, Edward A.; Niedermeier, Rolf&#32;&amp;&#32;Rossmanith, Peter&#32;(2003),&#32;"Worst-case upper bounds for MAX-2-SAT with an application to MAX-CUT",&#32;<it>Discrete Applied Mathematics</it>&#32;<b>130</b>(2):  139–155, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -518,7 +518,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0166-218X%2802%2900402-X">
-10.1016/S0166-218X(02)00402-X</weblink></cite>&nbsp;;  <cite id="CITEREFKojevnikovKulikov2006" style="font-style:normal">Kojevnikov, Arist&#32;&amp;&#32;Kulikov, Alexander S.&#32;(2006),&#32;"A new approach to proving upper bounds for MAX-2-SAT",&#32;<it>Proc. 17th ACM-SIAM Symp. Discrete Algorithms</it>, pp. 11–17, <document wordnetid="106470073" confidence="0.8">
+10.1016/S0166-218X(02)00402-X</weblink></cite> ;  <cite id="CITEREFKojevnikovKulikov2006" style="font-style:normal">Kojevnikov, Arist&#32;&amp;&#32;Kulikov, Alexander S.&#32;(2006),&#32;"A new approach to proving upper bounds for MAX-2-SAT",&#32;<it>Proc. 17th ACM-SIAM Symp. Discrete Algorithms</it>, pp. 11–17, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -526,7 +526,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F1109557.1109559">
-10.1145/1109557.1109559</weblink></cite>&nbsp;</entry>
+10.1145/1109557.1109559</weblink></cite> </entry>
 </reflist>
 </p>
 

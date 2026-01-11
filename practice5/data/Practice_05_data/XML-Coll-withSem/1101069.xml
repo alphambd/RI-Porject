@@ -82,7 +82,7 @@ S. A. Cook</link></scientist>
  and <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../708/402708.xml">
 Leonid Levin</link></person>
-, <it>Proceedings of the 3rd Annual ACM Symposium on Theory of Computing</it> (1971), pp. 151&ndash;158.</entry>
+, <it>Proceedings of the 3rd Annual ACM Symposium on Theory of Computing</it> (1971), pp. 151–158.</entry>
 <entry level="1" type="definition">
 
 Description : <class wordnetid="107997703" confidence="0.8">
@@ -189,7 +189,7 @@ M. E. Hellman</link></scholar>
 </cryptanalyst>
 </person>
 </physical_entity>
-, <it>IEEE Trans. Inform. Theory</it>, IT-22, 6, 1976, pp.644&ndash;654 <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/340126.html">
+, <it>IEEE Trans. Inform. Theory</it>, IT-22, 6, 1976, pp.644–654 <weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/340126.html">
 Online copy (HTML)</weblink></entry>
 <entry level="1" type="definition">
 
@@ -216,7 +216,7 @@ Church-Turing thesis</link> so that it can be proved or disproved </st>
 <list>
 <entry level="1" type="bullet">
 
- Nachum Dershowitz and Yuri Gurevich 2007, “A Natural axiomization of Church’s Thesis”. It appears on Gurevich’s website at http://research.microsoft.com/~gurevich. Observe not only the title, but the very first lines of the paper &ndash; a quote from Shoenfield:</entry>
+ Nachum Dershowitz and Yuri Gurevich 2007, “A Natural axiomization of Church’s Thesis”. It appears on Gurevich’s website at http://research.microsoft.com/~gurevich. Observe not only the title, but the very first lines of the paper – a quote from Shoenfield:</entry>
 <entry level="2" type="indent">
 
  ”We can write down some axioms about computable functions which most people would agree are evidently true. It might be possible to prove Church’s Thesis from such axioms – Joseph Shoenfield (1993)” (Dershowitz and Gurevich, 2007:1)</entry>
@@ -225,14 +225,14 @@ Church-Turing thesis</link> so that it can be proved or disproved </st>
  Dershowitz and Gurevich deliver their thesis in a nutshell:</entry>
 <entry level="2" type="indent">
 
-”Hence, it remains of real importance to provide a small number of convincing postulates in support of Church’s Thesis. Indeed, Gödel has been reported (by Church in a letter to Kleene cited by Davis in [18] [18: Martin Davis, “Why Gödel didn’t have Church’s thesis”, ‘’Information and Control’’, vol. 54, pp. 3&ndash;24, July/August 1982] ) to have believed “that it  might be possible . . . to state a set of axioms which would embody the generally accepted properties of [effective calculability], and do something on that basis.”</entry>
+”Hence, it remains of real importance to provide a small number of convincing postulates in support of Church’s Thesis. Indeed, Gödel has been reported (by Church in a letter to Kleene cited by Davis in [18] [18: Martin Davis, “Why Gödel didn’t have Church’s thesis”, ‘’Information and Control’’, vol. 54, pp. 3–24, July/August 1982] ) to have believed “that it  might be possible . . . to state a set of axioms which would embody the generally accepted properties of [effective calculability], and do something on that basis.”</entry>
 </list>
 </p>
 <p>
 
 <indent level="2">
 
-”[Georg] Kriesel described the discovery of “evident axioms about constructive functions” as “one of the really important open problems [40] [40: Georg Kreisel, “Mathematical logic,” in T. L. Sasty, ed., ''Lectures in Modern Mathematics III'', Wiley and Sons, New York, pp. 95&ndash;195, 1965 ] and “one of the more feasible problems at the present time” [41] [41: Georg Kreisel, “Mathematical logic: what has it done for the philosophy of mathematics”, in Ralph Schoenman, ed., ''Bertrand Russell: Philosopher of the Century'', Allen &amp; Unwin, London, pp. 201&ndash;272, 1967.]
+”[Georg] Kriesel described the discovery of “evident axioms about constructive functions” as “one of the really important open problems [40] [40: Georg Kreisel, “Mathematical logic,” in T. L. Sasty, ed., ''Lectures in Modern Mathematics III'', Wiley and Sons, New York, pp. 95–195, 1965 ] and “one of the more feasible problems at the present time” [41] [41: Georg Kreisel, “Mathematical logic: what has it done for the philosophy of mathematics”, in Ralph Schoenman, ed., ''Bertrand Russell: Philosopher of the Century'', Allen &amp; Unwin, London, pp. 201–272, 1967.]
 </indent>
 
 <indent level="2">
@@ -258,7 +258,7 @@ Church-Turing thesis</link> so that it can be proved or disproved </st>
 
 <indent level="1">
 
-”3. Find, and argue conclusively for, a formal definition of algorithm and the appropriate analog of the Church-Turing thesis. . ..Thus we want a definition that will  up to some precise equivalence relation capture the notion that two algorithms are the same as opposed to just computing the same function.” (p. 7&ndash;8)
+”3. Find, and argue conclusively for, a formal definition of algorithm and the appropriate analog of the Church-Turing thesis. . ..Thus we want a definition that will  up to some precise equivalence relation capture the notion that two algorithms are the same as opposed to just computing the same function.” (p. 7–8)
 </indent>
 
 <b>Description:</b>
@@ -327,7 +327,7 @@ Artificial intelligence</link>
 
  <link>
 Zobrist, Albert L.</link> <it>A model of visual organisation for the game Go</it>. In <link>
-Proceedings of the Spring Joint Computer Conference</link>, volume 34, pages 103&ndash;112, 1969. </entry>
+Proceedings of the Spring Joint Computer Conference</link>, volume 34, pages 103–112, 1969. </entry>
 <entry level="1" type="bullet">
 
  Zobrist, Albert L. <it>Feature Extractions and Representation for Pattern Recognition and the Game of Go</it>. Phd, Graduate School of the <university wordnetid="108286163" confidence="0.9508927676800064">
@@ -355,7 +355,7 @@ shodan</link> level on the small 9x9 board; however, it is not yet clear to what
 
 <indent level="1">
 
-Currently, even mediocre human players find it easy to beat the best Go programs. Some strong players have even beaten computer programs at handicaps of 25&ndash;30 stones, an enormous handicap that few human players would ever take. There is a case where the winning program in the 1994 World Computer Go Championship, Go Intellect, lost all 3 games against the youth players on a 15 stone handicap.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> Strong players have not shown much interest in computer go programs as serious opponents in contrast to examples such as the Chess match between <person wordnetid="100007846" confidence="0.9508927676800064">
+Currently, even mediocre human players find it easy to beat the best Go programs. Some strong players have even beaten computer programs at handicaps of 25–30 stones, an enormous handicap that few human players would ever take. There is a case where the winning program in the 1994 World Computer Go Championship, Go Intellect, lost all 3 games against the youth players on a 15 stone handicap.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> Strong players have not shown much interest in computer go programs as serious opponents in contrast to examples such as the Chess match between <person wordnetid="100007846" confidence="0.9508927676800064">
 <chess_player wordnetid="109915834" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../810/12810.xml">
 Garry Kasparov</link></chess_player>
@@ -474,7 +474,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F564585.564599">
 10.1145/564585.564599</weblink>. ISSN: 0163-5700. Retrieved on <link>
-2007-06-12</link>.</cite>&nbsp;</entry>
+2007-06-12</link>.</cite> </entry>
 <entry id="2">
 See http://www.itee.uq.edu.au/~janetw/Computer%20Go/CS-TR-339.html#6.2</entry>
 <entry id="3">
@@ -501,11 +501,11 @@ Unsolved scientific problems</header>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../864/2865864.xml">
-chemistry</link> &nbsp;&amp;bull; 
+chemistry</link>  &amp;bull; 
 <link xlink:type="simple" xlink:href="../540/1455540.xml">
-cognitive science</link> &nbsp;&amp;bull; 
+cognitive science</link>  &amp;bull; 
 <link xlink:type="simple" xlink:href="../069/1101069.xml">
-computer science</link> &nbsp;&amp;bull; 
+computer science</link>  &amp;bull; 
 <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
@@ -515,13 +515,13 @@ economics</link></difficulty>
 </problem>
 </state>
 </condition>
- &nbsp;&amp;bull; 
+  &amp;bull; 
 <link xlink:type="simple" xlink:href="../167/4847167.xml">
-linguistics</link> &nbsp;&amp;bull; 
+linguistics</link>  &amp;bull; 
 <link xlink:type="simple" xlink:href="../091/183091.xml">
-mathematics</link> &nbsp;&amp;bull; 
+mathematics</link>  &amp;bull; 
 <link xlink:type="simple" xlink:href="../133/1391133.xml">
-neuroscience</link> &nbsp;&amp;bull; 
+neuroscience</link>  &amp;bull; 
 <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
@@ -531,9 +531,9 @@ philosophy</link></difficulty>
 </problem>
 </state>
 </condition>
- &nbsp;&amp;bull; 
+  &amp;bull; 
 <link xlink:type="simple" xlink:href="../089/183089.xml">
-physics</link> &nbsp;&amp;bull; 
+physics</link>  &amp;bull; 
 <link xlink:type="simple" xlink:href="../382/15433382.xml">
 statistics</link></p>
 </col>

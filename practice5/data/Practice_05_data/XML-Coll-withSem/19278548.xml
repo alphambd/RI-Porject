@@ -194,18 +194,18 @@ Fixed-point</link></kind>
 </concept>
 </idea>
  <link xlink:type="simple" xlink:href="../432/486432.xml">
-register</link> add &mdash; 1.59 <link xlink:type="simple" xlink:href="../156/36156.xml">
+register</link> add — 1.59 <link xlink:type="simple" xlink:href="../156/36156.xml">
 microsecond</link>s</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../376/11376.xml">
-Floating-point</link> add, no modification &mdash; 1.61 microseconds</entry>
+Floating-point</link> add, no modification — 1.61 microseconds</entry>
 <entry level="1" type="bullet">
 
- Floating-point add, double modify &mdash; 2.61 microseconds</entry>
+ Floating-point add, double modify — 2.61 microseconds</entry>
 <entry level="1" type="bullet">
 
- Floating-point multiply, double modify &mdash; 4.97 microseconds</entry>
+ Floating-point multiply, double modify — 4.97 microseconds</entry>
 </list>
 </p>
 

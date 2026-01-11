@@ -84,7 +84,7 @@ Koura District</name>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../771/17771.xml">
 Lebanon</link></country>
 </subdivision_name>
@@ -497,19 +497,19 @@ Mount Lebanon Governorate</link>:</col>
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../152/6719152.xml">
 Aley</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../151/6162151.xml">
 Baabda</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../666/2430666.xml">
 Chouf</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../640/8175640.xml">
 Jbeil</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../909/8176909.xml">
 Keserwan</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../853/8211853.xml">
 Matn</link></village>
 </col>
@@ -525,22 +525,22 @@ North Governorate</link>:</col>
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/8380785.xml">
 Akkar</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../209/6162209.xml">
 Batroun</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../248/6162248.xml">
 Bsharri</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../134/12140134.xml">
 Koura</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../583/12181583.xml">
 Miniyeh-Danniyeh</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../551/12181551.xml">
 Tripoli</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/3764719.xml">
 Zgharta</link></village>
 </col>
@@ -556,16 +556,16 @@ Beqaa Governorate</link>:</col>
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../230/10152230.xml">
 Baalbek</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../546/12181546.xml">
 Hermel</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../169/12169169.xml">
 Rashaya</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../122/12169122.xml">
 Western Beqaa</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../860/9973860.xml">
 Zahle</link></village>
 </col>
@@ -581,10 +581,10 @@ South Governorate</link>:</col>
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../202/12169202.xml">
 Jezzine</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/11166784.xml">
 Sidon</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../788/11166788.xml">
 Tyre</link></village>
 </col>
@@ -598,11 +598,11 @@ Tyre</link></village>
 Nabatieh Governorate</link>:</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../489/12027489.xml">
-Bintjbeil</link>&nbsp;·  <link xlink:type="simple" xlink:href="../915/6162915.xml">
-Hasbeya</link>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+Bintjbeil</link> ·  <link xlink:type="simple" xlink:href="../915/6162915.xml">
+Hasbeya</link> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../039/8968039.xml">
 Marjeyoun</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../367/12169367.xml">
 Nabatieh</link></village>
 </col>

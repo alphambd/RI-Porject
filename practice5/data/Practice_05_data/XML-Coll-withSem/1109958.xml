@@ -59,7 +59,7 @@ where "max" here means up to the length of the path <math>\gamma</math>. The ind
 </indent>
 
 Now let <it>G</it> be some graph, let <it>v</it> be a vertex of <it>G</it>, and let <it>R</it> be a random walk on <it>G</it> starting from <it>v</it>. Let <it>T</it> be some <link xlink:type="simple" xlink:href="../193/1202193.xml">
-stopping time</link> for <it>R</it>. Then the <b>loop-erased random walk</b> until time <it>T</it> is LE(<it>R</it>([1,''T''])). In other words, take <it>R</it> from its beginning until <it>T</it> &mdash; that's a (random) path &mdash; erase all the loops in chronological order as above &mdash; you get a random simple path.</p>
+stopping time</link> for <it>R</it>. Then the <b>loop-erased random walk</b> until time <it>T</it> is LE(<it>R</it>([1,''T''])). In other words, take <it>R</it> from its beginning until <it>T</it> — that's a (random) path — erase all the loops in chronological order as above — you get a random simple path.</p>
 <p>
 
 The stopping time <it>T</it> may be fixed, i.e. one may perform <it>n</it> steps and then loop-erase. However, it is usually more natural to take <it>T</it> to be the <link xlink:type="simple" xlink:href="../985/7059985.xml">
@@ -222,7 +222,7 @@ that is, a grid of side length ε restricted to <it>D</it>. Let <it>v</it> be th
 <list>
 <entry level="1" type="bullet">
 
- As ε goes to zero the distribution of the path converges to some distribution on simple paths from <it>x</it> to the boundary of <it>D</it> (different from Brownian motion, of course &mdash; in 2 dimensions paths of Brownian motion are not simple). This distribution (denote it by <math>S_{D,x}</math>) is called the <b>scaling limit</b> of loop-erased random walk.</entry>
+ As ε goes to zero the distribution of the path converges to some distribution on simple paths from <it>x</it> to the boundary of <it>D</it> (different from Brownian motion, of course — in 2 dimensions paths of Brownian motion are not simple). This distribution (denote it by <math>S_{D,x}</math>) is called the <b>scaling limit</b> of loop-erased random walk.</entry>
 <entry level="1" type="bullet">
 
  These distributions are <process wordnetid="105701363" confidence="0.8">

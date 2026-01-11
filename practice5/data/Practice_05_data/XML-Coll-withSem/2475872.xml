@@ -219,7 +219,7 @@ Web bugs</link>'.</p>
 <p>
 
 In the mid 1990s, <link xlink:type="simple" xlink:href="../207/652207.xml">
-Web counter</link>s were commonly seen &mdash; these were images included in a web page that showed the number of times the image had been requested, which was an estimate of the number of visits to that page.  In the late 1990s this concept evolved to include a small invisible image instead of a visible one, and, by using JavaScript, to pass along with the image request certain information about the page and the visitor. This information can then be processed remotely by a web analytics company, and extensive statistics generated. </p>
+Web counter</link>s were commonly seen — these were images included in a web page that showed the number of times the image had been requested, which was an estimate of the number of visits to that page.  In the late 1990s this concept evolved to include a small invisible image instead of a visible one, and, by using JavaScript, to pass along with the image request certain information about the page and the visitor. This information can then be processed remotely by a web analytics company, and extensive statistics generated. </p>
 <p>
 
 The web analytics service also manages the process of assigning a cookie to the user, which can uniquely identify them during their visit and in subsequent visits.</p>
@@ -639,7 +639,7 @@ Web analytics integrated into web software itself</weblink></entry>
 
   <cite style="font-style:normal">Naor, Moni;&#32;Pinkas, Benny&#32;(1998). "<weblink xlink:type="simple" xlink:href="http://www.wisdom.weizmann.ac.il/%7Enaor/PAPERS/meter_abs.html">
 Secure and Efficient Metering</weblink>".&#32;<it>Advances in Cryptology - EUROCRYPT 1998: International Conference on the Theory and application of Cryptographic Techniques</it>. Retrieved on <link>
-2007-12-27</link>.</cite>&nbsp;</entry>
+2007-12-27</link>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -649,7 +649,7 @@ Secure and Efficient Metering</weblink>".&#32;<it>Advances in Cryptology - EUROC
 
   <cite style="font-style:normal">Naor, Moni;&#32;Pinkas, Benny&#32;(April 14-18, 1998). "<weblink xlink:type="simple" xlink:href="http://www.pinkas.net/PAPERS/www7paper/p336.htm">
 Secure Accounting and Auditing on the Web</weblink>".&#32;<it>Seventh International World-Wide Web (WWW) Conference, 1998</it>. Retrieved on <link>
-2007-12-27</link>.</cite>&nbsp;</entry>
+2007-12-27</link>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -661,7 +661,7 @@ Secure Accounting and Auditing on the Web</weblink>".&#32;<it>Seventh Internatio
 1998</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/~dalia/pubs/meter-ftp.ps">
 Auditable Metering with Lightweight Security</weblink>"&#32;(<link xlink:type="simple" xlink:href="../080/24080.xml">
 PostScript</link>). <it>Journal of Computer Security, 1998</it>&#32;<b>6</b>&#32;(4): 237–256. Retrieved on <link>
-2007-12-27</link>.</cite>&nbsp;</entry>
+2007-12-27</link>.</cite> </entry>
 </list>
 </p>
 

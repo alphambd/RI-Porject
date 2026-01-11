@@ -258,11 +258,11 @@ References</st>
 <entry level="1" type="bullet">
 
   <cite id="endnote_Note0" style="font-style: normal;">
-<b>^</b></cite>&nbsp; Stephen Wiesner, "Conjugate coding", Sigact News, vol. 15, no. 1, 1983, pp. 78 - 88; original manuscript written circa 1970.</entry>
+<b>^</b></cite>  Stephen Wiesner, "Conjugate coding", Sigact News, vol. 15, no. 1, 1983, pp. 78 - 88; original manuscript written circa 1970.</entry>
 <entry level="1" type="bullet">
 
   <cite id="endnote_Note1" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <person wordnetid="100007846" confidence="0.9508927676800064">
+<b>^</b></cite>  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../404/298404.xml">
 Michael O. Rabin</link></scientist>
@@ -272,7 +272,7 @@ Paper on eprint.iacr.org archive</weblink></entry>
 <entry level="1" type="bullet">
 
   <cite id="endnote_Note2" style="font-style: normal;">
-<b>^</b></cite>&nbsp; S. Even, O. Goldreich, and A. Lempel, "A Randomized Protocol for Signing Contracts", <work wordnetid="104599396" confidence="0.8">
+<b>^</b></cite>  S. Even, O. Goldreich, and A. Lempel, "A Randomized Protocol for Signing Contracts", <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -290,18 +290,18 @@ Paper at ACM portal (subscription required)</weblink></entry>
 <entry level="1" type="bullet">
 
   <cite id="endnote_Note3" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <link>
+<b>^</b></cite>  <link>
 Claude Crépeau</link>. "Equivalence between two flavours of oblivious transfer". In Advances in Cryptology: CRYPTO '87, volume 293 of Lecture Notes in Computer Science, pages 350--354. Springer, 1988</entry>
 <entry level="1" type="bullet">
 
   <cite id="endnote_Note4" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <link>
+<b>^</b></cite>  <link>
 Joe Kilian</link>.  "Founding Cryptography on Oblivious Transfer", Proceedings, 20th Annual ACM Symposium on the Theory of Computation (STOC), 1988. <weblink xlink:type="simple" xlink:href="http://www.cs.rutgers.edu/~jkilian/collected-papers/Kil88b.pdf">
 Paper on Joe Kilian's home page</weblink></entry>
 <entry level="1" type="bullet">
 
   <cite id="endnote_Note5" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <physical_entity wordnetid="100001930" confidence="0.8">
+<b>^</b></cite>  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <cryptanalyst wordnetid="109981540" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -326,7 +326,7 @@ Jean-Marc Robert</link>. "All-or-nothing disclosure  of secrets." In Advances in
 <entry level="1" type="bullet">
 
   <cite id="endnote_Note6" style="font-style: normal;">
-<b>^</b></cite>&nbsp; <scientist wordnetid="110560637" confidence="0.9508927676800064">
+<b>^</b></cite>  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../043/10151043.xml">
 Moni Naor</link></scientist>
  and <link>

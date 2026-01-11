@@ -418,7 +418,7 @@ Companies</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../873/6506873.xml">
 BitTorrent, Inc.</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../700/14373700.xml">
 Vuze, Inc.</link></company>
 </col>
@@ -451,7 +451,7 @@ Ashwin Navin</link></scholar>
 </person>
 </executive>
 </physical_entity>
-&nbsp;· <person wordnetid="100007846" confidence="0.9508927676800064">
+ · <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../666/265666.xml">
 Bram Cohen</link></person>
 </col>
@@ -464,7 +464,7 @@ Bram Cohen</link></person>
 Technology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../277/849277.xml">
-Broadcatching</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Broadcatching</link> ·  <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <investigation wordnetid="100633864" confidence="0.8">
@@ -481,11 +481,11 @@ BitTorrent client</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;· <link xlink:type="simple" xlink:href="../141/192141.xml">
-Distributed hash table</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../878/13939878.xml">
-DNA</link>&nbsp;·  <link xlink:type="simple" xlink:href="../518/14271518.xml">
-index</link>&nbsp;·  <link xlink:type="simple" xlink:href="../800/3930800.xml">
-Peer exchange</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../141/192141.xml">
+Distributed hash table</link>s ·  <link xlink:type="simple" xlink:href="../878/13939878.xml">
+DNA</link> ·  <link xlink:type="simple" xlink:href="../518/14271518.xml">
+index</link> ·  <link xlink:type="simple" xlink:href="../800/3930800.xml">
+Peer exchange</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -494,9 +494,9 @@ Protocol encryption</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../905/1838905.xml">
-Super-seeding</link>&nbsp;·  <link xlink:type="simple" xlink:href="../521/9542521.xml">
-Terminology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../828/1865828.xml">
+ ·  <link xlink:type="simple" xlink:href="../905/1838905.xml">
+Super-seeding</link> ·  <link xlink:type="simple" xlink:href="../521/9542521.xml">
+Terminology</link> ·  <link xlink:type="simple" xlink:href="../828/1865828.xml">
 Tracker</link></col>
 </row>
 <row style="height:2px">
@@ -509,16 +509,16 @@ Clients</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/1845497.xml">
 BitTorrent</link></software>
- (original client)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ (original client) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../071/1713071.xml">
 ABC</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../521/887521.xml">
 BitComet</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../392/905392.xml">
 BitTornado</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -529,7 +529,7 @@ Deluge</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -552,7 +552,7 @@ Shareaza</link></activity>
 </person>
 </physical_entity>
 </work>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -563,11 +563,11 @@ Transmission</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link>
-µTorrent</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link>
+µTorrent</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../945/8293945.xml">
 Vuze</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../550/19590550.xml">
+  ·  <link xlink:type="simple" xlink:href="../550/19590550.xml">
 All Clients</link>(comparison)</col>
 </row>
 <row style="height:2px">
@@ -580,11 +580,11 @@ Search engines</col>
 <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../742/8785742.xml">
 BTJunkie</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/12697889.xml">
 Demonoid</link></web_site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../433/5423433.xml">
-isoHunt</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../433/5423433.xml">
+isoHunt</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -597,8 +597,8 @@ Mininova</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../088/12003088.xml">
-myBittorrent</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../088/12003088.xml">
+myBittorrent</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -611,10 +611,10 @@ Seedpeer</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../014/7763014.xml">
 Suprnova.org</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../870/1923870.xml">
 The Pirate Bay</link></web_site>
 </col>
@@ -629,7 +629,7 @@ Metasearch engines</col>
 <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/17932591.xml">
 Torrentz</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../187/16142187.xml">
 YouTorrent</link></web_site>
 </col>

@@ -168,7 +168,7 @@ The function now handles all lines and implements the complete Bresenham's algor
 
 <p>
 
-The problem with this approach is that computers operate relatively slowly on fractional numbers like error and deltaerr; moreover, errors can accumulate over many floating-point additions. Working with integers will be both faster and more accurate. The trick we use is to multiply all the fractional numbers above by deltax, which enables us to express them as integers. The only problem remaining is the constant 0.5&mdash;to deal with this, we change the initialization of the variable error, and invert it for an additional small optimization. The new program looks like this:</p>
+The problem with this approach is that computers operate relatively slowly on fractional numbers like error and deltaerr; moreover, errors can accumulate over many floating-point additions. Working with integers will be both faster and more accurate. The trick we use is to multiply all the fractional numbers above by deltax, which enables us to express them as integers. The only problem remaining is the constant 0.5—to deal with this, we change the initialization of the variable error, and invert it for an additional small optimization. The new program looks like this:</p>
 <p>
 
 <b>function</b> line(x0, x1, y0, y1)

@@ -326,7 +326,7 @@ independent</link>, then their joint entropy is the sum of their individual entr
 <p>
 
 For example, if <math>(X,Y)</math> represents the position of a <link xlink:type="simple" xlink:href="../134/5134.xml">
-chess</link> piece &mdash; <math>X</math> the row and <math>Y</math> the column, then the joint entropy of the row of the piece and the column of the piece will be the entropy of the position of the piece.</p>
+chess</link> piece — <math>X</math> the row and <math>Y</math> the column, then the joint entropy of the row of the piece and the column of the piece will be the entropy of the position of the piece.</p>
 <p>
 
 <indent level="1">
@@ -861,13 +861,13 @@ Some background on why people in the empirical sciences may want to better under
 </entry>
 <entry id="8">
  <cite style="font-style:normal" class="book">Fazlollah M. Reza&#32;(1961, 1994). <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=RtzpRAiX6OgC&amp;pg=PA8&amp;dq=intitle:%22An+Introduction+to+Information+Theory%22++%22entropy+of+a+simple+source%22&amp;as_brr=0&amp;ei=zP79Ro7UBovqoQK4g_nCCw&amp;sig=j3lPgyYrC3-bvn1Td42TZgTzj0Q">
-An Introduction to Information Theory</weblink>.&#32;Dover Publications, Inc., New York. ISBN 0-486-68210-2.</cite>&nbsp;</entry>
+An Introduction to Information Theory</weblink>.&#32;Dover Publications, Inc., New York. ISBN 0-486-68210-2.</cite> </entry>
 <entry id="9">
  <cite style="font-style:normal" class="book">Robert B. Ash&#32;(1965, 1990). <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=ngZhvUfF0UIC&amp;pg=PA16&amp;dq=intitle:information+intitle:theory+inauthor:ash+conditional+uncertainty&amp;as_brr=0&amp;ei=kKwNR4rbH5mepgKB4d2zBg&amp;sig=YAsiCEVISjJ484R3uGoXpi-a5rI">
-Information Theory</weblink>.&#32;Dover Publications, Inc.. ISBN 0-486-66521-6.</cite>&nbsp;</entry>
+Information Theory</weblink>.&#32;Dover Publications, Inc.. ISBN 0-486-66521-6.</cite> </entry>
 <entry id="10">
  <cite style="font-style:normal" class="book">Jerry D. Gibson&#32;(1998). <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=aqQ2Ry6spu0C&amp;pg=PA56&amp;dq=entropy-rate+conditional&amp;as_brr=3&amp;ei=YGDsRtzGGKjupQKa2L2xDw&amp;sig=o0UCtf0xZOf11lPIexPrjOKPgNc#PPA57,M1">
-Digital Compression for Multimedia: Principles and Standards</weblink>.&#32;Morgan Kaufmann. ISBN 1558603697.</cite>&nbsp;</entry>
+Digital Compression for Multimedia: Principles and Standards</weblink>.&#32;Morgan Kaufmann. ISBN 1558603697.</cite> </entry>
 <entry id="11">
 The Corporation and Innovation, Haggerty, Patrick, Strategic Management Journal, Vol. 2, 97-118 (1981)</entry>
 </reflist>
@@ -1465,11 +1465,11 @@ cybernetics</link></header>
 Subfields</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../724/615724.xml">
-Polycontexturality</link>&nbsp;·  <link xlink:type="simple" xlink:href="../462/2073462.xml">
-Second-order cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../288/434288.xml">
-Catastrophe theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../636/263636.xml">
-Connectionism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../039/7039.xml">
-Control theory</link>&nbsp;·  <social_science wordnetid="106143154" confidence="0.8">
+Polycontexturality</link> ·  <link xlink:type="simple" xlink:href="../462/2073462.xml">
+Second-order cybernetics</link> ·  <link xlink:type="simple" xlink:href="../288/434288.xml">
+Catastrophe theory</link> ·  <link xlink:type="simple" xlink:href="../636/263636.xml">
+Connectionism</link> ·  <link xlink:type="simple" xlink:href="../039/7039.xml">
+Control theory</link> ·  <social_science wordnetid="106143154" confidence="0.8">
 <knowledge_domain wordnetid="105999266" confidence="0.8">
 <economics wordnetid="106149484" confidence="0.8">
 <discipline wordnetid="105996646" confidence="0.8">
@@ -1480,19 +1480,19 @@ Decision theory</link></science>
 </economics>
 </knowledge_domain>
 </social_science>
-&nbsp;·  <link xlink:type="simple" xlink:href="../773/14773.xml">
-Information theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../301/29301.xml">
-Semiotics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../227/2748227.xml">
-Synergetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../318/3929318.xml">
-Biological cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../722/551722.xml">
-Biosemiotics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../963/1651963.xml">
-Biomedical cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../293/1006293.xml">
-Biorobotics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../430/271430.xml">
-Computational neuroscience</link>&nbsp;·  <link xlink:type="simple" xlink:href="../980/13980.xml">
-Homeostasis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../518/12457518.xml">
-Management cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../506/723506.xml">
-Medical cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../541/13629541.xml">
-New Cybernetics</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../773/14773.xml">
+Information theory</link> ·  <link xlink:type="simple" xlink:href="../301/29301.xml">
+Semiotics</link> ·  <link xlink:type="simple" xlink:href="../227/2748227.xml">
+Synergetics</link> ·  <link xlink:type="simple" xlink:href="../318/3929318.xml">
+Biological cybernetics</link> ·  <link xlink:type="simple" xlink:href="../722/551722.xml">
+Biosemiotics</link> ·  <link xlink:type="simple" xlink:href="../963/1651963.xml">
+Biomedical cybernetics</link> ·  <link xlink:type="simple" xlink:href="../293/1006293.xml">
+Biorobotics</link> ·  <link xlink:type="simple" xlink:href="../430/271430.xml">
+Computational neuroscience</link> ·  <link xlink:type="simple" xlink:href="../980/13980.xml">
+Homeostasis</link> ·  <link xlink:type="simple" xlink:href="../518/12457518.xml">
+Management cybernetics</link> ·  <link xlink:type="simple" xlink:href="../506/723506.xml">
+Medical cybernetics</link> ·  <link xlink:type="simple" xlink:href="../541/13629541.xml">
+New Cybernetics</link> ·  <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -1503,9 +1503,9 @@ Neuro cybernetics</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../821/936821.xml">
-Sociocybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../436/37436.xml">
-Emergence</link>&nbsp;·  <link xlink:type="simple" xlink:href="../164/1164.xml">
+ ·  <link xlink:type="simple" xlink:href="../821/936821.xml">
+Sociocybernetics</link> ·  <link xlink:type="simple" xlink:href="../436/37436.xml">
+Emergence</link> ·  <link xlink:type="simple" xlink:href="../164/1164.xml">
 Artificial intelligence</link></col>
 </row>
 <row style="height:2px">
@@ -1541,7 +1541,7 @@ Igor Aleksander</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;· <physical_entity wordnetid="100001930" confidence="0.8">
+ · <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <specialist wordnetid="110632576" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1572,11 +1572,11 @@ William Ross Ashby</link></research_worker>
 </specialist>
 </person>
 </physical_entity>
-&nbsp;· <link xlink:type="simple" xlink:href="../597/142597.xml">
-Anthony Stafford Beer</link>&nbsp;· <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../597/142597.xml">
+Anthony Stafford Beer</link> · <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../949/376949.xml">
 Claude Bernard</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1587,14 +1587,14 @@ Ludwig von Bertalanffy</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../931/2360931.xml">
-Valentin Braitenberg</link>&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <link xlink:type="simple" xlink:href="../931/2360931.xml">
+Valentin Braitenberg</link> ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../525/7254525.xml">
 Gordon S. Brown</link></person>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../411/606411.xml">
 Walter Bradford Cannon</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1603,11 +1603,11 @@ Heinz von Foerster</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <link>
-Charles François</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+Charles François</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/290393.xml">
 Jay Wright Forrester</link></scientist>
-&nbsp;·  <architect wordnetid="109805475" confidence="0.9173553029164789">
+ ·  <architect wordnetid="109805475" confidence="0.9173553029164789">
 <visionary wordnetid="110756641" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <poet wordnetid="110444194" confidence="0.9173553029164789">
@@ -1622,7 +1622,7 @@ Buckminster Fuller</link></writer>
 </person>
 </visionary>
 </architect>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1633,8 +1633,8 @@ Ernst von Glasersfeld</link></psychologist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../054/2291054.xml">
-Francis Heylighen</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../054/2291054.xml">
+Francis Heylighen</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1647,7 +1647,7 @@ Erich von Holst</link></physiologist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -1670,7 +1670,7 @@ Stuart Kauffman</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <physicist wordnetid="110428004" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1681,13 +1681,13 @@ Sergei P. Kurdyumov</link></scientist>
 </person>
 </physicist>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/21465.xml">
 Niklas Luhmann</link></scientist>
 </person>
-&nbsp;·  <link xlink:type="simple" xlink:href="../508/44508.xml">
-Warren McCulloch</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../508/44508.xml">
+Warren McCulloch</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -1706,10 +1706,10 @@ Humberto Maturana</link></psychologist>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../041/54041.xml">
 Talcott Parsons</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <academician wordnetid="109759069" confidence="0.8">
@@ -1728,8 +1728,8 @@ Gordon Pask</link></educator>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../949/302949.xml">
-Walter Pitts</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../949/302949.xml">
+Walter Pitts</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <anthropologist wordnetid="109796323" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <social_scientist wordnetid="110619642" confidence="0.8">
@@ -1742,12 +1742,12 @@ Alfred Radcliffe-Brown</link></scientist>
 </person>
 </anthropologist>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../924/8532924.xml">
 Robert Trappl</link></person>
-&nbsp;·  <link xlink:type="simple" xlink:href="../885/2360885.xml">
-Valentin Turchin</link>&nbsp;·  <link>
-Jakob von Uexküll</link> &nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../885/2360885.xml">
+Valentin Turchin</link> ·  <link>
+Jakob von Uexküll</link>  ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -1768,7 +1768,7 @@ Francisco Varela</link></research_worker>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <biochemist wordnetid="109854915" confidence="0.8">
@@ -1783,8 +1783,8 @@ Frederic Vester</link></chemist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../147/1191147.xml">
-Charles Geoffrey Vickers</link> &nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../147/1191147.xml">
+Charles Geoffrey Vickers</link>  ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1793,7 +1793,7 @@ Stuart Umpleby</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <engineer wordnetid="109615807" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1804,12 +1804,12 @@ John N. Warfield</link></scientist>
 </engineer>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../453/17453.xml">
 Kevin Warwick</link></scientist>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/63185.xml">
 Norbert Wiener</link></scientist>
@@ -1862,8 +1862,8 @@ Lossless</link></algorithm>
 Theory</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../445/15445.xml">
-Entropy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../635/1635.xml">
-Complexity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../582/1953582.xml">
+Entropy</link> ·  <link xlink:type="simple" xlink:href="../635/1635.xml">
+Complexity</link> ·  <link xlink:type="simple" xlink:href="../582/1953582.xml">
 Redundancy</link></col>
 </row>
 <row style="height:2px">
@@ -1911,7 +1911,7 @@ Huffman</link></algorithm>
 </vascular_plant>
 </tree>
 </plant>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1926,9 +1926,9 @@ Adaptive Huffman</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../545/62545.xml">
+ ·  <link xlink:type="simple" xlink:href="../545/62545.xml">
 Arithmetic</link> (<link>
-Shannon-Fano</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+Shannon-Fano</link> ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1943,7 +1943,7 @@ Range</link></algorithm>
 </act>
 </rule>
 </event>
-)&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+) ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1958,7 +1958,7 @@ Golomb</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1973,7 +1973,7 @@ Exp-Golomb</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2003,7 +2003,7 @@ Elias</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <amount wordnetid="105107765" confidence="0.8">
+ ·  <amount wordnetid="105107765" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <magnitude wordnetid="105090441" confidence="0.8">
@@ -2051,7 +2051,7 @@ RLE</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;· <event wordnetid="100029378" confidence="0.8">
+ · <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2066,9 +2066,9 @@ DEFLATE</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;· <link>
+ · <link>
 LZ Family</link> (<link xlink:type="simple" xlink:href="../855/75855.xml">
-LZ77/78</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+LZ77/78</link> ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2083,7 +2083,7 @@ LZSS</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2098,8 +2098,8 @@ LZW</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../578/3980578.xml">
-LZWL</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../578/3980578.xml">
+LZWL</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -2124,7 +2124,7 @@ LZO</link></algorithm>
 </area>
 </artifact>
 </structure>
-&nbsp;·   <event wordnetid="100029378" confidence="0.8">
+ ·   <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2139,7 +2139,7 @@ LZMA</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2154,7 +2154,7 @@ LZX</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2169,7 +2169,7 @@ LZJB</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;· <link>
+ · <link>
 LZT</link>)</col>
 </row>
 <row style="height:2px">
@@ -2194,7 +2194,7 @@ CTW</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2209,7 +2209,7 @@ BWT</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2224,7 +2224,7 @@ PPM</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../633/11014633.xml">
+ ·  <link xlink:type="simple" xlink:href="../633/11014633.xml">
 DMC</link></col>
 </row>
 </table>
@@ -2245,8 +2245,8 @@ Audio</link></col>
 Theory</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../519/7519.xml">
-Convolution</link>&nbsp;·  <link xlink:type="simple" xlink:href="../605/201605.xml">
-Sampling</link>&nbsp;·  <link>
+Convolution</link> ·  <link xlink:type="simple" xlink:href="../605/201605.xml">
+Sampling</link> ·  <link>
  Nyquist–Shannon theorem</link></col>
 </row>
 <row style="height:2px">
@@ -2273,7 +2273,7 @@ LAR</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2288,13 +2288,13 @@ LSP</link></algorithm>
 </act>
 </rule>
 </event>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../096/7191096.xml">
-WLPC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../993/1407993.xml">
-CELP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../517/1079517.xml">
-ACELP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../707/40707.xml">
-A-law</link>&nbsp;·  <link>
-μ-law</link>&nbsp;·   <link xlink:type="simple" xlink:href="../387/231387.xml">
-MDCT</link>&nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+) ·  <link xlink:type="simple" xlink:href="../096/7191096.xml">
+WLPC</link> ·  <link xlink:type="simple" xlink:href="../993/1407993.xml">
+CELP</link> ·  <link xlink:type="simple" xlink:href="../517/1079517.xml">
+ACELP</link> ·  <link xlink:type="simple" xlink:href="../707/40707.xml">
+A-law</link> ·  <link>
+μ-law</link> ·   <link xlink:type="simple" xlink:href="../387/231387.xml">
+MDCT</link> ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -2305,7 +2305,7 @@ Fourier transform</link></function>
 </concept>
 </idea>
 </mathematical_relation>
-&nbsp;·   <link xlink:type="simple" xlink:href="../448/24448.xml">
+ ·   <link xlink:type="simple" xlink:href="../448/24448.xml">
 Psychoacoustic model</link></col>
 </row>
 <row style="height:2px">
@@ -2316,8 +2316,8 @@ Psychoacoustic model</link></col>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../733/262733.xml">
-Dynamic range compression</link>&nbsp;·  <link xlink:type="simple" xlink:href="../618/28618.xml">
-Speech compression</link>&nbsp;·  <link xlink:type="simple" xlink:href="../959/4748959.xml">
+Dynamic range compression</link> ·  <link xlink:type="simple" xlink:href="../618/28618.xml">
+Speech compression</link> ·  <link xlink:type="simple" xlink:href="../959/4748959.xml">
 Sub-band coding</link></col>
 </row>
 </table>
@@ -2337,9 +2337,9 @@ Image</link></col>
 Terms</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../081/6081.xml">
-Color space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../665/23665.xml">
-Pixel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../944/172944.xml">
-Chroma subsampling</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Color space</link> ·  <link xlink:type="simple" xlink:href="../665/23665.xml">
+Pixel</link> ·  <link xlink:type="simple" xlink:href="../944/172944.xml">
+Chroma subsampling</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../669/185669.xml">
 Compression artifact</link></artifact>
 </col>
@@ -2366,7 +2366,7 @@ RLE</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2381,7 +2381,7 @@ Fractal</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2396,10 +2396,10 @@ Wavelet</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../175/1797175.xml">
-EZW</link>&nbsp;·  <link xlink:type="simple" xlink:href="../514/1131514.xml">
-SPIHT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../962/59962.xml">
-DCT</link>&nbsp;·  <link>
+ ·  <link xlink:type="simple" xlink:href="../175/1797175.xml">
+EZW</link> ·  <link xlink:type="simple" xlink:href="../514/1131514.xml">
+SPIHT</link> ·  <link xlink:type="simple" xlink:href="../962/59962.xml">
+DCT</link> ·  <link>
 KLT</link></col>
 </row>
 <row style="height:2px">
@@ -2414,13 +2414,13 @@ Others</col>
 <link xlink:type="simple" xlink:href="../290/272290.xml">
 Bit rate</link></definite_quantity>
 </unit_of_measurement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../011/2932011.xml">
-Test images</link>&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../011/2932011.xml">
+Test images</link> ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../455/1281455.xml">
 PSNR quality measure</link></ratio>
 </magnitude_relation>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2454,15 +2454,15 @@ Video</link></col>
 Terms</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../441/32441.xml#xpointer(//*[./st=%22Characteristics+of+video+streams%22])">
-Video Characteristics</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+Video Characteristics</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../697/2754697.xml">
 Frame</link></format>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../805/736805.xml">
-Frame types</link>&nbsp;·  <link xlink:type="simple" xlink:href="../867/2534867.xml">
+ ·  <link xlink:type="simple" xlink:href="../805/736805.xml">
+Frame types</link> ·  <link xlink:type="simple" xlink:href="../867/2534867.xml">
 Video quality</link></col>
 </row>
 <row style="height:2px">
@@ -2474,8 +2474,8 @@ Video quality</link></col>
 Video codec parts</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../035/52035.xml">
-Motion compensation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../962/59962.xml">
-DCT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/317018.xml">
+Motion compensation</link> ·  <link xlink:type="simple" xlink:href="../962/59962.xml">
+DCT</link> ·  <link xlink:type="simple" xlink:href="../018/317018.xml">
 Quantization</link></col>
 </row>
 <row style="height:2px">
@@ -2486,10 +2486,10 @@ Quantization</link></col>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../475/54475.xml">
-Video codecs</link>&nbsp;·  <link xlink:type="simple" xlink:href="../842/192842.xml">
+Video codecs</link> ·  <link xlink:type="simple" xlink:href="../842/192842.xml">
 Rate distortion theory</link> (<link xlink:type="simple" xlink:href="../101/297101.xml">
-CBR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../011/1934011.xml">
-ABR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../826/100826.xml">
+CBR</link> ·  <link xlink:type="simple" xlink:href="../011/1934011.xml">
+ABR</link> ·  <link xlink:type="simple" xlink:href="../826/100826.xml">
 VBR</link>)</col>
 </row>
 </table>

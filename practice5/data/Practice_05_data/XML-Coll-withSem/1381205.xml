@@ -213,7 +213,7 @@ If the qop directive's value is "auth-int" , then HA2 is</p>
 
 The MD5 calculations used in HTTP Digest Authentication is intended to be "<link xlink:type="simple" xlink:href="../890/363890.xml">
 one way</link>", meaning that it should be difficult to determine the original input when only the output is known.  If the password itself is too simple, however, then it may be possible to test all possible inputs and find a matching output (a <link xlink:type="simple" xlink:href="../784/53784.xml">
-brute force attack</link>) &ndash; perhaps aided by a dictionary or suitable look-up list.  Ideally users should be forced to use long, non-trivial passwords.</p>
+brute force attack</link>) – perhaps aided by a dictionary or suitable look-up list.  Ideally users should be forced to use long, non-trivial passwords.</p>
 <p>
 
 The HTTP scheme was designed at <organization wordnetid="108008335" confidence="0.9508927676800064">
@@ -429,7 +429,7 @@ HTTPS</link> network security protocols, which resolves many of the threats Dige
  <it>Warning: Please refer to the original specifications for a more comprehensive discussion of security issues.</it>
 </indent>
 
-The following example was originally given in RFC 2617 and is expanded here to show the full text expected for each request and response.  Note that only the "auth" (authentication) quality of protection code is covered &ndash; at the time of writing only the <software wordnetid="106566077" confidence="0.9508927676800064">
+The following example was originally given in RFC 2617 and is expanded here to show the full text expected for each request and response.  Note that only the "auth" (authentication) quality of protection code is covered – at the time of writing only the <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../620/18996620.xml">
 Opera</link></software>
  and <software wordnetid="106566077" confidence="0.9508927676800064">
@@ -567,7 +567,7 @@ URI</link></system_of_measurement>
 </p>
 <p>
 
-Since the server has the same information as the client, the response can be checked by performing the same calculation.  In the example given above the result is formed as follows &ndash; where MD5() represents a function used to calculate an MD5 hash, backslashes represent a continuation and the quotes shown are not used in the calculation.</p>
+Since the server has the same information as the client, the response can be checked by performing the same calculation.  In the example given above the result is formed as follows – where MD5() represents a function used to calculate an MD5 hash, backslashes represent a continuation and the quotes shown are not used in the calculation.</p>
 <p>
 
 Completing the example given in RFC 2617 gives the following results for each step.</p>
@@ -588,14 +588,14 @@ Completing the example given in RFC 2617 gives the following results for each st
 </p>
 <p>
 
-At this point the client may make another request, reusing the server nonce value (the server only issues a new nonce for each "401" response) but providing a new client nonce (cnonce).  For subsequent requests, the hexadecimal request counter (nc) must be greater than the last value it used &ndash; otherwise an attacker could simply "<link xlink:type="simple" xlink:href="../094/614094.xml">
+At this point the client may make another request, reusing the server nonce value (the server only issues a new nonce for each "401" response) but providing a new client nonce (cnonce).  For subsequent requests, the hexadecimal request counter (nc) must be greater than the last value it used – otherwise an attacker could simply "<link xlink:type="simple" xlink:href="../094/614094.xml">
 replay</link>" an old request with the same credentials.  It is up to the server to ensure that the counter increases for each of the nonce values that it has issued, rejecting any bad requests appropriately.  Obviously changing the method, URI and/or counter value will result in a different response value.</p>
 <p>
 
-The server should remember nonce values that it has recently generated.  It may also remember when each nonce value was issued, expiring them after a certain amount of time.  If an expired value is used, the server should respond with the "401" status code and add stale=TRUE to the authentication header &ndash; indicating that the client should re-send with the new nonce provided, without prompting the user for another user name and password.</p>
+The server should remember nonce values that it has recently generated.  It may also remember when each nonce value was issued, expiring them after a certain amount of time.  If an expired value is used, the server should respond with the "401" status code and add stale=TRUE to the authentication header – indicating that the client should re-send with the new nonce provided, without prompting the user for another user name and password.</p>
 <p>
 
-The server does not need to keep any expired nonce values &ndash; it can simply assume that any unrecognised values have expired.  It is also possible for the server to only allow each nonce value to be returned once, although this forces the client to repeat every request.  Note that expiring a server nonce immediately will not work, as the client would never get a chance to use it.</p>
+The server does not need to keep any expired nonce values – it can simply assume that any unrecognised values have expired.  It is also possible for the server to only allow each nonce value to be returned once, although this forces the client to repeat every request.  Note that expiring a server nonce immediately will not work, as the client would never get a chance to use it.</p>
 
 </sec>
 <sec>

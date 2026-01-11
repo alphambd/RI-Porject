@@ -55,11 +55,11 @@ COG3</weblink>; SEC34</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=606975">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=606975">
 606975</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2450151">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2450151">
 2450151</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=5854">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=5854">
 5854</weblink></col>
 </row>
 
@@ -211,7 +211,7 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Maruyama K, Sugano S&#32;(1994).&#32;"Oligo-capping: a simple method to replace the cap structure of eukaryotic mRNAs with oligoribonucleotides.". <it>Gene</it>&#32;<b>138</b>&#32;(1-2): 171–4. PMID 8125298.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Maruyama K, Sugano S&#32;(1994).&#32;"Oligo-capping: a simple method to replace the cap structure of eukaryotic mRNAs with oligoribonucleotides.". <it>Gene</it>&#32;<b>138</b>&#32;(1-2): 171–4. PMID 8125298.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Andersson B, Wentland MA, Ricafrente JY, et al.&#32;(1996).&#32;"A "double adaptor" method for improved shotgun library construction.". <it>Anal. Biochem.</it>&#32;<b>236</b>&#32;(1): 107–13. <document wordnetid="106470073" confidence="0.8">
@@ -222,19 +222,19 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fabio.1996.0138">
-10.1006/abio.1996.0138</weblink>. PMID 8619474.</cite>&nbsp;</entry>
+10.1006/abio.1996.0138</weblink>. PMID 8619474.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Yu W, Andersson B, Worley KC, et al.&#32;(1997).&#32;"Large-scale concatenation cDNA sequencing.". <it>Genome Res.</it>&#32;<b>7</b>&#32;(4): 353–8. PMID 9110174.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Yu W, Andersson B, Worley KC, et al.&#32;(1997).&#32;"Large-scale concatenation cDNA sequencing.". <it>Genome Res.</it>&#32;<b>7</b>&#32;(4): 353–8. PMID 9110174.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Suzuki Y, Yoshitomo-Nakagawa K, Maruyama K, et al.&#32;(1997).&#32;"Construction and characterization of a full length-enriched and a 5'-end-enriched cDNA library.". <it>Gene</it>&#32;<b>200</b>&#32;(1-2): 149–56. PMID 9373149.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Suzuki Y, Yoshitomo-Nakagawa K, Maruyama K, et al.&#32;(1997).&#32;"Construction and characterization of a full length-enriched and a 5'-end-enriched cDNA library.". <it>Gene</it>&#32;<b>200</b>&#32;(1-2): 149–56. PMID 9373149.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Kim DW, Sacher M, Scarpa A, et al.&#32;(1999).&#32;"High-copy suppressor analysis reveals a physical interaction between Sec34p and Sec35p, a protein implicated in vesicle docking.". <it>Mol. Biol. Cell</it>&#32;<b>10</b>&#32;(10): 3317–29. PMID 10512869.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Kim DW, Sacher M, Scarpa A, et al.&#32;(1999).&#32;"High-copy suppressor analysis reveals a physical interaction between Sec34p and Sec35p, a protein implicated in vesicle docking.". <it>Mol. Biol. Cell</it>&#32;<b>10</b>&#32;(10): 3317–29. PMID 10512869.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">VanRheenen SM, Cao X, Sapperstein SK, et al.&#32;(1999).&#32;"Sec34p, a protein required for vesicle tethering to the yeast Golgi apparatus, is in a complex with Sec35p.". <it>J. Cell Biol.</it>&#32;<b>147</b>&#32;(4): 729–42. PMID 10562277.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">VanRheenen SM, Cao X, Sapperstein SK, et al.&#32;(1999).&#32;"Sec34p, a protein required for vesicle tethering to the yeast Golgi apparatus, is in a complex with Sec35p.". <it>J. Cell Biol.</it>&#32;<b>147</b>&#32;(4): 729–42. PMID 10562277.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Suvorova ES, Kurten RC, Lupashin VV&#32;(2001).&#32;"Identification of a human orthologue of Sec34p as a component of the cis-Golgi vesicle tethering machinery.". <it>J. Biol. Chem.</it>&#32;<b>276</b>&#32;(25): 22810–8. <document wordnetid="106470073" confidence="0.8">
@@ -245,7 +245,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fjbc.M011624200">
-10.1074/jbc.M011624200</weblink>. PMID 11292827.</cite>&nbsp;</entry>
+10.1074/jbc.M011624200</weblink>. PMID 11292827.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Loh E, Hong W&#32;(2002).&#32;"Sec34 is implicated in traffic from the endoplasmic reticulum to the Golgi and exists in a complex with GTC-90 and ldlBp.". <it>J. Biol. Chem.</it>&#32;<b>277</b>&#32;(24): 21955–61. <document wordnetid="106470073" confidence="0.8">
@@ -256,7 +256,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fjbc.M202326200">
-10.1074/jbc.M202326200</weblink>. PMID 11929878.</cite>&nbsp;</entry>
+10.1074/jbc.M202326200</weblink>. PMID 11929878.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ungar D, Oka T, Brittle EE, et al.&#32;(2002).&#32;"Characterization of a mammalian Golgi-localized protein complex, COG, that is required for normal Golgi morphology and function.". <it>J. Cell Biol.</it>&#32;<b>157</b>&#32;(3): 405–15. <document wordnetid="106470073" confidence="0.8">
@@ -267,7 +267,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1083%2Fjcb.200202016">
-10.1083/jcb.200202016</weblink>. PMID 11980916.</cite>&nbsp;</entry>
+10.1083/jcb.200202016</weblink>. PMID 11980916.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -278,7 +278,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Gevaert K, Goethals M, Martens L, et al.&#32;(2004).&#32;"Exploring proteomes and analyzing protein processing by mass spectrometric identification of sorted N-terminal peptides.". <it>Nat. Biotechnol.</it>&#32;<b>21</b>&#32;(5): 566–9. <document wordnetid="106470073" confidence="0.8">
@@ -289,7 +289,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnbt810">
-10.1038/nbt810</weblink>. PMID 12665801.</cite>&nbsp;</entry>
+10.1038/nbt810</weblink>. PMID 12665801.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Loh E, Hong W&#32;(2004).&#32;"The binary interacting network of the conserved oligomeric Golgi tethering complex.". <it>J. Biol. Chem.</it>&#32;<b>279</b>&#32;(23): 24640–8. <document wordnetid="106470073" confidence="0.8">
@@ -300,7 +300,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fjbc.M400662200">
-10.1074/jbc.M400662200</weblink>. PMID 15047703.</cite>&nbsp;</entry>
+10.1074/jbc.M400662200</weblink>. PMID 15047703.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Dunham A, Matthews LH, Burton J, et al.&#32;(2004).&#32;"The DNA sequence and analysis of human chromosome 13.". <it>Nature</it>&#32;<b>428</b>&#32;(6982): 522–8. <document wordnetid="106470073" confidence="0.8">
@@ -311,7 +311,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature02379">
-10.1038/nature02379</weblink>. PMID 15057823.</cite>&nbsp;</entry>
+10.1038/nature02379</weblink>. PMID 15057823.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Gerhard DS, Wagner L, Feingold EA, et al.&#32;(2004).&#32;"The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).". <it>Genome Res.</it>&#32;<b>14</b>&#32;(10B): 2121–7. <document wordnetid="106470073" confidence="0.8">
@@ -322,7 +322,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2596504">
-10.1101/gr.2596504</weblink>. PMID 15489334.</cite>&nbsp;</entry>
+10.1101/gr.2596504</weblink>. PMID 15489334.</cite> </entry>
 </list>
 </p>
 

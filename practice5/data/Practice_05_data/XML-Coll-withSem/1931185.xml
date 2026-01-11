@@ -61,36 +61,36 @@ Some major work</st>
  Word co-occurrence model</entry>
 <entry level="1" type="indent">
 
- <cite style="font-style:normal">Y Mori, H Takahashi, and R Oka&#32;(1999). "Image-to-word transformation based on dividing and vector quantizing images with words.".&#32;<it>Proceedings of the International Workshop on Multimedia Intelligent Storage and Retrieval Management</it>.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Y Mori, H Takahashi, and R Oka&#32;(1999). "Image-to-word transformation based on dividing and vector quantizing images with words.".&#32;<it>Proceedings of the International Workshop on Multimedia Intelligent Storage and Retrieval Management</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Annotation as machine translation </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">P Duygulu, K Barnard, N de Fretias, and D Forsyth&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://vision.cs.arizona.edu/kobus/research/publications/ECCV-02-1/">
-Object recognition as machine translation: Learning a lexicon for a fixed image vocabulary</weblink>".&#32;<it>Proceedings of the European Conference on Computer Vision</it>: 97-112.</cite>&nbsp;</entry>
+Object recognition as machine translation: Learning a lexicon for a fixed image vocabulary</weblink>".&#32;<it>Proceedings of the European Conference on Computer Vision</it>: 97-112.</cite> </entry>
 <entry level="1" type="bullet">
 
  Statistical models</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">J Li and J Z Wang&#32;(2006). "<weblink xlink:type="simple" xlink:href="http://www-db.stanford.edu/~wangz/project/imsearch/ALIP/ACMMM06/">
-Real-time Computerized Annotation of Pictures</weblink>".&#32;<it>Proc. ACM Multimedia</it>: 911-920.</cite>&nbsp;</entry>
+Real-time Computerized Annotation of Pictures</weblink>".&#32;<it>Proc. ACM Multimedia</it>: 911-920.</cite> </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">J Z Wang and J Li&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://www-db.stanford.edu/~wangz/project/imsearch/ALIP/ACM02/">
-Learning-Based Linguistic Indexing of Pictures with 2-D MHMMs</weblink>".&#32;<it>Proc. ACM Multimedia</it>: 436-445.</cite>&nbsp;</entry>
+Learning-Based Linguistic Indexing of Pictures with 2-D MHMMs</weblink>".&#32;<it>Proc. ACM Multimedia</it>: 436-445.</cite> </entry>
 <entry level="1" type="bullet">
 
  Automatic linguistic indexing of pictures</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">J Li and J Z Wang&#32;(2008). "<weblink xlink:type="simple" xlink:href="http://infolab.stanford.edu/~wangz/project/imsearch/ALIP/PAMI08/">
-Real-time Computerized Annotation of Pictures</weblink>".&#32;<it>IEEE Trans. on Pattern Analysis and Machine Intelligence</it>.</cite>&nbsp;</entry>
+Real-time Computerized Annotation of Pictures</weblink>".&#32;<it>IEEE Trans. on Pattern Analysis and Machine Intelligence</it>.</cite> </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">J Li and J Z Wang&#32;(2003). "<weblink xlink:type="simple" xlink:href="http://www-db.stanford.edu/~wangz/project/imsearch/ALIP/PAMI03/">
-Automatic Linguistic Indexing of Pictures by a Statistical Modeling Approach</weblink>".&#32;<it>IEEE Trans. on Pattern Analysis and Machine Intelligence</it>: 1075-1088.</cite>&nbsp;</entry>
+Automatic Linguistic Indexing of Pictures by a Statistical Modeling Approach</weblink>".&#32;<it>IEEE Trans. on Pattern Analysis and Machine Intelligence</it>: 1075-1088.</cite> </entry>
 </list>
 </p>
 <p>
@@ -102,141 +102,141 @@ Automatic Linguistic Indexing of Pictures by a Statistical Modeling Approach</we
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">K Barnard, D A Forsyth&#32;(2001). "<weblink xlink:type="simple" xlink:href="http://kobus.ca/research/publications/ICCV-01/">
-Learning the Semantics of Words and Pictures</weblink>".&#32;<it>Proceedings of International Conference on Computer Vision</it>: 408-415.</cite>&nbsp;</entry>
+Learning the Semantics of Words and Pictures</weblink>".&#32;<it>Proceedings of International Conference on Computer Vision</it>: 408-415.</cite> </entry>
 <entry level="1" type="bullet">
 
  Latent Dirichlet Allocation model </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">D Blei, A Ng, and M Jordan&#32;(2003). "<weblink xlink:type="simple" xlink:href="http://www.ics.uci.edu/~liang/seminars/win05/papers/blei03-latent-dirichlet.pdf">
-Latent Dirichlet allocation</weblink>".&#32;<it>Journal of Machine Learning Research</it>: 3:993-1022.</cite>&nbsp;</entry>
+Latent Dirichlet allocation</weblink>".&#32;<it>Journal of Machine Learning Research</it>: 3:993-1022.</cite> </entry>
 <entry level="1" type="bullet">
 
  Supervised Multiclass Labeling</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">G Carneiro, A B Chan, P Moreno, and N Vasconcelos&#32;(2006). "<weblink xlink:type="simple" xlink:href="http://www.svcl.ucsd.edu/publications/journal/2007/pami/pami07-semantics.pdf">
-Supervised Learning of Semantic Classes for Image Annotation and Retrieval</weblink>".&#32;<it>IEEE Trans. on Pattern Analysis and Machine Intelligence</it>: 394-410.</cite>&nbsp;</entry>
+Supervised Learning of Semantic Classes for Image Annotation and Retrieval</weblink>".&#32;<it>IEEE Trans. on Pattern Analysis and Machine Intelligence</it>: 394-410.</cite> </entry>
 <entry level="1" type="bullet">
 
  Texture similarity </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">R W Picard and T P Minka&#32;(1995). "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/picard95vision.html">
-Vision Texture for Annotation</weblink>".&#32;<it>Multimedia Systems</it>.</cite>&nbsp;</entry>
+Vision Texture for Annotation</weblink>".&#32;<it>Multimedia Systems</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Support Vector Machines</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">C Cusano, G Ciocca, and R Scettini&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2003SPIE.5304..330C&amp;db_key=INST">
-Image Annotation Using SVM</weblink>".&#32;<it>Proceedings of Internet Imaging IV</it>.</cite>&nbsp;</entry>
+Image Annotation Using SVM</weblink>".&#32;<it>Proceedings of Internet Imaging IV</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Ensemble of Decision Trees and Random Subwindows</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">R Maree, P Geurts, J Piater, and L Wehenkel&#32;(2005). "<weblink xlink:type="simple" xlink:href="http://www.montefiore.ulg.ac.be/~maree/#publications">
-Random Subwindows for Robust Image Classification</weblink>".&#32;<it>Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition</it>: 1:34-30.</cite>&nbsp;</entry>
+Random Subwindows for Robust Image Classification</weblink>".&#32;<it>Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition</it>: 1:34-30.</cite> </entry>
 <entry level="1" type="bullet">
 
  Maximum Entropy</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">J Jeon, R Manmatha&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://ciir.cs.umass.edu/pubfiles/mm-355.pdf">
-Using Maximum Entropy for Automatic Image Annotation</weblink>".&#32;<it>Int'l Conf on Image and Video Retrieval (CIVR 2004)</it>: 24-32.</cite>&nbsp;</entry>
+Using Maximum Entropy for Automatic Image Annotation</weblink>".&#32;<it>Int'l Conf on Image and Video Retrieval (CIVR 2004)</it>: 24-32.</cite> </entry>
 <entry level="1" type="bullet">
 
  Relevance models </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">J Jeon, V Lavrenko, and R Manmatha&#32;(2003). "<weblink xlink:type="simple" xlink:href="http://ciir.cs.umass.edu/pubfiles/mm-41.pdf">
-Automatic image annotation and retrieval using cross-media relevance models</weblink>".&#32;<it>Proceedings of the ACM SIGIR Conference on Research and Development in Information Retrieval</it>: 119-126.</cite>&nbsp;</entry>
+Automatic image annotation and retrieval using cross-media relevance models</weblink>".&#32;<it>Proceedings of the ACM SIGIR Conference on Research and Development in Information Retrieval</it>: 119-126.</cite> </entry>
 <entry level="1" type="bullet">
 
  Relevance models using continuous probability density functions </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">V Lavrenko, R Manmatha, and J Jeon&#32;(2003). "<weblink xlink:type="simple" xlink:href="http://ciir.cs.umass.edu/pubfiles/mm-46.pdf">
-A model for learning the semantics of pictures</weblink>".&#32;<it>Proceedings of the 16th Conference on Advances in Neural Information Processing Systems NIPS</it>.</cite>&nbsp;</entry>
+A model for learning the semantics of pictures</weblink>".&#32;<it>Proceedings of the 16th Conference on Advances in Neural Information Processing Systems NIPS</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Coherent Language Model</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">R Jin, J Y Chai, L Si&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://www.cse.msu.edu/~rongjin/publications/acmmm04.jin.pdf">
-Effective Automatic Image Annotation via A Coherent Language Model and Active Learning</weblink>".&#32;<it>Proceedings of MM'04</it>.</cite>&nbsp;</entry>
+Effective Automatic Image Annotation via A Coherent Language Model and Active Learning</weblink>".&#32;<it>Proceedings of MM'04</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Inference networks </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">D Metzler and R Manmatha&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://ciir.cs.umass.edu/pubfiles/mm-346.pdf">
-An inference network approach to image retrieval</weblink>".&#32;<it>Proceedings of the International Conference on Image and Video Retrieval</it>: 42-50.</cite>&nbsp;</entry>
+An inference network approach to image retrieval</weblink>".&#32;<it>Proceedings of the International Conference on Image and Video Retrieval</it>: 42-50.</cite> </entry>
 <entry level="1" type="bullet">
 
  Multiple Bernoulli distribution </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">S Feng, R Manmatha, and V Lavrenko&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://ciir.cs.umass.edu/pubfiles/mm-333.pdf">
-Multiple Bernoulli relevance models for image and video annotation</weblink>".&#32;<it>IEEE Conference on Computer Vision and Pattern Recognition</it>: 1002-1009.</cite>&nbsp;</entry>
+Multiple Bernoulli relevance models for image and video annotation</weblink>".&#32;<it>IEEE Conference on Computer Vision and Pattern Recognition</it>: 1002-1009.</cite> </entry>
 <entry level="1" type="bullet">
 
  Multiple design alternatives</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">J Y Pan, H-J Yang, P Duygulu and C Faloutsos&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://www.informedia.cs.cmu.edu/documents/ICME04AutoICap.pdf">
-Automatic Image Captioning</weblink>".&#32;<it>Proceedings of the 2004 IEEE International Conference on Multimedia and Expo (ICME'04)</it>.</cite>&nbsp;</entry>
+Automatic Image Captioning</weblink>".&#32;<it>Proceedings of the 2004 IEEE International Conference on Multimedia and Expo (ICME'04)</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Natural scene annotation</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">J Fan, Y Gao, H Luo and G Xu&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://portal.acm.org/ft_gateway.cfm?id=1009055&amp;type=pdf&amp;coll=GUIDE&amp;dl=GUIDE&amp;CFID=1581830&amp;CFTOKEN=99651762">
-Automatic Image Annotation by Using Concept-Sensitive Salient Objects for Image Content Representation</weblink>".&#32;<it>Proceedings of the 27th annual international conference on Research and development in information retrieval</it>: 361-368.</cite>&nbsp;</entry>
+Automatic Image Annotation by Using Concept-Sensitive Salient Objects for Image Content Representation</weblink>".&#32;<it>Proceedings of the 27th annual international conference on Research and development in information retrieval</it>: 361-368.</cite> </entry>
 <entry level="1" type="bullet">
 
  Relevant low-level global filters </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">A Oliva and A Torralba&#32;(2001). "<weblink xlink:type="simple" xlink:href="http://cvcl.mit.edu/Papers/IJCV01-Oliva-Torralba.pdf">
-Modeling the shape of the scene: a holistic representation of the spatial envelope</weblink>".&#32;<it>International Journal of Computer Vision</it>: 42:145-175.</cite>&nbsp;</entry>
+Modeling the shape of the scene: a holistic representation of the spatial envelope</weblink>".&#32;<it>International Journal of Computer Vision</it>: 42:145-175.</cite> </entry>
 <entry level="1" type="bullet">
 
  Global image features and nonparametric density estimation </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">A Yavlinsky, E Schofield and S Rüger&#32;(2005). "<weblink xlink:type="simple" xlink:href="http://km.doc.ic.ac.uk/www-pub/civr05-annotation.pdf">
-Automated Image Annotation Using Global Features and Robust Nonparametric Density Estimation</weblink>".&#32;<it>Int'l Conf on Image and Video Retrieval (CIVR, Singapore, Jul 2005)</it>.</cite>&nbsp;</entry>
+Automated Image Annotation Using Global Features and Robust Nonparametric Density Estimation</weblink>".&#32;<it>Int'l Conf on Image and Video Retrieval (CIVR, Singapore, Jul 2005)</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Video semantics </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">N Vasconcelos and A Lippman&#32;(2001). "<weblink xlink:type="simple" xlink:href="http://www.svcl.ucsd.edu/publications/journal/2000/ip/ip00.pdf">
-Statistical Models of Video Structure for Content Analysis and Characterization</weblink>".&#32;<it>IEEE Transactions on Image Processing</it>: 1-17.</cite>&nbsp;</entry>
+Statistical Models of Video Structure for Content Analysis and Characterization</weblink>".&#32;<it>IEEE Transactions on Image Processing</it>: 1-17.</cite> </entry>
 <entry level="1" type="bullet">
 
  Image Annotation Refinement</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">Yohan Jin, Latifur Khan, Lei Wang, and Mamoun Awad&#32;(2005). "<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=1101305&amp;dl=GUIDE,">
-Image annotations by combining multiple evidence &amp; wordNet</weblink>".&#32;<it>13th Annual ACM International Conference on Multimedia (MM 05)</it>: 706 - 715.</cite>&nbsp;</entry>
+Image annotations by combining multiple evidence &amp; wordNet</weblink>".&#32;<it>13th Annual ACM International Conference on Multimedia (MM 05)</it>: 706 - 715.</cite> </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">Changhu Wang, Feng Jing, Lei Zhang, and Hong-Jiang Zhang&#32;(2006). "<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=1180639.1180774#,">
-Image annotation refinement using random walk with restarts</weblink>".&#32;<it>14th Annual ACM International Conference on Multimedia (MM 06)</it>.</cite>&nbsp;</entry>
+Image annotation refinement using random walk with restarts</weblink>".&#32;<it>14th Annual ACM International Conference on Multimedia (MM 06)</it>.</cite> </entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">Changhu Wang, Feng Jing, Lei Zhang, and Hong-Jiang Zhang&#32;(2007). "<weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4270246">
-content-based image annotation refinement</weblink>".&#32;<it>IEEE Conference on Computer Vision and Pattern Recognition (CVPR 07)</it>.</cite>&nbsp;</entry>
+content-based image annotation refinement</weblink>".&#32;<it>IEEE Conference on Computer Vision and Pattern Recognition (CVPR 07)</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Automatic Image Annotation by Ensemble of Visual Descriptors</entry>
 <entry level="1" type="indent">
 
  <cite style="font-style:normal">Emre Akbas and Fatos Y. Vural&#32;(2007). "<weblink xlink:type="simple" xlink:href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4270482">
-Automatic Image Annotation by Ensemble of Visual Descriptors</weblink>".&#32;<it>Intl. Conf. on Computer Vision (CVPR) 2007, Workshop on Semantic Learning Applications in Multimedia</it>.</cite>&nbsp;</entry>
+Automatic Image Annotation by Ensemble of Visual Descriptors</weblink>".&#32;<it>Intl. Conf. on Computer Vision (CVPR) 2007, Workshop on Semantic Learning Applications in Multimedia</it>.</cite> </entry>
 </list>
 </p>
 
@@ -322,7 +322,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F1348246.1348248">
-10.1145/1348246.1348248</weblink>.</cite>&nbsp;</entry>
+10.1145/1348246.1348248</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -331,7 +331,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Nicolas Hervé;&#32;Nozha Boujemaa&#32;(2007). "<weblink xlink:type="simple" xlink:href="http://www-rocq.inria.fr/~nherve/nherve_civr2007.pdf">
-Image annotation : which approach for realistic databases ?</weblink>".&#32;<it>ACM International Conference on Image and Video Retrieval</it>.</cite>&nbsp;</entry>
+Image annotation : which approach for realistic databases ?</weblink>".&#32;<it>ACM International Conference on Image and Video Retrieval</it>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -340,7 +340,7 @@ Image annotation : which approach for realistic databases ?</weblink>".&#32;<it>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">M Inoue&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://research.nii.ac.jp/~m-inoue/paper/inoue04irix.pdf">
-On the need for annotation-based image retrieval</weblink>".&#32;<it>Workshop on Information Retrieval in Context</it>: 44-46.</cite>&nbsp;</entry>
+On the need for annotation-based image retrieval</weblink>".&#32;<it>Workshop on Information Retrieval in Context</it>: 44-46.</cite> </entry>
 </list>
 </p>
 

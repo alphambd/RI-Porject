@@ -304,7 +304,7 @@ Indiana Statehouse</link></capitol>
 </artifact>
 </building>
 </structure>
-&nbsp;&amp;bull; <village wordnetid="108672738" confidence="0.9508927676800064">
+ &amp;bull; <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../707/57707.xml">
 Indianapolis</link></village>
 </b> (<link xlink:type="simple" xlink:href="../627/255627.xml">
@@ -322,8 +322,8 @@ Executive</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../071/253071.xml">
-Governor</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../436/252436.xml">
-Previous Governors</link> &nbsp;&amp;bull;  <skilled_worker wordnetid="110605985" confidence="0.8">
+Governor</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../436/252436.xml">
+Previous Governors</link>  &amp;bull;  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <politician wordnetid="110451263" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -346,10 +346,10 @@ Lieutenant Governor</link></lieutenant_governor>
 </politician>
 </physical_entity>
 </skilled_worker>
- &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../943/9922943.xml">
+  &amp;bull;  <link xlink:type="simple" xlink:href="../943/9922943.xml">
 Attorney General</link>  <link>
-Auditor</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../332/19209332.xml">
-Secretary of State</link> &nbsp;&amp;bull;  <link>
+Auditor</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../332/19209332.xml">
+Secretary of State</link>  &amp;bull;  <link>
 Treasurer</link></p>
 </col>
 </row>
@@ -364,9 +364,9 @@ Legislature</col>
 <legislature wordnetid="108163273" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../659/430659.xml">
 General Assembly</link></legislature>
- &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../463/4964463.xml">
-Senate</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../708/1317708.xml">
-House of Representatives</link>  &nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+  &amp;bull;  <link xlink:type="simple" xlink:href="../463/4964463.xml">
+Senate</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../708/1317708.xml">
+House of Representatives</link>   &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <speaker wordnetid="110630188" confidence="0.8">
@@ -391,7 +391,7 @@ Judiciary</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../618/1778618.xml">
-Supreme Court</link> &nbsp;&amp;bull;  <social_group wordnetid="107950920" confidence="0.8">
+Supreme Court</link>  &amp;bull;  <social_group wordnetid="107950920" confidence="0.8">
 <assembly wordnetid="108163792" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <court wordnetid="108329453" confidence="0.8">
@@ -402,9 +402,9 @@ Court of Appeals</link></group>
 </gathering>
 </assembly>
 </social_group>
- &nbsp;&amp;bull;  <link>
-Tax Court</link> &nbsp;&amp;bull;  <link>
-Circuit Court</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../870/18715870.xml">
+  &amp;bull;  <link>
+Tax Court</link>  &amp;bull;  <link>
+Circuit Court</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../870/18715870.xml">
 Judicial Nominating Commission</link></p>
 </col>
 </row>
@@ -417,13 +417,13 @@ Departments</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even"><p>
 
 <link xlink:type="simple" xlink:href="../565/19029565.xml">
-Administration</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../436/19209436.xml">
-Education</link> &nbsp;&amp;bull;  <link>
-Health</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../835/767835.xml">
-Natural Resources</link> &nbsp;&amp;bull;  <police_department wordnetid="108121542" confidence="0.9508927676800064">
+Administration</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../436/19209436.xml">
+Education</link>  &amp;bull;  <link>
+Health</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../835/767835.xml">
+Natural Resources</link>  &amp;bull;  <police_department wordnetid="108121542" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../396/7945396.xml">
 State Police</link></police_department>
- &nbsp;&amp;bull;  <division wordnetid="108220714" confidence="0.8">
+  &amp;bull;  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <department wordnetid="108114861" confidence="0.8">
 <link xlink:type="simple" xlink:href="../254/3789254.xml">
@@ -442,9 +442,9 @@ Local Government</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../004/16829004.xml#xpointer(//*[./st=%22County+government%22])">
-County Government</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../040/9735040.xml">
-Township Government</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../004/16829004.xml#xpointer(//*[./st=%22City+council%22])">
-City Government</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../004/16829004.xml#xpointer(//*[./st=%22Town+council%22])">
+County Government</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../040/9735040.xml">
+Township Government</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../004/16829004.xml#xpointer(//*[./st=%22City+council%22])">
+City Government</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../004/16829004.xml#xpointer(//*[./st=%22Town+council%22])">
 Town Government</link></p>
 </col>
 </row>
@@ -469,7 +469,7 @@ Constitution</link></writing>
 </document>
 </fundamental_law>
 </law>
- &nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../913/18771913.xml">
+  &amp;bull; <link xlink:type="simple" xlink:href="../913/18771913.xml">
 Indiana Code</link></p>
 </col>
 </row>

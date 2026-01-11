@@ -269,13 +269,13 @@ Scratch</header>
 Result</header>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 1 2 3 4 5 6 7 8</col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 </table>
 </p>
@@ -397,9 +397,9 @@ Result</header>
 </row>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 1 2 3 4 5 6 7 8</col>
 <col>
@@ -428,9 +428,9 @@ Roll</header>
 Scratch &#124; Result</header>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 1 2 3 4 5 6 7 8 &#124;</col>
 </row>
@@ -673,7 +673,7 @@ OCLC</link></institution>
 </company>
 </commercial_enterprise>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/oclc/14222135">
-14222135</weblink>.</cite>&nbsp; 
+14222135</weblink>.</cite>  
 (note: 6th edition, ISBN 0-02-844720-4, is <weblink xlink:type="simple" xlink:href="http://digital.library.adelaide.edu.au/coll/special/fisher/stat_tab.pdf">
 available on the web</weblink>, but gives a different shuffling algorithm by C. R. Rao) 
 </entry>
@@ -699,7 +699,7 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0001-0782">
-0001-0782</weblink>.</cite>&nbsp;
+0001-0782</weblink>.</cite> 
 </entry>
 <entry id="3">
  <cite id="Reference-Knuth-1969" style="font-style:normal" class="book">Knuth, Donald E.&#32;(1969). The Art of Computer Programming volume 2: Seminumerical algorithms.&#32;Reading, MA:&#32;Addison-Wesley,&#32;124–125. <commercial_enterprise wordnetid="108065093" confidence="0.8">
@@ -714,7 +714,7 @@ OCLC</link></institution>
 </company>
 </commercial_enterprise>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/oclc/85975465">
-85975465</weblink>.</cite>&nbsp;
+85975465</weblink>.</cite> 
 </entry>
 <entry id="4">
  <cite id="Reference-Knuth-1998" style="font-style:normal" class="book">Knuth&#32;[1969]&#32;(1998). The Art of Computer Programming vol. 2, 3rd ed.,&#32;145–146. ISBN 0-201-89684-2. <commercial_enterprise wordnetid="108065093" confidence="0.8">
@@ -729,7 +729,7 @@ OCLC</link></institution>
 </company>
 </commercial_enterprise>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/oclc/38207978">
-38207978</weblink>.</cite>&nbsp;
+38207978</weblink>.</cite> 
 </entry>
 <entry id="5">
 Black, Paul E.&#32;(2005-12-19).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nist.gov/dads/HTML/fisherYatesShuffle.html">
@@ -752,7 +752,7 @@ ISSN</link></system_of_measurement>
 </standard>
 </symbol>
  <weblink xlink:type="simple" xlink:href="http://worldcat.org/issn/0249-6399">
-0249-6399</weblink>.</cite>&nbsp;
+0249-6399</weblink>.</cite> 
 
 </entry>
 <entry id="7">

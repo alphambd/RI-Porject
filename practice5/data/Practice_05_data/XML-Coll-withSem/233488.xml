@@ -104,28 +104,28 @@ taxonomy</link>, based on the desired outcome of the algorithm. Common algorithm
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../926/20926.xml">
-Supervised learning</link> &mdash; in which the algorithm generates a function that maps inputs to desired outputs. One standard formulation of the supervised learning task is the <link xlink:type="simple" xlink:href="../244/1579244.xml">
+Supervised learning</link> — in which the algorithm generates a function that maps inputs to desired outputs. One standard formulation of the supervised learning task is the <link xlink:type="simple" xlink:href="../244/1579244.xml">
 classification</link> problem: the learner is required to learn (to approximate) the behavior of a function which maps a vector <math>[X_1, X_2, \ldots X_N]\,</math> into one of several classes by looking at several input-output examples of the function.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../497/233497.xml">
-Unsupervised learning</link> &mdash; An agent which models a set of inputs: labelled examples are not available.</entry>
+Unsupervised learning</link> — An agent which models a set of inputs: labelled examples are not available.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../632/2829632.xml">
-Semi-supervised learning</link> &mdash; which combines both labeled and unlabeled examples to generate an appropriate function or classifier.</entry>
+Semi-supervised learning</link> — which combines both labeled and unlabeled examples to generate an appropriate function or classifier.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../294/66294.xml">
-Reinforcement learning</link> &mdash; in which the algorithm learns a policy of how to act given an observation of the world.  Every action has some impact in the environment, and the environment provides feedback that guides the learning algorithm.</entry>
+Reinforcement learning</link> — in which the algorithm learns a policy of how to act given an observation of the world.  Every action has some impact in the environment, and the environment provides feedback that guides the learning algorithm.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../361/960361.xml">
-Transduction</link> &mdash; similar to supervised learning, but does not explicitly construct a function: instead, tries to predict new outputs based on training inputs, training outputs, and test inputs which are available while training.</entry>
+Transduction</link> — similar to supervised learning, but does not explicitly construct a function: instead, tries to predict new outputs based on training inputs, training outputs, and test inputs which are available while training.</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../663/938663.xml">
-Learning to learn</link> &mdash; in which the algorithm learns its own <link xlink:type="simple" xlink:href="../926/173926.xml">
+Learning to learn</link> — in which the algorithm learns its own <link xlink:type="simple" xlink:href="../926/173926.xml">
 inductive bias</link> based on previous experience.</entry>
 </list>
 </p>

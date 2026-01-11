@@ -72,7 +72,7 @@ The algorithm reduces the problem of finding the GCD by repeatedly applying thes
  If <it>u</it> and <it>v</it> are both odd, and <it>u</it> ≥ <it>v</it>, then gcd(<it>u</it>, <it>v</it>) = gcd((<it>u</it>&amp;minus;<it>v</it>)/2, <it>v</it>). If both are odd and <it>u</it>  <it>v</it>, then gcd(<it>u</it>, <it>v</it>) = gcd((<it>v</it>-<it>u</it>)/2, <it>u</it>). These are combinations of one step of the simple Euclidean algorithm, which uses subtraction at each step, and an application of step 3 above. The division by 2 results in an integer because the difference of two odd numbers is even.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></entry>
 <entry level="1" type="number">
 
- Repeat steps 3&ndash;4 until <it>u</it> = <it>v</it>, or (one more step) until <it>u</it> = 0. In either case, the result is 2<it>kv</it>, where <it>k</it> is the number of common factors of 2 found in step 2.</entry>
+ Repeat steps 3–4 until <it>u</it> = <it>v</it>, or (one more step) until <it>u</it> = 0. In either case, the result is 2<it>kv</it>, where <it>k</it> is the number of common factors of 2 found in step 2.</entry>
 </list>
 </p>
 <p>
@@ -114,7 +114,7 @@ Implementation in C</st>
 Following is an implementation of the algorithm in <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../021/6021.xml">
 C</link></programming_language>
-, taking two non-negative arguments <it>u</it> and <it>v</it>. It first removes all common factors of 2 using identity&nbsp;2, then computes the GCD of the remaining numbers using identities 3 and&nbsp;4, and combines these to form the final answer.</p>
+, taking two non-negative arguments <it>u</it> and <it>v</it>. It first removes all common factors of 2 using identity 2, then computes the GCD of the remaining numbers using identities 3 and 4, and combines these to form the final answer.</p>
 
 
 <p>
@@ -366,9 +366,9 @@ The Art of Computer Programming</link></publication>
 </work>
 , Volume 2: Seminumerical Algorithms</it> (3rd Edition). Addison-Wesley.</entry>
 <entry id="2">
-In fact, the algorithm might be improved by the observation that if both <it>u</it> and <it>v</it> are odd, then exactly one of <it>u</it>+<it>v</it> or <it>u</it>&amp;minus;<it>v</it> must be divisible by four. Specifically, assuming <it>u</it> ≥ <it>v</it>, if ((<it>u</it>&nbsp;<link xlink:type="simple" xlink:href="../979/105979.xml">
-xor</link>&nbsp;<it>v</it>)&nbsp;<link xlink:type="simple" xlink:href="../399/264399.xml">
-and</link>&nbsp;2)&nbsp;=&nbsp;2, then gcd(<it>u</it>, <it>v</it>) = gcd((<it>u</it>+<it>v</it>)/4, <it>v</it>), and otherwise gcd(<it>u</it>, <it>v</it>) = gcd((<it>u</it>&amp;minus;<it>v</it>)/4, <it>v</it>).</entry>
+In fact, the algorithm might be improved by the observation that if both <it>u</it> and <it>v</it> are odd, then exactly one of <it>u</it>+<it>v</it> or <it>u</it>&amp;minus;<it>v</it> must be divisible by four. Specifically, assuming <it>u</it> ≥ <it>v</it>, if ((<it>u</it> <link xlink:type="simple" xlink:href="../979/105979.xml">
+xor</link> <it>v</it>) <link xlink:type="simple" xlink:href="../399/264399.xml">
+and</link> 2) = 2, then gcd(<it>u</it>, <it>v</it>) = gcd((<it>u</it>+<it>v</it>)/4, <it>v</it>), and otherwise gcd(<it>u</it>, <it>v</it>) = gcd((<it>u</it>&amp;minus;<it>v</it>)/4, <it>v</it>).</entry>
 <entry id="3">
 Knuth (1998), answer to exercise 39 of section 4.5.2, p. 646</entry>
 <entry id="4">

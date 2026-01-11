@@ -83,7 +83,7 @@ IBM System/360-67</link>, and the primary focus of this article</entry>
 
  <link xlink:type="simple" xlink:href="../406/8375406.xml">
 CP-370</link>/CMS, a reimplementation of CP-67/CMS for the <link xlink:type="simple" xlink:href="../785/59785.xml">
-System/370</link> &ndash; never released as such, but instead becoming the foundation of IBM's <O wordnetid="106832680" confidence="0.9508927676800064">
+System/370</link> – never released as such, but instead becoming the foundation of IBM's <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link></O>
  operating system (announced in 1972 and still in use)</entry>
@@ -121,8 +121,8 @@ IBM</link></company>
 Cambridge Scientific Center</link></facility>
 </artifact>
  (CSC), an R&amp;D lab with very close ties to <link xlink:type="simple" xlink:href="../061/19061.xml">
-MIT</link>. The system's goals, development process, release, and legacy &ndash; and its breakthrough technology &ndash; all set this system apart from other operating systems of its day, and from other large IBM projects. In particular, it was an <link xlink:type="simple" xlink:href="../758/18938758.xml">
-open-source</link> system, made available in source code form to all IBM customers at no charge &ndash; as part of the unsupported <link xlink:type="simple" xlink:href="../204/7218204.xml">
+MIT</link>. The system's goals, development process, release, and legacy – and its breakthrough technology – all set this system apart from other operating systems of its day, and from other large IBM projects. In particular, it was an <link xlink:type="simple" xlink:href="../758/18938758.xml">
+open-source</link> system, made available in source code form to all IBM customers at no charge – as part of the unsupported <link xlink:type="simple" xlink:href="../204/7218204.xml">
 IBM Type-III Library</link>. CP/CMS users supported themselves and each other. Unusual circumstances, described in the <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml#xpointer(//*[./st=%22History%22])">
 History</link></O>
@@ -149,7 +149,7 @@ System/360</link> computer, able to run any S/360 software that ran on the bare 
 <list>
 <entry level="1" type="bullet">
 
- <b>CMS</b>, the <it>Cambridge Monitor System</it> (and also <it>Console Monitor System</it><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> &ndash; but renamed <shell wordnetid="104190464" confidence="0.8">
+ <b>CMS</b>, the <it>Cambridge Monitor System</it> (and also <it>Console Monitor System</it><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> – but renamed <shell wordnetid="104190464" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <ammunition wordnetid="102703275" confidence="0.8">
@@ -163,7 +163,7 @@ Conversational Monitor System</link></weaponry>
  in <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM</link></O>
-) was a lightweight single-user operating system, for interactive timesharing use. By running many copies of CMS in CP's virtual machines &ndash; instead of multiple copies of large, traditional multi-tasking operating systems &ndash; the overhead per user was less. This allowed a great number of simultaneous users to share a single S/360.</entry>
+) was a lightweight single-user operating system, for interactive timesharing use. By running many copies of CMS in CP's virtual machines – instead of multiple copies of large, traditional multi-tasking operating systems – the overhead per user was less. This allowed a great number of simultaneous users to share a single S/360.</entry>
 </list>
 </p>
 <p>
@@ -182,7 +182,7 @@ The CP/CMS virtual machine concept was an important step forward in operating sy
 <list>
 <entry level="1" type="bullet">
 
- By simulating a full, stand-alone computer for each user, CP/CMS could run <it>any</it> S/360 software in a time-sharing environment &ndash; not just applications specifically designed for time-sharing.</entry>
+ By simulating a full, stand-alone computer for each user, CP/CMS could run <it>any</it> S/360 software in a time-sharing environment – not just applications specifically designed for time-sharing.</entry>
 </list>
 </p>
 <p>
@@ -211,7 +211,7 @@ VM</link></O>
  family.)</p>
 <p>
 
-CP/CMS was viewed as "IBM's <it>other</it> operating system" &ndash; a poor cousin to IBM's recommended batch-oriented offerings. (Until recently, <O wordnetid="106832680" confidence="0.9508927676800064">
+CP/CMS was viewed as "IBM's <it>other</it> operating system" – a poor cousin to IBM's recommended batch-oriented offerings. (Until recently, <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM</link></O>
  remained in this role.) But CP/CMS rose above limited resources and company politics, to create an enduring and important technical legacy, a fiercely loyal user base, major derivative systems in the <link xlink:type="simple" xlink:href="../958/30958.xml">
@@ -244,26 +244,26 @@ public domain</link>.)</p>
 
 The importance of operating system source code has changed over time. Before <link xlink:type="simple" xlink:href="../182/7283182.xml#xpointer(//*[./st=%22Unbundling+of+software+and+services%22])">
 IBM unbundled software from hardware</link> in 1969, the operating system (and most other software) was included in the cost of the hardware; and a single vendor had complete responsibility for the entire system, hardware and software. This made the distribution medium relatively unimportant. After IBM's unbundling, OS software was delivered as <link>
-IBM System Control Program (SCP) software</link> &ndash; eventually in "object code only" form, but still at no additional charge. </p>
+IBM System Control Program (SCP) software</link> – eventually in "object code only" form, but still at no additional charge. </p>
 <p>
 
 For complicated reasons, CP/CMS was not released in the normal way. It was not supported by IBM, but was made part of the unsupported <link xlink:type="simple" xlink:href="../204/7218204.xml">
-IBM Type-III Library</link> &ndash; a collection of software contributed by customers and IBM personnel. IBM distributed this library to its customers for use 'as is'. The lack of direct IBM support for such products forced active users to support themselves, and encouraged them to make modifications and to support each other. CP/CMS and other Type-III products were thus an early form of <link xlink:type="simple" xlink:href="../635/10635.xml">
+IBM Type-III Library</link> – a collection of software contributed by customers and IBM personnel. IBM distributed this library to its customers for use 'as is'. The lack of direct IBM support for such products forced active users to support themselves, and encouraged them to make modifications and to support each other. CP/CMS and other Type-III products were thus an early form of <link xlink:type="simple" xlink:href="../635/10635.xml">
 free software</link>.</p>
 <p>
 
-Source code distribution of other IBM operating systems may have continued for some time &ndash; e.g. <link xlink:type="simple" xlink:href="../737/14387737.xml">
+Source code distribution of other IBM operating systems may have continued for some time – e.g. <link xlink:type="simple" xlink:href="../737/14387737.xml">
 OS/360</link>, <link xlink:type="simple" xlink:href="../229/626229.xml">
 DOS/360</link>, <link xlink:type="simple" xlink:href="../682/32682.xml">
 DOS/VSE</link>, <link xlink:type="simple" xlink:href="../649/19649.xml">
 MVS</link>, and even <link>
 TSS/370</link>, which all today are generally considered to be in the <link xlink:type="simple" xlink:href="../551/18935551.xml">
-public domain</link>  &ndash; since they were arguably published without a copyright notice before 1978.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> However, the unsupported status of CP/CMS placed different pressures on its user community, and raised the importance for them of source code distribution.</p>
+public domain</link>  – since they were arguably published without a copyright notice before 1978.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> However, the unsupported status of CP/CMS placed different pressures on its user community, and raised the importance for them of source code distribution.</p>
 <p>
 
 Curiously, CP/CMS was contributed to the Type-III Library by MIT's <link xlink:type="simple" xlink:href="../536/637536.xml">
-Lincoln Laboratory</link> &ndash; and <it>not</it> by <link xlink:type="simple" xlink:href="../343/450343.xml">
-CSC</link> or any other IBM unit &ndash; despite the fact that the system was built by IBM's <artifact wordnetid="100021939" confidence="0.8">
+Lincoln Laboratory</link> – and <it>not</it> by <link xlink:type="simple" xlink:href="../343/450343.xml">
+CSC</link> or any other IBM unit – despite the fact that the system was built by IBM's <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <link xlink:type="simple" xlink:href="../862/7145862.xml">
 Cambridge Scientific Center</link></facility>
@@ -303,7 +303,7 @@ After IBM released VM/370, source code distribution of VM continued for several 
 PL/S</link>, an internal systems programming language mandated for use within IBM on many comparable projects. The use of <link xlink:type="simple" xlink:href="../828/1033828.xml">
 PL/S</link> would have made source code distribution impossible. IBM attempted to turn away from assembly language to higher level languages as early as 1965, and was making substantial use of <link xlink:type="simple" xlink:href="../828/1033828.xml">
 PL/S</link> by 1969, e.g. in MVS. <link xlink:type="simple" xlink:href="../828/1033828.xml">
-PL/S</link> was considered a trade secret at the time, and was not available to customers. IBM apparently made exceptions to this policy much later.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref>) The VM user community continued to make important contributions to the software, as it had during the CP/CMS Type-III period. Few OS or DOS sites exhibited active user involvement in deep operating system internals; but this was found at many VM sites . This "reverse support" helped CP/CMS concepts survive and evolve &ndash; despite VM's "second class citizen" status at IBM.</p>
+PL/S</link> was considered a trade secret at the time, and was not available to customers. IBM apparently made exceptions to this policy much later.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref>) The VM user community continued to make important contributions to the software, as it had during the CP/CMS Type-III period. Few OS or DOS sites exhibited active user involvement in deep operating system internals; but this was found at many VM sites . This "reverse support" helped CP/CMS concepts survive and evolve – despite VM's "second class citizen" status at IBM.</p>
 
 </sec>
 <sec>
@@ -365,7 +365,7 @@ Project MAC</link>, began an effort to regain IBM's credibility in time-sharing,
 CP/CMS</link></O>
 . In the same spirit, IBM designed and released a S/360 model with time-sharing features, the <link xlink:type="simple" xlink:href="../024/7522024.xml">
 IBM System/360-67</link>, and a time-sharing operating system, <link xlink:type="simple" xlink:href="../358/6253358.xml">
-TSS/360</link>. TSS failed; but the 360-67 and CP/CMS succeeded &ndash; despite internal political battles over time-sharing, and concerted efforts at IBM to scrap the CP/CMS effort.</entry>
+TSS/360</link>. TSS failed; but the 360-67 and CP/CMS succeeded – despite internal political battles over time-sharing, and concerted efforts at IBM to scrap the CP/CMS effort.</entry>
 </list>
 </p>
 <p>
@@ -397,7 +397,7 @@ IDC</link>) were reselling S/360-67 time using CP/CMS technology.</entry>
  In 1972, IBM announced the addition of virtual memory to the S/370 series, along with the <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link></O>
- operating system &ndash; a reimplementation of CP/CMS for the S/370. This marked the end of CP/CMS releases, although the system continued its independent existence for some time. <O wordnetid="106832680" confidence="0.9508927676800064">
+ operating system – a reimplementation of CP/CMS for the S/370. This marked the end of CP/CMS releases, although the system continued its independent existence for some time. <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM</link></O>
  releases continued to include source code for some time, and members of the VM community long remained active contributors.</entry>
@@ -435,7 +435,7 @@ problem state</link>' under CP.</p>
 The result was a fully-virtualized environment. Each virtual machine had its own set of virtual devices, mapped from the system's real hardware environment. (Thus a given dial-up teletype was presented to its VM instance as its <it>virtual console</it>.)</p>
 <p>
 
-Any S/360 operating system could in fact be run under CP, but normal users ran CMS (<it>Cambridge Monitor System</it>) &ndash; a simple, single-user operating system. CMS allowed users to run programs and manage their virtual devices. (Testing and development of CP itself was done by running a full copy of CP/CMS inside a single virtual machine. Some CP/CMS operating system work, such as CP-370 development and MVS testing, ran four- or five-level deep stacks of hardware and OS simulations.)</p>
+Any S/360 operating system could in fact be run under CP, but normal users ran CMS (<it>Cambridge Monitor System</it>) – a simple, single-user operating system. CMS allowed users to run programs and manage their virtual devices. (Testing and development of CP itself was done by running a full copy of CP/CMS inside a single virtual machine. Some CP/CMS operating system work, such as CP-370 development and MVS testing, ran four- or five-level deep stacks of hardware and OS simulations.)</p>
 <p>
 
 The CP/CMS design was a departure from IBM's other monolithic operating systems. CP/CMS segregated complex "big system" problems (dispatching, hardware management, mass storage, etc.) from "little system" capabilities needed by a single user (application program execution, file I/O, console input/output, etc.). Each component was simpler as a result. Isolating users from each other improved system stability: a bug in one user's software could not crash another user's CMS, nor the underlying CP. This architecture would ultimately reach its apotheosis in <link xlink:type="simple" xlink:href="../023/20023.xml">
@@ -592,7 +592,7 @@ CTSS</link></O>
 <list>
 <entry level="1" type="bullet">
 
- E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0― extensive (819&nbsp;<it>pp.</it>) treatment of IBM's offerings during this period; the limited coverage of <O wordnetid="106832680" confidence="0.9508927676800064">
+ E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0― extensive (819 <it>pp.</it>) treatment of IBM's offerings during this period; the limited coverage of <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
  in such a definitive work is telling</entry>
@@ -740,17 +740,17 @@ History of CP/CMS</link>.</it>
 
 <reflist>
 <entry id="1">
-Creasy, <it>op. cit., p.</it> 488 &ndash; "Console Monitor System"</entry>
+Creasy, <it>op. cit., p.</it> 488 – "Console Monitor System"</entry>
 <entry id="2">
 cf. <link xlink:type="simple" xlink:href="../374/55374.xml">
-Hercules emulator</link>, which is apparently used to run these historic systems without raising complaints from IBM; the systems can be argued to have been "published" by IBM &ndash; perhaps as machine readable source code, certainly as microfiche</entry>
+Hercules emulator</link>, which is apparently used to run these historic systems without raising complaints from IBM; the systems can be argued to have been "published" by IBM – perhaps as machine readable source code, certainly as microfiche</entry>
 <entry id="3">
 <link xlink:type="simple" xlink:href="../551/18935551.xml">
 public domain</link>: "Until the Berne Convention Implementation Act of 1988, the lack of a proper copyright notice would force an otherwise copyrightable work into the public domain...."</entry>
 <entry id="4">
-Pugh <it>et al., p.</it> 737, note 166 &ndash; citing the C. H. Reynolds August 1965 <it>PL/I policy statement" mandating use of PL/I</it></entry>
+Pugh <it>et al., p.</it> 737, note 166 – citing the C. H. Reynolds August 1965 <it>PL/I policy statement" mandating use of PL/I</it></entry>
 <entry id="5">
-W. R. Brittenham, <it>The development of PL/S</it>, IBM Tchnical Report (1974) &ndash; cited in Pugh</entry>
+W. R. Brittenham, <it>The development of PL/S</it>, IBM Tchnical Report (1974) – cited in Pugh</entry>
 </reflist>
 </p>
 
@@ -780,14 +780,14 @@ Family tree</st>
 <row>
 <col colspan="3" style="background: #ccf; border-bottom:1px solid">
 <b>CP/CMS family relationships</b>
-&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;<it>derivation</it>&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt;&amp;gt;&nbsp;<it>strong influence</it>&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt;&nbsp;<it>some influence/precedence''</it></col>
+    → <it>derivation</it>    &amp;gt;&amp;gt; <it>strong influence</it>    &amp;gt; <it>some influence/precedence''</it></col>
 </row>
 <row>
 <col style="border-right:1px solid" rowspan="7">
- &nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../141/254141.xml">
 CTSS</link></O>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col colspan="3" style="border-bottom:1px solid">
@@ -798,7 +798,7 @@ IBM M44/44X</link></col>
 <col style="border-right:1px solid" rowspan="2">
  &amp;gt;&amp;gt; <link>
 CP-40/CMS</link> → <link>
- CP[-67]/CMS</link>&nbsp;</col>
+ CP[-67]/CMS</link> </col>
 <col>
  → <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link> → VM/XA versions → <link xlink:type="simple" xlink:href="../018/315018.xml">

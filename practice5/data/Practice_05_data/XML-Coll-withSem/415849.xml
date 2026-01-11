@@ -354,11 +354,11 @@ Kallithea</link></geographical_area>
 </village>
 </region>
  (<link>
-Ano Kallithea</link>)&nbsp;&#124; 
+Ano Kallithea</link>) &#124; 
 <link>
-Krini</link>&nbsp;&#124; 
+Krini</link> &#124; 
 <link>
-Krystallovrysi</link>&nbsp;&#124; 
+Krystallovrysi</link> &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -376,7 +376,7 @@ Ovrya</link></city>
 </location>
 </administrative_district>
 </region>
-&nbsp;&#124; 
+ &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -388,7 +388,7 @@ Petroto</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;&#124; 
+ &#124; 
 <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -400,7 +400,7 @@ Saravali</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;&#124; 
+ &#124; 
 <link>
 Thea</link></p>
 </col>

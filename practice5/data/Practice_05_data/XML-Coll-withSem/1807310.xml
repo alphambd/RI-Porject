@@ -109,7 +109,7 @@ Formula</link></col>
 C</link>52<link xlink:type="simple" xlink:href="../255/13255.xml">
 H</link>88<link xlink:type="simple" xlink:href="../175/21175.xml">
 N</link>10<link xlink:type="simple" xlink:href="../303/22303.xml">
-O</link>15&nbsp;</col>
+O</link>15 </col>
 </row>
 <row>
 <col bgcolor="#ddeeff">
@@ -176,7 +176,7 @@ Excretion</link></col>
 Licence data</link></col>
 <col bgcolor="#eeeeee">
 <weblink xlink:type="simple" xlink:href="http://www.emea.europa.eu/humandocs/Humans/EPAR/Cancidas/Cancidas.htm">
-EU</weblink>,&nbsp;<weblink xlink:type="simple" xlink:href="http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&amp;SearchTerm=Caspofungin&amp;SearchType=BasicSearch">
+EU</weblink>, <weblink xlink:type="simple" xlink:href="http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.SearchAction&amp;SearchTerm=Caspofungin&amp;SearchType=BasicSearch">
 US</weblink></col>
 </row>
 <row>
@@ -715,7 +715,7 @@ References</st>
 European Medicines Agency's list of authorised medicines for human use (C)</weblink></entry>
 <entry id="2">
  <cite style="font-style:normal">Baixench M, Aoun N, Desnos-Ollivier M, et al.&#32;(2007).&#32;"Acquired resistance to echinocandins in Candida albicans: case report
-and review". <it>Journal of Antimicrobial Chemotherapy</it>&#32;<b>59</b>&#32;(6): 1076&ndash;1083. <document wordnetid="106470073" confidence="0.8">
+and review". <it>Journal of Antimicrobial Chemotherapy</it>&#32;<b>59</b>&#32;(6): 1076–1083. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -723,7 +723,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fjac%2Fdkm095">
-10.1093/jac/dkm095</weblink>. PMID 17468115.</cite>&nbsp;</entry>
+10.1093/jac/dkm095</weblink>. PMID 17468115.</cite> </entry>
 </reflist>
 </p>
 

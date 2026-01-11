@@ -123,7 +123,7 @@ Colloids can be classified as follows:</p>
 <table class="wikitable">
 <row>
 <header colspan="2" rowspan="2">
-&nbsp;</header>
+ </header>
 <header colspan="3">
 <b>Dispersed Phase</b></header>
 </row>
@@ -423,7 +423,7 @@ Notes</st>
 
 <reflist>
 <entry id="1">
- <cite id="Reference-Levine-2001" style="font-style:normal" class="book">Levine, Ira N.&#32;(2001). Physical Chemistry, 5th Edition,&#32;Boston:&#32;McGraw-Hill. ISBN 0-07-231808-2.</cite>&nbsp;, p. 955</entry>
+ <cite id="Reference-Levine-2001" style="font-style:normal" class="book">Levine, Ira N.&#32;(2001). Physical Chemistry, 5th Edition,&#32;Boston:&#32;McGraw-Hill. ISBN 0-07-231808-2.</cite> , p. 955</entry>
 </reflist>
 </p>
 
@@ -484,7 +484,7 @@ Plasma</link></b></col>
 Other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../346/5346.xml">
-Colloid</link>&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+Colloid</link> ·  <substance wordnetid="100019613" confidence="0.8">
 <liquid wordnetid="114940386" confidence="0.8">
 <fluid wordnetid="114939900" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
@@ -493,18 +493,18 @@ Supercritical fluid</link></part>
 </fluid>
 </liquid>
 </substance>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../573/27573.xml">
 Superfluid</link></concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../529/431529.xml">
-Supersolid</link>&nbsp;·  <link>
-Bose–Einstein condensate</link>&nbsp;·  <link xlink:type="simple" xlink:href="../539/446539.xml">
-Fermionic condensate</link>&nbsp;·  <link xlink:type="simple" xlink:href="../428/144428.xml">
-Degenerate matter</link>&nbsp;·  <link xlink:type="simple" xlink:href="../440/19725440.xml">
-Strange matter</link>&nbsp;·  <link xlink:type="simple" xlink:href="../319/18605319.xml">
-Quark-gluon plasma</link>&nbsp;·  <b><it><link xlink:type="simple" xlink:href="../474/1314474.xml">
+ ·  <link xlink:type="simple" xlink:href="../529/431529.xml">
+Supersolid</link> ·  <link>
+Bose–Einstein condensate</link> ·  <link xlink:type="simple" xlink:href="../539/446539.xml">
+Fermionic condensate</link> ·  <link xlink:type="simple" xlink:href="../428/144428.xml">
+Degenerate matter</link> ·  <link xlink:type="simple" xlink:href="../440/19725440.xml">
+Strange matter</link> ·  <link xlink:type="simple" xlink:href="../319/18605319.xml">
+Quark-gluon plasma</link> ·  <b><it><link xlink:type="simple" xlink:href="../474/1314474.xml">
 List of states of matter</link></it></b></col>
 </row>
 <row style="height:2px">
@@ -515,17 +515,17 @@ List of states of matter</link></it></b></col>
 Concepts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../283/40283.xml">
-Melting point</link>&nbsp;·  <link xlink:type="simple" xlink:href="../115/4115.xml">
-Boiling point</link>&nbsp;·  <link xlink:type="simple" xlink:href="../462/30462.xml">
-Triple point</link>&nbsp;·  <process wordnetid="100029677" confidence="0.8">
+Melting point</link> ·  <link xlink:type="simple" xlink:href="../115/4115.xml">
+Boiling point</link> ·  <link xlink:type="simple" xlink:href="../462/30462.xml">
+Triple point</link> ·  <process wordnetid="100029677" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <phenomenon wordnetid="100034213" confidence="0.8">
 <link xlink:type="simple" xlink:href="../419/1951419.xml">
 Critical point</link></phenomenon>
 </physical_entity>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../908/9908.xml">
-Equation of state</link>&nbsp;·  <link xlink:type="simple" xlink:href="../460/2861460.xml">
+ ·  <link xlink:type="simple" xlink:href="../908/9908.xml">
+Equation of state</link> ·  <link xlink:type="simple" xlink:href="../460/2861460.xml">
 Cooling curve</link></col>
 </row>
 </table>

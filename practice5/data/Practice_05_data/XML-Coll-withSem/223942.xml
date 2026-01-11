@@ -589,7 +589,7 @@ BBC News</link></program>
 </message>
 </statement>
 &#32;(2005-11-21).&#32;Retrieved on <link>
-2008-09-15</link>.&nbsp;</entry>
+2008-09-15</link>. </entry>
 <entry id="5">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -706,19 +706,19 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Robert S Morris, Sr.&#32;(1984).&#32;"UNIX Operating System Security". <it>Bell Systems Technical Journal</it>&#32;<b>Vol. 62, No. 8</b>.&#32;BSTJ.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Robert S Morris, Sr.&#32;(1984).&#32;"UNIX Operating System Security". <it>Bell Systems Technical Journal</it>&#32;<b>Vol. 62, No. 8</b>.&#32;BSTJ.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Greg Hoglund and James Butler&#32;(2005). <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=fDxg1W3eT2gC">
-Rootkits: Subverting the Windows Kernel</weblink>.&#32;Addison Wesley. ISBN 0-321-29431-9.</cite>&nbsp;</entry>
+Rootkits: Subverting the Windows Kernel</weblink>.&#32;Addison Wesley. ISBN 0-321-29431-9.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Nancy Altholz and Larry Stevenson&#32;(2006). <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=MTcep7V6heUC">
-Rootkits for Dummies</weblink>.&#32;John Wiley and Sons Ltd. ISBN 0-471-91710-9.</cite>&nbsp;</entry>
+Rootkits for Dummies</weblink>.&#32;John Wiley and Sons Ltd. ISBN 0-471-91710-9.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Ric Veiler&#32;(2007). <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=OSaVF_jzsJgC">
-Professional Rootkits</weblink>.&#32;Wrox. ISBN 978-0-470-10154-4.</cite>&nbsp;</entry>
+Professional Rootkits</weblink>.&#32;Wrox. ISBN 978-0-470-10154-4.</cite> </entry>
 </list>
 </p>
 

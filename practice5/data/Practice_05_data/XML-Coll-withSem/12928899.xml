@@ -125,7 +125,7 @@ Complexity</st>
 
 <p>
 
-Pollard gives the time complexity of the algorithm as <math>{\scriptstyle O(\sqrt{b-a})}</math>, based on a probabilistic argument which follows from the assumption that <it>f</it> acts pseudorandomly.  Note that when the size of the set {<it>a</it>,&nbsp;…,&nbsp;<it>b</it>} to be searched is measured in <link xlink:type="simple" xlink:href="../690/1036690.xml">
+Pollard gives the time complexity of the algorithm as <math>{\scriptstyle O(\sqrt{b-a})}</math>, based on a probabilistic argument which follows from the assumption that <it>f</it> acts pseudorandomly.  Note that when the size of the set {<it>a</it>, …, <it>b</it>} to be searched is measured in <link xlink:type="simple" xlink:href="../690/1036690.xml">
 bits</link>, as is normal in <link xlink:type="simple" xlink:href="../132/6132.xml">
 complexity theory</link>, the set  has size log(<it>b</it>&amp;thinsp;&amp;minus;&amp;thinsp;<it>a</it>), and so the algorithm's complexity is <math>{\scriptstyle O(\sqrt{b-a}) = O(e^{\frac{1}{2}\log(b-a)})}</math>, which is exponential in the problem size.  For this reason, Pollard's lambda algorithm is considered an <link xlink:type="simple" xlink:href="../581/44581.xml">
 exponential time</link> algorithm.  For an example of a <link>

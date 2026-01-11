@@ -350,7 +350,7 @@ password cracker</link> that attempts to guess the password for an <link xlink:t
 encrypted</link> file (assuming that the password has a maximum possible length).</p>
 <p>
 
-For problems with all four properties, the time for a quantum computer to solve this will be proportional to the square root of <it>n</it> (it would take an average of (<it>n</it>&nbsp;+&nbsp;1)/2 guesses to find the answer using a classical computer.) That can be a very large speedup, reducing some problems from years to seconds. It can be used to attack <link xlink:type="simple" xlink:href="../042/53042.xml">
+For problems with all four properties, the time for a quantum computer to solve this will be proportional to the square root of <it>n</it> (it would take an average of (<it>n</it> + 1)/2 guesses to find the answer using a classical computer.) That can be a very large speedup, reducing some problems from years to seconds. It can be used to attack <link xlink:type="simple" xlink:href="../042/53042.xml">
 symmetric cipher</link>s such as <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../375/48375.xml">
 Triple DES</link></cipher>
@@ -781,12 +781,12 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1103%2FPhysRevLett.83.1054">
-10.1103/PhysRevLett.83.1054</weblink>.</cite>&nbsp;
+10.1103/PhysRevLett.83.1054</weblink>.</cite> 
 </entry>
 <entry id="5">
  <cite style="font-style:normal" class="book"><link>
 Waldner, Jean-Baptiste</link>&#32;(2007). Nanocomputers and Swarm Intelligence.&#32;<link xlink:type="simple" xlink:href="../815/5497815.xml">
-ISTE</link>,&#32;p157. ISBN 2746215160.</cite>&nbsp;</entry>
+ISTE</link>,&#32;p157. ISBN 2746215160.</cite> </entry>
 <entry id="6">
 DiVincenzo (1995).</entry>
 <entry id="7">
@@ -810,7 +810,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1090%2FS0273-0979-02-00964-3">
-10.1090/S0273-0979-02-00964-3</weblink>.</cite>&nbsp;</entry>
+10.1090/S0273-0979-02-00964-3</weblink>.</cite> </entry>
 <entry id="11">
 Monroe, Don, <weblink xlink:type="simple" xlink:href="http://www.newscientist.com/channel/fundamentals/mg20026761.700-anyons-the-breakthrough-quantum-computing-needs.html">
 <it>Anyons: The breakthrough quantum computing needs?''</it></weblink>, <magazine wordnetid="106595351" confidence="0.9508927676800064">
@@ -821,7 +821,7 @@ New Scientist</link></magazine>
  <cite id="CITEREFClarkeWilhelm2008" style="font-style:normal">Clarke, John&#32;&amp;&#32;Wilhelm, Frank&#32;(<link xlink:type="simple" xlink:href="../817/15817.xml">
 June 19</link> <link xlink:type="simple" xlink:href="../825/35825.xml">
 2008</link>),&#32;"<weblink xlink:type="simple" xlink:href="http://www.nature.com/nature/journal/v453/n7198/full/nature07128.html">
-Superconducting quantum bits</weblink>",&#32;<it>Nature</it>&#32;<b>453</b>:  1031&ndash;1042, <document wordnetid="106470073" confidence="0.8">
+Superconducting quantum bits</weblink>",&#32;<it>Nature</it>&#32;<b>453</b>:  1031–1042, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -829,7 +829,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature07128">
-10.1038/nature07128</weblink>, </cite>&nbsp;</entry>
+10.1038/nature07128</weblink>, </cite> </entry>
 <entry id="13">
 Wolfgang Gruener, TG Daily&#32;(2007-06-01).&#32;"<weblink xlink:type="simple" xlink:href="http://www.tgdaily.com/content/view/32306/118/">
 Research indicates diamonds could be key to quantum storage</weblink>".&#32;Retrieved on <link>
@@ -838,7 +838,7 @@ Research indicates diamonds could be key to quantum storage</weblink>".&#32;Retr
  <cite id="CITEREFNeumannMizuochiRemppHemmer2008" style="font-style:normal">Neumann, P.; Mizuochi, N.; Rempp, F.; Hemmer, P.; Watanabe, H.; Yamasaki, S.; Jacques, V.; Gaebel, T.; &#32;et al.&#32;(<link xlink:type="simple" xlink:href="../794/15794.xml">
 June 6</link> <link xlink:type="simple" xlink:href="../825/35825.xml">
 2008</link>),&#32;"<weblink xlink:type="simple" xlink:href="http://www.sciencemag.org/cgi/content/abstract/320/5881/1326">
-Multipartite Entanglement Among Single Spins in Diamond</weblink>",&#32;<it>Science</it>&#32;<b>320</b>(5881):  1326&ndash;1329, <document wordnetid="106470073" confidence="0.8">
+Multipartite Entanglement Among Single Spins in Diamond</weblink>",&#32;<it>Science</it>&#32;<b>320</b>(5881):  1326–1329, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -846,7 +846,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1126%2Fscience.1157233">
-10.1126/science.1157233</weblink>, PMID 18535240, </cite>&nbsp;</entry>
+10.1126/science.1157233</weblink>, PMID 18535240, </cite> </entry>
 <entry id="15">
 Rene Millman, IT PRO&#32;(2007-08-03).&#32;"<weblink xlink:type="simple" xlink:href="http://www.itpro.co.uk/news/121086/trapped-atoms-could-advance-quantum-computing.html">
 Trapped atoms could advance quantum computing</weblink>".&#32;Retrieved on <link>
@@ -929,12 +929,12 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1103%2FPhysRevLett.83.1054">
-10.1103/PhysRevLett.83.1054</weblink>.</cite>&nbsp;
+10.1103/PhysRevLett.83.1054</weblink>.</cite> 
 </entry>
 <entry id="5">
  <cite style="font-style:normal" class="book"><link>
 Waldner, Jean-Baptiste</link>&#32;(2007). Nanocomputers and Swarm Intelligence.&#32;<link xlink:type="simple" xlink:href="../815/5497815.xml">
-ISTE</link>,&#32;p157. ISBN 2746215160.</cite>&nbsp;</entry>
+ISTE</link>,&#32;p157. ISBN 2746215160.</cite> </entry>
 <entry id="6">
 DiVincenzo (1995).</entry>
 <entry id="7">
@@ -958,7 +958,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1090%2FS0273-0979-02-00964-3">
-10.1090/S0273-0979-02-00964-3</weblink>.</cite>&nbsp;</entry>
+10.1090/S0273-0979-02-00964-3</weblink>.</cite> </entry>
 <entry id="11">
 Monroe, Don, <weblink xlink:type="simple" xlink:href="http://www.newscientist.com/channel/fundamentals/mg20026761.700-anyons-the-breakthrough-quantum-computing-needs.html">
 <it>Anyons: The breakthrough quantum computing needs?''</it></weblink>, <magazine wordnetid="106595351" confidence="0.9508927676800064">
@@ -969,7 +969,7 @@ New Scientist</link></magazine>
  <cite id="CITEREFClarkeWilhelm2008" style="font-style:normal">Clarke, John&#32;&amp;&#32;Wilhelm, Frank&#32;(<link xlink:type="simple" xlink:href="../817/15817.xml">
 June 19</link> <link xlink:type="simple" xlink:href="../825/35825.xml">
 2008</link>),&#32;"<weblink xlink:type="simple" xlink:href="http://www.nature.com/nature/journal/v453/n7198/full/nature07128.html">
-Superconducting quantum bits</weblink>",&#32;<it>Nature</it>&#32;<b>453</b>:  1031&ndash;1042, <document wordnetid="106470073" confidence="0.8">
+Superconducting quantum bits</weblink>",&#32;<it>Nature</it>&#32;<b>453</b>:  1031–1042, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -977,7 +977,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature07128">
-10.1038/nature07128</weblink>, </cite>&nbsp;</entry>
+10.1038/nature07128</weblink>, </cite> </entry>
 <entry id="13">
 Wolfgang Gruener, TG Daily&#32;(2007-06-01).&#32;"<weblink xlink:type="simple" xlink:href="http://www.tgdaily.com/content/view/32306/118/">
 Research indicates diamonds could be key to quantum storage</weblink>".&#32;Retrieved on <link>
@@ -986,7 +986,7 @@ Research indicates diamonds could be key to quantum storage</weblink>".&#32;Retr
  <cite id="CITEREFNeumannMizuochiRemppHemmer2008" style="font-style:normal">Neumann, P.; Mizuochi, N.; Rempp, F.; Hemmer, P.; Watanabe, H.; Yamasaki, S.; Jacques, V.; Gaebel, T.; &#32;et al.&#32;(<link xlink:type="simple" xlink:href="../794/15794.xml">
 June 6</link> <link xlink:type="simple" xlink:href="../825/35825.xml">
 2008</link>),&#32;"<weblink xlink:type="simple" xlink:href="http://www.sciencemag.org/cgi/content/abstract/320/5881/1326">
-Multipartite Entanglement Among Single Spins in Diamond</weblink>",&#32;<it>Science</it>&#32;<b>320</b>(5881):  1326&ndash;1329, <document wordnetid="106470073" confidence="0.8">
+Multipartite Entanglement Among Single Spins in Diamond</weblink>",&#32;<it>Science</it>&#32;<b>320</b>(5881):  1326–1329, <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -994,7 +994,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1126%2Fscience.1157233">
-10.1126/science.1157233</weblink>, PMID 18535240, </cite>&nbsp;</entry>
+10.1126/science.1157233</weblink>, PMID 18535240, </cite> </entry>
 <entry id="15">
 Rene Millman, IT PRO&#32;(2007-08-03).&#32;"<weblink xlink:type="simple" xlink:href="http://www.itpro.co.uk/news/121086/trapped-atoms-could-advance-quantum-computing.html">
 Trapped atoms could advance quantum computing</weblink>".&#32;Retrieved on <link>
@@ -1037,7 +1037,7 @@ DiVincenzo, David P. (2000). "The Physical Implementation of Quantum Computation
 ar&amp;Chi;iv</link>:.</entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">DiVincenzo, David P.&#32;(1995).&#32;"Quantum Computation". <it>Science</it>&#32;<b>270</b>&#32;(5234): 255&ndash;261. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">DiVincenzo, David P.&#32;(1995).&#32;"Quantum Computation". <it>Science</it>&#32;<b>270</b>&#32;(5234): 255–261. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -1045,7 +1045,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1126%2Fscience.270.5234.255">
-10.1126/science.270.5234.255</weblink>.</cite>&nbsp; Table 1 lists switching and dephasing times for various systems.</entry>
+10.1126/science.270.5234.255</weblink>.</cite>  Table 1 lists switching and dephasing times for various systems.</entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Feynman, Richard&#32;(1982).&#32;"Simulating physics with computers". <it>International Journal of Theoretical Physics</it>&#32;<b>21</b>: 467. <document wordnetid="106470073" confidence="0.8">
@@ -1056,20 +1056,20 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF02650179">
-10.1007/BF02650179</weblink>.</cite>&nbsp;</entry>
+10.1007/BF02650179</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Jaeger, Gregg&#32;(2006). Quantum Information: An Overview.&#32;Berlin:&#32;Springer. ISBN 0-387-35725-4.</cite>&nbsp;<weblink xlink:type="simple" xlink:href="http://www.springer.com/west/home/physics?SGWID=4-10100-22-173664707-detailsPage=ppmmedia|toc">
+ <cite style="font-style:normal" class="book">Jaeger, Gregg&#32;(2006). Quantum Information: An Overview.&#32;Berlin:&#32;Springer. ISBN 0-387-35725-4.</cite> <weblink xlink:type="simple" xlink:href="http://www.springer.com/west/home/physics?SGWID=4-10100-22-173664707-detailsPage=ppmmedia|toc">
 http://www.springer.com/west/home/physics?SGWID=4-10100-22-173664707-detailsPage=ppmmedia|toc"</weblink></entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Nielsen, Michael and Isaac Chuang&#32;(2000). Quantum Computation and Quantum Information.&#32;Cambridge:&#32;Cambridge University Press. ISBN 0-521-63503-9.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Nielsen, Michael and Isaac Chuang&#32;(2000). Quantum Computation and Quantum Information.&#32;Cambridge:&#32;Cambridge University Press. ISBN 0-521-63503-9.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Singer, Stephanie Frank&#32;(2005). Linearity, Symmetry, and Prediction in the Hydrogen Atom.&#32;New York:&#32;Springer. ISBN 0-387-24637-1.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Singer, Stephanie Frank&#32;(2005). Linearity, Symmetry, and Prediction in the Hydrogen Atom.&#32;New York:&#32;Springer. ISBN 0-387-24637-1.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Benenti, Giuliano&#32;(2004). Principles of Quantum Computation and Information Volume 1.&#32;New Jersey:&#32;World Scientific. ISBN 9-812-38830-3.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Benenti, Giuliano&#32;(2004). Principles of Quantum Computation and Information Volume 1.&#32;New Jersey:&#32;World Scientific. ISBN 9-812-38830-3.</cite> </entry>
 <entry level="1" type="bullet">
 
  http://jquantum.sourceforge.net/jQuantumApplet.html Java quantum computer simulator.</entry>

@@ -217,7 +217,7 @@ Notes</st>
 
 <p>
 
-Influence diagrams are hierarchical and can be defined either in terms of their structure or in greater detail in terms of the functional and numerical relation between diagram elements.  An ID that is consistently defined at all levels&mdash;structure, function, and number&mdash;is a well-defined mathematical representation and is referred to as a <it>well-formed influence diagram</it> (WFID).  WFIDs can be evaluated using <link>
+Influence diagrams are hierarchical and can be defined either in terms of their structure or in greater detail in terms of the functional and numerical relation between diagram elements.  An ID that is consistently defined at all levels—structure, function, and number—is a well-defined mathematical representation and is referred to as a <it>well-formed influence diagram</it> (WFID).  WFIDs can be evaluated using <link>
 reversal</link> and <link>
 removal</link> operations to yield answers to a large class of probabilistic, inferential, and decision questions.  More recent techniques have been developed by <link xlink:type="simple" xlink:href="../164/1164.xml">
 artificial intelligence</link> community with their works around <link xlink:type="simple" xlink:href="../571/49571.xml">

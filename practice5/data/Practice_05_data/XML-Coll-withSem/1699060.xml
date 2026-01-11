@@ -28,7 +28,7 @@
 <bdy>
 
 The <b>DSW algorithm</b>, or in full <b>Day/Stout/Warren algorithm</b>, is a method for efficiently balancing <link xlink:type="simple" xlink:href="../320/4320.xml">
-binary search tree</link>s &mdash; that is, decreasing their height to <link xlink:type="simple" xlink:href="../578/44578.xml">
+binary search tree</link>s — that is, decreasing their height to <link xlink:type="simple" xlink:href="../578/44578.xml">
 O</link>(log <it>n</it>) nodes, where <it>n</it> is the total number of nodes. Unlike a <link xlink:type="simple" xlink:href="../310/378310.xml">
 self-balancing binary search tree</link>, it does not do this incrementally during each operation, but periodically, so that its cost can be <link xlink:type="simple" xlink:href="../683/236683.xml">
 amortized</link> over many operations. The algorithm was designed by Quentin Stout and Bette Warren in their <link xlink:type="simple" xlink:href="../761/34761.xml">

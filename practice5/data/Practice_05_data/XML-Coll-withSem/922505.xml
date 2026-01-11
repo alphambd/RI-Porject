@@ -194,13 +194,13 @@ confusion matrix</link></it>,  as follows:
 <table align="center">
 <row>
 <header colspan="2">
-&nbsp;</header>
+ </header>
 <header colspan="2" align="center">
 actual value</header>
 </row>
 <row>
 <header colspan="2">
-&nbsp;</header>
+ </header>
 <header>
 <it>p''</it></header>
 <header>
@@ -621,7 +621,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1177%2F0272989X8900900307">
 10.1177/0272989X8900900307</weblink>. Retrieved on <link>
-2008-09-29</link>.</cite>&nbsp;</entry>
+2008-09-29</link>.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Dodd, Lori E.; Margaret S. Pepe&#32;(2003).&#32;"<weblink xlink:type="simple" xlink:href="http://www.blackwell-synergy.com/doi/abs/10.1111/1541-0420.00071">
 Partial AUC Estimation and Regression</weblink>". <it>Biometrics</it>&#32;<b>59</b>&#32;(3): 614-623. <document wordnetid="106470073" confidence="0.8">
@@ -633,16 +633,16 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1111%2F1541-0420.00071">
 10.1111/1541-0420.00071</weblink>. Retrieved on <link>
-2007-12-18</link>.</cite>&nbsp;</entry>
+2007-12-18</link>.</cite> </entry>
 <entry id="6">
  <cite style="font-style:normal" class="book">D.M. Green and J.M. Swets&#32;(<link xlink:type="simple" xlink:href="../691/34691.xml">
-1966</link>). Signal detection theory and psychophysics.&#32;New York:&#32;John Wiley and Sons Inc.. ISBN 0-471-32420-5.</cite>&nbsp;</entry>
+1966</link>). Signal detection theory and psychophysics.&#32;New York:&#32;John Wiley and Sons Inc.. ISBN 0-471-32420-5.</cite> </entry>
 <entry id="7">
- <cite style="font-style:normal">M.H. Zweig and G. Campbell&#32;(1993).&#32;"Receiver-operating characteristic (ROC) plots: a fundamental evaluation tool in clinical medicine". <it>Clinical chemistry</it>&#32;<b>39</b>&#32;(8): 561&ndash;577. PMID 8472349.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">M.H. Zweig and G. Campbell&#32;(1993).&#32;"Receiver-operating characteristic (ROC) plots: a fundamental evaluation tool in clinical medicine". <it>Clinical chemistry</it>&#32;<b>39</b>&#32;(8): 561–577. PMID 8472349.</cite> </entry>
 <entry id="8">
- <cite style="font-style:normal" class="book">M.S. Pepe&#32;(2003). The statistical evaluation of medical tests for classification and prediction.&#32;New York:&#32;Oxford.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">M.S. Pepe&#32;(2003). The statistical evaluation of medical tests for classification and prediction.&#32;New York:&#32;Oxford.</cite> </entry>
 <entry id="9">
- <cite style="font-style:normal">N.A. Obuchowski&#32;(2003).&#32;"Receiver operating characteristic curves and their use in radiology". <it>Radiology</it>&#32;<b>229</b>&#32;(1): 3&ndash;8. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">N.A. Obuchowski&#32;(2003).&#32;"Receiver operating characteristic curves and their use in radiology". <it>Radiology</it>&#32;<b>229</b>&#32;(1): 3–8. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -650,9 +650,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1148%2Fradiol.2291010898">
-10.1148/radiol.2291010898</weblink>. PMID 14519861.</cite>&nbsp;</entry>
+10.1148/radiol.2291010898</weblink>. PMID 14519861.</cite> </entry>
 <entry id="10">
- <cite style="font-style:normal">Spackman, K. A.&#32;(1989). "Signal detection theory: Valuable tools for evaluating inductive learning".&#32;<it>Proceedings of the Sixth International Workshop on Machine Learning</it>: 160&ndash;163, San Mateo, CA:&#32;Morgan Kaufman.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Spackman, K. A.&#32;(1989). "Signal detection theory: Valuable tools for evaluating inductive learning".&#32;<it>Proceedings of the Sixth International Workshop on Machine Learning</it>: 160–163, San Mateo, CA:&#32;Morgan Kaufman.</cite> </entry>
 </reflist>
 </p>
 
@@ -687,7 +687,7 @@ General references</st>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">T. Fawcett&#32;(2004). "<weblink xlink:type="simple" xlink:href="http://home.comcast.net/~tom.fawcett/public_html/papers/ROC101.pdf">
-ROC Graphs: Notes and Practical Considerations for Researchers</weblink>".&#32;<it>Technical report</it>, Palo Alto, USA:&#32;HP Laboratories.</cite>&nbsp;</entry>
+ROC Graphs: Notes and Practical Considerations for Researchers</weblink>".&#32;<it>Technical report</it>, Palo Alto, USA:&#32;HP Laboratories.</cite> </entry>
 </list>
 </p>
 

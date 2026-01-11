@@ -743,7 +743,7 @@ It follows that automorphisms of <it>Q</it> are in bijective correspondence to u
 <p>
 
 In non-relativistic physical systems,  there is no ambiguity in referring to time evolution since there is a global time parameter. Moreover an isolated quantum system evolves in a <link xlink:type="simple" xlink:href="../922/47922.xml">
-deterministic</link>  way: if the system is in a state <it>S</it> at time <it>t</it> then at time <it>s</it>&nbsp;&amp;gt;&nbsp;<it>t</it>, the system is in  a state F<it>s</it>,<it>t</it>(<it>S</it>). Moreover, we assume </p>
+deterministic</link>  way: if the system is in a state <it>S</it> at time <it>t</it> then at time <it>s</it> &amp;gt; <it>t</it>, the system is in  a state F<it>s</it>,<it>t</it>(<it>S</it>). Moreover, we assume </p>
 <p>
 
 <list>
@@ -757,7 +757,7 @@ deterministic</link>  way: if the system is in a state <it>S</it> at time <it>t<
 <list>
 <entry level="1" type="bullet">
 
- The dependence is homogeneous: F<it>s</it>,<it>t</it> = F<it>s</it>&nbsp;&amp;minus;&nbsp;<it>t</it>,0.  </entry>
+ The dependence is homogeneous: F<it>s</it>,<it>t</it> = F<it>s</it> &amp;minus; <it>t</it>,0.  </entry>
 </list>
 </p>
 <p>

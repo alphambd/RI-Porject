@@ -275,7 +275,7 @@ grows quadratically</link> as its input size increases, insertion sort can be sa
 <p>
 
 Big O notation is a convenient way to express the <link xlink:type="simple" xlink:href="../956/37956.xml">
-worst-case scenario</link> for a given algorithm, although it can also be used to express the average-case &mdash; for example, the worst-case scenario for <link xlink:type="simple" xlink:href="../249/3268249.xml">
+worst-case scenario</link> for a given algorithm, although it can also be used to express the average-case — for example, the worst-case scenario for <link xlink:type="simple" xlink:href="../249/3268249.xml">
 quicksort</link> is O(n²) but the average-case run-time is O(n lg n).<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></p>
 
 </ss1>
@@ -534,7 +534,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapter 1: Foundations, pp.3&ndash;122.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapter 1: Foundations, pp.3–122.</entry>
 <entry level="1" type="bullet">
 
  Daniel H. Greene &amp; Donald E. Knuth, <it>Mathematics for the analysis of algorithms''</it></entry>

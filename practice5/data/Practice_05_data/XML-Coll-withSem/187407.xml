@@ -488,7 +488,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2F452259a">
-10.1038/452259a</weblink>.</cite>&nbsp;</entry>
+10.1038/452259a</weblink>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Burnett DS, Barraclough BL, Bennett R, Neugebauer M, Oldham LP, Sasaki CN, Sevilla D, Smith N, Stansbery E, Sweetnam D, Wiens RC&#32;(2003).&#32;"The Genesis Discovery mission: Return of solar matter to Earth". <it>Space Sci. Rev.</it>&#32;<b>105</b>: 509–534. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -498,7 +498,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1023%2FA%3A1024425810605">
-10.1023/A:1024425810605</weblink>.</cite>&nbsp;</entry>
+10.1023/A:1024425810605</weblink>.</cite> </entry>
 <entry id="3">
 "<weblink xlink:type="simple" xlink:href="http://www.spaceref.com/news/viewpr.html?pid=16014">
 NASA Sends First Genesis Early-Science Sample to Researchers</weblink>".&#32;  SpaceRef.com&#32;(<link xlink:type="simple" xlink:href="../866/15866.xml">
@@ -647,8 +647,8 @@ Orbiters</col>
 <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../851/376851.xml">
 Pioneer 5</link></spacecraft>
- &nbsp;·  <b><it><link xlink:type="simple" xlink:href="../854/376854.xml">
-Pioneer 6, 7, 8 and 9</link></it></b> &nbsp;·  <process wordnetid="105701363" confidence="0.8">
+  ·  <b><it><link xlink:type="simple" xlink:href="../854/376854.xml">
+Pioneer 6, 7, 8 and 9</link></it></b>  ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -665,7 +665,7 @@ Helios probes</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
- &nbsp;·  <process wordnetid="105701363" confidence="0.8">
+  ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -682,7 +682,7 @@ Ulysses</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
- &nbsp;·  <b><it><magnifier wordnetid="103709206" confidence="0.8">
+  ·  <b><it><magnifier wordnetid="103709206" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -697,9 +697,9 @@ Yohkoh</link></telescope>
 </instrumentality>
 </artifact>
 </magnifier>
-</it></b> &nbsp;·  <b><it><link xlink:type="simple" xlink:href="../610/2893610.xml">
-GGS WIND</link></it></b> &nbsp;·  <b><it><link xlink:type="simple" xlink:href="../362/350362.xml">
-SOHO</link></it></b> &nbsp;·  <b><it><process wordnetid="105701363" confidence="0.8">
+</it></b>  ·  <b><it><link xlink:type="simple" xlink:href="../610/2893610.xml">
+GGS WIND</link></it></b>  ·  <b><it><link xlink:type="simple" xlink:href="../362/350362.xml">
+SOHO</link></it></b>  ·  <b><it><process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -716,16 +716,16 @@ ACE</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-</it></b> &nbsp;·  <b><it><link xlink:type="simple" xlink:href="../865/1411865.xml">
-TRACE</link></it></b> &nbsp;·  <b><it><mission wordnetid="108403225" confidence="0.8">
+</it></b>  ·  <b><it><link xlink:type="simple" xlink:href="../865/1411865.xml">
+TRACE</link></it></b>  ·  <b><it><mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../663/1190663.xml">
 RHESSI</link></nongovernmental_organization>
 </mission>
-</it></b> &nbsp;·  <b><it><telescope wordnetid="104403638" confidence="0.9508927676800064">
+</it></b>  ·  <b><it><telescope wordnetid="104403638" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../199/6914199.xml">
 Hinode</link></telescope>
-</it></b> &nbsp;·  <b><it><link xlink:type="simple" xlink:href="../023/3394023.xml">
+</it></b>  ·  <b><it><link xlink:type="simple" xlink:href="../023/3394023.xml">
 STEREO</link></it></b></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="7">
 <image width="125px" src="Sun920607.jpg">
@@ -811,12 +811,12 @@ Solar Dynamics Observatory</link></higher_cognitive_process>
 </inquiry>
 </idea>
 </process>
-&nbsp;·  <mission wordnetid="108403225" confidence="0.8">
+ ·  <mission wordnetid="108403225" confidence="0.8">
 <nongovernmental_organization wordnetid="108009834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../109/16628109.xml">
 PICARD</link></nongovernmental_organization>
 </mission>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -833,8 +833,8 @@ Solar Orbiter</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../680/3729680.xml">
-Solar Probe</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../680/3729680.xml">
+Solar Probe</link> ·  <process wordnetid="105701363" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
@@ -909,10 +909,10 @@ Planned</col>
 <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../815/849815.xml">
 Kepler Mission</link></spacecraft>
-&nbsp;·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
+ ·  <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../208/3622208.xml">
 Moon Mineralogy Mapper</link></spacecraft>
-&nbsp;·  <link xlink:type="simple" xlink:href="../203/9274203.xml">
+ ·  <link xlink:type="simple" xlink:href="../203/9274203.xml">
 Gravity Recovery and Interior Laboratory</link></col>
 </row>
 <row style="height:2px">
@@ -923,8 +923,8 @@ Gravity Recovery and Interior Laboratory</link></col>
 Active</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../839/451839.xml">
-MESSENGER</link>&nbsp;·  <link>
-ASPERA-3</link>&nbsp;·  <change wordnetid="100191142" confidence="0.8">
+MESSENGER</link> ·  <link>
+ASPERA-3</link> ·  <change wordnetid="100191142" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
 <spaceflight wordnetid="100313502" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -969,7 +969,7 @@ Completed</col>
 <spacecraft wordnetid="104264914" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../537/37537.xml">
 NEAR Shoemaker</link></spacecraft>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -982,7 +982,7 @@ Mars Pathfinder</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -995,7 +995,7 @@ Lunar Prospector</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -1012,7 +1012,7 @@ Deep Impact</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <mission wordnetid="108403225" confidence="0.8">
@@ -1029,7 +1029,7 @@ Stardust</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <accident wordnetid="107301336" confidence="0.8">
+ ·  <accident wordnetid="107301336" confidence="0.8">
 <happening wordnetid="107283608" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
 <probe wordnetid="105800611" confidence="0.8">

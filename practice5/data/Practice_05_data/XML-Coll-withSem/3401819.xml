@@ -320,12 +320,12 @@ Corporate</link> <link xlink:type="simple" xlink:href="../822/4822.xml">
 Directors</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-James Barker</link>&nbsp;·  <link>
-Richard Carrión</link>&nbsp;·  <link>
-Robert Lane</link>&nbsp;· <link>
-Sandra Moose</link>&nbsp;·  <link>
-Joseph Neubauer</link>&nbsp;·  <link>
-Thomas O'Brien</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+James Barker</link> ·  <link>
+Richard Carrión</link> ·  <link>
+Robert Lane</link> · <link>
+Sandra Moose</link> ·  <link>
+Joseph Neubauer</link> ·  <link>
+Thomas O'Brien</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
 <alumnus wordnetid="109786338" confidence="0.8">
@@ -338,7 +338,7 @@ Hugh Price</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <executive wordnetid="110069645" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -361,9 +361,9 @@ Ivan Seidenberg</link></lover>
 </person>
 </executive>
 </physical_entity>
-&nbsp;·  <link>
-Walter Shipley</link>&nbsp;·  <link>
-John R. Stafford</link>&nbsp;·  <link>
+ ·  <link>
+Walter Shipley</link> ·  <link>
+John R. Stafford</link> ·  <link>
 Robert Storey</link></col>
 </row>
 <row style="height:2px">
@@ -377,8 +377,8 @@ Holding Companies</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../611/12611.xml">
 GTE</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../695/59695.xml">
-MCI</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../695/59695.xml">
+MCI</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/526458.xml">
 NYNEX</link></company>
 </col>
@@ -394,30 +394,30 @@ Bell Operating Companies</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../565/2728565.xml">
 Verizon Delaware</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/3401819.xml">
 Verizon Maryland</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../778/3335778.xml">
 Verizon New England</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../323/3379323.xml">
 Verizon New Jersey</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../412/2324412.xml">
 Verizon New York</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../448/2115448.xml">
 Verizon Pennsylvania</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/3401819.xml">
 Verizon Washington, D.C.</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/3401819.xml">
 Verizon West Virginia</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/3401819.xml">
 Verizon Virginia</link></company>
 </col>
@@ -431,22 +431,22 @@ Verizon Virginia</link></company>
 GTE operating companies</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../885/4110885.xml">
-Contel of the South</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+Contel of the South</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../242/4051242.xml">
 GTE Southwest</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/4086622.xml">
 Verizon California</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../660/4086660.xml">
 Verizon Florida</link></institution>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../506/4054506.xml">
-Verizon North</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../506/4054506.xml">
+Verizon North</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../135/4051135.xml">
 Verizon Northwest</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../387/4086387.xml">
+ ·  <link xlink:type="simple" xlink:href="../387/4086387.xml">
 Verizon South</link></col>
 </row>
 <row style="height:2px">
@@ -458,7 +458,7 @@ Verizon South</link></col>
 Long Distance</link>Services</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../539/9237539.xml">
-Bell Atlantic Communications</link>&nbsp;·  <link xlink:type="simple" xlink:href="../823/9237823.xml">
+Bell Atlantic Communications</link> ·  <link xlink:type="simple" xlink:href="../823/9237823.xml">
 NYNEX Long Distance</link></col>
 </row>
 <row style="height:2px">
@@ -495,7 +495,7 @@ Verizon Online DSL</link></supplier>
 </businessperson>
 </person>
 </physical_entity>
-&nbsp;· <physical_entity wordnetid="100001930" confidence="0.8">
+ · <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <businessperson wordnetid="109882716" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -562,7 +562,7 @@ Empire City Subway</link></company>
 USD</link></currency>
  (
 ▲ <link xlink:type="simple" xlink:href="../099/5752099.xml">
-FY</link> 2005)&nbsp;·  <b>Employees</b>: 216,704&nbsp;·  <b>Stock Symbol</b>: <site wordnetid="108651247" confidence="0.8">
+FY</link> 2005) ·  <b>Employees</b>: 216,704 ·  <b>Stock Symbol</b>: <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
@@ -587,8 +587,8 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lcddata.html?ticker=VZ">
-VZ</weblink>&nbsp;·  <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.verizon.com/">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lcddata.html?ticker=VZ">
+VZ</weblink> ·  <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.verizon.com/">
 verizon.com</weblink></col>
 </row>
 </table>
@@ -651,65 +651,65 @@ Companies</link>:</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../456/2215456.xml">
 Bell Telephone Company of Nevada</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../448/2115448.xml">
 The Bell Telephone Company of Pennsylvania</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/3401819.xml">
 The Chesapeake &amp; Potomac Telephone Company</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/3401819.xml">
 The Chesapeake &amp; Potomac Telephone Company of Maryland</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/3401819.xml">
 The Chesapeake &amp; Potomac Telephone Company of West Virginia</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/3401819.xml">
 The Chesapeake &amp; Potomac Telephone Company of Virginia</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../565/2728565.xml">
 Diamond State Telephone</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../373/3418373.xml">
 Illinois Bell</link></company>
-&nbsp;·   <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·   <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../141/3425141.xml">
 Indiana Bell</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/3390292.xml">
 Michigan Bell</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../777/4570777.xml">
 Mountain Bell</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../778/3335778.xml">
 New England Telephone &amp; Telegraph</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../323/3379323.xml">
 New Jersey Bell</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../412/2324412.xml">
 New York Telephone</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../423/2448423.xml">
 Northwestern Bell</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../953/3424953.xml">
 Ohio Bell</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../925/2570925.xml">
 Pacific Northwest Bell</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../576/536576.xml">
 Pacific Telephone</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../346/4446346.xml">
-South Central Bell</link>&nbsp;·  <link xlink:type="simple" xlink:href="../346/4446346.xml">
-Southern Bell</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../346/4446346.xml">
+South Central Bell</link> ·  <link xlink:type="simple" xlink:href="../346/4446346.xml">
+Southern Bell</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../891/340891.xml">
 Southwestern Bell</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../237/3425237.xml">
 Wisconsin Telephone</link></company>
 </col>
@@ -724,7 +724,7 @@ Franchisees:</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/335264.xml">
 Southern New England Telephone</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/862622.xml">
 Cincinnati Bell</link></company>
 </col>

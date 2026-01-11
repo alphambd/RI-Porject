@@ -49,7 +49,7 @@ Diving</link></psychological_feature>
 <col>
 3 m springboard</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -66,14 +66,14 @@ men</link></diving>
 </event>
 </col>
 <col>
-&nbsp;</col>
+ </col>
 
 </row>
 <row>
 <col>
 10 m platform</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -90,7 +90,7 @@ men</link></diving>
 </event>
 </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -111,7 +111,7 @@ women</link></diving>
 <col>
 Plain high diving</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -128,7 +128,7 @@ men</link></diving>
 </event>
 </col>
 <col>
-&nbsp;</col>
+ </col>
 
 </row>
 </table>
@@ -175,7 +175,7 @@ Medalists</st>
 <col style="width:12em">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -197,21 +197,21 @@ Erik Adlerz</link></medalist>
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 Sweden</link></political_unit>
 </state>
-&nbsp;(SWE)''</it></col>
+ (SWE)''</it></col>
 <col style="width:12em">
  <image width="22x20px" src="Flag_of_the_German_Empire.svg" type="border">
 </image>
-&nbsp;<link>
+ <link>
 Albert Zürner</link><it><state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../149/7522149.xml">
 Germany</link></political_unit>
 </state>
-&nbsp;(GER)''</it></col>
+ (GER)''</it></col>
 <col style="width:12em">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -233,7 +233,7 @@ Gustaf Blomgren</link></medalist>
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 Sweden</link></political_unit>
 </state>
-&nbsp;(SWE)''</it></col>
+ (SWE)''</it></col>
 </row>
 </table>
 </p>
@@ -284,7 +284,7 @@ Score</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -305,7 +305,7 @@ Hjalmar Johansson</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -322,8 +322,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_German_Empire.svg" type="border">
 </image>
-&nbsp;<link>
-Albert Zürner</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Albert Zürner</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../149/7522149.xml">
 GER</link></political_unit>
@@ -340,7 +340,7 @@ GER</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_German_Empire.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -357,7 +357,7 @@ Hans Luber</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../149/7522149.xml">
 GER</link></political_unit>
@@ -374,8 +374,8 @@ GER</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link>
-Gösta Sjöberg</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Gösta Sjöberg</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -392,7 +392,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -403,7 +403,7 @@ Ernst Brandsten</link></causal_agent>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -420,7 +420,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="US_flag_46_stars.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -437,7 +437,7 @@ George Gaidzik</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<country wordnetid="108544813" confidence="0.9508927676800064">
+ (<country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../612/7377612.xml">
 USA</link></country>
 )</col>
@@ -452,7 +452,7 @@ USA</link></country>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -469,7 +469,7 @@ John Jansson</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -486,7 +486,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_German_Empire.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -503,7 +503,7 @@ Kurt Behrens</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../149/7522149.xml">
 GER</link></political_unit>
@@ -520,8 +520,8 @@ GER</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Russia.svg" type="border">
 </image>
-&nbsp;<link>
-Leo Suni</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Leo Suni</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../441/7440441.xml">
 FIN</link></political_unit>
@@ -556,7 +556,7 @@ Score</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -573,7 +573,7 @@ Erik Adlerz</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -590,7 +590,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -607,7 +607,7 @@ Gustaf Blomgren</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -624,8 +624,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../764/19428764.xml">
-Harald Arbin</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../764/19428764.xml">
+Harald Arbin</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -642,7 +642,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -653,7 +653,7 @@ Ernst Eklund</link></causal_agent>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -670,8 +670,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Norway.svg" type="border">
 </image>
-&nbsp;<link>
-Sigvard Andersen</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Sigvard Andersen</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../793/7427793.xml">
 NOR</link></political_unit>
@@ -688,7 +688,7 @@ NOR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Russia.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -699,7 +699,7 @@ Oskar Wetzell</link></causal_agent>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../441/7440441.xml">
 FIN</link></political_unit>
@@ -716,8 +716,8 @@ FIN</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Russia.svg" type="border">
 </image>
-&nbsp;<link>
-Kalle Kainuvaara</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Kalle Kainuvaara</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../441/7440441.xml">
 FIN</link></political_unit>
@@ -734,8 +734,8 @@ FIN</link></political_unit>
 <col align="left">
  <image width="22x20px" src="US_flag_46_stars.svg" type="border">
 </image>
-&nbsp;<link>
-Arthur McAleenan</link>&nbsp;(<country wordnetid="108544813" confidence="0.9508927676800064">
+ <link>
+Arthur McAleenan</link> (<country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../612/7377612.xml">
 USA</link></country>
 )</col>
@@ -768,7 +768,7 @@ Score</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -779,7 +779,7 @@ Alvin Carlsson</link></causal_agent>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -796,8 +796,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<link>
-George Yvon</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+George Yvon</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../418/6084418.xml">
 GBR</link></political_unit>
@@ -814,8 +814,8 @@ GBR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Russia.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../771/19428771.xml">
-Toivo Aro</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../771/19428771.xml">
+Toivo Aro</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../441/7440441.xml">
 FIN</link></political_unit>
@@ -832,7 +832,7 @@ FIN</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -855,7 +855,7 @@ Robert Andersson</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -872,8 +872,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../890/19428890.xml">
-Jens Stefenson</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../890/19428890.xml">
+Jens Stefenson</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -890,8 +890,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Canada-1868-Red.svg" type="border">
 </image>
-&nbsp;<link>
-John P. Lyons</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+John P. Lyons</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../260/3999260.xml">
 CAN</link></political_unit>
@@ -932,7 +932,7 @@ Score</col>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -949,7 +949,7 @@ Erik Adlerz</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -966,8 +966,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_German_Empire.svg" type="border">
 </image>
-&nbsp;<link>
-Albert Zürner</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Albert Zürner</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../149/7522149.xml">
 GER</link></political_unit>
@@ -984,7 +984,7 @@ GER</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1001,7 +1001,7 @@ Gustaf Blomgren</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -1018,7 +1018,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1039,7 +1039,7 @@ Hjalmar Johansson</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -1056,8 +1056,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<link>
-George Yvon</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+George Yvon</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../418/6084418.xml">
 GBR</link></political_unit>
@@ -1074,8 +1074,8 @@ GBR</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../764/19428764.xml">
-Harald Arbin</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../764/19428764.xml">
+Harald Arbin</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -1092,7 +1092,7 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Sweden.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1103,7 +1103,7 @@ Alvin Carlsson</link></causal_agent>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/7373665.xml">
 SWE</link></political_unit>
@@ -1120,8 +1120,8 @@ SWE</link></political_unit>
 <col align="left">
  <image width="22x20px" src="Flag_of_Russia.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../771/19428771.xml">
-Toivo Aro</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../771/19428771.xml">
+Toivo Aro</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../441/7440441.xml">
 FIN</link></political_unit>
@@ -1187,7 +1187,7 @@ Olympic Diving Champions in Men's 10 metre Platform</link></header>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1204,7 +1204,7 @@ George Sheldon</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1218,7 +1218,7 @@ George Sheldon</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1239,7 +1239,7 @@ Hjalmar Johansson</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(SWE) •
+ (SWE) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1253,7 +1253,7 @@ Hjalmar Johansson</link></swimmer>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1270,7 +1270,7 @@ Erik Adlerz</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(SWE) •
+ (SWE) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1284,7 +1284,7 @@ Erik Adlerz</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -1311,7 +1311,7 @@ Clarence Pinkston</link></scholar>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1325,7 +1325,7 @@ Clarence Pinkston</link></scholar>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1346,7 +1346,7 @@ Albert White</link></swimmer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1360,7 +1360,7 @@ Albert White</link></swimmer>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1395,7 +1395,7 @@ Pete Desjardins</link></swimmer>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1412,7 +1412,7 @@ Harold Smith</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1426,7 +1426,7 @@ Harold Smith</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1443,7 +1443,7 @@ Marshall Wayne</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1470,7 +1470,7 @@ Marshall Wayne</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<skilled_worker wordnetid="110605985" confidence="0.8">
+: <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1505,7 +1505,7 @@ Samuel Lee</link></medalist>
 </diver>
 </physical_entity>
 </skilled_worker>
-&nbsp;(USA)  •
+ (USA)  •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1519,8 +1519,8 @@ Samuel Lee</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<link>
-Joaquín Capilla</link>&nbsp;(MEX) •
+: <link>
+Joaquín Capilla</link> (MEX) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1547,7 +1547,7 @@ Joaquín Capilla</link>&nbsp;(MEX) •
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1570,7 +1570,7 @@ Bob Webster</link></trainer>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1610,7 +1610,7 @@ Bob Webster</link></trainer>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1627,7 +1627,7 @@ Klaus Dibiasi</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(ITA) •
+ (ITA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1641,8 +1641,8 @@ Klaus Dibiasi</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<link xlink:type="simple" xlink:href="../724/13033724.xml">
-Falk Hoffmann</link>&nbsp;(GDR)&nbsp;•
+: <link xlink:type="simple" xlink:href="../724/13033724.xml">
+Falk Hoffmann</link> (GDR) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1669,10 +1669,10 @@ Falk Hoffmann</link>&nbsp;(GDR)&nbsp;•
 </contest>
 </social_event>
 </event>
-:&nbsp;<person wordnetid="100007846" confidence="0.9508927676800064">
+: <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../270/66270.xml">
 Greg Louganis</link></person>
-&nbsp;(USA) •
+ (USA) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1686,7 +1686,7 @@ Greg Louganis</link></person>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1703,7 +1703,7 @@ Sun Shuwei</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(CHN) •
+ (CHN) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1717,7 +1717,7 @@ Sun Shuwei</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1734,7 +1734,7 @@ Dmitri Sautin</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(RUS) •
+ (RUS) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1748,8 +1748,8 @@ Dmitri Sautin</link></medalist>
 </contest>
 </social_event>
 </event>
-:&nbsp;<link xlink:type="simple" xlink:href="../483/1134483.xml">
-Tian Liang</link>&nbsp;(CHN) •
+: <link xlink:type="simple" xlink:href="../483/1134483.xml">
+Tian Liang</link> (CHN) •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1763,7 +1763,7 @@ Tian Liang</link>&nbsp;(CHN) •
 </contest>
 </social_event>
 </event>
-:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1780,9 +1780,9 @@ Hu Jia</link></medalist>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(CHN) •
+ (CHN) •
 <link xlink:type="simple" xlink:href="../496/18662496.xml">
-2008</link>:&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+2008</link>: <physical_entity wordnetid="100001930" confidence="0.8">
 <diver wordnetid="110019552" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <explorer wordnetid="110072708" confidence="0.8">
@@ -1793,7 +1793,7 @@ Matthew Mitcham</link></causal_agent>
 </person>
 </diver>
 </physical_entity>
-&nbsp;(AUS)</p>
+ (AUS)</p>
 </col>
 </row>
 </table>

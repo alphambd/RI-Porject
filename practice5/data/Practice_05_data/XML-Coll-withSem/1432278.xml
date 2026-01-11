@@ -908,7 +908,7 @@ JR Central</link></institution>
 <col style="background:lightgreen;" rowspan="2">
 B</col>
 <col>
-&nbsp;</col>
+ </col>
 <col style="background:lightblue;" rowspan="2">
 B</col>
 
@@ -923,7 +923,7 @@ A</col>
  <link>
 Greater Nagoya</link></col>
 <col>
-&nbsp;</col>
+ </col>
 
 
 
@@ -1118,7 +1118,7 @@ A</col>
 <col rowspan="2">
  </col>
 <col>
-&nbsp;</col>
+ </col>
 
 
 <col colspan="2" style="background:lightgray;" rowspan="2">
@@ -1131,7 +1131,7 @@ A</col>
 Okayama</link></japan>
 </col>
 <col>
-&nbsp;</col>
+ </col>
 
 
 </row>
@@ -1164,7 +1164,7 @@ B</col>
 <col style="background:lightcyan;" rowspan="2">
 B</col>
 <col>
-&nbsp;</col>
+ </col>
 
 
 </row>
@@ -1175,7 +1175,7 @@ B</col>
 Hiroshima</link></japan>
 </col>
 <col>
-&nbsp;</col>
+ </col>
 
 
 

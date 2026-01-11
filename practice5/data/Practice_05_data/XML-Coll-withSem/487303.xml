@@ -165,7 +165,7 @@ Safari</link></software>
 , and <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../620/18996620.xml">
 Opera</link></software>
- implemented systems whereby the user could select a false User-Agent string to send, such as that of a recent version of Explorer.  Some &ndash; e.g. Firefox and Safari &ndash; duplicate the User-Agent string they are trying to spoof exactly; others &ndash; e.g. Opera &ndash; duplicate the User-Agent string but add the genuine browser name to the end. This latter approach, of course, leads to a string containing three names and versions: first, the user agent claims to be "Mozilla" (i.e. Netscape Navigator); then, "MSIE" (Internet Explorer); and finally, the actual browser, such as "Opera". Opera also offers a full masking as Internet Explorer or Firefox, which hides "Opera" completely.</p>
+ implemented systems whereby the user could select a false User-Agent string to send, such as that of a recent version of Explorer.  Some – e.g. Firefox and Safari – duplicate the User-Agent string they are trying to spoof exactly; others – e.g. Opera – duplicate the User-Agent string but add the genuine browser name to the end. This latter approach, of course, leads to a string containing three names and versions: first, the user agent claims to be "Mozilla" (i.e. Netscape Navigator); then, "MSIE" (Internet Explorer); and finally, the actual browser, such as "Opera". Opera also offers a full masking as Internet Explorer or Firefox, which hides "Opera" completely.</p>
 <p>
 
 Beside browsers, other programs using the HTTP protocol, like most <link xlink:type="simple" xlink:href="../532/337532.xml">

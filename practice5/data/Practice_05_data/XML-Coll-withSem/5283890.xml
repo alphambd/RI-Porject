@@ -173,7 +173,7 @@ References</st>
  J. B. Martens, "Recursive cyclotomic factorization—a new algorithm for calculating the discrete Fourier transform," <it>IEEE Trans. Acoust., Speech, Signal Processing</it> <b>32</b> (4), 750–761 (1984).</entry>
 <entry level="1" type="bullet">
 
- P. Duhamel and M. Vetterli, "Fast Fourier transforms: a tutorial review and a state of the art," <it>Signal Processing</it> <b>19</b>, 259&ndash;299 (1990).</entry>
+ P. Duhamel and M. Vetterli, "Fast Fourier transforms: a tutorial review and a state of the art," <it>Signal Processing</it> <b>19</b>, 259–299 (1990).</entry>
 <entry level="1" type="bullet">
 
  S. G. Johnson and M. Frigo, "<weblink xlink:type="simple" xlink:href="http://www.fftw.org/newsplit.pdf">

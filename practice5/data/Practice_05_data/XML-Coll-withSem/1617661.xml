@@ -37,13 +37,13 @@ arithmetic shift</link> on <it>P</it>.  Let <b>x</b> and <b>y</b> be the multipl
 <list>
 <entry level="1" type="number">
 
- Determine the values of <it>A</it> and <it>S</it>, and the initial value of <it>P</it>.  All of these numbers should have a length equal to (<it>x</it>&nbsp;+&nbsp;<it>y</it>&nbsp;+&nbsp;1).</entry>
+ Determine the values of <it>A</it> and <it>S</it>, and the initial value of <it>P</it>.  All of these numbers should have a length equal to (<it>x</it> + <it>y</it> + 1).</entry>
 <entry level="2" type="number">
 
- A: Fill the most significant (leftmost) bits with the value of <b>x</b>.  Fill the remaining (<it>y</it>&nbsp;+&nbsp;1) bits with zeros.</entry>
+ A: Fill the most significant (leftmost) bits with the value of <b>x</b>.  Fill the remaining (<it>y</it> + 1) bits with zeros.</entry>
 <entry level="2" type="number">
 
- S: Fill the most significant bits with the value of (&amp;minus;<b>x</b>) in two's complement notation.  Fill the remaining (<it>y</it>&nbsp;+&nbsp;1) bits with zeros.</entry>
+ S: Fill the most significant bits with the value of (&amp;minus;<b>x</b>) in two's complement notation.  Fill the remaining (<it>y</it> + 1) bits with zeros.</entry>
 <entry level="2" type="number">
 
  P: Fill the most significant <it>x</it> bits with zeros.  To the right of this, append the value of <b>y</b>.  Fill the least significant (rightmost) bit with a zero.</entry>
@@ -52,16 +52,16 @@ arithmetic shift</link> on <it>P</it>.  Let <b>x</b> and <b>y</b> be the multipl
  Determine the two least significant (rightmost) bits of <it>P</it>.</entry>
 <entry level="2" type="number">
 
- If they are 01, find the value of <it>P</it>&nbsp;+&nbsp;<it>A</it>.  Ignore any overflow.</entry>
+ If they are 01, find the value of <it>P</it> + <it>A</it>.  Ignore any overflow.</entry>
 <entry level="2" type="number">
 
- If they are 10, find the value of <it>P</it>&nbsp;+&nbsp;<it>S</it>.  Ignore any overflow.</entry>
+ If they are 10, find the value of <it>P</it> + <it>S</it>.  Ignore any overflow.</entry>
 <entry level="2" type="number">
 
  If they are 00 or 11, do nothing.  Use <it>P</it> directly in the next step.</entry>
 <entry level="1" type="number">
 
- Calculate the bit which gets shifted-in using the formula Sin&nbsp;=&nbsp;msb(<it>Q</it>)&nbsp;^&nbsp;msb(<it>P</it>)&nbsp;^&nbsp;carry_out_of(<it>P</it>&nbsp;+&nbsp;<it>Q</it>), where <it>Q</it> represents <it>A</it>, <it>S</it>, or zero depending on what was added to <it>P</it>.</entry>
+ Calculate the bit which gets shifted-in using the formula Sin = msb(<it>Q</it>) ^ msb(<it>P</it>) ^ carry_out_of(<it>P</it> + <it>Q</it>), where <it>Q</it> represents <it>A</it>, <it>S</it>, or zero depending on what was added to <it>P</it>.</entry>
 <entry level="1" type="number">
 
  <link xlink:type="simple" xlink:href="../725/40725.xml">
@@ -226,7 +226,7 @@ In fact, it can be shown that any sequence of 1's in a binary number can be brok
  <math> (\ldots 0 \overbrace{1 \ldots 1}^{n} 0 \ldots)_{2} \equiv (\ldots 1 \overbrace{0 \ldots 0}^{n} 0 \ldots)_{2} - (\ldots 0 \overbrace{0 \ldots 1}^{n} 0 \ldots)_2. </math>
 </indent>
 
-Hence, we can actually replace the multiplication by the string of ones in the original number by simpler operations, adding the multiplier, shifting the partial product thus formed by appropriate places, and then finally subtracting the multiplier. It is making use of the fact that we do not have to do anything but shift while we are dealing with 0s in a binary multiplier, and is similar to using the mathematical property that 99&nbsp;=&nbsp;100&nbsp;&amp;minus;&nbsp;1 while multiplying by 99.</p>
+Hence, we can actually replace the multiplication by the string of ones in the original number by simpler operations, adding the multiplier, shifting the partial product thus formed by appropriate places, and then finally subtracting the multiplier. It is making use of the fact that we do not have to do anything but shift while we are dealing with 0s in a binary multiplier, and is similar to using the mathematical property that 99 = 100 &amp;minus; 1 while multiplying by 99.</p>
 <p>
 
 This scheme can be extended to any number of blocks of 1s in a multiplier (including the case of single 1 in a block). Thus,</p>

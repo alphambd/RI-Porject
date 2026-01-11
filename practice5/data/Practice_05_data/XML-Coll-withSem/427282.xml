@@ -83,7 +83,7 @@ if and only if</link> <it>X</it> and <it>Y</it> are independent random variables
  </math>
 </indent>
 
-Moreover, mutual information is nonnegative (i.e. <it>I</it>(<it>X</it>;<it>Y</it>)&nbsp;≥&nbsp;0; see below) and <link>
+Moreover, mutual information is nonnegative (i.e. <it>I</it>(<it>X</it>;<it>Y</it>) ≥ 0; see below) and <link>
 symmetric</link> (i.e. <it>I</it>(<it>X</it>;<it>Y</it>) = <it>I</it>(<it>Y</it>;<it>X</it>)).</p>
 
 </sec>
@@ -500,7 +500,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FTIT.2005.844059">
-10.1109/TIT.2005.844059</weblink>.</cite>&nbsp;</entry>
+10.1109/TIT.2005.844059</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -541,7 +541,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Li, Ming;&#32;Paul Vit&amp;aacute;nyi&#32;(1997). An introduction to Kolmogorov complexity and its applications.&#32;New York:&#32;<link xlink:type="simple" xlink:href="../949/1418949.xml">
-Springer-Verlag</link>. ISBN 0387948686.</cite>&nbsp;</entry>
+Springer-Verlag</link>. ISBN 0387948686.</cite> </entry>
 </list>
 </p>
 <p>
@@ -613,7 +613,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1162%2F153244303321897735">
-10.1162/153244303321897735</weblink>.</cite>&nbsp;</entry>
+10.1162/153244303321897735</weblink>.</cite> </entry>
 </list>
 </p>
 <p>

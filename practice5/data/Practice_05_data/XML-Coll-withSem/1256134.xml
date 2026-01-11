@@ -167,7 +167,7 @@ Models based on and extending the vector space model include:
 <entry level="1" type="bullet">
 
  (enhanced) Topic-based Vector Space Model <weblink xlink:type="simple" xlink:href="http://kuropka.net/files/HPI_Evaluation_of_eTVSM.pdf">
-http://kuropka.net/files/HPI_Evaluation_of_eTVSM.pdf</weblink> (eTVSM) &mdash; Extends the vector space model by removing the constraint that the term-vectors be <link xlink:type="simple" xlink:href="../221/102221.xml">
+http://kuropka.net/files/HPI_Evaluation_of_eTVSM.pdf</weblink> (eTVSM) — Extends the vector space model by removing the constraint that the term-vectors be <link xlink:type="simple" xlink:href="../221/102221.xml">
 orthogonal</link>. In contrast to the generalized vector space model the (enhanced) Topic-based Vector Space Model does not depend on concurrence-based similarities between terms. The enhancement of the enhanced Topic-based Vector Space Model (compared to the not enhanced one) is a proposal on how to derive term-vectors from an Ontology.</entry>
 <entry level="1" type="bullet">
 

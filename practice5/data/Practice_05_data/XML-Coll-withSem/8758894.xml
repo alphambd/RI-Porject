@@ -891,10 +891,10 @@ Alberta</link></district>
 Subdivisions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../130/519130.xml#xpointer(//*[./st=%22Alberta%22])">
-Regions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../418/471418.xml">
-Census&nbsp;divisions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../593/5941593.xml">
-Counties and municipal districts</link>&nbsp;·  <link xlink:type="simple" xlink:href="../371/2137371.xml">
-School districts</link>&nbsp;·  <link>
+Regions</link> ·  <link xlink:type="simple" xlink:href="../418/471418.xml">
+Census divisions</link> ·  <link xlink:type="simple" xlink:href="../593/5941593.xml">
+Counties and municipal districts</link> ·  <link xlink:type="simple" xlink:href="../371/2137371.xml">
+School districts</link> ·  <link>
 Regional Health Authorities</link></col>
 </row>
 <row style="height:2px">
@@ -906,7 +906,7 @@ Regional Health Authorities</link></col>
 Communities</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link>
-Cities</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+Cities</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -923,7 +923,7 @@ Towns</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -934,7 +934,7 @@ Villages</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <subdivision wordnetid="108674251" confidence="0.8">
+ ·  <subdivision wordnetid="108674251" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -945,7 +945,7 @@ Summer village</link></geographical_area>
 </location>
 </region>
 </subdivision>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <hamlet wordnetid="108226978" confidence="0.8">
@@ -956,9 +956,9 @@ Hamlets</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <link xlink:type="simple" xlink:href="../342/6086342.xml">
-Indian reserves</link>&nbsp;·  <link>
-Métis Settlements</link>&nbsp;·  <link xlink:type="simple" xlink:href="../207/13008207.xml">
+ ·  <link xlink:type="simple" xlink:href="../342/6086342.xml">
+Indian reserves</link> ·  <link>
+Métis Settlements</link> ·  <link xlink:type="simple" xlink:href="../207/13008207.xml">
 Ghost towns</link></col>
 </row>
 <row style="height:2px">
@@ -972,22 +972,22 @@ Cities</link>and <it>Special Centres''</it></col>
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../267/1054267.xml">
 Airdrie</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../410/1062410.xml">
 Brooks</link></village>
-&nbsp;·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../358/15895358.xml">
 Calgary</link></village>
-</b>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+</b> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../485/223485.xml">
 Camrose</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../381/1291381.xml">
-Cold&nbsp;Lake</link></village>
-&nbsp;·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
+Cold Lake</link></village>
+ ·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/95405.xml">
 Edmonton</link></village>
-</b>&nbsp;·  <it><social_group wordnetid="107950920" confidence="0.8">
+</b> ·  <it><social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <hamlet wordnetid="108226978" confidence="0.8">
@@ -998,41 +998,41 @@ Fort McMurray</link></group>
 </community>
 </gathering>
 </social_group>
-</it>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+</it> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../459/609459.xml">
 Fort Saskatchewan</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../344/329344.xml">
-Grande&nbsp;Prairie</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+Grande Prairie</link></village>
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../674/417674.xml">
 Jasper</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../164/339164.xml">
 Leduc</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../349/293349.xml">
 Lethbridge</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../593/386593.xml">
 Lloydminster</link></village>
- (part)&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ (part) ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../729/242729.xml">
-Medicine&nbsp;Hat</link></village>
-&nbsp;·   <village wordnetid="108672738" confidence="0.9508927676800064">
+Medicine Hat</link></village>
+ ·   <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../830/142830.xml">
-Red&nbsp;Deer</link></village>
-&nbsp;·  <it><village wordnetid="108672738" confidence="0.9508927676800064">
+Red Deer</link></village>
+ ·  <it><village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../538/328538.xml">
 Sherwood Park</link></village>
-</it>&nbsp;·  
+</it> ·  
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../543/329543.xml">
-Spruce&nbsp;Grove</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+Spruce Grove</link></village>
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../010/329010.xml">
-St.&nbsp;Albert</link></village>
-&nbsp;·  <link xlink:type="simple" xlink:href="../142/597142.xml">
+St. Albert</link></village>
+ ·  <link xlink:type="simple" xlink:href="../142/597142.xml">
 Wetaskiwin</link></col>
 </row>
 <row style="height:2px">
@@ -1050,7 +1050,7 @@ Regions</link></col>
 Calgary Region</link></location>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <geographical_area wordnetid="108574314" confidence="0.8">
@@ -1059,7 +1059,7 @@ Edmonton Capital Region</link></geographical_area>
 </location>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <geographical_area wordnetid="108574314" confidence="0.8">
@@ -1068,28 +1068,28 @@ Calgary-Edmonton Corridor</link></geographical_area>
 </location>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <geographical_area wordnetid="108574314" confidence="0.8">
 <link xlink:type="simple" xlink:href="../272/8755272.xml">
 Central Alberta</link></geographical_area>
 </location>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <geographical_area wordnetid="108574314" confidence="0.8">
 <link xlink:type="simple" xlink:href="../894/8758894.xml">
 Northern Alberta</link></geographical_area>
 </location>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <geographical_area wordnetid="108574314" confidence="0.8">
 <link xlink:type="simple" xlink:href="../366/8566366.xml">
 Southern Alberta</link></geographical_area>
 </location>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <geographical_area wordnetid="108574314" confidence="0.8">
 <link xlink:type="simple" xlink:href="../460/8758460.xml">

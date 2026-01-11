@@ -1163,7 +1163,7 @@ MCP</link>, (<link xlink:type="simple" xlink:href="../244/966244.xml">
 Master Control Program</link>) operating system. The <link xlink:type="simple" xlink:href="../693/332693.xml">
 B5000</link> was a <link xlink:type="simple" xlink:href="../078/510078.xml">
 stack machine</link> designed to exclusively support high-level languages with no machine language or assembler, and indeed the <link xlink:type="simple" xlink:href="../244/966244.xml">
-MCP</link> was the first OS to be written exclusively in a high-level language &ndash; <physical_entity wordnetid="100001930" confidence="0.8">
+MCP</link> was the first OS to be written exclusively in a high-level language – <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <speech wordnetid="107109196" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1825,7 +1825,7 @@ Operating system development</link></database>
 Linux</link></O>
 , have derived from hobby operating system projects. The design and implementation of an operating system requires skill and determination, and the term can cover anything from a basic <link xlink:type="simple" xlink:href="../834/13834.xml">
 "Hello World"</link> boot loader to a fully featured kernel. One classical example of this is the <link xlink:type="simple" xlink:href="../977/18977.xml">
-Minix</link> Operating System&mdash;an OS that was designed by <link xlink:type="simple" xlink:href="../110/3110.xml">
+Minix</link> Operating System—an OS that was designed by <link xlink:type="simple" xlink:href="../110/3110.xml">
 A.S. Tanenbaum</link> as a teaching tool but was heavily used by hobbyists before <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
@@ -2049,18 +2049,18 @@ inf3-www.informatik.unibw-muenchen.de/research/linux/milan/paper_milan.pdf</entr
  Auslander, Marc A.;&#32;Larkin, David C.; Scherr, Allan L..&#32;"<it>The evolution of the MVS Operating System</it>". &#32;IBM J. Research &amp; Development. http://www.research.ibm.com/journal/rd/255/auslander.pdf </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Deitel, Harvey M.;&#32;Deitel, Paul; Choffnes, David. Operating Systems.&#32;Pearson/Prentice Hall. ISBN 978-0-13-092641-8.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Deitel, Harvey M.;&#32;Deitel, Paul; Choffnes, David. Operating Systems.&#32;Pearson/Prentice Hall. ISBN 978-0-13-092641-8.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Bic-2003" style="font-style:normal" class="book">Bic, Lubomur F.;&#32;Shaw, Alan C.&#32;(2003). Operating Systems..&#32;Pearson:&#32;<link xlink:type="simple" xlink:href="../050/5421050.xml">
-Prentice Hall</link>.</cite>&nbsp;</entry>
+Prentice Hall</link>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Stallings-2005" style="font-style:normal" class="book">Stallings&#32;(2005). Operating Systems, Internals and Design Principles.&#32;Pearson:&#32;<link xlink:type="simple" xlink:href="../050/5421050.xml">
-Prentice Hall</link>.</cite>&nbsp;</entry>
+Prentice Hall</link>.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite id="Reference-Silberschatz-2008" style="font-style:normal" class="book">Silberschatz, Avi;&#32;Galvin, Peter; Gagne, Greg&#32;(2008). Operating Systems Concepts.&#32;John Wiley &amp; Sons. ISBN 0-470-12872-0.</cite>&nbsp;</entry>
+  <cite id="Reference-Silberschatz-2008" style="font-style:normal" class="book">Silberschatz, Avi;&#32;Galvin, Peter; Gagne, Greg&#32;(2008). Operating Systems Concepts.&#32;John Wiley &amp; Sons. ISBN 0-470-12872-0.</cite> </entry>
 </list>
 </p>
 
@@ -2152,7 +2152,7 @@ Operating system</link></header>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../395/55395.xml">
-History</link>&nbsp;·  <record wordnetid="106647206" confidence="0.8">
+History</link> ·  <record wordnetid="106647206" confidence="0.8">
 <chronology wordnetid="106503224" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
@@ -2165,7 +2165,7 @@ Timeline</link></written_record>
 </indication>
 </chronology>
 </record>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -2178,7 +2178,7 @@ Developement</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../531/981531.xml">
+ ·  <link xlink:type="simple" xlink:href="../531/981531.xml">
 List</link></col>
 </row>
 <row style="height:2px">
@@ -2195,7 +2195,7 @@ Kernel</link></col>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../023/20023.xml">
-Microkernel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../023/20023.xml#xpointer(//*[./st=%22Nanokernel%22])">
+Microkernel</link> ·  <link xlink:type="simple" xlink:href="../023/20023.xml#xpointer(//*[./st=%22Nanokernel%22])">
 Nanokernel</link></col>
 </row>
 <row style="height:2px">
@@ -2206,14 +2206,14 @@ Nanokernel</link></col>
 Types</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../825/20825.xml">
-monolithic</link>&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+monolithic</link> ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../041/4345041.xml">
 hybrid</link></kernel>
 </natural_object>
 </plant_part>
-&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+ ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../757/95757.xml">
@@ -2230,10 +2230,10 @@ exokernel</link></kernel>
 Components</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../467/93467.xml">
-Kernel space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../658/371658.xml">
-Loadable kernel module</link>&nbsp;·  <link xlink:type="simple" xlink:href="../101/9101.xml">
-device driver</link>&nbsp;·  <link xlink:type="simple" xlink:href="../467/93467.xml">
-User space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../109/555109.xml">
+Kernel space</link> ·  <link xlink:type="simple" xlink:href="../658/371658.xml">
+Loadable kernel module</link> ·  <link xlink:type="simple" xlink:href="../101/9101.xml">
+device driver</link> ·  <link xlink:type="simple" xlink:href="../467/93467.xml">
+User space</link> ·  <link xlink:type="simple" xlink:href="../109/555109.xml">
 Userland</link></col>
 </row>
 </table>
@@ -2248,17 +2248,17 @@ Userland</link></col>
 Process management</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../178/45178.xml">
-Process</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Multiprogramming</link>&nbsp;·  <link xlink:type="simple" xlink:href="../289/15289.xml">
-Interrupt</link>&nbsp;·  Modes: (<link xlink:type="simple" xlink:href="../596/167596.xml">
-Protected mode</link>&nbsp;·  <link>
-Supervisor mode</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Computer multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../920/231920.xml">
-Scheduling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../904/6904.xml">
-Context switch</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Cooperative multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../566/2204566.xml">
-Preemptive multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../954/3991954.xml">
-CPU modes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../303/45303.xml">
+Process</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Multiprogramming</link> ·  <link xlink:type="simple" xlink:href="../289/15289.xml">
+Interrupt</link> ·  Modes: (<link xlink:type="simple" xlink:href="../596/167596.xml">
+Protected mode</link> ·  <link>
+Supervisor mode</link>) ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Computer multitasking</link> ·  <link xlink:type="simple" xlink:href="../920/231920.xml">
+Scheduling</link> ·  <link xlink:type="simple" xlink:href="../904/6904.xml">
+Context switch</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Cooperative multitasking</link> ·  <link xlink:type="simple" xlink:href="../566/2204566.xml">
+Preemptive multitasking</link> ·  <link xlink:type="simple" xlink:href="../954/3991954.xml">
+CPU modes</link> ·  <link xlink:type="simple" xlink:href="../303/45303.xml">
 Thread (computer science)</link></col>
 </row>
 <row style="height:2px">
@@ -2269,11 +2269,11 @@ Thread (computer science)</link></col>
 Memory management</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../373/515373.xml">
-Memory protection</link>&nbsp;·  <link xlink:type="simple" xlink:href="../131/1323131.xml">
-Segmentation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../193/311193.xml">
-Paging</link>&nbsp;·  <link xlink:type="simple" xlink:href="../112/177112.xml">
-Memory management unit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../803/28803.xml">
-Segmentation fault</link>&nbsp;·  <link xlink:type="simple" xlink:href="../943/573943.xml">
+Memory protection</link> ·  <link xlink:type="simple" xlink:href="../131/1323131.xml">
+Segmentation</link> ·  <link xlink:type="simple" xlink:href="../193/311193.xml">
+Paging</link> ·  <link xlink:type="simple" xlink:href="../112/177112.xml">
+Memory management unit</link> ·  <link xlink:type="simple" xlink:href="../803/28803.xml">
+Segmentation fault</link> ·  <link xlink:type="simple" xlink:href="../943/573943.xml">
 General protection fault</link></col>
 </row>
 <row style="height:2px">
@@ -2286,24 +2286,24 @@ Examples</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/18933304.xml">
 AmigaOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../801/4801.xml">
-BeOS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../801/4801.xml">
+BeOS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/22409.xml">
 IBM OS/2</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
 MS-DOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../890/18890.xml">
-Windows</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../890/18890.xml">
+Windows</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../642/31642.xml">
-UNIX</link>&nbsp;·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
-OpenSolaris</link>&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·   <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../642/31642.xml">
+UNIX</link> ·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
+OpenSolaris</link> ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·   <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/360889.xml">
 ReactOS</link></O>
-&nbsp;·  <it><link xlink:type="simple" xlink:href="../916/71916.xml">
+ ·  <it><link xlink:type="simple" xlink:href="../916/71916.xml">
 more…</link>''</it></col>
 </row>
 <row style="height:2px">
@@ -2314,23 +2314,23 @@ more…</link>''</it></col>
 Miscellaneous concepts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../679/6885679.xml">
-Boot loader</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+Boot loader</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../253/432253.xml">
 PXE</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
-API</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
+API</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../131/351131.xml">
 Virtual file system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../071/2550071.xml">
-Virtual tape library</link>&nbsp;·  <link xlink:type="simple" xlink:href="../592/4122592.xml">
-Computer network</link>&nbsp;·  <link xlink:type="simple" xlink:href="../293/12293.xml">
-GUI</link>&nbsp;·  <link xlink:type="simple" xlink:href="../511/425511.xml">
+ ·  <link xlink:type="simple" xlink:href="../071/2550071.xml">
+Virtual tape library</link> ·  <link xlink:type="simple" xlink:href="../592/4122592.xml">
+Computer network</link> ·  <link xlink:type="simple" xlink:href="../293/12293.xml">
+GUI</link> ·  <link xlink:type="simple" xlink:href="../511/425511.xml">
 HAL</link></col>
 </row>
 </table>
@@ -2360,11 +2360,11 @@ systems science</link></header>
 Systems|Systems categories</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 
-Conceptual systems|Conceptual systems&nbsp;·  
-Physical systems|Physical systems&nbsp;·  
-Social systems|Social systems&nbsp;·  
-Systems theory|Systems theory&nbsp;·  
-Systems science|Systems science&nbsp;·  
+Conceptual systems|Conceptual systems ·  
+Physical systems|Physical systems ·  
+Social systems|Social systems ·  
+Systems theory|Systems theory ·  
+Systems science|Systems science ·  
 Systems scientists|Systems scientists</col>
 </row>
 <row style="height:2px">
@@ -2376,10 +2376,10 @@ Systems scientists|Systems scientists</col>
 System</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../599/5780599.xml">
-Biological system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../438/37438.xml">
-Complex system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../810/1428810.xml">
-Complex adaptive system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/773298.xml">
-Conceptual system</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Biological system</link> ·  <link xlink:type="simple" xlink:href="../438/37438.xml">
+Complex system</link> ·  <link xlink:type="simple" xlink:href="../810/1428810.xml">
+Complex adaptive system</link> ·  <link xlink:type="simple" xlink:href="../298/773298.xml">
+Conceptual system</link> ·  <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <survey wordnetid="100644503" confidence="0.8">
@@ -2396,56 +2396,56 @@ Cultural system</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../513/8513.xml">
-Database management system</link>&nbsp;· <link xlink:type="simple" xlink:href="../087/9087.xml">
-Dynamical system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../262/692262.xml">
-Economic system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../632/9632.xml">
-Ecosystem</link>&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../513/8513.xml">
+Database management system</link> · <link xlink:type="simple" xlink:href="../087/9087.xml">
+Dynamical system</link> ·  <link xlink:type="simple" xlink:href="../262/692262.xml">
+Economic system</link> ·  <link xlink:type="simple" xlink:href="../632/9632.xml">
+Ecosystem</link> ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../102/396102.xml">
 Formal system</link></language>
 </method>
 </know-how>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../866/11866.xml">
 Global Positioning System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../268/13268.xml">
-Human anatomy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../495/237495.xml">
-Information system</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../708/154708.xml">
-Legal systems of the world</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../268/13268.xml">
+Human anatomy</link> ·  <link xlink:type="simple" xlink:href="../495/237495.xml">
+Information system</link>s ·  <link xlink:type="simple" xlink:href="../708/154708.xml">
+Legal systems of the world</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../664/16554664.xml">
 Living systems</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <unit_of_measurement wordnetid="113583724" confidence="0.8">
+ ·  <unit_of_measurement wordnetid="113583724" confidence="0.8">
 <definite_quantity wordnetid="113576101" confidence="0.8">
 <link xlink:type="simple" xlink:href="../988/1241988.xml">
 Systems of measurement</link></definite_quantity>
 </unit_of_measurement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../142/44142.xml">
-Metric system</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../142/44142.xml">
+Metric system</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../833/938833.xml">
 Multi-agent system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·   <link xlink:type="simple" xlink:href="../944/21944.xml">
-Nervous system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../103/146103.xml">
-Nonlinearity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../194/22194.xml">
-Operating system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../322/773322.xml">
-Physical system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../724/258724.xml">
-Political system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../234/379234.xml">
-Sensory system</link>&nbsp;·  <link xlink:type="simple" xlink:href="../444/634444.xml">
-Social structure</link>&nbsp;·  <link xlink:type="simple" xlink:href="../903/26903.xml">
-Solar System</link>&nbsp;·  <link xlink:type="simple" xlink:href="../135/16280135.xml">
+ ·   <link xlink:type="simple" xlink:href="../944/21944.xml">
+Nervous system</link> ·  <link xlink:type="simple" xlink:href="../103/146103.xml">
+Nonlinearity</link> ·  <link xlink:type="simple" xlink:href="../194/22194.xml">
+Operating system</link> ·  <link xlink:type="simple" xlink:href="../322/773322.xml">
+Physical system</link> ·  <link xlink:type="simple" xlink:href="../724/258724.xml">
+Political system</link> ·  <link xlink:type="simple" xlink:href="../234/379234.xml">
+Sensory system</link> ·  <link xlink:type="simple" xlink:href="../444/634444.xml">
+Social structure</link> ·  <link xlink:type="simple" xlink:href="../903/26903.xml">
+Solar System</link> ·  <link xlink:type="simple" xlink:href="../135/16280135.xml">
 Systems art</link></col>
 </row>
 <row style="height:2px">
@@ -2460,10 +2460,10 @@ Theoretical fields</col>
 <link xlink:type="simple" xlink:href="../295/6295.xml">
 Chaos theory</link></concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../903/62903.xml">
-Complex systems</link>&nbsp;·  <link xlink:type="simple" xlink:href="../039/7039.xml">
-Control theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../904/5904.xml">
-Cybernetics</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../903/62903.xml">
+Complex systems</link> ·  <link xlink:type="simple" xlink:href="../039/7039.xml">
+Control theory</link> ·  <link xlink:type="simple" xlink:href="../904/5904.xml">
+Cybernetics</link> ·  <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2474,7 +2474,7 @@ Scientific holism</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <explanation wordnetid="105793000" confidence="0.8">
 <theory wordnetid="105989479" confidence="0.8">
@@ -2485,19 +2485,19 @@ Sociotechnical systems theory</link></higher_cognitive_process>
 </explanation>
 </thinking>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../899/467899.xml">
-Systems biology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../208/153208.xml">
-System dynamics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../299/3253299.xml">
-Systems ecology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../764/27764.xml">
-Systems engineering</link>&nbsp;·  <division wordnetid="108220714" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../899/467899.xml">
+Systems biology</link> ·  <link xlink:type="simple" xlink:href="../208/153208.xml">
+System dynamics</link> ·  <link xlink:type="simple" xlink:href="../299/3253299.xml">
+Systems ecology</link> ·  <link xlink:type="simple" xlink:href="../764/27764.xml">
+Systems engineering</link> ·  <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <branch wordnetid="108401248" confidence="0.8">
 <link xlink:type="simple" xlink:href="../882/16700882.xml">
 Systems psychology</link></branch>
 </administrative_unit>
 </division>
-&nbsp;·  <link xlink:type="simple" xlink:href="../757/659757.xml">
-Systems science</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../757/659757.xml">
+Systems science</link> ·  <process wordnetid="105701363" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
@@ -2538,7 +2538,7 @@ Russell L. Ackoff</link></research_worker>
 </theorist>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <specialist wordnetid="110632576" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -2569,15 +2569,15 @@ William Ross Ashby</link></research_worker>
 </specialist>
 </person>
 </physical_entity>
-&nbsp;·  <link>
-Béla H. Bánáthy</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+Béla H. Bánáthy</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../331/154331.xml">
 Gregory Bateson</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/730173.xml">
 Richard E. Bellman</link></scientist>
-&nbsp;·  <link xlink:type="simple" xlink:href="../597/142597.xml">
-Stafford Beer</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../597/142597.xml">
+Stafford Beer</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -2588,7 +2588,7 @@ Ludwig von Bertalanffy</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <expert wordnetid="109617867" confidence="0.8">
+ ·  <expert wordnetid="109617867" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <therapist wordnetid="110707233" confidence="0.8">
@@ -2615,7 +2615,7 @@ Murray Bowen</link></psychiatrist>
 </person>
 </physical_entity>
 </expert>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -2626,7 +2626,7 @@ Kenneth E. Boulding</link></religious_person>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -2641,7 +2641,7 @@ C. West Churchman</link></research_worker>
 </theorist>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <analyst wordnetid="109790482" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -2660,7 +2660,7 @@ George Dantzig</link></research_worker>
 </analyst>
 </expert>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -2669,19 +2669,19 @@ Heinz von Foerster</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/290393.xml">
 Jay Wright Forrester</link></scientist>
-&nbsp;·  <link>
-George  Klir</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+George  Klir</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../783/1706783.xml">
 Edward Lorenz</link></scientist>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/21465.xml">
 Niklas Luhmann</link></scientist>
 </person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -2700,12 +2700,12 @@ Humberto Maturana</link></psychologist>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <anthropologist wordnetid="109796323" confidence="0.9173553029164789">
+ ·  <anthropologist wordnetid="109796323" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../617/19617.xml">
 Margaret Mead</link></person>
 </anthropologist>
-&nbsp;·  <peer wordnetid="109626238" confidence="0.8">
+ ·  <peer wordnetid="109626238" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <environmentalist wordnetid="110060621" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -2738,7 +2738,7 @@ Donella Meadows</link></scholar>
 </environmentalist>
 </physical_entity>
 </peer>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <engineer wordnetid="109615807" confidence="0.8">
@@ -2751,16 +2751,16 @@ Mihajlo D. Mesarovic</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../627/1019627.xml">
 Howard T. Odum</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../041/54041.xml">
 Talcott Parsons</link></scientist>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/238560.xml">
 Ilya Prigogine</link></scientist>
-&nbsp;·  <citizen wordnetid="109923673" confidence="0.8">
+ ·  <citizen wordnetid="109923673" confidence="0.8">
 <obstructionist wordnetid="110349243" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -2789,10 +2789,10 @@ Anatol Rapoport</link></causal_agent>
 </physical_entity>
 </obstructionist>
 </citizen>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/5693.xml">
 Claude Shannon</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -2813,12 +2813,12 @@ Francisco Varela</link></research_worker>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../453/17453.xml">
 Kevin Warwick</link></scientist>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/63185.xml">
 Norbert Wiener</link></scientist>

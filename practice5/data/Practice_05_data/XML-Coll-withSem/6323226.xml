@@ -85,10 +85,10 @@ Amstrad CPC</link></computer>
 MSX</link></computer>
  models starting from the <link xlink:type="simple" xlink:href="../570/1583570.xml">
 MSX2</link> standard and for most <link xlink:type="simple" xlink:href="../337/156337.xml">
-Amstrad PCW</link> models. Contrary to early 8-bit operating systems it is based on a small kernel, which provides pre-emptive and priority oriented multitasking and manages RAM with a size of up to 1024&nbsp;kB. SymbOS contains a <link xlink:type="simple" xlink:href="../890/18890.xml">
+Amstrad PCW</link> models. Contrary to early 8-bit operating systems it is based on a small kernel, which provides pre-emptive and priority oriented multitasking and manages RAM with a size of up to 1024 kB. SymbOS contains a <link xlink:type="simple" xlink:href="../890/18890.xml">
 Microsoft Windows</link> like <link xlink:type="simple" xlink:href="../293/12293.xml">
 Graphical user interface</link>, supports <link xlink:type="simple" xlink:href="../777/13777.xml">
-hard disk</link>s with a capacity of up to 128&nbsp;GB and can already be booted on an unexpanded <computer wordnetid="103082979" confidence="0.9508927676800064">
+hard disk</link>s with a capacity of up to 128 GB and can already be booted on an unexpanded <computer wordnetid="103082979" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/22nd_century.xml">
 Amstrad CPC</link></computer>
 -6128, a 128K-<computer wordnetid="103082979" confidence="0.9508927676800064">
@@ -123,7 +123,7 @@ MOS Technology</link></institution>
  <link xlink:type="simple" xlink:href="../297/20297.xml">
 6502</link> cannot move the <link>
 stack pointer</link>, the Z80 can freely relocate it to any position in memory, which is more or less a requirement for <link xlink:type="simple" xlink:href="../566/2204566.xml">
-pre-emptive multitasking</link>. The existence of an alternative register set accelerates context switching between tasks dramatically. The restriction of Z80 system to a 64&nbsp;kB <link xlink:type="simple" xlink:href="../144/507144.xml">
+pre-emptive multitasking</link>. The existence of an alternative register set accelerates context switching between tasks dramatically. The restriction of Z80 system to a 64 kB <link xlink:type="simple" xlink:href="../144/507144.xml">
 address space</link> can be solved with <link xlink:type="simple" xlink:href="../396/354396.xml">
 bank switching</link>. In this way computers like the <computer wordnetid="103082979" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/22nd_century.xml">
@@ -157,11 +157,11 @@ For task management, a combination of preemptive and cooperative multitasking wa
 Memory and banking management</st>
 <p>
 
-Memory management divides the entire RAM into small 256 byte blocks, which can be assigned dynamically. Applications are always running in a secondary 64&nbsp;kB RAM bank, where no memory space is occupied by the operating system or the video memory. That makes it possible to reserve up to 63&nbsp;kB in one piece.</p>
+Memory management divides the entire RAM into small 256 byte blocks, which can be assigned dynamically. Applications are always running in a secondary 64 kB RAM bank, where no memory space is occupied by the operating system or the video memory. That makes it possible to reserve up to 63 kB in one piece.</p>
 <p>
 
 Banking management ensures that the system is able to administer memory with a size of up to one megabyte, even though the Z80 CPU has only a <link xlink:type="simple" xlink:href="../535/64535.xml">
-16-bit</link> address bus. It makes transparent access to memory and functions placed in other 64&nbsp;kB banks possible.</p>
+16-bit</link> address bus. It makes transparent access to memory and functions placed in other 64 kB banks possible.</p>
 
 </ss1>
 <ss1>
@@ -210,7 +210,7 @@ CP/M</link></O>
 <link xlink:type="simple" xlink:href="../531/2754531.xml">
 AMSDOS</link></O>
 , <link xlink:type="simple" xlink:href="../045/53045.xml">
-FAT 12-16-32</link>, on all platforms. With the last one SymbOS is able to address mass storage devices with a capacity of up to 128&nbsp;GB. Also the ability to administer files with a size of up to 2&nbsp;GB is uncommon for an 8-bit system. Because of the FAT support data exchange with other computers is quite easy, as most 32 and 64 bit operating systems do support the three FAT file systems.</p>
+FAT 12-16-32</link>, on all platforms. With the last one SymbOS is able to address mass storage devices with a capacity of up to 128 GB. Also the ability to administer files with a size of up to 2 GB is uncommon for an 8-bit system. Because of the FAT support data exchange with other computers is quite easy, as most 32 and 64 bit operating systems do support the three FAT file systems.</p>
 
 </sec>
 <sec>

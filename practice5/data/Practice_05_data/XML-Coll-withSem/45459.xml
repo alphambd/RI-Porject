@@ -984,35 +984,35 @@ Yes</col>
 <entry level="1" type="number">
 
   <cite id="endnote_loop_infinitea">
-<b>a</b></cite>&nbsp; while (true) does not count as an infinite loop for this purpose, because it is not a dedicated language structure.</entry>
+<b>a</b></cite>  while (true) does not count as an infinite loop for this purpose, because it is not a dedicated language structure.</entry>
 <entry level="1" type="number">
 
   <cite id="endnote_loop_fora">
-<b>a</b></cite>&nbsp; <cite id="endnote_loop_forb">
-<b>b</b></cite>&nbsp; <cite id="endnote_loop_forc">
-<b>c</b></cite>&nbsp; <cite id="endnote_loop_ford">
-<b>d</b></cite>&nbsp; <cite id="endnote_loop_fore">
-<b>e</b></cite>&nbsp; <cite id="endnote_loop_forf">
-<b>f</b></cite>&nbsp; C's for (<it>init</it>; <it>condition</it>; <it>loop</it>) loop is a general loop construct, not specifically a counting one, although it is often used for that.</entry>
+<b>a</b></cite>  <cite id="endnote_loop_forb">
+<b>b</b></cite>  <cite id="endnote_loop_forc">
+<b>c</b></cite>  <cite id="endnote_loop_ford">
+<b>d</b></cite>  <cite id="endnote_loop_fore">
+<b>e</b></cite>  <cite id="endnote_loop_forf">
+<b>f</b></cite>  C's for (<it>init</it>; <it>condition</it>; <it>loop</it>) loop is a general loop construct, not specifically a counting one, although it is often used for that.</entry>
 <entry level="1" type="number">
 
   <cite id="endnote_deep_break_ca">
-<b>a</b></cite>&nbsp; <cite id="endnote_deep_break_cb">
-<b>b</b></cite>&nbsp; <cite id="endnote_deep_break_cc">
-<b>c</b></cite>&nbsp; Deep breaks may be accomplished in C, C++ and C# through the use of labels and gotos.</entry>
+<b>a</b></cite>  <cite id="endnote_deep_break_cb">
+<b>b</b></cite>  <cite id="endnote_deep_break_cc">
+<b>c</b></cite>  Deep breaks may be accomplished in C, C++ and C# through the use of labels and gotos.</entry>
 <entry level="1" type="number">
 
   <cite id="endnote_loop_phpforeacha">
-<b>a</b></cite>&nbsp; Iteration over objects was <weblink xlink:type="simple" xlink:href="http://www.php.net/manual/en/language.oop5.iterations.php">
+<b>a</b></cite>  Iteration over objects was <weblink xlink:type="simple" xlink:href="http://www.php.net/manual/en/language.oop5.iterations.php">
 added</weblink> in PHP 5.</entry>
 <entry level="1" type="number">
 
   <cite id="endnote_loop_rangea">
-<b>a</b></cite>&nbsp; A counting loop can be simulated by iterating over an incrementing list or generator, like range or xrange.</entry>
+<b>a</b></cite>  A counting loop can be simulated by iterating over an incrementing list or generator, like range or xrange.</entry>
 <entry level="1" type="number">
 
   <cite id="endnote_deep_break_pythona">
-<b>a</b></cite>&nbsp; Deep breaks may be accomplished in Python through the use of exception handling.</entry>
+<b>a</b></cite>  Deep breaks may be accomplished in Python through the use of exception handling.</entry>
 </list>
 </p>
 
@@ -1627,7 +1627,7 @@ PDF</link></format>
 </language>
 </information>
 </message>
-&nbsp;(2.88&nbsp;<link xlink:type="simple" xlink:href="../727/60727.xml">
+ (2.88 <link xlink:type="simple" xlink:href="../727/60727.xml">
 MiB</link>)</entry>
 <entry level="1" type="bullet">
 
@@ -1641,7 +1641,7 @@ PDF</link></format>
 </language>
 </information>
 </message>
-&nbsp;(31.4&nbsp;<link xlink:type="simple" xlink:href="../727/60727.xml">
+ (31.4 <link xlink:type="simple" xlink:href="../727/60727.xml">
 MiB</link>)</entry>
 </list>
 </p>

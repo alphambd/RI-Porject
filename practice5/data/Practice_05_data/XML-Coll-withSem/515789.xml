@@ -296,7 +296,7 @@ System 4</link></company>
 <p>
 
 The System 4 series ran the J (for Job) operating system. This was a batch operating system, although there was a variant that allowed interactive access called MultiJob. Programming languages used were assembler and <link xlink:type="simple" xlink:href="../799/6799.xml">
-COBOL</link>. The system was controlled from a console comprised of a mechanical printer and keyboard &ndash; very like a Teletype. The assembly language (known as Usercode) non-privileged instruction set was identical to IBM System 360 Assembly Language; in privileged mode there were a few extras. </p>
+COBOL</link>. The system was controlled from a console comprised of a mechanical printer and keyboard – very like a Teletype. The assembly language (known as Usercode) non-privileged instruction set was identical to IBM System 360 Assembly Language; in privileged mode there were a few extras. </p>
 <p>
 
 System 4's compatibility with the IBM 360 made it particularly attractive to customers in <region wordnetid="108630039" confidence="0.8">
@@ -495,7 +495,7 @@ ICL 2900 Series</link></horizontal_surface>
 </surface>
 </artifact>
 </platform>
-&nbsp;and <O wordnetid="106832680" confidence="0.9508927676800064">
+ and <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../743/75743.xml">
 ICL VME</link></O>
 </it>
@@ -1024,7 +1024,7 @@ Utica</link></village>
 .  
 Launched in 1986, DRS 300 was a modular system consisting of A4-sized units designed to be placed on an office bookshelf.
 Modules containing a power supply (Kx), processor (Ax), hard and floppy disks (Dx), streamer tape (Sx) etc were connected by <link xlink:type="simple" xlink:href="../313/28313.xml">
-SCSI</link>. Initial models used an 8&nbsp;MHz <link xlink:type="simple" xlink:href="../054/15054.xml">
+SCSI</link>. Initial models used an 8 MHz <link xlink:type="simple" xlink:href="../054/15054.xml">
 80286</link> processor (A2 module) or 80286 with <link xlink:type="simple" xlink:href="../519/3142519.xml">
 80287</link> (A3) and ran <link xlink:type="simple" xlink:href="../755/1513755.xml">
 Concurrent DOS</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> Although this could run code developed under <O wordnetid="106832680" confidence="0.9508927676800064">
@@ -1350,7 +1350,7 @@ The ICL 1900 Filan manual (1st edition January 1973) describes Filan as "a total
 <p>
 
 This was a joint venture of International Computer Services Ltd (ICSL), a division of ICL, and <link xlink:type="simple" xlink:href="../441/1753441.xml">
-Barclays Bank</link>, that provided computer services. In the early days of computing many organizations avoided the capital costs of purchasing their own equipment and the recruitment of technical specialists by putting their work out to service companies which were then known as computer bureaux such as BARIC. This kind of business diminished during the 1980s, only to reappear in the 1990s under a new name &ndash; <link xlink:type="simple" xlink:href="../890/235890.xml">
+Barclays Bank</link>, that provided computer services. In the early days of computing many organizations avoided the capital costs of purchasing their own equipment and the recruitment of technical specialists by putting their work out to service companies which were then known as computer bureaux such as BARIC. This kind of business diminished during the 1980s, only to reappear in the 1990s under a new name – <link xlink:type="simple" xlink:href="../890/235890.xml">
 outsourcing</link>. BARIC also ran special groups such as the Advanced <link xlink:type="simple" xlink:href="../576/842576.xml">
 Videotext</link> team which looked into how new technologies such as <physical_entity wordnetid="100001930" confidence="0.8">
 <system wordnetid="104377057" confidence="0.8">
@@ -1715,7 +1715,7 @@ Steve Malone, <it>Softcloning</it>, Practical Computing July 1986 P73</entry>
 <entry id="4">
   Model 240:
   Cabinet type:       Compact Desktop
-  Processor           1 x 40&nbsp;MHz
+  Processor           1 x 40 MHz
   SCSI Channels       1
   Floppy disk (fmt)   720Kbyte &amp; 1.44Mbyte
   Disk                1 x 520Mbyte<p>
@@ -1745,14 +1745,14 @@ Steve Malone, <it>Softcloning</it>, Practical Computing July 1986 P73</entry>
 <entry id="5">
   Model 630:
   Cabinet Type:       Midi
-  Processor:          1 x 33&nbsp;MHz
+  Processor:          1 x 33 MHz
   Performance:        23 MIPS
   SCSI Channels:      2
   Disks:              1 x 660Mbyte<p>
 
   Model 632:
   Cabinet Type:       Midi
-  Processor:          2 x 33&nbsp;MHz
+  Processor:          2 x 33 MHz
   Performance:        46 MIPS
   SCSI Channels:      2
   Disks:              1 x 660Mbyte</p>
@@ -1760,7 +1760,7 @@ Steve Malone, <it>Softcloning</it>, Practical Computing July 1986 P73</entry>
 
   Model 640:
   Cabinet Type:       Midi
-  Processor:          1 x 40&nbsp;MHz
+  Processor:          1 x 40 MHz
   Performance:        29 MIPS
   SCSI Channels:      2
   Disks:              1 x 660Mbyte</p>
@@ -1768,7 +1768,7 @@ Steve Malone, <it>Softcloning</it>, Practical Computing July 1986 P73</entry>
 
   Model 642:
   Cabinet Type:       Midi
-  Processor:          2 x 40&nbsp;MHz
+  Processor:          2 x 40 MHz
   Performance:        58 MIPS
   SCSI Channels:      2
   Disks:              1 x 660Mbyte</p>
@@ -1776,7 +1776,7 @@ Steve Malone, <it>Softcloning</it>, Practical Computing July 1986 P73</entry>
 
   Model 644:
   Cabinet Type:       Midi
-  Processor:          4 x 40&nbsp;MHz
+  Processor:          4 x 40 MHz
   Performance:        116 MIPS
   SCSI Channels:      2
   Disks:              1 x 660Mbyte</p>

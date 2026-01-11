@@ -78,7 +78,7 @@ Bresenham's line algorithm</link></algorithm>
 </act>
 </rule>
 </event>
- &mdash; optimized to use only additions (i.e. no divisions or multiplications); it also avoids floating-point computations.</entry>
+ — optimized to use only additions (i.e. no divisions or multiplications); it also avoids floating-point computations.</entry>
 <entry level="1" type="bullet">
 
 <event wordnetid="100029378" confidence="0.8">
@@ -96,16 +96,16 @@ Xiaolin Wu's line algorithm</link></algorithm>
 </act>
 </rule>
 </event>
- &mdash; can perform <link xlink:type="simple" xlink:href="../507/113507.xml">
+ — can perform <link xlink:type="simple" xlink:href="../507/113507.xml">
 anti-aliasing</link></entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.edepot.com/algorithm.html">
-EFLA line algorithm</weblink> &mdash; A very fast implementation.</entry>
+EFLA line algorithm</weblink> — A very fast implementation.</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://gatopeichs.pbwiki.com/gatopeich%27s-Graphic-Algorithms#LineDrawingbyIntegerOperations">
-gatopeich's line algorithm</weblink> &mdash; Fast, simple, aesthetic. Based on pure integer operations.</entry>
+gatopeich's line algorithm</weblink> — Fast, simple, aesthetic. Based on pure integer operations.</entry>
 </list>
 </p>
 

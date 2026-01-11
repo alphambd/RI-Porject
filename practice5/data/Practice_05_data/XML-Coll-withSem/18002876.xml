@@ -46,7 +46,7 @@ Right-handed; one-handed backhand</plays>
 <careerprizemoney>
 $65,423</careerprizemoney>
 <datebirth>
-November 27, 1987 (1987-11-27) (age&nbsp;21)</datebirth>
+November 27, 1987 (1987-11-27) (age 21)</datebirth>
 <country>
 <image width="22x20px" src="Flag_of_the_United_Kingdom.svg">
 <caption>
@@ -54,7 +54,7 @@ November 27, 1987 (1987-11-27) (age&nbsp;21)</datebirth>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -83,7 +83,7 @@ United Kingdom</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../316/9316.xml">
 England</link></country>
 </country>

@@ -438,7 +438,7 @@ command line argument</link>s.</p>
 <p>
 
 In the BRE syntax, most characters are treated as <link xlink:type="simple" xlink:href="../778/428778.xml">
-literal</link>s&nbsp;— they match only themselves (i.e., a matches "<it>a</it>"). The exceptions, listed below, are called <link xlink:type="simple" xlink:href="../959/81959.xml">
+literal</link>s — they match only themselves (i.e., a matches "<it>a</it>"). The exceptions, listed below, are called <link xlink:type="simple" xlink:href="../959/81959.xml">
 metacharacter</link>s or metasequences.</p>
 <p>
 
@@ -451,14 +451,14 @@ Matches any single character (many applications exclude newlines, and exactly wh
 </row>
 <row valign="top">
 <col>
-[&nbsp;]</col>
+[ ]</col>
 <col>
 A bracket expression. Matches a single character that is contained within the brackets. For example, [abc] matches "<it>a</it>", "<it>b</it>", or "<it>c</it>". [a-z] specifies a range which matches any lowercase letter from "<it>a</it>" to "<it>z</it>". These forms can be mixed: [abcx-z] matches "<it>a</it>", "<it>b</it>", "<it>c</it>", "<it>x</it>", "<it>y</it>", and "<it>z</it>", as does [a-cx-z].
 The - character is treated as a literal character if it is the last or the first character within the brackets, or if it is escaped with a backslash: [abc-], [-abc], or [a\-bc].</col>
 </row>
 <row valign="top">
 <col>
-[^&nbsp;]</col>
+[^ ]</col>
 <col>
 Matches a single character that is not contained within the brackets. For example, [^abc] matches any character other than "<it>a</it>", "<it>b</it>", or "<it>c</it>". [^a-z]matches any single character that is not a lowercase letter from "<it>a</it>" to "<it>z</it>". As above, literal characters and ranges can be mixed.</col>
 </row>
@@ -476,7 +476,7 @@ Matches the ending position of the string or the position just before a string-e
 </row>
 <row valign="top">
 <col>
-\(&nbsp;\)</col>
+\( \)</col>
 <col>
 Defines a marked subexpression. The string matched within the parentheses can be recalled later (see the next entry, \<it>n</it>).  A marked subexpression is also called a block or capturing group.</col>
 </row>
@@ -777,7 +777,7 @@ Perl</link></programming_language>
  has a more consistent and richer syntax than the POSIX basic (BRE) and extended (ERE) regular expression standards. An example of its consistency is that \ always escapes a non-alphanumeric character. Another example of functionality possible with Perl but not POSIX-compliant regular expressions is the concept of lazy quantification (see the next section).</p>
 <p>
 
-Due largely to its expressive power, many other utilities and programming languages have adopted syntax similar to Perl's&nbsp;— for example, <message wordnetid="106598915" confidence="0.8">
+Due largely to its expressive power, many other utilities and programming languages have adopted syntax similar to Perl's — for example, <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 Java</link></request>
@@ -859,7 +859,7 @@ The standard quantifiers in regular expressions are greedy, meaning they match a
 Another whale explosion occurred on &amp;lt;January 26&amp;gt;, &amp;lt;2004&amp;gt;.</p>
 <p>
 
-...would likely come up with the pattern .*&amp;gt;, or similar. However, this pattern will actually return "<it>&amp;lt;January 26&amp;gt;, &amp;lt;2004&amp;gt;</it>" instead of the "<it>&amp;lt;January 26&amp;gt;</it>" which might be expected, because the * quantifier is greedy&nbsp;— it will consume as many characters as possible from the input, and "<it>January 26&amp;gt;, &amp;lt;2004</it>" has more characters than "<it>January 26</it>".</p>
+...would likely come up with the pattern .*&amp;gt;, or similar. However, this pattern will actually return "<it>&amp;lt;January 26&amp;gt;, &amp;lt;2004&amp;gt;</it>" instead of the "<it>&amp;lt;January 26&amp;gt;</it>" which might be expected, because the * quantifier is greedy — it will consume as many characters as possible from the input, and "<it>January 26&amp;gt;, &amp;lt;2004</it>" has more characters than "<it>January 26</it>".</p>
 <p>
 
 Though this problem can be avoided in a number of ways (e.g., by specifying the text that is <it>not</it> to be matched: &amp;lt;[^&amp;gt;]*&amp;gt;), modern regular expression tools allow a quantifier to be specified as <it>lazy</it> (also known as <it>non-greedy</it>, <it>reluctant</it>, <it>minimal</it>, or <it>ungreedy</it>) by putting a question mark after the quantifier (e.g., .*?&amp;gt;), or by using a modifier which reverses the greediness of quantifiers (though changing the meaning of the standard quantifiers can be confusing). By using a lazy quantifier, the expression tries the minimal match first. Though in the previous example lazy matching is used to select one of many matching results, in some cases it can also be used to improve performance when greedy matching would require more <link xlink:type="simple" xlink:href="../867/238867.xml">
@@ -1164,7 +1164,7 @@ References</st>
 <entry level="1" type="bullet">
 
  <cite id="CITEREF1997" style="font-style:normal"><weblink xlink:type="simple" xlink:href="http://www.opengroup.org/onlinepubs/007908799/xbd/re.html">
-"Regular Expressions"</weblink>,&#32;<it>The Single UNIX ® Specification, Version 2</it>, The Open Group, 1997, </cite>&nbsp;</entry>
+"Regular Expressions"</weblink>,&#32;<it>The Single UNIX ® Specification, Version 2</it>, The Open Group, 1997, </cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -1178,7 +1178,7 @@ Forta, Ben</link></writer>
 </person>
 </communicator>
 </physical_entity>
-. Sams Teach Yourself Regular Expressions in 10 Minutes.&#32;Sams. ISBN 0-672-32566-7.</cite>&nbsp;</entry>
+. Sams Teach Yourself Regular Expressions in 10 Minutes.&#32;Sams. ISBN 0-672-32566-7.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><person wordnetid="100007846" confidence="0.9638700866880419">
@@ -1188,18 +1188,18 @@ Friedl, Jeffrey</link></person>
 Mastering Regular Expressions</weblink>.&#32;<company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../827/216827.xml">
 O'Reilly</link></company>
-. ISBN 0-596-00289-0.</cite>&nbsp;</entry>
+. ISBN 0-596-00289-0.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><link>
-Habibi, Mehran</link>. Real World Regular Expressions with Java 1.4.&#32;Springer. ISBN 1-59059-107-0.</cite>&nbsp;</entry>
+Habibi, Mehran</link>. Real World Regular Expressions with Java 1.4.&#32;Springer. ISBN 1-59059-107-0.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><link>
 Liger, Francois</link>;&#32;<link>
 Craig McQueen</link>, <link>
 Paul Wilton</link>. Visual Basic .NET Text Manipulation Handbook.&#32;<link xlink:type="simple" xlink:href="../853/1898853.xml">
-Wrox Press</link>. ISBN 1-86100-730-2.</cite>&nbsp;</entry>
+Wrox Press</link>. ISBN 1-86100-730-2.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -1213,11 +1213,11 @@ Sipser, Michael</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-.&#32;"Chapter 1: Regular Languages", Introduction to the Theory of Computation.&#32;PWS Publishing,&#32;31–90. ISBN 0-534-94728-X.</cite>&nbsp;</entry>
+.&#32;"Chapter 1: Regular Languages", Introduction to the Theory of Computation.&#32;PWS Publishing,&#32;31–90. ISBN 0-534-94728-X.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal" class="book"><link>
-Stubblebine, Tony</link>. Regular Expression Pocket Reference.&#32;O'Reilly. ISBN 0-596-00415-X.</cite>&nbsp;</entry>
+Stubblebine, Tony</link>. Regular Expression Pocket Reference.&#32;O'Reilly. ISBN 0-596-00415-X.</cite> </entry>
 </list>
 </p>
 
@@ -1283,7 +1283,7 @@ Open Directory Project</link></institution>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.regular-expressions.info/">
-Regular-Expressions.info</weblink>&nbsp;— tutorial and reference which covers many popular regex flavors</entry>
+Regular-Expressions.info</weblink> — tutorial and reference which covers many popular regex flavors</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://billposer.org/Linguistics/Computation/Resources.html#patterns">

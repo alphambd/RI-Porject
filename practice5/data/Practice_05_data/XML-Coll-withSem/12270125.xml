@@ -146,7 +146,7 @@ Vessel Traffic Service</link></instrumentality>
 <header colspan="2">
  <image width="30px" src="Nuvola_apps_kview.png">
 </image>
-External&nbsp;images</header>
+External images</header>
 </row>
 <row valign="top">
 </row>
@@ -511,7 +511,7 @@ Software at the fisheries management organization looks for several pieces of in
  time in restricted area, possibly separating fishing and transit time by speed</entry>
 </list>
 
-A restricted area may be closed for all purposes, open to transit, open to fishing for a specific period, or open to designated vessels only.  Vessel speed is often the way its status is determined in lieu of direct observation. Some VMS directly report speed, or speed can be calculated by FMS software based on the time stamps of different position reports. A rule of thumb in scallop fisheries, for example, is that the vessel cannot be dredging for scallops if its speed is greater than 5&nbsp;knots (9&nbsp;km/h). </p>
+A restricted area may be closed for all purposes, open to transit, open to fishing for a specific period, or open to designated vessels only.  Vessel speed is often the way its status is determined in lieu of direct observation. Some VMS directly report speed, or speed can be calculated by FMS software based on the time stamps of different position reports. A rule of thumb in scallop fisheries, for example, is that the vessel cannot be dredging for scallops if its speed is greater than 5 knots (9 km/h). </p>
 <p>
 
 FMC software can note the time a vessel leaves and returns to port, and the time it is inside or outside designated areas. There may be restrictions on trip length, time in an area, etc., which can be calculated directly from VMS data. Other observations may require correlation of catch reports with the vessel's presence in given areas. Presence in other areas may require an onboard observer.</p>
@@ -597,7 +597,7 @@ Under the European Union legislation, VMS is a legal requirement for vessels in 
 By 1999, Europe had 7000 vessels, in excess of 15 meters, under VMS.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref> Since 2005, all Community vessels automatically transmit vessel identification, date, time, position, course and speed either hourly or every 2 hours (if the responsible Fisheries Monitoring Centre can request positions). The only exception is for vessels that operate only inside home waters, and are used exclusively for aquaculture. </p>
 <p>
 
-One of the challenges for European MCS is that the idea of a 200-nautical-mile (370&nbsp;km) EEZ is meaningless for nations with coasts in small seas such as the Mediterranean or Baltic. In such circumstances, appropriate international agreements need to be developed to govern fishing beyond the territorial limit and thus on the high seas, but high seas that would have overlapping jurisdiction in an EEZ-based model.</p>
+One of the challenges for European MCS is that the idea of a 200-nautical-mile (370 km) EEZ is meaningless for nations with coasts in small seas such as the Mediterranean or Baltic. In such circumstances, appropriate international agreements need to be developed to govern fishing beyond the territorial limit and thus on the high seas, but high seas that would have overlapping jurisdiction in an EEZ-based model.</p>
 <p>
 
 There are precedents where maritime pollution already is handled on a basin basis, which might provide a framework for fisheries enforcement in international waters of a small sea:</p>
@@ -784,10 +784,10 @@ Marimsys built the Chilean VMS
 <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2227%22])">27</ref>.  Chile went from a government-specified VMS to a type-approval system for VMS units in an open market, which drove down costs.   </p>
 <p>
 
-Monitored industrial fishing boats limit fishing activities to—generally—5&nbsp;nautical miles (9&nbsp;km) from the coast of Chile.  This leaves the 5 nm zone for “artisanal” or smaller fishing boats and limits excessive fishing effort being applied to inshore waters.</p>
+Monitored industrial fishing boats limit fishing activities to—generally—5 nautical miles (9 km) from the coast of Chile.  This leaves the 5 nm zone for “artisanal” or smaller fishing boats and limits excessive fishing effort being applied to inshore waters.</p>
 <p>
 
-Chile also pioneered in the emission of reports at short intervals.  Prior systems had focussed on “where is the vessel” with the provision of hourly reporting.  The Chilean system, by dropping the minimum report interval to 8 minutes is capable of determining “what” the vessel is doing.  When you see a series of circular positions, they are all at speeds of below 2&nbsp;knots (4&nbsp;km/h) and reflect the drift of the current—there is no question, that vessel was purse seining, and the printout of the chart can be shown to the court to demonstrate the fact. </p>
+Chile also pioneered in the emission of reports at short intervals.  Prior systems had focussed on “where is the vessel” with the provision of hourly reporting.  The Chilean system, by dropping the minimum report interval to 8 minutes is capable of determining “what” the vessel is doing.  When you see a series of circular positions, they are all at speeds of below 2 knots (4 km/h) and reflect the drift of the current—there is no question, that vessel was purse seining, and the printout of the chart can be shown to the court to demonstrate the fact. </p>
 <p>
 
 Chile is currently the world’s largest producer of farmed salmon and has a burgeoning mussel culture industry that is supplying a growing world market. 
@@ -952,7 +952,7 @@ Malta monitors approximately 60 vessels.
 Mexico</st>
 <p>
 
-Under current Mexican law, it is illegal for commercial boats like longliners and drift gillnetters,to take fish reserved for sports fishing within fifty miles (93 km) of the coast in the Sea of Cortez, and any fish within 12&nbsp;nautical miles (22&nbsp;km) of the Revillagigedo Islands. VMS is seen as the only way Mexico will to enforce controls on areas in its EEZ. 
+Under current Mexican law, it is illegal for commercial boats like longliners and drift gillnetters,to take fish reserved for sports fishing within fifty miles (93 km) of the coast in the Sea of Cortez, and any fish within 12 nautical miles (22 km) of the Revillagigedo Islands. VMS is seen as the only way Mexico will to enforce controls on areas in its EEZ. 
 <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2237%22])">37</ref>
 </p>
 </ss1>
@@ -1538,13 +1538,13 @@ fishing</link></header>
 Fisheries</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../019/1171019.xml">
-Fisheries science</link>&nbsp;·  <link xlink:type="simple" xlink:href="../704/494704.xml">
-Management</link>&nbsp;·  <link xlink:type="simple" xlink:href="../678/6145678.xml">
-Quota</link>&nbsp;·  <link xlink:type="simple" xlink:href="../979/17169979.xml">
-Wild</link>&nbsp;·  <link xlink:type="simple" xlink:href="../326/581326.xml">
-Habitats</link>&nbsp;·  <link xlink:type="simple" xlink:href="../520/153520.xml">
-Farmed</link>&nbsp;·  <link xlink:type="simple" xlink:href="../634/1634.xml">
-Aquaculture</link>&nbsp;·  <link xlink:type="simple" xlink:href="../103/2579103.xml">
+Fisheries science</link> ·  <link xlink:type="simple" xlink:href="../704/494704.xml">
+Management</link> ·  <link xlink:type="simple" xlink:href="../678/6145678.xml">
+Quota</link> ·  <link xlink:type="simple" xlink:href="../979/17169979.xml">
+Wild</link> ·  <link xlink:type="simple" xlink:href="../326/581326.xml">
+Habitats</link> ·  <link xlink:type="simple" xlink:href="../520/153520.xml">
+Farmed</link> ·  <link xlink:type="simple" xlink:href="../634/1634.xml">
+Aquaculture</link> ·  <link xlink:type="simple" xlink:href="../103/2579103.xml">
 Fish types</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="13">
 <image width="160px" src="Trawer_Hauling_Nets.jpg">
@@ -1560,8 +1560,8 @@ Fish types</link></col>
 Fishing</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../052/16015052.xml">
-Fishing history</link>&nbsp;·  <link xlink:type="simple" xlink:href="../376/10079376.xml">
-Fishing vessel</link>s&nbsp;·  <issue wordnetid="105814650" confidence="0.8">
+Fishing history</link> ·  <link xlink:type="simple" xlink:href="../376/10079376.xml">
+Fishing vessel</link>s ·  <issue wordnetid="105814650" confidence="0.8">
 <link xlink:type="simple" xlink:href="../175/11017175.xml">
 Environment</link></issue>
 </col>
@@ -1575,9 +1575,9 @@ Environment</link></issue>
 Industry</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../691/1028691.xml">
-Commercial fishing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../708/11967708.xml">
-Processing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/16673298.xml">
-Products</link>&nbsp;·  <group_action wordnetid="101080366" confidence="0.8">
+Commercial fishing</link> ·  <link xlink:type="simple" xlink:href="../708/11967708.xml">
+Processing</link> ·  <link xlink:type="simple" xlink:href="../298/16673298.xml">
+Products</link> ·  <group_action wordnetid="101080366" confidence="0.8">
 <selling wordnetid="101113068" confidence="0.8">
 <transaction wordnetid="101106808" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1594,7 +1594,7 @@ Marketing</link></sale>
 </transaction>
 </selling>
 </group_action>
-&nbsp;·  <link xlink:type="simple" xlink:href="../666/7332666.xml">
+ ·  <link xlink:type="simple" xlink:href="../666/7332666.xml">
 Markets</link></col>
 </row>
 <row style="height:2px">
@@ -1606,8 +1606,8 @@ Markets</link></col>
 Recreational</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../418/223418.xml">
-Angling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../221/525221.xml">
-Game fishing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../754/218754.xml">
+Angling</link> ·  <link xlink:type="simple" xlink:href="../221/525221.xml">
+Game fishing</link> ·  <link xlink:type="simple" xlink:href="../754/218754.xml">
 Fly fishing</link></col>
 </row>
 <row style="height:2px">
@@ -1625,36 +1625,36 @@ Techniques</link></col>
 Gathering</link></method>
 </know-how>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../254/306254.xml">
 Spearfishing</link></method>
 </know-how>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../465/1282465.xml">
 Line fishing</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../395/1137395.xml">
-Netting</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../395/1137395.xml">
+Netting</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../840/335840.xml">
 Trawling</link></method>
 </know-how>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../490/4321490.xml">
 Trapping</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../672/1790672.xml">
+ ·  <link xlink:type="simple" xlink:href="../672/1790672.xml">
 Other</link></col>
 </row>
 <row style="height:2px">
@@ -1666,13 +1666,13 @@ Other</link></col>
 Tackle</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../954/989954.xml">
-Hook</link>&nbsp;·  <link xlink:type="simple" xlink:href="../339/47339.xml">
-Line</link>&nbsp;·  <link xlink:type="simple" xlink:href="../621/2212621.xml">
-Sinker</link>&nbsp;·  <link xlink:type="simple" xlink:href="../337/47337.xml">
-Rod</link>&nbsp;·  <link xlink:type="simple" xlink:href="../052/18388052.xml">
-Bait</link>&nbsp;·  <link xlink:type="simple" xlink:href="../520/764520.xml">
-Lures</link>&nbsp;·  <link xlink:type="simple" xlink:href="../597/9470597.xml">
-Artificial flies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../618/12764618.xml">
+Hook</link> ·  <link xlink:type="simple" xlink:href="../339/47339.xml">
+Line</link> ·  <link xlink:type="simple" xlink:href="../621/2212621.xml">
+Sinker</link> ·  <link xlink:type="simple" xlink:href="../337/47337.xml">
+Rod</link> ·  <link xlink:type="simple" xlink:href="../052/18388052.xml">
+Bait</link> ·  <link xlink:type="simple" xlink:href="../520/764520.xml">
+Lures</link> ·  <link xlink:type="simple" xlink:href="../597/9470597.xml">
+Artificial flies</link> ·  <link xlink:type="simple" xlink:href="../618/12764618.xml">
 Bite alarm</link>s</col>
 </row>
 <row style="height:2px">
@@ -1683,7 +1683,7 @@ Bite alarm</link>s</col>
 Locations</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../166/16701166.xml">
-Fishing by country</link>&nbsp;·  <diversion wordnetid="100426928" confidence="0.8">
+Fishing by country</link> ·  <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <sport wordnetid="100523513" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1696,7 +1696,7 @@ Localities</link></activity>
 </sport>
 </event>
 </diversion>
-&nbsp;·  <stream wordnetid="109448361" confidence="0.8">
+ ·  <stream wordnetid="109448361" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <body_of_water wordnetid="109225146" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
@@ -1711,7 +1711,7 @@ Communities</link></river>
 </body_of_water>
 </social_group>
 </stream>
-&nbsp;·  <slope wordnetid="109437454" confidence="0.8">
+ ·  <slope wordnetid="109437454" confidence="0.8">
 <geological_formation wordnetid="109287968" confidence="0.8">
 <bank wordnetid="109213565" confidence="0.8">
 <link xlink:type="simple" xlink:href="../792/2193792.xml">

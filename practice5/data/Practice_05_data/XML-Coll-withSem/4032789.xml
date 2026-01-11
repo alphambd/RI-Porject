@@ -189,19 +189,19 @@ Crown Investments Corporation</link></business>
 Current Crowns owned 
 through CIC</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../990/635990.xml">
 SGI</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../009/2053009.xml">
 SaskTel</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../640/2785640.xml">
 SaskPower</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../631/6199631.xml">
 SaskEnergy</link></company>
-&nbsp;·  <firm wordnetid="108059870" confidence="0.8">
+ ·  <firm wordnetid="108059870" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
 <corporation wordnetid="108059412" confidence="0.8">
@@ -216,18 +216,18 @@ Saskatchewan Transportation Company</link></institution>
 </enterprise>
 </company>
 </firm>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../116/17940116.xml">
 SaskWater</link></company>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../050/17941050.xml">
 Information Services Corporation of Saskatchewan</link></company>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../217/18171217.xml">
 Investment Saskatchewan</link></company>
-&nbsp;· <link>
-Saskatchewan Development Fund Corporation</link>&nbsp;· <link>
-Saskatchewan Government Growth Fund Management Corporation</link>&nbsp;· <link>
+ · <link>
+Saskatchewan Development Fund Corporation</link> · <link>
+Saskatchewan Government Growth Fund Management Corporation</link> · <link>
 Saskatchewan Opportunities Corporation</link></col>
 </row>
 <row style="height:2px">
@@ -239,7 +239,7 @@ Current Crowns owned
 through other departments</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../071/4776071.xml">
-Saskatchewan Liquor and Gaming Authority</link>&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+Saskatchewan Liquor and Gaming Authority</link> · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../789/4032789.xml">
 Saskatchewan Research Council</link></company>
 </col>
@@ -252,7 +252,7 @@ Saskatchewan Research Council</link></company>
 Former Crown Corporations</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../970/2583970.xml">
-Potash Corporation of Saskatchewan</link>&nbsp;· <company wordnetid="108058098" confidence="0.8">
+Potash Corporation of Saskatchewan</link> · <company wordnetid="108058098" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
 <carrier wordnetid="108057633" confidence="0.8">
 <business wordnetid="108061042" confidence="0.8">
@@ -265,7 +265,7 @@ Saskatchewan Government Airways</link></institution>
 </carrier>
 </enterprise>
 </company>
-&nbsp;· <excavation wordnetid="103302121" confidence="0.8">
+ · <excavation wordnetid="103302121" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <firm wordnetid="108059870" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
@@ -280,7 +280,7 @@ Saskatchewan Mining Development Corporation</link></business>
 </firm>
 </artifact>
 </excavation>
-&nbsp;· <link>
+ · <link>
 Saskatchewan Oil &amp; Gas Corporation</link></col>
 </row>
 </table>

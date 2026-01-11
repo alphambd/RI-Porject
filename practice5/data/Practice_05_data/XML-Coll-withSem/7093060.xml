@@ -116,7 +116,7 @@ Further layers are then stacked on top.  To use a precomputed table of size <it>
 Layer <it>i</it> extends vertically from <it>yi</it> to <it>yi</it>+1, and can be divided into two regions horizontally: the (generally larger) portion from 0 to <it>xi</it>+1 which is entirely contained within the desired distribution, and the (small) portion from <it>xi</it>+1 to <it>xi</it>, which is only partially contained.</p>
 <p>
 
-Ignoring for a moment the problem of layer 0, and given uniform random variables <it>U</it>0 and <it>U</it>1&nbsp;∈ [0,1), the ziggurat algorithm can be described as:
+Ignoring for a moment the problem of layer 0, and given uniform random variables <it>U</it>0 and <it>U</it>1 ∈ [0,1), the ziggurat algorithm can be described as:
 
 # Choose a random layer 0 ≤ ''i''  ''n''. 
 # Let ''x'' = ''U''0''x''''i''.
@@ -160,11 +160,11 @@ Since ''x''''1'' ≈ 3.5 for typical table sizes, the test in step 3 is almost a
 ===Optimizations===
 The algorithm can be performed efficiently with precomputed tables of ''x''''i'' and ''y''''i'' = ''f''(''x''''i''), but there are some modifications to make it even faster:
 * Nothing in the ziggurat algorithm depends on the probability distribution function being normalized (integral under the curve equal to 1); removing [[normalizing constant]]s can speed up the computation of ''f''(''x'').
-* Most uniform random number generators are based on integer random number generators which return an integer in the range [0,&nbsp;232−1].  A table of 2−32<it>x</it>i lets you use such numbers directly for <it>U</it>0.
+* Most uniform random number generators are based on integer random number generators which return an integer in the range [0, 232−1].  A table of 2−32<it>x</it>i lets you use such numbers directly for <it>U</it>0.
 <list>
 <entry level="1" type="bullet">
 
- When computing two-sided distributions using a two-sided <it>U</it>0 as described earlier, the random integer can be interpreted as a signed number in the range [−231,&nbsp;231−1] and a scale factor of 2−31 can be used.</entry>
+ When computing two-sided distributions using a two-sided <it>U</it>0 as described earlier, the random integer can be interpreted as a signed number in the range [−231, 231−1] and a scale factor of 2−31 can be used.</entry>
 <entry level="1" type="bullet">
 
  Rather than comparing the result of the multiplication in step 3, it is possible to precompute <it>xi</it>+1/<it>xi</it> and compare <it>U</it>0 with that directly.  If <it>U</it>0 is an integer random number generator, these limits may be premultiplied by 232 (or 231, as appropriate) so an integer comparison can be used.</entry>
@@ -271,7 +271,7 @@ George Marsaglia</link></educator>
 </physical_entity>
 ; Wai Wan Tsang&#32;(2000).&#32;"<weblink xlink:type="simple" xlink:href="http://www.jstatsoft.org/v05/i08/paper">
 The Ziggurat Method for Generating Random Variables</weblink>". <it>Journal of Statistical Software</it>&#32;<b>5</b>&#32;(8). Retrieved on <link>
-2007-06-20</link>.</cite>&nbsp;  Note that this paper numbers the layers from 1 starting at the top, and makes layer 0 at the bottom a special case, while the explanation above numbers layers from 0 at the bottom.</entry>
+2007-06-20</link>.</cite>   Note that this paper numbers the layers from 1 starting at the top, and makes layer 0 at the bottom a special case, while the explanation above numbers layers from 0 at the bottom.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.jstatsoft.org/v05/i08/supp/1">
@@ -294,7 +294,7 @@ MATLAB</link></programming_language>
 
   <cite style="font-style:normal">David B. Thomas; Philip G.W. Leong; Wayne Luk; John D. Villasenor&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cse.cuhk.edu.hk/~phwl/mt/public/archives/papers/grng_acmcs07.pdf">
 Gaussian Random Number Generators</weblink>". <it>ACM Computing Surveys</it>&#32;<b>39</b>&#32;(to appear). Retrieved on <link>
-2007-06-20</link>.</cite>&nbsp;  Tests many algorithms for generating normal (a.k.a. <link xlink:type="simple" xlink:href="../462/21462.xml">
+2007-06-20</link>.</cite>   Tests many algorithms for generating normal (a.k.a. <link xlink:type="simple" xlink:href="../462/21462.xml">
 Gaussian</link>) random numbers, and concludes that "when maintaining extremely high noise quality is the first priority, and subject to that constraint, speed is also desired, the Ziggurat method will often be the most appropriate choice."</entry>
 </list>
 </p>

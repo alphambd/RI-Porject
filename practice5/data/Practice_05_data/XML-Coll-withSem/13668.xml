@@ -608,11 +608,11 @@ Another example, <it>HT</it>, of a <invention wordnetid="105633385" confidence="
 Turing machine</link></method>
 </know-how>
 </invention>
- which gives correct answers only for <it>some</it> instances of the halting problem can be described by the requirements that, if <it>HT</it> is started scanning a field which carries the first of a finite string of <it>a</it> consecutive "1"s, followed by one field with symbol "0" (i.&nbsp;e. a blank field), and followed in turn by a finite string of <it>i</it> consecutive "1"s, on an otherwise blank tape, then
+ which gives correct answers only for <it>some</it> instances of the halting problem can be described by the requirements that, if <it>HT</it> is started scanning a field which carries the first of a finite string of <it>a</it> consecutive "1"s, followed by one field with symbol "0" (i. e. a blank field), and followed in turn by a finite string of <it>i</it> consecutive "1"s, on an otherwise blank tape, then
 <list>
 <entry level="1" type="bullet">
 
- <it>HT</it> halts for any such starting state, i.&nbsp;e. for any input of finite positive integers <it>a</it> and <it>i</it>;</entry>
+ <it>HT</it> halts for any such starting state, i. e. for any input of finite positive integers <it>a</it> and <it>i</it>;</entry>
 <entry level="1" type="bullet">
 
  <it>HT</it> halts  on a completely <it>blank</it> tape if and only if the Turing machine represented by <it>a</it> does not halt when given the starting state and input represented by <it>i</it>; and </entry>
@@ -772,7 +772,7 @@ Notes</st>
 <reflist>
 <entry id="1">
     
-In none of his work did Turing use the word "halting" or "termination". Turing's biographer Hodges does not have the word "halting" or words "halting problem" in his index.  The earliest known use of the words "halting problem" is in a proof by Davis (p. 70&ndash;71, Davis 1958):
+In none of his work did Turing use the word "halting" or "termination". Turing's biographer Hodges does not have the word "halting" or words "halting problem" in his index.  The earliest known use of the words "halting problem" is in a proof by Davis (p. 70–71, Davis 1958):
 <indent level="1">
 
 "Theorem 2.2 <it>There exists a Turing machine whose halting problem is recursively unsolvable</it>.
@@ -825,7 +825,7 @@ Sipser, Michael</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(2006).&#32;"Section 4.2: The Halting Problem", Introduction to the Theory of Computation, Second Edition,&#32;PWS Publishing,&#32;pp.173–182. ISBN  053494728X.</cite>&nbsp;</entry>
+&#32;(2006).&#32;"Section 4.2: The Halting Problem", Introduction to the Theory of Computation, Second Edition,&#32;PWS Publishing,&#32;pp.173–182. ISBN  053494728X.</cite> </entry>
 <entry level="1" type="bullet">
 
  </entry>

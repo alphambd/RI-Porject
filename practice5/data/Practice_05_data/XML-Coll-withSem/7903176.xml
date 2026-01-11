@@ -217,7 +217,7 @@ frequency</link> can freely differ from the grid frequency (50 or 60 Hz). By con
 vector control</link> or <link xlink:type="simple" xlink:href="../628/7107628.xml">
 direct torque control (DTC)</link> (<weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=6448735">
 U.S. Patent 6,448,735</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=6448735">
-&nbsp;</weblink>). DTC has turned out to have better stability than current vector control especially when high reactive currents are required from the generator<weblink xlink:type="simple" xlink:href="http://nwpc.vtt.fi/presentations/niiranen_slides.pdf">
+ </weblink>). DTC has turned out to have better stability than current vector control especially when high reactive currents are required from the generator<weblink xlink:type="simple" xlink:href="http://nwpc.vtt.fi/presentations/niiranen_slides.pdf">
 http://nwpc.vtt.fi/presentations/niiranen_slides.pdf</weblink>.</p>
 <p>
 
@@ -230,7 +230,7 @@ crowbar</link>) is used. </p>
 The crowbar will short-circuit the rotor windings through a small resistance when excessive currents or voltages are detected. In order to be able to continue the operation as quickly as possible an <link xlink:type="simple" xlink:href="../960/1950960.xml">
 active crowbar</link> (for example <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=7164562">
 U.S. Patent 7,164,562</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=7164562">
-&nbsp;</weblink>) has to be used. The active crowbar can remove the rotor short in a controlled way and thus the rotor side converter can be started only after 20-60 ms from the start of the grid disturbance. Thus it is possible to generate reactive current to the grid during the rest of the voltage dip and in this way help the grid to recover from the fault.</p>
+ </weblink>) has to be used. The active crowbar can remove the rotor short in a controlled way and thus the rotor side converter can be started only after 20-60 ms from the start of the grid disturbance. Thus it is possible to generate reactive current to the grid during the rest of the voltage dip and in this way help the grid to recover from the fault.</p>
 <p>
 
 As a summary, a doubly fed induction machine is a wound-rotor doubly-fed electric machine and has several advantages over a conventional induction machine in wind power applications. Firstly, as the rotor circuit is controlled by a power electronics converter, the induction generator is able to both import and export <link xlink:type="simple" xlink:href="../312/494312.xml">

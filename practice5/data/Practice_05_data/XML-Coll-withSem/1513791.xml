@@ -60,7 +60,7 @@ Crypto AG</link></institution>
 M-209</link></device>
 </instrumentality>
 </artifact>
-. The machine measures 8&nbsp;1/2in &amp;times; 5&nbsp;3/8in &amp;times; 4&nbsp;3/8in. The device is mechanical, but when combined with an electric keyboard attachment, the <b>B-52</b>, the resultant system is termed the <b>BC-52</b>. The B-52 is larger, measuring 12&nbsp;1/2in &amp;times; 8&nbsp;1/2in &amp;times; 6&nbsp;3/8in.<p>
+. The machine measures 8 1/2in &amp;times; 5 3/8in &amp;times; 4 3/8in. The device is mechanical, but when combined with an electric keyboard attachment, the <b>B-52</b>, the resultant system is termed the <b>BC-52</b>. The B-52 is larger, measuring 12 1/2in &amp;times; 8 1/2in &amp;times; 6 3/8in.<p>
 
 Both C and CX models are equipped with six pinwheels. In the C-52 version, these six wheels are chosen from a possible set of 12, with the number of pins on each wheel  being 25, 26, 29, 31, 34, 37, 38, 41, 42, 43, 46, and 47. The C model had a fixed stepping system with a large wheel cycle due to the prime numbers of the six wheels. <weblink xlink:type="simple" xlink:href="http://www.deathstar.ch/security/encryption/history/images/CX-52_01.jpg">
 http://www.deathstar.ch/security/encryption/history/images/CX-52_01.jpg</weblink>. The CX-52 version has 6 pinwheels with 47 pins each and a flexible wheel movement system. The lug cage of both models contains 32 movable bars: 27 of the bars are used for encryption and the remaining 5 bars control the stepping of the pinwheels. The early CX models used the control bars also for encryption but due to complications in creating acceptable lug settings later CX models used these bars only for controlling of the wheel stepping. The stepping of the CX wheels was controlled by adjustable lugs on the control bars.</p>
@@ -127,10 +127,10 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- H. Paul Greenough, Cryptanalysis of the Hagelin C-52 and similar machines a known plaintext attack, <it>Cryptologia</it>, 23(2), July 1999, pp139&ndash;156.</entry>
+ H. Paul Greenough, Cryptanalysis of the Hagelin C-52 and similar machines a known plaintext attack, <it>Cryptologia</it>, 23(2), July 1999, pp139–156.</entry>
 <entry level="1" type="bullet">
 
- Louis Kruh, The Hagelin Cryptographer, Type C-52, <it>Cryptologia</it> 3(2), April 1979, pp78&ndash;82.</entry>
+ Louis Kruh, The Hagelin Cryptographer, Type C-52, <it>Cryptologia</it> 3(2), April 1979, pp78–82.</entry>
 </list>
 </p>
 
@@ -152,12 +152,12 @@ Dirk Rijmenants' Hagelin BC-52 Simulator</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://hem.passagen.se/tan01/cx52.html">
-The HAGELIN cryptographer CX-52</weblink> by Torbjorn Andersson &mdash; a write-up, photograph and a <link xlink:type="simple" xlink:href="../663/465663.xml">
+The HAGELIN cryptographer CX-52</weblink> by Torbjorn Andersson — a write-up, photograph and a <link xlink:type="simple" xlink:href="../663/465663.xml">
 QBASIC</link> simulator.</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.jproc.ca/crypto/cx52.html">
-Jerry Proc's page on the CX-52</weblink> &mdash; also covers the B-52 keyboard unit.</entry>
+Jerry Proc's page on the CX-52</weblink> — also covers the B-52 keyboard unit.</entry>
 <entry level="1" type="bullet">
 
  Photographs: <weblink xlink:type="simple" xlink:href="http://home.ca.inter.net/~hagelin/C52-1.jpg">
@@ -170,7 +170,7 @@ http://www.homeworlds.com/crypto/Cipher_Machines_Pictures.html</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.jproc.ca/crypto/hell54.html">
-Jerry Proc's page on the Hell 54</weblink> &mdash; a licensed copy of the C-52 by Hell</entry>
+Jerry Proc's page on the Hell 54</weblink> — a licensed copy of the C-52 by Hell</entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.codasaurus.com/ubb/Forum29/HTML/000040.html">
@@ -196,7 +196,7 @@ CX-52 Cryptographic Machine &amp; B-52 Motorized Base</weblink></entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;Cipher machines</header>
+ Cipher machines</header>
 </row>
 <row style="height:2px;">
 
@@ -214,7 +214,7 @@ CCM</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -224,8 +224,8 @@ Enigma</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
-M&nbsp;&ndash; 
+ &#124; 
+M – 
 125 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -235,7 +235,7 @@ Fialka</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -245,7 +245,7 @@ Hebern</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -255,7 +255,7 @@ HX-63</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -265,7 +265,7 @@ KL-7</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -275,7 +275,7 @@ Lacida</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -285,7 +285,7 @@ M-325</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -295,7 +295,7 @@ Mercury</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -305,7 +305,7 @@ NEMA</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -315,7 +315,7 @@ OMI</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -325,7 +325,7 @@ Portex</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -335,7 +335,7 @@ SIGABA</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -345,7 +345,7 @@ SIGCUM</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -355,7 +355,7 @@ Singlet</link></machine>
 </device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -375,7 +375,7 @@ Typex</link></machine>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Mechanical:</b> <link xlink:type="simple" xlink:href="../993/854993.xml">
-Bazeries cylinder</link>&nbsp;&#124; 
+Bazeries cylinder</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -383,7 +383,7 @@ Bazeries cylinder</link>&nbsp;&#124;
 C-36</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -391,7 +391,7 @@ C-36</link></device>
 C-52</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -399,7 +399,7 @@ C-52</link></device>
 CD-57</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -407,7 +407,7 @@ CD-57</link></device>
 Cipher disk</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -415,7 +415,7 @@ Cipher disk</link></device>
 HC-9</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -423,7 +423,7 @@ HC-9</link></device>
 Kryha</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -431,7 +431,7 @@ Kryha</link></device>
 Jefferson disk</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -443,7 +443,7 @@ M-94</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -451,13 +451,13 @@ M-94</link></cipher>
 M-209</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../199/1582199.xml">
 Reihenschieber</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -485,7 +485,7 @@ Scytale</link></cipher>
 5-UCO</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -493,7 +493,7 @@ Scytale</link></cipher>
 BID 770</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -501,7 +501,7 @@ BID 770</link></device>
 KW-26</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -509,9 +509,9 @@ KW-26</link></device>
 KW-37</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../173/301173.xml">
-Lorenz SZ 40/42</link>&nbsp;&#124; 
+Lorenz SZ 40/42</link> &#124; 
 <link xlink:type="simple" xlink:href="../403/304403.xml">
 Siemens and Halske T52</link></p>
 </col>
@@ -524,9 +524,9 @@ Siemens and Halske T52</link></p>
 
 <b><link xlink:type="simple" xlink:href="../035/1560035.xml">
 Secure voice</link>:</b> <link xlink:type="simple" xlink:href="../593/10500593.xml">
-BID 150</link>&nbsp;&#124; 
+BID 150</link> &#124; 
 <link xlink:type="simple" xlink:href="../526/18918526.xml">
-FASCINATOR</link>&nbsp;&#124; 
+FASCINATOR</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -534,7 +534,7 @@ FASCINATOR</link>&nbsp;&#124;
 KY-3</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -542,7 +542,7 @@ KY-3</link></device>
 KY-57</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -550,7 +550,7 @@ KY-57</link></device>
 KY-58</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -558,7 +558,7 @@ KY-58</link></device>
 KY-68</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -566,11 +566,11 @@ KY-68</link></device>
 OMNI</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../994/1058994.xml">
-SCIP</link>&nbsp;&#124; 
+SCIP</link> &#124; 
 <link>
-Sectéra Secure Module</link>&nbsp;&#124; 
+Sectéra Secure Module</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -578,7 +578,7 @@ Sectéra Secure Module</link>&nbsp;&#124;
 SIGSALY</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -586,7 +586,7 @@ SIGSALY</link></device>
 STE</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -594,7 +594,7 @@ STE</link></device>
 STU-II</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -602,7 +602,7 @@ STU-II</link></device>
 STU-III</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -620,7 +620,7 @@ VINSON</link></device>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Miscellaneous:</b> <link xlink:type="simple" xlink:href="../726/1383726.xml">
-JADE</link>&nbsp;&#124; 
+JADE</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -628,7 +628,7 @@ JADE</link>&nbsp;&#124;
 KG-84</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -636,9 +636,9 @@ KG-84</link></device>
 KL-43</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../481/3429481.xml">
-Noreen</link>&nbsp;&#124; 
+Noreen</link> &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -646,7 +646,7 @@ Noreen</link>&nbsp;&#124;
 PURPLE</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -654,7 +654,7 @@ PURPLE</link></device>
 Pinwheel</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&#124; 
+ &#124; 
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -679,7 +679,7 @@ Rockex</link></device>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

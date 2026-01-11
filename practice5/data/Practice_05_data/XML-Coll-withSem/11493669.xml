@@ -29,7 +29,7 @@ A <b>handle</b> is a particular kind of <link xlink:type="simple" xlink:href="..
 smart pointer</link>. Handles are used when an application references blocks of memory or objects managed by another system, such as a <link xlink:type="simple" xlink:href="../377/8377.xml">
 database</link> or an <link xlink:type="simple" xlink:href="../194/22194.xml">
 operating system</link>. While a pointer literally contains the address of the item to which it refers, a handle is an <link xlink:type="simple" xlink:href="../491/60491.xml">
-abstract</link> reference controlled by a separate system; its opacity allows the referent to be relocated in memory by the system without invalidating the handle &mdash; impossible with pointers. The extra layer of <link xlink:type="simple" xlink:href="../206/166206.xml">
+abstract</link> reference controlled by a separate system; its opacity allows the referent to be relocated in memory by the system without invalidating the handle — impossible with pointers. The extra layer of <link xlink:type="simple" xlink:href="../206/166206.xml">
 indirection</link> also increases the control the managing system has over operations performed on the referent (see <link xlink:type="simple" xlink:href="../501/79501.xml">
 information hiding</link>, <link xlink:type="simple" xlink:href="../301/10301.xml">
 encapsulation</link>).    </p>

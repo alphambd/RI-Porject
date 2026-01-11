@@ -241,7 +241,7 @@ Per Brinch Hansen</link></associate>
  was the first to describe and implement monitors, basing them on ideas from <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../434/39434.xml">
-C.&nbsp;A.&nbsp;R. Hoare</link></scientist>
+C. A. R. Hoare</link></scientist>
 </person>
 . Hoare subsequently developed the theoretical framework and demonstrated their equivalence to <link xlink:type="simple" xlink:href="../557/164557.xml">
 semaphores</link> (when using the original semantics).</p>

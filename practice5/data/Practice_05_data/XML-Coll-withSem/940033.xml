@@ -65,10 +65,10 @@ CMA-ES</link></algorithm>
 ). </p>
 <p>
 
-The (environmental) selection in evolution strategies is deterministic and only based on the fitness rankings, not on the actual fitness values. The simplest ES operates on a population of size two: the current point (parent) and the result of its mutation. Only if the mutant has a higher fitness than the parent, it becomes the parent of the next generation. Otherwise the mutant is disregarded. This is a (1+1)-ES. More generally, λ mutants can be generated and compete with the parent, called (1&nbsp;+&nbsp;λ)-ES. In a (1,&nbsp;λ)-ES the best mutant becomes the parent of the next generation while the current parent is always disregarded.</p>
+The (environmental) selection in evolution strategies is deterministic and only based on the fitness rankings, not on the actual fitness values. The simplest ES operates on a population of size two: the current point (parent) and the result of its mutation. Only if the mutant has a higher fitness than the parent, it becomes the parent of the next generation. Otherwise the mutant is disregarded. This is a (1+1)-ES. More generally, λ mutants can be generated and compete with the parent, called (1 + λ)-ES. In a (1, λ)-ES the best mutant becomes the parent of the next generation while the current parent is always disregarded.</p>
 <p>
 
-Contemporary derivatives of evolution strategy often use a population of μ parents and also recombination as an additional operator (called (μ/ρ+,&nbsp;λ)-ES). This is believed to make them less prone to get stuck in local optima.</p>
+Contemporary derivatives of evolution strategy often use a population of μ parents and also recombination as an additional operator (called (μ/ρ+, λ)-ES). This is believed to make them less prone to get stuck in local optima.</p>
 
 <sec>
 <st>

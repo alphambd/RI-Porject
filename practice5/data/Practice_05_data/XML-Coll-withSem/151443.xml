@@ -117,8 +117,8 @@ simultaneous multithreading</link> in general.</p>
  Details </st>
 <p>
 
-Hyper-Threading works by duplicating certain sections of the processor&mdash;those that store the <link xlink:type="simple" xlink:href="../789/325789.xml">
-architectural state</link>&mdash;but not duplicating the main execution resources.  This allows a Hyper-Threading equipped processor to pretend to be two "logical" processors to the host operating system, allowing the operating system to schedule two threads or processes simultaneously.  Where execution resources in a non-Hyper-Threading capable processor are not used by the current task, and especially when the processor is stalled, a Hyper-Threading equipped processor may use those execution resources to execute another scheduled task.   (The processor may stall due to a <link xlink:type="simple" xlink:href="../181/849181.xml#xpointer(//*[./st=%22Cache+misses%22])">
+Hyper-Threading works by duplicating certain sections of the processor—those that store the <link xlink:type="simple" xlink:href="../789/325789.xml">
+architectural state</link>—but not duplicating the main execution resources.  This allows a Hyper-Threading equipped processor to pretend to be two "logical" processors to the host operating system, allowing the operating system to schedule two threads or processes simultaneously.  Where execution resources in a non-Hyper-Threading capable processor are not used by the current task, and especially when the processor is stalled, a Hyper-Threading equipped processor may use those execution resources to execute another scheduled task.   (The processor may stall due to a <link xlink:type="simple" xlink:href="../181/849181.xml#xpointer(//*[./st=%22Cache+misses%22])">
 cache miss</link>, <link xlink:type="simple" xlink:href="../877/879877.xml">
 branch misprediction</link>, or <link xlink:type="simple" xlink:href="../217/4118217.xml">
 data dependency</link>.)</p>

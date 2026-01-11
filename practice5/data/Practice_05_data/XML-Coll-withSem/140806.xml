@@ -365,7 +365,7 @@ which has solutions <it>p</it>=0, <it>p</it>=1, and <it>p</it>=49/80. The soluti
 <p>
 
 This result is easily generalized by substituting a letter such as <it>t</it> in the place of 49 to represent the observed number of 'successes' of our <link xlink:type="simple" xlink:href="../653/102653.xml">
-Bernoulli trial</link>s, and a letter such as <it>n</it> in the place of 80 to represent the number of Bernoulli trials. Exactly the same calculation yields the <it>maximum likelihood estimator</it> <it>t</it>&nbsp;/&nbsp;<it>n</it> for any sequence of <it>n</it> Bernoulli trials resulting in <it>t</it> 'successes'.</p>
+Bernoulli trial</link>s, and a letter such as <it>n</it> in the place of 80 to represent the number of Bernoulli trials. Exactly the same calculation yields the <it>maximum likelihood estimator</it> <it>t</it> / <it>n</it> for any sequence of <it>n</it> Bernoulli trials resulting in <it>t</it> 'successes'.</p>
 
 </ss1>
 <ss1>
@@ -685,10 +685,10 @@ A.W. van der Vaart, Asymptotic Statistics (Cambridge Series in Statistical and P
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Kay, Steven M.&#32;(1993). Fundamentals of Statistical Signal Processing: Estimation Theory.&#32;Prentice Hall,&#32;Ch. 7. ISBN 0-13-345711-7.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Kay, Steven M.&#32;(1993). Fundamentals of Statistical Signal Processing: Estimation Theory.&#32;Prentice Hall,&#32;Ch. 7. ISBN 0-13-345711-7.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Lehmann, E. L.;&#32;Casella, G.&#32;(1998). Theory of Point Estimation.&#32;Springer,&#32;2nd ed. ISBN 0-387-98502-6.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Lehmann, E. L.;&#32;Casella, G.&#32;(1998). Theory of Point Estimation.&#32;Springer,&#32;2nd ed. ISBN 0-387-98502-6.</cite> </entry>
 <entry level="1" type="bullet">
 
  A paper on the history of Maximum Likelihood:  <cite style="font-style:normal">Aldrich, John&#32;(1997).&#32;"<weblink xlink:type="simple" xlink:href="http://projecteuclid.org/Dienst/UI/1.0/Summarize/euclid.ss/1030037906">
@@ -700,7 +700,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1214%2Fss%2F1030037906">
-10.1214/ss/1030037906</weblink>.</cite>&nbsp;</entry>
+10.1214/ss/1030037906</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  M. I. Ribeiro, <weblink xlink:type="simple" xlink:href="http://users.isr.ist.utl.pt/~mir/pub/probability.pdf">
@@ -745,10 +745,10 @@ Statistics</link></header>
 Design of experiments</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../585/27585.xml">
-Population</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../361/160361.xml">
-Sampling</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../596/27596.xml">
-Stratified sampling</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../262/10306262.xml">
-Replication</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../339/1822339.xml">
+Population</link> &amp;bull; <link xlink:type="simple" xlink:href="../361/160361.xml">
+Sampling</link> &amp;bull; <link xlink:type="simple" xlink:href="../596/27596.xml">
+Stratified sampling</link> &amp;bull; <link xlink:type="simple" xlink:href="../262/10306262.xml">
+Replication</link> &amp;bull; <link xlink:type="simple" xlink:href="../339/1822339.xml">
 Blocking</link></col>
 </row>
 <row style="height:2px">
@@ -760,10 +760,10 @@ Blocking</link></col>
 Sample size estimation</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../673/226673.xml">
-Null hypothesis</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../892/645892.xml">
-Alternative hypothesis</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../877/5657877.xml">
-Type I and type II errors</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../695/238695.xml">
-Statistical power</link>&nbsp;&amp;bull; <know-how wordnetid="105616786" confidence="0.8">
+Null hypothesis</link> &amp;bull; <link xlink:type="simple" xlink:href="../892/645892.xml">
+Alternative hypothesis</link> &amp;bull; <link xlink:type="simple" xlink:href="../877/5657877.xml">
+Type I and type II errors</link> &amp;bull; <link xlink:type="simple" xlink:href="../695/238695.xml">
+Statistical power</link> &amp;bull; <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../276/437276.xml">
 Effect size</link></method>
@@ -810,8 +810,8 @@ Location</link></col>
 Mean</link> (<link xlink:type="simple" xlink:href="../612/612.xml">
 Arithmetic</link>, <link xlink:type="simple" xlink:href="../046/13046.xml">
 Geometric</link>, <link xlink:type="simple" xlink:href="../463/14463.xml">
-Harmonic</link>)&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../837/18837.xml">
-Median</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../127/1432127.xml">
+Harmonic</link>) &amp;bull; <link xlink:type="simple" xlink:href="../837/18837.xml">
+Median</link> &amp;bull; <link xlink:type="simple" xlink:href="../127/1432127.xml">
 Mode</link></col>
 </row>
 <row style="height:2px">
@@ -823,9 +823,9 @@ Mode</link></col>
 Dispersion</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../588/27588.xml">
-Range</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../590/27590.xml">
-Standard deviation</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../687/1012687.xml">
-Coefficient of variation</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../907/354907.xml">
+Range</link> &amp;bull; <link xlink:type="simple" xlink:href="../590/27590.xml">
+Standard deviation</link> &amp;bull; <link xlink:type="simple" xlink:href="../687/1012687.xml">
+Coefficient of variation</link> &amp;bull; <link xlink:type="simple" xlink:href="../907/354907.xml">
 Percentile</link></col>
 </row>
 <row style="height:2px">
@@ -837,8 +837,8 @@ Percentile</link></col>
 Moments</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../344/32344.xml">
-Variance</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../212/28212.xml">
-Skewness</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../848/16848.xml">
+Variance</link> &amp;bull; <link xlink:type="simple" xlink:href="../212/28212.xml">
+Skewness</link> &amp;bull; <link xlink:type="simple" xlink:href="../848/16848.xml">
 Kurtosis</link></col>
 </row>
 </table>
@@ -863,7 +863,7 @@ Categorical data</link></kind>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../019/4839019.xml">
-Frequency</link>&nbsp;&amp;bull; <information wordnetid="105816287" confidence="0.8">
+Frequency</link> &amp;bull; <information wordnetid="105816287" confidence="0.8">
 <datum wordnetid="105816622" confidence="0.8">
 <link xlink:type="simple" xlink:href="../515/935515.xml">
 Contingency table</link></datum>
@@ -882,9 +882,9 @@ Contingency table</link></datum>
 Inferential statistics</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../571/49571.xml">
-Bayesian inference</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../284/30284.xml">
-Hypothesis testing</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../995/160995.xml">
-Significance</link>&nbsp;&amp;bull; <process wordnetid="105701363" confidence="0.8">
+Bayesian inference</link> &amp;bull; <link xlink:type="simple" xlink:href="../284/30284.xml">
+Hypothesis testing</link> &amp;bull; <link xlink:type="simple" xlink:href="../995/160995.xml">
+Significance</link> &amp;bull; <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -899,7 +899,7 @@ Z-test</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;&amp;bull; <process wordnetid="105701363" confidence="0.8">
+ &amp;bull; <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -914,7 +914,7 @@ Student's t-test</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;&amp;bull; <process wordnetid="105701363" confidence="0.8">
+ &amp;bull; <process wordnetid="105701363" confidence="0.8">
 <information wordnetid="105816287" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
@@ -933,7 +933,7 @@ Chi-square test</link></higher_cognitive_process>
 </inquiry>
 </information>
 </process>
-&nbsp;&amp;bull; <process wordnetid="105701363" confidence="0.8">
+ &amp;bull; <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -948,16 +948,16 @@ F-test</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../994/554994.xml">
-P-value</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../381/160381.xml">
-Interval estimation</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../806/140806.xml">
-Maximum likelihood</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../533/19456533.xml">
-Minimum distance</link>&nbsp;&amp;bull; <know-how wordnetid="105616786" confidence="0.8">
+ &amp;bull; <link xlink:type="simple" xlink:href="../994/554994.xml">
+P-value</link> &amp;bull; <link xlink:type="simple" xlink:href="../381/160381.xml">
+Interval estimation</link> &amp;bull; <link xlink:type="simple" xlink:href="../806/140806.xml">
+Maximum likelihood</link> &amp;bull; <link xlink:type="simple" xlink:href="../533/19456533.xml">
+Minimum distance</link> &amp;bull; <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../329/62329.xml">
 Meta-analysis</link></method>
 </know-how>
-&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../911/280911.xml">
+ &amp;bull; <link xlink:type="simple" xlink:href="../911/280911.xml">
 Confidence interval</link></col>
 </row>
 <row style="height:2px">
@@ -969,8 +969,8 @@ Confidence interval</link></col>
 Survival analysis</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../178/4649178.xml">
-Survival function</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../650/3168650.xml">
-Kaplan-Meier</link>&nbsp;&amp;bull; <process wordnetid="105701363" confidence="0.8">
+Survival function</link> &amp;bull; <link xlink:type="simple" xlink:href="../650/3168650.xml">
+Kaplan-Meier</link> &amp;bull; <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -985,8 +985,8 @@ Logrank test</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../960/1336960.xml">
-Failure rate</link>&nbsp;&amp;bull; <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull; <link xlink:type="simple" xlink:href="../960/1336960.xml">
+Failure rate</link> &amp;bull; <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -1010,8 +1010,8 @@ Proportional hazards models</link></causal_agent>
 Correlation</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../999/3105999.xml">
-Confounding variable</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../708/221708.xml">
-Pearson product-moment correlation coefficient</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../627/3316627.xml">
+Confounding variable</link> &amp;bull; <link xlink:type="simple" xlink:href="../708/221708.xml">
+Pearson product-moment correlation coefficient</link> &amp;bull; <link xlink:type="simple" xlink:href="../627/3316627.xml">
 Rank correlation</link> (<process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
@@ -1065,8 +1065,8 @@ Linear model</link></causal_agent>
 s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../698/877698.xml">
-General linear model</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../122/747122.xml">
-Generalized linear model</link>&nbsp;&amp;bull; <process wordnetid="105701363" confidence="0.8">
+General linear model</link> &amp;bull; <link xlink:type="simple" xlink:href="../122/747122.xml">
+Generalized linear model</link> &amp;bull; <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -1081,7 +1081,7 @@ Analysis of variance</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../926/404926.xml">
+ &amp;bull; <link xlink:type="simple" xlink:href="../926/404926.xml">
 Analysis of covariance</link></col>
 </row>
 <row style="height:2px">
@@ -1093,8 +1093,8 @@ Analysis of covariance</link></col>
 Regression analysis</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../903/17903.xml">
-Linear regression</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../012/1045012.xml">
-Nonlinear regression</link>&nbsp;&amp;bull; <information wordnetid="105816287" confidence="0.8">
+Linear regression</link> &amp;bull; <link xlink:type="simple" xlink:href="../012/1045012.xml">
+Nonlinear regression</link> &amp;bull; <information wordnetid="105816287" confidence="0.8">
 <datum wordnetid="105816622" confidence="0.8">
 <link xlink:type="simple" xlink:href="../631/226631.xml">
 Logistic regression</link></datum>
@@ -1114,17 +1114,17 @@ Statistical graphics</link></visual_communication>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../311/393311.xml">
-Bar chart</link>&nbsp;&amp;bull; <chart wordnetid="106999802" confidence="0.8">
+Bar chart</link> &amp;bull; <chart wordnetid="106999802" confidence="0.8">
 <visual_communication wordnetid="106873252" confidence="0.8">
 <link xlink:type="simple" xlink:href="../166/14306166.xml">
 Biplot</link></visual_communication>
 </chart>
-&nbsp;&amp;bull; <chart wordnetid="106999802" confidence="0.8">
+ &amp;bull; <chart wordnetid="106999802" confidence="0.8">
 <visual_communication wordnetid="106873252" confidence="0.8">
 <link xlink:type="simple" xlink:href="../960/160960.xml">
 Box plot</link></visual_communication>
 </chart>
-&nbsp;&amp;bull; <artifact wordnetid="100021939" confidence="0.8">
+ &amp;bull; <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <chart wordnetid="106999802" confidence="0.8">
@@ -1137,7 +1137,7 @@ Control chart</link></visual_communication>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;&amp;bull; <know-how wordnetid="105616786" confidence="0.8">
+ &amp;bull; <know-how wordnetid="105616786" confidence="0.8">
 <chart wordnetid="106999802" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <visual_communication wordnetid="106873252" confidence="0.8">
@@ -1146,14 +1146,14 @@ Forest plot</link></visual_communication>
 </method>
 </chart>
 </know-how>
-&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../266/13266.xml">
-Histogram</link>&nbsp;&amp;bull; <chart wordnetid="106999802" confidence="0.8">
+ &amp;bull; <link xlink:type="simple" xlink:href="../266/13266.xml">
+Histogram</link> &amp;bull; <chart wordnetid="106999802" confidence="0.8">
 <visual_communication wordnetid="106873252" confidence="0.8">
 <link xlink:type="simple" xlink:href="../859/4031859.xml">
 Q-Q plot</link></visual_communication>
 </chart>
-&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../749/6392749.xml">
-Run chart</link>&nbsp;&amp;bull; <artifact wordnetid="100021939" confidence="0.8">
+ &amp;bull; <link xlink:type="simple" xlink:href="../749/6392749.xml">
+Run chart</link> &amp;bull; <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <chart wordnetid="106999802" confidence="0.8">
@@ -1166,7 +1166,7 @@ Scatterplot</link></visual_communication>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;&amp;bull; <chart wordnetid="106999802" confidence="0.8">
+ &amp;bull; <chart wordnetid="106999802" confidence="0.8">
 <visual_communication wordnetid="106873252" confidence="0.8">
 <link xlink:type="simple" xlink:href="../649/977649.xml">
 Stemplot</link></visual_communication>
@@ -1182,8 +1182,8 @@ Stemplot</link></visual_communication>
 History</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../442/14986442.xml">
-History of statistics</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../208/19095208.xml">
-Founders of statistics</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../692/19373692.xml">
+History of statistics</link> &amp;bull; <link xlink:type="simple" xlink:href="../208/19095208.xml">
+Founders of statistics</link> &amp;bull; <link xlink:type="simple" xlink:href="../692/19373692.xml">
 Timeline of probability and statistics</link></col>
 </row>
 <row style="height:2px">
@@ -1194,7 +1194,7 @@ Timeline of probability and statistics</link></col>
 Publications</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../827/18753827.xml">
-Journals in statistics</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../879/708879.xml">
+Journals in statistics</link> &amp;bull; <link xlink:type="simple" xlink:href="../879/708879.xml">
 Important publications</link></col>
 </row>
 <row style="height:2px;">
@@ -1203,8 +1203,8 @@ Important publications</link></col>
 <row>
 <col colspan="2" style=";" class="navbox-abovebelow">
 <b>
-Statistics|Category</b>&nbsp;&amp;bull; <b>
-Portal</b>&nbsp;&amp;bull; <b><link xlink:type="simple" xlink:href="../457/191457.xml">
+Statistics|Category</b> &amp;bull; <b>
+Portal</b> &amp;bull; <b><link xlink:type="simple" xlink:href="../457/191457.xml">
 List of topics</link></b></col>
 </row>
 </table>

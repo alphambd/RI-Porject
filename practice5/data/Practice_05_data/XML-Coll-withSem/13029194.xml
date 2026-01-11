@@ -24,7 +24,7 @@ In <link xlink:type="simple" xlink:href="../685/26685.xml">
 statistics</link>, <b>single linkage</b> (or "nearest neighbor") is a method of calculating distances between clusters in <link xlink:type="simple" xlink:href="../675/669675.xml#xpointer(//*[./st=%22Agglomerative+hierarchical+clustering%22])">
  hierarchical cluster analysis</link>. In single linkage, the distance between two clusters is computed as the distance between the two closest elements in the two clusters.<p>
 
-Mathematically, the linkage function &mdash; the distance <math>D(X,Y)</math> between clusters <math>X</math> and <math>Y</math> &mdash; is described by the following expression :
+Mathematically, the linkage function — the distance <math>D(X,Y)</math> between clusters <math>X</math> and <math>Y</math> — is described by the following expression :
 <math>D(X,Y)= \min(d(x,y))</math></p>
 <p>
 
@@ -48,7 +48,7 @@ A drawback of this method is the so-called <it>chaining phenomenon</it>: cluster
 
 <p>
 
-The following algorithm is an agglomerative scheme that erases rows and columns in a proximity matrix as old clusters are merged into new ones. The <math>N \times N</math> proximity matrix <it>D</it> contains all distances <it>d</it>(<it>i</it>,<it>j</it>). The clusterings are assigned sequence numbers 0,1,......, (<it>n</it>&nbsp;&amp;minus;&nbsp;1) and <it>L</it>(<it>k</it>) is the level of the kth clustering. A cluster with sequence number <it>m</it> is denoted (<it>m</it>) and the proximity between clusters (<it>r</it>) and (<it>s</it>) is denoted <it>d</it>[(''r''),(''s'')].</p>
+The following algorithm is an agglomerative scheme that erases rows and columns in a proximity matrix as old clusters are merged into new ones. The <math>N \times N</math> proximity matrix <it>D</it> contains all distances <it>d</it>(<it>i</it>,<it>j</it>). The clusterings are assigned sequence numbers 0,1,......, (<it>n</it> &amp;minus; 1) and <it>L</it>(<it>k</it>) is the level of the kth clustering. A cluster with sequence number <it>m</it> is denoted (<it>m</it>) and the proximity between clusters (<it>r</it>) and (<it>s</it>) is denoted <it>d</it>[(''r''),(''s'')].</p>
 <p>
 
 The algorithm is composed of the following steps:</p>
@@ -63,7 +63,7 @@ The algorithm is composed of the following steps:</p>
  Find the least dissimilar pair of clusters in the current clustering, say pair (r), (s), according to <it>d</it>[(''r''),(''s'')] = min <it>d</it>[(''i''),(''j'')] where the minimum is over all pairs of clusters in the current clustering.</entry>
 <entry level="1" type="number">
 
- Increment the sequence number: <it>m</it> = <it>m</it>&nbsp;+&nbsp;1. Merge clusters (<it>r</it>) and (<it>s</it>) into a single cluster to form the next clustering <it>m</it>. Set the level of this clustering to <it>L</it>(<it>m</it>) = <it>d</it>[(''r''),(''s'')]</entry>
+ Increment the sequence number: <it>m</it> = <it>m</it> + 1. Merge clusters (<it>r</it>) and (<it>s</it>) into a single cluster to form the next clustering <it>m</it>. Set the level of this clustering to <it>L</it>(<it>m</it>) = <it>d</it>[(''r''),(''s'')]</entry>
 <entry level="1" type="number">
 
  Update the proximity matrix, <it>D</it>, by deleting the rows and columns corresponding to clusters (<it>r</it>) and (<it>s</it>) and adding a row and column corresponding to the newly formed cluster. The proximity between the new cluster, denoted (<it>r</it>,<it>s</it>) and old cluster (<it>k</it>) is defined as <it>d</it>[(''k''), (''r'',''s'')] = min <it>d</it>[(''k''),(''r'')], <it>d</it>[(''k''),(''s'')].</entry>

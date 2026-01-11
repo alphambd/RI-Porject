@@ -308,14 +308,14 @@ Cities and areas</col>
 <link xlink:type="simple" xlink:href="../831/11741831.xml">
 Abu al Abyad</link></island>
 </land>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../756/18950756.xml">
 Abu Dhabi</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../131/212131.xml">
 Al Ain</link></village>
-&nbsp;·  <link xlink:type="simple" xlink:href="../069/18673069.xml">
-Al-Aryam Island</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../069/18673069.xml">
+Al-Aryam Island</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -332,14 +332,14 @@ Al Mushrif</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <link>
-Bahrani Island</link>&nbsp;·  <land wordnetid="109334396" confidence="0.8">
+ ·  <link>
+Bahrani Island</link> ·  <land wordnetid="109334396" confidence="0.8">
 <island wordnetid="109316454" confidence="0.8">
 <link xlink:type="simple" xlink:href="../783/2444783.xml">
 Dalma</link></island>
 </land>
-&nbsp;·  <link xlink:type="simple" xlink:href="../134/8495134.xml">
-Habshan</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../134/8495134.xml">
+Habshan</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -356,7 +356,7 @@ Khalifa City</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
 <geographical_area wordnetid="108574314" confidence="0.8">
@@ -367,7 +367,7 @@ Liwa Oasis</link></oasis>
 </tract>
 </location>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -382,7 +382,7 @@ Marawah</link></island>
 </location>
 </region>
 </site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -399,7 +399,7 @@ Mussafah</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <port wordnetid="108633957" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
 <geographic_point wordnetid="108578706" confidence="0.8">
@@ -422,7 +422,7 @@ Port Zayed</link></urban_area>
 </point>
 </port>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -439,7 +439,7 @@ Ruwais</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -456,7 +456,7 @@ Sila</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -467,7 +467,7 @@ Sir Bani Yas</link></geographical_area>
 </location>
 </region>
 </site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../097/12439097.xml">
+ ·  <link xlink:type="simple" xlink:href="../097/12439097.xml">
 Yas Island</link></col>
 </row>
 <row style="height:2px">
@@ -480,7 +480,7 @@ Government</col>
 <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../691/13880691.xml">
 Al Nahyan Family</link></family>
-&nbsp;·  <link xlink:type="simple" xlink:href="../854/1129854.xml">
+ ·  <link xlink:type="simple" xlink:href="../854/1129854.xml">
 Khalifa bin Zayed Al Nahyan</link></col>
 </row>
 <row style="height:2px">
@@ -499,20 +499,20 @@ Louvre Abu Dhabi</link></museum>
 </depository>
 </facility>
 </artifact>
-&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/16655383.xml">
 Guggenheim Abu Dhabi</link></museum>
-&nbsp;·  <link xlink:type="simple" xlink:href="../789/16396789.xml">
-Cultural Foundation</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../789/16396789.xml">
+Cultural Foundation</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../314/7364314.xml">
 Qasr al-Hosn</link></artifact>
 </building>
 </structure>
-&nbsp;·  <link>
-Abu Dhabi Performing Arts Center</link>&nbsp;·  <link>
-Abu Dhabi Maritime Museum</link>&nbsp;·  <link>
+ ·  <link>
+Abu Dhabi Performing Arts Center</link> ·  <link>
+Abu Dhabi Maritime Museum</link> ·  <link>
 Zayed Museum</link></col>
 </row>
 <row style="height:2px">
@@ -545,11 +545,11 @@ Port Zayed</link></urban_area>
 </point>
 </port>
 </region>
-&nbsp;·  <airport wordnetid="102692232" confidence="0.9508927676800064">
+ ·  <airport wordnetid="102692232" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../794/487794.xml">
 Abu Dhabi International Airport</link></airport>
-&nbsp;·  <link>
-Zayed Bridge</link>&nbsp;·  <link>
+ ·  <link>
+Zayed Bridge</link> ·  <link>
 Saadiyat Bridge</link></col>
 </row>
 <row style="height:2px">
@@ -564,16 +564,16 @@ Real Estate Projects</col>
 <link xlink:type="simple" xlink:href="../000/5585000.xml">
 Lulu Island</link></island>
 </land>
-&nbsp;·  <link xlink:type="simple" xlink:href="../028/5585028.xml">
-Al Raha</link>&nbsp;·  <link xlink:type="simple" xlink:href="../015/5585015.xml">
-Al Reem Island</link>&nbsp;·  <skyscraper wordnetid="104233124" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../028/5585028.xml">
+Al Raha</link> ·  <link xlink:type="simple" xlink:href="../015/5585015.xml">
+Al Reem Island</link> ·  <skyscraper wordnetid="104233124" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../912/16634912.xml">
 Central Market Project</link></skyscraper>
-&nbsp;·  <link xlink:type="simple" xlink:href="../683/16103683.xml">
-Marina Bay</link>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../683/16103683.xml">
+Marina Bay</link> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/13907393.xml">
 Masdar City</link></village>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -594,7 +594,7 @@ Saadiyat Island</link></geographical_area>
 Miscellaneous</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../111/17439111.xml">
-List of tallest buildings in Abu Dhabi</link>&nbsp;·  <link xlink:type="simple" xlink:href="../440/1801440.xml">
+List of tallest buildings in Abu Dhabi</link> ·  <link xlink:type="simple" xlink:href="../440/1801440.xml">
 List of birds on stamps of Abu Dhabi</link></col>
 </row>
 <row style="height:2px">
@@ -605,10 +605,10 @@ List of birds on stamps of Abu Dhabi</link></col>
 Sister Cities</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../774/13774.xml">
-Houston</link>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+Houston</link> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../444/18642444.xml">
 Madrid</link></village>
-&nbsp;·  <link xlink:type="simple" xlink:href="../033/2392033.xml">
+ ·  <link xlink:type="simple" xlink:href="../033/2392033.xml">
 Rahim Yar Khan</link></col>
 </row>
 </table>

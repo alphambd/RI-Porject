@@ -266,12 +266,12 @@ Dad's Army</link></series>
 <link xlink:type="simple" xlink:href="../481/251481.xml">
 Arthur Lowe</link></actor>
 </person>
-</b>&nbsp;• <b><person wordnetid="100007846" confidence="0.9508927676800064">
+</b> • <b><person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../382/163382.xml">
 John Le Mesurier</link></actor>
 </person>
-</b>&nbsp;• <b><person wordnetid="100007846" confidence="0.9508927676800064">
+</b> • <b><person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../131/576131.xml">
 Clive Dunn</link></actor>
@@ -281,17 +281,17 @@ Clive Dunn</link></actor>
 <link xlink:type="simple" xlink:href="../902/1518902.xml">
 John Laurie</link></actor>
 </person>
-</b>&nbsp;• <b><person wordnetid="100007846" confidence="0.9508927676800064">
+</b> • <b><person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../998/1518998.xml">
 James Beck</link></actor>
 </person>
-</b>&nbsp;• <b><person wordnetid="100007846" confidence="0.9508927676800064">
+</b> • <b><person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../159/592159.xml">
 Arnold Ridley</link></actor>
 </person>
-</b>&nbsp;• <b><person wordnetid="100007846" confidence="0.9508927676800064">
+</b> • <b><person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../451/1375451.xml">
 Ian Lavender</link></actor>
@@ -301,17 +301,17 @@ Ian Lavender</link></actor>
 <link xlink:type="simple" xlink:href="../958/151958.xml">
 Bill Pertwee</link></actor>
 </person>
-&nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+ • <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../194/2511194.xml">
 Frank Williams</link></actor>
 </person>
- &nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+  • <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../328/3452328.xml">
 Edward Sinclair</link></actor>
 </person>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <performer wordnetid="110415638" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -324,7 +324,7 @@ Janet Davies</link></entertainer>
 </performer>
 </person>
 </physical_entity>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <performer wordnetid="110415638" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">

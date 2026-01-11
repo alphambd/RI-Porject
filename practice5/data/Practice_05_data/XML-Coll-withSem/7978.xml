@@ -328,7 +328,7 @@ Whitfield Diffie</link></decoder>
 </physical_entity>
 , citing a shortened <link xlink:type="simple" xlink:href="../749/5749.xml">
 key length</link> and the mysterious "<link xlink:type="simple" xlink:href="../991/240991.xml">
-S-box</link>es" as evidence of improper interference from the NSA. The suspicion was that the algorithm had been covertly weakened by the intelligence agency so that they &mdash; but no-one else &mdash; could easily read encrypted messages. Alan Konheim (one of the designers of DES) commented, "We sent the S-boxes off to Washington. They came back and were all different."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref>  The <administrative_unit wordnetid="108077292" confidence="0.8">
+S-box</link>es" as evidence of improper interference from the NSA. The suspicion was that the algorithm had been covertly weakened by the intelligence agency so that they — but no-one else — could easily read encrypted messages. Alan Konheim (one of the designers of DES) commented, "We sent the S-boxes off to Washington. They came back and were all different."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref>  The <administrative_unit wordnetid="108077292" confidence="0.8">
 <committee wordnetid="108324514" confidence="0.8">
 <agency wordnetid="108337324" confidence="0.8">
 <link xlink:type="simple" xlink:href="../696/801696.xml">
@@ -376,7 +376,7 @@ Eli Biham</link></creator>
 Adi Shamir</link></scientist>
 </person>
  of <link xlink:type="simple" xlink:href="../536/8536.xml">
-differential cryptanalysis</link>, a general method for breaking block ciphers.  The S-boxes of DES were much more resistant to the attack than if they had been chosen at random, strongly suggesting that IBM knew about the technique back in the 1970s. This was indeed the case &mdash; in 1994, Don Coppersmith published the original design criteria for the S-boxes.  According to <physical_entity wordnetid="100001930" confidence="0.8">
+differential cryptanalysis</link>, a general method for breaking block ciphers.  The S-boxes of DES were much more resistant to the attack than if they had been chosen at random, strongly suggesting that IBM knew about the technique back in the 1970s. This was indeed the case — in 1994, Don Coppersmith published the original design criteria for the S-boxes.  According to <physical_entity wordnetid="100001930" confidence="0.8">
 <blogger wordnetid="109860415" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -400,7 +400,7 @@ Steven Levy</link></journalist>
 , IBM Watson researchers discovered differential cryptanalytic attacks in 1974 and were asked by the NSA to keep the technique secret.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%226%22])">6</ref>  Coppersmith explains IBM's secrecy decision by saying, "that was because [differential cryptanalysis] can be a very powerful tool, used against many schemes, and there was concern that such information in the public domain could adversely affect national security."  Levy quotes Walter Tuchman: "[t]hey asked us to stamp all our documents confidential... We actually put a number on each one and locked them up in safes, because they were considered U.S. government classified.  They said do it.  So I did it".<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%227%22])">7</ref>  Shamir himself commented, "I would say that, contrary to what some people believe, there is no evidence of tampering with the DES so that the basic design was weakened."</p>
 <p>
 
-The other criticism &mdash; that the key length was too short &mdash; was supported by the fact that the reason given by the NSA for reducing the key length from 64 bits to 56 was that the other 8 bits could serve as <link xlink:type="simple" xlink:href="../088/25088.xml">
+The other criticism — that the key length was too short — was supported by the fact that the reason given by the NSA for reducing the key length from 64 bits to 56 was that the other 8 bits could serve as <link xlink:type="simple" xlink:href="../088/25088.xml">
 parity</link> bits, which seemed somewhat specious. It was widely believed that NSA's decision was motivated by the possibility that they would be able to <link xlink:type="simple" xlink:href="../784/53784.xml">
 brute force attack</link> a 56 bit key several years before the rest of the world would.</p>
 
@@ -554,7 +554,7 @@ chosen plaintext</link>s.</col>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../677/8677.xml">
-30&nbsp;December</link></col>
+30 December</link></col>
 <col>
 1993</col>
 <col>
@@ -627,7 +627,7 @@ Triple DES</link></cipher>
 <row>
 <col>
  <link xlink:type="simple" xlink:href="../581/21581.xml">
-26&nbsp;November</link></col>
+26 November</link></col>
 <col>
 2001</col>
 <col>
@@ -1159,7 +1159,7 @@ References</st>
 
  Ehrsam et al., Product Block Cipher System for Data Security, <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3962539">
 U.S. Patent 3,962,539</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=3962539">
-&nbsp;</weblink>, Filed February 24, 1975 </entry>
+ </weblink>, Filed February 24, 1975 </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -1208,7 +1208,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF00630563">
-10.1007/BF00630563</weblink>.</cite>&nbsp; (<weblink xlink:type="simple" xlink:href="http://nfotemple.free.fr/site_cryptokg/site_roy/differential%20cryptanalysis%20of%20des-like%20cryptosystems.pdf">
+10.1007/BF00630563</weblink>.</cite>  (<weblink xlink:type="simple" xlink:href="http://nfotemple.free.fr/site_cryptokg/site_roy/differential%20cryptanalysis%20of%20des-like%20cryptosystems.pdf">
 preprint</weblink>)</entry>
 <entry level="1" type="bullet">
 
@@ -1287,7 +1287,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2Fb99099">
-10.1007/b99099</weblink>.</cite>&nbsp; (<weblink xlink:type="simple" xlink:href="http://www.esat.kuleuven.ac.be/~abiryuko/mla.pdf">
+10.1007/b99099</weblink>.</cite>  (<weblink xlink:type="simple" xlink:href="http://www.esat.kuleuven.ac.be/~abiryuko/mla.pdf">
 preprint</weblink>).</entry>
 <entry level="1" type="bullet">
 
@@ -1480,7 +1480,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F3-540-48285-7">
-10.1007/3-540-48285-7</weblink>.</cite>&nbsp; (<weblink xlink:type="simple" xlink:href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.8472">
+10.1007/3-540-48285-7</weblink>.</cite>  (<weblink xlink:type="simple" xlink:href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.8472">
 preprint</weblink>)</entry>
 <entry level="1" type="bullet">
 
@@ -1514,7 +1514,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F3-540-48658-5_1">
-10.1007/3-540-48658-5_1</weblink>.</cite>&nbsp;</entry>
+10.1007/3-540-48658-5_1</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  National Bureau of Standards, Data Encryption Standard, FIPS-Pub.46. National Bureau of Standards, U.S. Department of Commerce, Washington D.C., January 1977.</entry>
@@ -1531,16 +1531,16 @@ Notes</st>
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal">Walter Tuchman&#32;(1997). "A brief history of the data encryption standard".&#32;<it>Internet besieged: countering cyberspace scofflaws</it>: 275-280, ACM Press/Addison-Wesley Publishing Co.  New York, NY, USA.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Walter Tuchman&#32;(1997). "A brief history of the data encryption standard".&#32;<it>Internet besieged: countering cyberspace scofflaws</it>: 275-280, ACM Press/Addison-Wesley Publishing Co.  New York, NY, USA.</cite> </entry>
 <entry id="2">
- <cite style="font-style:normal" class="book">Schneier. Applied Cryptography, 2nd ed.,&#32;280.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Schneier. Applied Cryptography, 2nd ed.,&#32;280.</cite> </entry>
 <entry id="3">
- <cite id="Reference-Davies-1989" style="font-style:normal" class="book">Davies, D.W.;&#32;W.L. Price&#32;(1989). Security for computer networks, 2nd ed..&#32;John Wiley &amp; Sons.</cite>&nbsp;</entry>
+ <cite id="Reference-Davies-1989" style="font-style:normal" class="book">Davies, D.W.;&#32;W.L. Price&#32;(1989). Security for computer networks, 2nd ed..&#32;John Wiley &amp; Sons.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Robert Sugarman (editor)&#32;(July 1979).&#32;"On foiling computer crime". <it>IEEE Spectrum</it>.&#32;<link xlink:type="simple" xlink:href="../938/56938.xml">
-IEEE</link>.</cite>&nbsp;</entry>
+IEEE</link>.</cite> </entry>
 <entry id="5">
- <cite style="font-style:normal">P. Kinnucan&#32;(October 1978).&#32;"Data Encryption Gurus: Tuchman and Meyer". <it>Cryptologia</it>&#32;<b>2</b>&#32;(4).</cite>&nbsp;</entry>
+ <cite style="font-style:normal">P. Kinnucan&#32;(October 1978).&#32;"Data Encryption Gurus: Tuchman and Meyer". <it>Cryptologia</it>&#32;<b>2</b>&#32;(4).</cite> </entry>
 <entry id="6">
 Levy, <it>Crypto</it>, p. 55</entry>
 <entry id="7">
@@ -1642,7 +1642,7 @@ RFC4772 : Security Implications of Using the Data Encryption Standard (DES)</web
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../594/4594.xml">
+ <link xlink:type="simple" xlink:href="../594/4594.xml">
 Block cipher</link>s</header>
 </row>
 <row style="height:2px;">
@@ -1654,23 +1654,23 @@ Block cipher</link>s</header>
 <b>Common algorithms:</b> <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../260/1260.xml">
 AES</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../940/3940.xml">
 Blowfish</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/7978.xml">
 DES</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../375/48375.xml">
 Triple DES</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../154/385154.xml">
 Serpent</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../500/517500.xml">
 Twofish</link></cipher>
@@ -1686,161 +1686,161 @@ Twofish</link></cipher>
 <b>Other algorithms:</b> <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/294099.xml">
 3-Way</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../742/9037742.xml">
 ABC</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/1488264.xml">
 Akelarre</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../526/3432526.xml">
 Anubis</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/9013560.xml">
 ARIA</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../899/8367899.xml">
 BaseKing</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../583/8619583.xml">
 BassOmatic</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../987/1068987.xml">
-BATON</link>&nbsp;&#124; 
+BATON</link> &#124; 
 <link xlink:type="simple" xlink:href="../678/13653678.xml">
-BEAR and LION</link>&nbsp;&#124; 
+BEAR and LION</link> &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/3013916.xml">
 C2</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../475/532475.xml">
 Camellia</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../998/240998.xml">
 CAST-128</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../143/612143.xml">
 CAST-256</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../236/8745236.xml">
 CIKS-1</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../507/9036507.xml">
 CIPHERUNICORN-A</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/9036443.xml">
 CIPHERUNICORN-E</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../249/10276249.xml">
 CLEFIA</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../990/662990.xml">
 CMEA</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../362/7502362.xml">
 Cobra</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../898/9329898.xml">
 COCONUT98</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../313/7866313.xml">
 Crab</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../011/7237011.xml">
 CRYPTON</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/2275465.xml">
 CS-Cipher</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../184/663184.xml">
-DEAL</link>&nbsp;&#124; 
+DEAL</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../801/619801.xml">
 DES-X</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/7955867.xml">
 DFC</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../917/8441917.xml">
 E2</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../532/592532.xml">
 FEAL</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../364/8706364.xml">
 FEA-M</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../729/1142729.xml">
-FROG</link>&nbsp;&#124; 
+FROG</link> &#124; 
 <link xlink:type="simple" xlink:href="../423/631423.xml">
-G-DES</link>&nbsp;&#124; 
+G-DES</link> &#124; 
 <link xlink:type="simple" xlink:href="../471/487471.xml">
-GOST</link>&nbsp;&#124; 
+GOST</link> &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../743/8378743.xml">
 Grand Cru</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../548/5034548.xml">
-Hasty Pudding cipher</link>&nbsp;&#124; 
+Hasty Pudding cipher</link> &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../595/8439595.xml">
 Hierocrypt</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../540/1188540.xml">
 ICE</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../076/15076.xml">
 IDEA</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../069/2067069.xml">
 IDEA NXT</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../776/8896776.xml">
 Intel Cascade Cipher</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../331/482331.xml">
 Iraqi</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/612027.xml">
 KASUMI</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1858,153 +1858,153 @@ KeeLoq</link></activity>
 </event>
 </operation>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../967/615967.xml">
 KHAZAD</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../695/634695.xml">
-Khufu and Khafre</link>&nbsp;&#124; 
+Khufu and Khafre</link> &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../186/9077186.xml">
 KN-Cipher</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../823/9208823.xml">
 Ladder-DES</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../762/4437762.xml">
 Libelle</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../984/611984.xml">
 LOKI97</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../844/647844.xml">
 LOKI89/91</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../242/364242.xml">
 Lucifer</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../626/8566626.xml">
 M6</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../572/9524572.xml">
 M8</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../065/719065.xml">
 MacGuffin</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../303/719303.xml">
 Madryga</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../282/598282.xml">
-MAGENTA</link>&nbsp;&#124; 
+MAGENTA</link> &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../135/537135.xml">
 MARS</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../674/18414674.xml">
 MCC</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../795/7849795.xml">
 Mercy</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../057/7972057.xml">
 MESH</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../515/612515.xml">
 MISTY1</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../799/682799.xml">
 MMB</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../669/7687669.xml">
 MULTI2</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/13358149.xml">
 MultiSwap</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/9347916.xml">
 New Data Seal</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../279/828279.xml">
 NewDES</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../690/7807690.xml">
 Nimbus</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../425/2155425.xml">
 NOEKEON</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../048/7939048.xml">
 NUSH</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../876/7808876.xml">
 Q</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../592/632592.xml">
 RC2</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../600/102600.xml">
 RC5</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../216/160216.xml">
 RC6</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../119/1131119.xml">
 REDOC</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../171/537171.xml">
 Red Pike</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../324/482324.xml">
-S-1</link>&nbsp;&#124; 
+S-1</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../497/630497.xml">
 SAFER</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
@@ -2024,65 +2024,65 @@ SAVILLE</link></algorithm>
 </rule>
 </event>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../288/7942288.xml">
 SC2000</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../358/1063358.xml">
-SEED</link>&nbsp;&#124; 
+SEED</link> &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../495/877495.xml">
 SHACAL</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../666/619666.xml">
-SHARK</link>&nbsp;&#124; 
+SHARK</link> &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../702/474702.xml">
 Skipjack</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../998/4446998.xml">
 SMS4</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../502/9127502.xml">
 Spectr-H64</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../945/613945.xml">
 Square</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../543/9370543.xml">
 SXAL/MBAL</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../720/528720.xml">
 TEA</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../303/9138303.xml">
 Treyfer</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../589/8826589.xml">
 UES</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../060/8680060.xml">
 Xenon</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../817/9127817.xml">
-xmx</link>&nbsp;&#124; 
+xmx</link> &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../334/530334.xml">
 XTEA</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../454/10919454.xml">
 XXTEA</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../492/8680492.xml">
 Zodiac</link></cipher>
@@ -2096,7 +2096,7 @@ Zodiac</link></cipher>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Design:</b> <link xlink:type="simple" xlink:href="../709/352709.xml">
-Feistel network</link>&nbsp;&#124; 
+Feistel network</link> &#124; 
 <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -2112,15 +2112,15 @@ Key schedule</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../557/598557.xml">
 Product cipher</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../991/240991.xml">
-S-box</link>&nbsp;&#124; 
+S-box</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
@@ -2162,7 +2162,7 @@ Brute force</link></activity>
 </attack>
 </event>
 </operation>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -2203,7 +2203,7 @@ Integral</link></activity>
 </event>
 </operation>
  <link xlink:type="simple" xlink:href="../715/5715.xml">
-cryptanalysis</link>&nbsp;&#124; 
+cryptanalysis</link> &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -2217,7 +2217,7 @@ Mod <it>n''</it></link></activity>
 </attack>
 </event>
 </operation>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -2231,7 +2231,7 @@ Related-key</link></activity>
 </attack>
 </event>
 </operation>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -2245,7 +2245,7 @@ Slide</link></activity>
 </attack>
 </event>
 </operation>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -2269,13 +2269,13 @@ XSL</link></activity>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <b>Standardization:</b> <link xlink:type="simple" xlink:href="../431/99431.xml">
-AES process</link>&nbsp;&#124; 
+AES process</link> &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../159/549159.xml">
 CRYPTREC</link></system_of_measurement>
 </standard>
-&nbsp;&#124; 
+ &#124; 
 <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../430/497430.xml">
@@ -2291,13 +2291,13 @@ NESSIE</link></system_of_measurement>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Misc:</b> <link xlink:type="simple" xlink:href="../439/769439.xml">
-Avalanche effect</link>&nbsp;&#124; 
+Avalanche effect</link> &#124; 
 <link xlink:type="simple" xlink:href="../065/294065.xml">
-Block size</link>&nbsp;&#124; 
+Block size</link> &#124; 
 <link xlink:type="simple" xlink:href="../971/105971.xml">
-IV</link>&nbsp;&#124; 
+IV</link> &#124; 
 <link xlink:type="simple" xlink:href="../749/5749.xml">
-Key size</link>&nbsp;&#124; 
+Key size</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
@@ -2317,7 +2317,7 @@ Modes of operation</link></algorithm>
 </rule>
 </event>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -2331,7 +2331,7 @@ Piling-up lemma</link></activity>
 </attack>
 </event>
 </operation>
-&nbsp;&#124; 
+ &#124; 
 <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -2362,7 +2362,7 @@ Weak key</link></activity>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

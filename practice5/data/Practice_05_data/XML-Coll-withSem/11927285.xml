@@ -458,11 +458,11 @@ Competitive</col>
 <film_festival wordnetid="100517418" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../039/18948039.xml">
 Berlin</link></film_festival>
-&nbsp;· 
+ · 
 <film_festival wordnetid="100517418" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../460/101460.xml">
 Cannes</link></film_festival>
-&nbsp;· 
+ · 
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
@@ -492,13 +492,13 @@ Cairo</link></activity>
 </signal>
 </award>
 </symbol>
-&nbsp;· 
+ · 
 <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../167/51167.xml">
 Karlovy Vary</link></psychological_feature>
 </event>
-&nbsp;· 
+ · 
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <film_festival wordnetid="100517418" confidence="0.8">
@@ -516,7 +516,7 @@ Locarno</link></activity>
 </film_festival>
 </event>
 </diversion>
-&nbsp;· 
+ · 
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
@@ -546,7 +546,7 @@ Mar del Plata</link></activity>
 </signal>
 </award>
 </symbol>
-&nbsp;· 
+ · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -570,7 +570,7 @@ Moscow</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -594,9 +594,9 @@ Montreal</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <link>
-San Sebastian</link>&nbsp;· 
+San Sebastian</link> · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -608,7 +608,7 @@ Shanghai</link></psychological_feature>
 </event>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -632,7 +632,7 @@ Tokyo</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <film_festival wordnetid="100517418" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/32497.xml">
 Venice</link></film_festival>
@@ -647,8 +647,8 @@ Venice</link></film_festival>
 Competitive specialized</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
-Almaty&nbsp;· 
-Bogota&nbsp;· 
+Almaty · 
+Bogota · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -672,7 +672,7 @@ Brussels</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <symbol wordnetid="106806469" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -696,12 +696,12 @@ Cartagena Film Festival</link></activity>
 </event>
 </diversion>
 </symbol>
-&nbsp;· 
-Courmayeur&nbsp;· 
-Frankfurt&nbsp;· 
-Ghent&nbsp;· 
+ · 
+Courmayeur · 
+Frankfurt · 
+Ghent · 
 <link>
-Gijon</link>&nbsp;· 
+Gijon</link> · 
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <film_festival wordnetid="100517418" confidence="0.8">
@@ -719,18 +719,18 @@ India (Goa)</link></activity>
 </film_festival>
 </event>
 </diversion>
-&nbsp;· 
+ · 
 <film_festival wordnetid="100517418" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../833/824833.xml">
 Istanbul</link></film_festival>
-&nbsp;· 
+ · 
 <film_festival wordnetid="100517418" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../047/6525047.xml">
 Kerala (Trivandrum)</link></film_festival>
-&nbsp;· 
-Kyiv&nbsp;· 
-Los Angeles (AFI FEST)&nbsp;· 
-Namur&nbsp;· 
+ · 
+Kyiv · 
+Los Angeles (AFI FEST) · 
+Namur · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -754,11 +754,11 @@ Pusan</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <film_festival wordnetid="100517418" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../330/751330.xml">
 Sarajevo</link></film_festival>
-&nbsp;· 
+ · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -782,7 +782,7 @@ Sitges</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <film_festival wordnetid="100517418" confidence="0.8">
@@ -800,7 +800,7 @@ Stockholm</link></activity>
 </film_festival>
 </event>
 </diversion>
-&nbsp;· 
+ · 
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <film_festival wordnetid="100517418" confidence="0.8">
@@ -818,8 +818,8 @@ Sydney</link></activity>
 </film_festival>
 </event>
 </diversion>
-&nbsp;· 
-Tallin&nbsp;· 
+ · 
+Tallin · 
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <film_festival wordnetid="100517418" confidence="0.8">
@@ -837,7 +837,7 @@ Thessaloniki</link></activity>
 </film_festival>
 </event>
 </diversion>
-&nbsp;· 
+ · 
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
@@ -867,11 +867,11 @@ Troïa</link></activity>
 </signal>
 </award>
 </symbol>
-&nbsp;· 
-Turin&nbsp;· 
-Valencia Jove&nbsp;· 
-Valencia Mediterranean&nbsp;· 
-Warsaw&nbsp;· 
+ · 
+Turin · 
+Valencia Jove · 
+Valencia Mediterranean · 
+Warsaw · 
 Wiesbaden (goEast)</p>
 </col>
 </row>
@@ -884,7 +884,7 @@ Non-competitive</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../375/2279375.xml">
-Haugesund</link>&nbsp;· 
+Haugesund</link> · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -908,7 +908,7 @@ Kolkata</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -932,11 +932,11 @@ London</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <film_festival wordnetid="100517418" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../751/178751.xml">
 Toronto</link></film_festival>
-&nbsp;· 
+ · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -971,9 +971,9 @@ Vienna</link></activity>
 Documentary and shorts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
-Bilbao&nbsp;· 
+Bilbao · 
 <link>
-Krakow</link>&nbsp;· 
+Krakow</link> · 
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <film_festival wordnetid="100517418" confidence="0.8">
@@ -991,7 +991,7 @@ Oberhausen</link></activity>
 </film_festival>
 </event>
 </diversion>
-&nbsp;· 
+ · 
 <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -1015,7 +1015,7 @@ St. Petersburg</link></activity>
 </diversion>
 </time_period>
 </fundamental_quantity>
-&nbsp;· 
+ · 
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <film_festival wordnetid="100517418" confidence="0.8">
@@ -1070,9 +1070,9 @@ Cinema of China</link></art>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 
-Chinese films|Films A-Z&nbsp;• 
+Chinese films|Films A-Z • 
 <link xlink:type="simple" xlink:href="../187/2732187.xml">
-Films by year</link>&nbsp;•
+Films by year</link> •
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <art wordnetid="102743547" confidence="0.8">
@@ -1080,23 +1080,23 @@ Films by year</link>&nbsp;•
 Chinese animation</link></art>
 </artifact>
 </creation>
-&nbsp;•
+ •
 
-Chinese film awards|Awards&nbsp;•
+Chinese film awards|Awards •
 
-Film festivals in China|Festivals&nbsp;•
+Film festivals in China|Festivals •
 
-Chinese film studios|Studios&nbsp;•
+Chinese film studios|Studios •
 
 Film production companies of China|Production Companies
 
-Chinese actors|Actors&nbsp;•
+Chinese actors|Actors •
 
-Chinese film directors|Directors&nbsp;•
+Chinese film directors|Directors •
 
-Chinese cinematographers|Cinematographers&nbsp;• 
+Chinese cinematographers|Cinematographers • 
 
-Chinese film producers|Producers&nbsp;•
+Chinese film producers|Producers •
 
 Chinese screenwriters|Screenwriters</p>
 </col>

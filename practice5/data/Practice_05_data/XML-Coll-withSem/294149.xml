@@ -145,7 +145,7 @@ least significant bit</link> (LSB) as 0.</p>
 The registers are clocked in a stop/go fashion using a majority rule. Each register has an associated clocking bit. At each cycle, the clocking bit of all three registers is examined and the majority bit is determined. A register is clocked if the clocking bit agrees with the majority bit. Hence at each step two or three registers are clocked, and each register steps with probability 3/4.</p>
 <p>
 
-Initially, the registers are set to zero. Then for 64 cycles, the 64-bit secret key is mixed in according to the following scheme: in cycle <math>0\leq{i}&amp;lt;64</math>, the <it>i</it>th key bit is added to the least significant bit of each register using XOR &mdash;
+Initially, the registers are set to zero. Then for 64 cycles, the 64-bit secret key is mixed in according to the following scheme: in cycle <math>0\leq{i}&amp;lt;64</math>, the <it>i</it>th key bit is added to the least significant bit of each register using XOR —
 <indent level="1">
 
 <math>R[0] = R[0] \oplus K[i].</math>
@@ -351,11 +351,11 @@ Fast Software Encryption</link></conference>
 </gathering>
 </meeting>
 </social_group>
-—FSE 2000</it>: 1–18.</cite>&nbsp;</entry>
+—FSE 2000</it>: 1–18.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Golic, Jovan Dj.&#32;(1997).&#32;"<weblink xlink:type="simple" xlink:href="http://jya.com/a5-hack.htm">
 Cryptanalysis of Alleged A5 Stream Cipher</weblink>". <it><link xlink:type="simple" xlink:href="../207/4229207.xml">
-EUROCRYPT</link> 1997</it>: 239–55.</cite>&nbsp;</entry>
+EUROCRYPT</link> 1997</it>: 239–55.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Biham, Eli; Orr Dunkelman&#32;(2000).&#32;"Cryptanalysis of the A5/1 GSM Stream Cipher". <it><social_group wordnetid="107950920" confidence="0.8">
 <meeting wordnetid="108307589" confidence="0.8">
@@ -368,7 +368,7 @@ Indocrypt</link></conference>
 </gathering>
 </meeting>
 </social_group>
- 2000</it>: 43–51.</cite>&nbsp;</entry>
+ 2000</it>: 43–51.</cite> </entry>
 <entry id="6">
  <cite style="font-style:normal">Ekdahl, Patrik; Thomas Johansson&#32;(2003).&#32;"<weblink xlink:type="simple" xlink:href="http://www.it.lth.se/patrik/papers/a5full.pdf">
 ( Another attack on A5/1</weblink>". <it>IEEE Transactions on Information Theory</it>&#32;<b>49</b>&#32;(1): 284–89. <document wordnetid="106470073" confidence="0.8">
@@ -379,9 +379,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FTIT.2002.806129">
-10.1109/TIT.2002.806129</weblink>.</cite>&nbsp;</entry>
+10.1109/TIT.2002.806129</weblink>.</cite> </entry>
 <entry id="7">
- <cite style="font-style:normal">Barkan, Elad; Eli Biham&#32;(2005).&#32;"Conditional Estimators: An Effective Attack on A5/1". <it>Selected Areas in Cryptography 2005</it>: 1–19.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Barkan, Elad; Eli Biham&#32;(2005).&#32;"Conditional Estimators: An Effective Attack on A5/1". <it>Selected Areas in Cryptography 2005</it>: 1–19.</cite> </entry>
 <entry id="8">
  <cite style="font-style:normal">Barkan, Elad; <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -404,7 +404,7 @@ Eli Biham</link></creator>
 </physical_entity>
 ;  Nathan Keller&#32;(2003).&#32;"<weblink xlink:type="simple" xlink:href="http://cryptome.org/gsm-crack-bbk.pdf">
 Instant Ciphertext-Only Cryptanalysis of GSM Encrypted Communication</weblink>". <it><link xlink:type="simple" xlink:href="../568/15830568.xml">
-Crypto</link> 2003</it>: 600–16.</cite>&nbsp;</entry>
+Crypto</link> 2003</it>: 600–16.</cite> </entry>
 <entry id="9">
 Barkan, Elad;&#32;Eli Biham; Nathan Keller.&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2006/CS/CS-2006-07.pdf">
 Instant Ciphertext-Only Cryptanalysis of GSM Encrypted Communication by Barkan and Biham of Technion (Full Version)</weblink>".</entry>
@@ -458,7 +458,7 @@ Selected Areas in Cryptography</link></conference>
 </gathering>
 </meeting>
 </social_group>
- 2004</it>: 1–18.</cite>&nbsp;</entry>
+ 2004</it>: 1–18.</cite> </entry>
 </list>
 </p>
 
@@ -479,7 +479,7 @@ A pedagogical implementation of the GSM A5/1 and A5/2 "voice privacy" encryption
 Technion team cracks GSM cellular phone encryption</weblink>", <it><newspaper wordnetid="106267145" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../878/64878.xml">
 Haaretz</link></newspaper>
-</it>.&nbsp;</entry>
+</it>. </entry>
 <entry level="1" type="bullet">
 
  Barkan, Elad;&#32;Eli Biham; Nathan Keller&#32;(July 2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi?2006/CS/CS-2006-07">
@@ -505,7 +505,7 @@ Nathan Keller's Homepage</weblink>".</entry>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../007/49007.xml">
+ <link xlink:type="simple" xlink:href="../007/49007.xml">
 Stream cipher</link>s</header>
 </row>
 <row style="height:2px;">
@@ -523,13 +523,13 @@ A5/1</link></system_of_measurement>
 </cipher>
 </standard>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../816/543816.xml">
 A5/2</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -545,7 +545,7 @@ E0</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <amount wordnetid="105107765" confidence="0.8">
 <magnitude wordnetid="105090441" confidence="0.8">
@@ -559,19 +559,19 @@ FISH</link></cipher>
 </magnitude>
 </amount>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../390/2710390.xml">
 Grain</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../087/4546087.xml">
 HC-256</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -587,91 +587,91 @@ ISAAC</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../225/1508225.xml">
 MUGI</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../789/4170789.xml">
-Panama</link>&nbsp;&#124; 
+Panama</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../596/883596.xml">
 Phelix</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../128/294128.xml">
 Pike</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../084/3955084.xml">
 Py</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../998/15603998.xml">
  QUAD </link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../952/4565952.xml">
 Rabbit</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../831/25831.xml">
 RC4</link></cipher>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../329/2701329.xml">
 Salsa20</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../011/4159011.xml">
 Scream</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../108/294108.xml">
 SEAL</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../325/8648325.xml">
 SOBER</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../280/1080280.xml">
 SOBER-128</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../152/4546152.xml">
 SOSEMANUK</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../653/2620653.xml">
 Trivium</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../536/2613536.xml">
-VEST</link>&nbsp;&#124; 
+VEST</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../287/599287.xml">
@@ -687,15 +687,15 @@ WAKE</link></cipher>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <b>Theory:</b> <link xlink:type="simple" xlink:href="../699/41699.xml">
-Shift register</link>&nbsp;&#124; 
+Shift register</link> &#124; 
 <link xlink:type="simple" xlink:href="../992/58992.xml">
-LFSR</link>&nbsp;&#124; 
+LFSR</link> &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <cipher wordnetid="106254239" confidence="0.8">
 <link xlink:type="simple" xlink:href="../481/2613481.xml">
 NLFSR</link></cipher>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <message wordnetid="106253690" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -711,7 +711,7 @@ Shrinking generator</link></cipher>
 </instrumentality>
 </artifact>
 </message>
-&nbsp;&#124; 
+ &#124; 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -721,7 +721,7 @@ T-function</link></primitive>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;&#124; 
+ &#124; 
 <link xlink:type="simple" xlink:href="../971/105971.xml">
 IV</link></p>
 </col>
@@ -752,7 +752,7 @@ eSTREAM</link></cipher>
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">

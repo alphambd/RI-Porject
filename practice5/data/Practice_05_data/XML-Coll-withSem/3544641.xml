@@ -886,7 +886,7 @@ Text of Libby Clemency Grant</weblink></entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">&#32;"<weblink xlink:type="simple" xlink:href="http://www.cnn.com/2007/POLITICS/12/11/presidential.pardons.ap/index.html">
-Bush pardons do not include Scooter Libby</weblink>"&#32;&#32;(December 11 2007). <it>CNN/AP</it>.</cite>&nbsp; Article on the traditional 2007 pardons</entry>
+Bush pardons do not include Scooter Libby</weblink>"&#32;&#32;(December 11 2007). <it>CNN/AP</it>.</cite>  Article on the traditional 2007 pardons</entry>
 </list>
 </p>
 
@@ -918,7 +918,7 @@ Family</col>
 <family wordnetid="108078020" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../448/360448.xml">
 Bush family</link></family>
-&nbsp;·  <first_lady wordnetid="110092880" confidence="0.9508927676800064">
+ ·  <first_lady wordnetid="110092880" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <librarian wordnetid="110257948" confidence="0.9173553029164789">
 <teacher wordnetid="110694258" confidence="0.9173553029164789">
@@ -929,24 +929,24 @@ Laura Bush (spouse)</link></writer>
 </librarian>
 </person>
 </first_lady>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9508927676800064">
+ ·  <president wordnetid="110468559" confidence="0.9508927676800064">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <businessperson wordnetid="109882716" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../955/11955.xml">
 George H. W. Bush (father)</link></businessperson>
 </person>
 </president>
-&nbsp;·  <first_lady wordnetid="110092880" confidence="0.9173553029164789">
+ ·  <first_lady wordnetid="110092880" confidence="0.9173553029164789">
 <officeholder wordnetid="110371450" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../047/163047.xml">
 Barbara Bush (mother)</link></officeholder>
 </first_lady>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <writer wordnetid="110794014" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../826/19476826.xml">
 Jenna Bush (daughter)</link></writer>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../730/4328730.xml">
 Barbara Bush (daughter)</link></person>
 </col>
@@ -965,10 +965,10 @@ Pets</col>
 <animal wordnetid="100015388" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../153/2795153.xml">
 Barney (dog)</link></animal>
-&nbsp;·  <animal wordnetid="100015388" confidence="0.9508927676800064">
+ ·  <animal wordnetid="100015388" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../960/2796960.xml">
 Miss Beazley (dog)</link></animal>
-&nbsp;·  <cat wordnetid="102121620" confidence="0.8">
+ ·  <cat wordnetid="102121620" confidence="0.8">
 <carnivore wordnetid="102075296" confidence="0.8">
 <chordate wordnetid="101466257" confidence="0.8">
 <pet wordnetid="101318894" confidence="0.8">
@@ -1009,7 +1009,7 @@ A Charge to Keep</link></publication>
 </creation>
 </product>
 </work>
-</it>&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+</it> ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <life wordnetid="113963192" confidence="0.8">
@@ -1028,7 +1028,7 @@ Early life</link></causal_agent>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <document wordnetid="106470073" confidence="0.8">
+ ·  <document wordnetid="106470073" confidence="0.8">
 <controversy wordnetid="107183151" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <dispute wordnetid="107181935" confidence="0.8">
@@ -1049,7 +1049,7 @@ Military service controversy</link></speech_act>
 </event>
 </controversy>
 </document>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <skilled_worker wordnetid="110605985" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <preserver wordnetid="110466918" confidence="0.8">
@@ -1078,7 +1078,7 @@ Professional life</link></head>
 </person>
 </skilled_worker>
 </physical_entity>
-&nbsp;·  <controversy wordnetid="107183151" confidence="0.8">
+ ·  <controversy wordnetid="107183151" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <dispute wordnetid="107181935" confidence="0.8">
 <disagreement wordnetid="107180787" confidence="0.8">
@@ -1093,10 +1093,10 @@ Insider trading allegations</link></speech_act>
 </dispute>
 </event>
 </controversy>
-&nbsp;·  <position wordnetid="106208751" confidence="0.8">
+ ·  <position wordnetid="106208751" confidence="0.8">
 <link xlink:type="simple" xlink:href="../774/13193774.xml">
 Religious faith</link></position>
-&nbsp;·  <controversy wordnetid="107183151" confidence="0.8">
+ ·  <controversy wordnetid="107183151" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <dispute wordnetid="107181935" confidence="0.8">
 <disagreement wordnetid="107180787" confidence="0.8">
@@ -1111,8 +1111,8 @@ Substance abuse controversy</link></speech_act>
 </dispute>
 </event>
 </controversy>
-&nbsp;·  <link xlink:type="simple" xlink:href="../611/10046611.xml">
-Pretzel incident</link>&nbsp;·  <link xlink:type="simple" xlink:href="../762/889762.xml">
+ ·  <link xlink:type="simple" xlink:href="../611/10046611.xml">
+Pretzel incident</link> ·  <link xlink:type="simple" xlink:href="../762/889762.xml">
 Nicknames</link></col>
 </row>
 <row style="height:2px">
@@ -1127,12 +1127,12 @@ Politics</col>
 <link xlink:type="simple" xlink:href="../210/10738210.xml">
 Governorship of Texas</link></businessperson>
 </president>
-&nbsp;·  <president wordnetid="110468559" confidence="0.9173553029164789">
+ ·  <president wordnetid="110468559" confidence="0.9173553029164789">
 <businessperson wordnetid="109882716" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../895/183895.xml">
 Presidency</link></businessperson>
 </president>
-&nbsp;·  <political_campaign wordnetid="107472929" confidence="0.8">
+ ·  <political_campaign wordnetid="107472929" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1145,10 +1145,10 @@ Presidency</link></businessperson>
 </social_event>
 </event>
 </political_campaign>
-&nbsp;·  <link xlink:type="simple" xlink:href="../844/1143844.xml">
-First Term</link>&nbsp;·  <link xlink:type="simple" xlink:href="../087/10937087.xml">
-Cabinet</link>&nbsp;·  <link xlink:type="simple" xlink:href="../802/9961802.xml">
-Iraq War</link>&nbsp;·  <political_campaign wordnetid="107472929" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../844/1143844.xml">
+First Term</link> ·  <link xlink:type="simple" xlink:href="../087/10937087.xml">
+Cabinet</link> ·  <link xlink:type="simple" xlink:href="../802/9961802.xml">
+Iraq War</link> ·  <political_campaign wordnetid="107472929" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1161,10 +1161,10 @@ Iraq War</link>&nbsp;·  <political_campaign wordnetid="107472929" confidence="0
 </social_event>
 </event>
 </political_campaign>
-&nbsp;·  <link xlink:type="simple" xlink:href="../897/1143897.xml">
-Second Term</link>&nbsp;·  <link xlink:type="simple" xlink:href="../792/1411792.xml">
-White House shakeup</link>&nbsp;·  <link xlink:type="simple" xlink:href="../641/3544641.xml">
-Pardons</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../897/1143897.xml">
+Second Term</link> ·  <link xlink:type="simple" xlink:href="../792/1411792.xml">
+White House shakeup</link> ·  <link xlink:type="simple" xlink:href="../641/3544641.xml">
+Pardons</link> ·  <work wordnetid="100575741" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -1187,7 +1187,7 @@ Library</link></room>
 </artifact>
 </structure>
 </work>
- &nbsp;·  <political_campaign wordnetid="107472929" confidence="0.8">
+  ·  <political_campaign wordnetid="107472929" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1222,16 +1222,16 @@ Compassionate conservatism</link></psychological_feature>
 </vote>
 </election>
 </group_action>
-&nbsp;·  <link xlink:type="simple" xlink:href="../531/216531.xml">
-Neoconservatism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../383/958383.xml">
-Domestic policy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../498/8976498.xml">
-Economic policy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../730/957730.xml">
-Foreign policy</link>&nbsp;·  <belief wordnetid="105941423" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../531/216531.xml">
+Neoconservatism</link> ·  <link xlink:type="simple" xlink:href="../383/958383.xml">
+Domestic policy</link> ·  <link xlink:type="simple" xlink:href="../498/8976498.xml">
+Economic policy</link> ·  <link xlink:type="simple" xlink:href="../730/957730.xml">
+Foreign policy</link> ·  <belief wordnetid="105941423" confidence="0.8">
 <doctrine wordnetid="105943300" confidence="0.8">
 <link xlink:type="simple" xlink:href="../529/88529.xml">
 Bush Doctrine</link></doctrine>
 </belief>
-&nbsp;·  <link xlink:type="simple" xlink:href="../452/7884452.xml">
+ ·  <link xlink:type="simple" xlink:href="../452/7884452.xml">
 Legislation and programs</link></col>
 </row>
 <row style="height:2px">
@@ -1242,16 +1242,16 @@ Legislation and programs</link></col>
 Perceptions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../220/8096220.xml">
-Public perception</link>&nbsp;·  <link xlink:type="simple" xlink:href="../998/76998.xml">
-Bushism</link>s&nbsp;·  
-George W. Bush administration controversies|Controversy&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+Public perception</link> ·  <link xlink:type="simple" xlink:href="../998/76998.xml">
+Bushism</link>s ·  
+George W. Bush administration controversies|Controversy ·  <message wordnetid="106598915" confidence="0.8">
 <disapproval wordnetid="106709533" confidence="0.8">
 <criticism wordnetid="106710546" confidence="0.8">
 <link xlink:type="simple" xlink:href="../580/3594580.xml">
 Criticism</link></criticism>
 </disapproval>
 </message>
-&nbsp;·  <controversy wordnetid="107183151" confidence="0.8">
+ ·  <controversy wordnetid="107183151" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <dispute wordnetid="107181935" confidence="0.8">
 <disagreement wordnetid="107180787" confidence="0.8">
@@ -1266,8 +1266,8 @@ Impeachment movement</link></speech_act>
 </dispute>
 </event>
 </controversy>
-&nbsp;·  <link xlink:type="simple" xlink:href="../253/7956253.xml">
-Fictionalized portrayals</link>&nbsp;·  <link xlink:type="simple" xlink:href="../182/2959182.xml">
+ ·  <link xlink:type="simple" xlink:href="../253/7956253.xml">
+Fictionalized portrayals</link> ·  <link xlink:type="simple" xlink:href="../182/2959182.xml">
 As the subject of books and films</link></col>
 </row>
 </table>

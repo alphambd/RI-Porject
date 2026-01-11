@@ -80,7 +80,7 @@ The variance of the estimate of the integral can be estimated using
 For large <it>N</it> this variance decreases asymptotically as <it>V2</it> var(<it>f</it>) / <it>N</it>, where var(<it>f</it>) is the true variance of the function over the integration region. The error estimate itself decreases as <it>V</it> &amp;sigma;(<it>f</it>) / &amp;radic;<it>N</it>. The familiar law of errors decreasing as 1 / &amp;radic;<it>N</it> applies: to reduce the error by a factor of 10 requires a 100-fold increase in the number of sample points. </p>
 <p>
 
-The above expression provides a statistical estimate of the error on the result. This error estimate is not a strict error bound &mdash; random sampling of the region may not uncover all the important features of the function, resulting in an underestimate of the error.</p>
+The above expression provides a statistical estimate of the error on the result. This error estimate is not a strict error bound — random sampling of the region may not uncover all the important features of the function, resulting in an underestimate of the error.</p>
 
 
 

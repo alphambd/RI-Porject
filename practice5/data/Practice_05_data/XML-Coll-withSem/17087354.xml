@@ -174,34 +174,34 @@ File system
 (basic)</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../799/8590799.xml">
-attrib</link>&nbsp;·  <link xlink:type="simple" xlink:href="../837/158837.xml">
-cd</link>&nbsp;·  <link xlink:type="simple" xlink:href="../837/158837.xml">
-chdir</link>&nbsp;·  <link xlink:type="simple" xlink:href="../626/17306626.xml">
-copy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../711/17063711.xml">
-del</link>&nbsp;·  <link xlink:type="simple" xlink:href="../511/7473511.xml">
-deltree</link>&nbsp;·  <link xlink:type="simple" xlink:href="../854/158854.xml">
-dir</link>&nbsp;·  <link xlink:type="simple" xlink:href="../711/17063711.xml">
-erase</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+attrib</link> ·  <link xlink:type="simple" xlink:href="../837/158837.xml">
+cd</link> ·  <link xlink:type="simple" xlink:href="../837/158837.xml">
+chdir</link> ·  <link xlink:type="simple" xlink:href="../626/17306626.xml">
+copy</link> ·  <link xlink:type="simple" xlink:href="../711/17063711.xml">
+del</link> ·  <link xlink:type="simple" xlink:href="../511/7473511.xml">
+deltree</link> ·  <link xlink:type="simple" xlink:href="../854/158854.xml">
+dir</link> ·  <link xlink:type="simple" xlink:href="../711/17063711.xml">
+erase</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../743/305743.xml">
 format</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../212/161212.xml">
-md</link>&nbsp;·  <link xlink:type="simple" xlink:href="../212/161212.xml">
-mkdir</link>&nbsp;·  <link xlink:type="simple" xlink:href="../268/7441268.xml">
-mklink</link>&nbsp;·  <link>
-mountvol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../078/17063078.xml">
-move</link>&nbsp;·  <link xlink:type="simple" xlink:href="../718/9873718.xml">
-ntbackup</link>&nbsp;·  <link xlink:type="simple" xlink:href="../937/380937.xml">
-rd</link>&nbsp;·  <link xlink:type="simple" xlink:href="../335/17063335.xml">
-rename</link>&nbsp;·  <link xlink:type="simple" xlink:href="../335/17063335.xml">
-ren</link>&nbsp;·  <link xlink:type="simple" xlink:href="../937/380937.xml">
-rmdir</link>&nbsp;·  <link xlink:type="simple" xlink:href="../446/7347446.xml">
-robocopy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../543/11550543.xml">
-sys</link>&nbsp;·  <link xlink:type="simple" xlink:href="../455/17063455.xml">
-type</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../212/161212.xml">
+md</link> ·  <link xlink:type="simple" xlink:href="../212/161212.xml">
+mkdir</link> ·  <link xlink:type="simple" xlink:href="../268/7441268.xml">
+mklink</link> ·  <link>
+mountvol</link> ·  <link xlink:type="simple" xlink:href="../078/17063078.xml">
+move</link> ·  <link xlink:type="simple" xlink:href="../718/9873718.xml">
+ntbackup</link> ·  <link xlink:type="simple" xlink:href="../937/380937.xml">
+rd</link> ·  <link xlink:type="simple" xlink:href="../335/17063335.xml">
+rename</link> ·  <link xlink:type="simple" xlink:href="../335/17063335.xml">
+ren</link> ·  <link xlink:type="simple" xlink:href="../937/380937.xml">
+rmdir</link> ·  <link xlink:type="simple" xlink:href="../446/7347446.xml">
+robocopy</link> ·  <link xlink:type="simple" xlink:href="../543/11550543.xml">
+sys</link> ·  <link xlink:type="simple" xlink:href="../455/17063455.xml">
+type</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../026/1396026.xml">
@@ -219,18 +219,18 @@ File system
 (advanced)</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../283/1206283.xml">
-assoc</link>&nbsp;·  <link xlink:type="simple" xlink:href="../340/8930340.xml">
-cacls</link>&nbsp;·  <link xlink:type="simple" xlink:href="../823/1909823.xml">
-chkdsk</link>&nbsp;·  <link>
-chkntfs</link>&nbsp;·  <link>
-comp</link>&nbsp;·  <link>
-compact</link>&nbsp;·  <link>
-convert</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+assoc</link> ·  <link xlink:type="simple" xlink:href="../340/8930340.xml">
+cacls</link> ·  <link xlink:type="simple" xlink:href="../823/1909823.xml">
+chkdsk</link> ·  <link>
+chkntfs</link> ·  <link>
+comp</link> ·  <link>
+compact</link> ·  <link>
+convert</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../293/6709293.xml">
 defrag</link></software>
-&nbsp;·  <link>
-diskcomp</link>&nbsp;·  <link>
-diskcopy</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link>
+diskcomp</link> ·  <link>
+diskcopy</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -239,10 +239,10 @@ fc</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <link>
-ftype</link>&nbsp;·  <link xlink:type="simple" xlink:href="../229/17076229.xml">
-label</link>&nbsp;·  <link>
-recover</link>&nbsp;·  <record wordnetid="106647206" confidence="0.8">
+ ·  <link>
+ftype</link> ·  <link xlink:type="simple" xlink:href="../229/17076229.xml">
+label</link> ·  <link>
+recover</link> ·  <record wordnetid="106647206" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
@@ -259,13 +259,13 @@ reg</link></part>
 </concept>
 </idea>
 </record>
-&nbsp;·  <link xlink:type="simple" xlink:href="../527/3986527.xml">
-regsvr32</link>&nbsp;·  <link>
-replace</link>&nbsp;·  <link xlink:type="simple" xlink:href="../465/3173465.xml">
-subst</link>&nbsp;·  <link xlink:type="simple" xlink:href="../806/30806.xml">
-tree</link>&nbsp;·  <link>
-verify</link>&nbsp;·  <link xlink:type="simple" xlink:href="../252/17079252.xml">
-vol</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../527/3986527.xml">
+regsvr32</link> ·  <link>
+replace</link> ·  <link xlink:type="simple" xlink:href="../465/3173465.xml">
+subst</link> ·  <link xlink:type="simple" xlink:href="../806/30806.xml">
+tree</link> ·  <link>
+verify</link> ·  <link xlink:type="simple" xlink:href="../252/17079252.xml">
+vol</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -288,7 +288,7 @@ vssadmin</link></activity>
 Processes</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../778/12792778.xml">
-at</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+at</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -301,8 +301,8 @@ exit</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link>
-kill</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link>
+kill</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -315,11 +315,11 @@ schtasks</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../690/1567690.xml">
-start</link>&nbsp;·  <link xlink:type="simple" xlink:href="../830/17699830.xml">
-shutdown</link>&nbsp;·  <link>
-taskkill</link>&nbsp;·  <link>
-tasklist</link>&nbsp;·  <link>
+ ·  <link xlink:type="simple" xlink:href="../690/1567690.xml">
+start</link> ·  <link xlink:type="simple" xlink:href="../830/17699830.xml">
+shutdown</link> ·  <link>
+taskkill</link> ·  <link>
+tasklist</link> ·  <link>
 tlist</link></col>
 </row>
 <row style="height:2px">
@@ -330,10 +330,10 @@ tlist</link></col>
 User environment</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../924/4334924.xml">
-append</link>&nbsp;·  <link>
-chcp</link>&nbsp;·  <link>
-color</link>&nbsp;·  <link xlink:type="simple" xlink:href="../715/17310715.xml">
-date</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+append</link> ·  <link>
+chcp</link> ·  <link>
+color</link> ·  <link xlink:type="simple" xlink:href="../715/17310715.xml">
+date</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -346,18 +346,18 @@ finger</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link>
-graftabl</link>&nbsp;·  <link>
-mode</link>&nbsp;·  <link xlink:type="simple" xlink:href="../357/403357.xml">
-path</link>&nbsp;·  <link xlink:type="simple" xlink:href="../793/17064793.xml">
-popd</link>&nbsp;·  <link xlink:type="simple" xlink:href="../793/17064793.xml">
-pushd</link>&nbsp;·  <link xlink:type="simple" xlink:href="../354/17087354.xml">
-runas</link>&nbsp;·  <link xlink:type="simple" xlink:href="../504/349504.xml#xpointer(//*[./st=%22DOS+and+Windows%22])">
-set</link>&nbsp;·  <link xlink:type="simple" xlink:href="../504/349504.xml#xpointer(//*[./st=%22DOS+and+Windows%22])">
-setx</link>&nbsp;·  <link xlink:type="simple" xlink:href="../715/17310715.xml">
-time</link>&nbsp;·  <link xlink:type="simple" xlink:href="../429/19402429.xml">
-title</link>&nbsp;·  <link xlink:type="simple" xlink:href="../122/17064122.xml">
-ver</link>&nbsp;·  <link xlink:type="simple" xlink:href="../879/5310879.xml">
+ ·  <link>
+graftabl</link> ·  <link>
+mode</link> ·  <link xlink:type="simple" xlink:href="../357/403357.xml">
+path</link> ·  <link xlink:type="simple" xlink:href="../793/17064793.xml">
+popd</link> ·  <link xlink:type="simple" xlink:href="../793/17064793.xml">
+pushd</link> ·  <link xlink:type="simple" xlink:href="../354/17087354.xml">
+runas</link> ·  <link xlink:type="simple" xlink:href="../504/349504.xml#xpointer(//*[./st=%22DOS+and+Windows%22])">
+set</link> ·  <link xlink:type="simple" xlink:href="../504/349504.xml#xpointer(//*[./st=%22DOS+and+Windows%22])">
+setx</link> ·  <link xlink:type="simple" xlink:href="../715/17310715.xml">
+time</link> ·  <link xlink:type="simple" xlink:href="../429/19402429.xml">
+title</link> ·  <link xlink:type="simple" xlink:href="../122/17064122.xml">
+ver</link> ·  <link xlink:type="simple" xlink:href="../879/5310879.xml">
 whoami</link></col>
 </row>
 <row style="height:2px">
@@ -370,9 +370,9 @@ Text processing</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../283/1551283.xml">
 edit</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../772/9772.xml">
-edlin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../817/2436817.xml">
-more</link>&nbsp;·  <link>
+ ·  <link xlink:type="simple" xlink:href="../772/9772.xml">
+edlin</link> ·  <link xlink:type="simple" xlink:href="../817/2436817.xml">
+more</link> ·  <link>
 sort</link></col>
 </row>
 <row style="height:2px">
@@ -390,12 +390,12 @@ Shell</link></situation>
 programming</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../488/490488.xml">
-break</link>&nbsp;·  <link xlink:type="simple" xlink:href="../829/40829.xml">
-call</link>&nbsp;·  <link xlink:type="simple" xlink:href="../072/1256072.xml">
-cmd</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+break</link> ·  <link xlink:type="simple" xlink:href="../829/40829.xml">
+call</link> ·  <link xlink:type="simple" xlink:href="../072/1256072.xml">
+cmd</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../187/71187.xml">
 command</link></software>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -404,28 +404,28 @@ cscript</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../601/658601.xml">
-doskey</link>&nbsp;·  <link xlink:type="simple" xlink:href="../160/754160.xml">
-echo</link>&nbsp;·  <link>
-endlocal</link>&nbsp;·  <link xlink:type="simple" xlink:href="../924/468924.xml">
-for</link>&nbsp;·  <link xlink:type="simple" xlink:href="../853/197853.xml">
-goto</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../601/658601.xml">
+doskey</link> ·  <link xlink:type="simple" xlink:href="../160/754160.xml">
+echo</link> ·  <link>
+endlocal</link> ·  <link xlink:type="simple" xlink:href="../924/468924.xml">
+for</link> ·  <link xlink:type="simple" xlink:href="../853/197853.xml">
+goto</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../839/462839.xml">
 if</link></concept>
 </idea>
-&nbsp;·  <link>
-pause</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link>
+pause</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../871/14465871.xml">
 powershell</link></programming_language>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../707/6707.xml#xpointer(//*[./st=%22Command+prompt%22])">
-prompt</link>&nbsp;·  <link xlink:type="simple" xlink:href="../308/8592308.xml">
-rem</link>&nbsp;·  <link>
-setlocal</link>&nbsp;·  <link>
-shift</link>&nbsp;·  <link>
-forfiles</link>&nbsp;·  <link xlink:type="simple" xlink:href="../108/19402108.xml">
+ ·  <link xlink:type="simple" xlink:href="../707/6707.xml#xpointer(//*[./st=%22Command+prompt%22])">
+prompt</link> ·  <link xlink:type="simple" xlink:href="../308/8592308.xml">
+rem</link> ·  <link>
+setlocal</link> ·  <link>
+shift</link> ·  <link>
+forfiles</link> ·  <link xlink:type="simple" xlink:href="../108/19402108.xml">
 choice</link></col>
 </row>
 <row style="height:2px">
@@ -448,16 +448,16 @@ arp</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../289/53289.xml">
-ftp</link>&nbsp;·  <link>
-getmac</link>&nbsp;·  <link xlink:type="simple" xlink:href="../595/684595.xml">
-ipconfig</link>&nbsp;·  <link>
-net</link>&nbsp;·  <link xlink:type="simple" xlink:href="../396/4850396.xml">
-netsh</link>&nbsp;·  <link xlink:type="simple" xlink:href="../563/914563.xml">
-netstat</link>&nbsp;·   <link xlink:type="simple" xlink:href="../886/564886.xml">
-nslookup</link>&nbsp;·  <link xlink:type="simple" xlink:href="../197/660197.xml">
-pathping</link>&nbsp;·  <link xlink:type="simple" xlink:href="../265/24265.xml">
-ping</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../289/53289.xml">
+ftp</link> ·  <link>
+getmac</link> ·  <link xlink:type="simple" xlink:href="../595/684595.xml">
+ipconfig</link> ·  <link>
+net</link> ·  <link xlink:type="simple" xlink:href="../396/4850396.xml">
+netsh</link> ·  <link xlink:type="simple" xlink:href="../563/914563.xml">
+netstat</link> ·   <link xlink:type="simple" xlink:href="../886/564886.xml">
+nslookup</link> ·  <link xlink:type="simple" xlink:href="../197/660197.xml">
+pathping</link> ·  <link xlink:type="simple" xlink:href="../265/24265.xml">
+ping</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -470,7 +470,7 @@ telnet</link></system_of_measurement>
 </standard>
 </protocol>
 </message>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -479,7 +479,7 @@ tftp</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../448/31448.xml">
+ ·  <link xlink:type="simple" xlink:href="../448/31448.xml">
 tracert</link></col>
 </row>
 <row style="height:2px">
@@ -490,7 +490,7 @@ tracert</link></col>
 Searching</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../929/17066929.xml">
-find</link>&nbsp;·  <link>
+find</link> ·  <link>
 findstr</link></col>
 </row>
 <row style="height:2px">
@@ -501,13 +501,13 @@ findstr</link></col>
 Miscellaneous</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
-bcdedit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../844/287844.xml">
-bootcfg</link>&nbsp;·  <link xlink:type="simple" xlink:href="../596/658596.xml">
-cls</link>&nbsp;·  <link xlink:type="simple" xlink:href="../364/17081364.xml">
-help</link>&nbsp;·  <link xlink:type="simple" xlink:href="../421/17066421.xml">
-print</link>&nbsp;·  <link xlink:type="simple" xlink:href="../934/5334934.xml">
-debug</link>&nbsp;·  <link>
-exe2bin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../355/439355.xml">
+bcdedit</link> ·  <link xlink:type="simple" xlink:href="../844/287844.xml">
+bootcfg</link> ·  <link xlink:type="simple" xlink:href="../596/658596.xml">
+cls</link> ·  <link xlink:type="simple" xlink:href="../364/17081364.xml">
+help</link> ·  <link xlink:type="simple" xlink:href="../421/17066421.xml">
+print</link> ·  <link xlink:type="simple" xlink:href="../934/5334934.xml">
+debug</link> ·  <link>
+exe2bin</link> ·  <link xlink:type="simple" xlink:href="../355/439355.xml">
 wmic</link></col>
 </row>
 </table>

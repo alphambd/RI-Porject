@@ -380,7 +380,7 @@ RT-11</link></O>
  operating system running on the <link xlink:type="simple" xlink:href="../399/24399.xml">
 PDP-11</link> minicomputer, which shows in section 5.3 that .COM is used to refer to a command file</entry>
 <entry id="2">
- <cite id="Reference-Scanlon-1991" style="font-style:normal" class="book">Scanlon, Leo J.&#32;(1991).&#32;"ch. 2", Assembly Language Subroutines for MS-DOS, 2nd,&#32;Windcrest Books,&#32;pg. 16. ISBN 083067649X.</cite>&nbsp;</entry>
+ <cite id="Reference-Scanlon-1991" style="font-style:normal" class="book">Scanlon, Leo J.&#32;(1991).&#32;"ch. 2", Assembly Language Subroutines for MS-DOS, 2nd,&#32;Windcrest Books,&#32;pg. 16. ISBN 083067649X.</cite> </entry>
 </reflist>
 </p>
 
@@ -410,40 +410,40 @@ file format</link>s</header>
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../325/328325.xml">
 COFF</link></format>
- &nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+  ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../065/609065.xml">
 COM</link></format>
- &nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+  ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../480/9605480.xml">
 ECOFF</link></format>
- &nbsp;·  <link xlink:type="simple" xlink:href="../914/9914.xml">
-ELF</link> &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../914/9914.xml">
+ELF</link>  ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../251/13853251.xml">
 Hunk</link></format>
 </information>
 </message>
- &nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+  ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../222/694222.xml">
 Mach-O</link></format>
- &nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+  ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../753/3645753.xml">
 MZ</link></format>
- &nbsp;·  <message wordnetid="106598915" confidence="0.8">
+  ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../005/2864005.xml">
 NE</link></format>
 </information>
 </message>
- &nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+  ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../063/65063.xml">
 PE</link></format>
- &nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+  ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../240/694240.xml">
 PEF</link></format>
- &nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+  ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../364/337364.xml">
 XCOFF</link></format>
 </col>

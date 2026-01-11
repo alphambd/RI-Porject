@@ -62,7 +62,7 @@ With</p>
 
 <indent level="1">
 
-<math> \mathbf{y} = \begin{pmatrix} y_{1} \\ y_{2} \\ 1 \end{pmatrix} </math> &nbsp; and &nbsp; <math> \mathbf{y}' = \begin{pmatrix} y'_{1} \\ y'_{2} \\ 1 \end{pmatrix} </math> &nbsp; and &nbsp; <math> \mathbf{E} = \begin{pmatrix} e_{11} &amp; e_{12} &amp; e_{13} \\ e_{21} &amp; e_{22} &amp; e_{23} \\ e_{31} &amp; e_{32} &amp; e_{33} \end{pmatrix} </math>
+<math> \mathbf{y} = \begin{pmatrix} y_{1} \\ y_{2} \\ 1 \end{pmatrix} </math>   and   <math> \mathbf{y}' = \begin{pmatrix} y'_{1} \\ y'_{2} \\ 1 \end{pmatrix} </math>   and   <math> \mathbf{E} = \begin{pmatrix} e_{11} &amp; e_{12} &amp; e_{13} \\ e_{21} &amp; e_{22} &amp; e_{23} \\ e_{31} &amp; e_{32} &amp; e_{33} \end{pmatrix} </math>
 </indent>
 
 the constraint can also be rewritten as</p>
@@ -86,7 +86,7 @@ where</p>
 
 <indent level="1">
 
-<math> \tilde\mathbf{y} = \begin{pmatrix} y'_1 y_1 \\ y'_1 y_2 \\ y'_1 \\ y'_2 y_1 \\ y'_2 y_2 \\ y'_2 \\ y_1 \\ y_2 \\ 1 \end{pmatrix} </math> &nbsp; and &nbsp; <math> \mathbf{e} = \begin{pmatrix} e_{11} \\ e_{12} \\ e_{13} \\ e_{21} \\ e_{22} \\ e_{23} \\ e_{31} \\ e_{32} \\ e_{33} \end{pmatrix} </math>
+<math> \tilde\mathbf{y} = \begin{pmatrix} y'_1 y_1 \\ y'_1 y_2 \\ y'_1 \\ y'_2 y_1 \\ y'_2 y_2 \\ y'_2 \\ y_1 \\ y_2 \\ 1 \end{pmatrix} </math>   and   <math> \mathbf{e} = \begin{pmatrix} e_{11} \\ e_{12} \\ e_{13} \\ e_{21} \\ e_{22} \\ e_{23} \\ e_{31} \\ e_{32} \\ e_{33} \end{pmatrix} </math>
 </indent>
 
 that is, <math> \mathbf{e} </math> represents the essential matrix in the form of a 9-dimensional vector and this vector must be orthogonal to the vector <math> \tilde\mathbf{y} </math> which can be seen as a vector representation of the <math> 3 \times 3 </math> matrix <math> \mathbf{y}' \, \mathbf{y}^{T} </math>.</p>
@@ -310,7 +310,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2F34.601246">
-10.1109/34.601246</weblink>.</cite>&nbsp;</entry>
+10.1109/34.601246</weblink>.</cite> </entry>
 </list>
 </p>
 <p>
@@ -318,7 +318,7 @@ doi</link></writing>
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Richard Hartley and Andrew Zisserman&#32;(2003). Multiple View Geometry in computer vision.&#32;Cambridge University Press. ISBN 978-0-521-54051-3.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Richard Hartley and Andrew Zisserman&#32;(2003). Multiple View Geometry in computer vision.&#32;Cambridge University Press. ISBN 978-0-521-54051-3.</cite> </entry>
 </list>
 </p>
 <p>
@@ -334,7 +334,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2F293133a0">
-10.1038/293133a0</weblink>.</cite>&nbsp;</entry>
+10.1038/293133a0</weblink>.</cite> </entry>
 </list>
 </p>
 

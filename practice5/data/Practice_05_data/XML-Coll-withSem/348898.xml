@@ -166,14 +166,14 @@ titanium</link> alloys) exhibit a theoretical <link xlink:type="simple" xlink:hr
 fatigue limit</link> below which continued loading does not lead to failure. </entry>
 <entry level="1" type="bullet">
 
-In recent years, researchers (see, for example, the work of Bathias, Murakami, and Stanzl-Tschegg) have found that failures occur below the  theoretical fatigue limit at very high fatigue lives (109 to 1010 cycles). An ultrasonic resonance technique is used in these experiments with frequencies around 10&ndash;20&nbsp;kHz.</entry>
+In recent years, researchers (see, for example, the work of Bathias, Murakami, and Stanzl-Tschegg) have found that failures occur below the  theoretical fatigue limit at very high fatigue lives (109 to 1010 cycles). An ultrasonic resonance technique is used in these experiments with frequencies around 10–20 kHz.</entry>
 <entry level="1" type="bullet">
 
 High cycle <link xlink:type="simple" xlink:href="../816/2589816.xml">
-fatigue strength</link> (about 103 to 108 cycles) can be described by stress-based parameters. A load-controlled servo-hydraulic test rig is commonly used in these tests, with frequencies of around 20&ndash;50&nbsp;Hz. Other sorts of machines&mdash;like resonant magnetic machines&mdash;can also be used, achieving frequencies up to 250&nbsp;Hz.</entry>
+fatigue strength</link> (about 103 to 108 cycles) can be described by stress-based parameters. A load-controlled servo-hydraulic test rig is commonly used in these tests, with frequencies of around 20–50 Hz. Other sorts of machines—like resonant magnetic machines—can also be used, achieving frequencies up to 250 Hz.</entry>
 <entry level="1" type="bullet">
 
-Low cycle fatigue (typically less than 103 cycles) is associated with widespread plasticity; thus, a strain-based parameter should be used for fatigue life prediction. Testing is conducted with constant strain amplitudes at 1&ndash;5&nbsp;Hz.</entry>
+Low cycle fatigue (typically less than 103 cycles) is associated with widespread plasticity; thus, a strain-based parameter should be used for fatigue life prediction. Testing is conducted with constant strain amplitudes at 1–5 Hz.</entry>
 </list>
 </p>
 
@@ -1045,7 +1045,7 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite id="Reference-Stephens-2001" style="font-style:normal" class="book">Stephens, Ralph I.&#32;(2001). Metal Fatigue in Engineering, Second edition,&#32;John Wiley &amp; Sons, Inc.,&#32;69. ISBN 0-471-51059-9.</cite>&nbsp;</entry>
+ <cite id="Reference-Stephens-2001" style="font-style:normal" class="book">Stephens, Ralph I.&#32;(2001). Metal Fatigue in Engineering, Second edition,&#32;John Wiley &amp; Sons, Inc.,&#32;69. ISBN 0-471-51059-9.</cite> </entry>
 <entry id="2">
 W. Schutz (1996). A history of fatigue. <it>Engineering Fracture Mechanics</it> 54: 263-300. <weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016/0013-7944(95)00178-6">
 DOI</weblink></entry>

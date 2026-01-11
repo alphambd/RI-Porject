@@ -1455,7 +1455,7 @@ Davis, Martin</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&#32;(1958). Computability &amp; Unsolvability.&#32;New York:&#32;McGraw-Hill Book Company, Inc..</cite>&nbsp;. A source of important definitions and some Turing machine-based algorithms for a few recursive functions. </entry>
+&#32;(1958). Computability &amp; Unsolvability.&#32;New York:&#32;McGraw-Hill Book Company, Inc..</cite> . A source of important definitions and some Turing machine-based algorithms for a few recursive functions. </entry>
 <entry level="1" type="bullet">
 
  <cite id="Reference-Davis-1965" style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -1475,7 +1475,7 @@ Davis, Martin</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&#32;(1965). The Undecidable: Basic Papers On Undecidable Propostions, Unsolvable Problems and Computable Functions.&#32;New York:&#32;Raven Press.</cite>&nbsp; Davis gives commentary before each article. Papers of <link>
+&#32;(1965). The Undecidable: Basic Papers On Undecidable Propostions, Unsolvable Problems and Computable Functions.&#32;New York:&#32;Raven Press.</cite>  Davis gives commentary before each article. Papers of <link>
 Gödel</link>, <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../731/49731.xml">
 Alonzo Church</link></scientist>
@@ -1491,7 +1491,7 @@ Emil Post</link> are included.</entry>
 <link xlink:type="simple" xlink:href="../756/8756.xml">
 Dennett, Daniel</link></philosopher>
 </person>
-&#32;(1995). Darwin's Dangerous Idea.&#32;New York:&#32;Touchstone/Simon &amp; Schuster.</cite>&nbsp;</entry>
+&#32;(1995). Darwin's Dangerous Idea.&#32;New York:&#32;Touchstone/Simon &amp; Schuster.</cite> </entry>
 <entry level="1" type="bullet">
 
 <physical_entity wordnetid="100001930" confidence="0.8">
@@ -1554,16 +1554,16 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F1990131">
-10.2307/1990131</weblink>.</cite>&nbsp; Reprinted in <it>The Undecidable</it>, p. 255ff. Kleene refined his definition of "general recursion" and proceeded in his chapter "12. Algorithmic theories" to posit "Thesis I" (p. 274); he would later repeat this thesis (in Kleene 1952:300) and name it "Church's Thesis"(Kleene 1952:317) (i.e., the <link>
+10.2307/1990131</weblink>.</cite>  Reprinted in <it>The Undecidable</it>, p. 255ff. Kleene refined his definition of "general recursion" and proceeded in his chapter "12. Algorithmic theories" to posit "Thesis I" (p. 274); he would later repeat this thesis (in Kleene 1952:300) and name it "Church's Thesis"(Kleene 1952:317) (i.e., the <link>
 Church Thesis</link>). </entry>
 <entry level="1" type="bullet">
 
  <cite id="Reference-Kleene-First Edition 1952" style="font-style:normal" class="book"><link xlink:type="simple" xlink:href="../805/28805.xml">
-Kleene, Stephen C.</link>&#32;(First Edition 1952). Introduction to Metamathematics, Tenth Edition 1991,&#32;North-Holland Publishing Company.</cite>&nbsp; Excellent — accessible, readable — reference source for mathematical "foundations".</entry>
+Kleene, Stephen C.</link>&#32;(First Edition 1952). Introduction to Metamathematics, Tenth Edition 1991,&#32;North-Holland Publishing Company.</cite>  Excellent — accessible, readable — reference source for mathematical "foundations".</entry>
 <entry level="1" type="bullet">
 
  <cite id="Reference-Knuth-First Edition 1968" style="font-style:normal" class="book"><link xlink:type="simple" xlink:href="../211/17211.xml">
-Knuth, Donald E..</link>&#32;(First Edition 1968). The Art of Computer Programming Second Edition, Volumne 1/Fundamental Algorithms, 2nd, 1973,&#32;Addison-Wesley Publishing Company.</cite>&nbsp; The first of Knuth's famous series of three texts.</entry>
+Knuth, Donald E..</link>&#32;(First Edition 1968). The Art of Computer Programming Second Edition, Volumne 1/Fundamental Algorithms, 2nd, 1973,&#32;Addison-Wesley Publishing Company.</cite>  The first of Knuth's famous series of three texts.</entry>
 <entry level="1" type="bullet">
 
  Lewis, H.R. and Papadimitriou, C.H. <it>Elements of the Theory of Computation</it>, Prentice-Hall, Uppre Saddle River, N.J., 1998</entry>
@@ -1578,7 +1578,7 @@ A. A. Markov</link> (1954) <it>Theory of algorithms</it>. [Translated by Jacques
 <link xlink:type="simple" xlink:href="../639/19639.xml">
 Minsky, Marvin</link></scientist>
 </person>
-&#32;(1967). Computation: Finite and Infinite Machines, First,&#32;Prentice-Hall, Englewood Cliffs, NJ.</cite>&nbsp; Minsky expands his "...idea of an algorithm — an effective procedure..." in chapter 5.1 <it>Computability, Effective Procedues and Algorithms. Infinite machines."</it></entry>
+&#32;(1967). Computation: Finite and Infinite Machines, First,&#32;Prentice-Hall, Englewood Cliffs, NJ.</cite>  Minsky expands his "...idea of an algorithm — an effective procedure..." in chapter 5.1 <it>Computability, Effective Procedues and Algorithms. Infinite machines."</it></entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../079/147079.xml">
@@ -1609,7 +1609,7 @@ Ian Stewart</link></scientist>
 , <it>Algorithm</it>, Encyclopedia Britannica 2006.</entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Stone, Harold S.. Introduction to Computer Organization and Data Structures, 1972,&#32;McGraw-Hill, New York.</cite>&nbsp; Cf in particular the first chapter titled: <it>Algorithms, Turing Machines, and Programs</it>. His succinct informal definition: "...any sequence of instructions that can be obeyed by a robot, is called an <it>algorithm</it>" (p. 4).</entry>
+ <cite style="font-style:normal" class="book">Stone, Harold S.. Introduction to Computer Organization and Data Structures, 1972,&#32;McGraw-Hill, New York.</cite>  Cf in particular the first chapter titled: <it>Algorithms, Turing Machines, and Programs</it>. His succinct informal definition: "...any sequence of instructions that can be obeyed by a robot, is called an <it>algorithm</it>" (p. 4).</entry>
 <entry level="1" type="bullet">
 
 <link>

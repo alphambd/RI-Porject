@@ -114,8 +114,8 @@ Reduction of Length-Limited Huffman Coding to the Coin Collector's Problem</st>
 <p>
 
 Let <it>L</it> be the maximum length any code word is permitted to have.
-Let <it>p</it>1,&nbsp;&amp;hellip;,&nbsp;<it>pn</it> be the frequencies of the
-symbols of the alphabet to be encoded.  We first sort the symbols so that <it>pi</it>&nbsp;&amp;le;&nbsp;<it>pi</it>+1.  Create <it>L</it> coins for each symbol, of denominations 2&amp;minus;1,&nbsp;&amp;hellip;,&nbsp;2&amp;minus;<it>L</it>, each of numismatic value <it>pi</it>.  Use the package-merge algorithm to select the set of coins of minimum numismatic value whose denominations total <it>n</it>&nbsp;&amp;minus;&nbsp;1.  Let <it>hi</it> be the number of coins of numismatic value <it>pi</it> selected.</p>
+Let <it>p</it>1, &amp;hellip;, <it>pn</it> be the frequencies of the
+symbols of the alphabet to be encoded.  We first sort the symbols so that <it>pi</it> &amp;le; <it>pi</it>+1.  Create <it>L</it> coins for each symbol, of denominations 2&amp;minus;1, &amp;hellip;, 2&amp;minus;<it>L</it>, each of numismatic value <it>pi</it>.  Use the package-merge algorithm to select the set of coins of minimum numismatic value whose denominations total <it>n</it> &amp;minus; 1.  Let <it>hi</it> be the number of coins of numismatic value <it>pi</it> selected.</p>
 <p>
 
 The optimal length-limited Huffman code will encode symbol <it>i</it> with a bit string of length <it>hi</it>.  The <link xlink:type="simple" xlink:href="../171/6946171.xml">

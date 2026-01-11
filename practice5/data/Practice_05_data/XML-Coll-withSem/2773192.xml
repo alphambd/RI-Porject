@@ -516,7 +516,7 @@ Schottky diode</link>.</entry>
 
 Avalanche transistor can also be triggered by lowering the emitter voltage <math>V_E</math>, but this configuration is rarely seen in the literature and in practical circuits.: in reference  <cite class="inline">(<link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFMeilingStary1968%22])">
 Meiling &amp; Stary 1968</link>)</cite>, paragraph 3.2.4 "<it>Trigger circuits</it>" it is described one of such configuration where the avalanche transistor is used itself as a part of the trigger circuit of a complex pulser, while in reference  <cite class="inline">(<link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREF=D0=94=D1=8C=D1=8F=D0=BA=D0=BE=D0=BD=D0=BE=D0=B2_(D'yakonov)1973%22])">
-Дьяконов (D'yakonov) 1973</link>, pp.&nbsp;185)</cite> a balanced level discriminator where a common <link xlink:type="simple" xlink:href="../338/49338.xml">
+Дьяконов (D'yakonov) 1973</link>, pp. 185)</cite> a balanced level discriminator where a common <link xlink:type="simple" xlink:href="../338/49338.xml">
 bipolar junction transistor</link> is <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../936/205936.xml">
 emitter-coupled</link></family>

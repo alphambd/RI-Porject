@@ -475,7 +475,7 @@ Netball</link></header>
 <league wordnetid="108231184" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/1033173.xml">
 Netball World Championships</link></league>
-&nbsp;| 
+ | 
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -487,9 +487,9 @@ Commonwealth Games</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;| 
+ | 
 <link xlink:type="simple" xlink:href="../884/882884.xml">
-IFNA World Rankings</link>&nbsp;| 
+IFNA World Rankings</link> | 
 <link xlink:type="simple" xlink:href="../088/13466088.xml">
 Teams</link></col>
 </row>
@@ -503,24 +503,24 @@ Teams</link></col>
 <col>
 <indent level="1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;  <link>
+      <link>
 Oceania Netball Federation</link>
 </indent>
-:&nbsp;&nbsp;&nbsp;&nbsp;  <link>
+:      <link>
 Confederation of African Netball Associations</link>
 <indent level="1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;  <link>
+      <link>
 Federation of European Netball Associations</link>
 </indent>
-:&nbsp;&nbsp;&nbsp;&nbsp;  <link>
+:      <link>
 Asian Federation of Netball Associations</link>
 <indent level="1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;  <link>
+      <link>
 Americas Federation of Netball Associations</link>
 </indent>
-:&nbsp;&nbsp;&nbsp;&nbsp; <link>
+:     <link>
 <it>Associate members''</it></link></col>
 <col>
 <image location="right" width="220px" src="IFNA_countries.png">
@@ -553,67 +553,67 @@ Asia</link></group>
 border 
 </caption>
 </image>
-&nbsp;<link>
-Hong Kong</link>&nbsp;|
+ <link>
+Hong Kong</link> |
 <image width="22x20px" src="Flag_of_India.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<link>
-India</link>&nbsp;|
+ <link>
+India</link> |
 <image width="22x20px" src="Flag_of_Malaysia.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../211/13480211.xml">
 Malaysia</link></team>
-&nbsp;|
+ |
 <image width="22x20px" src="Flag_of_Maldives.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<link>
-Maldives</link>&nbsp;|
+ <link>
+Maldives</link> |
 <image width="22x20px" src="Flag_of_Pakistan.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<link>
-Pakistan</link>&nbsp;|
+ <link>
+Pakistan</link> |
 <image width="22x20px" src="Flag_of_Sri_Lanka.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<link>
-Sri Lanka</link>&nbsp;|
+ <link>
+Sri Lanka</link> |
 <image width="22x20px" src="Flag_of_Singapore.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../204/13480204.xml">
 Singapore</link></team>
-&nbsp;|
+ |
 <image width="22x20px" src="Flag_of_Thailand.svg">
 <caption>
 
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Thailand</link></col>
 </row>
 </table>

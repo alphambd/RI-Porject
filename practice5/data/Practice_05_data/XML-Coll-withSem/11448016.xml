@@ -159,7 +159,7 @@ Initialise:
  <math>s=c</math>.  The value of <math>s</math> is the amount of time remaining in the game)</entry>
 <entry level="1" type="bullet">
 
- <math>r_1(x_j) = 0</math> &nbsp; <math>\forall j</math>.  The value of <math>r_1(x_j)</math> is the margin at iteration <math>i</math> for example <math>x_j</math>.</entry>
+ <math>r_1(x_j) = 0</math>   <math>\forall j</math>.  The value of <math>r_1(x_j)</math> is the margin at iteration <math>i</math> for example <math>x_j</math>.</entry>
 </list>
 </p>
 <p>

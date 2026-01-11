@@ -239,20 +239,20 @@ Russell's paradox</link></falsehood>
 <list>
 <entry level="2" type="bullet">
 
-1 ∈ <it>G</it>&nbsp;;</entry>
+1 ∈ <it>G</it> ;</entry>
 <entry level="2" type="bullet">
 
-if <it>p</it> ≥ <it>q</it> ∈ <it>G</it>, then <it>p</it> ∈ <it>G</it>&nbsp;;</entry>
+if <it>p</it> ≥ <it>q</it> ∈ <it>G</it>, then <it>p</it> ∈ <it>G</it> ;</entry>
 <entry level="2" type="bullet">
 
-if <it>p</it>,<it>q</it> ∈ <it>G</it>, then ∃<it>r</it> ∈ <it>G</it>, <it>r</it> ≤ <it>p</it> and <it>r</it> ≤ <it>q</it>&nbsp;;</entry>
+if <it>p</it>,<it>q</it> ∈ <it>G</it>, then ∃<it>r</it> ∈ <it>G</it>, <it>r</it> ≤ <it>p</it> and <it>r</it> ≤ <it>q</it> ;</entry>
 </list>
 
 For <it>G</it> to be <it>generic</it> means
 <list>
 <entry level="2" type="bullet">
 
-if <it>D</it> ∈ <b>M</b> is a <it>dense</it> subset of <b>P</b> (that is, <it>p</it> ∈ <b>P</b> implies ∃<it>q</it> ∈ <it>D</it>, <it>q</it> ≤ <it>p</it>) then <it>G</it>∩<it>D</it> ≠ 0&nbsp;.</entry>
+if <it>D</it> ∈ <b>M</b> is a <it>dense</it> subset of <b>P</b> (that is, <it>p</it> ∈ <b>P</b> implies ∃<it>q</it> ∈ <it>D</it>, <it>q</it> ≤ <it>p</it>) then <it>G</it>∩<it>D</it> ≠ 0 .</entry>
 </list>
 </p>
 <p>
@@ -555,7 +555,7 @@ The Independence of the Continuum Hypothesis</weblink> Paul J. Cohen, Proceeding
  Bell, J. L. (1985) <it>Boolean-Valued Models and Independence Proofs in Set Theory</it>, Oxford. ISBN 0-19-853241-5</entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Cohen, P. J.&#32;(1966). Set theory and the continuum hypothesis.&#32;Addison-Wesley. ISBN 0-8053-2327-9.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Cohen, P. J.&#32;(1966). Set theory and the continuum hypothesis.&#32;Addison-Wesley. ISBN 0-8053-2327-9.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFGrishin2001" style="font-style:normal">Grishin, V.N.&#32;(2001),&#32;<weblink xlink:type="simple" xlink:href="http://eom.springer.de/F/f040770.htm">
@@ -586,10 +586,10 @@ Encyclopaedia of Mathematics</link></web_site>
 </creation>
 </work>
 </computer>
-</it>, Kluwer Academic Publishers, ISBN 978-1556080104</cite>&nbsp;</entry>
+</it>, Kluwer Academic Publishers, ISBN 978-1556080104</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Kunen, Kenneth&#32;(1980). .&#32;North-Holland. ISBN 0-444-85401-0.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Kunen, Kenneth&#32;(1980). .&#32;North-Holland. ISBN 0-444-85401-0.</cite> </entry>
 </list>
 
 </p>

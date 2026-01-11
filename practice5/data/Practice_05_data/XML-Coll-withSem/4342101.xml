@@ -268,10 +268,10 @@ Accountability Rating</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../823/6182823.xml#xpointer(//*[./st=%22Exemplary%22])">
-Exemplary</link>&nbsp;· <link xlink:type="simple" xlink:href="../823/6182823.xml#xpointer(//*[./st=%22Recognized%22])">
-Recognized</link>&nbsp;· <b><link xlink:type="simple" xlink:href="../823/6182823.xml#xpointer(//*[./st=%22Academically+Acceptable%22])">
-Academically Acceptable</link></b>&nbsp;· <link xlink:type="simple" xlink:href="../823/6182823.xml#xpointer(//*[./st=%22Academically+Unacceptable%22])">
-Academically Unacceptable</link>&nbsp;· </col>
+Exemplary</link> · <link xlink:type="simple" xlink:href="../823/6182823.xml#xpointer(//*[./st=%22Recognized%22])">
+Recognized</link> · <b><link xlink:type="simple" xlink:href="../823/6182823.xml#xpointer(//*[./st=%22Academically+Acceptable%22])">
+Academically Acceptable</link></b> · <link xlink:type="simple" xlink:href="../823/6182823.xml#xpointer(//*[./st=%22Academically+Unacceptable%22])">
+Academically Unacceptable</link> · </col>
 </row>
 </table>
 </col>
@@ -1008,7 +1008,7 @@ RISD Schools</link></col>
 <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../323/9415323.xml">
 Rockwall</link></school>
-&nbsp;•
+ •
 <school wordnetid="108276720" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../205/11265205.xml">
 Rockwall-Heath</link></school>
@@ -1031,7 +1031,7 @@ CFBISD Schools</link></col>
 Smith</link></institution>
 </educational_institution>
 </school>
-&nbsp;•
+ •
 <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">

@@ -95,7 +95,7 @@ Richard Curtis</name>
 The Girl in the Café</link></it><b>Outstanding Writing for a Miniseries, Movie or a Dramatic Special</b>2006 <it><link>
 The Girl in the Café</link>''</it></emmyawards>
 <birthdate>
-November 8, 1956 (1956-11-08) (age&nbsp;52)</birthdate>
+November 8, 1956 (1956-11-08) (age 52)</birthdate>
 <birthname>
 Richard Whalley Anthony Curtis</birthname>
 <baftaawards>
@@ -892,7 +892,7 @@ Writers/performers</col>
 <link xlink:type="simple" xlink:href="../294/19614294.xml">
 Rowan Atkinson</link></person>
 </comedian>
-&nbsp;·  <film_director wordnetid="110088200" confidence="0.9173553029164789">
+ ·  <film_director wordnetid="110088200" confidence="0.9173553029164789">
 <composer wordnetid="109947232" confidence="0.9173553029164789">
 <manufacturer wordnetid="110292316" confidence="0.9173553029164789">
 <organizer wordnetid="110383237" confidence="0.9173553029164789">
@@ -907,7 +907,7 @@ Richard Curtis</link></writer>
 </manufacturer>
 </composer>
 </film_director>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <performer wordnetid="110415638" confidence="0.8">
@@ -924,7 +924,7 @@ Robin Driscoll</link></entertainer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <comedian wordnetid="109940146" confidence="0.9173553029164789">
+ ·  <comedian wordnetid="109940146" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <director wordnetid="110014939" confidence="0.9173553029164789">
 <writer wordnetid="110794014" confidence="0.9173553029164789">
@@ -933,7 +933,7 @@ Ben Elton</link></writer>
 </director>
 </person>
 </comedian>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../914/1743914.xml">
 Matilda Ziegler</link></actor>
 </col>
@@ -974,7 +974,7 @@ Howard Goodall</link></diplomat>
 </stoic>
 </skilled_worker>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <maker wordnetid="110284064" confidence="0.8">
 <actor wordnetid="109765278" confidence="0.8">
@@ -1001,10 +1001,10 @@ John Howard Davies</link></entertainer>
 </maker>
 </person>
 </physical_entity>
-&nbsp;·  <comedian wordnetid="109940146" confidence="0.9508927676800064">
+ ·  <comedian wordnetid="109940146" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../567/20567.xml">
 Mel Smith</link></comedian>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -1061,7 +1061,7 @@ Animated series</link></language_unit>
 </change>
 </beginning>
 </announcement>
-&nbsp;·  &nbsp;·  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
+ ·   ·  <it><movie wordnetid="106613686" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../730/1120730.xml">
 Mr. Bean's Holiday</link></movie>
 ''</it></col>

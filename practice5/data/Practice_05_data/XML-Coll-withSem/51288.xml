@@ -344,7 +344,7 @@ The unique identifiers are remembered during translation so that the target lang
 History of translation memories</st>
 <p>
 
-The concept behind translation memories is not recent &mdash; university research into the concept began in the late 1970s, and the earliest commercializations became available in the late 1980s &mdash; but they became commercially viable only in the late 1990s. Originally translation memory systems stored aligned source and target sentences in a database, from which they could be recalled during translation. The problem with this 'leveraged' approach is that there is no guarantee if the new source language sentence is from the same context as the original database sentence. Therefore all 'leveraged' matches require that a translator reviews the memory match for relevance in the new document. Although cheaper than outright translation, this review still carries a cost.</p>
+The concept behind translation memories is not recent — university research into the concept began in the late 1970s, and the earliest commercializations became available in the late 1980s — but they became commercially viable only in the late 1990s. Originally translation memory systems stored aligned source and target sentences in a database, from which they could be recalled during translation. The problem with this 'leveraged' approach is that there is no guarantee if the new source language sentence is from the same context as the original database sentence. Therefore all 'leveraged' matches require that a translator reviews the memory match for relevance in the new document. Although cheaper than outright translation, this review still carries a cost.</p>
 
 </sec>
 <sec>

@@ -746,7 +746,7 @@ Academic Press</link></influence>
 <entry level="1" type="bullet">
 
    <cite id="CITEREFThomas.2C_James_J.2C_and_Cook.2C_Kristin_A.2C_Ed.2009" style="font-style:normal">Thomas, James J, and Cook, Kristin A, Ed.&#32;(2005),&#32;<it><weblink xlink:type="simple" xlink:href="http://nvac.pnl.gov/agenda.stm">
-Illuminating the Path: The Research and Development Agenda for Visual Analytics</weblink></it>, Los Alamitos, CA.: IEEE Computer Society, </cite>&nbsp;</entry>
+Illuminating the Path: The Research and Development Agenda for Visual Analytics</weblink></it>, Los Alamitos, CA.: IEEE Computer Society, </cite> </entry>
 <entry level="1" type="bullet">
 
  Globus, Al. Eric Raible. "Fourteen Ways to Say Nothing With Scientific Visualization". Computer. July 1994. pp. 86-88</entry>
@@ -791,7 +791,7 @@ Shneiderman, Ben</link></scientist>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">Mackinlay, Jock D.&#32;(1999). Readings in information visualization: using vision to think, <link xlink:type="simple" xlink:href="../965/1885965.xml">
-Card, S. K.</link>, Ben Shneiderman (eds.),&#32;Morgan Kaufmann Publishers Inc,&#32;686. ISBN 1-55860-533-9.</cite>&nbsp;</entry>
+Card, S. K.</link>, Ben Shneiderman (eds.),&#32;Morgan Kaufmann Publishers Inc,&#32;686. ISBN 1-55860-533-9.</cite> </entry>
 <entry level="1" type="bullet">
 
  Cleveland, William S. (1993). Visualizing Data.</entry>
@@ -1088,8 +1088,8 @@ Visualization</link></method>
 Fields</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../999/5317999.xml">
-Creative visualization</link>&nbsp;·  <link xlink:type="simple" xlink:href="../266/8288266.xml">
-Chemical imaging</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+Creative visualization</link> ·  <link xlink:type="simple" xlink:href="../266/8288266.xml">
+Chemical imaging</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1102,15 +1102,15 @@ Crime mapping</link></method>
 </artifact>
 </system>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../736/3461736.xml">
-Data visualization</link>&nbsp;·  <link>
-Educational visualization</link>&nbsp;·  <link xlink:type="simple" xlink:href="../574/5036574.xml">
-Flow visualization</link>&nbsp;·  <link xlink:type="simple" xlink:href="../830/2794830.xml">
-Geovisualization</link>&nbsp;·   <link xlink:type="simple" xlink:href="../587/89587.xml">
-Information visualization</link>&nbsp;·  <link xlink:type="simple" xlink:href="../946/19266946.xml">
-Mathematical visualization</link>&nbsp;·   <link xlink:type="simple" xlink:href="../714/234714.xml">
-Medical imaging</link>&nbsp;·  <link xlink:type="simple" xlink:href="../505/4927505.xml">
-Molecular graphics</link>&nbsp;·  <process wordnetid="100029677" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../736/3461736.xml">
+Data visualization</link> ·  <link>
+Educational visualization</link> ·  <link xlink:type="simple" xlink:href="../574/5036574.xml">
+Flow visualization</link> ·  <link xlink:type="simple" xlink:href="../830/2794830.xml">
+Geovisualization</link> ·   <link xlink:type="simple" xlink:href="../587/89587.xml">
+Information visualization</link> ·  <link xlink:type="simple" xlink:href="../946/19266946.xml">
+Mathematical visualization</link> ·   <link xlink:type="simple" xlink:href="../714/234714.xml">
+Medical imaging</link> ·  <link xlink:type="simple" xlink:href="../505/4927505.xml">
+Molecular graphics</link> ·  <process wordnetid="100029677" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <phenomenon wordnetid="100034213" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1125,16 +1125,16 @@ Music visualization</link></medium>
 </phenomenon>
 </physical_entity>
 </process>
-&nbsp;·  <link>
-Product visualization</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link>
+Product visualization</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../963/575963.xml">
 Scientific visualization</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../397/3070397.xml">
-Software visualization</link>&nbsp;·  <link xlink:type="simple" xlink:href="../016/698016.xml">
+ ·  <link xlink:type="simple" xlink:href="../397/3070397.xml">
+Software visualization</link> ·  <link xlink:type="simple" xlink:href="../016/698016.xml">
 Volume visualization</link></col>
 </row>
 <row style="height:2px">
@@ -1145,26 +1145,26 @@ Volume visualization</link></col>
 Image types</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../460/164460.xml">
-Chart</link>&nbsp;·  <link xlink:type="simple" xlink:href="../210/18567210.xml">
-Computer graphics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../669/598669.xml">
-Diagram</link>&nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+Chart</link> ·  <link xlink:type="simple" xlink:href="../210/18567210.xml">
+Computer graphics</link> ·  <link xlink:type="simple" xlink:href="../669/598669.xml">
+Diagram</link> ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../352/87352.xml">
 Graph of a function</link></function>
 </mathematical_relation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../731/14731.xml">
-Ideogram</link>&nbsp;·  <link xlink:type="simple" xlink:href="../107/247107.xml">
-Illustration</link>&nbsp;·  <link xlink:type="simple" xlink:href="../525/992525.xml">
-Information graphics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../877/19877.xml">
-Map</link>&nbsp;·  <link xlink:type="simple" xlink:href="../080/25080.xml">
-Photograph</link>&nbsp;·  <link xlink:type="simple" xlink:href="../313/168313.xml">
-Pictogram</link>&nbsp;·  <chart wordnetid="106999802" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../731/14731.xml">
+Ideogram</link> ·  <link xlink:type="simple" xlink:href="../107/247107.xml">
+Illustration</link> ·  <link xlink:type="simple" xlink:href="../525/992525.xml">
+Information graphics</link> ·  <link xlink:type="simple" xlink:href="../877/19877.xml">
+Map</link> ·  <link xlink:type="simple" xlink:href="../080/25080.xml">
+Photograph</link> ·  <link xlink:type="simple" xlink:href="../313/168313.xml">
+Pictogram</link> ·  <chart wordnetid="106999802" confidence="0.8">
 <visual_communication wordnetid="106873252" confidence="0.8">
 <link xlink:type="simple" xlink:href="../463/15934463.xml">
 Statistical graphics</link></visual_communication>
 </chart>
-&nbsp;·  <link xlink:type="simple" xlink:href="../862/337862.xml">
-Table</link>&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../862/337862.xml">
+Table</link> ·  <occupation wordnetid="100582388" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1201,7 +1201,7 @@ Jacques Bertin</link></cartographer>
 </person>
 </expert>
 </physical_entity>
-&nbsp;·   <physical_entity wordnetid="100001930" confidence="0.8">
+ ·   <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <colleague wordnetid="109935990" confidence="0.8">
@@ -1218,7 +1218,7 @@ Stuart Card</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <pioneer wordnetid="110434725" confidence="0.8">
@@ -1241,10 +1241,10 @@ Thomas A. DeFanti</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../629/18328629.xml">
 Michael Friendly</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <interior_designer wordnetid="110210648" confidence="0.8">
@@ -1257,7 +1257,7 @@ Nigel Holmes</link></causal_agent>
 </person>
 </expert>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1268,7 +1268,7 @@ Jock D. Mackinlay</link></research_worker>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <specialist wordnetid="110631941" confidence="0.8">
@@ -1291,7 +1291,7 @@ Michael Maltz</link></research_worker>
 </person>
 </expert>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1300,13 +1300,13 @@ Bruce H. McCormick</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../071/3761071.xml">
 Charles Joseph Minard</link></scientist>
-&nbsp;·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
+ ·  <philosopher wordnetid="110423589" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../089/50089.xml">
 Otto Neurath</link></philosopher>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <economist wordnetid="110043643" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1331,10 +1331,10 @@ William Playfair</link></mathematician>
 </economist>
 </expert>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../170/268170.xml">
 Clifford A. Pickover</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1351,7 +1351,7 @@ Arthur H. Robinson</link></scholar>
 </person>
 </expert>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
 <alumnus wordnetid="109786338" confidence="0.8">
@@ -1368,10 +1368,10 @@ Lawrence J. Rosenblum</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../215/184215.xml">
 Adolphe Quetelet</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -1382,12 +1382,12 @@ George G. Robertson</link></research_worker>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/1833304.xml">
 Ben Shneiderman</link></scientist>
 </person>
-&nbsp;·  <statistician wordnetid="110653238" confidence="0.9173553029164789">
+ ·  <statistician wordnetid="110653238" confidence="0.9173553029164789">
 <writer wordnetid="110794014" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/263977.xml">
 Edward Tufte</link></writer>
@@ -1402,14 +1402,14 @@ Edward Tufte</link></writer>
 Related topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../294/7294.xml">
-Cartography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../168/18567168.xml">
-Computer graphics</link> &nbsp;·  <link xlink:type="simple" xlink:href="../813/325813.xml">
-Graph drawing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../799/12799.xml">
-Graphic design</link>&nbsp;·  <link xlink:type="simple" xlink:href="../247/1103247.xml">
-Imaging science</link>&nbsp;·  <link xlink:type="simple" xlink:href="../354/149354.xml">
-Information science</link> &nbsp;·  <link xlink:type="simple" xlink:href="../917/599917.xml">
-Mental visualisation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../219/3557219.xml">
-Neuroimaging</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+Cartography</link> ·  <link xlink:type="simple" xlink:href="../168/18567168.xml">
+Computer graphics</link>  ·  <link xlink:type="simple" xlink:href="../813/325813.xml">
+Graph drawing</link> ·  <link xlink:type="simple" xlink:href="../799/12799.xml">
+Graphic design</link> ·  <link xlink:type="simple" xlink:href="../247/1103247.xml">
+Imaging science</link> ·  <link xlink:type="simple" xlink:href="../354/149354.xml">
+Information science</link>  ·  <link xlink:type="simple" xlink:href="../917/599917.xml">
+Mental visualisation</link> ·  <link xlink:type="simple" xlink:href="../219/3557219.xml">
+Neuroimaging</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <category wordnetid="105838765" confidence="0.8">
 <type wordnetid="105840188" confidence="0.8">
@@ -1420,15 +1420,15 @@ Spatial analysis</link></kind>
 </category>
 </concept>
 </idea>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../904/18152904.xml">
 Visual analytics</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../120/669120.xml">
-Visual communication</link>&nbsp;·  <link xlink:type="simple" xlink:href="../675/241675.xml">
+ ·  <link xlink:type="simple" xlink:href="../120/669120.xml">
+Visual communication</link> ·  <link xlink:type="simple" xlink:href="../675/241675.xml">
 Visual perception</link></col>
 </row>
 </table>

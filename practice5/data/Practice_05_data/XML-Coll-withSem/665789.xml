@@ -30,7 +30,7 @@ __TOC__</col>
 <b>Web traffic</b> is the amount of data sent and received by visitors to a <link xlink:type="simple" xlink:href="../898/33898.xml">
 web site</link>.  It is a large portion of <link xlink:type="simple" xlink:href="../845/856845.xml">
 Internet traffic</link>.  This is determined by the number of visitors and the number of pages they visit.  Sites monitor the incoming and outgoing traffic to see which parts or pages of their site are popular and if there are any apparent trends, such as one specific page being viewed mostly by people in a particular country.  There are many ways to monitor this traffic and the gathered data is used to help structure sites, highlight security problems or indicate a potential lack of <link xlink:type="simple" xlink:href="../827/15612827.xml">
-bandwidth</link> &mdash; not all web traffic is welcome.<p>
+bandwidth</link> — not all web traffic is welcome.<p>
 
 Some companies offer advertising schemes that, in return for increased web traffic (visitors), pay for screen space on the site.  Sites also often aim to increase their web traffic through inclusion on <link xlink:type="simple" xlink:href="../023/4059023.xml">
 search engine</link>s and through <link xlink:type="simple" xlink:href="../946/187946.xml">
@@ -51,7 +51,7 @@ Example graph of <b>web traffic</b> at Wikipedia in December 2004
 Web traffic is measured to see the popularity of web sites and individual pages or sections within a site.</p>
 <p>
 
-Web traffic can be analysed by viewing the traffic statistics found in the web server log file, an automatically-generated list of all the pages served.  A <it>hit</it> is generated when any file is served.  The page itself is considered a file, but images are also files, thus a page with 5 images could generate 6 hits (the 5 images and the page itself).  A <it>page view</it> is generated when a visitor requests any page within the web site &ndash; a visitor will always generate at least one page view (the main page) but could generate many more.</p>
+Web traffic can be analysed by viewing the traffic statistics found in the web server log file, an automatically-generated list of all the pages served.  A <it>hit</it> is generated when any file is served.  The page itself is considered a file, but images are also files, thus a page with 5 images could generate 6 hits (the 5 images and the page itself).  A <it>page view</it> is generated when a visitor requests any page within the web site – a visitor will always generate at least one page view (the main page) but could generate many more.</p>
 <p>
 
 Tracking applications external to the web site can record traffic by inserting a small piece of <format wordnetid="106636806" confidence="0.9508927676800064">
@@ -82,31 +82,31 @@ The following types of information are often collated when monitoring web traffi
 The number of visitors.</entry>
 <entry level="1" type="bullet">
 
-The average number of page views per visitor &ndash; a high number would indicate that the average visitors go deep inside the site, possibly because they like it or find it useful.  Conversely, it could indicate an inability to find desired information easily.</entry>
+The average number of page views per visitor – a high number would indicate that the average visitors go deep inside the site, possibly because they like it or find it useful.  Conversely, it could indicate an inability to find desired information easily.</entry>
 <entry level="1" type="bullet">
 
-Average visit duration &ndash; the total length of a user's visit</entry>
+Average visit duration – the total length of a user's visit</entry>
 <entry level="1" type="bullet">
 
-Average page duration &ndash; how long a page is viewed for</entry>
+Average page duration – how long a page is viewed for</entry>
 <entry level="1" type="bullet">
 
-Domain classes &ndash; all levels of the IP Addressing information required to deliver Webpages and content. </entry>
+Domain classes – all levels of the IP Addressing information required to deliver Webpages and content. </entry>
 <entry level="1" type="bullet">
 
-Busy times &ndash; the most popular viewing time of the site would show when would be the best time to do promotional campaigns and when would be the most ideal to perform maintenance</entry>
+Busy times – the most popular viewing time of the site would show when would be the best time to do promotional campaigns and when would be the most ideal to perform maintenance</entry>
 <entry level="1" type="bullet">
 
-Most requested pages &ndash; the most popular pages</entry>
+Most requested pages – the most popular pages</entry>
 <entry level="1" type="bullet">
 
-Most requested entry pages &ndash; the entry page is the first page viewed by a visitor and shows which are the pages most attracting visitors</entry>
+Most requested entry pages – the entry page is the first page viewed by a visitor and shows which are the pages most attracting visitors</entry>
 <entry level="1" type="bullet">
 
-Most requested exit pages &ndash; the most requested exit pages could help find bad pages, broken links or the exit pages may have a popular external link</entry>
+Most requested exit pages – the most requested exit pages could help find bad pages, broken links or the exit pages may have a popular external link</entry>
 <entry level="1" type="bullet">
 
-Top paths &ndash; a path is the sequence of pages viewed by visitors from entry to exit, with the top paths identifying the way most customers go through the site</entry>
+Top paths – a path is the sequence of pages viewed by visitors from entry to exit, with the top paths identifying the way most customers go through the site</entry>
 <entry level="1" type="bullet">
 
 Referrers; The host can track the (apparent) source of the <link xlink:type="simple" xlink:href="../547/49547.xml">
@@ -321,7 +321,7 @@ Yahoo!</link></company>
 </p>
 <p>
 
-As users got used to seeing banners, some companies chose to make the advertisements more intrusive &ndash; <link xlink:type="simple" xlink:href="../320/466320.xml">
+As users got used to seeing banners, some companies chose to make the advertisements more intrusive – <link xlink:type="simple" xlink:href="../320/466320.xml">
 pop-up ad</link>s became particularly popular to attract attention.  However, most people consider pop-ups a nuisance and several software companies offer free pop-up blockers. Microsoft included a pop-up blocker in Service Pack 2 of <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../879/33879.xml">
 Windows XP</link></version>
@@ -435,7 +435,7 @@ Malacinski, Andrei; Dominick, Scott &amp; Hartrick, Tom (<link xlink:type="simpl
 "Measuring Web traffic"</weblink> at <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../259/18622259.xml">
 IBM</link></company>
- &ndash; retrieved <link xlink:type="simple" xlink:href="../787/15787.xml">
+ – retrieved <link xlink:type="simple" xlink:href="../787/15787.xml">
 1 January</link>, <link xlink:type="simple" xlink:href="../984/35984.xml">
 2005</link></entry>
 <entry level="1" type="bullet">
@@ -443,7 +443,7 @@ IBM</link></company>
 Machlis, Sharon (<link xlink:type="simple" xlink:href="../798/15798.xml">
 17 June</link>, <link xlink:type="simple" xlink:href="../502/35502.xml">
 2002</link>). <weblink xlink:type="simple" xlink:href="http://www.computerworld.com/managementtopics/ebusiness/story/0,10801,71989,00.html">
-"Measuring Web Site Traffic"</weblink> at ComputerWorld.com &ndash; retrieved <link xlink:type="simple" xlink:href="../787/15787.xml">
+"Measuring Web Site Traffic"</weblink> at ComputerWorld.com – retrieved <link xlink:type="simple" xlink:href="../787/15787.xml">
 1 January</link>, <link xlink:type="simple" xlink:href="../984/35984.xml">
 2005</link></entry>
 <entry level="1" type="bullet">
@@ -451,7 +451,7 @@ Machlis, Sharon (<link xlink:type="simple" xlink:href="../798/15798.xml">
 Ward, Mark (<link xlink:type="simple" xlink:href="../352/19352.xml">
 5 May</link>, <link xlink:type="simple" xlink:href="../163/36163.xml">
 2003</link>). <weblink xlink:type="simple" xlink:href="http://www.thisdayonline.com/archive/2003/05/08/20030508e-b09.html">
-"The Dangers of Having a Good Idea"</weblink> &ndash; A <weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/2/hi/technology/2995343.stm">
+"The Dangers of Having a Good Idea"</weblink> – A <weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/2/hi/technology/2995343.stm">
 BBC News</weblink> look at the case of <link xlink:type="simple" xlink:href="../030/484030.xml">
 freelance</link> <link xlink:type="simple" xlink:href="../100/50100.xml">
 journalist</link> Glenn Fleishman after his site was linked to from <work wordnetid="104599396" confidence="0.8">
@@ -483,7 +483,7 @@ MacCentral</link></web_site>
 </creation>
 </computer>
 </work>
- &ndash; retrieved <link xlink:type="simple" xlink:href="../863/15863.xml">
+ – retrieved <link xlink:type="simple" xlink:href="../863/15863.xml">
 7 July</link>, <link xlink:type="simple" xlink:href="../984/35984.xml">
 2005</link></entry>
 </list>
@@ -492,7 +492,7 @@ MacCentral</link></web_site>
 <entry id="1">
 Miller, Rich&#32;(<link>
 2004-10-26</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://news.netcraft.com/archives/2004/10/26/bush_campaign_web_site_rejects_nonus_visitors.html">
-Bush Campaign Web Site Rejects Non-US Visitors</weblink>".&nbsp;
+Bush Campaign Web Site Rejects Non-US Visitors</weblink>". 
 </entry>
 </reflist>
 
@@ -507,7 +507,7 @@ External links</st>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.alexa.com">
-Alexa.com</weblink> &ndash; a website that tracks webtraffic.</entry>
+Alexa.com</weblink> – a website that tracks webtraffic.</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.boxesandarrows.com/archives/web_traffic_analytics_and_user_experience.php">

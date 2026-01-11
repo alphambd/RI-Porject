@@ -331,7 +331,7 @@ Bellman-Ford algorithm</link></algorithm>
  is used, starting from the new vertex <it>q</it>, to find for each vertex <it>v</it> the least weight <it>h</it>(<it>v</it>) of a path from <it>q</it> to <it>v</it>. If this step detects a negative cycle, the algorithm is terminated.</entry>
 <entry level="1" type="number">
 
-Next the edges of the original graph are reweighted using the values computed by the Bellman-Ford algorithm: an edge from <it>u</it> to <it>v</it>, having length <it>w(u,v)</it>, is given the new length <it>w(u,v)</it>&nbsp;+&nbsp;<it>h(u)</it>&nbsp;&amp;minus;<it>h(v)</it>.</entry>
+Next the edges of the original graph are reweighted using the values computed by the Bellman-Ford algorithm: an edge from <it>u</it> to <it>v</it>, having length <it>w(u,v)</it>, is given the new length <it>w(u,v)</it> + <it>h(u)</it> &amp;minus;<it>h(v)</it>.</entry>
 <entry level="1" type="number">
 
 Finally, for each node <it>s</it>, <event wordnetid="100029378" confidence="0.8">
@@ -354,7 +354,7 @@ Dijkstra's algorithm</link></algorithm>
 </p>
 <p>
 
-In the reweighted graph, all paths between a pair <it>s</it> and <it>t</it> of nodes have the same quantity <it>h(s)</it>&nbsp;-<it>h(t)</it> added to them, so a path that is shortest in the original graph remains shortest in the modified graph and vice versa. However, due to the way the values <it>h(v)</it> were computed, all modified edge lengths are non-negative, ensuring the optimality of the paths found by Dijkstra's algorithm. The distances in the original graph may be calculated from the distances calculated by Dijkstra's algorithm in the reweighted graph by reversing the reweighting transformation.</p>
+In the reweighted graph, all paths between a pair <it>s</it> and <it>t</it> of nodes have the same quantity <it>h(s)</it> -<it>h(t)</it> added to them, so a path that is shortest in the original graph remains shortest in the modified graph and vice versa. However, due to the way the values <it>h(v)</it> were computed, all modified edge lengths are non-negative, ensuring the optimality of the paths found by Dijkstra's algorithm. The distances in the original graph may be calculated from the distances calculated by Dijkstra's algorithm in the reweighted graph by reversing the reweighting transformation.</p>
 
 </sec>
 <sec>
@@ -389,7 +389,7 @@ The first three stages of Johnson's algorithm are depicted in the illustration b
 </p>
 <p>
 
-The graph on the left of the illustration has two negative edges, but no negative cycles. At the center is shown the new vertex <it>q</it>, a shortest path tree as computed by the Bellman-Ford algorithm with <it>q</it> as starting vertex, and the values <it>h</it>(<it>v</it>) computed at each other node as the length of the shortest path from <it>q</it> to that node. Note that these values are all non-positive, because <it>q</it> has a length-zero edge to each vertex and the shortest path can be no longer than that edge. On the right is shown the reweighted graph, formed by replacing each edge weight <it>w(u,v)</it> by <it>w(u,v)</it>&nbsp;+&nbsp;<it>h(u)</it>&nbsp;&amp;minus;<it>h(v)</it>. In this reweighted graph, all edge weights are non-negative, but the shortest path between any two nodes uses the same sequence of edges as the shortest path between the same two nodes in the original graph. The algorithm concludes by applying Dijkstra's algorithm to each of the four starting nodes in the reweighted graph.
+The graph on the left of the illustration has two negative edges, but no negative cycles. At the center is shown the new vertex <it>q</it>, a shortest path tree as computed by the Bellman-Ford algorithm with <it>q</it> as starting vertex, and the values <it>h</it>(<it>v</it>) computed at each other node as the length of the shortest path from <it>q</it> to that node. Note that these values are all non-positive, because <it>q</it> has a length-zero edge to each vertex and the shortest path can be no longer than that edge. On the right is shown the reweighted graph, formed by replacing each edge weight <it>w(u,v)</it> by <it>w(u,v)</it> + <it>h(u)</it> &amp;minus;<it>h(v)</it>. In this reweighted graph, all edge weights are non-negative, but the shortest path between any two nodes uses the same sequence of edges as the shortest path between the same two nodes in the original graph. The algorithm concludes by applying Dijkstra's algorithm to each of the four starting nodes in the reweighted graph.
 </p>
 </sec>
 <sec>
@@ -412,7 +412,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F321992.321993">
-10.1145/321992.321993</weblink></cite>&nbsp;.</entry>
+10.1145/321992.321993</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -422,7 +422,7 @@ doi</link></writing>
 
  <cite id="CITEREFBlack2004" style="font-style:normal">Black, Paul E.&#32;(2004),&#32;<weblink xlink:type="simple" xlink:href="http://www.nist.gov/dads/HTML/johnsonsAlgorithm.html">
 "Johnson's Algorithm"</weblink>,&#32;<it>Dictionary of Algorithms and Data Structures</it>, <link xlink:type="simple" xlink:href="../888/21888.xml">
-National Institute of Standards and Technology</link>, </cite>&nbsp;.</entry>
+National Institute of Standards and Technology</link>, </cite> .</entry>
 </list>
 </p>
 <p>
@@ -447,7 +447,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, MIT Press and McGraw-Hill, ISBN 978-0-262-03293-3</cite>&nbsp;. Section 25.3, "Johnson's algorithm for sparse graphs", pp. 636–640.</entry>
+</it>, MIT Press and McGraw-Hill, ISBN 978-0-262-03293-3</cite> . Section 25.3, "Johnson's algorithm for sparse graphs", pp. 636–640.</entry>
 </list>
 </p>
 

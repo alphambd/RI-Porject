@@ -62,9 +62,9 @@ Hypertext Transfer Protocol</link></system_of_measurement>
 </protocol>
 </information>
 </message>
- (HTTP), does not actually make any distinction between "deep" links and any other links&mdash;all links are functionally equal. This is intentional; one of the designed purposes of the Web is to allow authors to link to any published document on another site. The possibility of so-called "deep" linking is therefore built into the Web technology of <link xlink:type="simple" xlink:href="../104/2701104.xml">
+ (HTTP), does not actually make any distinction between "deep" links and any other links—all links are functionally equal. This is intentional; one of the designed purposes of the Web is to allow authors to link to any published document on another site. The possibility of so-called "deep" linking is therefore built into the Web technology of <link xlink:type="simple" xlink:href="../104/2701104.xml">
 HTTP</link> and <link xlink:type="simple" xlink:href="../277/32277.xml">
-URL</link>s by default&mdash;while a site can attempt to restrict deep links, to do so requires extra effort. According to the <company wordnetid="108058098" confidence="0.9508927676800064">
+URL</link>s by default—while a site can attempt to restrict deep links, to do so requires extra effort. According to the <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../149/33149.xml">
 World Wide Web Consortium</link></company>
  Technical Architecture Group, "any attempt to forbid the practice of deep linking is based on a misunderstanding of the technology, and threatens to undermine the functioning of the Web as a whole". One way to prevent deep linking is to configure the web server to check the referring URL using a <link xlink:type="simple" xlink:href="../738/265738.xml">
@@ -227,7 +227,7 @@ Tim Bray&#32;(2003-09-11).&#32;"<weblink xlink:type="simple" xlink:href="http://
 2007-05-30</link>.</entry>
 <entry id="2">
 Finley, Michelle&#32;(2000-03-30).&#32;"Attention Editors: Deep Link Away", Wired News.&#32;Retrieved on <link>
-2006-11-05</link>.&nbsp;</entry>
+2006-11-05</link>. </entry>
 <entry id="3">
 "<weblink xlink:type="simple" xlink:href="http://www.adobe.com/devnet/flash/articles/deep_linking.html">
 Deep-linking to frames in Flash websites</weblink>".</entry>

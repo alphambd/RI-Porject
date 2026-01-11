@@ -381,7 +381,7 @@ David S. Johnson</link></associate>
 </peer>
 </physical_entity>
 &#32;(1979). <weblink xlink:type="simple" xlink:href="http://www.amazon.com/dp/0716710455">
-http://www.amazon.com/dp/0716710455</weblink> .&#32;W.H. Freeman. ISBN 0-7167-1045-5.</cite>&nbsp;</entry>
+http://www.amazon.com/dp/0716710455</weblink> .&#32;W.H. Freeman. ISBN 0-7167-1045-5.</cite> </entry>
 </list>
 </p>
 
@@ -409,43 +409,43 @@ more</link>)</header>
 P</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../562/21562.xml">
 NP</link></group>
 </collection>
 </class>
-&nbsp;• <link xlink:type="simple" xlink:href="../184/6184.xml">
-co-NP</link>&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../184/6184.xml">
+co-NP</link> • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../466/39466.xml">
 NP-C</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../680/54680.xml">
 co-NP-C</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../681/54681.xml">
 NP-hard</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../240/312240.xml">
 UP</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../924/27924.xml">
@@ -457,7 +457,7 @@ P</entry>
 </link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../925/27925.xml">
@@ -469,7 +469,7 @@ P-C</entry>
 </link></group>
 </collection>
 </class>
-&nbsp;• <mathematical_relation wordnetid="113783581" confidence="0.8">
+ • <mathematical_relation wordnetid="113783581" confidence="0.8">
 <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -482,7 +482,7 @@ L</link></function>
 </collection>
 </class>
 </mathematical_relation>
-&nbsp;• <mathematical_relation wordnetid="113783581" confidence="0.8">
+ • <mathematical_relation wordnetid="113783581" confidence="0.8">
 <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -495,21 +495,21 @@ NL</link></function>
 </collection>
 </class>
 </mathematical_relation>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../073/22073.xml">
 NC</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../683/54683.xml">
 P-C</link></group>
 </collection>
 </class>
-&nbsp;• <mathematical_relation wordnetid="113783581" confidence="0.8">
+ • <mathematical_relation wordnetid="113783581" confidence="0.8">
 <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -522,120 +522,120 @@ PSPACE</link></function>
 </collection>
 </class>
 </mathematical_relation>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../685/54685.xml">
 PSPACE-C</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../694/54694.xml">
 EXPTIME</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../657/663657.xml">
 NEXPTIME</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../703/54703.xml">
 EXPSPACE</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../202/11387202.xml">
 2-EXPTIME</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../897/3106897.xml">
 PR</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../703/3106703.xml">
 RE</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../741/3106741.xml">
 Co-RE</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../251/3123251.xml">
 RE-C</link></group>
 </collection>
 </class>
-&nbsp;• <link xlink:type="simple" xlink:href="../283/3123283.xml">
-Co-RE-C</link>&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../283/3123283.xml">
+Co-RE-C</link> • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../763/3106763.xml">
 R</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../080/4080.xml">
 BQP</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../079/4079.xml">
 BPP</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../771/54771.xml">
 RP</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../772/54772.xml">
 ZPP</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../509/504509.xml">
 PCP</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../070/2197070.xml">
 IP</link></group>
 </collection>
 </class>
-&nbsp;• <class wordnetid="107997703" confidence="0.8">
+ • <class wordnetid="107997703" confidence="0.8">
 <collection wordnetid="107951464" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../608/658608.xml">

@@ -116,7 +116,7 @@ Big East</link></col>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -150,7 +150,7 @@ Rob Chudzinski</link></person>
 </row>
 <row>
 <header>
-Offensive&nbsp;scheme</header>
+Offensive scheme</header>
 <col style="vertical-align:middle;">
 Pro Style</col>
 </row>
@@ -185,7 +185,7 @@ Randy Shannon</link></trainer>
 </row>
 <row>
 <header>
-Base&nbsp;defense</header>
+Base defense</header>
 <col style="vertical-align:middle;">
  <link xlink:type="simple" xlink:href="../826/1372826.xml#xpointer(//*[./st=%224-3%22])">
 4-3</link> <link xlink:type="simple" xlink:href="../826/1372826.xml#xpointer(//*[./st=%22Cover+2%22])">
@@ -193,7 +193,7 @@ Cover 2</link></col>
 </row>
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -213,11 +213,11 @@ Miami Orange Bowl</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link>
+ &amp;laquo; <link>
 2000</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../746/14757746.xml">
-2002</link>&nbsp;&amp;raquo;</col>
+2002</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -2468,7 +2468,7 @@ Tennessee</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 </person>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../868/7008868.xml">
 Florida State</link></team>
@@ -2485,7 +2485,7 @@ Florida State</link></team>
 </person>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <link xlink:type="simple" xlink:href="../810/6321810.xml">
 Oklahoma</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
@@ -2500,7 +2500,7 @@ Oklahoma</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 </person>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <link xlink:type="simple" xlink:href="../648/2517648.xml">
 Miami</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
@@ -2515,7 +2515,7 @@ Miami</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 </person>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <link xlink:type="simple" xlink:href="../172/6000172.xml">
 Ohio State</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
@@ -2530,7 +2530,7 @@ Ohio State</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 </person>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <diversion wordnetid="100426928" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -2567,7 +2567,7 @@ LSU</link></activity>
 </fundamental_quantity>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <link xlink:type="simple" xlink:href="../216/2514216.xml">
 USC</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
@@ -2588,7 +2588,7 @@ USC</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 </fundamental_quantity>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
@@ -2603,7 +2603,7 @@ Texas</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 </person>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <link xlink:type="simple" xlink:href="../011/6161011.xml">
 Florida</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
@@ -2624,7 +2624,7 @@ Florida</link> (<physical_entity wordnetid="100001930" confidence="0.8">
 </fundamental_quantity>
 </champion>
 </physical_entity>
-)<b>&nbsp;• </b>
+)<b> • </b>
 <diversion wordnetid="100426928" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">

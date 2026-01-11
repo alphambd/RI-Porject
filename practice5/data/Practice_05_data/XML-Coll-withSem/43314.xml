@@ -77,7 +77,7 @@ Finance</link></st>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../424/228424.xml">
 Compiere</link></software>
- &mdash; ERP solution automates accounting, supply chain, inventory and sales orders</entry>
+ — ERP solution automates accounting, supply chain, inventory and sales orders</entry>
 <entry level="1" type="bullet">
 
  <system wordnetid="104377057" confidence="0.8">
@@ -87,13 +87,13 @@ Compiere</link></software>
 ERP5</link></instrumentality>
 </artifact>
 </system>
- &mdash; Python and Zope based ERP</entry>
+ — Python and Zope based ERP</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../880/12880.xml">
 GnuCash</link></software>
- &mdash; <link xlink:type="simple" xlink:href="../743/101743.xml">
+ — <link xlink:type="simple" xlink:href="../743/101743.xml">
 Double-entry book-keeping</link></entry>
 <entry level="1" type="bullet">
 
@@ -110,7 +110,7 @@ Grisbi</link></activity>
 </undertaking>
 </event>
 </work>
- &mdash; Single-entry</entry>
+ — Single-entry</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../735/8072735.xml">
@@ -120,7 +120,7 @@ jFin</link></entry>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../806/6859806.xml">
 JGnash</link></software>
- &mdash; <message wordnetid="106598915" confidence="0.8">
+ — <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 Java</link></request>
@@ -130,7 +130,7 @@ double-entry book-keeping</link></entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../915/17067915.xml">
-JQuantLib</link> &mdash; <message wordnetid="106598915" confidence="0.8">
+JQuantLib</link> — <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 Java</link></request>
@@ -141,12 +141,12 @@ Java</link></request>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../930/8099930.xml">
 KMyMoney</link></software>
- &mdash; <link xlink:type="simple" xlink:href="../743/101743.xml">
+ — <link xlink:type="simple" xlink:href="../743/101743.xml">
 Double-entry book-keeping</link></entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../283/13878283.xml">
-Mifos</link> &mdash; <link xlink:type="simple" xlink:href="../749/249749.xml">
+Mifos</link> — <link xlink:type="simple" xlink:href="../749/249749.xml">
 Microfinance</link> Institution management software</entry>
 <entry level="1" type="bullet">
 
@@ -159,19 +159,19 @@ Quasar Accounting</link></entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../281/734281.xml">
-QuickFIX/J</link> &mdash; <link xlink:type="simple" xlink:href="../281/734281.xml">
+QuickFIX/J</link> — <link xlink:type="simple" xlink:href="../281/734281.xml">
 FIX protocol</link> engine written in Java</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../426/228426.xml">
-SQL Ledger</link> &mdash; <link xlink:type="simple" xlink:href="../743/101743.xml">
+SQL Ledger</link> — <link xlink:type="simple" xlink:href="../743/101743.xml">
 Double-entry book-keeping</link></entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../360/3578360.xml">
 TurboCASH</link></software>
- &mdash; <link xlink:type="simple" xlink:href="../743/101743.xml">
+ — <link xlink:type="simple" xlink:href="../743/101743.xml">
 Double-entry book-keeping</link> for Windows</entry>
 </list>
 </p>
@@ -183,7 +183,7 @@ Double-entry book-keeping</link> for Windows</entry>
 Comparison of accounting software</link></it>
 </indent>
 * <link>
-n21 eBusiness Suite</link> &mdash; web based ERP / CRM</p>
+n21 eBusiness Suite</link> — web based ERP / CRM</p>
 
 </ss1>
 <ss1>
@@ -347,11 +347,11 @@ Scanning probe microscopy</link> </st>
 <entry level="1" type="bullet">
 
  <link>
-Gwyddion</link> &mdash; Scientific data analysis</entry>
+Gwyddion</link> — Scientific data analysis</entry>
 <entry level="1" type="bullet">
 
  <link>
-Gxsm</link> &mdash; Gnome X Scanning Microscopy - dsp supported scanning probe acquisition</entry>
+Gxsm</link> — Gnome X Scanning Microscopy - dsp supported scanning probe acquisition</entry>
 </list>
 </p>
 
@@ -506,7 +506,7 @@ CMU Sphinx</link></activity>
 </undertaking>
 </event>
 </work>
- &mdash; Speech recognition software from <university wordnetid="108286163" confidence="0.9508927676800064">
+ — Speech recognition software from <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../093/48093.xml">
 Carnegie Mellon University</link></university>
 </entry>
@@ -525,7 +525,7 @@ Emacspeak</link></scholar>
 </reader>
 </person>
 </physical_entity>
- &mdash; Audio desktop</entry>
+ — Audio desktop</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
@@ -535,7 +535,7 @@ Festival Speech Synthesis System</link></software>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../799/42799.xml">
-Text2Speech</link> &mdash; Lightweight and easy to use Text To Speech (TTS) Software</entry>
+Text2Speech</link> — Lightweight and easy to use Text To Speech (TTS) Software</entry>
 </list>
 </p>
 <p>
@@ -566,7 +566,7 @@ Modular Audio Recognition Framework</link></room>
 </artifact>
 </structure>
 </work>
- &mdash; voice, audio, speech, NLP processing</entry>
+ — voice, audio, speech, NLP processing</entry>
 </list>
 </p>
 
@@ -583,7 +583,7 @@ Assistive Technology</link> </st>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../385/517385.xml">
 Dasher</link></software>
- &mdash; Unique text input software</entry>
+ — Unique text input software</entry>
 <entry level="1" type="bullet">
 
  <physical_entity wordnetid="100001930" confidence="0.8">
@@ -599,15 +599,15 @@ Gnopernicus</link></scholar>
 </reader>
 </person>
 </physical_entity>
- &mdash; AT suite for GNOME 2</entry>
+ — AT suite for GNOME 2</entry>
 <entry level="1" type="bullet">
 
  <link>
-PowerTalk</link> &mdash; Automatic Text narration of presentations</entry>
+PowerTalk</link> — Automatic Text narration of presentations</entry>
 <entry level="1" type="bullet">
 
  <link>
-pVoice</link> &mdash; Application for Augmentative and Alternative Communication (AAC)</entry>
+pVoice</link> — Application for Augmentative and Alternative Communication (AAC)</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
@@ -1157,7 +1157,7 @@ BibleDesktop</link></room>
 </structure>
 </creation>
 </work>
- &mdash; For <platform wordnetid="103961939" confidence="0.8">
+ — For <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">
@@ -1170,7 +1170,7 @@ Cross-platform</link></horizontal_surface>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../263/359263.xml">
-BibleTime</link> &mdash; For <O wordnetid="106832680" confidence="0.9508927676800064">
+BibleTime</link> — For <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
  using <link xlink:type="simple" xlink:href="../629/16629.xml">
@@ -1178,7 +1178,7 @@ K Desktop Environment</link></entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../263/359263.xml">
-GnomeSword</link> &mdash; For <O wordnetid="106832680" confidence="0.9508927676800064">
+GnomeSword</link> — For <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
  using <link xlink:type="simple" xlink:href="../362/12362.xml">
@@ -1188,7 +1188,7 @@ GNOME</link></entry>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../999/11341999.xml">
 Go Bible</link></software>
- &mdash; For <message wordnetid="106598915" confidence="0.8">
+ — For <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 Java</link></request>
@@ -1223,7 +1223,7 @@ jSword</link></room>
 </structure>
 </creation>
 </work>
- &mdash; For <message wordnetid="106598915" confidence="0.8">
+ — For <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 Java</link></request>
@@ -1232,7 +1232,7 @@ Java</link></request>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../263/359263.xml">
-MacSword</link> &mdash; For <link xlink:type="simple" xlink:href="../640/20640.xml">
+MacSword</link> — For <link xlink:type="simple" xlink:href="../640/20640.xml">
 Mac OS X</link></entry>
 <entry level="1" type="bullet">
 
@@ -1263,7 +1263,7 @@ SwordBible</link></room>
 </structure>
 </creation>
 </work>
- &mdash; For <link xlink:type="simple" xlink:href="../982/33982.xml">
+ — For <link xlink:type="simple" xlink:href="../982/33982.xml">
 Windows</link></entry>
 <entry level="1" type="bullet">
 
@@ -1294,7 +1294,7 @@ The SWORD Project for Windows</link></room>
 </structure>
 </creation>
 </work>
- &mdash; For <link xlink:type="simple" xlink:href="../982/33982.xml">
+ — For <link xlink:type="simple" xlink:href="../982/33982.xml">
 Windows</link></entry>
 </list>
 </p>
@@ -2045,7 +2045,7 @@ Liferea</link></software>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../004/946004.xml">
-Asterisk</link> &mdash; Telephony and <link xlink:type="simple" xlink:href="../028/75028.xml">
+Asterisk</link> — Telephony and <link xlink:type="simple" xlink:href="../028/75028.xml">
 VoIP</link> server</entry>
 <entry level="1" type="bullet">
 
@@ -2064,25 +2064,25 @@ Coccinella</link></messenger>
 </client>
 </person>
 </physical_entity>
- &mdash; VOIP softphone</entry>
+ — VOIP softphone</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/3894939.xml">
 Ekiga</link></software>
- &mdash; Video conferencing application for <link xlink:type="simple" xlink:href="../362/12362.xml">
+ — Video conferencing application for <link xlink:type="simple" xlink:href="../362/12362.xml">
 GNOME</link> and Microsoft Windows</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../004/946004.xml">
-FreePBX</link> &mdash; Front-end and advanced PBX configuration for <link xlink:type="simple" xlink:href="../004/946004.xml">
+FreePBX</link> — Front-end and advanced PBX configuration for <link xlink:type="simple" xlink:href="../004/946004.xml">
 Asterisk</link></entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../040/6002040.xml">
 FreeSWITCH</link></software>
- &mdash; Open Source telephony platform</entry>
+ — Open Source telephony platform</entry>
 <entry level="1" type="bullet">
 
  <work wordnetid="100575741" confidence="0.8">
@@ -2098,7 +2098,7 @@ QuteCom</link></activity>
 </undertaking>
 </event>
 </work>
- &mdash; Free Voice, Video and IM client application</entry>
+ — Free Voice, Video and IM client application</entry>
 <entry level="1" type="bullet">
 
  <physical_entity wordnetid="100001930" confidence="0.8">
@@ -2112,11 +2112,11 @@ SIP Communicator</link></case>
 </client>
 </person>
 </physical_entity>
-&mdash; Java VoIP and Instant Messaging client</entry>
+— Java VoIP and Instant Messaging client</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../852/2150852.xml">
-sipX</link> &mdash; SIP Communications Server</entry>
+sipX</link> — SIP Communications Server</entry>
 <entry level="1" type="bullet">
 
  <physical_entity wordnetid="100001930" confidence="0.8">
@@ -2130,14 +2130,14 @@ Slrn</link></case>
 </client>
 </person>
 </physical_entity>
- &mdash; a <link xlink:type="simple" xlink:href="../853/961853.xml">
+ — a <link xlink:type="simple" xlink:href="../853/961853.xml">
 newsreader</link></entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../681/5923681.xml">
 Twinkle</link></software>
- &mdash; VOIP softphone</entry>
+ — VOIP softphone</entry>
 </list>
 </p>
 
@@ -2200,7 +2200,7 @@ FreeNX</link></entry>
 <entry level="1" type="bullet">
 
  <link>
-GenControl</link> &mdash; Based on VNC with GUI Interface.</entry>
+GenControl</link> — Based on VNC with GUI Interface.</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
@@ -2386,42 +2386,42 @@ Apache Cocoon</link></hypothesis>
 </concept>
 </idea>
 </model>
- &mdash; a web application framework</entry>
+ — a web application framework</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../581/2581.xml">
 Apache</link></software>
- &mdash; the most popular web server</entry>
+ — the most popular web server</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../305/1106305.xml">
 AWStats</link></software>
- &mdash; a log file parser and analyzer</entry>
+ — a log file parser and analyzer</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../420/849420.xml">
-BookmarkSync</link> &mdash; a tool for browsers</entry>
+BookmarkSync</link> — a tool for browsers</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../691/10988691.xml">
-HTTP File Server</link> &mdash; a user friendly file server software with a drag and drop interface</entry>
+HTTP File Server</link> — a user friendly file server software with a drag and drop interface</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../809/16693809.xml">
-Distributed ICDL Crawler</link> &mdash; an open source web crawler based on <format wordnetid="106636806" confidence="0.9508927676800064">
+Distributed ICDL Crawler</link> — an open source web crawler based on <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../890/16863890.xml">
 Website Parse Template</link></format>
  </entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../201/1259201.xml">
-lighttpd</link> &mdash; Resource sparing but also fast and full featured HTTP Server</entry>
+lighttpd</link> — Resource sparing but also fast and full featured HTTP Server</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../962/315962.xml">
-NetKernel</link> &mdash; an internet application server</entry>
+NetKernel</link> — an internet application server</entry>
 <entry level="1" type="bullet">
 
  <system wordnetid="104377057" confidence="0.8">
@@ -2439,27 +2439,27 @@ Qcodo</link></hypothesis>
 </idea>
 </model>
 </system>
- &mdash; Open Source PHP 5 Framework</entry>
+ — Open Source PHP 5 Framework</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../518/25518.xml">
-Roxen Webserver</link> &mdash; Open Source web server</entry>
+Roxen Webserver</link> — Open Source web server</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../620/205620.xml">
-Squid cache</link> &mdash; web proxy cache</entry>
+Squid cache</link> — web proxy cache</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../250/7017250.xml">
 Web-Developer Server Suite</link></software>
- &mdash; a package of web applications including Apache, MySQL, and PHP</entry>
+ — a package of web applications including Apache, MySQL, and PHP</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../961/2990961.xml">
 XAMPP</link></software>
- &mdash; a package of web applications including Apache and MySQL</entry>
+ — a package of web applications including Apache and MySQL</entry>
 <entry level="1" type="bullet">
 
  <system wordnetid="104377057" confidence="0.8">
@@ -2477,7 +2477,7 @@ Zope</link></hypothesis>
 </idea>
 </model>
 </system>
- &mdash; a web application server</entry>
+ — a web application server</entry>
 </list>
 </p>
 
@@ -2585,7 +2585,7 @@ Webswell Connect</link> — Integration tool based on WS web services, ebXML and
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../040/256040.xml">
 OpenLDAP</link></software>
- &mdash; an open source <message wordnetid="106598915" confidence="0.8">
+ — an open source <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -2608,7 +2608,7 @@ LDAP</link></system_of_measurement>
 JXplorer</link></instrumentality>
 </artifact>
 </system>
- &mdash; an open source <message wordnetid="106598915" confidence="0.8">
+ — an open source <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
@@ -2625,7 +2625,7 @@ LDAP</link></system_of_measurement>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../835/1294835.xml">
-openVXI</link> &mdash; an open source <standard wordnetid="107260623" confidence="0.8">
+openVXI</link> — an open source <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../206/177206.xml">
 VoiceXML</link></system_of_measurement>
@@ -2636,19 +2636,19 @@ VoiceXML</link></system_of_measurement>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../033/2315033.xml">
 YaCy</link></software>
- &mdash; P2P-based search engine</entry>
+ — P2P-based search engine</entry>
 <entry level="1" type="bullet">
 
  <link>
-Simple del.icio.us Manager</link> &mdash; Desktop manager for del.icio.us account</entry>
+Simple del.icio.us Manager</link> — Desktop manager for del.icio.us account</entry>
 <entry level="1" type="bullet">
 
  <link>
-Ionetworknode</link> &mdash; an open source system for orchestrating interoperability services</entry>
+Ionetworknode</link> — an open source system for orchestrating interoperability services</entry>
 <entry level="1" type="bullet">
 
  <link>
-StorageIM</link> &mdash; an open source storage resource management application</entry>
+StorageIM</link> — an open source storage resource management application</entry>
 </list>
 </p>
 
@@ -2709,7 +2709,7 @@ Password Safe</link></software>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../836/1527836.xml">
 Chandler</link></software>
- &mdash; In development by <person wordnetid="100007846" confidence="0.9508927676800064">
+ — In development by <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../241/73241.xml">
 Mitch Kapor</link></person>
  and the <link xlink:type="simple" xlink:href="../788/612788.xml">
@@ -2743,7 +2743,7 @@ KOrganizer</link></software>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../505/4806505.xml">
-Mozilla Calendar</link> &mdash; A <link xlink:type="simple" xlink:href="../225/20225.xml">
+Mozilla Calendar</link> — A <link xlink:type="simple" xlink:href="../225/20225.xml">
 Mozilla</link>-based, multiplatform calendar program.</entry>
 <entry level="1" type="bullet">
 
@@ -2770,17 +2770,17 @@ OpenSync (software)</link></director>
 <entry level="1" type="bullet">
 
  <link>
-PIM Xtreme</link> &mdash; Versatile application. For Windows.</entry>
+PIM Xtreme</link> — Versatile application. For Windows.</entry>
 <entry level="1" type="bullet">
 
  <link>
-Rachota Timetracker</link> &mdash; portable timetracking for projects. Open source. Windows, Linux, Solaris and Mac.</entry>
+Rachota Timetracker</link> — portable timetracking for projects. Open source. Windows, Linux, Solaris and Mac.</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../641/2247641.xml">
 Task Coach</link></software>
- &mdash; Your friendly task manager.</entry>
+ — Your friendly task manager.</entry>
 <entry level="1" type="bullet">
 
  <link>
@@ -2801,13 +2801,13 @@ Programming language</link> support </st>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../ury/29th_century.xml">
 ArgoUML</link></software>
- &mdash; ArgoUML is a modelling tool that helps you design using UML diagrams</entry>
+ — ArgoUML is a modelling tool that helps you design using UML diagrams</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../494/940494.xml">
 CLISP</link></software>
- &mdash; a <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ — a <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../068/6068.xml">
 Common Lisp</link></programming_language>
  interpreter and bytecode-compiler</entry>
@@ -2816,7 +2816,7 @@ Common Lisp</link></programming_language>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../811/360811.xml">
 DJGPP</link></software>
- &mdash; a 32-bit DOS port of GCC and other <link xlink:type="simple" xlink:href="../875/11875.xml">
+ — a 32-bit DOS port of GCC and other <link xlink:type="simple" xlink:href="../875/11875.xml">
 GNU</link> utilities</entry>
 <entry level="1" type="bullet">
 
@@ -2831,7 +2831,7 @@ Erlang</link></entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../020/1558020.xml">
-Experix</link> &mdash; command line and stack system for data acquisition and analysis and graphics</entry>
+Experix</link> — command line and stack system for data acquisition and analysis and graphics</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../012/11012.xml">
@@ -2873,7 +2873,7 @@ GCC</link></writer>
 </person>
 </communicator>
 </physical_entity>
- &mdash; a set of compilers for multiple <link xlink:type="simple" xlink:href="../015/23015.xml">
+ — a set of compilers for multiple <link xlink:type="simple" xlink:href="../015/23015.xml">
 programming language</link>s and platforms, including</entry>
 <entry level="2" type="bullet">
 
@@ -2949,21 +2949,21 @@ MUMPS</link> (a.k.a. M) compiler for Linux</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../856/1882856.xml">
-Harbour</link> &mdash; compiler for the xBase superset language often referred to as Clipper</entry>
+Harbour</link> — compiler for the xBase superset language often referred to as Clipper</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../117/1557117.xml">
 Jikes</link></software>
- &mdash; Java compiler</entry>
+ — Java compiler</entry>
 <entry level="1" type="bullet">
 
  <link>
-LLVM</link> &mdash; Optimizing compiler toolkit</entry>
+LLVM</link> — Optimizing compiler toolkit</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../334/18334.xml">
-Logo</link> &mdash; Derivative of Lisp without parenthesis, for kids, with Turtle Graphics</entry>
+Logo</link> — Derivative of Lisp without parenthesis, for kids, with Turtle Graphics</entry>
 <entry level="1" type="bullet">
 
  <system wordnetid="104377057" confidence="0.8">
@@ -2983,13 +2983,13 @@ Lua</link></machine>
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../110/362110.xml">
 MinGW</link></software>
- &mdash; Windows port of +GCC</entry>
+ — Windows port of +GCC</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../902/1263902.xml">
 Mono development platform</link></software>
- &mdash; Multi-platform .NET implementation (C#) based on the ECMA/ISO standards</entry>
+ — Multi-platform .NET implementation (C#) based on the ECMA/ISO standards</entry>
 <entry level="1" type="bullet">
 
  <artifact wordnetid="100021939" confidence="0.8">
@@ -3001,11 +3001,11 @@ MMIX</link></machine>
 </device>
 </instrumentality>
 </artifact>
-ware &mdash; simulator for MMIXAL language and MMIX processor</entry>
+ware — simulator for MMIXAL language and MMIX processor</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../652/39652.xml">
-Objective CAML</link> &mdash; a practical and fast functional OO language</entry>
+Objective CAML</link> — a practical and fast functional OO language</entry>
 <entry level="1" type="bullet">
 
  <structure wordnetid="104341686" confidence="0.8">
@@ -3019,7 +3019,7 @@ OpenJDK</link></room>
 </area>
 </artifact>
 </structure>
- &mdash; <company wordnetid="108058098" confidence="0.8">
+ — <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../980/26980.xml">
 Sun</link></institution>
@@ -3029,13 +3029,13 @@ Java Development Kit</link> based completely on free and open source code</entry
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../015/310015.xml">
-Parser</link> &mdash; a language for dynamic website creation</entry>
+Parser</link> — a language for dynamic website creation</entry>
 <entry level="1" type="bullet">
 
  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/23939.xml">
 Perl</link></programming_language>
- &mdash; a programming language strong on text processing</entry>
+ — a programming language strong on text processing</entry>
 <entry level="1" type="bullet">
 
  <physical_entity wordnetid="100001930" confidence="0.8">
@@ -3053,17 +3053,17 @@ PHP</link></writer>
 </person>
 </communicator>
 </physical_entity>
- &mdash; a scripting language designed for web site applications</entry>
+ — a scripting language designed for web site applications</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../485/23485.xml">
-Prolog</link> &mdash; Logic programming</entry>
+Prolog</link> — Logic programming</entry>
 <entry level="1" type="bullet">
 
  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/23862.xml">
 Python</link></programming_language>
- &mdash; A high-level scripting language</entry>
+ — A high-level scripting language</entry>
 <entry level="1" type="bullet">
 
  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
@@ -3077,26 +3077,26 @@ Rexx</link></entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../768/25768.xml">
-Ruby</link> &mdash; A high-level scripting language</entry>
+Ruby</link> — A high-level scripting language</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../401/1421401.xml">
 Ruby on Rails</link></software>
- &mdash; Ruby-based web development framework</entry>
+ — Ruby-based web development framework</entry>
 <entry level="1" type="bullet">
 
  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../017/3114017.xml">
 StarUML</link></software>
- &mdash; a software modeling tool and also platform that is a compelling replacement of commercial UML tools such as Rational Rose</entry>
+ — a software modeling tool and also platform that is a compelling replacement of commercial UML tools such as Rational Rose</entry>
 <entry level="1" type="bullet">
 
  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../237/30237.xml">
 Tcl</link></programming_language>
 /<link xlink:type="simple" xlink:href="../436/11946436.xml">
-Tk</link> &mdash; A high-level scripting language with a graphical toolkit</entry>
+Tk</link> — A high-level scripting language with a graphical toolkit</entry>
 </list>
 
 </p>
@@ -3211,7 +3211,7 @@ CodeSynthesis XSD</link></room>
 </artifact>
 </software>
 </structure>
- &mdash; <link xlink:type="simple" xlink:href="../905/753905.xml">
+ — <link xlink:type="simple" xlink:href="../905/753905.xml">
 XML Data Binding</link> compiler for <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../038/72038.xml">
 C++</link></programming_language>
@@ -3233,7 +3233,7 @@ CodeSynthesis XSD/e</link></room>
 </artifact>
 </structure>
 </system>
- &mdash; Validating XML parser/serializer and <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ — Validating XML parser/serializer and <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../038/72038.xml">
 C++</link></programming_language>
  <link xlink:type="simple" xlink:href="../905/753905.xml">
@@ -3241,7 +3241,7 @@ XML Data Binding</link> generator for mobile and embedded systems</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../920/15701920.xml">
-xmlbeansxx</link> &mdash; <link xlink:type="simple" xlink:href="../905/753905.xml">
+xmlbeansxx</link> — <link xlink:type="simple" xlink:href="../905/753905.xml">
 XML Data Binding</link> code generator for <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../038/72038.xml">
 C++</link></programming_language>
@@ -3711,11 +3711,11 @@ Kerberos</link></method>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../578/22578.xml">
-OpenSSH</link> &mdash; client/server</entry>
+OpenSSH</link> — client/server</entry>
 <entry level="1" type="bullet">
 
  <link xlink:type="simple" xlink:href="../928/612928.xml">
-PuTTY</link> &mdash; client only</entry>
+PuTTY</link> — client only</entry>
 <entry level="1" type="bullet">
 
  <physical_entity wordnetid="100001930" confidence="0.8">
@@ -3729,7 +3729,7 @@ Cyberduck</link></case>
 </client>
 </person>
 </physical_entity>
- &mdash; <link xlink:type="simple" xlink:href="../640/20640.xml">
+ — <link xlink:type="simple" xlink:href="../640/20640.xml">
 Mac OS X</link> client only</entry>
 </list>
 </p>
@@ -3759,19 +3759,19 @@ Other</st>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../511/2360511.xml">
-Active Calendar</link> &mdash; A PHP class that generates calendars as HTML tables</entry>
+Active Calendar</link> — A PHP class that generates calendars as HTML tables</entry>
 <entry level="1" type="bullet">
 
 <link>
-Astro123</link> &mdash; Generate and read your natal horoscope</entry>
+Astro123</link> — Generate and read your natal horoscope</entry>
 <entry level="1" type="bullet">
 
 <link>
-AstroGrep</link> &mdash; Grep with a GUI</entry>
+AstroGrep</link> — Grep with a GUI</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../263/359263.xml">
-BibleTime</link> &mdash; <statement wordnetid="106722453" confidence="0.8">
+BibleTime</link> — <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <explanation wordnetid="106738281" confidence="0.8">
 <interpretation wordnetid="107170753" confidence="0.8">
@@ -3786,7 +3786,7 @@ Study Bible</link></version>
 <entry level="1" type="bullet">
 
 <link>
-BioEra</link> &mdash; <process wordnetid="105701363" confidence="0.8">
+BioEra</link> — <process wordnetid="105701363" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
@@ -3819,11 +3819,11 @@ Bochs</link></causal_agent>
 </copycat>
 </person>
 </physical_entity>
- &mdash; PC emulator</entry>
+ — PC emulator</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../416/11865416.xml">
-Bots</link> &mdash; EDI software (communication and translation)</entry>
+Bots</link> — EDI software (communication and translation)</entry>
 <entry level="1" type="bullet">
 
 <physical_entity wordnetid="100001930" confidence="0.8">
@@ -3841,29 +3841,29 @@ Cygwin</link></writer>
 </person>
 </communicator>
 </physical_entity>
- &mdash; open source Unix environment for Win32</entry>
+ — open source Unix environment for Win32</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../452/6267452.xml">
-Ebase</link> &mdash; Open source constituent relationship management developed especially for non-profit organizations</entry>
+Ebase</link> — Open source constituent relationship management developed especially for non-profit organizations</entry>
 <entry level="1" type="bullet">
 
 <link>
-Emdros</link> &mdash; text database front end and back end</entry>
+Emdros</link> — text database front end and back end</entry>
 <entry level="1" type="bullet">
 
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../782/16269782.xml">
 Gnaural</link></software>
- &mdash; Brainwave entrainment software</entry>
+ — Brainwave entrainment software</entry>
 <entry level="1" type="bullet">
 
 <link>
-GNUpod</link> &mdash; iPod database manager</entry>
+GNUpod</link> — iPod database manager</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../745/1784745.xml">
-gtkpod</link> &mdash; iPod software</entry>
+gtkpod</link> — iPod software</entry>
 <entry level="1" type="bullet">
 
 <link>
@@ -3873,30 +3873,30 @@ iPod shuffle Database Builder</link></entry>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link>
 Jitterbit_Integration_Server</link></software>
- &mdash; Commercial Open Source Data and Application Integration Platform</entry>
+ — Commercial Open Source Data and Application Integration Platform</entry>
 <entry level="1" type="bullet">
 
 <link>
-Kidzbrowser</link> &mdash; Browser for children</entry>
+Kidzbrowser</link> — Browser for children</entry>
 <entry level="1" type="bullet">
 
 <link>
-Link Checker</link> &mdash; checks HTML documents for broken links</entry>
+Link Checker</link> — checks HTML documents for broken links</entry>
 <entry level="1" type="bullet">
 
 <link>
-MarZerUI</link> &mdash; Application/File/Folder/Website manager for <link xlink:type="simple" xlink:href="../879/33879.xml">
+MarZerUI</link> — Application/File/Folder/Website manager for <link xlink:type="simple" xlink:href="../879/33879.xml">
 Windows XP</link> computers</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../989/695989.xml">
-Memtest86</link> &mdash; stress-tests <link xlink:type="simple" xlink:href="../847/25847.xml">
+Memtest86</link> — stress-tests <link xlink:type="simple" xlink:href="../847/25847.xml">
 RAM</link> on <link xlink:type="simple" xlink:href="../198/34198.xml">
 x86</link> machines</entry>
 <entry level="1" type="bullet">
 
 <link>
-mywebcreator</link> &mdash; A package for creating online diaries</entry>
+mywebcreator</link> — A package for creating online diaries</entry>
 <entry level="1" type="bullet">
 
 <link>
@@ -3906,7 +3906,7 @@ Open Scene Graph</link></entry>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../850/5931850.xml">
 OrangeHRM</link></software>
- &mdash; Commercial Open Source Human Resource Management</entry>
+ — Commercial Open Source Human Resource Management</entry>
 <entry level="1" type="bullet">
 
 <company wordnetid="108058098" confidence="0.8">
@@ -3914,7 +3914,7 @@ OrangeHRM</link></software>
 <link xlink:type="simple" xlink:href="../294/11127294.xml">
 Project.net</link></institution>
 </company>
- &mdash; Commercial Open Source Project Management</entry>
+ — Commercial Open Source Project Management</entry>
 <entry level="1" type="bullet">
 
 <link>
@@ -3930,7 +3930,7 @@ QEMU</link></causal_agent>
 </copycat>
 </person>
 </physical_entity>
- &mdash; CPU emulator featuring support for multiple architectures</entry>
+ — CPU emulator featuring support for multiple architectures</entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../858/7491858.xml">
@@ -3948,19 +3948,19 @@ Rockbox</link></causal_agent>
 </player>
 </person>
 </physical_entity>
- &mdash; Alternate firmware for many portable media players, such as iPods.</entry>
+ — Alternate firmware for many portable media players, such as iPods.</entry>
 <entry level="1" type="bullet">
 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/1588264.xml">
 SugarCRM</link></company>
- &mdash; Commercial Open Source Customer Relationship Management</entry>
+ — Commercial Open Source Customer Relationship Management</entry>
 <entry level="1" type="bullet">
 
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/1056409.xml">
 Sun Grid Engine</link></software>
- &mdash; distributed batch job scheduling system</entry>
+ — distributed batch job scheduling system</entry>
 <entry level="1" type="bullet">
 
 <software wordnetid="106566077" confidence="0.9508927676800064">
@@ -3970,33 +3970,33 @@ SuperKaramba</link></software>
 <entry level="1" type="bullet">
 
 <link>
-Treepie.sf.net</link> &mdash; Folder size visualization</entry>
+Treepie.sf.net</link> — Folder size visualization</entry>
 <entry level="1" type="bullet">
 
 <link>
-Vitrite</link> &mdash; allows transparency in Windows 2000/XP programs</entry>
+Vitrite</link> — allows transparency in Windows 2000/XP programs</entry>
 <entry level="1" type="bullet">
 
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../583/37583.xml">
 WINE</link></software>
- &mdash; Windows executable support on Linux/BSD</entry>
+ — Windows executable support on Linux/BSD</entry>
 <entry level="1" type="bullet">
 
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../754/2322754.xml">
 WinMerge</link></software>
- &mdash; highlights differences between textual files</entry>
+ — highlights differences between textual files</entry>
 <entry level="1" type="bullet">
 
 <link>
-ZScreen</link> &mdash; Uploads screenshots via FTP and puts the URL in clipboard</entry>
+ZScreen</link> — Uploads screenshots via FTP and puts the URL in clipboard</entry>
 <entry level="1" type="bullet">
 
 <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../715/2576715.xml">
 XUI</link></language>
- &mdash; Java and XML Rich Internet Application framework</entry>
+ — Java and XML Rich Internet Application framework</entry>
 </list>
 </p>
 
@@ -4207,17 +4207,17 @@ General</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../418/414418.xml">
 Common Unix Printing System</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../894/10894.xml">
-The Free Software Definition</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../894/10894.xml">
+The Free Software Definition</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../549/275549.xml">
 GNU Project</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../314/43314.xml">
-List of applications</link>&nbsp;·  <link xlink:type="simple" xlink:href="../758/18938758.xml">
-Open source</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../314/43314.xml">
+List of applications</link> ·  <link xlink:type="simple" xlink:href="../758/18938758.xml">
+Open source</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -4254,10 +4254,10 @@ Free softwareportal</it></b></col>
 History</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../417/14032417.xml">
-Linux</link>&nbsp;·  <link xlink:type="simple" xlink:href="../225/20225.xml">
+Linux</link> ·  <link xlink:type="simple" xlink:href="../225/20225.xml">
 Mozilla</link> (<link xlink:type="simple" xlink:href="../570/2024570.xml">
-Application Suite</link>&nbsp;·  <link xlink:type="simple" xlink:href="../550/1564550.xml">
-Firefox</link>&nbsp;·  <link xlink:type="simple" xlink:href="../227/1890227.xml">
+Application Suite</link> ·  <link xlink:type="simple" xlink:href="../550/1564550.xml">
+Firefox</link> ·  <link xlink:type="simple" xlink:href="../227/1890227.xml">
 Thunderbird</link>)</col>
 </row>
 <row style="height:2px">
@@ -4271,19 +4271,19 @@ Operating system families</link></col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../622/18932622.xml">
 BSD</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../076/53076.xml">
-Darwin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../875/11875.xml">
-GNU</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../076/53076.xml">
+Darwin</link> ·  <link xlink:type="simple" xlink:href="../875/11875.xml">
+GNU</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/18977.xml">
 MINIX</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
-OpenSolaris</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
+OpenSolaris</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/360889.xml">
 ReactOS</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../281/554281.xml">
 Haiku</link></O>
 </col>
@@ -4309,7 +4309,7 @@ GCC</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -4322,15 +4322,15 @@ LLVM</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <request wordnetid="106513366" confidence="0.8">
 <link xlink:type="simple" xlink:href="../881/15881.xml">
 Java</link></request>
 </message>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/23939.xml">
 Perl</link></programming_language>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <compiler wordnetid="109946957" confidence="0.8">
@@ -4345,15 +4345,15 @@ PHP</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/23862.xml">
 Python</link></programming_language>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <link xlink:type="simple" xlink:href="../768/25768.xml">
 Ruby</link></causal_agent>
 </physical_entity>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../237/30237.xml">
 Tcl</link></programming_language>
 </col>
@@ -4369,36 +4369,36 @@ Desktop environments</link></col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../262/229262.xml">
 Blackbox</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../391/68391.xml">
 EDE</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../969/79969.xml">
 Enlightenment</link></software>
-&nbsp;·  <link>
-Étoilé</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link>
+Étoilé</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../364/169364.xml">
 Fluxbox</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../362/12362.xml">
-GNOME</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../362/12362.xml">
+GNOME</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/79977.xml">
 IceWM</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../629/16629.xml">
 KDE</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../104/761104.xml">
 LiteStep</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../016/374016.xml">
 Openbox</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../725/294725.xml">
 ROX</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../163/432163.xml">
 Window Maker</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../103/69103.xml">
 Xfce</link></software>
 </col>
@@ -4418,9 +4418,9 @@ Free Software Foundation</link></group>
 Europe</link></company>
 , <link xlink:type="simple" xlink:href="../326/2305326.xml">
 India</link>, <link xlink:type="simple" xlink:href="../125/3175125.xml">
-Latin America</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../249/9055249.xml">
-Linux Foundation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../489/382489.xml">
-Mozilla Foundation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/22298.xml">
+Latin America</link>) ·  <link xlink:type="simple" xlink:href="../249/9055249.xml">
+Linux Foundation</link> ·  <link xlink:type="simple" xlink:href="../489/382489.xml">
+Mozilla Foundation</link> ·  <link xlink:type="simple" xlink:href="../298/22298.xml">
 Open Source Initiative</link></col>
 </row>
 <row style="height:2px">
@@ -4432,13 +4432,13 @@ Open Source Initiative</link></col>
 Licences</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../908/145908.xml">
-Apache</link>&nbsp;·  <link xlink:type="simple" xlink:href="../111/18933111.xml">
-BSD</link>&nbsp;·  <link xlink:type="simple" xlink:href="../683/18938683.xml">
-GPL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../073/13073.xml">
-LGPL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../193/19193.xml">
-MIT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../528/608528.xml">
-MPL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../057/2404057.xml">
-Permissive free software licences</link>&nbsp;·  <link xlink:type="simple" xlink:href="../003/11689003.xml">
+Apache</link> ·  <link xlink:type="simple" xlink:href="../111/18933111.xml">
+BSD</link> ·  <link xlink:type="simple" xlink:href="../683/18938683.xml">
+GPL</link> ·  <link xlink:type="simple" xlink:href="../073/13073.xml">
+LGPL</link> ·  <link xlink:type="simple" xlink:href="../193/19193.xml">
+MIT</link> ·  <link xlink:type="simple" xlink:href="../528/608528.xml">
+MPL</link> ·  <link xlink:type="simple" xlink:href="../057/2404057.xml">
+Permissive free software licences</link> ·  <link xlink:type="simple" xlink:href="../003/11689003.xml">
 License proliferation</link></col>
 </row>
 <row style="height:2px">
@@ -4449,12 +4449,12 @@ License proliferation</link></col>
 Challenges</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../467/5540467.xml">
-Binary blob</link>&nbsp;·  <link xlink:type="simple" xlink:href="../226/18938226.xml">
-Digital rights management</link>&nbsp;·  <link xlink:type="simple" xlink:href="../415/17501415.xml">
-Open source software security</link>&nbsp;·  <link xlink:type="simple" xlink:href="../886/18934886.xml">
-Proprietary software</link>&nbsp;·  <link xlink:type="simple" xlink:href="../847/872847.xml">
-SCO-Linux controversies</link>&nbsp;·  <link xlink:type="simple" xlink:href="../620/9807620.xml">
-Software patents and free software</link>&nbsp;·  <word wordnetid="106286395" confidence="0.8">
+Binary blob</link> ·  <link xlink:type="simple" xlink:href="../226/18938226.xml">
+Digital rights management</link> ·  <link xlink:type="simple" xlink:href="../415/17501415.xml">
+Open source software security</link> ·  <link xlink:type="simple" xlink:href="../886/18934886.xml">
+Proprietary software</link> ·  <link xlink:type="simple" xlink:href="../847/872847.xml">
+SCO-Linux controversies</link> ·  <link xlink:type="simple" xlink:href="../620/9807620.xml">
+Software patents and free software</link> ·  <word wordnetid="106286395" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <neologism wordnetid="106294441" confidence="0.8">
 <language_unit wordnetid="106284225" confidence="0.8">
@@ -4463,7 +4463,7 @@ Tivoization</link></language_unit>
 </neologism>
 </part>
 </word>
-&nbsp;·  <link xlink:type="simple" xlink:href="../608/58608.xml">
+ ·  <link xlink:type="simple" xlink:href="../608/58608.xml">
 Trusted Computing</link></col>
 </row>
 <row style="height:2px">
@@ -4474,18 +4474,18 @@ Trusted Computing</link></col>
 Other topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../900/2953900.xml">
-Alternative terms</link>&nbsp;·  <link xlink:type="simple" xlink:href="../466/6974466.xml">
-Community</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Alternative terms</link> ·  <link xlink:type="simple" xlink:href="../466/6974466.xml">
+Community</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <medium wordnetid="106254669" confidence="0.8">
 <link xlink:type="simple" xlink:href="../638/10638.xml">
 Movement</link></medium>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../636/2009636.xml">
-Comparison of open source and closed source</link>&nbsp;·  <link xlink:type="simple" xlink:href="../496/1721496.xml">
-Free and open source software</link>&nbsp;·  <link xlink:type="simple" xlink:href="../890/12869890.xml">
-Floss manuals</link>&nbsp;·  <it><product wordnetid="104007894" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../636/2009636.xml">
+Comparison of open source and closed source</link> ·  <link xlink:type="simple" xlink:href="../496/1721496.xml">
+Free and open source software</link> ·  <link xlink:type="simple" xlink:href="../890/12869890.xml">
+Floss manuals</link> ·  <it><product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">

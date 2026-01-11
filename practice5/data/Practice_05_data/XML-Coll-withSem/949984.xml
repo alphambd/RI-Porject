@@ -1379,7 +1379,7 @@ CDMA2000 1xEV-DO</weblink>".&#32;  QUALCOMM Technology and Solutions.&#32;Archiv
 the original</weblink> on <link>
 2007-09-24</link>.</entry>
 <entry id="4">
-  <cite id="CITEREFBi2002" style="font-style:normal">Bi, Qi&#32;(17-21 March, 2002),&#32;"Performance analysis of 3G-1X EV-DO high data rate system",&#32;<it>IEEE Wireless Communications and Networking Conference</it>, IEEE, pp. 389–395</cite>&nbsp;</entry>
+  <cite id="CITEREFBi2002" style="font-style:normal">Bi, Qi&#32;(17-21 March, 2002),&#32;"Performance analysis of 3G-1X EV-DO high data rate system",&#32;<it>IEEE Wireless Communications and Networking Conference</it>, IEEE, pp. 389–395</cite> </entry>
 <entry id="5">
  Bi, Qi&#32;(2004-03).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cdg.org/resources/white_papers/files/Lucent%201xEV-DO%20Rev%20O%20Mar%2004.pdf">
 A Forward Link Performance Study of the 1xEV-DO Rev. 0 System Using Field Measurements and Simulations</weblink>"&#32;(PDF).&#32;  <company wordnetid="108058098" confidence="0.9508927676800064">
@@ -1396,7 +1396,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FWCNC.2007.601">
-10.1109/WCNC.2007.601</weblink></cite>&nbsp;</entry>
+10.1109/WCNC.2007.601</weblink></cite> </entry>
 <entry id="7">
  "<weblink xlink:type="simple" xlink:href="http://www.3gpp2.org/Public_html/specs/C.S0024-A_v2.0_050727.pdf">
 cdma2000 High Rate Packet Data Air Interface</weblink>"&#32;(PDF).&#32;  <link xlink:type="simple" xlink:href="../713/483713.xml">
@@ -1456,7 +1456,7 @@ Internet access methods</header>
 Wired</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../546/59546.xml">
-Dial-up</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+Dial-up</link> ·  <message wordnetid="106598915" confidence="0.8">
 <proposal wordnetid="107162194" confidence="0.8">
 <recommendation wordnetid="106671637" confidence="0.8">
 <advice wordnetid="106671484" confidence="0.8">
@@ -1465,10 +1465,10 @@ ISDN</link></advice>
 </recommendation>
 </proposal>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../038/41038.xml">
-DSL</link>&nbsp;·  <link xlink:type="simple" xlink:href="../760/3453760.xml">
-Cable</link>&nbsp;·  <link xlink:type="simple" xlink:href="../955/3492955.xml">
-Fiber optic</link>&nbsp;·  <link xlink:type="simple" xlink:href="../420/238420.xml">
+ ·  <link xlink:type="simple" xlink:href="../038/41038.xml">
+DSL</link> ·  <link xlink:type="simple" xlink:href="../760/3453760.xml">
+Cable</link> ·  <link xlink:type="simple" xlink:href="../955/3492955.xml">
+Fiber optic</link> ·  <link xlink:type="simple" xlink:href="../420/238420.xml">
 Power-line</link></col>
 </row>
 <row style="height:2px">
@@ -1479,7 +1479,7 @@ Power-line</link></col>
 Wireless</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.5em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../973/63973.xml">
-Wi-Fi</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+Wi-Fi</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
@@ -1494,18 +1494,18 @@ Bluetooth</link></system_of_measurement>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link>
-DECT</link>&nbsp;·  <name wordnetid="106333653" confidence="0.9508927676800064">
+ ·  <link>
+DECT</link> ·  <name wordnetid="106333653" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../288/1388288.xml">
 WiBro</link></name>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <network wordnetid="108434259" confidence="0.8">
 <link xlink:type="simple" xlink:href="../844/471844.xml">
 WiMAX</link></network>
 </group>
 </system>
-&nbsp;·  <system wordnetid="108435388" confidence="0.8">
+ ·  <system wordnetid="108435388" confidence="0.8">
 <standard wordnetid="107260623" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
@@ -1516,18 +1516,18 @@ UMTS-TDD</link></network>
 </group>
 </standard>
 </system>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../756/8354756.xml">
 HSPA</link></system_of_measurement>
 </standard>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../984/949984.xml">
 EV-DO</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../088/769088.xml">
-Satellite</link>&nbsp;·  <link xlink:type="simple" xlink:href="../251/7941251.xml">
+ ·  <link xlink:type="simple" xlink:href="../088/769088.xml">
+Satellite</link> ·  <link xlink:type="simple" xlink:href="../251/7941251.xml">
 LTE</link></col>
 </row>
 </table>

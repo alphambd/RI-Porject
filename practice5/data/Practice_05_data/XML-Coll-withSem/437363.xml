@@ -73,7 +73,7 @@ Public</link></institution>
  (<exchange wordnetid="111409538" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/205584.xml">
 TSX</link></exchange>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://cxa.marketwatch.com/TSX/en/Market/quote.aspx?symbPCA">
+: <weblink xlink:type="simple" xlink:href="http://cxa.marketwatch.com/TSX/en/Market/quote.aspx?symbPCA">
 PCA</weblink> <weblink xlink:type="simple" xlink:href="http://www.petro-canada.ca/eng/investor/10189_10193.htm">
 (PCZ)</weblink>)</company_type>
 <homepage>
@@ -123,7 +123,7 @@ CAN</link></currency>
 <b>Petro-Canada</b> (<exchange wordnetid="111409538" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/205584.xml">
 TSX</link></exchange>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://cxa.marketwatch.com/TSX/en/Market/quote.aspx?symb=PCA">
+: <weblink xlink:type="simple" xlink:href="http://cxa.marketwatch.com/TSX/en/Market/quote.aspx?symb=PCA">
 PCA</weblink>, <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <position wordnetid="108621598" confidence="0.8">
@@ -149,7 +149,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/pcz.html">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/pcz.html">
 PCZ</weblink>) is a <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canadian</link></region>
@@ -697,77 +697,77 @@ Canada</link></region>
 Agnico-Eagle Mines</link></institution>
 </mining_company>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../895/867895.xml">
 Agrium</link></company>
-&nbsp;·          
+ ·          
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../821/320821.xml">
 Bank of Montreal</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../997/354997.xml">
 Bank of Nova Scotia</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../647/867647.xml">
 Barrick Gold Corporation</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../579/252579.xml">
 BCE</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../540/382540.xml">
 Biovail Corporation</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../635/4635.xml">
-Bombardier</link>&nbsp;· 
+Bombardier</link> · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../941/832941.xml">
 Brookfield Asset Management</link></institution>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../652/1840652.xml">
 Cameco</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../912/312912.xml">
 Canadian Imperial Bank of Commerce</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../531/1688531.xml">
 Canadian National</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../048/5012048.xml">
 Canadian Natural Resources</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/5583584.xml">
 Canadian Oil Sands Trust</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../572/1457572.xml">
 Canadian Pacific Railway Ltd.</link></institution>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../850/177850.xml">
 Canadian Tire</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../437/898437.xml">
 Enbridge</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../145/469145.xml">
 EnCana Corporation</link></company>
-&nbsp;· 
+ · 
 <possession wordnetid="100032613" confidence="0.8">
 <trust wordnetid="113360498" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -779,11 +779,11 @@ Enerplus Resources Fund</link></institution>
 </company>
 </trust>
 </possession>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../145/923145.xml">
 First Quantum Minerals</link></company>
-&nbsp;· 
+ · 
 <possession wordnetid="100032613" confidence="0.8">
 <trust wordnetid="113360498" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
@@ -795,27 +795,27 @@ Fording Canadian Coal Trust</link></institution>
 </company>
 </trust>
 </possession>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../828/1871828.xml">
 Gildan Activewear</link></institution>
 </company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../735/2388735.xml">
-Goldcorp</link>&nbsp;· 
+Goldcorp</link> · 
 <link>
-Groupe Aeroplan</link>&nbsp;· 
+Groupe Aeroplan</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../357/437357.xml">
 Husky Energy</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/657292.xml">
 Imperial Oil</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../187/11224187.xml">
-Inmet Mining</link>&nbsp;· 
+Inmet Mining</link> · 
 <company wordnetid="108058098" confidence="0.8">
 <mining_company wordnetid="108003619" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -823,11 +823,11 @@ Inmet Mining</link>&nbsp;·
 Kinross Gold</link></institution>
 </mining_company>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../750/313750.xml">
 Loblaw Companies</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <mining_company wordnetid="108003619" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -835,117 +835,117 @@ Loblaw Companies</link></company>
 Lundin Mining</link></institution>
 </mining_company>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../035/517035.xml">
 Magna International</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../349/1928349.xml">
 Manulife Financial</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../568/1326568.xml">
 MDS Inc.</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../739/664739.xml">
 National Bank of Canada</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../829/2335829.xml">
 Nexen</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../243/21243.xml">
 Nortel</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../323/1796323.xml">
-NOVA Chemicals</link>&nbsp;· 
+NOVA Chemicals</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/15678018.xml">
 Penn West Energy Trust</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../363/437363.xml">
 Petro-Canada</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../970/2583970.xml">
 Potash Corporation of Saskatchewan</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../663/342663.xml">
 Research In Motion</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../874/372874.xml">
 Rogers Communications</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../660/612660.xml">
 Royal Bank of Canada</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../975/952975.xml">
 Shaw Communications</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../257/276257.xml">
 Shoppers Drug Mart</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../765/1917765.xml">
 SNC-Lavalin</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../161/1162161.xml">
 Sun Life Financial</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../529/1724529.xml">
 Suncor Energy</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../006/2585006.xml">
 Talisman Energy</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../708/1725708.xml">
 Teck Cominco</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../073/160073.xml">
 TELUS</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../100/11271100.xml">
 Thomson Reuters</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/180099.xml">
 Tim Hortons</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../232/323232.xml">
 Toronto-Dominion Bank</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../414/2087414.xml">
 TransAlta</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../558/1705558.xml">
 TransCanada Corp.</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../523/16203523.xml">
 Uranium One</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../540/4582540.xml">
 George Weston Limited</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <mining_company wordnetid="108003619" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -953,13 +953,13 @@ George Weston Limited</link></company>
 Yamana Gold</link></institution>
 </mining_company>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../523/7924523.xml">
 Yellow Pages Income Fund</link></institution>
 </company>
-&nbsp;·</p>
+ ·</p>
 </col>
 </row>
 </table>

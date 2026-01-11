@@ -380,15 +380,15 @@ Cast</col>
 <comedian wordnetid="109940146" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../492/104492.xml">
 Jerry Seinfeld</link></comedian>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../480/16480.xml">
 Jason Alexander</link></actor>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../592/102592.xml">
 Julia Louis-Dreyfus</link></actor>
 </person>
-&nbsp;·  <comedian wordnetid="109940146" confidence="0.9173553029164789">
+ ·  <comedian wordnetid="109940146" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../998/104998.xml">
@@ -409,11 +409,11 @@ Crew</col>
 <link xlink:type="simple" xlink:href="../022/105022.xml">
 Larry David</link></person>
 </comedian>
-&nbsp;·  <link xlink:type="simple" xlink:href="../640/11941640.xml">
-George Shapiro</link>&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <link xlink:type="simple" xlink:href="../640/11941640.xml">
+George Shapiro</link> ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../819/2207819.xml">
 Tom Cherones</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -440,16 +440,16 @@ Characters</col>
 <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../529/2091529.xml">
 Jerry Seinfeld</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
+ ·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../628/253628.xml">
 George Costanza</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
+ ·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../914/207914.xml">
 Elaine Benes</link></fictional_character>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
+ ·  <fictional_character wordnetid="109587565" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../820/457820.xml">
 Cosmo Kramer</link></fictional_character>
-&nbsp;·  <link xlink:type="simple" xlink:href="../523/571523.xml">
+ ·  <link xlink:type="simple" xlink:href="../523/571523.xml">
 Recurring minor characters</link></col>
 </row>
 <row style="height:2px">
@@ -464,18 +464,18 @@ Writers</col>
 <link xlink:type="simple" xlink:href="../022/105022.xml">
 Larry David</link></person>
 </comedian>
-&nbsp;·  <comedian wordnetid="109940146" confidence="0.9508927676800064">
+ ·  <comedian wordnetid="109940146" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../492/104492.xml">
 Jerry Seinfeld</link></comedian>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <director wordnetid="110014939" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../006/1841006.xml">
 Larry Charles</link></director>
 </actor>
 </person>
-&nbsp;·  <link xlink:type="simple" xlink:href="../960/3715960.xml">
-Peter Mehlman</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../960/3715960.xml">
+Peter Mehlman</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -486,19 +486,19 @@ Alec Berg</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  Jeff Schaffer&nbsp;·  <link xlink:type="simple" xlink:href="../022/11305022.xml">
-Tom Gammill</link>&nbsp;·  <link xlink:type="simple" xlink:href="../022/11305022.xml">
-Max Pross</link>&nbsp;·  <link xlink:type="simple" xlink:href="../360/7089360.xml">
-Gregg Kavet</link>&nbsp;·  <link xlink:type="simple" xlink:href="../752/5399752.xml">
-Andy Robin</link>&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  Jeff Schaffer ·  <link xlink:type="simple" xlink:href="../022/11305022.xml">
+Tom Gammill</link> ·  <link xlink:type="simple" xlink:href="../022/11305022.xml">
+Max Pross</link> ·  <link xlink:type="simple" xlink:href="../360/7089360.xml">
+Gregg Kavet</link> ·  <link xlink:type="simple" xlink:href="../752/5399752.xml">
+Andy Robin</link> ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../308/3065308.xml">
 Spike Feresten</link></actor>
-&nbsp;·  <comedian wordnetid="109940146" confidence="0.9173553029164789">
+ ·  <comedian wordnetid="109940146" confidence="0.9173553029164789">
 <writer wordnetid="110794014" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../428/3940428.xml">
 Carol Leifer</link></writer>
 </comedian>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -515,7 +515,7 @@ David Mandel</link></scholar>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -532,7 +532,7 @@ Jennifer Crittenden</link></scholar>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -549,7 +549,7 @@ Steve O'Donnell</link></scholar>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -570,7 +570,7 @@ Steve Koren</link></scholar>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -581,7 +581,7 @@ Darin Henry</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <manufacturer wordnetid="110292316" confidence="0.8">
@@ -598,8 +598,8 @@ Marjorie Gross</link></creator>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  Matt Goldman&nbsp;·  <link xlink:type="simple" xlink:href="../080/3644080.xml">
-Steve Skrovan</link>&nbsp;·  Bruce Kirschbaum&nbsp;·  Elaine Pope</col>
+ ·  Matt Goldman ·  <link xlink:type="simple" xlink:href="../080/3644080.xml">
+Steve Skrovan</link> ·  Bruce Kirschbaum ·  Elaine Pope</col>
 </row>
 <row style="height:2px">
 
@@ -615,56 +615,56 @@ Seasons</col>
 1</link></season>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../893/7879893.xml">
 2</link></season>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../995/7883995.xml">
 3</link></season>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../369/7895369.xml">
 4</link></season>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../414/7944414.xml">
 5</link></season>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../442/7996442.xml">
 6</link></season>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../855/7996855.xml">
 7</link></season>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../816/7997816.xml">
 8</link></season>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <season wordnetid="115239579" confidence="0.8">
 <link xlink:type="simple" xlink:href="../715/7884715.xml">
@@ -682,11 +682,11 @@ List of episodes</link>)</col>
 Related articles</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../211/7728211.xml">
-List of DVD releases</link>&nbsp;·  <vacation wordnetid="115137890" confidence="0.9508927676800064">
+List of DVD releases</link> ·  <vacation wordnetid="115137890" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../126/303126.xml">
 Festivus</link></vacation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../561/5512561.xml">
-List of fictional films</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../561/5512561.xml">
+List of fictional films</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <comedian wordnetid="109940146" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <performer wordnetid="110415638" confidence="0.8">
@@ -703,8 +703,8 @@ Kenny Kramer</link></entertainer>
 </person>
 </comedian>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../427/5755427.xml">
-Monk's Cafe</link>&nbsp;·  <tradition wordnetid="105809745" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../427/5755427.xml">
+Monk's Cafe</link> ·  <tradition wordnetid="105809745" confidence="0.8">
 <word wordnetid="106286395" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <neologism wordnetid="106294441" confidence="0.8">
@@ -715,7 +715,7 @@ Regift</link></language_unit>
 </part>
 </word>
 </tradition>
-&nbsp;·  <link xlink:type="simple" xlink:href="../672/14765672.xml">
+ ·  <link xlink:type="simple" xlink:href="../672/14765672.xml">
 Awards and nominations</link></col>
 </row>
 </table>

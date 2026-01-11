@@ -727,7 +727,7 @@ Shadows under menus (Windows 2000 had shadows under mouse pointers, but not menu
 
 Windows XP analyzes the performance impact of visual effects and uses this to determine whether to enable them, so as to prevent the new functionality from consuming excessive additional processing overhead. Users can further customize these settings.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2221%22])">21</ref> Some effects, such as <link xlink:type="simple" xlink:href="../049/2049.xml">
 alpha blending</link> (transparency and fading), are handled entirely by many newer video cards. However, if the video card is not capable of hardware alpha blending, performance can be substantially hurt, and Microsoft recommends the feature should be turned off manually.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2222%22])">22</ref> Windows XP adds the ability for Windows to use "Visual Styles" to change the user interface. However, visual styles must be cryptographically signed by Microsoft to run. <link xlink:type="simple" xlink:href="../284/6685284.xml">
-<it>Luna''</it></link> is the name of the new visual style that ships with Windows XP, and is enabled by default for machines with more than 64&nbsp;<link xlink:type="simple" xlink:href="../727/60727.xml">
+<it>Luna''</it></link> is the name of the new visual style that ships with Windows XP, and is enabled by default for machines with more than 64 <link xlink:type="simple" xlink:href="../727/60727.xml">
 MiB</link> of video <link xlink:type="simple" xlink:href="../847/25847.xml">
 RAM</link>. <it>Luna</it> refers only to one particular visual style, not to all of the new user interface features of Windows XP as a whole. Some users "patch" the uxtheme.dll file that restricts the ability to use visual styles, created by the general public or the user, on Windows XP.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2223%22])">23</ref></p>
 <p>
@@ -797,21 +797,21 @@ Recommended</header>
 <header>
 Processor</header>
 <col>
- 233&nbsp;<link xlink:type="simple" xlink:href="../121/14121.xml">
+ 233 <link xlink:type="simple" xlink:href="../121/14121.xml">
 MHz</link></col>
 <col>
-300&nbsp;MHz or higher</col>
+300 MHz or higher</col>
 </row>
 <row>
 <header>
 Memory</header>
 <col>
- 64&nbsp;<link xlink:type="simple" xlink:href="../918/19918.xml">
+ 64 <link xlink:type="simple" xlink:href="../918/19918.xml">
 MB</link> <link xlink:type="simple" xlink:href="../847/25847.xml">
 RAM</link><link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22fn_1%22])">
 1</link></col>
 <col>
-128&nbsp;MB RAM or higher</col>
+128 MB RAM or higher</col>
 </row>
 <row>
 <header>
@@ -823,7 +823,7 @@ Super VGA (800 x 600) or higher resolution</col>
 <header>
 Hard drive disk free space</header>
 <col colspan="2">
-1.5&nbsp;GB or higher</col>
+1.5 GB or higher</col>
 </row>
 <row>
 <header>
@@ -863,7 +863,7 @@ Windows Me</link></version>
  running on the same hardware."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2229%22])">29</ref></p>
 <p>
 
-In addition to the Windows XP system requirements, Service Pack 2 requires an additional 1.8&nbsp;<link xlink:type="simple" xlink:href="../570/12570.xml">
+In addition to the Windows XP system requirements, Service Pack 2 requires an additional 1.8 <link xlink:type="simple" xlink:href="../570/12570.xml">
 GB</link> of free hard disk space during installation.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2230%22])">30</ref> Service Pack 3 requires an additional 900 <link xlink:type="simple" xlink:href="../918/19918.xml">
 MB</link> of free hard disk space during installation.</p>
 
@@ -1163,7 +1163,7 @@ subnotebook</link>s or <link xlink:type="simple" xlink:href="../851/4185851.xml"
 UMPC</link>s either until 30 June 2010, or one year after the availability of the next client version of Windows, code-named <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../123/326123.xml">
 Windows 7</link></version>
- &mdash; whichever date comes later.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2263%22])">63</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2264%22])">64</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2265%22])">65</ref></p>
+ — whichever date comes later.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2263%22])">63</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2264%22])">64</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2265%22])">65</ref></p>
 <p>
 
 On 14 April 2009, Windows XP will begin its "Extended Support" period that will last for 5 years until 8 April 2014.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2266%22])">66</ref></p>
@@ -1308,7 +1308,7 @@ Windows Genuine Advantage</link></software>
 </caption>
 </image>
 
-While product activation and licensing servers are common for business and industrial software, Windows XP gave many casual computer users their first introduction to it, under the name "Windows Genuine Advantage" (WGA). The system was introduced by Microsoft to curb unauthorized distribution of Windows XP. Activation requires the computer or the user to activate with Microsoft within a certain amount of time in order to continue using the operating system. If the user's computer system ever changes&nbsp;— for example, if two or more relevant components of the computer itself are upgraded&nbsp;— Windows may refuse to run until the user reactivates with Microsoft.</p>
+While product activation and licensing servers are common for business and industrial software, Windows XP gave many casual computer users their first introduction to it, under the name "Windows Genuine Advantage" (WGA). The system was introduced by Microsoft to curb unauthorized distribution of Windows XP. Activation requires the computer or the user to activate with Microsoft within a certain amount of time in order to continue using the operating system. If the user's computer system ever changes — for example, if two or more relevant components of the computer itself are upgraded — Windows may refuse to run until the user reactivates with Microsoft.</p>
 <p>
 
 WGA comprises two parts, an activation/verification system based in part upon the computer's <link xlink:type="simple" xlink:href="../615/13615.xml">
@@ -1599,16 +1599,16 @@ Windows XP Starter Edition</weblink>".&#32;  Paul Thurrott's SuperSite for Windo
 2008-04-12</link>.</entry>
 <entry id="12">
 "<weblink xlink:type="simple" xlink:href="http://management.silicon.com/government/0,39024677,39131434,00.htm">
-Windows XP-lite 'not value for money'</weblink>", Silicon.com&#32;(28 June 2005).&nbsp;</entry>
+Windows XP-lite 'not value for money'</weblink>", Silicon.com&#32;(28 June 2005). </entry>
 <entry id="13">
 "<weblink xlink:type="simple" xlink:href="http://seattlepi.nwsource.com/business/205093_msftfolo24.html">
-Europe gets 'reduced' Windows</weblink>", Seattle Pi&#32;(24 December 2004).&nbsp;</entry>
+Europe gets 'reduced' Windows</weblink>", Seattle Pi&#32;(24 December 2004). </entry>
 <entry id="14">
 "<weblink xlink:type="simple" xlink:href="http://www.redmondmag.com/news/article.asp?EditorialsID=6625">
-European Windows Called 'Windows XP Home Edition N'</weblink>", Redmondmag.com&#32;(28 March 2005).&nbsp;</entry>
+European Windows Called 'Windows XP Home Edition N'</weblink>", Redmondmag.com&#32;(28 March 2005). </entry>
 <entry id="15">
 "<weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/2/hi/business/4388349.stm">
-Microsoft and EU reach agreement</weblink>", BBC&#32;(28 March 2005).&nbsp;</entry>
+Microsoft and EU reach agreement</weblink>", BBC&#32;(28 March 2005). </entry>
 <entry id="17">
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../001/19001.xml">
@@ -1640,7 +1640,7 @@ Microsoft</link></company>
 2008-05-13</link>.</entry>
 <entry id="21">
 "<weblink xlink:type="simple" xlink:href="http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/display_change_visual_effects.mspx">
-Change Windows visual effects</weblink>", Microsoft.&nbsp;</entry>
+Change Windows visual effects</weblink>", Microsoft. </entry>
 <entry id="20">
 "<weblink xlink:type="simple" xlink:href="http://www.microsoft.com/industry/publicsector/government/locallanguage/find-a-language.aspx?regid=_all_">
 Unlimited Potential: Local Language Program</weblink>".&#32;  <company wordnetid="108058098" confidence="0.9508927676800064">
@@ -1650,10 +1650,10 @@ Microsoft</link></company>
 2008-04-09</link>.</entry>
 <entry id="23">
 "<weblink xlink:type="simple" xlink:href="http://www.neowin.net/forum/index.php?showtopic=140707">
-UXTheme Multi-Patchers</weblink>", Neowin&#32;(12 February 2004).&nbsp;</entry>
+UXTheme Multi-Patchers</weblink>", Neowin&#32;(12 February 2004). </entry>
 <entry id="22">
 "<weblink xlink:type="simple" xlink:href="http://support.microsoft.com/default.aspx?scid=kb;EN-US;294770">
-Computer Slows When You Click Multiple Icons in Windows XP</weblink>", Microsoft&#32;(15 January 2006).&nbsp;</entry>
+Computer Slows When You Click Multiple Icons in Windows XP</weblink>", Microsoft&#32;(15 January 2006). </entry>
 <entry id="25">
 http://go.microsoft.com/fwlink/?LinkID=75078</entry>
 <entry id="24">
@@ -1853,7 +1853,7 @@ Microsoft Windows XP Lifecycle Policy</weblink>".&#32;  Microsoft.&#32;Retrieved
 2007-03-25</link>.</entry>
 <entry id="67">
 "<weblink xlink:type="simple" xlink:href="http://www.pcworld.com/resource/article/0,aid,117427,00.asp">
-Full Disclosure: Your Take on Windows' Worst Irritations</weblink>", PC World&#32;(October 2004).&nbsp;</entry>
+Full Disclosure: Your Take on Windows' Worst Irritations</weblink>", PC World&#32;(October 2004). </entry>
 <entry id="76">
 Don Marti&#32;(2006-11-06).&#32;"<weblink xlink:type="simple" xlink:href="http://www.linuxworld.com/news/2006/110706-dell-windows.html">
 Dell customer gets Windows refund</weblink>".&#32;  Linuxworld.&#32;Retrieved on <link>
@@ -1955,7 +1955,7 @@ Microsoft Windows</link></header>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
 MS-DOS</link></O>
-&nbsp;/ <O wordnetid="106832680" confidence="0.9508927676800064">
+ / <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../486/454486.xml">
 9x</link></O>
 </col>
@@ -1963,25 +1963,25 @@ MS-DOS</link></O>
 <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../387/67387.xml">
 1.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../153/188153.xml">
 2.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../084/11173084.xml">
 2.1x</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../400/168400.xml">
 3.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/167719.xml">
 3.1x</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../064/34064.xml">
 95</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../433/75433.xml">
 98</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/75458.xml">
 Me</link></version>
 </col>
@@ -1999,36 +1999,36 @@ NT</link></family>
 <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../882/984882.xml">
 NT 3.1</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../884/984884.xml">
 NT 3.5</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../885/984885.xml">
 NT 3.51</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../680/795680.xml">
 NT 4.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../941/33941.xml">
 2000</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../879/33879.xml">
 XP</link></version>
  (<link xlink:type="simple" xlink:href="../671/16898671.xml">
-editions</link>)&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+editions</link>) ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../068/208068.xml">
 Server 2003</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../127/1932127.xml">
 Fundamentals for Legacy PCs</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../648/2289648.xml">
 Vista</link></version>
  (<link xlink:type="simple" xlink:href="../352/8996352.xml">
-editions</link>)&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+editions</link>) ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../011/8821011.xml">
 Home Server</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../042/2361042.xml">
 Server 2008</link></version>
 </col>
@@ -2046,22 +2046,22 @@ CE</link></O>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../360/230360.xml">
 CE 1.0</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../360/230360.xml">
 CE 2.0</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../389/610389.xml">
 CE 3.0</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../360/230360.xml">
 CE 4.0</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../047/2503047.xml">
 CE 5.0</link></O>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../542/5151542.xml">
 CE 6.0</link></version>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../656/1275656.xml">
 Mobile</link></O>
 </col>
@@ -2076,7 +2076,7 @@ Upcoming</col>
 <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../123/326123.xml">
 7</link></version>
-&nbsp;·  <link xlink:type="simple" xlink:href="../148/19561148.xml">
+ ·  <link xlink:type="simple" xlink:href="../148/19561148.xml">
 Cloud</link></col>
 </row>
 <row style="height:2px">
@@ -2097,7 +2097,7 @@ Cairo</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -2108,10 +2108,10 @@ Nashville</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../460/1497460.xml">
 Neptune</link></version>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -2122,7 +2122,7 @@ Odyssey</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <b>Related:</b> <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <b>Related:</b> <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/22409.xml">
 OS/2</link></O>
 </col>

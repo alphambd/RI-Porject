@@ -933,7 +933,7 @@ Web crawler</link></algorithm>
 </act>
 </rule>
 </event>
- (sometimes also known as a spider) &mdash; an automated Web browser which follows every link it sees. Exclusions can be made by the use of <link xlink:type="simple" xlink:href="../673/101673.xml">
+ (sometimes also known as a spider) — an automated Web browser which follows every link it sees. Exclusions can be made by the use of <link xlink:type="simple" xlink:href="../673/101673.xml">
 robots.txt</link>. The contents of each page are then analyzed to determine how it should be <link xlink:type="simple" xlink:href="../386/7602386.xml">
 indexed</link> (for example, words are extracted from the titles, headings, or special fields called <link xlink:type="simple" xlink:href="../556/20556.xml">
 meta tags</link>). Data about web pages are stored in an index database for use in later queries. Some search engines, such as <company wordnetid="108058098" confidence="0.9508927676800064">
@@ -1185,7 +1185,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0167-7187%2801%2900065-0">
-10.1016/S0167-7187(01)00065-0</weblink>.</cite>&nbsp;</entry>
+10.1016/S0167-7187(01)00065-0</weblink>.</cite> </entry>
 <entry id="5">
 <weblink xlink:type="simple" xlink:href="http://searchengineland.com/070921-105613.php">
 Nielsen NetRatings: August 2007 Search Share Puts Google On Top, Microsoft Holding Gains</weblink>, <it>SearchEngineLand</it>, September 21, 2007</entry>
@@ -1227,21 +1227,21 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2F21987">
-10.1038/21987</weblink>.</cite>&nbsp;</entry>
+10.1038/21987</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Levene, Mark&#32;(2005). An Introduction to Search Engines and Web Navigation.&#32;Pearson.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Levene, Mark&#32;(2005). An Introduction to Search Engines and Web Navigation.&#32;Pearson.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Hock, Randolph&#32;(2007). The Extreme Searcher's Handbook.</cite>&nbsp; ISBN 978-0-910965-76-7</entry>
+  <cite style="font-style:normal" class="book">Hock, Randolph&#32;(2007). The Extreme Searcher's Handbook.</cite>  ISBN 978-0-910965-76-7</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Javed Mostafa&#32;(February 2005).&#32;"<weblink xlink:type="simple" xlink:href="http://www.sciam.com/article.cfm?articleID=0006304A-37F4-11E8-B7F483414B7F0000">
 Seeking Better Web Searches</weblink>". <it><link xlink:type="simple" xlink:href="../507/29507.xml">
-Scientific American Magazine</link></it>.</cite>&nbsp;</entry>
+Scientific American Magazine</link></it>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Ross, Nancy; Wolfram, Dietmar&#32;(2000).&#32;"End user searching on the Internet: An analysis of term pair topics submitted to the Excite search engine". <it>Journal of the American Society for Information Science</it>&#32;<b>51</b>&#32;(10): 949–958.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Ross, Nancy; Wolfram, Dietmar&#32;(2000).&#32;"End user searching on the Internet: An analysis of term pair topics submitted to the Excite search engine". <it>Journal of the American Society for Information Science</it>&#32;<b>51</b>&#32;(10): 949–958.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Xie, M.; et al.&#32;(1998).&#32;"Quality dimensions of Internet search engines". <it>Journal of Information Science</it>&#32;<b>24</b>&#32;(5): 365–372. <document wordnetid="106470073" confidence="0.8">
@@ -1252,7 +1252,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1177%2F016555159802400509">
-10.1177/016555159802400509</weblink>.</cite>&nbsp;</entry>
+10.1177/016555159802400509</weblink>.</cite> </entry>
 </list>
 </p>
 

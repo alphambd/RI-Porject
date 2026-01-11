@@ -59,7 +59,7 @@ Bletchley Park</link></museum>
 </caption>
 </image>
 <birth_date>
-August 15, 1950 (1950-08-15) (age&nbsp;58)</birth_date>
+August 15, 1950 (1950-08-15) (age 58)</birth_date>
 <birth_place>
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../617/613617.xml">
@@ -102,7 +102,7 @@ Capacity planning</link> tools<link xlink:type="simple" xlink:href="../909/37729
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/4689264.xml">
 Australia</link></country>
 </nationality>
@@ -113,7 +113,7 @@ Australia</link></country>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -1379,11 +1379,11 @@ National Library of Australia, Victoria. Mines Dept., Mining district of Marybor
 <entry id="6">
 The late Emma Steers (Gunther's paternal grandmother), <it>private communication</it>.</entry>
 <entry id="7">
- <cite style="font-style:normal" class="book">David Blair&#32;(1879). "The History of Australasia," p. 413.&#32;McGready Thompson and Niven.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">David Blair&#32;(1879). "The History of Australasia," p. 413.&#32;McGready Thompson and Niven.</cite> </entry>
 <entry id="8">
- <cite style="font-style:normal" class="book">J. Riordan&#32;(1967). "An Introduction to Combinatorial Analysis".&#32;John Wiley and Sons. ISBN 0486425363.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">J. Riordan&#32;(1967). "An Introduction to Combinatorial Analysis".&#32;John Wiley and Sons. ISBN 0486425363.</cite> </entry>
 <entry id="9">
- <cite style="font-style:normal" class="book">F. Sherwood Taylor&#32;(1962). "Organic Chemistry"  (5th edition).&#32;Heinemann.</cite>&nbsp; (Originally published in 1933) </entry>
+ <cite style="font-style:normal" class="book">F. Sherwood Taylor&#32;(1962). "Organic Chemistry"  (5th edition).&#32;Heinemann.</cite>  (Originally published in 1933) </entry>
 <entry id="10">
 Thomas Maschmeyer.&#32;"<weblink xlink:type="simple" xlink:href="http://www.morechemistry.com/publ/colours_dyes/toc.html">
 "Colors and Dyes"</weblink>".</entry>
@@ -1394,13 +1394,13 @@ Gunther, Neil J.&#32;(1982).&#32;"<weblink xlink:type="simple" xlink:href="http:
 Gunther, Neil J.&#32;(1989).&#32;"<weblink xlink:type="simple" xlink:href="http://dblp.uni-trier.de/rec/bibtex/journals/ipl/Gunther89">
 "Path Integral Methods for Computer Performance Analysis"</weblink>".&#32;  Information Processing Letters, Volume 32(1) Pages 7–13.</entry>
 <entry id="13">
- <cite style="font-style:normal" class="book">A. Shwartz and A. Weiss&#32;(1995). "Large Deviations for Performance Analysis".&#32;Chapman and Hall. ISBN 0412063115.</cite>&nbsp;(Gunther's approach is cited on p. 28)</entry>
+ <cite style="font-style:normal" class="book">A. Shwartz and A. Weiss&#32;(1995). "Large Deviations for Performance Analysis".&#32;Chapman and Hall. ISBN 0412063115.</cite> (Gunther's approach is cited on p. 28)</entry>
 <entry id="14">
 R. Nelson, "Stochastic Catastrophe Theory in Computer Performance  Modeling,"  J. ACM, Volume 34, Page 66 (1987)</entry>
 <entry id="15">
- <cite style="font-style:normal" class="book">N. N. Taleb&#32;(2007). "The Black Swan: The Impact of the Highly Improbable".&#32;Random House. ISBN 978-1400063512.</cite>&nbsp;(Large deviations theory presented for the non-mathematician)</entry>
+ <cite style="font-style:normal" class="book">N. N. Taleb&#32;(2007). "The Black Swan: The Impact of the Highly Improbable".&#32;Random House. ISBN 978-1400063512.</cite> (Large deviations theory presented for the non-mathematician)</entry>
 <entry id="17">
- <cite style="font-style:normal" class="book">E. G. Steward&#32;(2004). "Fourier Optics: An Introduction".&#32;Dover. ISBN 0-486-43504-0.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">E. G. Steward&#32;(2004). "Fourier Optics: An Introduction".&#32;Dover. ISBN 0-486-43504-0.</cite> </entry>
 <entry id="16">
 Gunther, Neil J. , E. Charbon, D. L. Boiko, and G. Beretta&#32;(2006).&#32;"<weblink xlink:type="simple" xlink:href="http://spie.org/x8567.xml?pf=true&amp;highlight=x2410">
 "Photonic Information Processing Needs Quantum Design Rules"</weblink>".&#32;  SPIE Online.</entry>
@@ -1408,21 +1408,21 @@ Gunther, Neil J. , E. Charbon, D. L. Boiko, and G. Beretta&#32;(2006).&#32;"<web
 Gunther, Neil J.&#32;(1993).&#32;"<weblink xlink:type="simple" xlink:href="http://www.perfdynamics.com/Papers/njgCMG93.pdf">
 "A Simple Capacity Model for Massively Parallel Transaction Systems"  in Proc. CMG Conf., San Diego, California</weblink>".&#32;  CMG, Pages 1035–1044.</entry>
 <entry id="18">
- <cite style="font-style:normal" class="book">Gunther, Neil J.&#32;(1992). "On the Application of Barycentric Coordinates to the Prompt and Visually Efficient Display of Multiprocessor Performance Data"  in Proc. VI International Conf. on Modelling Techniques and Tools for Computer Performance Evaluation, Edinburgh, Scotland.&#32;Antony Rowe Ltd., Wiltshire, U.K., Pages 67–80. ISBN 0-7486-0425-1.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Gunther, Neil J.&#32;(1992). "On the Application of Barycentric Coordinates to the Prompt and Visually Efficient Display of Multiprocessor Performance Data"  in Proc. VI International Conf. on Modelling Techniques and Tools for Computer Performance Evaluation, Edinburgh, Scotland.&#32;Antony Rowe Ltd., Wiltshire, U.K., Pages 67–80. ISBN 0-7486-0425-1.</cite> </entry>
 <entry id="21">
 Gunther, Neil J.&#32;(2000).&#32;"<weblink xlink:type="simple" xlink:href="http://lanl.arxiv.org/abs/cs/9912021">
 "Seeing the Forest in the Tree: Applying VRML to Mathematical Problems in Number Theory" in Proc. IEEE-SPIE 12th International Symposium on Internet Imaging.</weblink>".&#32;  SPIE International Society for Optical Engineering, Volume 3964.</entry>
 <entry id="20">
- <cite style="font-style:normal" class="book">D.  Gross and  C. M. Harris&#32;(1998). "Fundamentals of Queueing Theory".&#32;Wiley-Interscience. ISBN 0-471-17083-6.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">D.  Gross and  C. M. Harris&#32;(1998). "Fundamentals of Queueing Theory".&#32;Wiley-Interscience. ISBN 0-471-17083-6.</cite> </entry>
 <entry id="23">
- <cite style="font-style:normal" class="book">George Russell&#32;(1959). "The Lydian Chromatic Concept of Tonal Organization for Improvisation".&#32;Concept Publishing Company, New York. ISBN 0-9703739-0-2.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">George Russell&#32;(1959). "The Lydian Chromatic Concept of Tonal Organization for Improvisation".&#32;Concept Publishing Company, New York. ISBN 0-9703739-0-2.</cite> </entry>
 <entry id="22">
- <cite style="font-style:normal" class="book">Wirsching, Günther J.&#32;(1998). "The Dynamical System Generated by the 3n+1 Function".&#32;Springer Lecture Notes in Mathematics, Number 1681. ISBN 3-540-63970-5.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Wirsching, Günther J.&#32;(1998). "The Dynamical System Generated by the 3n+1 Function".&#32;Springer Lecture Notes in Mathematics, Number 1681. ISBN 3-540-63970-5.</cite> </entry>
 <entry id="25">
 Perversion of a <link xlink:type="simple" xlink:href="../734/4196734.xml">
  quote</link> from Oscar Wilde.</entry>
 <entry id="24">
- <cite style="font-style:normal" class="book">S. Cherne (S. P. Fjestad, ed.)&#32;(1997). "The Blue Book of Guitars" (4th edition).&#32;Blue Book Publications, Inc., Minneapolis, MN. ISBN 1-886768-10-2.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">S. Cherne (S. P. Fjestad, ed.)&#32;(1997). "The Blue Book of Guitars" (4th edition).&#32;Blue Book Publications, Inc., Minneapolis, MN. ISBN 1-886768-10-2.</cite> </entry>
 </reflist>
 </p>
 

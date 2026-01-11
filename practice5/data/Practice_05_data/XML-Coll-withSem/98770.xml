@@ -32,10 +32,10 @@
 <caption>
 
 Probabilistic parameters of a hidden Markov model (example)
-<it>x</it> &mdash; states
-<it>y</it> &mdash; possible observations
-<it>a</it> &mdash; state transition probabilities
-<it>b</it> &mdash; output probabilities
+<it>x</it> — states
+<it>y</it> — possible observations
+<it>a</it> — state transition probabilities
+<it>b</it> — output probabilities
 </caption>
 </image>
 
@@ -372,7 +372,7 @@ Lawrence R. Rabiner</link></associate>
 </peer>
 </physical_entity>
 , "A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition," <it>Proceedings of the <link xlink:type="simple" xlink:href="../938/56938.xml">
-IEEE</link></it>, 77 (2), p. 257&ndash;286, February 1989. <weblink xlink:type="simple" xlink:href="http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf">
+IEEE</link></it>, 77 (2), p. 257–286, February 1989. <weblink xlink:type="simple" xlink:href="http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf">
 http://www.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf</weblink> <weblink xlink:type="simple" xlink:href="http://www.cs.cornell.edu/courses/cs481/2004fa/rabiner.pdf">
 http://www.cs.cornell.edu/courses/cs481/2004fa/rabiner.pdf</weblink> </entry>
 <entry level="1" type="bullet">
@@ -396,7 +396,7 @@ Anders Krogh</link></scientist>
 Graeme Mitchison</link>&#32;(1999). Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids.&#32;<company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../199/73199.xml">
 Cambridge University Press</link></company>
-. ISBN 0-521-62971-3.</cite>&nbsp;</entry>
+. ISBN 0-521-62971-3.</cite> </entry>
 <entry level="1" type="bullet">
 
  Lior Pachter and Bernd Sturmfels. "Algebraic Statistics for Computational Biology". Cambridge University Press, 2005. ISBN 0-521-85700-7.</entry>

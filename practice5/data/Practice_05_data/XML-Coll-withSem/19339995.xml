@@ -68,7 +68,7 @@ Inuktikut</native_name_link>
 border 
 </caption>
 </image>
-&nbsp;<district wordnetid="108552138" confidence="0.9508927676800064">
+ <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/7129693.xml">
 Nunavut</link></district>
 </country_admin_divisions>
@@ -105,7 +105,7 @@ Edgell Island</link></island>
 . </p>
 <p>
 
-A V-shaped lake lies 1.5&nbsp;kilometres (0.93&nbsp;mi) south of Savage Harbour which is located at 61°49.15'N, 65°42.62'W.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></p>
+A V-shaped lake lies 1.5 kilometres (0.93 mi) south of Savage Harbour which is located at 61°49.15'N, 65°42.62'W.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></p>
 
 <sec>
 <st>
@@ -153,29 +153,29 @@ Nunavut</link></district>
 Core topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <b><link xlink:type="simple" xlink:href="../686/6815686.xml">
-History</link>&nbsp;·  <link xlink:type="simple" xlink:href="../122/6816122.xml">
-Geography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/872298.xml">
-Regions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../221/191221.xml">
-Communities</link>&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+History</link> ·  <link xlink:type="simple" xlink:href="../122/6816122.xml">
+Geography</link> ·  <link xlink:type="simple" xlink:href="../298/872298.xml">
+Regions</link> ·  <link xlink:type="simple" xlink:href="../221/191221.xml">
+Communities</link> ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/7129693.xml#xpointer(//*[./st=%22Government%22])">
 Government</link></district>
 </b><link xlink:type="simple" xlink:href="../981/9493981.xml">
-Demographics</link>&nbsp;·  
-Transportation in Nunavut|Transportation&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Demographics</link> ·  
+Transportation in Nunavut|Transportation ·  <artifact wordnetid="100021939" confidence="0.8">
 <way wordnetid="104564698" confidence="0.8">
 <road wordnetid="104096066" confidence="0.8">
 <link xlink:type="simple" xlink:href="../284/1829284.xml">
 Highways</link></road>
 </way>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../520/6535520.xml">
-Airports</link>&nbsp;·  <link xlink:type="simple" xlink:href="../379/559379.xml">
-Commissioners</link>&nbsp;·  <link xlink:type="simple" xlink:href="../103/72103.xml">
-Premiers</link>&nbsp;·  <legislature wordnetid="108163273" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../520/6535520.xml">
+Airports</link> ·  <link xlink:type="simple" xlink:href="../379/559379.xml">
+Commissioners</link> ·  <link xlink:type="simple" xlink:href="../103/72103.xml">
+Premiers</link> ·  <legislature wordnetid="108163273" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../900/670900.xml">
 Legislative Assembly</link></legislature>
-&nbsp;·  <link xlink:type="simple" xlink:href="../227/1004227.xml">
-Elections</link>&nbsp;·  </col>
+ ·  <link xlink:type="simple" xlink:href="../227/1004227.xml">
+Elections</link> ·  </col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="11">
 <image width="82px" src="Flag_of_Nunavut.svg" type="border">
 </image>
@@ -204,10 +204,10 @@ Bathurst Inlet</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../543/1033543.xml">
 Cambridge Bay</link></village>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -216,7 +216,7 @@ Gjoa Haven</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -225,7 +225,7 @@ Kugaaruk</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -234,7 +234,7 @@ Kugluktuk</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -243,7 +243,7 @@ Taloyoak</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -277,10 +277,10 @@ Arviat</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../313/1478313.xml">
 Baker Lake</link></village>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -289,7 +289,7 @@ Chesterfield Inlet</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -298,7 +298,7 @@ Coral Harbour</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -307,7 +307,7 @@ Rankin Inlet</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -316,7 +316,7 @@ Repulse Bay</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -344,7 +344,7 @@ Qikiqtaaluk Region</link></army_unit>
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../940/798940.xml">
 Arctic Bay</link></village>
-&nbsp;·  <natural_elevation wordnetid="109366317" confidence="0.8">
+ ·  <natural_elevation wordnetid="109366317" confidence="0.8">
 <mountain wordnetid="109359803" confidence="0.8">
 <range wordnetid="109403734" confidence="0.8">
 <geological_formation wordnetid="109287968" confidence="0.8">
@@ -353,10 +353,10 @@ Arctic Cordillera</link></geological_formation>
 </range>
 </mountain>
 </natural_elevation>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../448/1803448.xml">
 Cape Dorset</link></village>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -365,10 +365,10 @@ Clyde River</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../811/244811.xml">
 Grise Fiord</link></village>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -377,7 +377,7 @@ Hall Beach</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -386,10 +386,10 @@ Igloolik</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../582/14582.xml">
 Iqaluit</link></village>
-</b>&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+</b> ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -398,7 +398,7 @@ Kimmirut</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  (<misfortune wordnetid="114475405" confidence="0.8">
+ ·  (<misfortune wordnetid="114475405" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <condition wordnetid="113920429" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
@@ -419,7 +419,7 @@ Nanisivik</link></fortune>
 </condition>
 </social_group>
 </misfortune>
-)&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+) ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -428,7 +428,7 @@ Pangnirtung</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -437,7 +437,7 @@ Pond Inlet</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -446,7 +446,7 @@ Qikiqtarjuaq</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -457,7 +457,7 @@ Resolute</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <land wordnetid="109334396" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
@@ -483,13 +483,13 @@ National Parks</link></col>
 <area wordnetid="108497294" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../054/2003054.xml">
 Auyuittuq</link></area>
-&nbsp;·  <area wordnetid="108497294" confidence="0.9508927676800064">
+ ·  <area wordnetid="108497294" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../563/365563.xml">
 Quttinirpaaq</link></area>
-&nbsp;·  <area wordnetid="108497294" confidence="0.9508927676800064">
+ ·  <area wordnetid="108497294" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../975/2023975.xml">
 Sirmilik</link></area>
-&nbsp;·  <area wordnetid="108497294" confidence="0.9508927676800064">
+ ·  <area wordnetid="108497294" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../345/303345.xml">
 Ukkusiksalik</link></area>
 </col>
@@ -503,8 +503,8 @@ Ukkusiksalik</link></area>
 Territorial Parks</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../497/10817497.xml">
-Ijiraliq</link>&nbsp;·  <link xlink:type="simple" xlink:href="../926/18748926.xml">
-Inuujarvik</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+Ijiraliq</link> ·  <link xlink:type="simple" xlink:href="../926/18748926.xml">
+Inuujarvik</link> ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -515,7 +515,7 @@ Iqalugaarjuup Nunanga</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -526,7 +526,7 @@ Katannilik</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -539,7 +539,7 @@ Kugluk/Bloody Falls</link></geographical_area>
 </park>
 </region>
 </site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -550,7 +550,7 @@ North West Passage</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">

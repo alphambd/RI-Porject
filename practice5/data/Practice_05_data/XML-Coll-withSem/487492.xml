@@ -42,7 +42,7 @@ brute force</link></activity>
 </attack>
 </event>
 </operation>
- key search &mdash; especially in explanations for newcomers to the field. Indeed, with this attack (always assuming keys to have been randomly chosen), there is a continuum of resistance depending on the length of the key used. But even so there are two major problems: many algorithms allow use of different length keys at different times, and any algorithm can forego use of the entire key length possible. Thus, <cipher wordnetid="106254239" confidence="0.9508927676800064">
+ key search — especially in explanations for newcomers to the field. Indeed, with this attack (always assuming keys to have been randomly chosen), there is a continuum of resistance depending on the length of the key used. But even so there are two major problems: many algorithms allow use of different length keys at different times, and any algorithm can forego use of the entire key length possible. Thus, <cipher wordnetid="106254239" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../940/3940.xml">
 Blowfish</link></cipher>
  and <cipher wordnetid="106254239" confidence="0.9508927676800064">

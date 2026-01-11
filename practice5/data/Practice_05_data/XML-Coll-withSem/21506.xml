@@ -156,7 +156,7 @@ Direct and iterative methods</st>
 Direct Method</caption>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 3<it>x</it>3 + 4 = 28.</col>
 </row>
@@ -262,7 +262,7 @@ Riemann sum</link>, because displacement is the <link xlink:type="simple" xlink:
 integral</link>of velocity.</p>
 <p>
 
-<b>Ill posed problem</b>: Take the function <it>f</it>(<it>x</it>) = 1/(<it>x</it>&nbsp;&amp;minus;&nbsp;1). Note that <it>f</it>(1.1) = 10 and <it>f</it>(1.001) = 1000: a change in <it>x</it> of less than 0.1 turns into a change in <it>f</it>(<it>x</it>) of nearly 1000. Evaluating <it>f</it>(<it>x</it>) near <it>x</it> = 1 is an ill-conditioned problem.</p>
+<b>Ill posed problem</b>: Take the function <it>f</it>(<it>x</it>) = 1/(<it>x</it> &amp;minus; 1). Note that <it>f</it>(1.1) = 10 and <it>f</it>(1.001) = 1000: a change in <it>x</it> of less than 0.1 turns into a change in <it>f</it>(<it>x</it>) of nearly 1000. Evaluating <it>f</it>(<it>x</it>) near <it>x</it> = 1 is an ill-conditioned problem.</p>
 <p>
 
 <b>Well-posed problem</b>: By contrast, the function <math>f(x)=\sqrt{x}</math> is continuous and so evaluating it is well-posed.</p>
@@ -894,13 +894,13 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Gilat-2004" style="font-style:normal" class="book">Gilat, Amos&#32;(2004). MATLAB: An Introduction with Applications, 2nd edition,&#32;John Wiley &amp; Sons. ISBN 0-471-69420-7.</cite>&nbsp;</entry>
+ <cite id="Reference-Gilat-2004" style="font-style:normal" class="book">Gilat, Amos&#32;(2004). MATLAB: An Introduction with Applications, 2nd edition,&#32;John Wiley &amp; Sons. ISBN 0-471-69420-7.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Hildebrand-1974" style="font-style:normal" class="book">Hildebrand, F. B.&#32;(1974). Introduction to Numerical Analysis, 2nd edition,&#32;McGraw-Hill. ISBN 0-070-28761-9.</cite>&nbsp;</entry>
+ <cite id="Reference-Hildebrand-1974" style="font-style:normal" class="book">Hildebrand, F. B.&#32;(1974). Introduction to Numerical Analysis, 2nd edition,&#32;McGraw-Hill. ISBN 0-070-28761-9.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite id="Reference-Leader-2004" style="font-style:normal" class="book">Leader, Jeffery J.&#32;(2004). Numerical Analysis and Scientific Computation.&#32;Addison Wesley. ISBN 0-201-73499-0.</cite>&nbsp;</entry>
+ <cite id="Reference-Leader-2004" style="font-style:normal" class="book">Leader, Jeffery J.&#32;(2004). Numerical Analysis and Scientific Computation.&#32;Addison Wesley. ISBN 0-201-73499-0.</cite> </entry>
 <entry level="1" type="bullet">
 
  Trefethen, Lloyd N. (2006). <weblink xlink:type="simple" xlink:href="http://web.comlab.ox.ac.uk/oucl/work/nick.trefethen/NAessay.pdf">
@@ -978,44 +978,44 @@ mathematics</link></header>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../118/3118.xml">
-Arithmetic</link>&nbsp;· 
+Arithmetic</link> · 
 <link xlink:type="simple" xlink:href="../636/19636.xml">
-Logic</link>&nbsp;· 
+Logic</link> · 
 <link xlink:type="simple" xlink:href="../553/27553.xml">
-Set theory</link>&nbsp;· 
+Set theory</link> · 
 <link xlink:type="simple" xlink:href="../869/5869.xml">
-Category theory</link>&nbsp;· 
+Category theory</link> · 
 <link xlink:type="simple" xlink:href="../923/18716923.xml">
 Algebra</link> (<link xlink:type="simple" xlink:href="../710/9710.xml">
 elementary</link> – <link xlink:type="simple" xlink:href="../422/18422.xml">
 linear</link> – <link xlink:type="simple" xlink:href="../384/19616384.xml">
-abstract</link>)&nbsp;· 
+abstract</link>) · 
 <link xlink:type="simple" xlink:href="../527/21527.xml">
-Number theory</link>&nbsp;· 
+Number theory</link> · 
 <link xlink:type="simple" xlink:href="../396/48396.xml">
-Analysis</link>&nbsp;· 
+Analysis</link> · 
 <link xlink:type="simple" xlink:href="../446/18973446.xml">
-Geometry</link>&nbsp;· 
+Geometry</link> · 
 <link xlink:type="simple" xlink:href="../261/18717261.xml">
-Trigonometry</link>&nbsp;· 
+Trigonometry</link> · 
 <link xlink:type="simple" xlink:href="../954/29954.xml">
-Topology</link>&nbsp;· 
+Topology</link> · 
 <link xlink:type="simple" xlink:href="../632/990632.xml">
-Dynamical systems</link>&nbsp;· 
+Dynamical systems</link> · 
 <link xlink:type="simple" xlink:href="../170/5170.xml">
-Combinatorics</link>&nbsp;· 
+Combinatorics</link> · 
 <link xlink:type="simple" xlink:href="../924/11924.xml">
-Game theory</link>&nbsp;· 
+Game theory</link> · 
 <link xlink:type="simple" xlink:href="../773/14773.xml">
-Information theory</link>&nbsp;· 
+Information theory</link> · 
 <link xlink:type="simple" xlink:href="../033/52033.xml">
-Optimization</link>&nbsp;· 
+Optimization</link> · 
 <link xlink:type="simple" xlink:href="../402/30402.xml">
-Computation</link>&nbsp;· 
+Computation</link> · 
 <link>
-Probability</link>&nbsp;· 
+Probability</link> · 
 <link xlink:type="simple" xlink:href="../685/26685.xml">
-Statistics</link>&nbsp;· 
+Statistics</link> · 
 <occupation wordnetid="100582388" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">

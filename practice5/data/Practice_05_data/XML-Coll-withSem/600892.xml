@@ -36,7 +36,7 @@ rational number</link>s (including <link xlink:type="simple" xlink:href="../376/
 floating-point</link> numbers) with an arbitrary number of <link xlink:type="simple" xlink:href="../582/280582.xml">
 digit</link>s of <link xlink:type="simple" xlink:href="../110/552110.xml">
 precision</link>, typically limited only by the available <link xlink:type="simple" xlink:href="../300/5300.xml">
-memory</link> of the host system.  Using many digits of precision, as opposed to the approximately 6&ndash;16 decimal digits available in most hardware arithmetic, is important for a number of applications as described below; the most widespread usage is probably for <link xlink:type="simple" xlink:href="../432/18934432.xml">
+memory</link> of the host system.  Using many digits of precision, as opposed to the approximately 6–16 decimal digits available in most hardware arithmetic, is important for a number of applications as described below; the most widespread usage is probably for <link xlink:type="simple" xlink:href="../432/18934432.xml">
 cryptography</link> used in every modern <link xlink:type="simple" xlink:href="../173/33173.xml">
 web browser</link>.<p>
 
@@ -140,7 +140,7 @@ Mandelbrot set</link>.</p>
 <p>
 
 Arbitrary-precision arithmetic can also be used to avoid <link xlink:type="simple" xlink:href="../724/40724.xml">
-overflow</link>, which is an inherent limitation of fixed-precision arithmetic. Just like a 4-digit odometer which rolls around from 9999 to 0000, a fixed-precision integer can exhibit <it>wraparound</it> if numbers grow too large to represent at the fixed level of precision.  Some processors can deal with overflow by <it>saturation,</it> which means that if a result would be unrepresentable, it is replaced with the nearest representable value. (With 16-bit unsigned saturation, adding 1 to 65535 yields 65535 &mdash; see <link xlink:type="simple" xlink:href="../167/1830167.xml">
+overflow</link>, which is an inherent limitation of fixed-precision arithmetic. Just like a 4-digit odometer which rolls around from 9999 to 0000, a fixed-precision integer can exhibit <it>wraparound</it> if numbers grow too large to represent at the fixed level of precision.  Some processors can deal with overflow by <it>saturation,</it> which means that if a result would be unrepresentable, it is replaced with the nearest representable value. (With 16-bit unsigned saturation, adding 1 to 65535 yields 65535 — see <link xlink:type="simple" xlink:href="../167/1830167.xml">
 saturation arithmetic</link>.) Some processors can generate an <abnormality wordnetid="114501726" confidence="0.8">
 <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">

@@ -191,28 +191,28 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Bellare, M.; D. Pointcheval; P. Rogaway&#32;(2000).&#32;"Authenticated Key Exchange Secure against Dictionary Attacks". <it>Advances in Cryptology -- Eurocrypt 2000 LNCS</it>&#32;<b>1807</b>.&#32;Springer-Verlag.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Bellare, M.; D. Pointcheval; P. Rogaway&#32;(2000).&#32;"Authenticated Key Exchange Secure against Dictionary Attacks". <it>Advances in Cryptology -- Eurocrypt 2000 LNCS</it>&#32;<b>1807</b>.&#32;Springer-Verlag.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Bellovin, S. M.; M. Merritt&#32;(May 1992).&#32;"Encrypted Key Exchange: Password-Based Protocols Secure Against Dictionary Attacks". <it>Proceedings of the I.E.E.E. Symposium on Research in Security and Privacy</it>.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Bellovin, S. M.; M. Merritt&#32;(May 1992).&#32;"Encrypted Key Exchange: Password-Based Protocols Secure Against Dictionary Attacks". <it>Proceedings of the I.E.E.E. Symposium on Research in Security and Privacy</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Boyko, V.; P. MacKenzie; S. Patel.&#32;"Provably Secure Password-Authenticated Key Exchange Using Diffie-Hellman". <it>Advances in Cryptology -- Eurocrypt 2000, LNCS</it>&#32;<b>1807</b>.&#32;Springer-Verlag.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Boyko, V.; P. MacKenzie; S. Patel.&#32;"Provably Secure Password-Authenticated Key Exchange Using Diffie-Hellman". <it>Advances in Cryptology -- Eurocrypt 2000, LNCS</it>&#32;<b>1807</b>.&#32;Springer-Verlag.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Ford, W.; <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../879/9371879.xml">
 B. Kaliski</link></person>
-.&#32;"Server-Assisted Generation of a Strong Secret from a Password". <it>Proceedings of the IEEE 9th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises</it>.&#32;Gaithersburg MD:&#32;NIST.</cite>&nbsp;</entry>
+.&#32;"Server-Assisted Generation of a Strong Secret from a Password". <it>Proceedings of the IEEE 9th International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises</it>.&#32;Gaithersburg MD:&#32;NIST.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Goldreich, O.; Y. Lindell.&#32;"Session-Key Generation Using Human Passwords Only". <it>Advances in Cryptology -- Crypto 2001  LNCS</it>&#32;<b>2139</b>.&#32;Springer-Verlag.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Goldreich, O.; Y. Lindell.&#32;"Session-Key Generation Using Human Passwords Only". <it>Advances in Cryptology -- Crypto 2001  LNCS</it>&#32;<b>2139</b>.&#32;Springer-Verlag.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite id="CITEREF" style="font-style:normal"><it>IEEE P1363.2: Proposed Standard for Password-Based Public-Key Cryptography</it>, IEEE P1363 Working Group</cite>&nbsp;</entry>
+  <cite id="CITEREF" style="font-style:normal"><it>IEEE P1363.2: Proposed Standard for Password-Based Public-Key Cryptography</it>, IEEE P1363 Working Group</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Katz, J.; R. Ostrovsky; M. Yung.&#32;"Efficient Password-Authenticated Key Exchange Using Human-Memorable Passwords". <it>2001</it>&#32;<b>2045</b>.&#32;Springer-Vergal.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Katz, J.; R. Ostrovsky; M. Yung.&#32;"Efficient Password-Authenticated Key Exchange Using Human-Memorable Passwords". <it>2001</it>&#32;<b>2045</b>.&#32;Springer-Vergal.</cite> </entry>
 <entry level="1" type="bullet">
 
 T. Wu. The SRP-3 Secure Remote Password Protocol.  IETF RFC 2945.</entry>

@@ -133,7 +133,7 @@ Let <it>X</it> be a <link xlink:type="simple" xlink:href="../685/25685.xml">
 random variable</link> with <link xlink:type="simple" xlink:href="../653/9653.xml">
 expected value</link> μ and finite <link xlink:type="simple" xlink:href="../344/32344.xml">
 variance</link> σ2. Then for any <link xlink:type="simple" xlink:href="../491/19725491.xml">
-real number</link> <it>k</it>&nbsp;&amp;gt;&nbsp;0,</p>
+real number</link> <it>k</it> &amp;gt; 0,</p>
 <p>
 
 <indent level="1">
@@ -150,7 +150,7 @@ Only the cases <it>k</it> &amp;gt; 1 provide useful information. This can be equ
 As an example, using <it>k</it> = √2 shows that at least half of the values lie in the interval (μ − √2 σ, μ + √2 σ).</p>
 <p>
 
-Typically, the theorem will provide rather loose bounds. However, the bounds provided by Chebyshev's inequality cannot, in general (remaining sound for variables of arbitrary distribution), be improved upon. For example, for any <it>k</it>&nbsp;&amp;gt;&nbsp;1, the following example (where σ&nbsp;=&nbsp;1/<it>k</it>) meets the bounds exactly.</p>
+Typically, the theorem will provide rather loose bounds. However, the bounds provided by Chebyshev's inequality cannot, in general (remaining sound for variables of arbitrary distribution), be improved upon. For example, for any <it>k</it> &amp;gt; 1, the following example (where σ = 1/<it>k</it>) meets the bounds exactly.</p>
 <p>
 
 <indent level="1">
@@ -271,7 +271,7 @@ Probabilistic proof</st>
 <link xlink:type="simple" xlink:href="../232/238232.xml">
 Markov's inequality</link></inequality>
 </difference>
- states that for any real-valued random variable <it>Y</it> and any positive number <it>a</it>, we have Pr(|<it>Y</it>|&nbsp;&amp;gt;&nbsp;<it>a</it>) ≤ E(|<it>Y</it>|)/<it>a</it>. One way to prove Chebyshev's inequality is to apply Markov's inequality to the random variable <it>Y</it>&nbsp;=&nbsp;(<it>X</it>&nbsp;−&nbsp;μ)2 with <it>a</it> = (σ<it>k</it>)2.</p>
+ states that for any real-valued random variable <it>Y</it> and any positive number <it>a</it>, we have Pr(|<it>Y</it>| &amp;gt; <it>a</it>) ≤ E(|<it>Y</it>|)/<it>a</it>. One way to prove Chebyshev's inequality is to apply Markov's inequality to the random variable <it>Y</it> = (<it>X</it> − μ)2 with <it>a</it> = (σ<it>k</it>)2.</p>
 <p>
 
 It can also be proved directly. For any event <it>A</it>, let <it>IA</it> be the indicator random variable of <it>A</it>, i.e. <it>IA</it> equals 1 if <it>A</it> occurs and 0 otherwise. Then</p>
@@ -289,7 +289,7 @@ It can also be proved directly. For any event <it>A</it>, let <it>IA</it> be the
 = {1 \over k^2} {\operatorname{E}((X-\mu)^2) \over \sigma^2} = {1 \over k^2}.</math>
 </indent>
 
-The direct proof shows why the bounds are quite loose in typical cases: the number 1 to the left of "≥" is replaced by [(''X''&nbsp;−&nbsp;μ)/(''k''σ)]2 to the right of "≥" whenever the latter exceeds 1. In some cases it exceeds 1 by a very wide margin.</p>
+The direct proof shows why the bounds are quite loose in typical cases: the number 1 to the left of "≥" is replaced by [(''X'' − μ)/(''k''σ)]2 to the right of "≥" whenever the latter exceeds 1. In some cases it exceeds 1 by a very wide margin.</p>
 
 </ss1>
 </sec>

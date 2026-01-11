@@ -86,7 +86,7 @@ ability</link> estimate</entry>
  The ability estimate is updated, based upon all prior answers</entry>
 <entry level="1" type="number">
 
- Steps 1&ndash;3 are repeated until a termination criterion is met</entry>
+ Steps 1–3 are repeated until a termination criterion is met</entry>
 </list>
 </p>
 <p>

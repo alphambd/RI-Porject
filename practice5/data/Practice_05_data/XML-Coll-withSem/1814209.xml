@@ -95,7 +95,7 @@ The next step in the minimization process is to "probe" the function by evaluati
 
 <p>
 
-From the diagram above, it is seen that the new search interval will be either between <math>x_1</math> and <math>x_4</math> with a length of <it>a</it>+<it>c</it>&nbsp;, or between <math>x_2</math> and <math>x_3</math> with a length of <it>b</it>&nbsp;. The golden section search requires that these intervals be equal. If they are not, a run of "bad luck" could lead to the wider interval being used many times, thus slowing down the rate of convergence. To ensure that <it>b</it> = <it>a</it>+<it>c</it>, the algorithm should choose <math>x_4=x_1-x_2+x_3</math>.</p>
+From the diagram above, it is seen that the new search interval will be either between <math>x_1</math> and <math>x_4</math> with a length of <it>a</it>+<it>c</it> , or between <math>x_2</math> and <math>x_3</math> with a length of <it>b</it> . The golden section search requires that these intervals be equal. If they are not, a run of "bad luck" could lead to the wider interval being used many times, thus slowing down the rate of convergence. To ensure that <it>b</it> = <it>a</it>+<it>c</it>, the algorithm should choose <math>x_4=x_1-x_2+x_3</math>.</p>
 <p>
 
 However there still remains the question of where <math>x_2</math> should be placed in relation to <math>x_1</math> and <math>x_3</math>. The golden section search chooses the spacing between these points in such a way that these points have the same proportion of spacing as the subsequent triple <math>x_1,x_2,x_4</math> or <math>x_2,x_4,x_3</math>. By maintaining the same proportion of spacing throughout the algorithm, we avoid a situation in which <math>x_2</math> is very close to <math>x_1</math> or <math>x_3</math>, and guarantee that the interval width shrinks by the same constant proportion in each step.</p>
@@ -133,7 +133,7 @@ or </p>
 <math>\frac{b}{a}=\varphi</math>
 </indent>
 
-where φ&nbsp; is the <link xlink:type="simple" xlink:href="../386/12386.xml">
+where φ  is the <link xlink:type="simple" xlink:href="../386/12386.xml">
 golden ratio</link>: </p>
 <p>
 
@@ -160,7 +160,7 @@ In addition to a routine for reducing the size of the bracketing of the solution
 <math>|x_4-x_1| &amp;lt; \tau (|x_2| + |x_3|)\,</math>
 </indent>
 
-where <math>\tau</math> is a tolerance parameter of the algorithm and <it>|x|</it>&nbsp; is the <link xlink:type="simple" xlink:href="../991/991.xml">
+where <math>\tau</math> is a tolerance parameter of the algorithm and <it>|x|</it>  is the <link xlink:type="simple" xlink:href="../991/991.xml">
 absolute value</link> of <it>x</it>.  The check is relative to the size of <math>x_2</math> and <math>x_3</math> because the  fraction (non-exponent) part of a <link xlink:type="simple" xlink:href="../376/11376.xml">
 floating point</link> number is of fixed precision.</p>
 
@@ -261,7 +261,7 @@ MR</link></publication>
 </product>
 </work>
 <weblink xlink:type="simple" xlink:href="http://www.ams.org/mathscinet-getitem?mr=0208812">
-0208812</weblink></cite>&nbsp;</entry>
+0208812</weblink></cite> </entry>
 </list>
 </p>
 <p>
@@ -305,7 +305,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2032161">
-10.2307/2032161</weblink></cite>&nbsp;</entry>
+10.2307/2032161</weblink></cite> </entry>
 </list>
 </p>
 <p>
@@ -326,7 +326,7 @@ Numerical Recipes in C, The Art of Scientific Computing</link></publication>
 </creation>
 </product>
 </work>
-</it>&#32;(second ed.), Cambridge University Press, Cambridge, ISBN 0-521-43108-5</cite>&nbsp;</entry>
+</it>&#32;(second ed.), Cambridge University Press, Cambridge, ISBN 0-521-43108-5</cite> </entry>
 </list>
 </p>
 

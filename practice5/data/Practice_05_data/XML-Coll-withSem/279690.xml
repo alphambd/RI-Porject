@@ -246,7 +246,7 @@ Solving the equations</st>
 <p>
 
 Solving the equations proceeds by <link xlink:type="simple" xlink:href="../432/54432.xml">
-unification</link>. This is&mdash;maybe surprisingly&mdash;a rather simple algorithm. The function <math>u</math> operates on type equations and returns a structure called a "substitution". A substitution is simply a mapping from type variables to types. Substitutions can be composed and extended in the obvious ways.</p>
+unification</link>. This is—maybe surprisingly—a rather simple algorithm. The function <math>u</math> operates on type equations and returns a structure called a "substitution". A substitution is simply a mapping from type variables to types. Substitutions can be composed and extended in the obvious ways.</p>
 <p>
 
 Unifying the empty set of equations is easy enough: <math>u\, \emptyset = \mathbf{i}</math>, where <math>\mathbf{i}</math> is the identity substitution.</p>
@@ -274,10 +274,10 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite id="CITEREFMilner1978" style="font-style:normal">Milner, Robin&#32;(1978),&#32;"A Theory of Type Polymorphism in Programming",&#32;<it>jcss</it>&#32;<b>17</b>:  348-375</cite>&nbsp;</entry>
+ <cite id="CITEREFMilner1978" style="font-style:normal">Milner, Robin&#32;(1978),&#32;"A Theory of Type Polymorphism in Programming",&#32;<it>jcss</it>&#32;<b>17</b>:  348-375</cite> </entry>
 <entry id="2">
  <cite id="CITEREFDamasMilner1982" style="font-style:normal">Damas, Luis&#32;&amp;&#32;Milner, Robin&#32;(1982),&#32;<weblink xlink:type="simple" xlink:href="http://groups.csail.mit.edu/pag/6.883/readings/p207-damas.pdf">
-"Principal type-schemes for functional programs"</weblink>,&#32;<it>POPL '82: Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</it>, ACM, pp. 207--212, </cite>&nbsp;</entry>
+"Principal type-schemes for functional programs"</weblink>,&#32;<it>POPL '82: Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of programming languages</it>, ACM, pp. 207--212, </cite> </entry>
 <entry id="3">
  <cite style="font-style:normal" class="book"><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -288,7 +288,7 @@ Pierce, Benjamin C.</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(2002).&#32;"Chapter 22", Types and Programming Languages.&#32;MIT Press. ISBN 0-262-16209-1.</cite>&nbsp;</entry>
+&#32;(2002).&#32;"Chapter 22", Types and Programming Languages.&#32;MIT Press. ISBN 0-262-16209-1.</cite> </entry>
 </reflist>
 </p>
 

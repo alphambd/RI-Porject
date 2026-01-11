@@ -145,16 +145,16 @@ The typical off-peak service (Monday to Saturday) from the station is:
 <table style="margin: 0.5em auto; text-align: center;" class="wikitable">
 <row>
 <header>
-&nbsp; Preceding station &nbsp;</header>
+  Preceding station  </header>
 <header colspan="3">
- &nbsp; <company wordnetid="108058098" confidence="0.8">
+   <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../923/21923.xml">
 National Rail</link></institution>
 </company>
-&nbsp;</header>
+ </header>
 <header>
-&nbsp; Following station &nbsp;</header>
+  Following station  </header>
 </row>
 <row style="text-align: center;">
 <col rowspan="2">
@@ -163,7 +163,7 @@ National Rail</link></institution>
 Ash Vale</link></station>
 </col>
 <col style="background:#FF0000;">
-&nbsp;</col>
+ </col>
 <col>
  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../459/234459.xml">
@@ -171,7 +171,7 @@ South West Trains</link></company>
 <link xlink:type="simple" xlink:href="../797/1796797.xml">
 Alton Line</link></col>
 <col style="background:#FF0000;">
-&nbsp;</col>
+ </col>
 <col>
  <station wordnetid="104306080" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../970/1348970.xml">
@@ -180,7 +180,7 @@ Farnham</link></station>
 </row>
 <row style="text-align: center;">
 <col style="background:#FF0000;">
-&nbsp;</col>
+ </col>
 <col>
  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../459/234459.xml">
@@ -196,7 +196,7 @@ Ascot to Guildford line</link></business>
 </railway>
 </col>
 <col style="background:#FF0000;">
-&nbsp;</col>
+ </col>
 <col>
  <station wordnetid="104306080" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../529/6079529.xml">

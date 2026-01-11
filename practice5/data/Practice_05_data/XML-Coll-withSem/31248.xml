@@ -117,7 +117,7 @@ printed circuit</link> manufacturing: scheduling of a route of the drill machine
  The generalized travelling salesman problem deals with "states" that have (one or more) "cities" and the salesman has to visit exactly one "city" from each "state". Also known as the "travelling politician problem". One application is encountered in ordering a solution to the <link xlink:type="simple" xlink:href="../868/826868.xml">
 cutting stock problem</link> in order to minimise knife changes. Another is concerned with drilling in semiconductor manufacturing, see e.g. <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=7054798">
 U.S. Patent 7,054,798</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=7054798">
-&nbsp;</weblink>. Surprisingly, Behzad and Modarres<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> demonstrated that the generalised travelling salesman problem can be transformed into a standard travelling salesman problem with the same number of cities, but a modified <link xlink:type="simple" xlink:href="../350/831350.xml">
+ </weblink>. Surprisingly, Behzad and Modarres<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> demonstrated that the generalised travelling salesman problem can be transformed into a standard travelling salesman problem with the same number of cities, but a modified <link xlink:type="simple" xlink:href="../350/831350.xml">
 distance matrix</link>.</entry>
 </list>
 </p>
@@ -304,7 +304,7 @@ Rice University</link></university>
  and <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../922/23922.xml">
 Princeton University</link></university>
- (see the Princeton external link). The total computation time was equivalent to 22.6&nbsp;years on a single 500&nbsp;MHz <link xlink:type="simple" xlink:href="../971/8971.xml">
+ (see the Princeton external link). The total computation time was equivalent to 22.6 years on a single 500 MHz <link xlink:type="simple" xlink:href="../971/8971.xml">
 Alpha processor</link>. In May 2004, the travelling salesman problem of visiting all 24,978 towns in Sweden was solved: a tour of length approximately 72,500 kilometers was found and it was proven that no shorter tour exists.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%226%22])">6</ref></p>
 <p>
 
@@ -361,7 +361,7 @@ Lin-Kernighan</link></b> heuristics.</entry>
  <b><it>k</it></b><b>-opt heuristic</b></entry>
 <entry level="1" type="indent">
 
- Take a given tour and delete <it>k</it> mutually disjoint edges. Reassemble the remaining fragments into a tour, leaving no disjoint subtours (that is, don't connect a fragment's endpoints together). This in effect simplifies the TSP under consideration into a much simpler problem. Each fragment endpoint can be connected to 2<it>k</it>&nbsp;&amp;minus;&nbsp;2 other possibilities: of 2<it>k</it> total fragment endpoints available, the two endpoints of the fragment under consideration are disallowed. Such a constrained 2<it>k</it>-city TSP can then be solved with brute force methods to find the least-cost recombination of the original fragments. The k-opt technique is a special case of the V-opt or variable-opt technique. The most popular of the k-opt methods are 3-opt, and these were introduced by Shen Lin of Bell Labs in 1965. There is a special case of 3-opt where the edges are not disjoint (two of the edges are adjacent to one another). In practice, it is often possible to achieve substantial improvement over 2-opt without the combinatorial cost of the general 3-opt by restricting the 3-changes to this special subset where two of the removed edges are adjacent. This so called two-and-a-half-opt typically falls roughly midway between 2-opt and 3-opt both in terms of the quality of tours achieved and the time required to achieve those tours.</entry>
+ Take a given tour and delete <it>k</it> mutually disjoint edges. Reassemble the remaining fragments into a tour, leaving no disjoint subtours (that is, don't connect a fragment's endpoints together). This in effect simplifies the TSP under consideration into a much simpler problem. Each fragment endpoint can be connected to 2<it>k</it> &amp;minus; 2 other possibilities: of 2<it>k</it> total fragment endpoints available, the two endpoints of the fragment under consideration are disallowed. Such a constrained 2<it>k</it>-city TSP can then be solved with brute force methods to find the least-cost recombination of the original fragments. The k-opt technique is a special case of the V-opt or variable-opt technique. The most popular of the k-opt methods are 3-opt, and these were introduced by Shen Lin of Bell Labs in 1965. There is a special case of 3-opt where the edges are not disjoint (two of the edges are adjacent to one another). In practice, it is often possible to achieve substantial improvement over 2-opt without the combinatorial cost of the general 3-opt by restricting the 3-changes to this special subset where two of the removed edges are adjacent. This so called two-and-a-half-opt typically falls roughly midway between 2-opt and 3-opt both in terms of the quality of tours achieved and the time required to achieve those tours.</entry>
 <entry level="1" type="bullet">
 
  <b><it>V</it></b><it>-opt heuristic</it>'</entry>
@@ -607,7 +607,7 @@ perfect matching</link>. This gives a TSP tour which is at most 1.5 times the op
 approximation algorithm</link>s, and was in part responsible for drawing attention to approximation algorithms as a practical approach to intractable problems. As a matter of fact, the term "algorithm" was not commonly extended to approximation algorithms until later; the Christofides algorithm was initially referred to as the Christofides heuristic. </p>
 <p>
 
-In the special case that distances between cities are all either one or two (and thus the triangle inequality is necessarily satisfied), there is a polynomial-time approximation algorithm that finds a tour of length at most 8/7 times the optimal tour length<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref>.  However, it is a long-standing (since 1975) open problem to improve the Christofides approximation factor of 1.5 for general metric TSP to a smaller constant. It is known that, unless <it>P</it>&nbsp;=&nbsp;<it>NP</it>, there is no polynomial-time algorithm that finds a tour of length at most 220/219=1.00456… times the optimal tour's length<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref>. In the case of bounded metrics it is known that there is no polynomial time algorithm that constructs a tour of length at most 1/388 more than optimal, unless <it>P</it>&nbsp;=&nbsp;<it>NP</it><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref>.</p>
+In the special case that distances between cities are all either one or two (and thus the triangle inequality is necessarily satisfied), there is a polynomial-time approximation algorithm that finds a tour of length at most 8/7 times the optimal tour length<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref>.  However, it is a long-standing (since 1975) open problem to improve the Christofides approximation factor of 1.5 for general metric TSP to a smaller constant. It is known that, unless <it>P</it> = <it>NP</it>, there is no polynomial-time algorithm that finds a tour of length at most 220/219=1.00456… times the optimal tour's length<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref>. In the case of bounded metrics it is known that there is no polynomial time algorithm that constructs a tour of length at most 1/388 more than optimal, unless <it>P</it> = <it>NP</it><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref>.</p>
 
 </ss2>
 <ss2>
@@ -623,7 +623,7 @@ Euclidean TSP is a particular case of TSP with triangle inequality, since distan
 Euclidean minimum spanning tree</link>, and so can be computed in expected O(<it>n</it> log <it>n</it>) time for <it>n</it> points (considerably less than the number of edges). This enables the simple 2-approximation algorithm for TSP with triangle inequality above to operate more quickly.</p>
 <p>
 
-In general, for any <it>c</it>&nbsp;&amp;gt;&nbsp;0, there is a polynomial-time algorithm that finds a tour of length at most (1&nbsp;+&nbsp;1/<it>c</it>) times the optimal for geometric instances of TSP in O(<it>n</it> (log <it>n</it>)^O(<it>c</it>)) time; this is called a <link xlink:type="simple" xlink:href="../431/666431.xml">
+In general, for any <it>c</it> &amp;gt; 0, there is a polynomial-time algorithm that finds a tour of length at most (1 + 1/<it>c</it>) times the optimal for geometric instances of TSP in O(<it>n</it> (log <it>n</it>)^O(<it>c</it>)) time; this is called a <link xlink:type="simple" xlink:href="../431/666431.xml">
 polynomial-time approximation scheme</link><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2214%22])">14</ref> In practice, heuristics with weaker guarantees continue to be used.</p>
 
 </ss2>
@@ -810,7 +810,7 @@ References</st>
 
 <reflist>
 <entry id="1">
- <cite id="CITEREFBehzadModarres2002" style="font-style:normal">Behzad, Arash&#32;&amp;&#32;Modarres, Mohammad&#32;(2002),&#32;"New Efficient Transformation of the Generalized Traveling Salesman Problem into Traveling Salesman Problem",&#32;<it>Proceedings of the 15th International Conference of Systems Engineering (Las Vegas)</it></cite>&nbsp;</entry>
+ <cite id="CITEREFBehzadModarres2002" style="font-style:normal">Behzad, Arash&#32;&amp;&#32;Modarres, Mohammad&#32;(2002),&#32;"New Efficient Transformation of the Generalized Traveling Salesman Problem into Traveling Salesman Problem",&#32;<it>Proceedings of the 15th International Conference of Systems Engineering (Las Vegas)</it></cite> </entry>
 <entry id="2">
 <link>
 N.L. Biggs</link>, <link>
@@ -831,9 +831,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137%2F0110015">
-10.1137/0110015</weblink></cite>&nbsp;</entry>
+10.1137/0110015</weblink></cite> </entry>
 <entry id="5">
- <cite id="CITEREFApplegateBixbyChv.C3.A1talCook2006" style="font-style:normal">Applegate, D. L.; Bixby, R. M.; Chvátal, V.&#32;&amp;&#32;Cook&#32;(2006),&#32;<it>The Traveling Salesman Problem</it></cite>&nbsp;.</entry>
+ <cite id="CITEREFApplegateBixbyChv.C3.A1talCook2006" style="font-style:normal">Applegate, D. L.; Bixby, R. M.; Chvátal, V.&#32;&amp;&#32;Cook&#32;(2006),&#32;<it>The Traveling Salesman Problem</it></cite> .</entry>
 <entry id="6">
 Work by David Applegate, AT&amp;T Labs - Research, Robert Bixby, <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -843,11 +843,11 @@ ILOG</link></institution>
  and Rice University, Vašek Chvátal, Concordia University, William Cook, Georgia Tech, and Keld Helsgaun, Roskilde University is discussed on their project web page hosted by Georgia Tech and last updated in June 2004, <weblink xlink:type="simple" xlink:href="http://www.tsp.gatech.edu/sweden/">
 here</weblink></entry>
 <entry id="7">
- <cite id="CITEREFApplegateBixbyChv.C3.A1talCook2006" style="font-style:normal">Applegate, D. L.; Bixby, R. M.; Chvátal, V.&#32;&amp;&#32;Cook&#32;(2006),&#32;<it>The Traveling Salesman Problem</it></cite>&nbsp;</entry>
+ <cite id="CITEREFApplegateBixbyChv.C3.A1talCook2006" style="font-style:normal">Applegate, D. L.; Bixby, R. M.; Chvátal, V.&#32;&amp;&#32;Cook&#32;(2006),&#32;<it>The Traveling Salesman Problem</it></cite> </entry>
 <entry id="8">
 A. B. Kahng and S. Reda, "Match Twice and Stitch: A New TSP Tour Construction Heuristic," Operations Research Letters, 2004, 32(6). pp. 499-509. http://www.sciencedirect.com/science?_ob=GatewayURL&amp;_method=citationSearch&amp;_uoikey=B6V8M-4CKFN5S-4&amp;_origin=SDEMFRASCII&amp;_version=1&amp;md5=04d492ab46c07b9911e230ebecd0f70d</entry>
 <entry id="9">
-Marco Dorigo. Ant Colonies for the Traveling Salesman Problem. IRIDIA, Université Libre de Bruxelles. IEEE Transactions on Evolutionary Computation, 1(1):53&ndash;66. 1997. http://citeseer.ist.psu.edu/86357.html</entry>
+Marco Dorigo. Ant Colonies for the Traveling Salesman Problem. IRIDIA, Université Libre de Bruxelles. IEEE Transactions on Evolutionary Computation, 1(1):53–66. 1997. http://citeseer.ist.psu.edu/86357.html</entry>
 <entry id="10">
 N. Christofides, <it>Worst-case analysis of a new heuristic for the traveling salesman problem</it>, Report 388, <link xlink:type="simple" xlink:href="../587/286587.xml">
 Graduate School of Industrial Administration</link>, Carnegie Mellon University, 1976.</entry>
@@ -882,7 +882,7 @@ M. Karpinski</link></mathematician>
 </physical_entity>
 , <it>Approximation hardness of TSP with bounded metrics</it>, Proceedings of 28th ICALP (2001), LNCS 2076, Springer 2001, pp. 201-212.</entry>
 <entry id="14">
-Sanjeev Arora. Polynomial Time Approximation Schemes for Euclidean Traveling Salesman and other Geometric Problems. <it>Journal of the ACM</it>, Vol.45, Issue 5, pp.753&ndash;782. ISSN:0004-5411. September 1998. http://citeseer.ist.psu.edu/arora96polynomial.html</entry>
+Sanjeev Arora. Polynomial Time Approximation Schemes for Euclidean Traveling Salesman and other Geometric Problems. <it>Journal of the ACM</it>, Vol.45, Issue 5, pp.753–782. ISSN:0004-5411. September 1998. http://citeseer.ist.psu.edu/arora96polynomial.html</entry>
 <entry id="15">
 <weblink xlink:type="simple" xlink:href="http://www.research.att.com/~dsj/papers/HKsoda.pdf">
 David S. Johnson</weblink></entry>
@@ -901,7 +901,7 @@ Christine L. Valenzuela and Antonia J. Jones</weblink></entry>
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">D.L. Applegate, R.E. Bixby, V. Chvátal and W.J. Cook&#32;(2006). The Traveling Salesman Problem: A Computational Study.&#32;Princeton University Press. ISBN 978-0-691-12993-8.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">D.L. Applegate, R.E. Bixby, V. Chvátal and W.J. Cook&#32;(2006). The Traveling Salesman Problem: A Computational Study.&#32;Princeton University Press. ISBN 978-0-691-12993-8.</cite> </entry>
 <entry level="1" type="bullet">
 
  S. Arora (1998). "<weblink xlink:type="simple" xlink:href="http://graphics.stanford.edu/courses/cs468-06-winter/Papers/arora-tsp.pdf">
@@ -960,7 +960,7 @@ David S. Johnson</link></associate>
 </person>
 </peer>
 </physical_entity>
-&#32;(1979). Computers and Intractability: A Guide to the Theory of NP-Completeness.&#32;W.H. Freeman. ISBN 0-7167-1045-5.</cite>&nbsp; A2.3: ND22&ndash;24, pp.211&ndash;212.</entry>
+&#32;(1979). Computers and Intractability: A Guide to the Theory of NP-Completeness.&#32;W.H. Freeman. ISBN 0-7167-1045-5.</cite>  A2.3: ND22–24, pp.211–212.</entry>
 <entry level="1" type="bullet">
 
  D.E. Goldberg (1989).  Genetic Algorithms in Search, Optimization &amp; Machine Learning. Addison-Wesley, New York, 1989.</entry>
@@ -969,14 +969,14 @@ David S. Johnson</link></associate>
  G. Gutin, A. Yeo and A. Zverovich, Traveling salesman should not be greedy: domination analysis of greedy-type heuristics for the TSP. Discrete Applied Mathematics 117 (2002), 81-86.</entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">G. Gutin and A.P. Punnen&#32;(2006). The Traveling Salesman Problem and Its Variations.&#32;Springer. ISBN 0-387-44459-9.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">G. Gutin and A.P. Punnen&#32;(2006). The Traveling Salesman Problem and Its Variations.&#32;Springer. ISBN 0-387-44459-9.</cite> </entry>
 <entry level="1" type="bullet">
 
  D.S. Johnson &amp; L.A. McGeoch (1997). <it>The Traveling Salesman Problem: A Case Study in Local Optimization</it>, Local Search in Combinatorial Optimisation, E. H. L. Aarts and J.K. Lenstra (ed), John Wiley and Sons Ltd, 1997, pp. 215-310.</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book">E. L. Lawler and Jan Karel Lenstra and <link xlink:type="simple" xlink:href="../045/12672045.xml">
-A. H. G. Rinnooy Kan</link> and D. B. Shmoys&#32;(1985). The Traveling Salesman Problem: A Guided Tour of Combinatorial Optimization.&#32;John Wiley &amp; Sons. ISBN 0-471-90413-9.</cite>&nbsp;</entry>
+A. H. G. Rinnooy Kan</link> and D. B. Shmoys&#32;(1985). The Traveling Salesman Problem: A Guided Tour of Combinatorial Optimization.&#32;John Wiley &amp; Sons. ISBN 0-471-90413-9.</cite> </entry>
 <entry level="1" type="bullet">
 
  J.N. MacGregor &amp; T. Ormerod (1996). Human performance on the traveling salesman problem. Perception &amp; Psychophysics, 58(4), pp. 527–539.</entry>
@@ -997,7 +997,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137%2F0206041">
-10.1137/0206041</weblink>.</cite>&nbsp;</entry>
+10.1137/0206041</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  D. Vickers, M. Butavicius, M. Lee, &amp; A. Medvedev (2001). Human performance on visually presented traveling salesman problems. Psychological Research, 65, pp. 34–45.</entry>

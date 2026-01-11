@@ -52,7 +52,7 @@ Turing machine</link></method>
 </know-how>
 </invention>
  can be used to implement any effective <link xlink:type="simple" xlink:href="../775/775.xml">
-algorithm</link> &mdash; in this sense, it is irrelevant what language is used to implement a particular algorithm, as that exact algorithm can also be implemented in every other language. However, when <it>designing</it> an algorithm to solve a particular problem, programmers are sometimes heavily influenced by the language constructs available. Though a large part of this is undoubtedly the way of least resistance (implement whatever is easiest to implement), there is also an element of "appropriateness" or "naturalness" that seems to compel the programmer to a design that "befits" the language.</p>
+algorithm</link> — in this sense, it is irrelevant what language is used to implement a particular algorithm, as that exact algorithm can also be implemented in every other language. However, when <it>designing</it> an algorithm to solve a particular problem, programmers are sometimes heavily influenced by the language constructs available. Though a large part of this is undoubtedly the way of least resistance (implement whatever is easiest to implement), there is also an element of "appropriateness" or "naturalness" that seems to compel the programmer to a design that "befits" the language.</p>
 <p>
 
 This is a similar situation to <link xlink:type="simple" xlink:href="../177/350177.xml">

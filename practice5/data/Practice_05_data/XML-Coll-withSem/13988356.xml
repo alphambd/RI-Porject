@@ -29,7 +29,7 @@
 A <b>median search</b> is an algorithm that finds the median value of list. It belongs to the <link xlink:type="simple" xlink:href="../154/201154.xml">
 "divide and conquer" algorithm</link> category and more precisely it is a <link xlink:type="simple" xlink:href="../786/552786.xml">
 selection algorithm</link>. A <link xlink:type="simple" xlink:href="../786/552786.xml">
-selection algorithm</link> finds the <it>k</it>th element of a list with <it>N</it> elements. To calculate the median, we set <it>k</it>&nbsp;=&nbsp;(<it>N</it>&nbsp;+&nbsp;1)/2 at the selection algorithm.
+selection algorithm</link> finds the <it>k</it>th element of a list with <it>N</it> elements. To calculate the median, we set <it>k</it> = (<it>N</it> + 1)/2 at the selection algorithm.
 <sec>
 <st>
  Algorithm </st>

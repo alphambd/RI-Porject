@@ -460,7 +460,7 @@ Another potential weakness is that only a yes/no answer for each picture is requ
 botnet</link> attacks, the user would need to be forced to solve an annoyingly large number of images.</p>
 <p>
 
-Microsoft Asirra has mitigated all these weaknesses. The image database is not downloadable as it includes images of already adopted pets, which is 10 times the size of pets for adoption. Bot guessing is solved by creating both IP address and session based buckets&nbsp;— once an IP address has misclassified a challenge, a human needs to solve just two Asirras in a row from the same browser session reducing brute force probability to less than 1 in 5 million.</p>
+Microsoft Asirra has mitigated all these weaknesses. The image database is not downloadable as it includes images of already adopted pets, which is 10 times the size of pets for adoption. Bot guessing is solved by creating both IP address and session based buckets — once an IP address has misclassified a challenge, a human needs to solve just two Asirras in a row from the same browser session reducing brute force probability to less than 1 in 5 million.</p>
 
 </sec>
 <sec>
@@ -543,7 +543,7 @@ Computer Literacy Tests: Are You Human?</weblink>", <magazine wordnetid="1065953
 <link xlink:type="simple" xlink:href="../600/31600.xml">
 Time (magazine)</link></magazine>
 .&#32;Retrieved on <link>
-2008-06-12</link>.&nbsp;"The Carnegie Mellon team came back with the CAPTCHA. (It stands for "completely automated public Turing test to tell computers and humans apart"; no, the acronym doesn't really fit.) The point of the CAPTCHA is that reading those swirly letters is something that computers aren't very good at."&nbsp;</entry>
+2008-06-12</link>. "The Carnegie Mellon team came back with the CAPTCHA. (It stands for "completely automated public Turing test to tell computers and humans apart"; no, the acronym doesn't really fit.) The point of the CAPTCHA is that reading those swirly letters is something that computers aren't very good at." </entry>
 <entry id="3">
 <weblink xlink:type="simple" xlink:href="http://tarr.uspto.gov/servlet/tarr?regser=serial&amp;entry=78500434">
 Latest Status of CAPTCHA Trademark Application</weblink></entry>
@@ -556,7 +556,7 @@ Verification of a human in the loop or Identification via the Turing Test</webli
 2008-07-06</link>.</entry>
 <entry id="6">
  <cite style="font-style:normal">Amrinder Arora&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://paper.ijcsns.org/07_book/200703/20070348.pdf">
-Statistics Hacking&nbsp;— Exploiting Vulnerabilities in News Websites</weblink>"&#32;(PDF). <it>International Journal of Computer Science and Network Security</it>&#32;<b>7</b>: 342–347.</cite>&nbsp;</entry>
+Statistics Hacking — Exploiting Vulnerabilities in News Websites</weblink>"&#32;(PDF). <it>International Journal of Computer Science and Network Security</it>&#32;<b>7</b>: 342–347.</cite> </entry>
 <entry id="7">
 <weblink xlink:type="simple" xlink:href="http://www.protectwebform.com/smartcaptcha">
 Smart Captcha - Protect Web Form .COM</weblink></entry>
@@ -612,7 +612,7 @@ Gmail CAPTCHA Cracked</weblink>", <it><web_site wordnetid="106359193" confidence
 Slashdot</link></web_site>
 </it>, <link xlink:type="simple" xlink:href="../227/52227.xml">
 SourceForge</link>.&#32;Retrieved on <link>
-2008-04-16</link>.&nbsp;</entry>
+2008-04-16</link>. </entry>
 <entry id="16">
 Dawson&#32;(<link>
 2008-04-15</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://tech.slashdot.org/article.pl?sid=08/04/15/1941236&amp;from=rss">
@@ -621,7 +621,7 @@ Windows Live Hotmail CAPTCHA Cracked, Exploited</weblink>", <it><web_site wordne
 Slashdot</link></web_site>
 </it>, <link xlink:type="simple" xlink:href="../227/52227.xml">
 SourceForge</link>.&#32;Retrieved on <link>
-2008-04-16</link>.&nbsp;</entry>
+2008-04-16</link>. </entry>
 <entry id="19">
 <weblink xlink:type="simple" xlink:href="http://www.websense.com/securitylabs/blog/blog.php?BlogID=174">
 Websense® - Blog: Google’s CAPTCHA busted in recent spammer tactics</weblink></entry>

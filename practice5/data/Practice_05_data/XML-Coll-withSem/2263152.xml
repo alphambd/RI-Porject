@@ -166,7 +166,7 @@ pipeline</link></grammatical_relation>
  that is given an identity). The Microsoft OLE DB Provider for SQL Server (SQLOLEDB) communicates via primary Net-Libs.</p>
 <p>
 
-The Super Socket Net-Lib deals with inter-computer communications and coordinates the secondary Net-Libs &mdash; though the TCP/IP secondary Net-Lib is an exception in that it calls on the <link xlink:type="simple" xlink:href="../226/211226.xml">
+The Super Socket Net-Lib deals with inter-computer communications and coordinates the secondary Net-Libs — though the TCP/IP secondary Net-Lib is an exception in that it calls on the <link xlink:type="simple" xlink:href="../226/211226.xml">
 Windows Socket 2</link> API directly. The <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
@@ -372,7 +372,7 @@ record</link> in the database, and contains a fields collection. A RecordSet con
 column</link> in the database table that it references.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2222%22])">22</ref></entry>
 <entry level="1" type="number">
 
- <b>Property:</b> This object is specific to the OLE DB provider and defines an ability that the provider has implemented. A property object can be either a <it>built-in</it> property &mdash; it is a well defined property implemented by ADO already and thus cannot be altered &mdash; or can be a <it>dynamic</it> property &mdash; defined by the underlying data provider and can be changed<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2223%22])">23</ref></entry>
+ <b>Property:</b> This object is specific to the OLE DB provider and defines an ability that the provider has implemented. A property object can be either a <it>built-in</it> property — it is a well defined property implemented by ADO already and thus cannot be altered — or can be a <it>dynamic</it> property — defined by the underlying data provider and can be changed<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2223%22])">23</ref></entry>
 <entry level="1" type="number">
 
  <b>Error:</b> When an OLE DB provider <link xlink:type="simple" xlink:href="../118/41118.xml">
@@ -646,7 +646,7 @@ MDAC 1.0</entry>
 </list>
 
 MDAC 1.0 was first released in August 1996.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2234%22])">34</ref> According to Microsoft, "MDAC 1.0 existed more as concept than a coordinated, stand-alone setup program." The MDAC 1.0 stack consisted of ODBC 3.0, OLE DB 1.1, ADO 1.0, and the <link xlink:type="simple" xlink:href="../065/2671065.xml">
-Advanced Data Connector</link> (ADC) 1.0 &mdash; which according to Microsoft was the precursor to the Remote Data Service of MDAC 1.5. It also included ODBC drivers for Access/Jet, SQL Server and <link xlink:type="simple" xlink:href="../725/323725.xml">
+Advanced Data Connector</link> (ADC) 1.0 — which according to Microsoft was the precursor to the Remote Data Service of MDAC 1.5. It also included ODBC drivers for Access/Jet, SQL Server and <link xlink:type="simple" xlink:href="../725/323725.xml">
 Oracle</link> databases. MDAC 1.0 was released via several mechanisms: the Advanced Data Connector shipped with <link xlink:type="simple" xlink:href="../050/209050.xml">
 Internet Information Server</link> (IIS) 3.0 and as a downloadable <link xlink:type="simple" xlink:href="../678/322678.xml">
 cab file</link>; OLE DB 1.1 and ADO 1.0 shipped with the OLE DB 1.1 SDK, which came with <link xlink:type="simple" xlink:href="../768/13980768.xml">
@@ -1054,11 +1054,11 @@ MDAC 2.8 was released in August 2003 and distributed with Microsoft <version wor
 <link xlink:type="simple" xlink:href="../068/208068.xml">
 Windows Server 2003</link></version>
 , as well as on Microsoft's <weblink xlink:type="simple" xlink:href="http://msdn.microsoft.com/data/">
-Data Access Technologies</weblink> website. It did not introduce any new features to the product but fixed a number of bugs and security issues &mdash; a reg file (automates changes to the registry) was removed that made the server run in an "unsafe" mode whereby the RDS could be exploited to gain unauthorized access to the system<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2257%22])">57</ref> and a new restriction was imposed on the length of the Shape query string.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2258%22])">58</ref> There were also several ODBC Administrator changes.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2259%22])">59</ref></p>
+Data Access Technologies</weblink> website. It did not introduce any new features to the product but fixed a number of bugs and security issues — a reg file (automates changes to the registry) was removed that made the server run in an "unsafe" mode whereby the RDS could be exploited to gain unauthorized access to the system<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2257%22])">57</ref> and a new restriction was imposed on the length of the Shape query string.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2258%22])">58</ref> There were also several ODBC Administrator changes.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2259%22])">59</ref></p>
 <p>
 
 On May 23, 2005 Brad Rhodes (Lead Program Manager of Microsoft Data Access Technologies) announced that MDAC 2.8 SP1 was the last stand-alone redistributable of MDAC that Microsoft will ship. MDAC is now an official component of the Microsoft's operating system, though they will be providing ongoing bug and security fixes to previously released versions of the web-distributable version.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2260%22])">60</ref> However, Microsoft have created a new component called the <link>
-SQL Native Client</link> (SQLNCLI), which is a stand alone data access API that has combined the OLE DB and ODBC libraries into one DLL. It was formed to be independent of MDAC, which is now reliant on the state the operating system is in &mdash; a developer now links to this library and avoids situations where an update of the operating system which updates MDAC breaks applications built to a different version of MDAC.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2261%22])">61</ref></p>
+SQL Native Client</link> (SQLNCLI), which is a stand alone data access API that has combined the OLE DB and ODBC libraries into one DLL. It was formed to be independent of MDAC, which is now reliant on the state the operating system is in — a developer now links to this library and avoids situations where an update of the operating system which updates MDAC breaks applications built to a different version of MDAC.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2261%22])">61</ref></p>
 <p>
 
 <list>
@@ -1105,7 +1105,7 @@ No coordinated release:
 <list>
 <entry level="1" type="bullet">
 
- ADC &ndash; IIS 3.0</entry>
+ ADC – IIS 3.0</entry>
 <entry level="1" type="bullet">
 
  OLE DB 1.1 SDK (OLE DB 1.1 and ADO 1.0) - Visual Studio</entry>
@@ -1140,7 +1140,7 @@ No bulletins released</col>
 <col width="10%">
 1.5</col>
 <col width="10%">
-September 1997 &ndash; March 1998</col>
+September 1997 – March 1998</col>
 <col>
 <list>
 <entry level="1" type="bullet">
@@ -1827,9 +1827,9 @@ Never released: Microsoft now includes MDAC with operating system updates.</col>
 </list>
 </col>
 <col WIDTH="151">
-&nbsp;</col>
+ </col>
 <col width="10%">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col width="10%">
@@ -2001,7 +2001,7 @@ Microsoft Security Program: Frequently Asked Questions: Microsoft Security Bulle
 "ADO und MDAC Versionen"</weblink> : MDAC 2.1, accessed July 1, 2005.</entry>
 <entry id="41">
  <it>Microsoft</it>, "Data Access Components: Security Hotfix for Q329414"; <weblink xlink:type="simple" xlink:href="http://www.microsoft.com/technet/security/bulletin/MS02-065.mspx">
-Microsoft Security Bulletin MS02-06</weblink> &mdash; originally Microsoft KB article Q329414) &mdash; (originally posted November 20, 2002), accessed July 6, 2005.</entry>
+Microsoft Security Bulletin MS02-06</weblink> — originally Microsoft KB article Q329414) — (originally posted November 20, 2002), accessed July 6, 2005.</entry>
 <entry id="46">
 <it>Microsoft</it>, MS KB article 820754 <weblink xlink:type="simple" xlink:href="http://support.microsoft.com/kb/820754">
 MDAC 2.6 or later should not be installed on SQL Server 7.0 clusters</weblink>, accessed July 6, 2005.</entry>
@@ -2202,10 +2202,10 @@ Graphics</col>
 <component wordnetid="105868954" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../347/2933347.xml">
 Desktop Window Manager</link></component>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../506/8506.xml">
 DirectX</link></software>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -2216,7 +2216,7 @@ Direct3D</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -2227,10 +2227,10 @@ GDI</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../979/1707979.xml">
-Windows Presentation Foundation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../017/9859017.xml">
-Windows Color System</link>&nbsp;·  <link xlink:type="simple" xlink:href="../237/4092237.xml">
-Windows Image Acquisition</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../979/1707979.xml">
+Windows Presentation Foundation</link> ·  <link xlink:type="simple" xlink:href="../017/9859017.xml">
+Windows Color System</link> ·  <link xlink:type="simple" xlink:href="../237/4092237.xml">
+Windows Image Acquisition</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -2263,7 +2263,7 @@ DirectSound</link></room>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -2274,7 +2274,7 @@ DirectMusic</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <architecture wordnetid="102734725" confidence="0.8">
@@ -2283,7 +2283,7 @@ DirectX plugin</link></architecture>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -2300,7 +2300,7 @@ XACT</link></room>
 </instrumentality>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../587/3965587.xml">
+ ·  <link xlink:type="simple" xlink:href="../587/3965587.xml">
 Speech API</link></col>
 </row>
 <row style="height:2px">
@@ -2319,8 +2319,8 @@ DirectShow</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <link xlink:type="simple" xlink:href="../787/4453787.xml">
-DirectX Media Objects</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../787/4453787.xml">
+DirectX Media Objects</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -2331,8 +2331,8 @@ DirectX Video Acceleration</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../206/441206.xml">
-Windows Media</link>&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../206/441206.xml">
+Windows Media</link> ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -2341,7 +2341,7 @@ Media Foundation</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -2372,7 +2372,7 @@ MSHTML</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106359877" confidence="0.8">
@@ -2387,7 +2387,7 @@ MSXML</link></parser>
 </written_communication>
 </program>
 </software>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -2396,10 +2396,10 @@ RSS Platform</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../872/263872.xml">
 JScript</link></programming_language>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
 <supporting_structure wordnetid="104361095" confidence="0.8">
@@ -2412,14 +2412,14 @@ VBScript</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../726/910726.xml">
 BHO</link></format>
 </information>
 </message>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -2430,7 +2430,7 @@ XMLHttpRequest</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -2455,7 +2455,7 @@ Data access</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../152/2263152.xml">
 Microsoft Data Access Components</link></software>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -2468,9 +2468,9 @@ Extensible Storage Engine</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
-ADO.NET</link>&nbsp;·  <link xlink:type="simple" xlink:href="../060/10988060.xml">
-ADO.NET Entity Framework</link>&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
+ADO.NET</link> ·  <link xlink:type="simple" xlink:href="../060/10988060.xml">
+ADO.NET Entity Framework</link> ·  <occupation wordnetid="100582388" confidence="0.8">
 <application wordnetid="100949134" confidence="0.8">
 <technology wordnetid="100949619" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -2489,7 +2489,7 @@ Sync Framework</link></activity>
 </technology>
 </application>
 </occupation>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -2513,10 +2513,10 @@ Networking</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../226/211226.xml">
 Winsock</link> (<link xlink:type="simple" xlink:href="../421/2924421.xml">
-LSP</link>)&nbsp;·  <link>
-Winsock Kernel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../124/5095124.xml">
-Filtering Platform</link>&nbsp;·  <link xlink:type="simple" xlink:href="../684/650684.xml">
-Network Driver Interface Specification</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+LSP</link>) ·  <link>
+Winsock Kernel</link> ·  <link xlink:type="simple" xlink:href="../124/5095124.xml">
+Filtering Platform</link> ·  <link xlink:type="simple" xlink:href="../684/650684.xml">
+Network Driver Interface Specification</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -2533,7 +2533,7 @@ Windows Rally</link></part>
 </idea>
 </protocol>
 </message>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -2554,7 +2554,7 @@ BITS</link></activity>
 </protocol>
 </message>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../907/10541907.xml#xpointer(//*[./st=%22Peer-to-peer+communication%22])">
+ ·  <link xlink:type="simple" xlink:href="../907/10541907.xml#xpointer(//*[./st=%22Peer-to-peer+communication%22])">
 P2P API</link></col>
 </row>
 <row style="height:2px">
@@ -2573,7 +2573,7 @@ Messaging API</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../631/45631.xml">
+ ·  <link xlink:type="simple" xlink:href="../631/45631.xml">
 Telephony API</link></col>
 </row>
 <row style="height:2px">
@@ -2584,7 +2584,7 @@ Telephony API</link></col>
 Administration andmanagement</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../593/756593.xml">
-Win32 console</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+Win32 console</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -2593,7 +2593,7 @@ Windows Script Host</link></part>
 </component>
 </concept>
 </idea>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -2608,12 +2608,12 @@ Windows Management Instrumentation</link></part>
 </concept>
 </idea>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../871/14465871.xml">
 Windows PowerShell</link></programming_language>
 </software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -2626,8 +2626,8 @@ Task Scheduler</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <link>
-Offline Files</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link>
+Offline Files</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -2640,10 +2640,10 @@ Shadow Copy</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/1158591.xml">
 Windows Installer</link></software>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <window wordnetid="104587648" confidence="0.8">
@@ -2666,8 +2666,8 @@ Windows Error Reporting</link></activity>
 </artifact>
 </structure>
 </work>
-&nbsp;·  <link>
-Windows Event Log</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link>
+Windows Event Log</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <component wordnetid="105868954" confidence="0.8">
 <part wordnetid="105867413" confidence="0.8">
@@ -2715,7 +2715,7 @@ COM</link></part>
 </model>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
@@ -2736,8 +2736,8 @@ COM+</link></part>
 </model>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../497/93497.xml">
-ActiveX</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../497/93497.xml">
+ActiveX</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
@@ -2758,7 +2758,7 @@ Distributed Component Object Model</link></part>
 </model>
 </person>
 </physical_entity>
-&nbsp;·  <platform wordnetid="103961939" confidence="0.8">
+ ·  <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -2810,7 +2810,7 @@ Microsoft Foundation Class (MFC)</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -2821,7 +2821,7 @@ Active Template Library (ATL)</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <undertaking wordnetid="100795720" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -2845,11 +2845,11 @@ Driver development</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../077/252077.xml">
 Windows Driver Model</link> (<link xlink:type="simple" xlink:href="../087/3542087.xml">
-Broadcast Driver Architecture</link>)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+Broadcast Driver Architecture</link>) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../667/3669667.xml">
 Windows Driver Foundation</link></software>
  (<link xlink:type="simple" xlink:href="../476/3669476.xml">
-KMDF</link>&nbsp;·  <link xlink:type="simple" xlink:href="../572/4211572.xml">
+KMDF</link> ·  <link xlink:type="simple" xlink:href="../572/4211572.xml">
 UMDF</link>)</col>
 </row>
 <row style="height:2px">
@@ -2861,7 +2861,7 @@ Security</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../413/3302413.xml">
 Crypto API</link> (<link xlink:type="simple" xlink:href="../793/12561793.xml">
-CAPICOM</link>)&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+CAPICOM</link>) ·  <work wordnetid="100575741" confidence="0.8">
 <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -2880,8 +2880,8 @@ Windows CardSpace</link></activity>
 </artifact>
 </system>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../847/4949847.xml">
-Data protection API</link>&nbsp;·  <link xlink:type="simple" xlink:href="../186/14686186.xml">
+ ·  <link xlink:type="simple" xlink:href="../847/4949847.xml">
+Data protection API</link> ·  <link xlink:type="simple" xlink:href="../186/14686186.xml">
 Security Support Provider Interface</link></col>
 </row>
 <row style="height:2px">
@@ -2906,7 +2906,7 @@ Security Support Provider Interface</link></col>
 </surface>
 </artifact>
 </platform>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -2927,11 +2927,11 @@ ASP.NET</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
-ADO.NET</link>&nbsp;·  <link xlink:type="simple" xlink:href="../471/4890471.xml">
-Remoting</link>&nbsp;·  <link xlink:type="simple" xlink:href="../979/1707979.xml">
-Windows Presentation Foundation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../163/3846163.xml">
-Windows Workflow Foundation</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../840/1434840.xml">
+ADO.NET</link> ·  <link xlink:type="simple" xlink:href="../471/4890471.xml">
+Remoting</link> ·  <link xlink:type="simple" xlink:href="../979/1707979.xml">
+Windows Presentation Foundation</link> ·  <link xlink:type="simple" xlink:href="../163/3846163.xml">
+Windows Workflow Foundation</link> ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -2944,7 +2944,7 @@ Windows Communication Foundation</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -2963,13 +2963,13 @@ Windows CardSpace</link></activity>
 </artifact>
 </system>
 </work>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../616/550616.xml">
 XNA</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/9731719.xml">
 Silverlight</link></software>
-&nbsp;·  <link>
+ ·  <link>
 Task Parallel Library</link></col>
 </row>
 <row style="height:2px">
@@ -2991,7 +2991,7 @@ EFx Factory</link></building_complex>
 </artifact>
 </structure>
 </plant>
-&nbsp;·  <plant wordnetid="103956922" confidence="0.8">
+ ·  <plant wordnetid="103956922" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <factory wordnetid="103316406" confidence="0.8">
@@ -3002,7 +3002,7 @@ Enterprise Library</link></building_complex>
 </artifact>
 </structure>
 </plant>
-&nbsp;·  <plant wordnetid="103956922" confidence="0.8">
+ ·  <plant wordnetid="103956922" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <factory wordnetid="103316406" confidence="0.8">
@@ -3013,10 +3013,10 @@ Composite UI</link></building_complex>
 </artifact>
 </structure>
 </plant>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../029/5972029.xml">
 CCF</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../108/6896108.xml">
+ ·  <link xlink:type="simple" xlink:href="../108/6896108.xml">
 CSF</link></col>
 </row>
 <row style="height:2px">
@@ -3036,10 +3036,10 @@ MSRPC</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../167/714167.xml#xpointer(//*[./st=%22Named+pipes+in+Windows%22])">
-Named pipes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../248/8246248.xml">
-Memory-mapped file</link>&nbsp;·  <link xlink:type="simple" xlink:href="../404/1862404.xml">
-DDE</link>&nbsp;·  <link xlink:type="simple" xlink:href="../574/2667574.xml">
+ ·  <link xlink:type="simple" xlink:href="../167/714167.xml#xpointer(//*[./st=%22Named+pipes+in+Windows%22])">
+Named pipes</link> ·  <link xlink:type="simple" xlink:href="../248/8246248.xml">
+Memory-mapped file</link> ·  <link xlink:type="simple" xlink:href="../404/1862404.xml">
+DDE</link> ·  <link xlink:type="simple" xlink:href="../574/2667574.xml">
 MailSlot</link></col>
 </row>
 <row style="height:2px">
@@ -3050,7 +3050,7 @@ MailSlot</link></col>
 Accessibility</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../210/1983210.xml">
-Active Accessibility</link>&nbsp;·  <link xlink:type="simple" xlink:href="../582/9346582.xml">
+Active Accessibility</link> ·  <link xlink:type="simple" xlink:href="../582/9346582.xml">
 UI Automation</link></col>
 </row>
 <row style="height:2px">
@@ -3079,11 +3079,11 @@ Text Services Framework</link></framework>
 </concept>
 </idea>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../794/15075794.xml">
-Text Object Model</link>&nbsp;· <link xlink:type="simple" xlink:href="../513/419513.xml">
-Input method editor</link>&nbsp;·  <link xlink:type="simple" xlink:href="../934/2125934.xml">
-Language Interface Pack</link>&nbsp;·  <link xlink:type="simple" xlink:href="../111/857111.xml">
-Multilingual User Interface</link>&nbsp;·  <link xlink:type="simple" xlink:href="../298/1041298.xml">
+ ·  <link xlink:type="simple" xlink:href="../794/15075794.xml">
+Text Object Model</link> · <link xlink:type="simple" xlink:href="../513/419513.xml">
+Input method editor</link> ·  <link xlink:type="simple" xlink:href="../934/2125934.xml">
+Language Interface Pack</link> ·  <link xlink:type="simple" xlink:href="../111/857111.xml">
+Multilingual User Interface</link> ·  <link xlink:type="simple" xlink:href="../298/1041298.xml">
 Uniscribe</link></col>
 </row>
 <row style="height:2px">
@@ -3104,8 +3104,8 @@ Direct3D</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../491/899491.xml">
-D3DX</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../491/899491.xml">
+D3DX</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
@@ -3120,9 +3120,9 @@ DirectSound</link></room>
 </artifact>
 </building>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../211/700211.xml">
-DirectInput</link>&nbsp;·  <link xlink:type="simple" xlink:href="../109/483109.xml">
-DirectPlay</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../211/700211.xml">
+DirectInput</link> ·  <link xlink:type="simple" xlink:href="../109/483109.xml">
+DirectPlay</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -3133,7 +3133,7 @@ DirectMusic</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -3142,7 +3142,7 @@ Managed DirectX</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../616/550616.xml">
 Microsoft XNA</link></software>
 </col>

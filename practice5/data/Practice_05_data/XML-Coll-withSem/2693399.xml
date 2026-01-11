@@ -93,7 +93,7 @@ Harlee McBride</link></entertainer>
 <name>
 Richard Belzer</name>
 <birthdate>
-August 4, 1944 (1944-08-04) (age&nbsp;64)</birthdate>
+August 4, 1944 (1944-08-04) (age 64)</birthdate>
 <imagesize>
 200px</imagesize>
 <birthname>
@@ -907,7 +907,7 @@ Hosts:</col>
 Richard Belzer</link></writer>
 </actor>
 </comedian>
-&nbsp;•  <physical_entity wordnetid="100001930" confidence="0.8">
+ •  <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <reformer wordnetid="110515194" confidence="0.8">
@@ -922,10 +922,10 @@ David Bender</link></personality>
 </person>
 </disputant>
 </physical_entity>
-&nbsp;• <personality wordnetid="104617562" confidence="0.8">
+ • <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../785/3656785.xml">
 Angie Coiro</link></personality>
-&nbsp;• <rapper wordnetid="110507482" confidence="0.9173553029164789">
+ • <rapper wordnetid="110507482" confidence="0.9173553029164789">
 <manufacturer wordnetid="110292316" confidence="0.9173553029164789">
 <musician wordnetid="110340312" confidence="0.9173553029164789">
 <artist wordnetid="109812338" confidence="0.9508927676800064">
@@ -936,14 +936,14 @@ Chuck D</link></lector>
 </musician>
 </manufacturer>
 </rapper>
-&nbsp;• <songwriter wordnetid="110624540" confidence="0.9173553029164789">
+ • <songwriter wordnetid="110624540" confidence="0.9173553029164789">
 <singer wordnetid="110599806" confidence="0.9173553029164789">
 <artist wordnetid="109812338" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../910/194910.xml">
 Steve Earle</link></artist>
 </singer>
 </songwriter>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -956,17 +956,17 @@ Sue Ellicott</link></journalist>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;• <personality wordnetid="104617562" confidence="0.8">
+ • <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../941/6589941.xml">
 Jon Elliott</link></personality>
-&nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+ • <person wordnetid="100007846" confidence="0.9508927676800064">
 <presenter wordnetid="110466387" confidence="0.9173553029164789">
 <journalist wordnetid="110224578" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../297/1895297.xml">
 Laura Flanders</link></journalist>
 </presenter>
 </person>
-&nbsp;• <comedian wordnetid="109940146" confidence="0.9173553029164789">
+ • <comedian wordnetid="109940146" confidence="0.9173553029164789">
 <politician wordnetid="110451263" confidence="0.9173553029164789">
 <host wordnetid="110187130" confidence="0.9173553029164789">
 <campaigner wordnetid="109889691" confidence="0.9508927676800064">
@@ -983,15 +983,15 @@ Al Franken</link></observer>
 </host>
 </politician>
 </comedian>
-&nbsp;• <personality wordnetid="104617562" confidence="0.8">
+ • <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/3527786.xml">
 Gia'na Garel</link></personality>
-&nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+ • <person wordnetid="100007846" confidence="0.9508927676800064">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../139/163139.xml">
 Janeane Garofalo</link></actor>
 </person>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <politician wordnetid="110451263" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1014,7 +1014,7 @@ Mark Green</link></scholar>
 </politician>
 </disputant>
 </physical_entity>
-&nbsp;• <analyst wordnetid="109790482" confidence="0.8">
+ • <analyst wordnetid="109790482" confidence="0.8">
 <expert wordnetid="109617867" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <environmentalist wordnetid="110060621" confidence="0.8">
@@ -1043,26 +1043,26 @@ Thom Hartmann</link></journalist>
 </physical_entity>
 </expert>
 </analyst>
-&nbsp;• <columnist wordnetid="109939154" confidence="0.9173553029164789">
+ • <columnist wordnetid="109939154" confidence="0.9173553029164789">
 <writer wordnetid="110794014" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../555/295555.xml">
 Arianna Huffington</link></writer>
 </columnist>
-&nbsp;• <link xlink:type="simple" xlink:href="../811/3656811.xml">
-Kyle Jason</link>&nbsp;• <personality wordnetid="104617562" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../811/3656811.xml">
+Kyle Jason</link> • <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../025/568025.xml">
 Marty Kaplan</link></personality>
-&nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+ • <person wordnetid="100007846" confidence="0.9508927676800064">
 <lawyer wordnetid="110249950" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../298/522298.xml">
 Robert F. Kennedy, Jr.</link></lawyer>
 </person>
-&nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+ • <person wordnetid="100007846" confidence="0.9508927676800064">
 <governor wordnetid="110140314" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../674/395674.xml">
 Bob Kerrey</link></governor>
 </person>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
 <alumnus wordnetid="109786338" confidence="0.8">
@@ -1081,7 +1081,7 @@ Ron Kuby</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&nbsp; <physical_entity wordnetid="100001930" confidence="0.8">
+  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
 <alumnus wordnetid="109786338" confidence="0.8">
@@ -1096,29 +1096,29 @@ Katherine Lanpher</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&nbsp;• <link xlink:type="simple" xlink:href="../347/12328347.xml">
-Bob Linden</link>&nbsp;• <link xlink:type="simple" xlink:href="../118/2446118.xml">
-Lionel</link>&nbsp;• <celebrity wordnetid="109903153" confidence="0.9508927676800064">
+ • <link xlink:type="simple" xlink:href="../347/12328347.xml">
+Bob Linden</link> • <link xlink:type="simple" xlink:href="../118/2446118.xml">
+Lionel</link> • <celebrity wordnetid="109903153" confidence="0.9508927676800064">
 <host wordnetid="110187130" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../701/1317701.xml">
 Rachel Maddow</link></host>
 </celebrity>
-&nbsp;• <personality wordnetid="104617562" confidence="0.8">
+ • <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../239/4175239.xml">
 Ben Mankiewicz</link></personality>
-&nbsp;• <comedian wordnetid="109940146" confidence="0.9508927676800064">
+ • <comedian wordnetid="109940146" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../216/1584216.xml">
 Marc Maron</link></comedian>
-&nbsp;• <link xlink:type="simple" xlink:href="../789/891789.xml">
-Mike&nbsp;Malloy</link>&nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+ • <link xlink:type="simple" xlink:href="../789/891789.xml">
+Mike Malloy</link> • <person wordnetid="100007846" confidence="0.9508927676800064">
 <host wordnetid="110187130" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../598/986598.xml">
 Mike Papantonio</link></host>
 </person>
-&nbsp;• <personality wordnetid="104617562" confidence="0.8">
+ • <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../184/3775184.xml">
 Jill Pike</link></personality>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <disputant wordnetid="109615465" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <reformer wordnetid="110515194" confidence="0.8">
@@ -1137,11 +1137,11 @@ Randi Rhodes</link></scholar>
 </person>
 </disputant>
 </physical_entity>
-&nbsp;• <link xlink:type="simple" xlink:href="../859/3656859.xml">
-Betsy Rosenberg</link>&nbsp;• <personality wordnetid="104617562" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../859/3656859.xml">
+Betsy Rosenberg</link> • <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../233/1584233.xml">
 Mark Riley</link></personality>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <humorist wordnetid="110191943" confidence="0.8">
 <satirist wordnetid="110552742" confidence="0.8">
@@ -1168,19 +1168,19 @@ Sam Seder</link></scholar>
 </humorist>
 </person>
 </physical_entity>
-&nbsp;• <politician wordnetid="110451263" confidence="0.9173553029164789">
+ • <politician wordnetid="110451263" confidence="0.9173553029164789">
 <host wordnetid="110187130" confidence="0.9173553029164789">
 <officeholder wordnetid="110371450" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../089/19371089.xml">
 Jerry Springer</link></officeholder>
 </host>
 </politician>
-&nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+ • <person wordnetid="100007846" confidence="0.9508927676800064">
 <host wordnetid="110187130" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../921/3111921.xml">
 Cenk Uygur</link></host>
 </person>
-&nbsp;• <personality wordnetid="104617562" confidence="0.8">
+ • <personality wordnetid="104617562" confidence="0.8">
 <link xlink:type="simple" xlink:href="../929/2991929.xml">
 Peter Werbe</link></personality>
 </col>
@@ -1197,12 +1197,12 @@ Programs:</col>
 <link xlink:type="simple" xlink:href="../451/11344451.xml">
 The Air Americans</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../918/3659918.xml">
 Air America Mornings</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <beginning wordnetid="100235435" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <show wordnetid="100520257" confidence="0.8">
@@ -1239,87 +1239,87 @@ The Al Franken Show</link></language_unit>
 </change>
 </beginning>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link>
 Clout</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../844/4407844.xml">
 EcoTalk</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../347/12328347.xml">
 Go Vegan</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../173/4420173.xml">
 The Marc Maron Show</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../289/567289.xml">
 The Majority Report</link></plan>
 </idea>
-</it>&nbsp;• <link>
-Marc Sussman’s Money Message</link>&nbsp;• <it><show wordnetid="100520257" confidence="0.9508927676800064">
+</it> • <link>
+Marc Sussman’s Money Message</link> • <it><show wordnetid="100520257" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../394/2357394.xml">
 The Mike Malloy Show</link></show>
-</it>&nbsp;• <it><link>
-Morning Sedition</link></it>&nbsp;• <it><link xlink:type="simple" xlink:href="../810/3527810.xml">
-On The Real</link></it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><link>
+Morning Sedition</link></it> • <it><link xlink:type="simple" xlink:href="../810/3527810.xml">
+On The Real</link></it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../121/2115121.xml">
 The Rachel Maddow Show</link></plan>
 </idea>
-</it>&nbsp;• <it><link xlink:type="simple" xlink:href="../930/4607930.xml">
-Radio Nation</link></it>&nbsp;• <it><show wordnetid="100520257" confidence="0.9508927676800064">
+</it> • <it><link xlink:type="simple" xlink:href="../930/4607930.xml">
+Radio Nation</link></it> • <it><show wordnetid="100520257" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../640/564640.xml">
 The Randi Rhodes Show</link></show>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../265/1584265.xml">
 The Steve Earle Show</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../624/4073624.xml">
 The Mark Riley Show</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../855/1414855.xml">
 Ring of Fire</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../792/11345792.xml">
 7 Days in America</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../857/1675857.xml">
 Springer on the Radio</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../762/4371762.xml">
 State of Belief</link></plan>
 </idea>
-</it> &nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it>  • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../143/1068143.xml">
 The Young Turks</link></plan>
 </idea>
-</it>&nbsp;• <it><idea wordnetid="105833840" confidence="0.8">
+</it> • <it><idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../298/11345298.xml">
 The Time Is Now</link></plan>
 </idea>
-</it> &nbsp;• <it><link xlink:type="simple" xlink:href="../620/567620.xml">
+</it>  • <it><link xlink:type="simple" xlink:href="../620/567620.xml">
 Unfiltered</link>''</it></col>
 </row>
 <row style="height:2px">
@@ -1348,14 +1348,14 @@ Sheldon Drobny</link></accountant>
 </businessperson>
 </person>
 </physical_entity>
-&nbsp;• <message wordnetid="106598915" confidence="0.8">
+ • <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../077/30077.xml">
 Talk radio</link></format>
 </information>
 </message>
-&nbsp;• <message wordnetid="106598915" confidence="0.8">
+ • <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1368,12 +1368,12 @@ Progressive talk</link></medium>
 </artifact>
 </information>
 </message>
-&nbsp;• <person wordnetid="100007846" confidence="0.9508927676800064">
+ • <person wordnetid="100007846" confidence="0.9508927676800064">
 <corporate_executive wordnetid="109966255" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../085/1612085.xml">
 Evan Montvel Cohen</link></corporate_executive>
 </person>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1386,7 +1386,7 @@ Danny Goldberg</link></journalist>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;• <link xlink:type="simple" xlink:href="../273/2708273.xml">
+ • <link xlink:type="simple" xlink:href="../273/2708273.xml">
 Air America-Gloria Wise loan controversy</link></col>
 </row>
 <row style="height:2px;">

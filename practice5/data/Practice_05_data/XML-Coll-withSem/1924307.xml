@@ -52,7 +52,7 @@ LZ78</link></known_for>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/9282173.xml">
 Israel</link></country>
 </residence>
@@ -312,7 +312,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FTIT.1977.1055714">
-10.1109/TIT.1977.1055714</weblink>.</cite>&nbsp;</entry>
+10.1109/TIT.1977.1055714</weblink>.</cite> </entry>
 </list>
 </p>
 
@@ -433,34 +433,34 @@ Richard W. Hamming Medal</link></signal>
 <link xlink:type="simple" xlink:href="../326/99326.xml">
 Richard Hamming</link></scientist>
 </person>
- (1988)&nbsp;· 
+ (1988) · 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../050/2151050.xml">
 Irving S. Reed</link></scientist>
- (1989)&nbsp;· 
+ (1989) · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../218/8218.xml">
 Dennis Ritchie</link></scientist>
 </person>
-&nbsp;/ <person wordnetid="100007846" confidence="0.9508927676800064">
+ / <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../747/10817747.xml">
 Ken Thompson</link></scientist>
 </person>
- (1990)&nbsp;· 
+ (1990) · 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../893/655893.xml">
 Elwyn Berlekamp</link></scientist>
- (1991)&nbsp;· 
+ (1991) · 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../155/201155.xml">
 Lotfi Asker Zadeh</link></scientist>
- (1992)&nbsp;· 
+ (1992) · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/13791173.xml">
 Jorma Rissanen</link></person>
- (1993)&nbsp;· 
+ (1993) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -478,7 +478,7 @@ Gottfried Ungerboeck</link></associate>
 </person>
 </peer>
 </physical_entity>
- (1994)&nbsp;· 
+ (1994) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
@@ -492,7 +492,7 @@ Jacob Ziv</link></scientist>
 </theorist>
 </person>
 </physical_entity>
- (1995)&nbsp;· 
+ (1995) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
@@ -508,21 +508,21 @@ Mark Semenovich Pinsker</link></mathematician>
 </theorist>
 </person>
 </physical_entity>
- (1996)&nbsp;· 
+ (1996) · 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../278/4740278.xml">
 Thomas M. Cover</link></scientist>
- (1997)&nbsp;· 
+ (1997) · 
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../395/2561395.xml">
 David D. Clark</link></scientist>
 </person>
- (1998)&nbsp;· 
+ (1998) · 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../938/8938.xml">
 David A. Huffman</link></scientist>
- (1999)&nbsp;· 
+ (1999) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
@@ -542,7 +542,7 @@ Solomon W. Golomb</link></scholar>
 </theorist>
 </person>
 </physical_entity>
- (2000)&nbsp;· 
+ (2000) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -560,11 +560,11 @@ Alexander G. Fraser</link></associate>
 </person>
 </peer>
 </physical_entity>
- (2001)&nbsp;· 
+ (2001) · 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../112/2067112.xml">
 Peter Elias</link></scientist>
- (2002)&nbsp;· 
+ (2002) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
@@ -576,7 +576,7 @@ Claude Berrou</link></causal_agent>
 </theorist>
 </person>
 </physical_entity>
-&nbsp;/ <physical_entity wordnetid="100001930" confidence="0.8">
+ / <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -589,7 +589,7 @@ Alain Glavieux</link></causal_agent>
 </theorist>
 </person>
 </physical_entity>
- (2003)&nbsp;· 
+ (2003) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
@@ -605,7 +605,7 @@ Jack Keil Wolf</link></scholar>
 </theorist>
 </person>
 </physical_entity>
- (2004)&nbsp;· 
+ (2004) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -617,7 +617,7 @@ Neil Sloane</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
- (2005)&nbsp;· 
+ (2005) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <theorist wordnetid="110706812" confidence="0.8">
@@ -637,11 +637,11 @@ Vladimir Levenshtein</link></scholar>
 </theorist>
 </person>
 </physical_entity>
- (2006)&nbsp;· 
+ (2006) · 
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../307/1924307.xml">
 Abraham Lempel</link></scientist>
- (2007)&nbsp;· 
+ (2007) · 
 <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">

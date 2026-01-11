@@ -264,7 +264,7 @@ Another fundamental selection problem is that of selecting the <it>k</it> smalle
 
 <p>
 
-A number of simple but inefficient solutions are possible. We can use the linear-time solutions discussed above to select each element one at a time, resulting in time O(<it>kn</it>) &mdash; we can achieve the same time just by running the first <it>k</it> iterations of <link xlink:type="simple" xlink:href="../352/29352.xml">
+A number of simple but inefficient solutions are possible. We can use the linear-time solutions discussed above to select each element one at a time, resulting in time O(<it>kn</it>) — we can achieve the same time just by running the first <it>k</it> iterations of <link xlink:type="simple" xlink:href="../352/29352.xml">
 selection sort</link>. If log <it>n</it> is much less than <it>k</it>, a better simple strategy is to sort the list and then take the first or last <it>k</it> elements.</p>
 
 </ss1>
@@ -471,7 +471,7 @@ The Art of Computer Programming</link></publication>
 </creation>
 </product>
 </work>
-</it>, Volume 3: <it>Sorting and Searching</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0. Section 5.3.3: Minimum-Comparison Selection, pp.207&ndash;219.</entry>
+</it>, Volume 3: <it>Sorting and Searching</it>, Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0. Section 5.3.3: Minimum-Comparison Selection, pp.207–219.</entry>
 <entry level="1" type="bullet">
 
  <scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -497,7 +497,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapter 9: Medians and Order Statistics, pp.183&ndash;196. Section 14.1: Dynamic order statistics, pp.302&ndash;308.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Chapter 9: Medians and Order Statistics, pp.183–196. Section 14.1: Dynamic order statistics, pp.302–308.</entry>
 <entry level="1" type="bullet">
 
  Paul E. Black, <weblink xlink:type="simple" xlink:href="http://www.nist.gov/dads/HTML/select.html">
@@ -508,7 +508,7 @@ Dictionary of Algorithms and Data Structures</link>.</entry>
 
 <reflist>
 <entry id="1">
-David R. Musser. Introspective Sorting and Selection Algorithms. <it>Software: Practice and Experience</it>, vol. 27, no. 8, pp.983&ndash;993. 1997. Section: Introspective Selection Algorithms.</entry>
+David R. Musser. Introspective Sorting and Selection Algorithms. <it>Software: Practice and Experience</it>, vol. 27, no. 8, pp.983–993. 1997. Section: Introspective Selection Algorithms.</entry>
 </reflist>
 </p>
 

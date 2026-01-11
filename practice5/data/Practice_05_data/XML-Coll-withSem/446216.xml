@@ -332,7 +332,7 @@ One example shows a structure for deciding guilt in a criminal trial:</p>
 <table style="text-align: center; background: #FFFFFF;" class="wikitable">
 
 <header colspan="2" rowspan="2">
-&nbsp;</header>
+ </header>
 <header colspan="2" style="background: #ddffdd;">
 Actual condition</header>
 <row >
@@ -349,13 +349,13 @@ Verdict of'guilty'</header>
 <col>
 True Positive</col>
 <col bgcolor="#EFEFEF">
-False Positive&nbsp;(i.e. guilt reported&nbsp;&nbsp;unfairly)&nbsp;<b>Type I error</b></col>
+False Positive (i.e. guilt reported  unfairly) <b>Type I error</b></col>
 </row>
 <row>
 <header style="background: #ffdddd;">
-&nbsp;Verdict of&nbsp;&nbsp;'not guilty'&nbsp;</header>
+ Verdict of  'not guilty' </header>
 <col bgcolor="#EFEFEF">
-False Negative&nbsp;(i.e. guilt&nbsp;&nbsp;not detected)&nbsp;<b>Type II error</b></col>
+False Negative (i.e. guilt  not detected) <b>Type II error</b></col>
 <col >
 True Negative</col>
 </row>
@@ -644,11 +644,11 @@ cybernetics</link></header>
 Subfields</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../724/615724.xml">
-Polycontexturality</link>&nbsp;·  <link xlink:type="simple" xlink:href="../462/2073462.xml">
-Second-order cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../288/434288.xml">
-Catastrophe theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../636/263636.xml">
-Connectionism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../039/7039.xml">
-Control theory</link>&nbsp;·  <social_science wordnetid="106143154" confidence="0.8">
+Polycontexturality</link> ·  <link xlink:type="simple" xlink:href="../462/2073462.xml">
+Second-order cybernetics</link> ·  <link xlink:type="simple" xlink:href="../288/434288.xml">
+Catastrophe theory</link> ·  <link xlink:type="simple" xlink:href="../636/263636.xml">
+Connectionism</link> ·  <link xlink:type="simple" xlink:href="../039/7039.xml">
+Control theory</link> ·  <social_science wordnetid="106143154" confidence="0.8">
 <knowledge_domain wordnetid="105999266" confidence="0.8">
 <economics wordnetid="106149484" confidence="0.8">
 <discipline wordnetid="105996646" confidence="0.8">
@@ -659,19 +659,19 @@ Decision theory</link></science>
 </economics>
 </knowledge_domain>
 </social_science>
-&nbsp;·  <link xlink:type="simple" xlink:href="../773/14773.xml">
-Information theory</link>&nbsp;·  <link xlink:type="simple" xlink:href="../301/29301.xml">
-Semiotics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../227/2748227.xml">
-Synergetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../318/3929318.xml">
-Biological cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../722/551722.xml">
-Biosemiotics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../963/1651963.xml">
-Biomedical cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../293/1006293.xml">
-Biorobotics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../430/271430.xml">
-Computational neuroscience</link>&nbsp;·  <link xlink:type="simple" xlink:href="../980/13980.xml">
-Homeostasis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../518/12457518.xml">
-Management cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../506/723506.xml">
-Medical cybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../541/13629541.xml">
-New Cybernetics</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../773/14773.xml">
+Information theory</link> ·  <link xlink:type="simple" xlink:href="../301/29301.xml">
+Semiotics</link> ·  <link xlink:type="simple" xlink:href="../227/2748227.xml">
+Synergetics</link> ·  <link xlink:type="simple" xlink:href="../318/3929318.xml">
+Biological cybernetics</link> ·  <link xlink:type="simple" xlink:href="../722/551722.xml">
+Biosemiotics</link> ·  <link xlink:type="simple" xlink:href="../963/1651963.xml">
+Biomedical cybernetics</link> ·  <link xlink:type="simple" xlink:href="../293/1006293.xml">
+Biorobotics</link> ·  <link xlink:type="simple" xlink:href="../430/271430.xml">
+Computational neuroscience</link> ·  <link xlink:type="simple" xlink:href="../980/13980.xml">
+Homeostasis</link> ·  <link xlink:type="simple" xlink:href="../518/12457518.xml">
+Management cybernetics</link> ·  <link xlink:type="simple" xlink:href="../506/723506.xml">
+Medical cybernetics</link> ·  <link xlink:type="simple" xlink:href="../541/13629541.xml">
+New Cybernetics</link> ·  <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -682,9 +682,9 @@ Neuro cybernetics</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../821/936821.xml">
-Sociocybernetics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../436/37436.xml">
-Emergence</link>&nbsp;·  <link xlink:type="simple" xlink:href="../164/1164.xml">
+ ·  <link xlink:type="simple" xlink:href="../821/936821.xml">
+Sociocybernetics</link> ·  <link xlink:type="simple" xlink:href="../436/37436.xml">
+Emergence</link> ·  <link xlink:type="simple" xlink:href="../164/1164.xml">
 Artificial intelligence</link></col>
 </row>
 <row style="height:2px">
@@ -720,7 +720,7 @@ Igor Aleksander</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;· <physical_entity wordnetid="100001930" confidence="0.8">
+ · <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <specialist wordnetid="110632576" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -751,11 +751,11 @@ William Ross Ashby</link></research_worker>
 </specialist>
 </person>
 </physical_entity>
-&nbsp;· <link xlink:type="simple" xlink:href="../597/142597.xml">
-Anthony Stafford Beer</link>&nbsp;· <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../597/142597.xml">
+Anthony Stafford Beer</link> · <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../949/376949.xml">
 Claude Bernard</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -766,14 +766,14 @@ Ludwig von Bertalanffy</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../931/2360931.xml">
-Valentin Braitenberg</link>&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <link xlink:type="simple" xlink:href="../931/2360931.xml">
+Valentin Braitenberg</link> ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../525/7254525.xml">
 Gordon S. Brown</link></person>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../411/606411.xml">
 Walter Bradford Cannon</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -782,11 +782,11 @@ Heinz von Foerster</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <link>
-Charles François</link>&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <link>
+Charles François</link> ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/290393.xml">
 Jay Wright Forrester</link></scientist>
-&nbsp;·  <architect wordnetid="109805475" confidence="0.9173553029164789">
+ ·  <architect wordnetid="109805475" confidence="0.9173553029164789">
 <visionary wordnetid="110756641" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <poet wordnetid="110444194" confidence="0.9173553029164789">
@@ -801,7 +801,7 @@ Buckminster Fuller</link></writer>
 </person>
 </visionary>
 </architect>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -812,8 +812,8 @@ Ernst von Glasersfeld</link></psychologist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../054/2291054.xml">
-Francis Heylighen</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../054/2291054.xml">
+Francis Heylighen</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -826,7 +826,7 @@ Erich von Holst</link></physiologist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <peer wordnetid="109626238" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -849,7 +849,7 @@ Stuart Kauffman</link></associate>
 </person>
 </peer>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <physicist wordnetid="110428004" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -860,13 +860,13 @@ Sergei P. Kurdyumov</link></scientist>
 </person>
 </physicist>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/21465.xml">
 Niklas Luhmann</link></scientist>
 </person>
-&nbsp;·  <link xlink:type="simple" xlink:href="../508/44508.xml">
-Warren McCulloch</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../508/44508.xml">
+Warren McCulloch</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -885,10 +885,10 @@ Humberto Maturana</link></psychologist>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
+ ·  <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../041/54041.xml">
 Talcott Parsons</link></scientist>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <academician wordnetid="109759069" confidence="0.8">
@@ -907,8 +907,8 @@ Gordon Pask</link></educator>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../949/302949.xml">
-Walter Pitts</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../949/302949.xml">
+Walter Pitts</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <anthropologist wordnetid="109796323" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <social_scientist wordnetid="110619642" confidence="0.8">
@@ -921,12 +921,12 @@ Alfred Radcliffe-Brown</link></scientist>
 </person>
 </anthropologist>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../924/8532924.xml">
 Robert Trappl</link></person>
-&nbsp;·  <link xlink:type="simple" xlink:href="../885/2360885.xml">
-Valentin Turchin</link>&nbsp;·  <link>
-Jakob von Uexküll</link> &nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../885/2360885.xml">
+Valentin Turchin</link> ·  <link>
+Jakob von Uexküll</link>  ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <philosopher wordnetid="110423589" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
@@ -947,7 +947,7 @@ Francisco Varela</link></research_worker>
 </person>
 </philosopher>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <biochemist wordnetid="109854915" confidence="0.8">
@@ -962,8 +962,8 @@ Frederic Vester</link></chemist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../147/1191147.xml">
-Charles Geoffrey Vickers</link> &nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../147/1191147.xml">
+Charles Geoffrey Vickers</link>  ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <scientist wordnetid="110560637" confidence="0.8">
@@ -972,7 +972,7 @@ Stuart Umpleby</link></scientist>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <engineer wordnetid="109615807" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -983,12 +983,12 @@ John N. Warfield</link></scientist>
 </engineer>
 </person>
 </physical_entity>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9173553029164789">
 <link xlink:type="simple" xlink:href="../453/17453.xml">
 Kevin Warwick</link></scientist>
 </person>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/63185.xml">
 Norbert Wiener</link></scientist>

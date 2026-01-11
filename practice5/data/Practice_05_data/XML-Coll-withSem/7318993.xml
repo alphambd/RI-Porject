@@ -181,19 +181,19 @@ Districts</col>
 <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/93867.xml">
 Bayswater</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../440/361440.xml">
 Belgravia</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../781/161781.xml">
 Covent Garden</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../402/380402.xml">
 Fitzrovia</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../101/94101.xml">
 Holborn</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -210,10 +210,10 @@ Hyde Park</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../153/94153.xml">
 Knightsbridge</link></site>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -226,32 +226,32 @@ Lisson Grove</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../413/417413.xml">
 Maida Vale</link></site>
- (including Little Venice)&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ (including Little Venice) ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../167/94167.xml">
 Mayfair</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../165/94165.xml">
 Marylebone</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../212/257212.xml">
 Millbank</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../211/94211.xml">
 Paddington</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../606/149606.xml">
 Pimlico</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../921/2376921.xml">
 Queen's Park</link></site>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../388/938388.xml">
 St. James's</link></site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../270/94270.xml">
-St. John's Wood</link>&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../270/94270.xml">
+St. John's Wood</link> ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../616/39616.xml">
 Soho</link></site>
  (including <region wordnetid="108630985" confidence="0.8">
@@ -267,7 +267,7 @@ Chinatown</link></section>
 </area>
 </vicinity>
 </region>
-)&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+) ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -280,7 +280,7 @@ Victoria</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <vicinity wordnetid="108641113" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -293,7 +293,7 @@ Westbourne Green</link></section>
 </area>
 </vicinity>
 </region>
-&nbsp;·  <site wordnetid="108651247" confidence="0.9508927676800064">
+ ·  <site wordnetid="108651247" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../432/37432.xml">
 Westminster</link></site>
 </col>
@@ -324,7 +324,7 @@ West End theatre</link></attraction>
 </show>
 </social_event>
 </event>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <religious_residence wordnetid="104073948" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -347,14 +347,14 @@ Westminster Abbey</link></house>
 </building>
 </religious_residence>
 </structure>
-&nbsp;·  <building wordnetid="102913152" confidence="0.9508927676800064">
+ ·  <building wordnetid="102913152" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../969/3969.xml">
 Buckingham Palace</link></building>
-&nbsp;·  <link xlink:type="simple" xlink:href="../616/98616.xml">
-National Gallery</link>&nbsp;·  <museum wordnetid="103800563" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../616/98616.xml">
+National Gallery</link> ·  <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../452/18449452.xml">
 Tate Britain</link></museum>
-&nbsp;·  <isogon wordnetid="113866515" confidence="0.8">
+ ·  <isogon wordnetid="113866515" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <show wordnetid="106619065" confidence="0.8">
 <shape wordnetid="100027807" confidence="0.8">
@@ -385,14 +385,14 @@ Trafalgar Square</link></quadrilateral>
 </show>
 </social_event>
 </isogon>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../441/1522441.xml">
 Horse Guards</link></artifact>
 </building>
 </structure>
-&nbsp;·  <it><region wordnetid="108630985" confidence="0.8">
+ ·  <it><region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -440,7 +440,7 @@ Green Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -457,7 +457,7 @@ Hyde Park</link></venue>
 </park>
 </area>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -468,7 +468,7 @@ Kensington Gardens</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <park wordnetid="108615149" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -479,7 +479,7 @@ Regent's Park</link></geographical_area>
 </location>
 </park>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../893/390893.xml">
+ ·  <link xlink:type="simple" xlink:href="../893/390893.xml">
 St James's Park</link></col>
 </row>
 <row style="height:2px">
@@ -490,7 +490,7 @@ St James's Park</link></col>
 Constituencies</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../704/1829704.xml">
-Regent's Park and Kensington North</link>&nbsp;·  <link xlink:type="simple" xlink:href="../643/1814643.xml">
+Regent's Park and Kensington North</link> ·  <link xlink:type="simple" xlink:href="../643/1814643.xml">
 Cities of London and Westminster</link></col>
 </row>
 <row style="height:2px;">

@@ -131,8 +131,8 @@ Total</header>
 China
 </caption>
 </image>
-&nbsp;<link>
-China</link>&nbsp;(CHN)</col>
+ <link>
+China</link> (CHN)</col>
 <col>
 11</col>
 <col>
@@ -152,8 +152,8 @@ China</link>&nbsp;(CHN)</col>
 South Korea
 </caption>
 </image>
-&nbsp;<link>
-South Korea</link>&nbsp;(KOR)</col>
+ <link>
+South Korea</link> (KOR)</col>
 <col>
 6</col>
 <col>
@@ -173,8 +173,8 @@ South Korea</link>&nbsp;(KOR)</col>
 Indonesia
 </caption>
 </image>
-&nbsp;<link>
-Indonesia</link>&nbsp;(INA)</col>
+ <link>
+Indonesia</link> (INA)</col>
 <col>
 6</col>
 <col>
@@ -194,8 +194,8 @@ Indonesia</link>&nbsp;(INA)</col>
 Denmark
 </caption>
 </image>
-&nbsp;<link>
-Denmark</link>&nbsp;(DEN)</col>
+ <link>
+Denmark</link> (DEN)</col>
 <col>
 1</col>
 <col>
@@ -215,8 +215,8 @@ Denmark</link>&nbsp;(DEN)</col>
 Malaysia
 </caption>
 </image>
-&nbsp;<link>
-Malaysia</link>&nbsp;(MAS)</col>
+ <link>
+Malaysia</link> (MAS)</col>
 <col>
 0</col>
 <col>
@@ -236,8 +236,8 @@ Malaysia</link>&nbsp;(MAS)</col>
 Great Britain
 </caption>
 </image>
-&nbsp;<link>
-Great Britain</link>&nbsp;(GBR)</col>
+ <link>
+Great Britain</link> (GBR)</col>
 <col>
 0</col>
 <col>
@@ -257,8 +257,8 @@ Great Britain</link>&nbsp;(GBR)</col>
 Netherlands
 </caption>
 </image>
-&nbsp;<link>
-Netherlands</link>&nbsp;(NED)</col>
+ <link>
+Netherlands</link> (NED)</col>
 <col>
 0</col>
 <col>
@@ -1520,28 +1520,28 @@ Badminton at the Summer Olympics</link></header>
 <link xlink:type="simple" xlink:href="../069/8726069.xml">
 1972</link></psychological_feature>
 </event>
-&nbsp;(demonstration)</it>&nbsp;• 1976–1984&nbsp;• <it><link>
-1988</link>&nbsp;(demonstration)</it>&nbsp;• <event wordnetid="100029378" confidence="0.8">
+ (demonstration)</it> • 1976–1984 • <it><link>
+1988</link> (demonstration)</it> • <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../441/1767441.xml">
 1992</link></psychological_feature>
 </event>
-&nbsp;• <event wordnetid="100029378" confidence="0.8">
+ • <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../594/1672594.xml">
 1996</link></psychological_feature>
 </event>
-&nbsp;• <event wordnetid="100029378" confidence="0.8">
+ • <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../281/712281.xml">
 2000</link></psychological_feature>
 </event>
-&nbsp;• <event wordnetid="100029378" confidence="0.8">
+ • <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../877/806877.xml">
 2004</link></psychological_feature>
 </event>
-&nbsp;• <event wordnetid="100029378" confidence="0.8">
+ • <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../552/8057552.xml">
 2008</link></psychological_feature>
@@ -1584,7 +1584,7 @@ Thomas Cup</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;|
+ |
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1596,7 +1596,7 @@ Uber Cup</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;|
+ |
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1608,7 +1608,7 @@ Sudirman Cup</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;|
+ |
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1616,20 +1616,20 @@ Sudirman Cup</link></psychological_feature>
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <championship wordnetid="107457834" confidence="0.8">
 <link xlink:type="simple" xlink:href="../373/2342373.xml">
-World&nbsp;Championships</link></championship>
+World Championships</link></championship>
 </psychological_feature>
 </contest>
 </social_event>
 </event>
 </tournament>
-&nbsp;|
+ |
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../487/11935487.xml">
-World&nbsp;Junior&nbsp;Championships</link></psychological_feature>
+World Junior Championships</link></psychological_feature>
 </contest>
 </social_event>
 </event>
@@ -1641,45 +1641,45 @@ World&nbsp;Junior&nbsp;Championships</link></psychological_feature>
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../759/13019759.xml">
-World&nbsp;Cup</link></psychological_feature>
+World Cup</link></psychological_feature>
 </contest>
 </social_event>
 </event>
 </tournament>
-&nbsp;|
+ |
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../759/8735759.xml">
-World&nbsp;Grand&nbsp;Prix</link></psychological_feature>
+World Grand Prix</link></psychological_feature>
 </contest>
 </social_event>
 </event>
 </tournament>
-&nbsp;(defunct)&nbsp;|
+ (defunct) |
 <link xlink:type="simple" xlink:href="../338/1852338.xml">
-Olympic&nbsp;Games</link>&nbsp;|
+Olympic Games</link> |
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../776/10970776.xml">
-Commonwealth&nbsp;Games</link></psychological_feature>
+Commonwealth Games</link></psychological_feature>
 </contest>
 </social_event>
 </event>
 </tournament>
-&nbsp;|
+ |
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../069/8606069.xml">
-Asian&nbsp;Games</link></psychological_feature>
+Asian Games</link></psychological_feature>
 </contest>
 </social_event>
 </event>
@@ -1691,24 +1691,24 @@ Asian&nbsp;Games</link></psychological_feature>
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../133/10371133.xml">
-Pan&nbsp;American&nbsp;Games</link></psychological_feature>
+Pan American Games</link></psychological_feature>
 </contest>
 </social_event>
 </event>
 </tournament>
-&nbsp;|
+ |
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../684/12497684.xml">
-All-Africa&nbsp;Games</link></psychological_feature>
+All-Africa Games</link></psychological_feature>
 </contest>
 </social_event>
 </event>
 </tournament>
-&nbsp;|
+ |
 
 National badminton teams|Teams</col>
 </row>
@@ -1719,7 +1719,7 @@ National badminton teams|Teams</col>
 <col align="left">
 <indent level="1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<it>Africa:</it> <body wordnetid="107965085" confidence="0.8">
+     <it>Africa:</it> <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -1728,7 +1728,7 @@ BCA</link></administration>
 </group>
 </social_group>
 </body>
- &ndash; <tournament wordnetid="107464725" confidence="0.8">
+ – <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1741,7 +1741,7 @@ African Championships</link></psychological_feature>
 </tournament>
 
 </indent>
-:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<it>Asia:</it> <body wordnetid="107965085" confidence="0.8">
+:     <it>Asia:</it> <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -1750,7 +1750,7 @@ BAC</link></administration>
 </group>
 </social_group>
 </body>
- &ndash; <tournament wordnetid="107464725" confidence="0.8">
+ – <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1766,7 +1766,7 @@ Asia Championships</link></championship>
 
 <indent level="1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<it>Europe:</it> <body wordnetid="107965085" confidence="0.8">
+     <it>Europe:</it> <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -1775,7 +1775,7 @@ BE</link></administration>
 </group>
 </social_group>
 </body>
- &ndash; <tournament wordnetid="107464725" confidence="0.8">
+ – <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1788,7 +1788,7 @@ European Championships</link></psychological_feature>
 </tournament>
 
 </indent>
-:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<it>Oceania:</it> <body wordnetid="107965085" confidence="0.8">
+:     <it>Oceania:</it> <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -1797,11 +1797,11 @@ BO</link></administration>
 </group>
 </social_group>
 </body>
- &ndash; <link>
+ – <link>
 Oceania Championships</link>
 <indent level="1">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<it>Americas:</it> <body wordnetid="107965085" confidence="0.8">
+     <it>Americas:</it> <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -1810,7 +1810,7 @@ BPA</link></administration>
 </group>
 </social_group>
 </body>
- &ndash; <tournament wordnetid="107464725" confidence="0.8">
+ – <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1863,7 +1863,7 @@ Summer sports</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../232/934232.xml">
-Archery</link>&nbsp;•
+Archery</link> •
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <sport wordnetid="100523513" confidence="0.8">
@@ -1877,9 +1877,9 @@ Athletics</link></activity>
 </sport>
 </event>
 </diversion>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../338/1852338.xml">
-Badminton</link>&nbsp;•
+Badminton</link> •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1889,13 +1889,13 @@ Basketball</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../099/4985099.xml">
-Boxing</link>&nbsp;•
+Boxing</link> •
 <link xlink:type="simple" xlink:href="../735/6755735.xml">
-Canoeing</link>&nbsp;•
+Canoeing</link> •
 <link xlink:type="simple" xlink:href="../600/2221600.xml">
-Cycling</link>&nbsp;•
+Cycling</link> •
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <sport wordnetid="100523513" confidence="0.8">
@@ -1909,13 +1909,13 @@ Diving</link></activity>
 </sport>
 </event>
 </diversion>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../239/3788239.xml">
-Equestrian</link>&nbsp;•
+Equestrian</link> •
 <link xlink:type="simple" xlink:href="../308/3888308.xml">
-Field&nbsp;hockey</link>&nbsp;•
+Field hockey</link> •
 <link xlink:type="simple" xlink:href="../676/2221676.xml">
-Fencing</link>&nbsp;•
+Fencing</link> •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1925,15 +1925,15 @@ Football</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../892/2255892.xml">
-Gymnastics</link>&nbsp;•
+Gymnastics</link> •
 <link xlink:type="simple" xlink:href="../137/1471137.xml">
-Handball</link>&nbsp;• 
+Handball</link> • 
 <link xlink:type="simple" xlink:href="../891/3577891.xml">
-Judo</link>&nbsp;•
+Judo</link> •
 <link xlink:type="simple" xlink:href="../601/6592601.xml">
-Modern&nbsp;pentathlon</link>&nbsp;•
+Modern pentathlon</link> •
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <oarsman wordnetid="110368920" confidence="0.8">
@@ -1947,11 +1947,11 @@ Rowing</link></causal_agent>
 </oarsman>
 </person>
 </physical_entity>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../040/5053040.xml">
-Sailing</link>&nbsp;•
+Sailing</link> •
 <link xlink:type="simple" xlink:href="../965/2255965.xml">
-Shooting</link>&nbsp;•
+Shooting</link> •
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -1961,13 +1961,13 @@ Swimming</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../747/6100747.xml">
-Synchronized&nbsp;swimming</link>&nbsp;•
+Synchronized swimming</link> •
 <link xlink:type="simple" xlink:href="../499/6085499.xml">
-Table&nbsp;tennis</link>&nbsp;•
+Table tennis</link> •
 <link xlink:type="simple" xlink:href="../836/6083836.xml">
-Taekwondo</link>&nbsp;•
+Taekwondo</link> •
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1979,15 +1979,15 @@ Tennis</link></psychological_feature>
 </social_event>
 </event>
 </tournament>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../852/1751852.xml">
-Triathlon</link>&nbsp;•
+Triathlon</link> •
 <link xlink:type="simple" xlink:href="../392/1613392.xml">
-Volleyball</link>&nbsp;•
+Volleyball</link> •
 <link xlink:type="simple" xlink:href="../585/4334585.xml">
-Water&nbsp;polo</link>&nbsp;•
+Water polo</link> •
 <link xlink:type="simple" xlink:href="../359/2259359.xml">
-Weightlifting</link>&nbsp;•
+Weightlifting</link> •
 <link xlink:type="simple" xlink:href="../423/2259423.xml">
 Wrestling</link></p>
 </col>
@@ -2001,45 +2001,45 @@ Winter sports</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even"><p>
 
 <link xlink:type="simple" xlink:href="../119/4054119.xml">
-Alpine&nbsp;skiing</link>&nbsp;•
+Alpine skiing</link> •
 <link xlink:type="simple" xlink:href="../739/5521739.xml">
-Biathlon</link>&nbsp;•
+Biathlon</link> •
 <link xlink:type="simple" xlink:href="../517/4309517.xml">
-Bobsleigh</link>&nbsp;•
+Bobsleigh</link> •
 <link xlink:type="simple" xlink:href="../128/5327128.xml">
-Cross&amp;#x2011;country&nbsp;skiing</link>&nbsp;•
+Cross&amp;#x2011;country skiing</link> •
 <link xlink:type="simple" xlink:href="../138/3092138.xml">
-Curling</link>&nbsp;•
+Curling</link> •
 <link xlink:type="simple" xlink:href="../191/4187191.xml">
-Figure&nbsp;skating</link>&nbsp;•
+Figure skating</link> •
 <link xlink:type="simple" xlink:href="../796/4332796.xml">
-Freestyle&nbsp;skiing</link>&nbsp;•
+Freestyle skiing</link> •
 <tournament wordnetid="107464725" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../215/1855215.xml">
-Ice&nbsp;hockey</link></psychological_feature>
+Ice hockey</link></psychological_feature>
 </contest>
 </social_event>
 </event>
 </tournament>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../933/4256933.xml">
-Luge</link>&nbsp;•
+Luge</link> •
 <link xlink:type="simple" xlink:href="../016/5392016.xml">
-Nordic&nbsp;combined</link>&nbsp;•
+Nordic combined</link> •
 <link xlink:type="simple" xlink:href="../641/4314641.xml">
-Short&nbsp;track&nbsp;speed&nbsp;skating</link>&nbsp;•
+Short track speed skating</link> •
 <link xlink:type="simple" xlink:href="../745/4230745.xml">
-Skeleton</link>&nbsp;•
+Skeleton</link> •
 <link xlink:type="simple" xlink:href="../709/5423709.xml">
-Ski&nbsp;jumping</link>&nbsp;•
+Ski jumping</link> •
 <link xlink:type="simple" xlink:href="../201/4060201.xml">
-Snowboarding</link>&nbsp;•
+Snowboarding</link> •
 <link xlink:type="simple" xlink:href="../366/3682366.xml">
-Speed&nbsp;skating</link></p>
+Speed skating</link></p>
 </col>
 </row>
 <row style="height:2px">
@@ -2051,37 +2051,37 @@ Past sports</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../192/1856192.xml">
-Baseball</link>&nbsp;•
+Baseball</link> •
 <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../623/228623.xml">
-Basque&nbsp;pelota</link></psychological_feature>
+Basque pelota</link></psychological_feature>
 </event>
-&nbsp;•
+ •
 <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../482/228482.xml">
 Cricket</link></psychological_feature>
 </event>
-&nbsp;•
+ •
 <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../489/228489.xml">
 Croquet</link></psychological_feature>
 </event>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../384/2571384.xml">
-Golf</link>&nbsp;•
+Golf</link> •
 <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../229/930229.xml">
-Jeu&nbsp;de&nbsp;paume</link></psychological_feature>
+Jeu de paume</link></psychological_feature>
 </event>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../428/5010428.xml">
-Lacrosse</link>&nbsp;•
+Lacrosse</link> •
 <link xlink:type="simple" xlink:href="../133/5032133.xml">
-Polo</link>&nbsp;•
+Polo</link> •
 <racket wordnetid="107390945" confidence="0.8">
 <sound wordnetid="107371293" confidence="0.8">
 <happening wordnetid="107283608" confidence="0.8">
@@ -2095,23 +2095,23 @@ Rackets</link></noise>
 </happening>
 </sound>
 </racket>
-&nbsp;•
+ •
 <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../572/219572.xml">
 Roque</link></psychological_feature>
 </event>
-&nbsp;•
+ •
 <link xlink:type="simple" xlink:href="../734/771734.xml">
-Rugby&nbsp;union</link>&nbsp;•
+Rugby union</link> •
 <link xlink:type="simple" xlink:href="../682/4333682.xml">
-Softball</link>&nbsp;•
+Softball</link> •
 <link xlink:type="simple" xlink:href="../330/3795330.xml">
-Tug&nbsp;of&nbsp;war</link>&nbsp;•
+Tug of war</link> •
 <event wordnetid="100029378" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
 <link xlink:type="simple" xlink:href="../185/930185.xml">
-Water&nbsp;motorsports</link></psychological_feature>
+Water motorsports</link></psychological_feature>
 </event>
 </p>
 </col>

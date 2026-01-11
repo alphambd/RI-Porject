@@ -176,7 +176,7 @@ BSOD</link>) on Windows Server 2003 operating systems.</entry>
  DLA may prevent eject of media from an optical drive. If this is the case you need to restart your operating system.</entry>
 <entry level="1" type="bullet">
 
- DLA may prevent the proper installation of a program distributed on a rewritable CD or DVD. A solution is to deactivate the DLA function as follows: (1)&nbsp;Launch Windows Explorer; (2)&nbsp;Select the RW-CD drive, and; (3)&nbsp;Right click on the drive and deselect the menu “Use with DLA.”</entry>
+ DLA may prevent the proper installation of a program distributed on a rewritable CD or DVD. A solution is to deactivate the DLA function as follows: (1) Launch Windows Explorer; (2) Select the RW-CD drive, and; (3) Right click on the drive and deselect the menu “Use with DLA.”</entry>
 </list>
 </p>
 

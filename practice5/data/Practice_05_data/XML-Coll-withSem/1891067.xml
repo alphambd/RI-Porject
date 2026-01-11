@@ -40,7 +40,7 @@
 <col>
 <b>Birth</b></col>
 <col>
- February 18, 1971 (1971-02-18) (age&nbsp;38) <region wordnetid="108630985" confidence="0.8">
+ February 18, 1971 (1971-02-18) (age 38) <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -93,7 +93,7 @@ kg</link>)</col>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/76972.xml">
 Denmark</link></country>
 </col>
@@ -947,7 +947,7 @@ Official World Golf Ranking</weblink> - 15 Jul 2001</entry>
 <entry id="3">
 "<weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/sport2/hi/golf/5317530.stm">
 Bjørn issues apology to Woosnam</weblink>", BBC News&#32;(<link xlink:type="simple" xlink:href="../990/27990.xml">
-5 September</link> 2006).&nbsp;</entry>
+5 September</link> 2006). </entry>
 </reflist>
 </p>
 
@@ -987,8 +987,8 @@ Sir Henry Cotton Rookies of the Year</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 1960 <link>
-Tommy Goodwin</link>&nbsp;•  1961 <link>
-Alex Caygill</link>&nbsp;•  <it>1962 No award</it>&nbsp;•  1963 <physical_entity wordnetid="100001930" confidence="0.8">
+Tommy Goodwin</link> •  1961 <link>
+Alex Caygill</link> •  <it>1962 No award</it> •  1963 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1001,8 +1001,8 @@ Tony Jacklin</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  <it>1964 No award</it>&nbsp;•  <it>1965 No award</it>&nbsp;•  1966 <link>
-Robin Liddle</link>&nbsp;•  <it>1967 No award</it>&nbsp;•   1968 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  <it>1964 No award</it> •  <it>1965 No award</it> •  1966 <link>
+Robin Liddle</link> •  <it>1967 No award</it> •   1968 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1015,7 +1015,7 @@ Bernard Gallacher</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1969 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1969 <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
@@ -1032,8 +1032,8 @@ Peter Oosterhuis</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;•  1970 <link>
-Stuart Brown</link>&nbsp;•  1971 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1970 <link>
+Stuart Brown</link> •  1971 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1046,7 +1046,7 @@ David Llewellyn</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1972 <skilled_worker wordnetid="110605985" confidence="0.8">
+ •  1972 <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
@@ -1067,7 +1067,7 @@ Sam Torrance</link></military_officer>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;•  1973 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1973 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1080,7 +1080,7 @@ Pip Elson</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1974 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1974 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1093,7 +1093,7 @@ Carl Mason</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  <it>1975 No award</it>&nbsp;•  1976 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  <it>1975 No award</it> •  1976 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1106,7 +1106,7 @@ Mark James</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1977 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1977 <physical_entity wordnetid="100001930" confidence="0.8">
 <architect wordnetid="109805475" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1127,7 +1127,7 @@ Nick Faldo</link></creator>
 </communicator>
 </architect>
 </physical_entity>
-&nbsp;•  1978 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1978 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1140,7 +1140,7 @@ Sandy Lyle</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1979 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1979 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1153,9 +1153,9 @@ Mike Miller</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1980 <link>
-Paul Hoad</link>&nbsp;•  1981 <link>
-Jeremy Bennett</link>&nbsp;•  1982 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1980 <link>
+Paul Hoad</link> •  1981 <link>
+Jeremy Bennett</link> •  1982 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1168,8 +1168,8 @@ Gordon Brand, Jnr</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1983 <link>
-Grant Turner</link>&nbsp;•  1984 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1983 <link>
+Grant Turner</link> •  1984 <physical_entity wordnetid="100001930" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
@@ -1186,9 +1186,9 @@ Philip Parkin</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;•  1985 <link>
-Paul Thomas</link>&nbsp;•  1986 <link>
-José María Olazábal</link>&nbsp;•  1987 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1985 <link>
+Paul Thomas</link> •  1986 <link>
+José María Olazábal</link> •  1987 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1201,7 +1201,7 @@ Peter Baker</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1988 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1988 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1214,7 +1214,7 @@ Colin Montgomerie</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1989 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1989 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1227,7 +1227,7 @@ Paul Broadhurst</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1990 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1990 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1240,7 +1240,7 @@ Russell Claydon</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1991 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1991 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1253,7 +1253,7 @@ Per-Ulrik Johansson</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1992 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1992 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1266,7 +1266,7 @@ Jim Payne</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1993 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1993 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1279,7 +1279,7 @@ Gary Orr</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1994 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1994 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1292,7 +1292,7 @@ Jonathan Lomas</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1995 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1995 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1305,8 +1305,8 @@ Jarmo Sandelin</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1996 <link>
-Thomas Bjørn</link>&nbsp;•  1997 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1996 <link>
+Thomas Bjørn</link> •  1997 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1319,7 +1319,7 @@ Scott Henderson</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1998 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1998 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1332,8 +1332,8 @@ Olivier Edmond</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  1999 <link>
-Sergio García</link>&nbsp;•  2000 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  1999 <link>
+Sergio García</link> •  2000 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1346,7 +1346,7 @@ Ian Poulter</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  2001 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  2001 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1359,7 +1359,7 @@ Paul Casey</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  2002 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  2002 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1372,7 +1372,7 @@ Nick Dougherty</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  2003 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  2003 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1385,7 +1385,7 @@ Peter Lawrie</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  2004 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  2004 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1398,8 +1398,8 @@ Scott Drummond</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  2005 <link>
-Gonzalo Fernández-Castaño</link>&nbsp;•  2006 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  2005 <link>
+Gonzalo Fernández-Castaño</link> •  2006 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1412,7 +1412,7 @@ Marc Warren</link></causal_agent>
 </golfer>
 </person>
 </physical_entity>
-&nbsp;•  2007 <physical_entity wordnetid="100001930" confidence="0.8">
+ •  2007 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <golfer wordnetid="110136959" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">

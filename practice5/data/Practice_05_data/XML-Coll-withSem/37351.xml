@@ -116,7 +116,7 @@ The <b>European Organization for Nuclear Research</b> (<language wordnetid="1062
 <link xlink:type="simple" xlink:href="../597/10597.xml">
 French</link></language>
 : <it>Organisation Européenne pour la Recherche Nucléaire</it>), known as <b>CERN</b> (see <link xlink:type="simple" xlink:href="#xpointer(//*[./st=%22History%22])">
-<it>Naming''</it></link>), pronounced  (IPA:&nbsp; in <language wordnetid="106282651" confidence="0.8">
+<it>Naming''</it></link>), pronounced  (IPA:  in <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../597/10597.xml">
 French</link></language>
 ), is the world's largest <link xlink:type="simple" xlink:href="../259/23259.xml">
@@ -1182,8 +1182,8 @@ Member states</st>
 <caption>
 
 Member states of CERN as of 2008
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Founding members
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Members who joined CERN later
+     Founding members
+     Members who joined CERN later
 </caption>
 </image>
 
@@ -1232,7 +1232,7 @@ The original twelve CERN signatories from <fundamental_quantity wordnetid="11357
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../343/3343.xml">
 Belgium</link></country>
 </entry>
@@ -1244,7 +1244,7 @@ Belgium</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/76972.xml">
 Denmark</link></country>
 </entry>
@@ -1256,7 +1256,7 @@ Denmark</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/11867.xml">
 Germany</link></country>
  (at first only <country wordnetid="108544813" confidence="0.9508927676800064">
@@ -1271,7 +1271,7 @@ West Germany</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../419/5843419.xml">
 France</link></country>
 </entry>
@@ -1283,7 +1283,7 @@ France</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../108/12108.xml">
 Greece</link></country>
 </entry>
@@ -1295,7 +1295,7 @@ Greece</link></country>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../532/14532.xml">
@@ -1311,7 +1311,7 @@ Italy</link></group>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../241/21241.xml">
@@ -1327,7 +1327,7 @@ Norway</link></group>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <monarchy wordnetid="108363812" confidence="0.8">
@@ -1347,7 +1347,7 @@ Sweden</link></democracy>
 
  <image width="17px" src="Flag_of_Switzerland.svg" type="border">
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../748/26748.xml">
 Switzerland</link></country>
 </entry>
@@ -1359,7 +1359,7 @@ Switzerland</link></country>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../148/21148.xml">
@@ -1375,7 +1375,7 @@ Netherlands</link></group>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -1407,7 +1407,7 @@ United Kingdom</link></democracy>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../809/297809.xml">
 Yugoslavia</link></country>
  (later withdrawn)</entry>
@@ -1449,7 +1449,7 @@ Spain</link></group>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../576/576.xml">
 Austria</link></country>
  joined in <fundamental_quantity wordnetid="113575869" confidence="0.8">
@@ -1468,7 +1468,7 @@ Austria</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../809/297809.xml">
 Yugoslavia</link></country>
  left in <fundamental_quantity wordnetid="113575869" confidence="0.8">
@@ -1487,7 +1487,7 @@ Yugoslavia</link></country>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../667/26667.xml">
@@ -1517,7 +1517,7 @@ Spain</link></group>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../033/23033.xml">
 Portugal</link></country>
  joined in <fundamental_quantity wordnetid="113575869" confidence="0.8">
@@ -1536,7 +1536,7 @@ Portugal</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../577/10577.xml">
 Finland</link></country>
  joined in <fundamental_quantity wordnetid="113575869" confidence="0.8">
@@ -1555,7 +1555,7 @@ Finland</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../936/22936.xml">
 Poland</link></country>
  joined in 1991 (together with Finland bringing the number of participating member states to 16)</entry>
@@ -1567,7 +1567,7 @@ Poland</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../275/13275.xml">
 Hungary</link></country>
  joined in <fundamental_quantity wordnetid="113575869" confidence="0.8">
@@ -1586,7 +1586,7 @@ Hungary</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../321/5321.xml">
 Czech Republic</link></country>
  joined in <fundamental_quantity wordnetid="113575869" confidence="0.8">
@@ -1605,7 +1605,7 @@ Czech Republic</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../830/26830.xml">
 Slovakia</link></country>
  joined in 1993 (together with Czechia increasing the total members to 19)</entry>
@@ -1617,7 +1617,7 @@ Slovakia</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../415/3415.xml">
 Bulgaria</link></country>
  joined in <fundamental_quantity wordnetid="113575869" confidence="0.8">
@@ -1662,7 +1662,7 @@ European Commission</link></power>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../533/14533.xml">
 India</link></country>
 </entry>
@@ -1674,7 +1674,7 @@ India</link></country>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../173/9282173.xml">
 Israel</link></country>
 </entry>
@@ -1686,7 +1686,7 @@ Israel</link></country>
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../573/15573.xml">
+ <link xlink:type="simple" xlink:href="../573/15573.xml">
 Japan</link></entry>
 <entry level="1" type="bullet">
 
@@ -1696,7 +1696,7 @@ Japan</link></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../391/25391.xml">
 Russia</link></country>
 </entry>
@@ -1708,7 +1708,7 @@ Russia</link></country>
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../639/11125639.xml">
+ <link xlink:type="simple" xlink:href="../639/11125639.xml">
 Turkey</link></entry>
 <entry level="1" type="bullet">
 
@@ -1732,7 +1732,7 @@ UNESCO</link></agency>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -1925,7 +1925,7 @@ Notes</st>
 <entry level="1" type="bullet">
 
  <cite id="cnote_a">
-<b>^</b></cite>&nbsp;<b>a:</b>&nbsp;The twelve founding member states of CERN in 1954 were: <country wordnetid="108544813" confidence="0.9508927676800064">
+<b>^</b></cite> <b>a:</b> The twelve founding member states of CERN in 1954 were: <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../108/12108.xml">
 Greece</link></country>
 , <region wordnetid="108630985" confidence="0.8">
@@ -2040,7 +2040,7 @@ Let the Proton Smashing Begin. (The Rap Is Already Written.)</weblink>". <it>The
 CERN press release, 7 August 2008</weblink></entry>
 <entry id="10">
  <cite style="font-style:normal">&#32;"<weblink xlink:type="simple" xlink:href="http://bulletin.cern.ch/eng/articles.php?bullno=45/2004&amp;base=art">
-Red Carpet for CERN's 50th</weblink>"&#32;&#32;(Nov. 2004). <it>CERN bulletin</it>.</cite>&nbsp;</entry>
+Red Carpet for CERN's 50th</weblink>"&#32;&#32;(Nov. 2004). <it>CERN bulletin</it>.</cite> </entry>
 <entry id="11">
 <weblink xlink:type="simple" xlink:href="http://www.engadget.com/2008/08/08/cern-rap-video-about-the-large-hadron-collider-creates-a-black-h/">
 http://www.engadget.com/2008/08/08/cern-rap-video-about-the-large-hadron-collider-creates-a-black-h/</weblink></entry>
@@ -2170,7 +2170,7 @@ UA1</link></activity>
 </event>
 </scientific_research>
 </work>
-</it>&nbsp;· <it><work wordnetid="100575741" confidence="0.8">
+</it> · <it><work wordnetid="100575741" confidence="0.8">
 <scientific_research wordnetid="100641820" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <experiment wordnetid="100639556" confidence="0.8">
@@ -2217,7 +2217,7 @@ NA48</link></activity>
 </event>
 </scientific_research>
 </work>
-</it>&nbsp;· <it><work wordnetid="100575741" confidence="0.8">
+</it> · <it><work wordnetid="100575741" confidence="0.8">
 <scientific_research wordnetid="100641820" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <experiment wordnetid="100639556" confidence="0.8">
@@ -2269,9 +2269,9 @@ Large Electron-Positron Collider</link></activity>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <it><link>
-Aleph</link></it>&nbsp;· <it><link>
-Delphi</link></it> &nbsp;· <it><link>
-Opal</link></it>&nbsp;· <it><work wordnetid="100575741" confidence="0.8">
+Aleph</link></it> · <it><link>
+Delphi</link></it>  · <it><link>
+Opal</link></it> · <it><work wordnetid="100575741" confidence="0.8">
 <scientific_research wordnetid="100641820" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <experiment wordnetid="100639556" confidence="0.8">
@@ -2323,7 +2323,7 @@ ATLAS</link></activity>
 </event>
 </scientific_research>
 </work>
-</it>&nbsp;· <it><work wordnetid="100575741" confidence="0.8">
+</it> · <it><work wordnetid="100575741" confidence="0.8">
 <scientific_research wordnetid="100641820" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <experiment wordnetid="100639556" confidence="0.8">
@@ -2342,7 +2342,7 @@ CMS</link></activity>
 </event>
 </scientific_research>
 </work>
-</it>&nbsp;· <it><work wordnetid="100575741" confidence="0.8">
+</it> · <it><work wordnetid="100575741" confidence="0.8">
 <scientific_research wordnetid="100641820" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <experiment wordnetid="100639556" confidence="0.8">
@@ -2361,8 +2361,8 @@ LHCb</link></activity>
 </event>
 </scientific_research>
 </work>
-</it>&nbsp;· <it><link xlink:type="simple" xlink:href="../903/2601903.xml">
-TOTEM</link></it>&nbsp;· <it><work wordnetid="100575741" confidence="0.8">
+</it> · <it><link xlink:type="simple" xlink:href="../903/2601903.xml">
+TOTEM</link></it> · <it><work wordnetid="100575741" confidence="0.8">
 <scientific_research wordnetid="100641820" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <experiment wordnetid="100639556" confidence="0.8">
@@ -2381,7 +2381,7 @@ LHCf</link></activity>
 </event>
 </scientific_research>
 </work>
-</it>&nbsp;· <it><work wordnetid="100575741" confidence="0.8">
+</it> · <it><work wordnetid="100575741" confidence="0.8">
 <scientific_research wordnetid="100641820" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <experiment wordnetid="100639556" confidence="0.8">
@@ -2413,17 +2413,17 @@ ALICE</link></activity>
 Acceleration Structure</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../524/273524.xml">
-p and Pb</link><it>&nbsp;· </it><artifact wordnetid="100021939" confidence="0.8">
+p and Pb</link><it> · </it><artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <link xlink:type="simple" xlink:href="../983/9687983.xml">
 Proton Synchrotron Booster</link></facility>
 </artifact>
-<it>&nbsp;· </it><artifact wordnetid="100021939" confidence="0.8">
+<it> · </it><artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <link xlink:type="simple" xlink:href="../254/2792254.xml">
 Proton Synchrotron</link></facility>
 </artifact>
-<it>&nbsp;· </it><artifact wordnetid="100021939" confidence="0.8">
+<it> · </it><artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <link xlink:type="simple" xlink:href="../298/1239298.xml">
 Super Proton Synchrotron</link></facility>

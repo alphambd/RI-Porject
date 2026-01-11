@@ -82,7 +82,7 @@ character</link></kind>
 </idea>
 s. <link xlink:type="simple" xlink:href="../739/5739.xml">
 Compiled</link> computer programs are typical examples; indeed, compiled applications (<link xlink:type="simple" xlink:href="../307/337307.xml">
-object file</link>s) are sometimes referred to, particularly by programmers, as <b>binaries</b>. But binary files can also contain images, sounds, compressed versions of other files, etc. &mdash; in short, any type of file content whatsoever. </p>
+object file</link>s) are sometimes referred to, particularly by programmers, as <b>binaries</b>. But binary files can also contain images, sounds, compressed versions of other files, etc. — in short, any type of file content whatsoever. </p>
 <p>
 
 Some binary files contain <link xlink:type="simple" xlink:href="../401/472401.xml">
@@ -140,7 +140,7 @@ hex editor</link> or viewer may be used to view file data as a sequence of hexad
 <p>
 
 If a binary file is opened in a <link xlink:type="simple" xlink:href="../310/30310.xml">
-text editor</link>, each group of eight bits will typically be translated as a single character, and you will see a (probably unintelligible) display of textual characters. If the file were opened in some other application, that application will have its own use for each byte: maybe the application will treat each byte as a number and output a stream of numbers between 0 and 255 &mdash; or maybe interpret the numbers in the bytes as colors and display the corresponding picture. If the file is itself treated as an <link xlink:type="simple" xlink:href="../392/217392.xml">
+text editor</link>, each group of eight bits will typically be translated as a single character, and you will see a (probably unintelligible) display of textual characters. If the file were opened in some other application, that application will have its own use for each byte: maybe the application will treat each byte as a number and output a stream of numbers between 0 and 255 — or maybe interpret the numbers in the bytes as colors and display the corresponding picture. If the file is itself treated as an <link xlink:type="simple" xlink:href="../392/217392.xml">
 executable</link> and run, then the operating system will attempt to interpret the file as a series of instructions in its <link xlink:type="simple" xlink:href="../683/20683.xml">
 machine language</link>.</p>
 

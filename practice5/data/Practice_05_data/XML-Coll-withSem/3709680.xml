@@ -434,7 +434,7 @@ the sentence pair can be encoded as an <it>alignment</it> (2, 3, 4, 5, 6, 6, 6) 
  <it>Spuriousness</it>:  we introduce the artifact NULL as a word to represent the probability of tossing in a spurious French word.  Eg.  p1 and its complement will be <it>p''</it></entry>
 </list>
 
-0 = 1&nbsp;−&nbsp;<it>p</it>1.
+0 = 1 − <it>p</it>1.
 <list>
 <entry level="1" type="number">
 
@@ -455,7 +455,7 @@ the sentence pair can be encoded as an <it>alignment</it> (2, 3, 4, 5, 6, 6, 6) 
 \cdot \prod_{j:a_j\not =0}^{m} d(j | a_j,l,m).  \,</math>
 </indent>
 
-For the sake of simplicity in demonstrating an EM algorithm, we shall go through a simple calculation involving only translation probabilities <it>t</it>(), but needless to say that it the method applies to all parameters in their full glory.  Consider the simplified case (1) without the NULL word (2) where  every word has fertility 1 and (3) there are no distortion probabilities.  Our training data corpus will contain two-sentence pairs: <it>bc</it>&nbsp;→&nbsp;<it>xy</it> and <it>b</it>&nbsp;→&nbsp;<it>y</it>.  The translation of a two-word English sentence “b c” into the French sentence “<it>x y</it>” has two possible alignments, and including the one-sentence words, the alignments are:
+For the sake of simplicity in demonstrating an EM algorithm, we shall go through a simple calculation involving only translation probabilities <it>t</it>(), but needless to say that it the method applies to all parameters in their full glory.  Consider the simplified case (1) without the NULL word (2) where  every word has fertility 1 and (3) there are no distortion probabilities.  Our training data corpus will contain two-sentence pairs: <it>bc</it> → <it>xy</it> and <it>b</it> → <it>y</it>.  The translation of a two-word English sentence “b c” into the French sentence “<it>x y</it>” has two possible alignments, and including the one-sentence words, the alignments are:
 b c   b c   b</p>
 </col>
 <col >

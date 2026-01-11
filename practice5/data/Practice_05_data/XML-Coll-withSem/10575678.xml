@@ -77,7 +77,7 @@ Generalizations</st>
 
 Similar problems may be posed for higher dimensional arrays, but their solution is more complicated; see, e.g., <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFTakaoka2002%22])">
 Takaoka (2002)</link>. <link xlink:type="simple" xlink:href="#xpointer(//cite[@id=%22CITEREFBrodalJ=C3=B8rgensen2007%22])">
-Brodal &amp; Jørgensen (2007)</link> showed how to find the <it>k</it> largest subarray sums in a one-dimensional array, in the optimal time bound O(<it>n</it>&nbsp;+&nbsp;<it>k</it>).</p>
+Brodal &amp; Jørgensen (2007)</link> showed how to find the <it>k</it> largest subarray sums in a one-dimensional array, in the optimal time bound O(<it>n</it> + <it>k</it>).</p>
 
 </sec>
 <sec>
@@ -110,7 +110,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F358234.381162">
-10.1145/358234.381162</weblink></cite>&nbsp;.</entry>
+10.1145/358234.381162</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -126,7 +126,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2F978-3-540-74456-6_40">
-10.1007/978-3-540-74456-6_40</weblink></cite>&nbsp;.</entry>
+10.1007/978-3-540-74456-6_40</weblink></cite> .</entry>
 </list>
 </p>
 <p>
@@ -135,7 +135,7 @@ doi</link></writing>
 <entry level="1" type="bullet">
 
  <cite id="CITEREFTakaoka2002" style="font-style:normal">Takaoka, T.&#32;(2002),&#32;"<weblink xlink:type="simple" xlink:href="http://www.cosc.canterbury.ac.nz/tad.takaoka/subarray.ps">
-Efficient algorithms for the maximum subarray problem by distance matrix multiplication</weblink>",&#32;<it>Electronic Notes in Theoretical Compututer Science</it>&#32;<b>61</b>, </cite>&nbsp;.</entry>
+Efficient algorithms for the maximum subarray problem by distance matrix multiplication</weblink>",&#32;<it>Electronic Notes in Theoretical Compututer Science</it>&#32;<b>61</b>, </cite> .</entry>
 </list>
 </p>
 

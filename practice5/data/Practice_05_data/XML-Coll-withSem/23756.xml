@@ -205,7 +205,7 @@ Michael O. Rabin</link></scientist>
 "Super-Exponential Complexity of Presburger Arithmetic.</weblink>" <it>Proceedings of the SIAM-AMS Symposium in Applied Mathematics Vol. 7</it>: 27–41.</entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">G. Nelson and D. C. Oppen&#32;(Apr. 1978).&#32;""A simplifier based on efficient decision algorithms"". <it>Proc. 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages</it>: 141&ndash;150. <document wordnetid="106470073" confidence="0.8">
+ <cite style="font-style:normal">G. Nelson and D. C. Oppen&#32;(Apr. 1978).&#32;""A simplifier based on efficient decision algorithms"". <it>Proc. 5th ACM SIGACT-SIGPLAN symposium on Principles of programming languages</it>: 141–150. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -213,7 +213,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F512760.512775">
-10.1145/512760.512775</weblink>.</cite>&nbsp;</entry>
+10.1145/512760.512775</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
  <link>

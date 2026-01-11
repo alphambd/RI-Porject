@@ -426,7 +426,7 @@ OS expects programs to set a return code which specifies how successful the <it>
 </p>
 <p>
 
-OS JCL refers to the return code as COND ("condition code"), and can use it to decide whether to run subsequent steps.  However, unlike most modern programming languages, conditional steps in OS JCL are <it>not</it> executed if the specified condition is true&mdash;thus giving rise to the <link xlink:type="simple" xlink:href="../411/40411.xml">
+OS JCL refers to the return code as COND ("condition code"), and can use it to decide whether to run subsequent steps.  However, unlike most modern programming languages, conditional steps in OS JCL are <it>not</it> executed if the specified condition is true—thus giving rise to the <link xlink:type="simple" xlink:href="../411/40411.xml">
 mnemonic</link>, "If it's true, pass on through [without running the code]."  To complicate matters further, the condition can only be specified <it>after</it> the step to which it refers.  For example:
 //MYJOB JOB ...........
 //STEP01 EXEC PGM=PROG01

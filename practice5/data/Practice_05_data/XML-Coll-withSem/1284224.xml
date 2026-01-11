@@ -439,7 +439,7 @@ Canny, J., A Computational Approach To Edge Detection, IEEE Trans. Pattern Analy
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">C. Harris and M. Stephens&#32;(1988). "<weblink xlink:type="simple" xlink:href="http://www.csse.uwa.edu.au/~pk/research/matlabfns/Spatial/Docs/Harris/A_Combined_Corner_and_Edge_Detector.pdf">
-A combined corner and edge detector</weblink>".&#32;<it>Proceedings of the 4th Alvey Vision Conference</it>: pages 147--151.</cite>&nbsp;(Harris/Plessey corner detection)</entry>
+A combined corner and edge detector</weblink>".&#32;<it>Proceedings of the 4th Alvey Vision Conference</it>: pages 147--151.</cite> (Harris/Plessey corner detection)</entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">S. M. Smith and J. M. Brady&#32;(May 1997).&#32;"<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/smith95susan.html">
@@ -451,11 +451,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1023%2FA%3A1007963824710">
-10.1023/A:1007963824710</weblink>.</cite>&nbsp;(The SUSAN corner detector)</entry>
+10.1023/A:1007963824710</weblink>.</cite> (The SUSAN corner detector)</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">J. Shi and C. Tomasi&#32;(June 1994). "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/shi94good.html">
-Good Features to Track,</weblink>".&#32;<it>9th IEEE Conference on Computer Vision and Pattern Recognition</it>, Springer.</cite>&nbsp;(The Shi and Tomasi corner detector)</entry>
+Good Features to Track,</weblink>".&#32;<it>9th IEEE Conference on Computer Vision and Pattern Recognition</it>, Springer.</cite> (The Shi and Tomasi corner detector)</entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">M. Trajkovic and M. Hedley&#32;(1998).&#32;"Fast corner detection". <it>Image and Vision Computing</it>&#32;<b>16</b>: 75–87. <document wordnetid="106470073" confidence="0.8">
@@ -466,11 +466,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0262-8856%2897%2900056-5">
-10.1016/S0262-8856(97)00056-5</weblink>.</cite>&nbsp;(The FAST corner detector)</entry>
+10.1016/S0262-8856(97)00056-5</weblink>.</cite> (The FAST corner detector)</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">T. Lindeberg&#32;(1998).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nada.kth.se/cvap/abstracts/cvap198.html">
-Feature detection with automatic scale selection</weblink>"&#32;(abstract). <it>International Journal of Computer Vision</it>&#32;<b>30</b>&#32;(2): pp 77--116.</cite>&nbsp;(Laplacian and determinant of Hessian blob detection as well as automatic scale selection)</entry>
+Feature detection with automatic scale selection</weblink>"&#32;(abstract). <it>International Journal of Computer Vision</it>&#32;<b>30</b>&#32;(2): pp 77--116.</cite> (Laplacian and determinant of Hessian blob detection as well as automatic scale selection)</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">D. Lowe&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/654168.html">
@@ -482,11 +482,11 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1023%2FB%3AVISI.0000029664.99615.94">
-10.1023/B:VISI.0000029664.99615.94</weblink>.</cite>&nbsp;(DOG blob detection with automatic scale selection)</entry>
+10.1023/B:VISI.0000029664.99615.94</weblink>.</cite> (DOG blob detection with automatic scale selection)</entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">J. Matas, O. Chum, M. Urban and T. Pajdla&#32;(2002). "<weblink xlink:type="simple" xlink:href="http://cmp.felk.cvut.cz/~matas/papers/matas-bmvc02.pdf">
-Robust wide baseline stereo from maximally stable extremum regions</weblink>".&#32;<it>British Machine Vision Conference</it>: pp 384-393.</cite>&nbsp;(The MSER blob detector)</entry>
+Robust wide baseline stereo from maximally stable extremum regions</weblink>".&#32;<it>British Machine Vision Conference</it>: pp 384-393.</cite> (The MSER blob detector)</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">T. Lindeberg&#32;(1993).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nada.kth.se/~tony/abstracts/Lin92-IJCV.html">
@@ -498,7 +498,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF01469346">
-10.1007/BF01469346</weblink>.</cite>&nbsp;(Grey-level blob detection and scale-space blobs)</entry>
+10.1007/BF01469346</weblink>.</cite> (Grey-level blob detection and scale-space blobs)</entry>
 <entry level="1" type="bullet">
 
 R. Haralick, "Ridges and Valleys on Digital Images," Computer Vision, Graphics, and Image Processing vol. 22, no. 10, pp. 28-38, Apr. 1983. (Ridge detection using facet model)</entry>
@@ -519,7 +519,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1023%2FA%3A1008097225773">
-10.1023/A:1008097225773</weblink>.</cite>&nbsp;(Ridge detection with automatic scale selection)</entry>
+10.1023/A:1008097225773</weblink>.</cite> (Ridge detection with automatic scale selection)</entry>
 </list>
 </p>
 

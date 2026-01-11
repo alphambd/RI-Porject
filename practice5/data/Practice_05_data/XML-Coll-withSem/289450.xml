@@ -44,7 +44,7 @@ Laplace</link> solved this problem for the case of rational functions, as he sho
 <p>
 
 <link xlink:type="simple" xlink:href="../810/341810.xml">
-Liouville</link> formulated the problem solved by the Risch algorithm.   Liouville proved by analytical means that if there is an elementary solution <it>g</it> to the equation <it>g</it>&nbsp;&amp;prime; = <it>f</it> then for constants α<it>i</it> and elementary functions <it>ui</it> and <it>v</it> the solution is of the form</p>
+Liouville</link> formulated the problem solved by the Risch algorithm.   Liouville proved by analytical means that if there is an elementary solution <it>g</it> to the equation <it>g</it> &amp;prime; = <it>f</it> then for constants α<it>i</it> and elementary functions <it>ui</it> and <it>v</it> the solution is of the form</p>
 <p>
 
 <indent level="1">
@@ -223,7 +223,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F1995313">
-10.2307/1995313</weblink>.</cite>&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ams.org/bull/1970-76-03/S0002-9904-1970-12455-7/S0002-9904-1970-12455-7.pdf">
+10.2307/1995313</weblink>.</cite> <weblink xlink:type="simple" xlink:href="http://www.ams.org/bull/1970-76-03/S0002-9904-1970-12455-7/S0002-9904-1970-12455-7.pdf">
 http://www.ams.org/bull/1970-76-03/S0002-9904-1970-12455-7/S0002-9904-1970-12455-7.pdf</weblink></entry>
 <entry level="1" type="bullet">
 
@@ -235,13 +235,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2318066">
-10.2307/2318066</weblink>.</cite>&nbsp;</entry>
+10.2307/2318066</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Geddes, Czapor, Labahn&#32;(1992). Algorithms for Computer Algebra.&#32;Kluwer Academic Publishers. ISBN 0-7923-9259-0.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Geddes, Czapor, Labahn&#32;(1992). Algorithms for Computer Algebra.&#32;Kluwer Academic Publishers. ISBN 0-7923-9259-0.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Manuel Bronstein&#32;(2005). Symbolic Integration I.&#32;Springer. ISBN 3-540-21493-3.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Manuel Bronstein&#32;(2005). Symbolic Integration I.&#32;Springer. ISBN 3-540-21493-3.</cite> </entry>
 <entry level="1" type="bullet">
 
  Manuel Bronstein&#32;(1998).&#32;"<it><weblink xlink:type="simple" xlink:href="http://www-sop.inria.fr/cafe/Manuel.Bronstein/publications/issac98.pdf">

@@ -105,7 +105,7 @@ Weaknesses</st>
 </p>
 <p>
 
-The first weakness, increased storage, is a direct consequence of the requirement that all component classifiers, instead of a single classifier, need to be stored after training. The total storage depends on the size of each component classifier itself and the size of the ensemble (number of classifiers in the ensemble). The second weakness is increased computation: to classify an input query, all component classifiers (instead of a single classifier) must be processed, and thus it requires more execution time. The last weakness is decreased comprehensibility. With involvement of multiple classifiers in decision-making, it is more difficult for users to perceive the underlying reasoning process leading to a decision.&#91;&#32; &ndash; &#93;</p>
+The first weakness, increased storage, is a direct consequence of the requirement that all component classifiers, instead of a single classifier, need to be stored after training. The total storage depends on the size of each component classifier itself and the size of the ensemble (number of classifiers in the ensemble). The second weakness is increased computation: to classify an input query, all component classifiers (instead of a single classifier) must be processed, and thus it requires more execution time. The last weakness is decreased comprehensibility. With involvement of multiple classifiers in decision-making, it is more difficult for users to perceive the underlying reasoning process leading to a decision.&#91;&#32; – &#93;</p>
 
 </ss1>
 <ss1>

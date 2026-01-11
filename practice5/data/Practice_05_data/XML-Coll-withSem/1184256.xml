@@ -59,7 +59,7 @@ The cards are dealt one by one into a sequence of piles on the table, according 
 </p>
 <p>
 
-The object of the game is to finish with as few piles as possible. D.&nbsp;Aldous and P.&nbsp;Diaconis<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> suggest defining 9 or fewer piles as a winning outcome for <math>n = 52</math>, which has approximately 5% chance to happen.</p>
+The object of the game is to finish with as few piles as possible. D. Aldous and P. Diaconis<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> suggest defining 9 or fewer piles as a winning outcome for <math>n = 52</math>, which has approximately 5% chance to happen.</p>
 
 </sec>
 <sec>
@@ -96,7 +96,7 @@ Complexity</st>
 
 If values of cards are in the range <math>1, \ldots, n</math>, there is an efficient implementation with <math>O(n \cdot \log \log n)</math> <link xlink:type="simple" xlink:href="../956/37956.xml">
 worst-case</link> running time for putting the cards into piles (which makes the worst case for a complete sort <math>O(n \log n)</math>) and <math>O(n)</math> space spent for supporting structures, relying on a <link xlink:type="simple" xlink:href="../425/1189425.xml">
-van Emde Boas tree</link>. A description is given in the work by S.&nbsp;Bespamyatnikh and M.&nbsp;Segal.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></p>
+van Emde Boas tree</link>. A description is given in the work by S. Bespamyatnikh and M. Segal.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></p>
 <p>
 
 When no assumption is made about values, the greedy strategy can be implemented in <math>O(n \log n)</math> comparisons in worst case. In fact, one can implement it with an array of <link xlink:type="simple" xlink:href="../993/273993.xml">
@@ -116,7 +116,7 @@ First, execute the sorting algorithm as described above. The resulting number of
 pointer</link> to the top card in the previous pile (that, by assumption, has a lower value than the new card has). In the end, follow the back-pointers from the top card in the last pile to recover a decreasing subsequence of the longest length; its reverse is an answer to the longest increasing subsequence algorithm.</p>
 <p>
 
-S.&nbsp;Bespamyatnikh and M.&nbsp;Segal,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> give a description of an efficient implementation of the algorithm, incurring no additional <link xlink:type="simple" xlink:href="../503/3469503.xml">
+S. Bespamyatnikh and M. Segal,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> give a description of an efficient implementation of the algorithm, incurring no additional <link xlink:type="simple" xlink:href="../503/3469503.xml">
 asymptotic</link> cost over the sorting one (as the back-pointers storage, creation and traversal require linear time and space). They further show how to report <it>all</it> the longest increasing subsequences from the same resulting <link xlink:type="simple" xlink:href="../519/8519.xml">
 data structure</link>s.</p>
 
@@ -126,7 +126,7 @@ data structure</link>s.</p>
 History</st>
 <p>
 
-According to D.&nbsp;Aldous and P.&nbsp;Diaconis,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> patience sorting was first recognized as an algorithm to compute the longest increasing subsequence length by Hammersley,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> and by A.S.C.&nbsp;Ross and independently <link xlink:type="simple" xlink:href="../900/301900.xml">
+According to D. Aldous and P. Diaconis,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref> patience sorting was first recognized as an algorithm to compute the longest increasing subsequence length by Hammersley,<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> and by A.S.C. Ross and independently <link xlink:type="simple" xlink:href="../900/301900.xml">
 Bob Floyd</link> as a sorting algorithm. Initial analysis was done by Mallows.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></p>
 
 </sec>
@@ -145,7 +145,7 @@ External links</st>
 <entry level="1" type="bullet">
 
 The <link xlink:type="simple" xlink:href="../457/5966457.xml">
-Bazaar</link> version control system &mdash; uses the patience sorting algorithm for merge resolution <weblink xlink:type="simple" xlink:href="http://revctrl.org/PreciseCodevilleMerge">
+Bazaar</link> version control system — uses the patience sorting algorithm for merge resolution <weblink xlink:type="simple" xlink:href="http://revctrl.org/PreciseCodevilleMerge">
 http://revctrl.org/PreciseCodevilleMerge</weblink>.</entry>
 </list>
 </p>
@@ -210,15 +210,15 @@ Persi Diaconis</link></entertainer>
 </peer>
 </physical_entity>
 . <weblink xlink:type="simple" xlink:href="http://www-stat.stanford.edu/~cgates/PERSI/year.html#99">
-Longest increasing subsequences: from patience sorting to the Baik-Deift-Johansson theorem.</weblink> <it>Bull.&nbsp;(new series) of the Amer.&nbsp;Math.&nbsp;Society, Volume&nbsp;36</it>, number&nbsp;4, pages&nbsp;413&ndash;432, p.414</entry>
+Longest increasing subsequences: from patience sorting to the Baik-Deift-Johansson theorem.</weblink> <it>Bull. (new series) of the Amer. Math. Society, Volume 36</it>, number 4, pages 413–432, p.414</entry>
 <entry id="2">
 Sergei Bespamyatnikh and Michael Segal. <weblink xlink:type="simple" xlink:href="http://www.pims.math.ca/publications/preprints/bespamyatnikh-segal_6-12-99.ps.gz">
-Enumerating Longest Increasing Subsequences and Patience Sorting.</weblink> <it>Pacific Inst.&nbsp;for the Math.&nbsp;Sci.&nbsp;Preprints</it>, PIMS-99-3., pp.7&ndash;8</entry>
+Enumerating Longest Increasing Subsequences and Patience Sorting.</weblink> <it>Pacific Inst. for the Math. Sci. Preprints</it>, PIMS-99-3., pp.7–8</entry>
 <entry id="3">
 <link xlink:type="simple" xlink:href="../531/656531.xml">
-J.M.&nbsp;Hammersley</link>. A few seedlings of research. In <it>Proc.&nbsp;Sixth Berkeley Symp.&nbsp;Math.&nbsp;Statist.&nbsp;and Probability, Volume&nbsp;1</it>, pages 345&ndash;394. University of California Press,&nbsp;1972. MR <b>53</b>:9457, p.362</entry>
+J.M. Hammersley</link>. A few seedlings of research. In <it>Proc. Sixth Berkeley Symp. Math. Statist. and Probability, Volume 1</it>, pages 345–394. University of California Press, 1972. MR <b>53</b>:9457, p.362</entry>
 <entry id="4">
-C.L.&nbsp;Mallows. Patience sorting. <it>Bull.&nbsp;Inst.&nbsp;Math.&nbsp;Appl.</it>, 9:216&ndash;224,&nbsp;1973.</entry>
+C.L. Mallows. Patience sorting. <it>Bull. Inst. Math. Appl.</it>, 9:216–224, 1973.</entry>
 </reflist>
 </p>
 

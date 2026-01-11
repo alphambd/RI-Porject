@@ -24,7 +24,7 @@
 <name>Infobox Company</name>
 <parameters>
 <location>
-&nbsp;(incorporated in <link xlink:type="simple" xlink:href="../933/8933.xml">
+ (incorporated in <link xlink:type="simple" xlink:href="../933/8933.xml">
 Delaware</link>)</location>
 <company_type>
 <link xlink:type="simple" xlink:href="../485/7485.xml">
@@ -63,7 +63,7 @@ TopCoder logo.gif
 <p>
 
 <b>TopCoder</b> is a company which administers contests in <link xlink:type="simple" xlink:href="../311/5311.xml">
-computer programming</link>.  TopCoder hosts weekly online algorithm competitions &mdash; known as SRMs or "single round matches" &mdash; as well as weekly competitions in design and development.  The work in design and development produces useful software which is licensed for profit by TopCoder.  Competitors involved in the creation of these components are paid royalties based on these sales.  The software resulting from algorithm competitions &mdash; and the less-frequent marathon matches &mdash; is not usually directly useful, but sponsor companies sometimes provide money to pay the victors.  Statistics (including an overall "rating" for each developer) are tracked over time for competitors in each category.</p>
+computer programming</link>.  TopCoder hosts weekly online algorithm competitions — known as SRMs or "single round matches" — as well as weekly competitions in design and development.  The work in design and development produces useful software which is licensed for profit by TopCoder.  Competitors involved in the creation of these components are paid royalties based on these sales.  The software resulting from algorithm competitions — and the less-frequent marathon matches — is not usually directly useful, but sponsor companies sometimes provide money to pay the victors.  Statistics (including an overall "rating" for each developer) are tracked over time for competitors in each category.</p>
 
 <sec>
 <st>

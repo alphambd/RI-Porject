@@ -151,7 +151,7 @@ Vincent van Gogh</link></artist>
 <link xlink:type="simple" xlink:href="../603/32603.xml">
 Biography</link></artist>
 </person>
-&nbsp;· <record wordnetid="106647206" confidence="0.8">
+ · <record wordnetid="106647206" confidence="0.8">
 <chronology wordnetid="106503224" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
@@ -164,16 +164,16 @@ Chronology</link></written_record>
 </indication>
 </chronology>
 </record>
-&nbsp;· <link xlink:type="simple" xlink:href="../420/5555420.xml">
-Medical condition</link>&nbsp;· <link xlink:type="simple" xlink:href="../860/6249860.xml">
-Posthumous fame</link>&nbsp;· <representation wordnetid="105926676" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../420/5555420.xml">
+Medical condition</link> · <link xlink:type="simple" xlink:href="../860/6249860.xml">
+Posthumous fame</link> · <representation wordnetid="105926676" confidence="0.8">
 <link xlink:type="simple" xlink:href="../015/7529015.xml">
 Cultural depictions</link></representation>
-&nbsp;· <link xlink:type="simple" xlink:href="../363/6176363.xml">
-List of works</link>&nbsp;· <painting wordnetid="103876519" confidence="0.9508927676800064">
+ · <link xlink:type="simple" xlink:href="../363/6176363.xml">
+List of works</link> · <painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../601/164601.xml">
 Post-Impressionism</link></painting>
-&nbsp;·</col>
+ ·</col>
 </row>
 <row style="height:2px">
 
@@ -207,7 +207,7 @@ Anthon van Rappard</link></creator>
 </causal_agent>
 </person>
 </physical_entity>
-&nbsp;· <physical_entity wordnetid="100001930" confidence="0.8">
+ · <physical_entity wordnetid="100001930" confidence="0.8">
 <collector wordnetid="109936620" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -222,11 +222,11 @@ Paul Gachet</link></creator>
 </person>
 </collector>
 </physical_entity>
-&nbsp;· <artist wordnetid="109812338" confidence="0.9508927676800064">
+ · <artist wordnetid="109812338" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/64719.xml">
 Paul Gauguin</link></artist>
-&nbsp;· <link>
-Émile Bernard</link>&nbsp;· <physical_entity wordnetid="100001930" confidence="0.8">
+ · <link>
+Émile Bernard</link> · <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <artist wordnetid="109812338" confidence="0.8">
@@ -247,7 +247,7 @@ John Peter Russell</link></creator>
 <b>Groups of works</b></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../765/1080765.xml">
-Self-Portraits</link>&nbsp;· <creation wordnetid="103129123" confidence="0.8">
+Self-Portraits</link> · <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <art wordnetid="102743547" confidence="0.8">
 <painting wordnetid="103876519" confidence="0.8">
@@ -258,18 +258,18 @@ Portraits</link></graphic_art>
 </art>
 </artifact>
 </creation>
-&nbsp;· <painting wordnetid="103876519" confidence="0.9508927676800064">
+ · <painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../128/6468128.xml">
 Flowering Orchards</link></painting>
-&nbsp;· <link>
-The Décoration for the Yellow House</link>&nbsp;· <painting wordnetid="103876519" confidence="0.9508927676800064">
+ · <link>
+The Décoration for the Yellow House</link> · <painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../097/6397097.xml">
 The Roulin Family</link></painting>
-&nbsp;· <painting wordnetid="103876519" confidence="0.9508927676800064">
+ · <painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../904/6506904.xml">
 The Wheat Field</link></painting>
-&nbsp;· <link xlink:type="simple" xlink:href="../070/6419070.xml">
-Copies after Millet, and others</link>&nbsp;· <creation wordnetid="103129123" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../070/6419070.xml">
+Copies after Millet, and others</link> · <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <art wordnetid="102743547" confidence="0.8">
 <painting wordnetid="103876519" confidence="0.8">
@@ -280,7 +280,7 @@ Display at Les XX, 1890</link></graphic_art>
 </art>
 </artifact>
 </creation>
-&nbsp;· <creation wordnetid="103129123" confidence="0.8">
+ · <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <art wordnetid="102743547" confidence="0.8">
 <painting wordnetid="103876519" confidence="0.8">
@@ -291,7 +291,7 @@ Auvers size 30 canvases</link></graphic_art>
 </art>
 </artifact>
 </creation>
-&nbsp;· <link xlink:type="simple" xlink:href="../787/6422787.xml">
+ · <link xlink:type="simple" xlink:href="../787/6422787.xml">
 Auvers <it>Double-squares</it> and <it>Squares''</it></link></col>
 </row>
 <row style="height:2px">
@@ -304,7 +304,7 @@ Auvers <it>Double-squares</it> and <it>Squares''</it></link></col>
 <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../185/1080185.xml">
 The Potato Eaters</link></painting>
-</it>&nbsp;· <creation wordnetid="103129123" confidence="0.8">
+</it> · <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <art wordnetid="102743547" confidence="0.8">
 <painting wordnetid="103876519" confidence="0.8">
@@ -315,32 +315,32 @@ The Potato Eaters</link></painting>
 </art>
 </artifact>
 </creation>
-&nbsp;· <it><link>
-The Night Café</link></it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+ · <it><link>
+The Night Café</link></it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../348/5204348.xml">
 The Yellow House</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../611/1352611.xml">
 Cafe Terrace at Night</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../689/1878689.xml">
 Starry Night Over the Rhone</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../712/2096712.xml">
 The Bedroom</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../600/459600.xml">
 The Red Vineyard</link></painting>
-</it>&nbsp;· <painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../814/6626814.xml">
 <it>Ivy''</it></link></painting>
-&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+ · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../370/1115370.xml">
 The Starry Night</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../519/6418519.xml">
 At Eternity's Gate</link></painting>
-</it>&nbsp;· <it><creation wordnetid="103129123" confidence="0.8">
+</it> · <it><creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <art wordnetid="102743547" confidence="0.8">
 <painting wordnetid="103876519" confidence="0.8">
@@ -351,19 +351,19 @@ Irises</link></graphic_art>
 </art>
 </artifact>
 </creation>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../597/1080597.xml">
 Portrait of Dr. Gachet</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../221/2018221.xml">
 The Church at Auvers</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/1567642.xml">
 Wheat Field with Crows</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../067/6436067.xml">
 Daubigny's Garden</link></painting>
-</it>&nbsp;· <it><painting wordnetid="103876519" confidence="0.9508927676800064">
+</it> · <it><painting wordnetid="103876519" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../267/5316267.xml">
 Thatched Cottages by a Hill</link></painting>
 ''</it></col>
@@ -376,7 +376,7 @@ Thatched Cottages by a Hill</link></painting>
 Other works</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../283/16042283.xml">
-Drawings and water-colours</link>&nbsp;· <link>
+Drawings and water-colours</link> · <link>
 Prints</link></col>
 </row>
 <row style="height:2px">
@@ -389,8 +389,8 @@ Public collections</col>
 <museum wordnetid="103800563" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../508/155508.xml">
 Van Gogh Museum</link></museum>
-&nbsp;· <link>
-Kröller-Müller Museum</link>&nbsp;· <link>
+ · <link>
+Kröller-Müller Museum</link> · <link>
 Musée d'Orsay</link></col>
 </row>
 <row style="height:2px">
@@ -402,18 +402,18 @@ Wikimedia</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <image width="18x18px" src="Wiktionary-logo-en.svg">
 </image>
-&nbsp; at Wiktionary &nbsp;·  <image width="18x18px" src="Wikibooks-logo.svg">
+  at Wiktionary  ·  <image width="18x18px" src="Wikibooks-logo.svg">
 </image>
-&nbsp; at Wikibooks &nbsp;·  <image width="18x18px" src="Wikiquote-logo.svg">
+  at Wikibooks  ·  <image width="18x18px" src="Wikiquote-logo.svg">
 </image>
-&nbsp; at Wikiquote &nbsp;· 
+  at Wikiquote  · 
 <image width="18x18px" src="Wikisource-logo.svg">
 </image>
-&nbsp; at Wikisource &nbsp;·  <image width="18x18px" src="Commons-logo.svg">
+  at Wikisource  ·  <image width="18x18px" src="Commons-logo.svg">
 </image>
-&nbsp; at Commons &nbsp;·  <image width="18x18px" src="Wikinews-logo.svg">
+  at Commons  ·  <image width="18x18px" src="Wikinews-logo.svg">
 </image>
-&nbsp;at Wikinews</col>
+ at Wikinews</col>
 </row>
 </table>
 </col>

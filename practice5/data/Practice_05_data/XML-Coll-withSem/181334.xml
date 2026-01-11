@@ -45,7 +45,7 @@ Discrete logarithms are perhaps simplest to understand in the group <group wordn
 <link xlink:type="simple" xlink:href="../234/1195234.xml">
 (<b>Z</b><it>p</it>)&amp;times;</link></group>
 . This is the set of <link>
-congruence classes</link> {1,&nbsp;&amp;hellip;,&nbsp;<it>p</it>&nbsp;&amp;minus;&nbsp;1} under multiplication <link xlink:type="simple" xlink:href="../087/20087.xml">
+congruence classes</link> {1, &amp;hellip;, <it>p</it> &amp;minus; 1} under multiplication <link xlink:type="simple" xlink:href="../087/20087.xml">
 modulo</link> the <link xlink:type="simple" xlink:href="../666/23666.xml">
 prime</link> <it>p</it>.</p>
 <p>
@@ -66,7 +66,7 @@ order</link> of 3 in (<b>Z</b>17)&amp;times;, these are the only solutions. Equi
 
 In general, let <it>G</it> be a finite <link xlink:type="simple" xlink:href="../327/52327.xml">
 cyclic group</link> with <it>n</it> elements. We assume that the group is written multiplicatively. Let <it>b</it> be a <link xlink:type="simple" xlink:href="../945/99945.xml">
-generator</link> of <it>G</it>; then every element <it>g</it> of <it>G</it> can be written in the form <it>g</it>&nbsp;=&nbsp;<it>bk</it> for some integer <it>k</it>. Furthermore, any two such integers representing <it>g</it> will be congruent <link xlink:type="simple" xlink:href="../087/20087.xml">
+generator</link> of <it>G</it>; then every element <it>g</it> of <it>G</it> can be written in the form <it>g</it> = <it>bk</it> for some integer <it>k</it>. Furthermore, any two such integers representing <it>g</it> will be congruent <link xlink:type="simple" xlink:href="../087/20087.xml">
 modulo</link> <it>n</it>. We can thus define a function</p>
 <p>
 

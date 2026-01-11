@@ -352,7 +352,7 @@ References</st>
 <reflist>
 <entry id="1">
 BUGS, <weblink xlink:type="simple" xlink:href="http://linux.die.net/man/2/pselect">
-pselect(2)</weblink>&#58;&nbsp;synchronous I/O multiplexing&nbsp;–&nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+pselect(2)</weblink>&#58; synchronous I/O multiplexing – <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
  <link xlink:type="simple" xlink:href="../332/85332.xml">

@@ -67,7 +67,7 @@ Ted Nelson</link></scientist>
 <image location="right" width="150px" src="HypertextEditingSystemConsoleBrownUniv1969.jpg" type="thumb">
 <caption>
 
-Hypertext Editing System (HES) IBM 2250 Display console&nbsp;– Brown University 1969
+Hypertext Editing System (HES) IBM 2250 Display console – Brown University 1969
 </caption>
 </image>
 </p>
@@ -122,7 +122,7 @@ The problems of file management for multiple interactive users will be tackled.<
 Within the contained text it will be possible for the user to designate string attributes, either by lightpenning or typing. Through existing programs, the user may have the text searched on Boolean retrieval functions of attributes or in-line key words (such as "all sections of text concerned with or mentioning dogs or cats, but not hamsters"). Indices and KWIC indices of these keywords and their positions may then be produced automatically (also through existing programs).</entry>
 <entry level="1" type="number">
 
-Attributes may also be assigned by the user to annotations and to labels. Attributes assigned to tags will either be permanently defined within the system &mdash; such as "bibliography" and "this text is a quotation" tags" &mdash; or defined by the user. The system-defined tag attributes may communicate with other programs such as a "set up bibliography" program). All tags may be listed and indexed by attributes.New facilities will be added to provide automatic steering or routing through a hypertext on the screen, or automatic sequence selection during printout. The user would specify which alternative is to be taken by instructions such as "take the happy alternative, when it exists." This would correspond to Bush's trails, and Engelbart's trail markers.</entry>
+Attributes may also be assigned by the user to annotations and to labels. Attributes assigned to tags will either be permanently defined within the system — such as "bibliography" and "this text is a quotation" tags" — or defined by the user. The system-defined tag attributes may communicate with other programs such as a "set up bibliography" program). All tags may be listed and indexed by attributes.New facilities will be added to provide automatic steering or routing through a hypertext on the screen, or automatic sequence selection during printout. The user would specify which alternative is to be taken by instructions such as "take the happy alternative, when it exists." This would correspond to Bush's trails, and Engelbart's trail markers.</entry>
 <entry level="1" type="number">
 
 A number of other facilities will simplify and clarify the user's work. Multiple "windows" may be created on the screen, permitting the user to see and work on several parts of his text complex at once, for example letting him copy a text string from one area to another, with both in view.Since it is rather easy to get lost in a complex hypertext, we plan to look into displaying its graph structure in a variety of ways. A parts graph may be drawn for the simple case, but how does one display several hundred cross links in one area?</entry>
@@ -167,7 +167,7 @@ In the long term, the prospect is that systems like ours and SRI's and their suc
 <entry level="1" type="bullet">
 
 Carmody, Steven; Gross, Walter; Nelson, Theodor H.; Rice, David; van Dam, Andries  (<link xlink:type="simple" xlink:href="../610/34610.xml">
-1969</link>, April) <it>A Hypertext Editing System for the /360</it>, Center for Computer &amp; Information Sciences, Brown University, Providence, Rhode Island, File Number HES360-0, Form AVD-6903-0, pages 26&ndash;27 </entry>
+1969</link>, April) <it>A Hypertext Editing System for the /360</it>, Center for Computer &amp; Information Sciences, Brown University, Providence, Rhode Island, File Number HES360-0, Form AVD-6903-0, pages 26–27 </entry>
 <entry level="1" type="bullet">
 
 van Dam, Andries. (<link xlink:type="simple" xlink:href="../670/34670.xml">
@@ -185,7 +185,7 @@ Communications of the ACM</link></publication>
 </creation>
 </product>
 </work>
-</it>, 31, 887&ndash;895.</entry>
+</it>, 31, 887–895.</entry>
 </list>
 </p>
 

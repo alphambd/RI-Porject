@@ -56,9 +56,9 @@ KIAA1012</weblink>; HsT2706; MGC71660</col>
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
   <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2443008">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2443008">
 2443008</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=40993">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=40993">
 40993</weblink></col>
 </row>
 
@@ -222,7 +222,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.4039406">
-10.1101/gr.4039406</weblink>. PMID 16344560.</cite>&nbsp;</entry>
+10.1101/gr.4039406</weblink>. PMID 16344560.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ballif BA, Villén J, Beausoleil SA, et al.&#32;(2005).&#32;"Phosphoproteomic analysis of the developing mouse brain.". <it>Mol. Cell Proteomics</it>&#32;<b>3</b>&#32;(11): 1093–101. <document wordnetid="106470073" confidence="0.8">
@@ -233,7 +233,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fmcp.M400085-MCP200">
-10.1074/mcp.M400085-MCP200</weblink>. PMID 15345747.</cite>&nbsp;</entry>
+10.1074/mcp.M400085-MCP200</weblink>. PMID 15345747.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ota T, Suzuki Y, Nishikawa T, et al.&#32;(2004).&#32;"Complete sequencing and characterization of 21,243 full-length human cDNAs.". <it>Nat. Genet.</it>&#32;<b>36</b>&#32;(1): 40–5. <document wordnetid="106470073" confidence="0.8">
@@ -244,7 +244,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fng1285">
-10.1038/ng1285</weblink>. PMID 14702039.</cite>&nbsp;</entry>
+10.1038/ng1285</weblink>. PMID 14702039.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -255,7 +255,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Gavin AC, Bösche M, Krause R, et al.&#32;(2002).&#32;"Functional organization of the yeast proteome by systematic analysis of protein complexes.". <it>Nature</it>&#32;<b>415</b>&#32;(6868): 141–7. <document wordnetid="106470073" confidence="0.8">
@@ -266,7 +266,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2F415141a">
-10.1038/415141a</weblink>. PMID 11805826.</cite>&nbsp;</entry>
+10.1038/415141a</weblink>. PMID 11805826.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Wiemann S, Weil B, Wellenreuther R, et al.&#32;(2001).&#32;"Toward a catalog of human genes and proteins: sequencing and analysis of 500 novel complete protein coding human cDNAs.". <it>Genome Res.</it>&#32;<b>11</b>&#32;(3): 422–35. <document wordnetid="106470073" confidence="0.8">
@@ -277,13 +277,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.154701">
-10.1101/gr.154701</weblink>. PMID 11230166.</cite>&nbsp;</entry>
+10.1101/gr.154701</weblink>. PMID 11230166.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Sacher M, Barrowman J, Schieltz D, et al.&#32;(2000).&#32;"Identification and characterization of five new subunits of TRAPP.". <it>Eur. J. Cell Biol.</it>&#32;<b>79</b>&#32;(2): 71–80. PMID 10727015.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Sacher M, Barrowman J, Schieltz D, et al.&#32;(2000).&#32;"Identification and characterization of five new subunits of TRAPP.". <it>Eur. J. Cell Biol.</it>&#32;<b>79</b>&#32;(2): 71–80. PMID 10727015.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Nagase T, Ishikawa K, Suyama M, et al.&#32;(1999).&#32;"Prediction of the coding sequences of unidentified human genes. XIII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.". <it>DNA Res.</it>&#32;<b>6</b>&#32;(1): 63–70. PMID 10231032.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Nagase T, Ishikawa K, Suyama M, et al.&#32;(1999).&#32;"Prediction of the coding sequences of unidentified human genes. XIII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.". <it>DNA Res.</it>&#32;<b>6</b>&#32;(1): 63–70. PMID 10231032.</cite> </entry>
 </list>
 </p>
 

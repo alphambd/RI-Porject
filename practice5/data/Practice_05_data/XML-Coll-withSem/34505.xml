@@ -329,7 +329,7 @@ Zork I</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it> &nbsp;·  <it><result wordnetid="107292694" confidence="0.8">
+</it>  ·  <it><result wordnetid="107292694" confidence="0.8">
 <happening wordnetid="107283608" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -348,7 +348,7 @@ Zork II</link></ending>
 </event>
 </happening>
 </result>
-</it> &nbsp;·  <it><result wordnetid="107292694" confidence="0.8">
+</it>  ·  <it><result wordnetid="107292694" confidence="0.8">
 <happening wordnetid="107283608" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -367,7 +367,7 @@ Zork III</link></ending>
 </event>
 </happening>
 </result>
-</it> &nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it>  ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -378,7 +378,7 @@ Beyond Zork</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it> &nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it>  ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -399,8 +399,8 @@ Zork Zero</link></psychological_feature>
 Enchanter trilogy</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <it><link xlink:type="simple" xlink:href="../931/983931.xml">
-Enchanter</link></it> &nbsp;·  <it><link xlink:type="simple" xlink:href="../025/1667025.xml">
-Sorcerer</link></it> &nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+Enchanter</link></it>  ·  <it><link xlink:type="simple" xlink:href="../025/1667025.xml">
+Sorcerer</link></it>  ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -431,7 +431,7 @@ Wishbringer</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it> &nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it>  ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -442,7 +442,7 @@ The Lost Treasures of Infocom</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it> &nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it>  ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -453,8 +453,8 @@ Return to Zork</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it> &nbsp;·  <it><link xlink:type="simple" xlink:href="../304/1048304.xml">
-Zork Nemesis</link></it> &nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it>  ·  <it><link xlink:type="simple" xlink:href="../304/1048304.xml">
+Zork Nemesis</link></it>  ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -465,7 +465,7 @@ Classic Text Adventure Masterpieces of Infocom</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it> &nbsp;·   &nbsp;·  <it>''</it></col>
+</it>  ·    ·  <it>''</it></col>
 </row>
 <row style="height:2px">
 
@@ -477,10 +477,10 @@ Companies</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../788/14788.xml">
 Infocom</link></company>
- &nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+  ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../299/38299.xml">
 Activision</link></company>
- &nbsp;·  <company wordnetid="108058098" confidence="0.8">
+  ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../627/3748627.xml">
 FrobozzCo International</link></institution>
@@ -507,8 +507,8 @@ Z-machine</link></machine>
 </engine>
 </instrumentality>
 </artifact>
- &nbsp;·  <link xlink:type="simple" xlink:href="../890/871890.xml">
-AFGNCAAP</link> &nbsp;·  <literary_composition wordnetid="106364329" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../890/871890.xml">
+AFGNCAAP</link>  ·  <literary_composition wordnetid="106364329" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <fiction wordnetid="106367107" confidence="0.8">
@@ -519,8 +519,8 @@ Zork books</link></novel>
 </writing>
 </written_communication>
 </literary_composition>
- &nbsp;·  <link xlink:type="simple" xlink:href="../919/545919.xml">
-69,105</link> &nbsp;·  <form wordnetid="106290637" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../919/545919.xml">
+69,105</link>  ·  <form wordnetid="106290637" confidence="0.8">
 <word wordnetid="106286395" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <language_unit wordnetid="106284225" confidence="0.8">
@@ -529,11 +529,11 @@ Grue</link></language_unit>
 </part>
 </word>
 </form>
- &nbsp;·  <family wordnetid="108078020" confidence="0.8">
+  ·  <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../737/3745737.xml">
 The Twelve Flatheads</link></family>
- &nbsp;·  <link xlink:type="simple" xlink:href="../733/3748733.xml">
-Hello, sailor</link> &nbsp;·  <link xlink:type="simple" xlink:href="../861/3769861.xml">
+  ·  <link xlink:type="simple" xlink:href="../733/3748733.xml">
+Hello, sailor</link>  ·  <link xlink:type="simple" xlink:href="../861/3769861.xml">
 Implementer</link></col>
 </row>
 </table>

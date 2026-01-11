@@ -17443,7 +17443,7 @@ References</st>
 2007</link>). <it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../010/359010.xml">
 Doctor Who Magazine</link></magazine>
-</it>&#32;(386): 4.</cite>&nbsp;</entry>
+</it>&#32;(386): 4.</cite> </entry>
 <entry id="2">
 <weblink xlink:type="simple" xlink:href="http://www.bbc.co.uk/bbcone/listings/programme.shtml?day=saturday&amp;service_id=4223&amp;filename=20080628/20080628_1910_4223_8739_50">
 "The Stolen Earth" credits</weblink> - <network wordnetid="108434259" confidence="0.9508927676800064">
@@ -17501,7 +17501,7 @@ The Doctor</link></doctor>
 </overlord>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <buddy wordnetid="109877951" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -17512,7 +17512,7 @@ Companions</link></friend>
 </person>
 </buddy>
 </physical_entity>
-&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <cyborg wordnetid="109985978" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <adult wordnetid="109605289" confidence="0.8">
@@ -17545,7 +17545,7 @@ Dalek</link></bad_person>
 </person>
 </cyborg>
 </physical_entity>
-s&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+s &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <cyborg wordnetid="109985978" confidence="0.8">
 <medical_practitioner wordnetid="110305802" confidence="0.8">
@@ -17566,7 +17566,7 @@ Cybermen</link></doctor>
 </cyborg>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <sovereign wordnetid="110628644" confidence="0.8">
+ &amp;bull;  <sovereign wordnetid="110628644" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <emperor wordnetid="110053004" confidence="0.8">
@@ -17629,7 +17629,7 @@ The Master</link></head_of_state>
 </person>
 </physical_entity>
 </sovereign>
-&nbsp;&amp;bull;  <sovereign wordnetid="110628644" confidence="0.8">
+ &amp;bull;  <sovereign wordnetid="110628644" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <cyborg wordnetid="109985978" confidence="0.8">
@@ -17672,7 +17672,7 @@ Davros</link></negotiator>
 </person>
 </physical_entity>
 </sovereign>
-&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <warlord wordnetid="110767837" confidence="0.8">
 <adult wordnetid="109605289" confidence="0.8">
@@ -17699,14 +17699,14 @@ Sontaran</link></causal_agent>
 </warlord>
 </person>
 </physical_entity>
-s&nbsp;&amp;bull; <artifact wordnetid="100021939" confidence="0.8">
+s &amp;bull; <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <link xlink:type="simple" xlink:href="../302/30302.xml">
 TARDIS</link></device>
 </instrumentality>
 </artifact>
-&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <overlord wordnetid="110388440" confidence="0.8">
 <power wordnetid="105190804" confidence="0.8">
@@ -17719,11 +17719,11 @@ Regeneration</link></ruler>
 </overlord>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../574/613574.xml">
-UNIT</link>&nbsp;&amp;bull;  <administration wordnetid="108164585" confidence="0.9508927676800064">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../574/613574.xml">
+UNIT</link> &amp;bull;  <administration wordnetid="108164585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../243/4877243.xml">
 Torchwood Institute</link></administration>
-&nbsp;&amp;bull;  <military_action wordnetid="100952963" confidence="0.8">
+ &amp;bull;  <military_action wordnetid="100952963" confidence="0.8">
 <group_action wordnetid="101080366" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -17736,9 +17736,9 @@ Time War</link></war>
 </event>
 </group_action>
 </military_action>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../727/7363727.xml">
-Whoniverse</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../741/959741.xml">
-History</link>&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../727/7363727.xml">
+Whoniverse</link> &amp;bull;  <link xlink:type="simple" xlink:href="../741/959741.xml">
+History</link> &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <medical_practitioner wordnetid="110305802" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -17755,7 +17755,7 @@ Story arcs</link></doctor>
 </medical_practitioner>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <music wordnetid="107020895" confidence="0.8">
+ &amp;bull;  <music wordnetid="107020895" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <episode wordnetid="106396330" confidence="0.8">
@@ -17784,8 +17784,8 @@ Missing episodes</link></causal_agent>
 </person>
 </physical_entity>
 </music>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../819/1943819.xml">
-Theme music</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../249/3775249.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../819/1943819.xml">
+Theme music</link> &amp;bull;  <link xlink:type="simple" xlink:href="../249/3775249.xml">
 Fandom</link></col>
 </row>
 <row style="height:2px">
@@ -17798,9 +17798,9 @@ Doctor Who lists|<it>Doctor Who</it> lists</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../266/296266.xml">
 Serials</link> (<link xlink:type="simple" xlink:href="../926/1399926.xml">
-incomplete</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../944/9751944.xml">
-unmade</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../776/1367776.xml">
-titled episodes</link>)&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+incomplete</link> &amp;bull;  <link xlink:type="simple" xlink:href="../944/9751944.xml">
+unmade</link> &amp;bull;  <link xlink:type="simple" xlink:href="../776/1367776.xml">
+titled episodes</link>) &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <medical_practitioner wordnetid="110305802" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -17821,22 +17821,22 @@ DVD releases</link></doctor>
 </medical_practitioner>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../074/9978074.xml">
-Cast</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../802/1643802.xml">
-Producers</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../299/4487299.xml">
-Script editors</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../702/4476702.xml">
-Writers</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../038/2212038.xml">
-Celebrity appearances</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../025/345025.xml">
-Supporting characters</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../841/2659841.xml">
-Historical characters</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../264/2036264.xml">
-Monsters and aliens</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../514/2206514.xml">
-Villains</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../197/10512197.xml">
-Henchmen</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../801/1723801.xml">
-Robots</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../444/1706444.xml">
-Planets</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../085/2024085.xml">
-Items</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../343/7855343.xml">
-Vehicles</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../505/12070505.xml">
-Music</link>&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../074/9978074.xml">
+Cast</link> &amp;bull;  <link xlink:type="simple" xlink:href="../802/1643802.xml">
+Producers</link> &amp;bull;  <link xlink:type="simple" xlink:href="../299/4487299.xml">
+Script editors</link> &amp;bull;  <link xlink:type="simple" xlink:href="../702/4476702.xml">
+Writers</link> &amp;bull;  <link xlink:type="simple" xlink:href="../038/2212038.xml">
+Celebrity appearances</link> &amp;bull;  <link xlink:type="simple" xlink:href="../025/345025.xml">
+Supporting characters</link> &amp;bull;  <link xlink:type="simple" xlink:href="../841/2659841.xml">
+Historical characters</link> &amp;bull;  <link xlink:type="simple" xlink:href="../264/2036264.xml">
+Monsters and aliens</link> &amp;bull;  <link xlink:type="simple" xlink:href="../514/2206514.xml">
+Villains</link> &amp;bull;  <link xlink:type="simple" xlink:href="../197/10512197.xml">
+Henchmen</link> &amp;bull;  <link xlink:type="simple" xlink:href="../801/1723801.xml">
+Robots</link> &amp;bull;  <link xlink:type="simple" xlink:href="../444/1706444.xml">
+Planets</link> &amp;bull;  <link xlink:type="simple" xlink:href="../085/2024085.xml">
+Items</link> &amp;bull;  <link xlink:type="simple" xlink:href="../343/7855343.xml">
+Vehicles</link> &amp;bull;  <link xlink:type="simple" xlink:href="../505/12070505.xml">
+Music</link> &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
@@ -17865,7 +17865,7 @@ Chronology</link></written_record>
 </evidence>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../669/12493669.xml">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../669/12493669.xml">
 Story chronology</link></col>
 </row>
 <row style="height:2px">
@@ -17877,7 +17877,7 @@ Story chronology</link></col>
 Doctor Who spin-offs|Spin-offs and related shows</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <it><link xlink:type="simple" xlink:href="../005/370005.xml">
-K-9 and Company</link></it>&nbsp;&amp;bull;  <it><physical_entity wordnetid="100001930" confidence="0.8">
+K-9 and Company</link></it> &amp;bull;  <it><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <medical_practitioner wordnetid="110305802" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -17894,25 +17894,25 @@ TARDISODE</link></doctor>
 </medical_practitioner>
 </person>
 </physical_entity>
-</it>&nbsp;&amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../126/2923126.xml">
 Torchwood</link></series>
-</it>&nbsp;&amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../549/6223549.xml">
 The Sarah Jane Adventures</link></series>
-</it>&nbsp;&amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../508/4880508.xml">
 K-9</link></series>
-</it>&nbsp;&amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../361/1656361.xml">
 Doctor Who Confidential</link></series>
-</it>&nbsp;&amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../066/4264066.xml">
 Totally Doctor Who</link></series>
-</it>&nbsp;&amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><series wordnetid="108457976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../125/7639125.xml">
 Torchwood Declassified</link></series>
-</it>&nbsp;&amp;bull;  &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../764/18602764.xml">
+</it> &amp;bull;   &amp;bull;  <link xlink:type="simple" xlink:href="../764/18602764.xml">
 Doctor Who Prom</link></col>
 </row>
 <row style="height:2px">
@@ -17924,10 +17924,10 @@ Doctor Who Prom</link></col>
 Doctor Who spin-offs|Adaptations and tie-ins</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../250/804250.xml">
-Doctor Who spin-offs</link> &nbsp;&amp;bull;  
-Doctor Who books|Novelisations and original books&nbsp;&amp;bull;  
-Doctor Who audio plays|Audio plays&nbsp;&amp;bull;  
-Doctor Who stage plays|Stage plays&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+Doctor Who spin-offs</link>  &amp;bull;  
+Doctor Who books|Novelisations and original books &amp;bull;  
+Doctor Who audio plays|Audio plays &amp;bull;  
+Doctor Who stage plays|Stage plays &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <medical_practitioner wordnetid="110305802" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -17944,7 +17944,7 @@ Dalek films</link></doctor>
 </medical_practitioner>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <medical_practitioner wordnetid="110305802" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -17961,8 +17961,8 @@ Spoofs</link></doctor>
 </medical_practitioner>
 </person>
 </physical_entity>
-&nbsp;&amp;bull;  <it>
-Bernice Summerfield|Bernice Summerfield</it>&nbsp;&amp;bull;  <it><physical_entity wordnetid="100001930" confidence="0.8">
+ &amp;bull;  <it>
+Bernice Summerfield|Bernice Summerfield</it> &amp;bull;  <it><physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <medical_practitioner wordnetid="110305802" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -17979,8 +17979,8 @@ Kaldor City</link></doctor>
 </medical_practitioner>
 </person>
 </physical_entity>
-</it>&nbsp;&amp;bull;  <it>
-Time Hunter|Time Hunter</it>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../811/2616811.xml">
+</it> &amp;bull;  <it>
+Time Hunter|Time Hunter</it> &amp;bull;  <link xlink:type="simple" xlink:href="../811/2616811.xml">
 Spin-off companions</link></col>
 </row>
 <row style="height:2px">
@@ -17994,13 +17994,13 @@ Doctor Who magazines|Related publications</col>
 <it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../010/359010.xml">
 Doctor Who Magazine</link></magazine>
-</it>&nbsp;&amp;bull;  <it><magazine wordnetid="106595351" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../439/4580439.xml">
 Doctor Who Adventures</link></magazine>
-</it>&nbsp;&amp;bull;  <it><game wordnetid="100456199" confidence="0.9508927676800064">
+</it> &amp;bull;  <it><game wordnetid="100456199" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../061/5491061.xml">
 Doctor Who - Battles in Time</link></game>
-</it>&nbsp;&amp;bull;  <it><link xlink:type="simple" xlink:href="../131/18826131.xml">
+</it> &amp;bull;  <it><link xlink:type="simple" xlink:href="../131/18826131.xml">
 The Doctor Who DVD Files</link></it></col>
 </row>
 </table>

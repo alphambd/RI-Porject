@@ -136,7 +136,7 @@ Visitors to <it>rediff.com</it> in 2008
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=REDF&amp;selected=REDF">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=REDF&amp;selected=REDF">
 REDF</weblink> is a news, information, entertainment, and shopping portal. It was founded in <link xlink:type="simple" xlink:href="../636/34636.xml">
 1996</link> and is headquartered in <legal_power wordnetid="105198427" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../189/19189.xml">
@@ -332,7 +332,7 @@ India Abroad</link></newspaper>
 </press>
 </print_media>
 </it>&#32;(2008-04-10).&#32;Retrieved on <link>
-2008-05-04</link>.&nbsp;</entry>
+2008-05-04</link>. </entry>
 <entry id="6">
 <weblink xlink:type="simple" xlink:href="http://finance.google.com/finance?q=REDIFF">
 REDIFF</weblink> on Google Finance</entry>

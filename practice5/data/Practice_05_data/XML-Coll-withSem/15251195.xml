@@ -739,7 +739,7 @@ Azzun</link></urban_area>
 </location>
 </administrative_district>
 </region>
- &nbsp;· <region wordnetid="108630985" confidence="0.8">
+  · <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -756,7 +756,7 @@ Hableh</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -773,7 +773,7 @@ Kafr Qaddum</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -811,8 +811,8 @@ Azzun Atma</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <link>
-Baqah</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link>
+Baqah</link> ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -823,7 +823,7 @@ Baqat al-Hatab</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;· <region wordnetid="108630985" confidence="0.8">
+ · <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -834,7 +834,7 @@ Beit Amin</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -845,7 +845,7 @@ Fara'ata</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -856,7 +856,7 @@ Hajjah</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -867,7 +867,7 @@ Immatain</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -878,7 +878,7 @@ Islah</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·   <region wordnetid="108630985" confidence="0.8">
+ ·   <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -889,7 +889,7 @@ Jayyous</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -900,7 +900,7 @@ Jinsafut</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -911,7 +911,7 @@ Jit</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -922,7 +922,7 @@ Kafr Laqif</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -933,7 +933,7 @@ Nabi Ilyas</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -944,7 +944,7 @@ Ras Atiya</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">

@@ -51,7 +51,7 @@ Application</st>
 Textbooks and <link xlink:type="simple" xlink:href="../618/406618.xml">
 scientific publication</link>s related to <link xlink:type="simple" xlink:href="../323/5323.xml">
 computer science</link> and <link xlink:type="simple" xlink:href="../506/21506.xml">
-numerical computation</link> often use pseudocode in description of algorithms, so that all programmers can understand them, even if they do not all know the same programming languages. In textbooks, there is usually an accompanying introduction explaining the particular conventions in use. The level of detail of such languages may in some cases approach that of formalized general-purpose languages &mdash; for example, <person wordnetid="100007846" confidence="0.9508927676800064">
+numerical computation</link> often use pseudocode in description of algorithms, so that all programmers can understand them, even if they do not all know the same programming languages. In textbooks, there is usually an accompanying introduction explaining the particular conventions in use. The level of detail of such languages may in some cases approach that of formalized general-purpose languages — for example, <person wordnetid="100007846" confidence="0.9508927676800064">
 <scientist wordnetid="110560637" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../095/8095.xml">
 Knuth</link></scientist>

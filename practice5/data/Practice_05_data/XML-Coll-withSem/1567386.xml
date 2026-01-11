@@ -85,17 +85,17 @@ two</link>.  This is two sticks: I I
 3 , <link xlink:type="simple" xlink:href="../157/208157.xml">
 three</link>.  This is three sticks: I I I 
 4 , <link xlink:type="simple" xlink:href="../161/208161.xml">
-four</link>.  This is four sticks: I I I&nbsp; I  
+four</link>.  This is four sticks: I I I  I  
 5 , <link xlink:type="simple" xlink:href="../297/6412297.xml">
-five</link>.  This is five sticks: I I I&nbsp; I I 
+five</link>.  This is five sticks: I I I  I I 
 6 , <link xlink:type="simple" xlink:href="../171/208171.xml">
-six</link>.  This is six sticks: I I I&nbsp; I I I 
+six</link>.  This is six sticks: I I I  I I I 
 7 , <link xlink:type="simple" xlink:href="../159/208159.xml">
-seven</link>.  This is seven sticks: I I I&nbsp; I I I&nbsp; I 
+seven</link>.  This is seven sticks: I I I  I I I  I 
 8 , <link xlink:type="simple" xlink:href="../174/208174.xml">
-eight</link>.  This is eight sticks: I I I&nbsp; I I I&nbsp; I I  
+eight</link>.  This is eight sticks: I I I  I I I  I I  
 9 , <link xlink:type="simple" xlink:href="../457/173457.xml">
-nine</link>.  This is nine sticks: I I I&nbsp; I I I&nbsp; I I I </p>
+nine</link>.  This is nine sticks: I I I  I I I  I I I </p>
 <p>
 
 In <link xlink:type="simple" xlink:href="../214/8214.xml">
@@ -104,7 +104,7 @@ place-value</link> written numbers, there are as many digits as fingers on the h
 radices</link> and correspondingly differently-sized digit sets, such as <link xlink:type="simple" xlink:href="../316/135316.xml">
 sexagesimal</link> by the Babylonians and <link xlink:type="simple" xlink:href="../196/209196.xml">
 vigesimal</link> by the pre-Columbian Mesoamericans). But if counting the digits on both hands, the first digit would be one and the last digit would not be counted as "zero" but as "<link xlink:type="simple" xlink:href="../151/208151.xml">
-ten</link>":  10 , made up of the digits one and zero. The number 10 is the first two-digit number. This is ten sticks: I I I&nbsp; I I I&nbsp; I I I&nbsp; I </p>
+ten</link>":  10 , made up of the digits one and zero. The number 10 is the first two-digit number. This is ten sticks: I I I  I I I  I I I  I </p>
 <p>
 
 If a number has more than one digit, then the rightmost digit, said to be the last digit, is called the "ones-digit". The digit immediately to its left is the "tens-digit". The digit immediately to the left of the tens-digit is the "hundreds-digit".  The digit immediately to the left of the hundreds-digit is the "thousands-digit".</p>
@@ -119,92 +119,92 @@ Addition</st>
 <header>
 +</header>
 <header>
-&nbsp;0</header>
+ 0</header>
 <header>
-&nbsp;1</header>
+ 1</header>
 <header>
-&nbsp;2</header>
+ 2</header>
 <header>
-&nbsp;3</header>
+ 3</header>
 <header>
-&nbsp;4</header>
+ 4</header>
 <header>
-&nbsp;5</header>
+ 5</header>
 <header>
-&nbsp;6</header>
+ 6</header>
 <header>
-&nbsp;7</header>
+ 7</header>
 <header>
-&nbsp;8</header>
+ 8</header>
 <header>
-&nbsp;9</header>
+ 9</header>
 <row>
 <header>
-&nbsp;0</header>
+ 0</header>
 <col style="background:#cff">
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;1</col>
+ 1</col>
 <col>
-&nbsp;2</col>
+ 2</col>
 <col>
-&nbsp;3</col>
+ 3</col>
 <col>
-&nbsp;4</col>
+ 4</col>
 <col>
-&nbsp;5</col>
+ 5</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 </row>
 <row>
 <header>
-&nbsp;1</header>
+ 1</header>
 <col>
-&nbsp;1</col>
+ 1</col>
 <col style="background:#cff">
-&nbsp;2</col>
+ 2</col>
 <col>
-&nbsp;3</col>
+ 3</col>
 <col>
-&nbsp;4</col>
+ 4</col>
 <col>
-&nbsp;5</col>
+ 5</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 10</col>
 </row>
 <row>
 <header>
-&nbsp;2</header>
+ 2</header>
 <col>
-&nbsp;2</col>
+ 2</col>
 <col>
-&nbsp;3</col>
+ 3</col>
 <col style="background:#cff">
-&nbsp;4</col>
+ 4</col>
 <col>
-&nbsp;5</col>
+ 5</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 10</col>
 <col>
@@ -212,21 +212,21 @@ Addition</st>
 </row>
 <row>
 <header>
-&nbsp;3</header>
+ 3</header>
 <col>
-&nbsp;3</col>
+ 3</col>
 <col>
-&nbsp;4</col>
+ 4</col>
 <col>
-&nbsp;5</col>
+ 5</col>
 <col style="background:#cff">
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 10</col>
 <col>
@@ -236,19 +236,19 @@ Addition</st>
 </row>
 <row>
 <header>
-&nbsp;4</header>
+ 4</header>
 <col>
-&nbsp;4</col>
+ 4</col>
 <col>
-&nbsp;5</col>
+ 5</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col style="background:#cff">
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 10</col>
 <col>
@@ -260,17 +260,17 @@ Addition</st>
 </row>
 <row>
 <header>
-&nbsp;5</header>
+ 5</header>
 <col>
-&nbsp;5</col>
+ 5</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col style="background:#cff">
 10</col>
 <col>
@@ -284,15 +284,15 @@ Addition</st>
 </row>
 <row>
 <header>
-&nbsp;6</header>
+ 6</header>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 10</col>
 <col>
@@ -308,13 +308,13 @@ Addition</st>
 </row>
 <row>
 <header>
-&nbsp;7</header>
+ 7</header>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 10</col>
 <col>
@@ -332,11 +332,11 @@ Addition</st>
 </row>
 <row>
 <header>
-&nbsp;8</header>
+ 8</header>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 10</col>
 <col>
@@ -356,9 +356,9 @@ Addition</st>
 </row>
 <row>
 <header>
-&nbsp;9</header>
+ 9</header>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 10</col>
 <col>
@@ -684,86 +684,86 @@ Multiplication</st>
 <header>
 ×</header>
 <header>
-&nbsp;0</header>
+ 0</header>
 <header>
-&nbsp;1</header>
+ 1</header>
 <header>
-&nbsp;2</header>
+ 2</header>
 <header>
-&nbsp;3</header>
+ 3</header>
 <header>
-&nbsp;4</header>
+ 4</header>
 <header>
-&nbsp;5</header>
+ 5</header>
 <header>
-&nbsp;6</header>
+ 6</header>
 <header>
-&nbsp;7</header>
+ 7</header>
 <header>
-&nbsp;8</header>
+ 8</header>
 <header>
-&nbsp;9</header>
+ 9</header>
 <row>
 <header>
-&nbsp;0</header>
+ 0</header>
 <col style="background:#cff">
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;0</col>
+ 0</col>
 </row>
 <row>
 <header>
-&nbsp;1</header>
+ 1</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col style="background:#cff">
-&nbsp;1</col>
+ 1</col>
 <col>
-&nbsp;2</col>
+ 2</col>
 <col>
-&nbsp;3</col>
+ 3</col>
 <col>
-&nbsp;4</col>
+ 4</col>
 <col>
-&nbsp;5</col>
+ 5</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 </row>
 <row>
 <header>
-&nbsp;2</header>
+ 2</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;2</col>
+ 2</col>
 <col style="background:#cff">
-&nbsp;4</col>
+ 4</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
 10</col>
 <col>
@@ -777,15 +777,15 @@ Multiplication</st>
 </row>
 <row>
 <header>
-&nbsp;3</header>
+ 3</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;3</col>
+ 3</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col style="background:#cff">
-&nbsp;9</col>
+ 9</col>
 <col>
 12</col>
 <col>
@@ -801,13 +801,13 @@ Multiplication</st>
 </row>
 <row>
 <header>
-&nbsp;4</header>
+ 4</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;4</col>
+ 4</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
 12</col>
 <col style="background:#cff">
@@ -825,11 +825,11 @@ Multiplication</st>
 </row>
 <row>
 <header>
-&nbsp;5</header>
+ 5</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;5</col>
+ 5</col>
 <col>
 10</col>
 <col>
@@ -849,11 +849,11 @@ Multiplication</st>
 </row>
 <row>
 <header>
-&nbsp;6</header>
+ 6</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;6</col>
+ 6</col>
 <col>
 12</col>
 <col>
@@ -873,11 +873,11 @@ Multiplication</st>
 </row>
 <row>
 <header>
-&nbsp;7</header>
+ 7</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;7</col>
+ 7</col>
 <col>
 14</col>
 <col>
@@ -897,11 +897,11 @@ Multiplication</st>
 </row>
 <row>
 <header>
-&nbsp;8</header>
+ 8</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;8</col>
+ 8</col>
 <col>
 16</col>
 <col>
@@ -921,11 +921,11 @@ Multiplication</st>
 </row>
 <row>
 <header>
-&nbsp;9</header>
+ 9</header>
 <col>
-&nbsp;0</col>
+ 0</col>
 <col>
-&nbsp;9</col>
+ 9</col>
 <col>
 18</col>
 <col>
@@ -1039,7 +1039,7 @@ _</col>
 <row>
 
 <col>
-&nbsp;2</col>
+ 2</col>
 <col>
 7</col>
 </row>
@@ -1084,7 +1084,7 @@ Next, the hundreds-column. The hundreds-digit of the multiplicand is 7, while th
 <table>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 7</col>
 <col>
@@ -1142,10 +1142,10 @@ The multiplication will consist of two parts.  The first part will consist of se
 Start with the ones-column.  Find the product of the ones-multiplier and the multiplicand and write it down in a row under the line, aligning the digits of the product in the previously-defined columns.  If the product has four digits, then the first digit will be the beginning of the thousands-column.  Let this product be called the "ones-row".</p>
 <p>
 
-Then the tens-column.  Find the product of the tens-multiplier and the multiplicand and write it down in a row &mdash; call it the "tens-row" &mdash; under the ones-row, <it>but shifted one column to the left</it>.  That is, the ones-digit of the tens-row will be in the tens-column of the ones-row; the tens-digit of the tens-row will be under the hundreds-digit of the ones-row; the hundreds-digit of the tens-row will be under the thousands-digit of the ones-row.  If the tens-row has four digits, then the first digit will be the beginning of the ten-thousands-column.</p>
+Then the tens-column.  Find the product of the tens-multiplier and the multiplicand and write it down in a row — call it the "tens-row" — under the ones-row, <it>but shifted one column to the left</it>.  That is, the ones-digit of the tens-row will be in the tens-column of the ones-row; the tens-digit of the tens-row will be under the hundreds-digit of the ones-row; the hundreds-digit of the tens-row will be under the thousands-digit of the ones-row.  If the tens-row has four digits, then the first digit will be the beginning of the ten-thousands-column.</p>
 <p>
 
-Next, the hundreds-column.  Find the product of the hundreds-multiplier and the multiplicand and write it down in a row &mdash; call it the "hundreds-row" &mdash; under the tens-row, but shifted one more column to the left.  That is, the ones-digit of the hundreds-row will be in the hundreds-column; the tens-digit of the hundreds-row will be in the thousands-column; the hundreds-digit of the hundreds-row will be in the ten-thousands-column.  If the hundreds-row has four digits, then the first digit will be the beginning of the hundred-thousands-column.</p>
+Next, the hundreds-column.  Find the product of the hundreds-multiplier and the multiplicand and write it down in a row — call it the "hundreds-row" — under the tens-row, but shifted one more column to the left.  That is, the ones-digit of the hundreds-row will be in the hundreds-column; the tens-digit of the hundreds-row will be in the thousands-column; the hundreds-digit of the hundreds-row will be in the ten-thousands-column.  If the hundreds-row has four digits, then the first digit will be the beginning of the hundred-thousands-column.</p>
 <p>
 
 After having down the ones-row, tens-row, and hundreds-row, draw a horizontal line under the hundreds-row.  The multiplications are over.</p>
@@ -1206,7 +1206,7 @@ Let our objective be to find the product of 789 and 345.  Write the 345 under th
 <table>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 7</col>
 <col>
@@ -1216,7 +1216,7 @@ Let our objective be to find the product of 789 and 345.  Write the 345 under th
 </row>
 <row>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
 3</col>
 <col>
@@ -1242,9 +1242,9 @@ Then the tens-column.  The multiplicand is 789 and the tens-multiplier is 4.  Pe
 <table>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 7</col>
 <col>
@@ -1254,9 +1254,9 @@ Then the tens-column.  The multiplicand is 789 and the tens-multiplier is 4.  Pe
 </row>
 <row>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
 3</col>
 <col>
@@ -1266,7 +1266,7 @@ Then the tens-column.  The multiplicand is 789 and the tens-multiplier is 4.  Pe
 </row>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 3</col>
 <col>
@@ -1294,11 +1294,11 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 <table>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 7</col>
 <col>
@@ -1308,11 +1308,11 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 </row>
 <row>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
 3</col>
 <col>
@@ -1322,9 +1322,9 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 </row>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 3</col>
 <col>
@@ -1336,7 +1336,7 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 </row>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 3</col>
 <col>
@@ -1356,9 +1356,9 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 <col>
 7</col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 </row>
 </table>
 </p>
@@ -1368,11 +1368,11 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 <table>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 7</col>
 <col>
@@ -1382,11 +1382,11 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 </row>
 <row>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
 3</col>
 <col>
@@ -1396,9 +1396,9 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 </row>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 3</col>
 <col>
@@ -1410,7 +1410,7 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 </row>
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 3</col>
 <col>
@@ -1430,9 +1430,9 @@ Next, the hundreds-column.  The multiplicand is once again 789, and the hundreds
 <col>
 7</col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 <col>
-&nbsp;&nbsp;</col>
+  </col>
 </row>
 <row>
 <col>

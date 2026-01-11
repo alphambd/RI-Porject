@@ -420,7 +420,7 @@ Garth Marenghi's Fright Knight</link></writing>
 </written_communication>
 </play>
 </dramatic_composition>
-</it>&nbsp;·  <it><dramatic_composition wordnetid="107007684" confidence="0.8">
+</it> ·  <it><dramatic_composition wordnetid="107007684" confidence="0.8">
 <play wordnetid="107007945" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
@@ -432,7 +432,7 @@ Garth Marenghi's Netherhead</link></writing>
 </it>TV shows: <it><series wordnetid="108457976" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../261/732261.xml">
 Garth Marenghi's Darkplace</link></series>
-</it>&nbsp;·  <it><television wordnetid="106277280" confidence="0.9508927676800064">
+</it> ·  <it><television wordnetid="106277280" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../925/4402925.xml">
 Man to Man with Dean Learner</link></television>
 ''</it></col>
@@ -457,13 +457,13 @@ Matthew Holness</link></entertainer>
 </person>
 </comedian>
 </physical_entity>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../976/2556976.xml">
 Richard Ayoade</link></actor>
-&nbsp;·  <actor wordnetid="109765278" confidence="0.9508927676800064">
+ ·  <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../408/2994408.xml">
 Matt Berry</link></actor>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <comedian wordnetid="109940146" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -488,7 +488,7 @@ Alice Lowe</link></entertainer>
 </communicator>
 </comedian>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <composer wordnetid="109947232" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <musician wordnetid="110339966" confidence="0.8">
@@ -503,7 +503,7 @@ Andrew Hewitt</link></creator>
 </person>
 </composer>
 </physical_entity>
-&nbsp;·  <link>
+ ·  <link>
 Satu Suominen</link></col>
 </row>
 <row style="height:2px">
@@ -524,7 +524,7 @@ Garth Marenghi</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;·  <fictional_character wordnetid="109587565" confidence="0.8">
+ ·  <fictional_character wordnetid="109587565" confidence="0.8">
 <imaginary_being wordnetid="109483738" confidence="0.8">
 <link xlink:type="simple" xlink:href="../066/2983066.xml">
 Dean Learner</link></imaginary_being>

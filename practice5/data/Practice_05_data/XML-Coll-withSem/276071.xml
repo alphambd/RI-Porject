@@ -266,7 +266,7 @@ relay</link> at the other end is connected to both rails. When the block is unoc
 This method does not explicitly need to check that the entire train has left the block. If part of the train is left in the block, that part will continue to be detected by the track circuit.</p>
 <p>
 
-This type of circuit is used to detect trains, both for the purpose of setting the signal indication and for providing various interlocking functions &mdash; for example, not permitting points to be moved when a train is standing over them. Electrical circuits are also used to <it>prove</it> that switch points are in the appropriate position before a signal over them may be cleared. Modern UK trains, and staff working in track circuit block areas, carry operating clips so that, in the event of a derailment fouling an adjacent track, the track circuit can be short-circuited. This triggers danger signals on that track and can be used to prevent a collision before the crew is able to contact a signalman.</p>
+This type of circuit is used to detect trains, both for the purpose of setting the signal indication and for providing various interlocking functions — for example, not permitting points to be moved when a train is standing over them. Electrical circuits are also used to <it>prove</it> that switch points are in the appropriate position before a signal over them may be cleared. Modern UK trains, and staff working in track circuit block areas, carry operating clips so that, in the event of a derailment fouling an adjacent track, the track circuit can be short-circuited. This triggers danger signals on that track and can be used to prevent a collision before the crew is able to contact a signalman.</p>
 
 </ss2>
 <ss2>
@@ -801,12 +801,12 @@ Railway signalling</link></action>
 Systems</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../958/702958.xml">
-Token</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../341/1774341.xml">
-Train order operation</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../828/1308828.xml">
-Centralized traffic control</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../121/2214121.xml">
-European Train Control System</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../694/1424694.xml">
-Radio Electronic Token Block</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../768/13471768.xml">
-Automatic Block Signal</link>ing&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../996/11562996.xml">
+Token</link> &amp;bull;  <link xlink:type="simple" xlink:href="../341/1774341.xml">
+Train order operation</link> &amp;bull;  <link xlink:type="simple" xlink:href="../828/1308828.xml">
+Centralized traffic control</link> &amp;bull;  <link xlink:type="simple" xlink:href="../121/2214121.xml">
+European Train Control System</link> &amp;bull;  <link xlink:type="simple" xlink:href="../694/1424694.xml">
+Radio Electronic Token Block</link> &amp;bull;  <link xlink:type="simple" xlink:href="../768/13471768.xml">
+Automatic Block Signal</link>ing &amp;bull;  <link xlink:type="simple" xlink:href="../996/11562996.xml">
 Positive Train Control</link></col>
 </row>
 <row style="height:2px">
@@ -818,8 +818,8 @@ Positive Train Control</link></col>
 Interlocking</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../877/275877.xml">
-Signal box</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../113/7146113.xml">
-Lever frame</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../981/15537981.xml">
+Signal box</link> &amp;bull;  <link xlink:type="simple" xlink:href="../113/7146113.xml">
+Lever frame</link> &amp;bull;  <link xlink:type="simple" xlink:href="../981/15537981.xml">
 Solid State Interlocking</link></col>
 </row>
 <row style="height:2px">
@@ -831,9 +831,9 @@ Solid State Interlocking</link></col>
 Railway signal</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../747/14997747.xml">
-Railway semaphore signal</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../063/1225063.xml">
-Cab signalling</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../807/7520807.xml">
-British railway signals</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../714/14849714.xml">
+Railway semaphore signal</link> &amp;bull;  <link xlink:type="simple" xlink:href="../063/1225063.xml">
+Cab signalling</link> &amp;bull;  <link xlink:type="simple" xlink:href="../807/7520807.xml">
+British railway signals</link> &amp;bull;  <link xlink:type="simple" xlink:href="../714/14849714.xml">
 North American railroad signals</link></col>
 </row>
 <row style="height:2px">
@@ -844,8 +844,8 @@ North American railroad signals</link></col>
 Train detection</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../196/1992196.xml">
-Track circuit</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../119/4634119.xml">
-Treadle</link>&nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+Track circuit</link> &amp;bull;  <link xlink:type="simple" xlink:href="../119/4634119.xml">
+Treadle</link> &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <instrument wordnetid="103574816" confidence="0.8">
@@ -871,82 +871,82 @@ Train protection</link></col>
 Automatic Train Control</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../946/411946.xml">
 Automatic Train Protection</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../168/1185168.xml">
 Automatic Warning System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <link>
-Automatische treinbeïnvloeding</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../102/1157102.xml">
-Balise</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link>
+Automatische treinbeïnvloeding</link> &amp;bull;  <link xlink:type="simple" xlink:href="../102/1157102.xml">
+Balise</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../487/8876487.xml">
 Continuous Automatic Warning System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <link>
-Contrôle de vitesse par balises</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link>
+Contrôle de vitesse par balises</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../082/4312082.xml">
 Integra-Signum</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../178/2106178.xml">
 Le Crocodile</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../016/2706016.xml">
 Linienzugbeeinflussung</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <link>
-Punktförmige Zugbeeinflussung</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link>
+Punktförmige Zugbeeinflussung</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../914/12996914.xml">
 RS4 Codici</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../824/15696824.xml">
 Sistema Controllo Marcia Treno</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../229/11013229.xml">
-Slide fence</link>&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../229/11013229.xml">
+Slide fence</link> &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../512/808512.xml">
 Train Protection &amp; Warning System</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../412/1204412.xml">
 Train stop</link></instrumentality>
 </artifact>
 </system>
-&nbsp;&amp;bull;  <system wordnetid="104377057" confidence="0.8">
+ &amp;bull;  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../965/3800965.xml">
@@ -967,19 +967,19 @@ Organisations</col>
 <link xlink:type="simple" xlink:href="../202/501202.xml">
 AAR</link></group>
 </association>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../572/14717572.xml">
-AREMA</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../678/1704678.xml">
-FRA</link>&nbsp;&amp;bull;  <body wordnetid="105216365" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../572/14717572.xml">
+AREMA</link> &amp;bull;  <link xlink:type="simple" xlink:href="../678/1704678.xml">
+FRA</link> &amp;bull;  <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../873/977873.xml">
 HMRI</link></natural_object>
 </body>
-&nbsp;&amp;bull;  <body wordnetid="105216365" confidence="0.8">
+ &amp;bull;  <body wordnetid="105216365" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <link xlink:type="simple" xlink:href="../969/10775969.xml">
 IRSE</link></natural_object>
 </body>
-&nbsp;&amp;bull;  <department wordnetid="108114861" confidence="0.9508927676800064">
+ &amp;bull;  <department wordnetid="108114861" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../814/1201814.xml">
 Transport Canada</link></department>
 </col>
@@ -992,14 +992,14 @@ Transport Canada</link></department>
 By country</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../850/3318850.xml">
-Australia</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../836/11873836.xml">
-Canada</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../834/16206834.xml">
-France</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../538/3957538.xml">
-Germany</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../675/16881675.xml">
-Japan</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../325/3976325.xml">
-North America</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../603/1058603.xml">
-Norway</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../698/4994698.xml">
-Sweden</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../491/2997491.xml">
+Australia</link> &amp;bull;  <link xlink:type="simple" xlink:href="../836/11873836.xml">
+Canada</link> &amp;bull;  <link xlink:type="simple" xlink:href="../834/16206834.xml">
+France</link> &amp;bull;  <link xlink:type="simple" xlink:href="../538/3957538.xml">
+Germany</link> &amp;bull;  <link xlink:type="simple" xlink:href="../675/16881675.xml">
+Japan</link> &amp;bull;  <link xlink:type="simple" xlink:href="../325/3976325.xml">
+North America</link> &amp;bull;  <link xlink:type="simple" xlink:href="../603/1058603.xml">
+Norway</link> &amp;bull;  <link xlink:type="simple" xlink:href="../698/4994698.xml">
+Sweden</link> &amp;bull;  <link xlink:type="simple" xlink:href="../491/2997491.xml">
 United Kingdom</link></col>
 </row>
 </table>

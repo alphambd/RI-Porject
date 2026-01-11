@@ -895,7 +895,7 @@ Asian Tour</link></administration>
 </journey>
 </change>
 </body>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -914,7 +914,7 @@ European Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -933,7 +933,7 @@ Japan Golf Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
@@ -956,7 +956,7 @@ PGA Tour</link></institution>
 </company>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -975,7 +975,7 @@ PGA Tour of Australasia</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -1029,7 +1029,7 @@ Canadian Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1052,7 +1052,7 @@ Challenge Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -1099,7 +1099,7 @@ Alps Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -1118,7 +1118,7 @@ EPD Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <diversion wordnetid="100426928" confidence="0.8">
+ ·  <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
@@ -1143,7 +1143,7 @@ Gateway Tour</link></activity>
 </change>
 </event>
 </diversion>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -1162,7 +1162,7 @@ NGA Hooters Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -1185,7 +1185,7 @@ PGA EuroPro Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../976/9329976.xml">
+ ·  <link xlink:type="simple" xlink:href="../976/9329976.xml">
 US Pro Golf Tour</link></col>
 </row>
 <row style="height:2px">
@@ -1214,7 +1214,7 @@ Korean Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -1233,7 +1233,7 @@ Japan Challenge Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -1252,8 +1252,8 @@ Tour de las Americas</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../581/2156581.xml">
-Professional Golf Tour of India</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../581/2156581.xml">
+Professional Golf Tour of India</link> ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -1272,7 +1272,7 @@ Omega China Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">
@@ -1319,7 +1319,7 @@ Champions Tour</link></psychological_feature>
 </action>
 </change>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <change wordnetid="100191142" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <journey wordnetid="100306426" confidence="0.8">

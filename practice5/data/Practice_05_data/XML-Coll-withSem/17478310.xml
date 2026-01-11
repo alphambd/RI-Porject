@@ -28,7 +28,7 @@
 <name>Infobox Ship Characteristics</name>
 <parameters>
 <Ship_length>
-176&nbsp;feet (54&nbsp;m)</Ship_length>
+176 feet (54 m)</Ship_length>
 <Ship_propulsion>
 Two <link xlink:type="simple" xlink:href="../761/81761.xml">
 diesel</link> engines providing 2,900 horsepowerTwo auxiliary engines</Ship_propulsion>
@@ -37,13 +37,13 @@ nine-person SRB retrieval team, a retrieval supervisor and observers.</Ship_comp
 <Ship_boats>
 Two small boats</Ship_boats>
 <Ship_beam>
-37&nbsp;feet (14.3&nbsp;m)</Ship_beam>
+37 feet (14.3 m)</Ship_beam>
 <Ship_notes>
 Towing capacity: 60,000 pounds (27,000 kg)</Ship_notes>
 <Ship_crew>
 10</Ship_crew>
 <Ship_draught>
-10-12&nbsp;feet (3-4&nbsp;m)</Ship_draught>
+10-12 feet (3-4 m)</Ship_draught>
 </parameters>
 </template>
 <template>

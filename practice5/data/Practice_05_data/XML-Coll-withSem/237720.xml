@@ -67,7 +67,7 @@ cryptanalysis</link> of Malbolge and provided a program to copy its input to its
 <p>
 
 Olmstead believed Malbolge to be a <link xlink:type="simple" xlink:href="../962/1811962.xml">
-linear bounded automaton</link>. There is a more interesting discussion about whether one can implement sensible loops in Malbolge &mdash; it took many years before the first non-terminating one was introduced. A correct <music wordnetid="107020895" confidence="0.8">
+linear bounded automaton</link>. There is a more interesting discussion about whether one can implement sensible loops in Malbolge — it took many years before the first non-terminating one was introduced. A correct <music wordnetid="107020895" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
 <musical_composition wordnetid="107037465" confidence="0.8">
@@ -124,7 +124,7 @@ ternary number</link></instrumentality>
 Before a Malbolge program starts, the first part of memory is filled with the program. All whitespace in the program is ignored and, to make programming more difficult, everything else in the program must start out as one of the instructions below.</p>
 <p>
 
-The rest of memory is filled by using the <it>crazy</it> operation (see below) on the previous two addresses (<b>[m]&nbsp;=&nbsp;crz&nbsp;[m&nbsp;-&nbsp;2],&nbsp;[m&nbsp;-&nbsp;1]</b>).  Memory filled this way will repeat every twelve addresses (the individual ternary digits will repeat every three or four addresses, so a group of ternary digits is guaranteed to repeat every twelve).</p>
+The rest of memory is filled by using the <it>crazy</it> operation (see below) on the previous two addresses (<b>[m] = crz [m - 2], [m - 1]</b>).  Memory filled this way will repeat every twelve addresses (the individual ternary digits will repeat every three or four addresses, so a group of ternary digits is guaranteed to repeat every twelve).</p>
 
 </ss1>
 <ss1>
@@ -141,7 +141,7 @@ instructions</link>. Malbolge figures out which instruction to execute by taking
 Instructions</caption>
 <row align="center">
 <header>
- Value of ([c]&nbsp;+&nbsp;c)&nbsp;%&nbsp;94</header>
+ Value of ([c] + c) % 94</header>
 <header>
 Instruction represented</header>
 <header>
@@ -151,7 +151,7 @@ Explanation</header>
 <header>
 4</header>
 <col>
- <it>jmp&nbsp;[d]&nbsp;+&nbsp;1''</it></col>
+ <it>jmp [d] + 1''</it></col>
 <col align="left">
  The value at <b><it>[d]</it></b>, plus one, is where Malbolge will jump to and start executing instructions.</col>
 </row>
@@ -159,7 +159,7 @@ Explanation</header>
 <header>
 5</header>
 <col>
-<it>out&nbsp;a''</it></col>
+<it>out a''</it></col>
 <col align="left">
  Prints the value of <b><it>a</it></b>, as an <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
@@ -178,7 +178,7 @@ character, to the screen.</col>
 <header>
 23</header>
 <col>
-<it>in&nbsp;a''</it></col>
+<it>in a''</it></col>
 <col align="left">
 Inputs a character, as an ASCII code, into <b><it>a</it></b>. Newlines or line feeds are both code <it>10</it>.  An end-of-file condition is code <it>59048</it>.</col>
 </row>
@@ -186,7 +186,7 @@ Inputs a character, as an ASCII code, into <b><it>a</it></b>. Newlines or line f
 <header>
 39</header>
 <col>
- <it>rotr&nbsp;[d]mov&nbsp;a,&nbsp;[d]''</it></col>
+ <it>rotr [d]mov a, [d]''</it></col>
 <col align="left">
  Rotates the value at <b><it>[d]</it></b> by one ternary digit (000211111<b><it>2</it></b> becomes <b><it>2</it></b>000211111). Stores the result both at <b><it>[d]</it></b> and in <b><it>a</it></b>.</col>
 </row>
@@ -194,7 +194,7 @@ Inputs a character, as an ASCII code, into <b><it>a</it></b>. Newlines or line f
 <header>
 40</header>
 <col>
- <it>mov&nbsp;d,&nbsp;[d]''</it></col>
+ <it>mov d, [d]''</it></col>
 <col align="left">
  Copies the value at <b><it>[d]</it></b> to <b><it>d</it></b>.</col>
 </row>
@@ -202,7 +202,7 @@ Inputs a character, as an ASCII code, into <b><it>a</it></b>. Newlines or line f
 <header>
 62</header>
 <col>
- <it>crz&nbsp;[d],&nbsp;amov&nbsp;a,&nbsp;[d]''</it></col>
+ <it>crz [d], amov a, [d]''</it></col>
 <col align="left">
  Does the <it>crazy</it> operation (see below) with the value at <b><it>[d]</it></b> and the value of <b><it>a</it></b>. Stores the result both at <b><it>[d]</it></b> and in <b><it>a</it></b>.</col>
 </row>
@@ -238,7 +238,7 @@ After each instruction is executed, the guilty instruction gets encrypted (see b
  <it>Crazy</it> operation </st>
 <p>
 
-For each ternary digit of both inputs, use the following table to get a ternary digit of the result. For example, <b>crz&nbsp;0001112220,&nbsp;0120120120</b> gives 1001022211.</p>
+For each ternary digit of both inputs, use the following table to get a ternary digit of the result. For example, <b>crz 0001112220, 0120120120</b> gives 1001022211.</p>
 <p>
 
 <table align="center" cellpadding="2" class="wikitable" border="1">

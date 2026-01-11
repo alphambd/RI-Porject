@@ -420,48 +420,48 @@ Linux distribution</link>s</header>
 Arch Linux</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../890/998890.xml">
 CentOS</link></O>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../242/8242.xml">
 Debian</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../070/9951070.xml">
 Fedora</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../419/94419.xml">
 Gentoo</link></O>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../368/19368.xml">
 Mandriva Linux</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../778/556778.xml">
 Red Hat Enterprise Linux</link></O>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../290/28290.xml">
 Slackware</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../875/7612875.xml">
-SUSE</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../875/7612875.xml">
+SUSE</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/990298.xml">
 Ubuntu</link></O>
-&nbsp;·  <it><link xlink:type="simple" xlink:href="../709/620709.xml">
+ ·  <it><link xlink:type="simple" xlink:href="../709/620709.xml">
 more…</link>''</it></col>
 </row>
 </table>

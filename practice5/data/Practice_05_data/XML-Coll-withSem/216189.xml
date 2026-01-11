@@ -78,7 +78,7 @@ Lubricating oil creates a separating film between surfaces of adjacent moving pa
 cooler</link> for this purpose.</p>
 <p>
 
-In petrol (gasoline) engines, the top compression ring can expose the motor oil to temperatures of 320&nbsp;°F (160&nbsp;°C). In diesel engines the top ring can expose the oil to temperatures over 600&nbsp;°F (315&nbsp;°C). Motor oils with higher <link xlink:type="simple" xlink:href="../754/18963754.xml">
+In petrol (gasoline) engines, the top compression ring can expose the motor oil to temperatures of 320 °F (160 °C). In diesel engines the top ring can expose the oil to temperatures over 600 °F (315 °C). Motor oils with higher <link xlink:type="simple" xlink:href="../754/18963754.xml">
 viscosity</link> indices thin less at these higher temperatures.</p>
 <p>
 
@@ -297,7 +297,7 @@ polymer</link> additives called <link xlink:type="simple" xlink:href="../862/220
 viscosity index improver</link>s, or VIs are added to the oil. These additives make the oil a <b>multi-grade</b> motor oil. The idea is to cause the multi-grade oil to have the viscosity of the base number when cold and the viscosity of second number when hot. This enables one type of oil to be generally used all year, and when multi-grades were initially developed, they were frequently described as <b>all-season oil</b>. The viscosity of a multi-grade oil still varies logarithmically with temperature, but the slope representing the change is lessened. This slope representing the change with temperature depends on the nature and amount of the additives to the base oil.</p>
 <p>
 
-The SAE designation for multi-grade oils includes two grade numbers; for example, <b>10W-30</b> designates a common multi-grade oil. Historically, the first number associated with the <b>W</b> (again 'W' is for Winter, not Weight) is not rated at any single temperature. The "10W" means that this oil can be pumped by your engine as well as a single-grade SAE 10 oil can be pumped. "5W" can be pumped at a lower temperature than "10W" and "0W" can be pumped at a lower temperature than "5W". The second number, 30, means that the viscosity of this multi-grade oil at 100°C (212°F) operating temperature corresponds to the viscosity of a single-grade 30 oil at same temperature. The governing SAE standard is called SAE J300. This "classic" method of defining the "W" rating has since been replaced with a more technical test where a "cold crank simulator" is used at increasingly lowered temps. A 0W oil is tested at −35&nbsp;°C (−31&nbsp;°F), a 5W at −30&nbsp;°C (−22&nbsp;°F) and a 10W is tested at −25&nbsp;°C (−13&nbsp;°F). The real-world ability of an oil to crank in the cold is diminished soon after put into service. The motor oil grade and viscosity to be used in a given vehicle is specified by the manufacturer of the vehicle (although some modern European cars now make no viscosity requirement), but can vary from country to country when climatic or mpg constraints come into play.</p>
+The SAE designation for multi-grade oils includes two grade numbers; for example, <b>10W-30</b> designates a common multi-grade oil. Historically, the first number associated with the <b>W</b> (again 'W' is for Winter, not Weight) is not rated at any single temperature. The "10W" means that this oil can be pumped by your engine as well as a single-grade SAE 10 oil can be pumped. "5W" can be pumped at a lower temperature than "10W" and "0W" can be pumped at a lower temperature than "5W". The second number, 30, means that the viscosity of this multi-grade oil at 100°C (212°F) operating temperature corresponds to the viscosity of a single-grade 30 oil at same temperature. The governing SAE standard is called SAE J300. This "classic" method of defining the "W" rating has since been replaced with a more technical test where a "cold crank simulator" is used at increasingly lowered temps. A 0W oil is tested at −35 °C (−31 °F), a 5W at −30 °C (−22 °F) and a 10W is tested at −25 °C (−13 °F). The real-world ability of an oil to crank in the cold is diminished soon after put into service. The motor oil grade and viscosity to be used in a given vehicle is specified by the manufacturer of the vehicle (although some modern European cars now make no viscosity requirement), but can vary from country to country when climatic or mpg constraints come into play.</p>
 
 </ss1>
 <ss1>
@@ -381,7 +381,7 @@ ILSAC</st>
 <p>
 
 The International Lubricant Standardization and Approval Committee (ILSAC) also has standards for motor oil. Their latest standard, GF-4<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref> was approved in 2004. A key test is the Sequence IIIG, which involves running a 3.8L, <link xlink:type="simple" xlink:href="../662/895662.xml">
-GM 3.8L V-6</link> at 125&nbsp;horsepower (93&nbsp;kW), 3600&nbsp;rpm, and 150°C (302°F) oil temperature for 100 hours. These are much more severe conditions than any API-specified oil was designed for: cars which typically push their oil temperature consistently above 100°C (212°F) are most turbo-charged engines, along with most engines of European or Japanese origin, particularly small capacity, high power output.</p>
+GM 3.8L V-6</link> at 125 horsepower (93 kW), 3600 rpm, and 150°C (302°F) oil temperature for 100 hours. These are much more severe conditions than any API-specified oil was designed for: cars which typically push their oil temperature consistently above 100°C (212°F) are most turbo-charged engines, along with most engines of European or Japanese origin, particularly small capacity, high power output.</p>
 <p>
 
 The IIIG test is about 50% more difficult<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%226%22])">6</ref> than the previous IIIF test, used in GF-3 and API SL oils. Engine oils bearing the API starburst symbol since 2005 are ILSAC GF-4 compliant.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%227%22])">7</ref>&#91;&#93;</p>
@@ -398,7 +398,7 @@ The ACEA (<association wordnetid="108049401" confidence="0.8">
 Association des Constructeurs Européens d'Automobiles</link></group>
 </association>
 ) performance/quality classifications A3/A5 tests used in <link xlink:type="simple" xlink:href="../239/9239.xml">
-Europe</link> are even tougher than the API and ILSAC standards.  In cars of American origin, it is debatable whether this matters for normal drain intervals (5,000-7,000&nbsp;miles).  However, most modern cars of European origin frequently specifically refer oils meeting ACEA standards, and many European cars now make no reference to API specifications.  CEC (The Co-ordinating European Council) is the development body for fuel and lubricant testing in Europe and beyond, setting the standards via their European Industry groups; ACEA, ATIEL, ATC and CONCAWE.</p>
+Europe</link> are even tougher than the API and ILSAC standards.  In cars of American origin, it is debatable whether this matters for normal drain intervals (5,000-7,000 miles).  However, most modern cars of European origin frequently specifically refer oils meeting ACEA standards, and many European cars now make no reference to API specifications.  CEC (The Co-ordinating European Council) is the development body for fuel and lubricant testing in Europe and beyond, setting the standards via their European Industry groups; ACEA, ATIEL, ATC and CONCAWE.</p>
 
 </ss1>
 <ss1>
@@ -466,10 +466,10 @@ Peugeot</link></company>
 Citroën</link>.</p>
 <p>
 
-In recent times, very highly specialised "extended drain" "longlife" oils have arisen, whereby, taking Volkswagen Group vehicles, a petrol engine can now go up to 2 years or 30,000&nbsp;km (a little under 20,000&nbsp;miles), and a diesel engine can go up to 2 years or 50,000&nbsp;km (a little under 30,000&nbsp;miles) - before requiring an oil change.  BMW, GM, Mercedes and PSA all have their own similar longlife oil standards.</p>
+In recent times, very highly specialised "extended drain" "longlife" oils have arisen, whereby, taking Volkswagen Group vehicles, a petrol engine can now go up to 2 years or 30,000 km (a little under 20,000 miles), and a diesel engine can go up to 2 years or 50,000 km (a little under 30,000 miles) - before requiring an oil change.  BMW, GM, Mercedes and PSA all have their own similar longlife oil standards.</p>
 <p>
 
-Furthermore, virtually all European OEM standards require a long duration of longevity of the HTHS (High Temperature, High Shear) viscosity, many around the 3.5&nbsp;cP.  </p>
+Furthermore, virtually all European OEM standards require a long duration of longevity of the HTHS (High Temperature, High Shear) viscosity, many around the 3.5 cP.  </p>
 <p>
 
 As a result of this ultra-modern development in oil technology, and the subsequent development of the engines themselves (particularly with powerful engine electronic ECUs), virtually all modern European cars will demand a specific OEM-only oil standard.  As a result, they now invariably make no reference at all to API standards, nor SAE viscosity grades.  They may also make no primary reference to the ACEA standards, with the exception of being able to use a "lesser" ACEA grade oil for "emergency top-up", though this usually has strict limits, often up to a maximum of ½ a litre of non-OEM oil.</p>

@@ -254,7 +254,7 @@ O(<it>p</it>(<it>n</it>))</col>
 <col>
 <it>Qs0''</it></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 Initial  state of <it>M''</it></col>
 <col>
@@ -264,7 +264,7 @@ O(1)</col>
 <col>
 <it>H00''</it></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 Initial position of read/write head.</col>
 <col>
@@ -284,7 +284,7 @@ O(<it>p</it>(<it>n</it>)²)</col>
 <col>
 <it>Tijk</it> = <it>Tij</it>(<it>k</it>+1) ∨ <it>Hik''</it></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 Tape remains unchanged unless written.</col>
 <col>
@@ -436,7 +436,7 @@ References</st>
 Cook, Stephen</link></scientist>
 </person>
 &#32;(1971).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?coll=GUIDE&amp;dl=GUIDE&amp;id=805047">
-The complexity of theorem proving procedures</weblink>", Proceedings of the Third Annual ACM Symposium on Theory of Computing,&#32;151–158.</cite>&nbsp;</entry>
+The complexity of theorem proving procedures</weblink>", Proceedings of the Third Annual ACM Symposium on Theory of Computing,&#32;151–158.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">T. P. Baker; J. Gill, R. Solovay&#32;(1975).&#32;"Relativizations of the P = NP question". <it>SIAM Journal on Computing</it>&#32;<b>4</b>&#32;(4): 431–442. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -446,10 +446,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1137%2F0204037">
-10.1137/0204037</weblink>.</cite>&nbsp;</entry>
+10.1137/0204037</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Dekhtiar, M.&#32;(1969).&#32;"On the impossibility of eliminating exhaustive search in computing a function relative to its graph". <it><link xlink:type="simple" xlink:href="../850/15050850.xml">
-Proceedings of the USSR Academy of Sciences</link></it>&#32;<b>14</b>: 1146–1148.</cite>&nbsp; (Russian)</entry>
+Proceedings of the USSR Academy of Sciences</link></it>&#32;<b>14</b>: 1146–1148.</cite>  (Russian)</entry>
 <entry id="4">
  <cite style="font-style:normal"><person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../708/402708.xml">
@@ -460,7 +460,7 @@ Russian</link></language>
 : Универсальные задачи перебора, Universal'nye perebornye zadachi)". <it>Problems of Information Transmission (<language wordnetid="106282651" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../431/25431.xml">
 Russian</link></language>
-: Проблемы передачи информации, Problemy Peredachi Informatsii)</it>&#32;<b>9</b>&#32;(3): 265–266.</cite>&nbsp; (Russian), translated into English by  <cite style="font-style:normal">Trakhtenbrot, B. A.&#32;(1984).&#32;"A survey of Russian approaches to perebor (brute-force searches) algorithms". <it>Annals of the History of Computing</it>&#32;<b>6</b>&#32;(4): 384–400. <document wordnetid="106470073" confidence="0.8">
+: Проблемы передачи информации, Problemy Peredachi Informatsii)</it>&#32;<b>9</b>&#32;(3): 265–266.</cite>  (Russian), translated into English by  <cite style="font-style:normal">Trakhtenbrot, B. A.&#32;(1984).&#32;"A survey of Russian approaches to perebor (brute-force searches) algorithms". <it>Annals of the History of Computing</it>&#32;<b>6</b>&#32;(4): 384–400. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -468,12 +468,12 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FMAHC.1984.10036">
-10.1109/MAHC.1984.10036</weblink>.</cite>&nbsp;</entry>
+10.1109/MAHC.1984.10036</weblink>.</cite> </entry>
 <entry id="5">
- <cite id="Reference-Garey-1979" style="font-style:normal" class="book">Garey, Michael R.;&#32;David S. Johnson&#32;(1979). Computers and Intractability: A Guide to the Theory of NP-Completeness.&#32;W. H. Freeman. ISBN 0716710455.</cite>&nbsp;</entry>
+ <cite id="Reference-Garey-1979" style="font-style:normal" class="book">Garey, Michael R.;&#32;David S. Johnson&#32;(1979). Computers and Intractability: A Guide to the Theory of NP-Completeness.&#32;W. H. Freeman. ISBN 0716710455.</cite> </entry>
 <entry id="6">
  <cite id="Reference-Karp-1972" style="font-style:normal" class="book"><link xlink:type="simple" xlink:href="../763/298763.xml">
-Karp, Richard M.</link>&#32;(1972).&#32;"Reducibility among combinatorial problems",&#32;in Raymond E. Miller and James W. Thatcher (editors): Complexity of Computer Computations.&#32;New York:&#32;Plenum,&#32;85–103. ISBN 0306307073.</cite>&nbsp;</entry>
+Karp, Richard M.</link>&#32;(1972).&#32;"Reducibility among combinatorial problems",&#32;in Raymond E. Miller and James W. Thatcher (editors): Complexity of Computer Computations.&#32;New York:&#32;Plenum,&#32;85–103. ISBN 0306307073.</cite> </entry>
 </reflist>
 </p>
 

@@ -335,7 +335,7 @@ Roscoe, A. W.</link></associate>
 </peer>
 </physical_entity>
 &#32;(1997). The Theory and Practice of Concurrency.&#32;<link xlink:type="simple" xlink:href="../050/5421050.xml">
-Prentice Hall</link>. ISBN 0-13-674409-5.</cite>&nbsp;</entry>
+Prentice Hall</link>. ISBN 0-13-674409-5.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Cleaveland, Rance; Scott Smolka&#32;(December, 1996).&#32;"<weblink xlink:type="simple" xlink:href="http://doi.acm.org/10.1145/242223.242252">
 Strategic Directions in Concurrency Research</weblink>". <it>ACM Computing Surveys</it>&#32;<b>28</b>&#32;(4): 607. <document wordnetid="106470073" confidence="0.8">
@@ -346,14 +346,14 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F242223.242252">
-10.1145/242223.242252</weblink>.</cite>&nbsp;</entry>
+10.1145/242223.242252</weblink>.</cite> </entry>
 <entry id="3">
 J.C.M. Baeten, <weblink xlink:type="simple" xlink:href="http://www.win.tue.nl/fm/0402history.pdf">
 <it>A brief history of process algebra''</it></weblink>, Rapport CSR 04-02, Vakgroep Informatica, Technische Universiteit Eindhoven, 2004</entry>
 <entry id="4">
  <cite id="Reference-Filman-1984" style="font-style:normal" class="book">Filman, Robert;&#32;Daniel Friedman&#32;(1984). <weblink xlink:type="simple" xlink:href="http://ic.arc.nasa.gov/people/filman/text/dpl/dpl.html">
 Coordinated Computing - 
-Tools and Techniques for Distributed Software</weblink>.&#32;McGraw-Hill. ISBN 0-07-022439-0.</cite>&nbsp;</entry>
+Tools and Techniques for Distributed Software</weblink>.&#32;McGraw-Hill. ISBN 0-07-022439-0.</cite> </entry>
 <entry id="5">
  <cite style="font-style:normal">Lee, Edward; Alberto Sangiovanni-Vincentelli&#32;(December, 1998).&#32;"<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109/43.736561">
 A Framework for Comparing Models of Computation</weblink>". <it><link xlink:type="simple" xlink:href="../358/12953358.xml">
@@ -365,13 +365,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2F43.736561">
-10.1109/43.736561</weblink>.</cite>&nbsp;|journal=<link xlink:type="simple" xlink:href="../358/12953358.xml">
+10.1109/43.736561</weblink>.</cite> |journal=<link xlink:type="simple" xlink:href="../358/12953358.xml">
 IEEE Transactions on CAD</link>|volume=17|issue=12|pages=1217–1229|date=December, 1998}} </entry>
 <entry id="6">
  <cite style="font-style:normal">Mogens Nielsen;&#32;Vladimiro Sassone and Glynn Winskel&#32;(1993). "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/article/nielsen94relationships.html">
-Relationships Between Models of Concurrency</weblink>".&#32;<it>REX School/Symposium</it>.</cite>&nbsp;</entry>
+Relationships Between Models of Concurrency</weblink>".&#32;<it>REX School/Symposium</it>.</cite> </entry>
 <entry id="7">
- <cite id="Reference-Roscoe-2001" style="font-style:normal" class="book">Roscoe, Colin&#32;(2001). Modal and Temporal Properties of Processes.&#32;Springer. ISBN 0-387-98717-7.</cite>&nbsp;</entry>
+ <cite id="Reference-Roscoe-2001" style="font-style:normal" class="book">Roscoe, Colin&#32;(2001). Modal and Temporal Properties of Processes.&#32;Springer. ISBN 0-387-98717-7.</cite> </entry>
 </reflist>
  </p>
 
@@ -384,19 +384,19 @@ Relationships Between Models of Concurrency</weblink>".&#32;<it>REX School/Sympo
 <list>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Lynch, Nancy A.&#32;(1996). Distributed Algorithms.&#32;Morgan Kauffman. ISBN 1558603484.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Lynch, Nancy A.&#32;(1996). Distributed Algorithms.&#32;Morgan Kauffman. ISBN 1558603484.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Tanenbaum, Andrew S.;&#32;Van Steen, Maarten&#32;(2002). Distributed Systems: Principles and Paradigms.&#32;Prentice Hall. ISBN 0-13-088893-1.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Tanenbaum, Andrew S.;&#32;Van Steen, Maarten&#32;(2002). Distributed Systems: Principles and Paradigms.&#32;Prentice Hall. ISBN 0-13-088893-1.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Kurki-Suonio, Reino&#32;(2005). A Practical Theory of Reactive Systems.&#32;Springer. ISBN 3-540-23342-3.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Kurki-Suonio, Reino&#32;(2005). A Practical Theory of Reactive Systems.&#32;Springer. ISBN 3-540-23342-3.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Garg, Vijay K.&#32;(2002). Elements of Distributed Computing.&#32;Wiley-IEEE Press. ISBN 0-471-03600-5.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Garg, Vijay K.&#32;(2002). Elements of Distributed Computing.&#32;Wiley-IEEE Press. ISBN 0-471-03600-5.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Magee, Jeff;, Kramer, Jeff&#32;(2006). Concurrency: State Models and Java Programming.&#32;Wiley. ISBN 0-470-09355-2.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Magee, Jeff;, Kramer, Jeff&#32;(2006). Concurrency: State Models and Java Programming.&#32;Wiley. ISBN 0-470-09355-2.</cite> </entry>
 </list>
 </p>
 

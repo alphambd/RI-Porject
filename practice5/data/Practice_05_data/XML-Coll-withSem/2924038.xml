@@ -389,7 +389,7 @@ improve this article</weblink>if you can. <it>(November 2007)''</it></col>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://linux.die.net/man/2/ioctl">
-ioctl(2)</weblink>&nbsp;–&nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+ioctl(2)</weblink> – <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
  <link xlink:type="simple" xlink:href="../332/85332.xml">
@@ -397,7 +397,7 @@ man page</link></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://linux.die.net/man/2/ioctl_list">
-ioctl_list(2)</weblink>&nbsp;–&nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+ioctl_list(2)</weblink> – <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
  <link xlink:type="simple" xlink:href="../332/85332.xml">
@@ -405,7 +405,7 @@ man page</link></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.freebsd.org/cgi/man.cgi?query=ioctl&amp;sektion=2">
-ioctl(2)</weblink>&nbsp;–&nbsp;<platform wordnetid="103961939" confidence="0.8">
+ioctl(2)</weblink> – <platform wordnetid="103961939" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <surface wordnetid="104362025" confidence="0.8">
 <horizontal_surface wordnetid="103536348" confidence="0.8">

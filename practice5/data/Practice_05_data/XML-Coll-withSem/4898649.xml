@@ -125,7 +125,7 @@ Macon</link></urban_area>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/76972.xml">
 Denmark</link></country>
  <cyclist wordnetid="109986189" confidence="0.9508927676800064">
@@ -141,7 +141,7 @@ Lars Michaelsen</link></person>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/76972.xml">
 Denmark</link></country>
  <link xlink:type="simple" xlink:href="../026/2170026.xml">
@@ -167,7 +167,7 @@ Rome</link></village>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../750/31750.xml">
 Ukraine</link></country>
  <cyclist wordnetid="109986189" confidence="0.9508927676800064">
@@ -183,7 +183,7 @@ Yaroslav Popovych</link></person>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -223,7 +223,7 @@ Chattanooga</link></village>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -245,7 +245,7 @@ Floyd Landis</link></col>
 <col>
 <image width="17px" src="Flag_of_Switzerland.svg" type="border">
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../748/26748.xml">
 Switzerland</link></country>
  <company wordnetid="108058098" confidence="0.9508927676800064">
@@ -273,7 +273,7 @@ Dahlonega, Georgia</link></village>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -303,7 +303,7 @@ Fred Rodriguez</link></person>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../343/3343.xml">
 Belgium</link></country>
  <link xlink:type="simple" xlink:href="../479/2280479.xml">
@@ -329,7 +329,7 @@ Brasstown Bald</link></mountain>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -359,7 +359,7 @@ Tom Danielson</link></person>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -401,7 +401,7 @@ Alpharetta, Georgia</link></village>
 border 
 </caption>
 </image>
-&nbsp;<city wordnetid="108524735" confidence="0.9508927676800064">
+ <city wordnetid="108524735" confidence="0.9508927676800064">
 <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../905/18951905.xml">
 Argentina</link></country>
@@ -415,7 +415,7 @@ Juan José Haedo</link></col>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -766,13 +766,13 @@ Tour de Georgia</link></activity>
 <col >
  
 <link xlink:type="simple" xlink:href="../879/5419879.xml">
-2004</link>&nbsp;| 
+2004</link> | 
 <link xlink:type="simple" xlink:href="../567/5420567.xml">
-2005</link>&nbsp;| 
+2005</link> | 
 <link xlink:type="simple" xlink:href="../649/4898649.xml">
-2006</link>&nbsp;| 
+2006</link> | 
 <link xlink:type="simple" xlink:href="../796/9002796.xml">
-2007</link>&nbsp;|
+2007</link> |
 <report wordnetid="107218470" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../948/16814948.xml">
 2008</link></report>

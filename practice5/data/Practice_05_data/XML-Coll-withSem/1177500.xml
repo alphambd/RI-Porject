@@ -338,7 +338,7 @@ http://localhost:18088/wiki/index.php/Level_of_detail#endnote_hlod</weblink>. Th
 <entry level="1" type="number">
 
  <cite id="endnote_oldOldOld" style="font-style: normal;">
-<b>^</b></cite>&nbsp; Communications of the ACM, October 1976 Volume 19 Number 10. Pages 547-554. <it>Hierarchical Geometric Models for Visible Surface Algorithms</it> by <physical_entity wordnetid="100001930" confidence="0.8">
+<b>^</b></cite>  Communications of the ACM, October 1976 Volume 19 Number 10. Pages 547-554. <it>Hierarchical Geometric Models for Visible Surface Algorithms</it> by <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
 <alumnus wordnetid="109786338" confidence="0.8">
@@ -361,15 +361,15 @@ James H. Clark</link></scholar>
 <entry level="1" type="number">
 
  <cite id="endnote_Catmull" style="font-style: normal;">
-<b>^</b></cite>&nbsp; Catmull E., <it>A Subdivision Algorithm for Computer Display of Curved Surfaces</it>. Tech. Rep. UTEC-CSc-74-133, University of Utah, Salt Lake City, Utah, Dec. 1974.</entry>
+<b>^</b></cite>  Catmull E., <it>A Subdivision Algorithm for Computer Display of Curved Surfaces</it>. Tech. Rep. UTEC-CSc-74-133, University of Utah, Salt Lake City, Utah, Dec. 1974.</entry>
 <entry level="1" type="number">
 
  <cite id="endnote_geomipmapping" style="font-style: normal;">
-<b>^</b></cite>&nbsp; de Boer, W.H., <it>Fast Terrain Rendering using Geometrical Mipmapping</it>, in flipCode featured articles, October 2000. Available at http://www.flipcode.com/tutorials/tut_geomipmaps.shtml.</entry>
+<b>^</b></cite>  de Boer, W.H., <it>Fast Terrain Rendering using Geometrical Mipmapping</it>, in flipCode featured articles, October 2000. Available at http://www.flipcode.com/tutorials/tut_geomipmaps.shtml.</entry>
 <entry level="1" type="number">
 
  <cite id="endnote_hlod" style="font-style: normal;">
-<b>^</b></cite>&nbsp; Carl Erikson's paper at http://www.cs.unc.edu/Research/ProjectSummaries/hlods.pdf provides a quick, yet effective overlook at HLOD mechanisms. A more involved description follows in his thesis, at http://www.cs.unc.edu/~geom/HLOD/Dissertation/Dissertation.pdf.</entry>
+<b>^</b></cite>  Carl Erikson's paper at http://www.cs.unc.edu/Research/ProjectSummaries/hlods.pdf provides a quick, yet effective overlook at HLOD mechanisms. A more involved description follows in his thesis, at http://www.cs.unc.edu/~geom/HLOD/Dissertation/Dissertation.pdf.</entry>
 </list>
 </p>
 

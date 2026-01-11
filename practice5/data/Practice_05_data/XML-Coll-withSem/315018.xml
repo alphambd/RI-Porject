@@ -82,7 +82,7 @@ Proprietary</link></license>
 <it>See also: <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
-&nbsp;and <link xlink:type="simple" xlink:href="../460/8177460.xml">
+ and <link xlink:type="simple" xlink:href="../460/8177460.xml">
 History of CP/CMS</link></it>
 </indent>
 <p>
@@ -402,7 +402,7 @@ Overview</st>
 The heart of the VM architecture is a <it>control program</it> or <link xlink:type="simple" xlink:href="../216/1267216.xml">
 hypervisor</link> called <b>VM-CP</b> (usually: <b>CP</b>; sometimes, ambiguously: <b>VM</b>). It runs on the physical hardware, and creates the <link xlink:type="simple" xlink:href="../353/32353.xml">
 virtual machine</link> environment. VM-CP provides <link xlink:type="simple" xlink:href="../596/8273596.xml">
-full virtualization</link> of the physical machine &ndash; including all I/O and other privileged operations. It performs the system's resource-sharing, including device management, dispatching, virtual storage management, and other traditional operating system tasks.  Each VM user is provided with a separate <link xlink:type="simple" xlink:href="../353/32353.xml">
+full virtualization</link> of the physical machine – including all I/O and other privileged operations. It performs the system's resource-sharing, including device management, dispatching, virtual storage management, and other traditional operating system tasks.  Each VM user is provided with a separate <link xlink:type="simple" xlink:href="../353/32353.xml">
 virtual machine</link> having its own <link xlink:type="simple" xlink:href="../144/507144.xml">
 address space</link>, virtual devices, etc., and which is capable of running any software that could be run on a stand-alone machine. A given VM mainframe typically runs hundreds or thousands of virtual machine instances. VM-CP began life as CP-370, a reimplementation of <link xlink:type="simple" xlink:href="../718/315718.xml">
 CP-67</link>, itself a reimplementation of <link xlink:type="simple" xlink:href="../207/7506207.xml">
@@ -478,7 +478,7 @@ Linux</link></O>
  <b>A specialized VM subsystem.</b> Several non-CMS systems run within VM-CP virtual machines, providing services to CMS users such as spooling, interprocess communications, and specialized device support. They operate "behind the scenes", extending the services available to CMS without adding to the VM-CP control program. By running in separate virtual machines, they receive the same security and reliability protections as other VM users. Examples include:</entry>
 <entry level="2" type="bullet">
 
- <b>RSCS</b> ("Remote Spooling and Communication Subsystem") &ndash; communication and information transfer facilities between virtual machines<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></entry>
+ <b>RSCS</b> ("Remote Spooling and Communication Subsystem") – communication and information transfer facilities between virtual machines<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref></entry>
 <entry level="2" type="bullet">
 
  <b><link xlink:type="simple" xlink:href="../722/1042722.xml">
@@ -605,13 +605,13 @@ References</st>
 <entry level="1" type="bullet">
 
  Bob DuCharme, <it>Operating Systems Handbook, Part 5: VM/CMS</it> (available online at <weblink xlink:type="simple" xlink:href="http://www.snee.com/bob/opsys/part5vmcms.pdf">
-www.snee.com</weblink>)&ndash; a fairly detailed user's guide to VM/CMS</entry>
+www.snee.com</weblink>)– a fairly detailed user's guide to VM/CMS</entry>
 <entry level="1" type="bullet">
 
- E. C. Hendricks and T. C. Hartmann, "Evolution of a Virtual Machine Subsystem", <it>IBM Systems Journal</it> Vol. 18, <it>pp.</it> 111-142 (1979)&ndash; RSCS design and implementation</entry>
+ E. C. Hendricks and T. C. Hartmann, "Evolution of a Virtual Machine Subsystem", <it>IBM Systems Journal</it> Vol. 18, <it>pp.</it> 111-142 (1979)– RSCS design and implementation</entry>
 <entry level="1" type="bullet">
 
- IBM Corporation, <it>IBM Virtual Machine Facility/370 Introduction</it>, GC20-1800, (1972)&ndash; the original manual</entry>
+ IBM Corporation, <it>IBM Virtual Machine Facility/370 Introduction</it>, GC20-1800, (1972)– the original manual</entry>
 </list>
 </p>
 <p>
@@ -644,18 +644,18 @@ Elliott, Jim&#32;(2004-08-17).&#32;"<weblink xlink:type="simple" xlink:href="htt
 <entry id="2">
 Creasy, <it>op. cit., p.</it> 483 — role of RSCS.</entry>
 <entry id="3">
-Varian, <it>op. cit., p.</it> 30 &ndash; extent of VM use; more VM licenses than MVS licenses</entry>
+Varian, <it>op. cit., p.</it> 30 – extent of VM use; more VM licenses than MVS licenses</entry>
 <entry id="4">
 <weblink xlink:type="simple" xlink:href="http://www.vm.ibm.com/overview/">
-www.vm.ibm.com</weblink> &ndash; release history</entry>
+www.vm.ibm.com</weblink> – release history</entry>
 <entry id="5">
 <weblink xlink:type="simple" xlink:href="http://www.vm.ibm.com/devpages/christin/vmwebart.html">
-www.vm.ibm.com</weblink> &ndash; VM bear images on an IBM site, contributed by VM developer Pam Christina</entry>
+www.vm.ibm.com</weblink> – VM bear images on an IBM site, contributed by VM developer Pam Christina</entry>
 <entry id="6">
-Varian, <it>op. cit., p.</it> 2 &ndash; the teddy bear story</entry>
+Varian, <it>op. cit., p.</it> 2 – the teddy bear story</entry>
 <entry id="7">
 <weblink xlink:type="simple" xlink:href="http://ppewww.ph.gla.ac.uk/~flavell/vmteddy.html">
-ppewww.ph.gla.ac.uk</weblink> &ndash; another version of the bear origin story, by physicist Alan Flavell, with an image</entry>
+ppewww.ph.gla.ac.uk</weblink> – another version of the bear origin story, by physicist Alan Flavell, with an image</entry>
 </reflist>
 </p>
 <p>
@@ -684,7 +684,7 @@ CTSS</link></O>
 <list>
 <entry level="1" type="bullet">
 
- E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0― extensive (819&nbsp;<it>pp.</it>) treatment of IBM's offerings during this period; the limited coverage of <O wordnetid="106832680" confidence="0.9508927676800064">
+ E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0― extensive (819 <it>pp.</it>) treatment of IBM's offerings during this period; the limited coverage of <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP/CMS</link></O>
  in such a definitive work is telling</entry>
@@ -835,14 +835,14 @@ Family tree</st>
 <row>
 <col colspan="3" style="background: #ccf; border-bottom:1px solid">
 <b>CP/CMS family relationships</b>
-&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;<it>derivation</it>&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt;&amp;gt;&nbsp;<it>strong influence</it>&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt;&nbsp;<it>some influence/precedence''</it></col>
+    → <it>derivation</it>    &amp;gt;&amp;gt; <it>strong influence</it>    &amp;gt; <it>some influence/precedence''</it></col>
 </row>
 <row>
 <col style="border-right:1px solid" rowspan="7">
- &nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../141/254141.xml">
 CTSS</link></O>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col colspan="3" style="border-bottom:1px solid">
@@ -853,7 +853,7 @@ IBM M44/44X</link></col>
 <col style="border-right:1px solid" rowspan="2">
  &amp;gt;&amp;gt; <link>
 CP-40/CMS</link> → <link>
- CP[-67]/CMS</link>&nbsp;</col>
+ CP[-67]/CMS</link> </col>
 <col>
  → <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link> → VM/XA versions → <link xlink:type="simple" xlink:href="../018/315018.xml">

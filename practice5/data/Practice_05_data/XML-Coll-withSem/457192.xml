@@ -249,12 +249,12 @@ Limitations</st>
 
 System 6 had several significant limitations, which were remedied in its successor, System 7. Unlike later Macintosh operating systems, System 6's <link xlink:type="simple" xlink:href="../076/7379076.xml">
 Apple menu</link> was not customizable, and there was no application switcher menu in the upper right-hand corner of the <link xlink:type="simple" xlink:href="../348/2399348.xml">
-menu bar</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref> System 6 supported 24&nbsp;<link xlink:type="simple" xlink:href="../364/3364.xml">
+menu bar</link>.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref> System 6 supported 24 <link xlink:type="simple" xlink:href="../364/3364.xml">
 bit</link>s of addressable <link xlink:type="simple" xlink:href="../847/25847.xml">
-random access memory</link> (RAM), which allowed a maximum of 8&nbsp;<link xlink:type="simple" xlink:href="../918/19918.xml">
+random access memory</link> (RAM), which allowed a maximum of 8 <link xlink:type="simple" xlink:href="../918/19918.xml">
 megabyte</link>s of RAM.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref> This limitation was removed in System 7, and <link xlink:type="simple" xlink:href="../354/32354.xml">
 virtual memory</link> was introduced.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref> System 6 also had a <link xlink:type="simple" xlink:href="../777/13777.xml">
-hard drive</link> capacity limit; it supports up to 2&nbsp;<link xlink:type="simple" xlink:href="../570/12570.xml">
+hard drive</link> capacity limit; it supports up to 2 <link xlink:type="simple" xlink:href="../570/12570.xml">
 gigabyte</link>s and 65,536 files on a drive.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref></p>
 <p>
 
@@ -1315,10 +1315,10 @@ References</st>
  <cite id="CITEREFPaden1988" style="font-style:normal">Paden, Jake&#32;(November 1988),&#32;"Now we are six (System Software 6.0 for the Macintosh)",&#32;<it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../274/1963274.xml">
 MacUser</link></magazine>
-</it>:  184</cite>&nbsp;</entry>
+</it>:  184</cite> </entry>
 <entry id="2">
  <cite id="CITEREFForbes1988" style="font-style:normal">Forbes, Jim&#32;(April 12, 1988),&#32;"Apple to enhance system software, desktop database.",&#32;<it><link xlink:type="simple" xlink:href="../765/2081765.xml">
-PC Week</link></it>:  11</cite>&nbsp;</entry>
+PC Week</link></it>:  11</cite> </entry>
 <entry id="3">
  <cite id="CITEREFBeaver1988" style="font-style:normal">Beaver, David&#32;(July 19, 1988),&#32;"Some simpler solutions to making macros (MacroMaker and AutoMac III macro recorders for the Macintosh)",&#32;<it><work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
@@ -1341,66 +1341,66 @@ MacWEEK</link></publication>
 </magazine>
 </product>
 </work>
-</it>:  44</cite>&nbsp;</entry>
+</it>:  44</cite> </entry>
 <entry id="4">
  <cite id="CITEREF1985" style="font-style:normal">"New Font and Desk Accessory Mover",&#32;<it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../171/214171.xml">
 Macworld</link></magazine>
-</it>:  42, August 1985</cite>&nbsp;</entry>
+</it>:  42, August 1985</cite> </entry>
 <entry id="5">
- <cite id="CITEREFBobker1987" style="font-style:normal">Bobker, Steven&#32;(Nov 1987),&#32;"Packing 'em in (Suitcase font program review)",&#32;<it>MacUser</it>:  111</cite>&nbsp;</entry>
+ <cite id="CITEREFBobker1987" style="font-style:normal">Bobker, Steven&#32;(Nov 1987),&#32;"Packing 'em in (Suitcase font program review)",&#32;<it>MacUser</it>:  111</cite> </entry>
 <entry id="6">
- <cite id="CITEREFAker1988" style="font-style:normal">Aker, Sharon Zardetto&#32;(May 1988),&#32;"DAs of our lives. (FONT-DA Juggler Plus) (Software Review)",&#32;<it>MacUser</it>:  203</cite>&nbsp;</entry>
+ <cite id="CITEREFAker1988" style="font-style:normal">Aker, Sharon Zardetto&#32;(May 1988),&#32;"DAs of our lives. (FONT-DA Juggler Plus) (Software Review)",&#32;<it>MacUser</it>:  203</cite> </entry>
 <entry id="7">
  <cite style="font-style:normal" class="book">Hertzfeld, Andy&#32;(2005). Revolution in the Valley.&#32;<link xlink:type="simple" xlink:href="../824/216824.xml">
-O'Reilly</link>,&#32;243-251. ISBN 0596007191.</cite>&nbsp;</entry>
+O'Reilly</link>,&#32;243-251. ISBN 0596007191.</cite> </entry>
 <entry id="8">
- <cite id="CITEREFWiggins1988" style="font-style:normal">Wiggins, Robert R.&#32;(March 1988),&#32;"All systems go (System Tools 5.0 with MultiFinder)",&#32;<it>MacUser</it>:  126</cite>&nbsp;</entry>
+ <cite id="CITEREFWiggins1988" style="font-style:normal">Wiggins, Robert R.&#32;(March 1988),&#32;"All systems go (System Tools 5.0 with MultiFinder)",&#32;<it>MacUser</it>:  126</cite> </entry>
 <entry id="9">
  <cite id="CITEREFJennings" style="font-style:normal">Jennings, Mark S&#32;(issue 12/1984),&#32;"<weblink xlink:type="simple" xlink:href="http://www.guidebookgallery.org/articles/evaluatingthemacintoshfinder">
 Evaluating the Macintosh Finder</weblink>",&#32;<it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/194393.xml">
 Byte</link></magazine>
-</it>:  A94-A101, </cite>&nbsp;</entry>
+</it>:  A94-A101, </cite> </entry>
 <entry id="10">
  <cite id="CITEREFPoole1984" style="font-style:normal">Poole, Lon&#32;(1984),&#32;"<weblink xlink:type="simple" xlink:href="http://www.guidebookgallery.org/articles/atourofthemacdesktop">
 A tour of the Mac desktop</weblink>",&#32;<it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../171/214171.xml">
 Macworld</link></magazine>
-</it>:  16-27, </cite>&nbsp;</entry>
+</it>:  16-27, </cite> </entry>
 <entry id="11">
- <cite id="CITEREFLeVitus" style="font-style:normal">LeVitus, Bob&#32;((July 1991),&#32;"System 7.0: 10 reasons why you'll love it",&#32;<it>Computer Shopper</it>:  202</cite>&nbsp;</entry>
+ <cite id="CITEREFLeVitus" style="font-style:normal">LeVitus, Bob&#32;((July 1991),&#32;"System 7.0: 10 reasons why you'll love it",&#32;<it>Computer Shopper</it>:  202</cite> </entry>
 <entry id="12">
- <cite id="CITEREF1991" style="font-style:normal">"Settling down with System 7 (Apple Macintosh operating system's compatibility with network operating systems and upgrading benefits)",&#32;<it>The Local Area Network Magazine</it>:  18, August 1991</cite>&nbsp;</entry>
+ <cite id="CITEREF1991" style="font-style:normal">"Settling down with System 7 (Apple Macintosh operating system's compatibility with network operating systems and upgrading benefits)",&#32;<it>The Local Area Network Magazine</it>:  18, August 1991</cite> </entry>
 <entry id="13">
 "<weblink xlink:type="simple" xlink:href="http://docs.info.apple.com/article.html?artnum=8647&amp;coll=cp">
 Macintosh: File System Specifications and Terms</weblink>".&#32;  <link xlink:type="simple" xlink:href="../856/856.xml">
 Apple Inc</link>&#32;(January 17, 2007).&#32;Retrieved on <link>
 2008-04-22</link>.</entry>
 <entry id="14">
- <cite id="CITEREFLeVitus1992" style="font-style:normal">LeVitus, Bob&#32;(March 1992),&#32;"Top ten secrets of System 7 (Beating the System)",&#32;<it>MacUser</it>:  213</cite>&nbsp;</entry>
+ <cite id="CITEREFLeVitus1992" style="font-style:normal">LeVitus, Bob&#32;(March 1992),&#32;"Top ten secrets of System 7 (Beating the System)",&#32;<it>MacUser</it>:  213</cite> </entry>
 <entry id="15">
  <cite style="font-style:normal" class="book">&#32;(October 1992) <weblink xlink:type="simple" xlink:href="http://developer.apple.com/documentation/mac/pdf/MoreMacintoshToolbox.pdf">
 Inside Macintosh: More Macintosh Toolbox (Apple Technical Library)</weblink>.&#32;<link xlink:type="simple" xlink:href="../080/1180080.xml">
-Addison-Wesley</link>,&#32;779. ISBN 0201632438.</cite>&nbsp;</entry>
+Addison-Wesley</link>,&#32;779. ISBN 0201632438.</cite> </entry>
 <entry id="17">
  <cite id="CITEREFCrabb" style="font-style:normal">Crabb, Don&#32;(issue 6/1989),&#32;"The Mac Interface: Showing Its Age",&#32;<it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../393/194393.xml">
 Byte</link></magazine>
-</it>:  235-237</cite>&nbsp;</entry>
+</it>:  235-237</cite> </entry>
 <entry id="16">
- <cite id="CITEREFMichel1991" style="font-style:normal">Michel, Steve&#32;(May 14, 1991),&#32;"Aliasing: a file by any other name. (making duplicate files with minimal disk space) (System 7.0 Survival Guide)",&#32;<it>MacWEEK</it>:  S13</cite>&nbsp;</entry>
+ <cite id="CITEREFMichel1991" style="font-style:normal">Michel, Steve&#32;(May 14, 1991),&#32;"Aliasing: a file by any other name. (making duplicate files with minimal disk space) (System 7.0 Survival Guide)",&#32;<it>MacWEEK</it>:  S13</cite> </entry>
 <entry id="19">
- <cite id="CITEREFPerrow1988" style="font-style:normal">Perrow, Jonathan&#32;(September 20, 1988),&#32;"System 6.0 saga not over yet",&#32;<it>MacWEEK</it>:  2</cite>&nbsp;</entry>
+ <cite id="CITEREFPerrow1988" style="font-style:normal">Perrow, Jonathan&#32;(September 20, 1988),&#32;"System 6.0 saga not over yet",&#32;<it>MacWEEK</it>:  2</cite> </entry>
 <entry id="18">
- <cite id="CITEREF1988" style="font-style:normal">"System 6.0.1 set for distribution",&#32;<it>MacWEEK</it>, September 13, 1988</cite>&nbsp;</entry>
+ <cite id="CITEREF1988" style="font-style:normal">"System 6.0.1 set for distribution",&#32;<it>MacWEEK</it>, September 13, 1988</cite> </entry>
 <entry id="21">
 "<weblink xlink:type="simple" xlink:href="http://docs.info.apple.com/article.html?artnum=9140">
 PowerBook &amp; Macintosh Classic II: No Support for System 6</weblink>".&#32;  <link xlink:type="simple" xlink:href="../856/856.xml">
 Apple Inc</link>&#32;(November 30, 1994).&#32;Retrieved on <link>
 2008-05-03</link>.</entry>
 <entry id="20">
- <cite id="CITEREF1988" style="font-style:normal">"Managers go slow with System 6.0.2",&#32;<it>MacWEEK</it>:  2, October 25, 1988</cite>&nbsp;</entry>
+ <cite id="CITEREF1988" style="font-style:normal">"Managers go slow with System 6.0.2",&#32;<it>MacWEEK</it>:  2, October 25, 1988</cite> </entry>
 <entry id="23">
 "<weblink xlink:type="simple" xlink:href="http://docs.info.apple.com/article.html?artnum=112166">
 Macintosh 512Ke: Technical Specifications</weblink>".&#32;  <link xlink:type="simple" xlink:href="../856/856.xml">
@@ -1473,19 +1473,19 @@ System 1</link>, <link xlink:type="simple" xlink:href="../046/20046.xml#xpointer
 2</link>, <link xlink:type="simple" xlink:href="../046/20046.xml#xpointer(//*[./st=%22System+1=2C+2=2C+3+=26+4%22])">
 3</link>, <link xlink:type="simple" xlink:href="../046/20046.xml#xpointer(//*[./st=%22System+1=2C+2=2C+3+=26+4%22])">
 4</link>, <link xlink:type="simple" xlink:href="../046/20046.xml#xpointer(//*[./st=%22System+Software+5%22])">
-5</link>&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+5</link> ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../192/457192.xml">
 System 6</link></version>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../354/345354.xml">
 System 7</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../354/345354.xml#xpointer(//*[./st=%22Mac+OS+7.6%22])">
 Mac OS 7.6</link></O>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../730/511730.xml">
 Mac OS 8</link></version>
-&nbsp;·  <link xlink:type="simple" xlink:href="../635/205635.xml">
+ ·  <link xlink:type="simple" xlink:href="../635/205635.xml">
 Mac OS 9</link></col>
 </row>
 <row style="height:2px">
@@ -1500,28 +1500,28 @@ history</link>)</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/40642.xml">
 Nextstep</link></O>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../012/738012.xml">
 Public Beta</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../991/500991.xml">
 v10.0</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../988/500988.xml">
 v10.1</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../016/410016.xml">
 v10.2</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../355/293355.xml">
 v10.3</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../975/641975.xml">
 v10.4</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../664/2001664.xml">
 v10.5</link></version>
-&nbsp;·  <version wordnetid="107173585" confidence="0.9508927676800064">
+ ·  <version wordnetid="107173585" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../031/14059031.xml">
 v10.6</link></version>
 </col>
@@ -1537,10 +1537,10 @@ Mac OS X Server</link></col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../421/1553421.xml">
 Rhapsody</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../931/1661931.xml">
 Mac OS X Server 1.0</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../086/47086.xml">
+ ·  <link xlink:type="simple" xlink:href="../086/47086.xml">
 Mac OS X Server</link></col>
 </row>
 <row style="height:2px">
@@ -1553,17 +1553,17 @@ Other OS projects</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../604/238604.xml">
 A/UX</link></O>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../989/89989.xml">
 Taligent</link></institution>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../520/532520.xml">
-Copland</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../520/532520.xml">
+Copland</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../761/547761.xml">
 MkLinux</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../076/53076.xml">
-Darwin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../443/16161443.xml">
+ ·  <link xlink:type="simple" xlink:href="../076/53076.xml">
+Darwin</link> ·  <link xlink:type="simple" xlink:href="../443/16161443.xml">
 iPhone OS</link></col>
 </row>
 </table>

@@ -362,7 +362,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.2307%2F2059567">
-10.2307/2059567</weblink>.</cite>&nbsp;</entry>
+10.2307/2059567</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Monroe ME et al&#32;(2007).&#32;"Analysis of the VIPER: an advanced software package to support high-throughput LC-MS peptide identification". <it>Bioinformatics</it>&#32;<b>23</b>: 2021. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -372,7 +372,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2Fbtm281">
-10.1093/bioinformatics/btm281</weblink>. PMID 17545182.</cite>&nbsp;</entry>
+10.1093/bioinformatics/btm281</weblink>. PMID 17545182.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Colinge J, Masselot A, Giron M, Dessingy T, Magnin J&#32;(2003).&#32;"OLAV: towards high-throughput tandem mass spectrometry data identification". <it>Proteomics</it>&#32;<b>3</b>&#32;(8): 1454–63. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -382,7 +382,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1002%2Fpmic.200300485">
-10.1002/pmic.200300485</weblink>. PMID 12923771.</cite>&nbsp;</entry>
+10.1002/pmic.200300485</weblink>. PMID 12923771.</cite> </entry>
 <entry id="5">
 http://www.thegpm.org/docs/X_series_output_form.pdf here</entry>
 <entry id="6">
@@ -496,35 +496,35 @@ MS software</link></col>
 Ion source</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../284/340284.xml">
-EI</link> &nbsp;&amp;bull;   <technique wordnetid="105665146" confidence="0.8">
+EI</link>  &amp;bull;   <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../104/1485104.xml">
 CI</link></method>
 </know-how>
 </technique>
- &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../080/13801080.xml">
-IA</link> &nbsp;&amp;bull;  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+  &amp;bull;  <link xlink:type="simple" xlink:href="../080/13801080.xml">
+IA</link>  &amp;bull;  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../592/2484592.xml">
 FAB</link></chemical_analysis>
- &nbsp;&amp;bull;   <link xlink:type="simple" xlink:href="../708/8315708.xml">
-FD</link> &nbsp;&amp;bull;  <know-how wordnetid="105616786" confidence="0.8">
+  &amp;bull;   <link xlink:type="simple" xlink:href="../708/8315708.xml">
+FD</link>  &amp;bull;  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../535/2190535.xml">
 MALDI</link></method>
 </know-how>
- &nbsp;&amp;bull;  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+  &amp;bull;  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../994/3057994.xml">
 APCI</link></chemical_analysis>
- &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../085/428085.xml">
-ESI</link> &nbsp;&amp;bull;  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+  &amp;bull;  <link xlink:type="simple" xlink:href="../085/428085.xml">
+ESI</link>  &amp;bull;  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../848/13281848.xml">
 DESI</link></chemical_analysis>
- &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../857/870857.xml">
-GD</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../877/821877.xml">
-ICP</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../354/486354.xml">
-MIP</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../351/10603351.xml">
-TS</link> &nbsp;&amp;bull;  <message wordnetid="106598915" confidence="0.8">
+  &amp;bull;  <link xlink:type="simple" xlink:href="../857/870857.xml">
+GD</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../877/821877.xml">
+ICP</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../354/486354.xml">
+MIP</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../351/10603351.xml">
+TS</link>  &amp;bull;  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -547,7 +547,7 @@ DART</link></database>
 Mass analyzer</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../242/13505242.xml">
-Time-of-flight</link> &nbsp;&amp;bull;  <message wordnetid="106598915" confidence="0.8">
+Time-of-flight</link>  &amp;bull;  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -560,8 +560,8 @@ Quadrupole</link></database>
 </electronic_database>
 </information>
 </message>
- &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../635/1952635.xml">
-Ion trap</link> &nbsp;&amp;bull;  <message wordnetid="106598915" confidence="0.8">
+  &amp;bull;  <link xlink:type="simple" xlink:href="../635/1952635.xml">
+Ion trap</link>  &amp;bull;  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -574,7 +574,7 @@ Quadrupole ion trap</link></database>
 </electronic_database>
 </information>
 </message>
- &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../026/5023026.xml">
+  &amp;bull;  <link xlink:type="simple" xlink:href="../026/5023026.xml">
 Orbitrap</link></col>
 </row>
 <row style="height:2px">
@@ -585,7 +585,7 @@ Orbitrap</link></col>
 Detector</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../403/1777403.xml">
-Electron multiplier</link> &nbsp;&amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
+Electron multiplier</link>  &amp;bull;  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
 <detector wordnetid="103180969" confidence="0.8">
@@ -594,7 +594,7 @@ Microchannel plate detector</link></detector>
 </device>
 </instrumentality>
 </artifact>
- &nbsp;&amp;bull;  <message wordnetid="106598915" confidence="0.8">
+  &amp;bull;  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -617,17 +617,17 @@ Daly detector</link></database>
 MS combination</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../467/770467.xml">
-MS/MS</link> &nbsp;&amp;bull;  <technique wordnetid="105665146" confidence="0.8">
+MS/MS</link>  &amp;bull;  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../892/846892.xml">
 GC/MS</link></method>
 </know-how>
 </technique>
- &nbsp;&amp;bull;  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
+  &amp;bull;  <chemical_analysis wordnetid="100646833" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../378/2378378.xml">
 LC/MS</link></chemical_analysis>
- &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../196/19147196.xml">
+  &amp;bull;  <link xlink:type="simple" xlink:href="../196/19147196.xml">
 IMS/MS</link></col>
 </row>
 </table>

@@ -84,7 +84,7 @@ Blum Blum Shub</link></equipment>
 </instrumentality>
 </artifact>
  <link xlink:type="simple" xlink:href="../524/45524.xml">
-pseudo-random number generator</link> can make a stronger guarantee &mdash; any means of breaking them can be used to build a fast integer factorization algorithm; if integer factorization is hard, then they are strong.  In contrast, it may turn out that there are attacks on the <link xlink:type="simple" xlink:href="../741/1544741.xml">
+pseudo-random number generator</link> can make a stronger guarantee — any means of breaking them can be used to build a fast integer factorization algorithm; if integer factorization is hard, then they are strong.  In contrast, it may turn out that there are attacks on the <link xlink:type="simple" xlink:href="../741/1544741.xml">
 RSA problem</link> more efficient than integer factorization, though none is currently published.</p>
 <p>
 
@@ -421,7 +421,7 @@ Algebraic-group factorisation algorithms</link> amongst which are <event wordnet
 <activity wordnetid="100407535" confidence="0.8">
 <algorithm wordnetid="105847438" confidence="0.8">
 <link xlink:type="simple" xlink:href="../753/578753.xml">
-Pollard's <it>p</it>&nbsp;&amp;minus;&nbsp;1 algorithm</link></algorithm>
+Pollard's <it>p</it> &amp;minus; 1 algorithm</link></algorithm>
 </activity>
 </procedure>
 </psychological_feature>
@@ -707,7 +707,7 @@ Carl Pomerance</link></mathematician>
 </causal_agent>
 </person>
 </physical_entity>
-&#32;(2001). Prime Numbers: A Computational Perspective, 1st edition,&#32;Springer. ISBN 0-387-94777-9.</cite>&nbsp; Chapter 5: Exponential Factoring Algorithms, pp. 191–226. Chapter 6: Subexponential Factoring Algorithms, pp. 227–284. Section 7.4: Elliptic curve method, pp. 301–313.</entry>
+&#32;(2001). Prime Numbers: A Computational Perspective, 1st edition,&#32;Springer. ISBN 0-387-94777-9.</cite>  Chapter 5: Exponential Factoring Algorithms, pp. 191–226. Chapter 6: Subexponential Factoring Algorithms, pp. 227–284. Section 7.4: Elliptic curve method, pp. 301–313.</entry>
 </list>
 </p>
 

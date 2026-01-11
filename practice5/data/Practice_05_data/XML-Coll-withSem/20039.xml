@@ -169,12 +169,12 @@ A recursive merge sort algorithm used to sort an array of 7 integer values.  The
 In sorting <it>n</it> items, merge sort has an <link xlink:type="simple" xlink:href="../956/37956.xml">
 average</link> and <link xlink:type="simple" xlink:href="../956/37956.xml">
 worst-case performance</link> of <link xlink:type="simple" xlink:href="../578/44578.xml">
-O</link>(<it>n</it>&nbsp;log&nbsp;<it>n</it>). If the running time of merge sort for a list of length <it>n</it> is <it>T</it>(<it>n</it>), then the recurrence <it>T</it>(<it>n</it>) = 2<it>T</it>(<it>n</it>/2) + <it>n</it> follows from the definition of the algorithm (apply the algorithm to two lists of half the size of the original list, and add the <it>n</it> steps taken to merge the resulting two lists). The closed form follows from the <link xlink:type="simple" xlink:href="../585/561585.xml">
+O</link>(<it>n</it> log <it>n</it>). If the running time of merge sort for a list of length <it>n</it> is <it>T</it>(<it>n</it>), then the recurrence <it>T</it>(<it>n</it>) = 2<it>T</it>(<it>n</it>/2) + <it>n</it> follows from the definition of the algorithm (apply the algorithm to two lists of half the size of the original list, and add the <it>n</it> steps taken to merge the resulting two lists). The closed form follows from the <link xlink:type="simple" xlink:href="../585/561585.xml">
 master theorem</link>. </p>
 <p>
 
-In the worst case, merge sort does approximately (<it>n</it>&nbsp;⌈<link xlink:type="simple" xlink:href="../992/249992.xml">
-lg</link>&nbsp;<it>n</it>⌉ - 2⌈lg&nbsp;<it>n</it>⌉ + 1) comparisons, which is between (<it>n</it>&nbsp;lg&nbsp;<it>n</it> - <it>n</it> + 1) and (<it>n</it>&nbsp;lg&nbsp;<it>n</it> + <it>n</it> + O(lg <it>n</it>)). <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></p>
+In the worst case, merge sort does approximately (<it>n</it> ⌈<link xlink:type="simple" xlink:href="../992/249992.xml">
+lg</link> <it>n</it>⌉ - 2⌈lg <it>n</it>⌉ + 1) comparisons, which is between (<it>n</it> lg <it>n</it> - <it>n</it> + 1) and (<it>n</it> lg <it>n</it> + <it>n</it> + O(lg <it>n</it>)). <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></p>
 <p>
 
 For large <it>n</it> and a randomly ordered input list,  merge sort's expected (average) number of comparisons approaches <it>α</it>·<it>n</it> fewer than the worst case where <math>\alpha = -1 + \sum_{k=0}^\infty \frac1{2^k+1} \approx 0.2645.</math></p>
@@ -182,13 +182,13 @@ For large <it>n</it> and a randomly ordered input list,  merge sort's expected (
 
 In the <it>worst</it> case, merge sort does about 39% fewer comparisons than <link xlink:type="simple" xlink:href="../249/3268249.xml">
 quicksort</link> does in the <it>average</it> case; merge sort always makes fewer comparisons than quicksort, except in extremely rare cases, when they tie, where merge sort's <it>worst</it> case is found  simultaneously with quicksort's <it>best</it> case.  In terms of moves, merge sort's worst case complexity is <link xlink:type="simple" xlink:href="../578/44578.xml">
-O</link>(<it>n</it>&nbsp;log&nbsp;<it>n</it>)—the same complexity as quicksort's best case, and merge sort's best case takes about half as many iterations as the worst case.</p>
+O</link>(<it>n</it> log <it>n</it>)—the same complexity as quicksort's best case, and merge sort's best case takes about half as many iterations as the worst case.</p>
 <p>
 
-Recursive implementations of merge sort make 2<it>n</it>&nbsp;-&nbsp;1 method calls in the worst case, compared to quicksort's <it>n</it>, thus has roughly twice as much recursive overhead as quicksort. However, iterative, non-recursive, implementations of merge sort, avoiding method call overhead, are not difficult to code. Merge sort's most common implementation does not sort in place; therefore, the memory size of the input must be allocated for the sorted output to be stored in.</p>
+Recursive implementations of merge sort make 2<it>n</it> - 1 method calls in the worst case, compared to quicksort's <it>n</it>, thus has roughly twice as much recursive overhead as quicksort. However, iterative, non-recursive, implementations of merge sort, avoiding method call overhead, are not difficult to code. Merge sort's most common implementation does not sort in place; therefore, the memory size of the input must be allocated for the sorted output to be stored in.</p>
 <p>
 
-Sorting in-place is possible but is very complicated, and will offer little performance gains in practice, even if the algorithm runs in O(<it>n</it>&nbsp;log&nbsp;<it>n</it>) time.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> In these cases, algorithms like <link xlink:type="simple" xlink:href="../995/13995.xml">
+Sorting in-place is possible but is very complicated, and will offer little performance gains in practice, even if the algorithm runs in O(<it>n</it> log <it>n</it>) time.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> In these cases, algorithms like <link xlink:type="simple" xlink:href="../995/13995.xml">
 heapsort</link> usually offer comparable speed, and are far less complex. Additionally, unlike the standard merge sort, in-place merge sort is not a stable sort.</p>
 <p>
 
@@ -345,7 +345,7 @@ Utility in online sorting</st>
 <p>
 
 Merge sort's merge operation is useful in online sorting, where the list to be sorted is received a piece at a time, instead of all at the beginning (see <link xlink:type="simple" xlink:href="../716/22716.xml">
-online algorithm</link>). In this application, we sort each new piece that is received using any sorting algorithm, and then merge it into our sorted list so far using the merge operation. However, this approach can be expensive in time and space if the received pieces are small compared to the sorted list &mdash; a better approach in this case is to store the list in a <link xlink:type="simple" xlink:href="../310/378310.xml">
+online algorithm</link>). In this application, we sort each new piece that is received using any sorting algorithm, and then merge it into our sorted list so far using the merge operation. However, this approach can be expensive in time and space if the received pieces are small compared to the sorted list — a better approach in this case is to store the list in a <link xlink:type="simple" xlink:href="../310/378310.xml">
 self-balancing binary search tree</link> and add elements to it as they are received.</p>
 
 </sec>
@@ -402,7 +402,7 @@ The Art of Computer Programming</link></publication>
 </creation>
 </product>
 </work>
-.&#32;Addison-Wesley,&#32;158-168. ISBN 0-201-89685-0.</cite>&nbsp;</entry>
+.&#32;Addison-Wesley,&#32;158-168. ISBN 0-201-89685-0.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite id="Reference-Cormen-2001" style="font-style:normal" class="book"><scientist wordnetid="110560637" confidence="0.9508927676800064">
@@ -438,7 +438,7 @@ MIT Press</link></company>
  and <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../269/651269.xml">
 McGraw-Hill</link></company>
-,&#32;pp. 27–37. ISBN 0-262-03293-7.</cite>&nbsp;</entry>
+,&#32;pp. 27–37. ISBN 0-262-03293-7.</cite> </entry>
 <entry level="1" type="bullet">
 
  Sun Microsystems, Inc..&#32;"<weblink xlink:type="simple" xlink:href="http://java.sun.com/javase/6/docs/api/java/util/Arrays.html">

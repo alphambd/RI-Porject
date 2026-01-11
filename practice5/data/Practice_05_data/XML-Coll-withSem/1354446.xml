@@ -202,7 +202,7 @@ There are two other types of convolutions that will be useful. Suppose the input
 </p>
 <p>
 
-If we perform carrying on the cyclic convolution, the result is equivalent to the product of the inputs mod B<it>n</it>&nbsp;&amp;minus;&nbsp;1. In the example, 103&nbsp;&amp;minus;&nbsp;1 = 999, performing carrying on (28, 31, 31) yields 3141, and 3141 &amp;equiv; 56088 (mod 999).</p>
+If we perform carrying on the cyclic convolution, the result is equivalent to the product of the inputs mod B<it>n</it> &amp;minus; 1. In the example, 103 &amp;minus; 1 = 999, performing carrying on (28, 31, 31) yields 3141, and 3141 &amp;equiv; 56088 (mod 999).</p>
 <p>
 
 Conversely, if we take the rightmost <it>n</it> elements and <it>subtract</it> the leftmost <it>n</it>&amp;minus;1 elements, this produces the <it>negacyclic convolution</it>:</p>
@@ -243,7 +243,7 @@ Conversely, if we take the rightmost <it>n</it> elements and <it>subtract</it> t
 </p>
 <p>
 
-If we perform carrying on the cyclic convolution, the result is equivalent to the product of the inputs mod B<it>n</it>&nbsp;+&nbsp;1. In the example, 103&nbsp;+&nbsp;1 = 1001, performing carrying on (28, 23, 5) yields 3035, and 3035 &amp;equiv; 56088 (mod 1001). The negacyclic convolution can contain negative numbers, which can be eliminated during carrying using borrowing, as is done in long subtraction.</p>
+If we perform carrying on the cyclic convolution, the result is equivalent to the product of the inputs mod B<it>n</it> + 1. In the example, 103 + 1 = 1001, performing carrying on (28, 23, 5) yields 3035, and 3035 &amp;equiv; 56088 (mod 1001). The negacyclic convolution can contain negative numbers, which can be eliminated during carrying using borrowing, as is done in long subtraction.</p>
 
 </ss1>
 <ss1>
@@ -338,24 +338,24 @@ The algorithm will spend most of its time performing recursive multiplications o
 </p>
 <p>
 
-The key insight to Schönhage-Strassen is to choose N, the modulus, to be equal to 2<it>n</it>&nbsp;+&nbsp;1 for some integer <it>n</it>. This has a number of benefits in standard systems that represent large integers in binary form:</p>
+The key insight to Schönhage-Strassen is to choose N, the modulus, to be equal to 2<it>n</it> + 1 for some integer <it>n</it>. This has a number of benefits in standard systems that represent large integers in binary form:</p>
 <p>
 
 <list>
 <entry level="1" type="bullet">
 
- Any value can be rapidly reduced modulo 2<it>n</it>&nbsp;+&nbsp;1 using only shifts and adds, as explained in the next section.</entry>
+ Any value can be rapidly reduced modulo 2<it>n</it> + 1 using only shifts and adds, as explained in the next section.</entry>
 <entry level="1" type="bullet">
 
  All primitive roots of unity in this ring can be written in the form 2<it>k</it>; consequently we can multiply or divide any number by a root of unity using a shift, and power or square a root of unity by operating only on its exponent.</entry>
 <entry level="1" type="bullet">
 
- The element-by-element recursive multiplications of the transformed vectors can be performed using a negacyclic convolution, which is faster than an acyclic convolution and already has "for free" the effect of reducing its result mod 2<it>n</it>&nbsp;+&nbsp;1.</entry>
+ The element-by-element recursive multiplications of the transformed vectors can be performed using a negacyclic convolution, which is faster than an acyclic convolution and already has "for free" the effect of reducing its result mod 2<it>n</it> + 1.</entry>
 </list>
 </p>
 <p>
 
-To make the recursive multiplications convenient, we will frame Schönhage-Strassen as being a specialized multiplication algorithm for computing not just the product of two numbers, but the product of two numbers mod 2n&nbsp;+&nbsp;1 for some given <it>n</it>. This is not a loss of generality, since one can always choose <it>n</it> large enough so that the product mod 2n&nbsp;+&nbsp;1 is simply the product.</p>
+To make the recursive multiplications convenient, we will frame Schönhage-Strassen as being a specialized multiplication algorithm for computing not just the product of two numbers, but the product of two numbers mod 2n + 1 for some given <it>n</it>. This is not a loss of generality, since one can always choose <it>n</it> large enough so that the product mod 2n + 1 is simply the product.</p>
 
 </ss1>
 <ss1>
@@ -372,7 +372,7 @@ In the course of the algorithm, there are many cases in which multiplication or 
 2<it>n</it> &amp;equiv; &amp;minus;1 (mod 2<it>n</it> + 1)
 </indent>
 
-This makes it simple to reduce a number represented in binary mod 2<it>n</it>&nbsp;+&nbsp;1: take the rightmost (least significant) <it>n</it> bits, subtract the next <it>n</it> bits, add the next <it>n</it> bits, and so on until the bits are exhausted. If the resulting value is still not between 0 and 2<it>n</it>, normalize it by adding or subtracting a multiple of the modulus 2<it>n</it>&nbsp;+&nbsp;1. For example, if <it>n</it>=3 (and so the modulus is 23+1 = 9) and the number being reduced is 656, we have:</p>
+This makes it simple to reduce a number represented in binary mod 2<it>n</it> + 1: take the rightmost (least significant) <it>n</it> bits, subtract the next <it>n</it> bits, add the next <it>n</it> bits, and so on until the bits are exhausted. If the resulting value is still not between 0 and 2<it>n</it>, normalize it by adding or subtracting a multiple of the modulus 2<it>n</it> + 1. For example, if <it>n</it>=3 (and so the modulus is 23+1 = 9) and the number being reduced is 656, we have:</p>
 <p>
 
 <indent level="1">
@@ -415,7 +415,7 @@ A/2<it>k</it> = A(2&amp;minus;<it>k</it>) &amp;equiv; A(22<it>n</it> &amp;minus;
 
 <p>
 
-Given an input numbers <it>x</it> and <it>y</it>, and an integer <it>N</it>, the following algorithm computes <it>xy</it> mod 2<it>N</it>&nbsp;+&nbsp;1:</p>
+Given an input numbers <it>x</it> and <it>y</it>, and an integer <it>N</it>, the following algorithm computes <it>xy</it> mod 2<it>N</it> + 1:</p>
 <p>
 
 <list>
@@ -427,7 +427,7 @@ Given an input numbers <it>x</it> and <it>y</it>, and an integer <it>N</it>, the
  In order to make progress, it's necessary to use a smaller <it>N</it> for recursive multiplications. For this purpose choose <it>n</it> as the smallest integer at least 2<it>n</it>/2<it>k</it> + <it>k</it> and divisible by 2<it>k</it>.</entry>
 <entry level="1" type="number">
 
- Compute the product of X and Y mod 2<it>n</it>&nbsp;+&nbsp;1 using the negacyclic convolution:</entry>
+ Compute the product of X and Y mod 2<it>n</it> + 1 using the negacyclic convolution:</entry>
 <entry level="2" type="number">
 
  Multiply X and Y each by the weight vector using shifts (shift the <it>j</it>th entry left by <it>jn</it>/2<it>k</it>).</entry>
@@ -445,7 +445,7 @@ Given an input numbers <it>x</it> and <it>y</it>, and an integer <it>N</it>, the
  Multiply the result vector C by A-1 using shifts.</entry>
 <entry level="2" type="number">
 
- Adjust signs: some elements of the result may be negative. We compute the largest possible positive value for the <it>j</it>th element of C, (j + 1)22N/2<it>k</it>, and if it exceeds this we subtract the modulus 2<it>n</it>&nbsp;+&nbsp;1.</entry>
+ Adjust signs: some elements of the result may be negative. We compute the largest possible positive value for the <it>j</it>th element of C, (j + 1)22N/2<it>k</it>, and if it exceeds this we subtract the modulus 2<it>n</it> + 1.</entry>
 <entry level="1" type="number">
 
  Finally, perform carrying mod 2N+1 to get the final result.</entry>
@@ -489,13 +489,13 @@ GNU Multi-Precision Library</link></software>
 <p>
 
 Below a certain cutoff point, it's more efficient to perform the recursive multiplications using other algorithms, such as <link>
-Toom–Cook multiplication</link>. The results must be reduced mod 2<it>n</it>&nbsp;+&nbsp;1, which can be done efficiently as explained above with shifts and adds/subtracts.</p>
+Toom–Cook multiplication</link>. The results must be reduced mod 2<it>n</it> + 1, which can be done efficiently as explained above with shifts and adds/subtracts.</p>
 <p>
 
 Computing the IDFT involves dividing each entry by the primitive root of unity 22<it>n</it>/2<it>k</it>, an operation that is frequently combined with multiplying the vector by A-1 afterwards, since both involve division by a power of two.</p>
 <p>
 
-In a system where a large number is represented as an array of 2<it>w</it>-bit words, it's useful to ensure that the vector size 2<it>k</it> is also a multiple of the bits per word by choosing <it>k</it> &amp;ge; <it>w</it>; this allows the inputs to be broken up into pieces without bit shifts, and provides a uniform representation for values mod 2<it>n</it>&nbsp;+&nbsp;1 where the high word can only be zero or one.</p>
+In a system where a large number is represented as an array of 2<it>w</it>-bit words, it's useful to ensure that the vector size 2<it>k</it> is also a multiple of the bits per word by choosing <it>k</it> &amp;ge; <it>w</it>; this allows the inputs to be broken up into pieces without bit shifts, and provides a uniform representation for values mod 2<it>n</it> + 1 where the high word can only be zero or one.</p>
 <p>
 
 Normalization involves adding or subtracting the modulus 2<it>n</it>+1; this value has only two bits set, which means this can be done in constant time on average with a specialized operation.</p>
@@ -569,7 +569,7 @@ The Art of Computer Programming</link></publication>
 , Volume 2: Seminumerical Algorithms (3rd Edition), 1997. Addison-Wesley Professional, ISBN 0201896842. Section 4.3.3.C: Discrete Fourier transforms, pg.305.</entry>
 <entry id="9">
 Pierrick Gaudry, Alexander Kruppa, and Paul Zimmermann. <weblink xlink:type="simple" xlink:href="http://www.loria.fr/~gaudry/publis/issac07.pdf">
-A GMP-based Implementation of Schönhage-Strassen’s Large Integer Multiplication Algorithm</weblink>. Proceedings of the 2007 International Symposium on Symbolic and Algebraic Computation, pp.167&ndash;174.</entry>
+A GMP-based Implementation of Schönhage-Strassen’s Large Integer Multiplication Algorithm</weblink>. Proceedings of the 2007 International Symposium on Symbolic and Algebraic Computation, pp.167–174.</entry>
 </reflist>
 </p>
 

@@ -77,7 +77,7 @@ Choice of the final state : a random var is chosen between 0 et Γtot; the proba
 3. Get a uniform random number <it>u</it>' &amp;isin; (0, 1]</p>
 <p>
 
-4. Find the event to carry out <it>i</it> by finding the <it>i</it> for which <it>Ri</it>&nbsp;&amp;minus;&nbsp;1  <it>u'R</it> &amp;le; <it>Ri</it> (this can be achieved efficiently using <link xlink:type="simple" xlink:href="../266/4266.xml">
+4. Find the event to carry out <it>i</it> by finding the <it>i</it> for which <it>Ri</it> &amp;minus; 1  <it>u'R</it> &amp;le; <it>Ri</it> (this can be achieved efficiently using <link xlink:type="simple" xlink:href="../266/4266.xml">
 binary search</link>).</p>
 <p>
 
@@ -91,7 +91,7 @@ events accordingly.</p>
 7. Get a new uniform random number <it>u</it> &amp;isin; (0, 1].</p>
 <p>
 
-8. Update the time with <it>t</it> = <it>t</it>&nbsp;+&nbsp;&amp;Delta;<it>t</it> where
+8. Update the time with <it>t</it> = <it>t</it> + &amp;Delta;<it>t</it> where
 <indent level="2">
 
 <math>\Delta t = - {\log u\over R}. </math>

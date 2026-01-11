@@ -690,10 +690,10 @@ Inside the Windows Vista Kernel: Part 1</weblink>, Microsoft Technet</entry>
 2001</link>, ISBN 3-540-41931-4</entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Stallings, William&#32;(2004). Operating Systems Internals and Design Principles (fifth international edition).&#32;Prentice Hall. ISBN 0-13-147954-7.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Stallings, William&#32;(2004). Operating Systems Internals and Design Principles (fifth international edition).&#32;Prentice Hall. ISBN 0-13-147954-7.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">Stallings, William&#32;(2004). Operating Systems Internals and Design Principles (fourth edition).&#32;Prentice Hall. ISBN 0-13-031999-6.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">Stallings, William&#32;(2004). Operating Systems Internals and Design Principles (fourth edition).&#32;Prentice Hall. ISBN 0-13-031999-6.</cite> </entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://joshaas.net/linux/">
@@ -798,7 +798,7 @@ Operating system</link></header>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../395/55395.xml">
-History</link>&nbsp;·  <record wordnetid="106647206" confidence="0.8">
+History</link> ·  <record wordnetid="106647206" confidence="0.8">
 <chronology wordnetid="106503224" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
@@ -811,7 +811,7 @@ Timeline</link></written_record>
 </indication>
 </chronology>
 </record>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -824,7 +824,7 @@ Developement</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../531/981531.xml">
+ ·  <link xlink:type="simple" xlink:href="../531/981531.xml">
 List</link></col>
 </row>
 <row style="height:2px">
@@ -841,7 +841,7 @@ Kernel</link></col>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../023/20023.xml">
-Microkernel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../023/20023.xml#xpointer(//*[./st=%22Nanokernel%22])">
+Microkernel</link> ·  <link xlink:type="simple" xlink:href="../023/20023.xml#xpointer(//*[./st=%22Nanokernel%22])">
 Nanokernel</link></col>
 </row>
 <row style="height:2px">
@@ -852,14 +852,14 @@ Nanokernel</link></col>
 Types</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../825/20825.xml">
-monolithic</link>&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+monolithic</link> ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../041/4345041.xml">
 hybrid</link></kernel>
 </natural_object>
 </plant_part>
-&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+ ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../757/95757.xml">
@@ -876,10 +876,10 @@ exokernel</link></kernel>
 Components</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../467/93467.xml">
-Kernel space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../658/371658.xml">
-Loadable kernel module</link>&nbsp;·  <link xlink:type="simple" xlink:href="../101/9101.xml">
-device driver</link>&nbsp;·  <link xlink:type="simple" xlink:href="../467/93467.xml">
-User space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../109/555109.xml">
+Kernel space</link> ·  <link xlink:type="simple" xlink:href="../658/371658.xml">
+Loadable kernel module</link> ·  <link xlink:type="simple" xlink:href="../101/9101.xml">
+device driver</link> ·  <link xlink:type="simple" xlink:href="../467/93467.xml">
+User space</link> ·  <link xlink:type="simple" xlink:href="../109/555109.xml">
 Userland</link></col>
 </row>
 </table>
@@ -894,17 +894,17 @@ Userland</link></col>
 Process management</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../178/45178.xml">
-Process</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Multiprogramming</link>&nbsp;·  <link xlink:type="simple" xlink:href="../289/15289.xml">
-Interrupt</link>&nbsp;·  Modes: (<link xlink:type="simple" xlink:href="../596/167596.xml">
-Protected mode</link>&nbsp;·  <link>
-Supervisor mode</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Computer multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../920/231920.xml">
-Scheduling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../904/6904.xml">
-Context switch</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Cooperative multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../566/2204566.xml">
-Preemptive multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../954/3991954.xml">
-CPU modes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../303/45303.xml">
+Process</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Multiprogramming</link> ·  <link xlink:type="simple" xlink:href="../289/15289.xml">
+Interrupt</link> ·  Modes: (<link xlink:type="simple" xlink:href="../596/167596.xml">
+Protected mode</link> ·  <link>
+Supervisor mode</link>) ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Computer multitasking</link> ·  <link xlink:type="simple" xlink:href="../920/231920.xml">
+Scheduling</link> ·  <link xlink:type="simple" xlink:href="../904/6904.xml">
+Context switch</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Cooperative multitasking</link> ·  <link xlink:type="simple" xlink:href="../566/2204566.xml">
+Preemptive multitasking</link> ·  <link xlink:type="simple" xlink:href="../954/3991954.xml">
+CPU modes</link> ·  <link xlink:type="simple" xlink:href="../303/45303.xml">
 Thread (computer science)</link></col>
 </row>
 <row style="height:2px">
@@ -915,11 +915,11 @@ Thread (computer science)</link></col>
 Memory management</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../373/515373.xml">
-Memory protection</link>&nbsp;·  <link xlink:type="simple" xlink:href="../131/1323131.xml">
-Segmentation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../193/311193.xml">
-Paging</link>&nbsp;·  <link xlink:type="simple" xlink:href="../112/177112.xml">
-Memory management unit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../803/28803.xml">
-Segmentation fault</link>&nbsp;·  <link xlink:type="simple" xlink:href="../943/573943.xml">
+Memory protection</link> ·  <link xlink:type="simple" xlink:href="../131/1323131.xml">
+Segmentation</link> ·  <link xlink:type="simple" xlink:href="../193/311193.xml">
+Paging</link> ·  <link xlink:type="simple" xlink:href="../112/177112.xml">
+Memory management unit</link> ·  <link xlink:type="simple" xlink:href="../803/28803.xml">
+Segmentation fault</link> ·  <link xlink:type="simple" xlink:href="../943/573943.xml">
 General protection fault</link></col>
 </row>
 <row style="height:2px">
@@ -932,24 +932,24 @@ Examples</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/18933304.xml">
 AmigaOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../801/4801.xml">
-BeOS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../801/4801.xml">
+BeOS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/22409.xml">
 IBM OS/2</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
 MS-DOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../890/18890.xml">
-Windows</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../890/18890.xml">
+Windows</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../642/31642.xml">
-UNIX</link>&nbsp;·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
-OpenSolaris</link>&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·   <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../642/31642.xml">
+UNIX</link> ·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
+OpenSolaris</link> ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·   <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/360889.xml">
 ReactOS</link></O>
-&nbsp;·  <it><link xlink:type="simple" xlink:href="../916/71916.xml">
+ ·  <it><link xlink:type="simple" xlink:href="../916/71916.xml">
 more…</link>''</it></col>
 </row>
 <row style="height:2px">
@@ -960,23 +960,23 @@ more…</link>''</it></col>
 Miscellaneous concepts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../679/6885679.xml">
-Boot loader</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+Boot loader</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../253/432253.xml">
 PXE</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
-API</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
+API</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../131/351131.xml">
 Virtual file system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../071/2550071.xml">
-Virtual tape library</link>&nbsp;·  <link xlink:type="simple" xlink:href="../592/4122592.xml">
-Computer network</link>&nbsp;·  <link xlink:type="simple" xlink:href="../293/12293.xml">
-GUI</link>&nbsp;·  <link xlink:type="simple" xlink:href="../511/425511.xml">
+ ·  <link xlink:type="simple" xlink:href="../071/2550071.xml">
+Virtual tape library</link> ·  <link xlink:type="simple" xlink:href="../592/4122592.xml">
+Computer network</link> ·  <link xlink:type="simple" xlink:href="../293/12293.xml">
+GUI</link> ·  <link xlink:type="simple" xlink:href="../511/425511.xml">
 HAL</link></col>
 </row>
 </table>

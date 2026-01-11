@@ -1718,7 +1718,7 @@ Bus companies</col>
 Arriva London</link></function>
 </operator>
 </mathematical_relation>
- &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1762,7 +1762,7 @@ Arriva Midlands North</link></function>
 </operator>
 </company>
 </mathematical_relation>
-) &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+)  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1773,8 +1773,8 @@ Arriva North East</link></function>
 </operator>
 </company>
 </mathematical_relation>
- &nbsp;·  <link xlink:type="simple" xlink:href="../474/3405474.xml">
-Arriva North West and Wales</link> &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../474/3405474.xml">
+Arriva North West and Wales</link>  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1785,12 +1785,12 @@ Arriva Northumbria</link></function>
 </operator>
 </company>
 </mathematical_relation>
- &nbsp;·  <company wordnetid="108058098" confidence="0.8">
+  ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../317/2914317.xml">
 Arriva Scotland West</link></institution>
 </company>
-  &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+   ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1801,7 +1801,7 @@ Arriva Shires &amp; Essex</link></function>
 </operator>
 </company>
 </mathematical_relation>
- &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1812,7 +1812,7 @@ Arriva Southern Counties</link></function>
 </operator>
 </company>
 </mathematical_relation>
- &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1823,7 +1823,7 @@ Arriva Yorkshire</link></function>
 </operator>
 </company>
 </mathematical_relation>
-  &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+   ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1834,7 +1834,7 @@ Centrebus Holdings (40% stake)</link></function>
 </operator>
 </company>
 </mathematical_relation>
- &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1845,10 +1845,10 @@ Green Line Coaches</link></function>
 </operator>
 </company>
 </mathematical_relation>
- &nbsp;·  <theodolite wordnetid="104419073" confidence="0.9508927676800064">
+  ·  <theodolite wordnetid="104419073" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../419/7999419.xml">
 MK Metro</link></theodolite>
- &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -1859,21 +1859,21 @@ New Enterprise Coaches</link></function>
 </operator>
 </company>
 </mathematical_relation>
- &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../306/2193306.xml">
 Tellings-Golden Miller</link></function>
 </operator>
 </mathematical_relation>
- &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../405/7218405.xml">
 The Heritage Fleet</link></function>
 </operator>
 </mathematical_relation>
- &nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+  ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
 <function wordnetid="113783816" confidence="0.8">
 <link xlink:type="simple" xlink:href="../616/5705616.xml">
@@ -1894,7 +1894,7 @@ Railway companies</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../605/346605.xml">
 Arriva Trains Wales</link></company>
-&nbsp;·  
+ ·  
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../484/7984484.xml">
 CrossCountry</link></company>

@@ -38,7 +38,7 @@ metric spaces</link>.
 <p>
 
 A t-norm is a <link xlink:type="simple" xlink:href="../427/185427.xml">
-function</link> T: [0,&nbsp;1] &amp;times; [0,&nbsp;1] → [0,&nbsp;1] which satisfies the following properties:
+function</link> T: [0, 1] &amp;times; [0, 1] → [0, 1] which satisfies the following properties:
 <list>
 <entry level="1" type="bullet">
 
@@ -65,10 +65,10 @@ identity element</link>: T(<it>a</it>, 1) = <it>a''</it></entry>
 <p>
 
 Since a t-norm is a <link xlink:type="simple" xlink:href="../948/3948.xml">
-binary algebraic operation</link> on the interval [0,&nbsp;1], infix algebraic notation is also common, with the t-norm usually denoted by&nbsp;<math>*</math>.</p>
+binary algebraic operation</link> on the interval [0, 1], infix algebraic notation is also common, with the t-norm usually denoted by <math>*</math>.</p>
 <p>
 
-The defining conditions of the t-norm are exactly those of the partially ordered Abelian monoid on the real unit interval [0,&nbsp;1]. <it> (Cf.&nbsp;<link xlink:type="simple" xlink:href="../048/172048.xml">
+The defining conditions of the t-norm are exactly those of the partially ordered Abelian monoid on the real unit interval [0, 1]. <it> (Cf. <link xlink:type="simple" xlink:href="../048/172048.xml">
 ordered group</link>.)</it> The monoidal operation of any partially ordered Abelian monoid <it>L</it> is therefore by some authors called a <it>triangular norm on L</it>.</p>
 
 <ss1>
@@ -98,20 +98,20 @@ triangle inequality</link> of ordinary metric spaces. Individual t-norms may of 
 <p>
 
 A t-norm is called <it>continuous</it> if it is <link xlink:type="simple" xlink:href="../122/6122.xml">
-continuous</link> as a function, in the usual interval topology on [0,&nbsp;1]2 (similarly for <it>left-</it> and <it>right-continuity</it>).</p>
+continuous</link> as a function, in the usual interval topology on [0, 1]2 (similarly for <it>left-</it> and <it>right-continuity</it>).</p>
 <p>
 
 A t-norm <math>*</math> is called <it>Archimedean</it> if it has the <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../158/264158.xml">
 Archimedean property</link></group>
-, i.e., if for each <it>x</it>, <it>y</it> in the open interval (0,&nbsp;1) there is a natural number <it>n</it> such that <it>x</it> <math>*</math> ... <math>*</math> <it>x</it> (<it>n</it>&nbsp;times) is less than or equal to <it>y</it>. A continuous Archimedean t-norm is called <it>strict</it> if 0 is its only <link xlink:type="simple" xlink:href="../235/252235.xml">
+, i.e., if for each <it>x</it>, <it>y</it> in the open interval (0, 1) there is a natural number <it>n</it> such that <it>x</it> <math>*</math> ... <math>*</math> <it>x</it> (<it>n</it> times) is less than or equal to <it>y</it>. A continuous Archimedean t-norm is called <it>strict</it> if 0 is its only <link xlink:type="simple" xlink:href="../235/252235.xml">
 nilpotent</link> element; otherwise it is called <it>nilpotent</it>.</p>
 <p>
 
 The usual partial ordering of t-norms is pointwise, i.e.,
 <indent level="1">
 
- T1 ≤ T2 &nbsp; if &nbsp; T1(<it>a</it>, <it>b</it>) ≤ T2(<it>a</it>, <it>b</it>) for all <it>a</it>, <it>b</it> in [0,&nbsp;1].
+ T1 ≤ T2   if   T1(<it>a</it>, <it>b</it>) ≤ T2(<it>a</it>, <it>b</it>) for all <it>a</it>, <it>b</it> in [0, 1].
 </indent>
 As functions, pointwise larger t-norms are sometimes called <it>stronger</it> than those pointwise smaller. In the semantics of fuzzy logic, however, the larger a t-norm, the <it>weaker</it> the conjunction it represents.</p>
 
@@ -257,15 +257,15 @@ Properties of t-norms</st>
 The drastic t-norm is the pointwise smallest t-norm and the minimum is the pointwise largest t-norm:
 <indent level="1">
 
-<math>\top_{\mathrm{D}}(a, b)  \le \top(a, b) \le \mathrm{\top_{min}}(a, b),</math> for any t-norm <math>\top</math> and all <it>a</it>, <it>b</it> in [0,&nbsp;1].
+<math>\top_{\mathrm{D}}(a, b)  \le \top(a, b) \le \mathrm{\top_{min}}(a, b),</math> for any t-norm <math>\top</math> and all <it>a</it>, <it>b</it> in [0, 1].
 </indent>
 
-For every t-norm T, the number 0 acts as null element: T(<it>a</it>, 0) = 0 for all <it>a</it> in [0,&nbsp;1].</p>
+For every t-norm T, the number 0 acts as null element: T(<it>a</it>, 0) = 0 for all <it>a</it> in [0, 1].</p>
 <p>
 
 A t-norm T has <link xlink:type="simple" xlink:href="../441/51441.xml">
 zero divisor</link>s if and only if it has <link xlink:type="simple" xlink:href="../235/252235.xml">
-nilpotent</link> elements; each nilpotent element of T is also a zero divisor of T. The set of all nilpotent elements is an interval [0,&nbsp;''a''] or [0,&nbsp;''a''), for some ''a'' in [0,&nbsp;1].</p>
+nilpotent</link> elements; each nilpotent element of T is also a zero divisor of T. The set of all nilpotent elements is an interval [0, ''a''] or [0, ''a''), for some ''a'' in [0, 1].</p>
 
 <ss1>
 <st>
@@ -273,22 +273,22 @@ nilpotent</link> elements; each nilpotent element of T is also a zero divisor of
 
 <p>
 
-Although real functions of two variables can be continuous in each variable without being continuous on [0,&nbsp;1]2, this is not the case with t-norms: a t-norm T is continuous if and only if it is continuous in one variable, i.e., if and only if the functions <it>fy</it>(<it>x</it>) = T(<it>x</it>, <it>y</it>) are continuous for each <it>y</it> in  [0,&nbsp;1]. Analogous theorems hold for left- and right-continuity of a t-norm.</p>
+Although real functions of two variables can be continuous in each variable without being continuous on [0, 1]2, this is not the case with t-norms: a t-norm T is continuous if and only if it is continuous in one variable, i.e., if and only if the functions <it>fy</it>(<it>x</it>) = T(<it>x</it>, <it>y</it>) are continuous for each <it>y</it> in  [0, 1]. Analogous theorems hold for left- and right-continuity of a t-norm.</p>
 <p>
 
 A continuous t-norm is Archimedean if and only if 0 and 1 are its only <link xlink:type="simple" xlink:href="../972/14972.xml">
 idempotents</link>.</p>
 <p>
 
-A continuous Archimedean t-norm T is nilpotent if and only if each <it>x</it>&nbsp;&amp;lt;&nbsp;1 is a nilpotent element of T. Thus with a continuous Archimedean t-norm T, either all or none of the elements of (0,&nbsp;1) are nilpotent. If it is the case that all elements in (0,&nbsp;1) are nilpotent, then the t-norm is isomorphic to the Łukasiewicz t-norm; i.e., there is a strictly increasing function <it>f</it> such that
+A continuous Archimedean t-norm T is nilpotent if and only if each <it>x</it> &amp;lt; 1 is a nilpotent element of T. Thus with a continuous Archimedean t-norm T, either all or none of the elements of (0, 1) are nilpotent. If it is the case that all elements in (0, 1) are nilpotent, then the t-norm is isomorphic to the Łukasiewicz t-norm; i.e., there is a strictly increasing function <it>f</it> such that
 <indent level="1">
 
 <math>\top(x,y) = f^{-1}(\top_{\mathrm{Luk}}(f(x), f(y))).</math>
 </indent>
-If on the other hand it is the case that there are no nilpotent elements of T, the t-norm is isomorphic to the product t-norm. In other words, all nilpotent t-norms are isomorphic, the Łukasiewicz t-norm being their prototypical representative; and all strict t-norms are isomorphic, with the product t-norm as their prototypical example. The Łukasiewicz t-norm is itself isomorphic to the product t-norm undercut at 0.25, i.e., to the function <it>p</it>(<it>x</it>,&nbsp;<it>y</it>) = max(0.25, <it>x</it>&nbsp;&middot;&nbsp;<it>y</it>) on [0.25,&nbsp;1]2.</p>
+If on the other hand it is the case that there are no nilpotent elements of T, the t-norm is isomorphic to the product t-norm. In other words, all nilpotent t-norms are isomorphic, the Łukasiewicz t-norm being their prototypical representative; and all strict t-norms are isomorphic, with the product t-norm as their prototypical example. The Łukasiewicz t-norm is itself isomorphic to the product t-norm undercut at 0.25, i.e., to the function <it>p</it>(<it>x</it>, <it>y</it>) = max(0.25, <it>x</it> &middot; <it>y</it>) on [0.25, 1]2.</p>
 <p>
 
-For each continuous t-norm, the set of its idempotents is a closed subset of [0,&nbsp;1]. Its complement — the set of all elements which are not idempotent — is therefore a union of countably many non-overlapping open intervals. The restriction of the t-norm to any of these intervals (including its endpoints) is Archimedean, and thus isomorphic either to the Łukasiewicz t-norm or the product t-norm. For such <it>x</it>, <it>y</it> that do not fall into the same open interval of non-idempotents, the t-norm evaluates to the minimum of <it>x</it> and <it>y</it>. These conditions actually give a characterization of continuous t-norms, called the <b>Mostert–Shields theorem</b>, since every continuous t-norm can in this way be decomposed, and the described construction always yields a continuous t-norm. The theorem can also be formulated as follows:
+For each continuous t-norm, the set of its idempotents is a closed subset of [0, 1]. Its complement — the set of all elements which are not idempotent — is therefore a union of countably many non-overlapping open intervals. The restriction of the t-norm to any of these intervals (including its endpoints) is Archimedean, and thus isomorphic either to the Łukasiewicz t-norm or the product t-norm. For such <it>x</it>, <it>y</it> that do not fall into the same open interval of non-idempotents, the t-norm evaluates to the minimum of <it>x</it> and <it>y</it>. These conditions actually give a characterization of continuous t-norms, called the <b>Mostert–Shields theorem</b>, since every continuous t-norm can in this way be decomposed, and the described construction always yields a continuous t-norm. The theorem can also be formulated as follows:
 <indent level="1">
 
 A t-norm is continuous if and only if it is isomorphic to an <link xlink:type="simple" xlink:href="../717/9823717.xml#xpointer(//*[./st=%22Ordinal+sums%22])">
@@ -306,17 +306,17 @@ construction of t-norms</link> have been found.</p>
 
 <p>
 
-For any left-continuous t-norm <math>\top</math>, there is a unique binary operation <math>\Rightarrow</math> on [0,&nbsp;1] such that
+For any left-continuous t-norm <math>\top</math>, there is a unique binary operation <math>\Rightarrow</math> on [0, 1] such that
 <indent level="1">
 
 <math>\top(z, x) \le y</math> if and only if <math>z \le (x \Rightarrow y)</math>
 </indent>
-for all <it>x</it>, <it>y</it>, <it>z</it> in [0,&nbsp;1]. This operation is called the <it>residuum</it> of the t-norm. In prefix notation, the residuum to a t-norm <math>\top</math> is often denoted by <math>\vec{\top}</math> or by the letter R.</p>
+for all <it>x</it>, <it>y</it>, <it>z</it> in [0, 1]. This operation is called the <it>residuum</it> of the t-norm. In prefix notation, the residuum to a t-norm <math>\top</math> is often denoted by <math>\vec{\top}</math> or by the letter R.</p>
 <p>
 
-The interval [0,&nbsp;1] equipped with a t-norm and its residuum forms a <link xlink:type="simple" xlink:href="../542/2483542.xml">
+The interval [0, 1] equipped with a t-norm and its residuum forms a <link xlink:type="simple" xlink:href="../542/2483542.xml">
 residuated lattice</link>. The relation between a t-norm T and its residuum R is an instance of <link xlink:type="simple" xlink:href="../991/53991.xml">
-adjunction</link>: the residuum forms a right adjoint R(<it>x</it>, –) to the functor T(–, <it>x</it>) for each <it>x</it> in the lattice [0,&nbsp;1] taken as a <link xlink:type="simple" xlink:href="../572/23572.xml">
+adjunction</link>: the residuum forms a right adjoint R(<it>x</it>, –) to the functor T(–, <it>x</it>) for each <it>x</it> in the lattice [0, 1] taken as a <link xlink:type="simple" xlink:href="../572/23572.xml">
 poset</link> category.</p>
 <p>
 
@@ -482,7 +482,7 @@ Residuum of the nilpotent minimum. The function is discontinuous at the line 0 &
 
 <p>
 
-<b>T-conorms</b> (also called <b>S-norms</b>) are dual to t-norms under the order-reversing operation which assigns 1&nbsp;– <it>x</it> to <it>x</it> on [0,&nbsp;1]. Given a t-norm, the complementary conorm is defined by
+<b>T-conorms</b> (also called <b>S-norms</b>) are dual to t-norms under the order-reversing operation which assigns 1 – <it>x</it> to <it>x</it> on [0, 1]. Given a t-norm, the complementary conorm is defined by
 <indent level="1">
 
  <math>\bot(a,b) = 1-\top(1-a, 1-b).</math>
@@ -671,13 +671,13 @@ Many properties of t-conorms can be obtained by dualizing the properties of t-no
 <list>
 <entry level="1" type="bullet">
 
- For any t-conorm ⊥, the number 1 is an annihilating element: ⊥(<it>a</it>, 1) = 1, for any <it>a</it> in [0,&nbsp;1].</entry>
+ For any t-conorm ⊥, the number 1 is an annihilating element: ⊥(<it>a</it>, 1) = 1, for any <it>a</it> in [0, 1].</entry>
 <entry level="1" type="bullet">
 
  Dually to t-norms, all t-conorms are bounded by the maximum and the drastic t-conorm:</entry>
 <entry level="2" type="indent">
 
-<math>\mathrm{\bot_{max}}(a, b) \le \bot(a, b) \le \bot_{\mathrm{D}}(a, b)</math>, for any t-conorm <math>\bot</math> and all <it>a</it>, <it>b</it> in [0,&nbsp;1].</entry>
+<math>\mathrm{\bot_{max}}(a, b) \le \bot(a, b) \le \bot_{\mathrm{D}}(a, b)</math>, for any t-conorm <math>\bot</math> and all <it>a</it>, <it>b</it> in [0, 1].</entry>
 </list>
 </p>
 <p>
@@ -690,7 +690,7 @@ Further properties result from the relationships between t-norms and t-conorms o
 distributes</link> over a t-conorm S, i.e.,</entry>
 <entry level="2" type="indent">
 
-T(<it>x</it>, S(<it>y</it>, <it>z</it>)) = S(T(<it>x</it>, <it>y</it>), T(<it>x</it>, <it>z</it>)) for all <it>x</it>, <it>y</it>, <it>z</it> in [0,&nbsp;1],</entry>
+T(<it>x</it>, S(<it>y</it>, <it>z</it>)) = S(T(<it>x</it>, <it>y</it>), T(<it>x</it>, <it>z</it>)) for all <it>x</it>, <it>y</it>, <it>z</it> in [0, 1],</entry>
 <entry level="1" type="indent">
 
 if and only if S is the maximum t-conorm. Dually, any t-conorm distributes over the minimum, but not over any other t-norm.</entry>

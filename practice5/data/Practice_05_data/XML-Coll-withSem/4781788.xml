@@ -50,19 +50,19 @@ Personal information</header>
 </row>
 <row>
 <col>
-<b>Full&nbsp;name</b></col>
+<b>Full name</b></col>
 <col colspan="2">
 David Josué Jiménez Silva</col>
 </row>
 <row>
 <col>
-<b>Date&nbsp;of&nbsp;birth</b></col>
+<b>Date of birth</b></col>
 <col colspan="2">
-January 8, 1986 (1986-01-08) (age&nbsp;23)</col>
+January 8, 1986 (1986-01-08) (age 23)</col>
 </row>
 <row>
 <col>
-<b>Place&nbsp;of&nbsp;birth</b>&nbsp;&nbsp;&nbsp;</col>
+<b>Place of birth</b>   </col>
 <col colspan="2">
 <link xlink:type="simple" xlink:href="../604/289604.xml">
 Arguineguin</link>, <system wordnetid="108435388" confidence="0.8">
@@ -78,7 +78,7 @@ Spain</link></group>
 <col>
 <b>Height</b></col>
 <col colspan="2">
-1.70&nbsp;m (5&nbsp;ft 7&nbsp;in)</col>
+1.70 m (5 ft 7 in)</col>
 </row>
 <row>
 <col>
@@ -106,7 +106,7 @@ Club information</header>
 </row>
 <row>
 <col>
-<b>Current&nbsp;club</b></col>
+<b>Current club</b></col>
 <col colspan="2">
  <club wordnetid="108227214" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../780/32780.xml">
@@ -163,7 +163,7 @@ Celta Vigo</link></club>
 </association>
 (loan)</col>
 <col>
-71 (9)35 (5)34  (4)&nbsp;&nbsp;&nbsp;</col>
+71 (9)35 (5)34  (4)   </col>
 </row>
 <row>
 <header colspan="3" style="background: #b0c4de;text-align: center">
@@ -182,7 +182,7 @@ Spain</link></team>
 </row>
 <row>
 <col colspan="3" style="color: #555555; font-size:80%; text-align:center;">
-1 Senior club appearances and goals  counted for the domestic league only&nbsp;and  correct as of 00:00, October 31, 2008 (UTC).<p>
+1 Senior club appearances and goals  counted for the domestic league only and  correct as of 00:00, October 31, 2008 (UTC).<p>
 
 2 National team caps and goals correct  as of October 31, 2008 (UTC).
 * Appearances (Goals)</p>
@@ -583,7 +583,7 @@ Greece</link></country>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../668/722668.xml">
 Greece</link></team>
 </col>
@@ -649,7 +649,7 @@ Greece</link></country>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../668/722668.xml">
 Greece</link></team>
 </col>
@@ -681,7 +681,7 @@ Austria</link></country>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../367/678367.xml">
 Russia</link></team>
 </col>
@@ -828,7 +828,7 @@ UEFA Euro 2008 Winners (2nd Title)</link></contest>
 </row>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
-1&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+1 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -849,8 +849,8 @@ Casillas</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 2&nbsp;<link>
-R. Albiol</link>&nbsp;• 3&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 2 <link>
+R. Albiol</link> • 3 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -869,7 +869,7 @@ F. Navarro</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 4&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 4 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -884,7 +884,7 @@ C. Marchena</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 5&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 5 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -903,8 +903,8 @@ Puyol</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 6&nbsp;<link>
-A. Iniesta</link>&nbsp;• 7&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 6 <link>
+A. Iniesta</link> • 7 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -921,7 +921,7 @@ David Villa</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 8&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 8 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -940,11 +940,11 @@ Xavi</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 9&nbsp;<person wordnetid="100007846" confidence="0.9508927676800064">
+ • 9 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/1117939.xml">
 F. Torres</link></person>
-&nbsp;• 10&nbsp;<link>
-C. Fàbregas</link>&nbsp;• 11&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 10 <link>
+C. Fàbregas</link> • 11 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -963,7 +963,7 @@ Capdevila</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 12&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 12 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -978,11 +978,11 @@ S. Cazorla</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 13&nbsp;<link>
-Palop</link>&nbsp;• 14&nbsp;<person wordnetid="100007846" confidence="0.9508927676800064">
+ • 13 <link>
+Palop</link> • 14 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../205/1009205.xml">
 Alonso</link></person>
-&nbsp;• 15&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 15 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -997,10 +997,10 @@ Sergio Ramos</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 16&nbsp;<link>
-Sergio García</link>&nbsp;• 17&nbsp;<link>
- Güiza</link>&nbsp;• 18&nbsp;<link>
-Arbeloa</link>&nbsp;• 19&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 16 <link>
+Sergio García</link> • 17 <link>
+ Güiza</link> • 18 <link>
+Arbeloa</link> • 19 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1015,8 +1015,8 @@ Senna</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 20&nbsp;<link xlink:type="simple" xlink:href="../449/3150449.xml">
-Juanito</link>&nbsp;• 21&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ • 20 <link xlink:type="simple" xlink:href="../449/3150449.xml">
+Juanito</link> • 21 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <winger wordnetid="110782471" confidence="0.8">
@@ -1033,9 +1033,9 @@ Silva</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;• 22&nbsp;<link>
-De&nbsp;la&nbsp;Red</link>&nbsp;• 23&nbsp;<link>
-Reina</link>&nbsp;• Coach:&nbsp;<link>
+ • 22 <link>
+De la Red</link> • 23 <link>
+Reina</link> • Coach: <link>
 Aragonés</link></col>
 <col style="width:0%;padding:0px 0px 0px 2px;" rowspan="1">
 <image width="50px" src="Flag_of_Spain.svg">
@@ -1063,7 +1063,7 @@ Flag of Spain
 <club wordnetid="108227214" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../780/32780.xml">
 Valencia CF</link></club>
-&ndash; current squad</header>
+– current squad</header>
 </row>
 <row style="height:2px;">
 
@@ -1071,7 +1071,7 @@ Valencia CF</link></club>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
-1&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+1 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -1098,8 +1098,8 @@ Hildebrand</link></athlete>
 </player>
 </person>
 </physical_entity>
-&nbsp;•
-2&nbsp;<running_back wordnetid="110543161" confidence="0.8">
+ •
+2 <running_back wordnetid="110543161" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
@@ -1120,14 +1120,14 @@ Torres</link></athlete>
 </person>
 </physical_entity>
 </running_back>
-&nbsp;•
-3&nbsp;<person wordnetid="100007846" confidence="0.9508927676800064">
+ •
+3 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../862/2624862.xml">
 Maduro</link></person>
-&nbsp;•
-4&nbsp;<link>
-Albiol</link>&nbsp;•
-5&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ •
+4 <link>
+Albiol</link> •
+5 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1142,8 +1142,8 @@ Marchena</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;•
-6&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ •
+6 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1162,8 +1162,8 @@ Albelda</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;•
-7&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ •
+7 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1180,10 +1180,10 @@ David Villa</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;•
-8&nbsp;<link>
-Baraja</link>&nbsp;•
-9&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ •
+8 <link>
+Baraja</link> •
+9 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1200,10 +1200,10 @@ Morientes</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;•
-10&nbsp;<link>
-Angulo</link>&nbsp;•
-11&nbsp;<running_back wordnetid="110543161" confidence="0.8">
+ •
+10 <link>
+Angulo</link> •
+11 <running_back wordnetid="110543161" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
@@ -1224,10 +1224,10 @@ del Horno</link></athlete>
 </person>
 </physical_entity>
 </running_back>
-&nbsp;•
-12&nbsp;<link>
-Žigić</link>&nbsp;•
-13&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ •
+12 <link>
+Žigić</link> •
+13 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1248,16 +1248,16 @@ Renan</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;•
-14&nbsp;<link>
-Vicente</link>&nbsp;•
-15&nbsp;<link>
-Helguera</link>&nbsp;•
-16&nbsp;<link xlink:type="simple" xlink:href="../675/7999675.xml">
-Mata</link>&nbsp;•
-17&nbsp;<link>
-Joaquín</link>&nbsp;•
-18&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ •
+14 <link>
+Vicente</link> •
+15 <link>
+Helguera</link> •
+16 <link xlink:type="simple" xlink:href="../675/7999675.xml">
+Mata</link> •
+17 <link>
+Joaquín</link> •
+18 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1272,12 +1272,12 @@ Fernandes</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;•
-19&nbsp;<link>
-Pablo Hernández</link>&nbsp;•
-20&nbsp;<link xlink:type="simple" xlink:href="../747/7475747.xml">
-Alexis</link>&nbsp;•
-21&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ •
+19 <link>
+Pablo Hernández</link> •
+20 <link xlink:type="simple" xlink:href="../747/7475747.xml">
+Alexis</link> •
+21 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <winger wordnetid="110782471" confidence="0.8">
@@ -1294,12 +1294,12 @@ Silva</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;•
-22&nbsp;<link>
-Edu</link>&nbsp;•
-23&nbsp;<link>
-Miguel</link>&nbsp;•
-24&nbsp;<running_back wordnetid="110543161" confidence="0.8">
+ •
+22 <link>
+Edu</link> •
+23 <link>
+Miguel</link> •
+24 <running_back wordnetid="110543161" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
@@ -1324,8 +1324,8 @@ Moretti</link></athlete>
 </person>
 </physical_entity>
 </running_back>
-&nbsp;•
-25&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ •
+25 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -1340,9 +1340,9 @@ Viana</link></athlete>
 </football_player>
 </person>
 </physical_entity>
-&nbsp;•
-33&nbsp;<link xlink:type="simple" xlink:href="../944/19677944.xml">
-Guaita</link>&nbsp;•
+ •
+33 <link xlink:type="simple" xlink:href="../944/19677944.xml">
+Guaita</link> •
 Coach: <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">

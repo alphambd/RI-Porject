@@ -308,7 +308,7 @@ Applications</st>
 
 <p>
 
-The Matiyasevich/MRDP Theorem relates two notions &mdash; one from computability theory, the other from number theory &mdash; and has some surprising consequences. Perhaps the most surprising is the existence of a <it>universal</it> Diophantine equation:</p>
+The Matiyasevich/MRDP Theorem relates two notions — one from computability theory, the other from number theory — and has some surprising consequences. Perhaps the most surprising is the existence of a <it>universal</it> Diophantine equation:</p>
 <p>
 
 <indent level="1">
@@ -679,20 +679,20 @@ I</link></difficulty>
 </condition>
 </concept>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../759/152759.xml">
-II</link>&nbsp;·  <link xlink:type="simple" xlink:href="../703/152703.xml">
-III</link>&nbsp;·  <link xlink:type="simple" xlink:href="../991/1573991.xml">
-IV</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../759/152759.xml">
+II</link> ·  <link xlink:type="simple" xlink:href="../703/152703.xml">
+III</link> ·  <link xlink:type="simple" xlink:href="../991/1573991.xml">
+IV</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../760/152760.xml">
 V</link></group>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../778/639778.xml">
-VI</link>&nbsp;·  <link xlink:type="simple" xlink:href="../579/392579.xml">
-VII</link>&nbsp;·  <link xlink:type="simple" xlink:href="../390/527390.xml">
-VIII</link>&nbsp;·  <condition wordnetid="113920835" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../778/639778.xml">
+VI</link> ·  <link xlink:type="simple" xlink:href="../579/392579.xml">
+VII</link> ·  <link xlink:type="simple" xlink:href="../390/527390.xml">
+VIII</link> ·  <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
 <difficulty wordnetid="114408086" confidence="0.8">
@@ -701,7 +701,7 @@ IX</link></difficulty>
 </problem>
 </state>
 </condition>
-&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <equation wordnetid="106669864" confidence="0.8">
 <mathematical_statement wordnetid="106732169" confidence="0.8">
@@ -710,7 +710,7 @@ X</link></mathematical_statement>
 </equation>
 </message>
 </statement>
-&nbsp;·  <form wordnetid="106290637" confidence="0.8">
+ ·  <form wordnetid="106290637" confidence="0.8">
 <word wordnetid="106286395" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <language_unit wordnetid="106284225" confidence="0.8">
@@ -719,7 +719,7 @@ XI</link></language_unit>
 </part>
 </word>
 </form>
-&nbsp;·  <condition wordnetid="113920835" confidence="0.8">
+ ·  <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
 <difficulty wordnetid="114408086" confidence="0.8">
@@ -728,10 +728,10 @@ XII</link></difficulty>
 </problem>
 </state>
 </condition>
-&nbsp;·  <link xlink:type="simple" xlink:href="../190/2336190.xml">
-XIII</link>&nbsp;·  <link xlink:type="simple" xlink:href="../231/1695231.xml">
-XIV</link>&nbsp;·  <link xlink:type="simple" xlink:href="../205/2336205.xml">
-XV</link>&nbsp;·  <condition wordnetid="113920835" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../190/2336190.xml">
+XIII</link> ·  <link xlink:type="simple" xlink:href="../231/1695231.xml">
+XIV</link> ·  <link xlink:type="simple" xlink:href="../205/2336205.xml">
+XV</link> ·  <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
 <difficulty wordnetid="114408086" confidence="0.8">
@@ -740,11 +740,11 @@ XVI</link></difficulty>
 </problem>
 </state>
 </condition>
-&nbsp;·  <link xlink:type="simple" xlink:href="../214/2336214.xml">
-XVII</link>&nbsp;·  <link xlink:type="simple" xlink:href="../224/2336224.xml">
-XVIII</link>&nbsp;·  <link xlink:type="simple" xlink:href="../226/2336226.xml">
-XIX</link>&nbsp;·  <link xlink:type="simple" xlink:href="../235/2336235.xml">
-XX</link>&nbsp;·  <statement wordnetid="106722453" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../214/2336214.xml">
+XVII</link> ·  <link xlink:type="simple" xlink:href="../224/2336224.xml">
+XVIII</link> ·  <link xlink:type="simple" xlink:href="../226/2336226.xml">
+XIX</link> ·  <link xlink:type="simple" xlink:href="../235/2336235.xml">
+XX</link> ·  <statement wordnetid="106722453" confidence="0.8">
 <message wordnetid="106598915" confidence="0.8">
 <curve wordnetid="113867641" confidence="0.8">
 <equation wordnetid="106669864" confidence="0.8">
@@ -759,7 +759,7 @@ XXI</link></mathematical_statement>
 </curve>
 </message>
 </statement>
-&nbsp;·  <form wordnetid="106290637" confidence="0.8">
+ ·  <form wordnetid="106290637" confidence="0.8">
 <word wordnetid="106286395" confidence="0.8">
 <part wordnetid="113809207" confidence="0.8">
 <language_unit wordnetid="106284225" confidence="0.8">
@@ -768,7 +768,7 @@ XXII</link></language_unit>
 </part>
 </word>
 </form>
-&nbsp;·  <link xlink:type="simple" xlink:href="../108/2336108.xml">
+ ·  <link xlink:type="simple" xlink:href="../108/2336108.xml">
 XXIII</link></col>
 </row>
 </table>

@@ -259,7 +259,7 @@ This is a container format that can contain multiple embedded objects, eg. multi
 <header>
 PKCS #13</header>
 <col align="center">
-&ndash;</col>
+–</col>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
@@ -280,7 +280,7 @@ Standard</col>
 <header>
 PKCS #14</header>
 <col align="center">
-&ndash;</col>
+–</col>
 <col>
  <link xlink:type="simple" xlink:href="../524/45524.xml">
 Pseudo-random Number Generation</link></col>

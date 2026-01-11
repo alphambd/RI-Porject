@@ -57,9 +57,9 @@ The interactions between two species need not be through direct contact.  Due to
 <table style="border:1px solid gray; border-collapse:collapse;" cellpadding="3" border="1">
 <row>
 <col>
-Effect&nbsp;on X</col>
+Effect on X</col>
 <col>
-Effect&nbsp;on Y</col>
+Effect on Y</col>
 <col>
 Type of interaction</col>
 </row>
@@ -530,17 +530,17 @@ Amensalism</link></psychological_feature>
 </interaction>
 </action>
 </event>
-&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../660/72660.xml">
-Commensalism</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../357/3087357.xml">
-Inquilinism</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../483/51483.xml">
-Mutualism</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../244/240244.xml#xpointer(//*[./st=%22Neutralism%22])">
-Neutralism</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../244/240244.xml#xpointer(//*[./st=%22Synnecrosis%22])">
-Synnecrosis</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../559/57559.xml">
-Predation</link>&nbsp;(<link xlink:type="simple" xlink:href="../543/6543.xml">
-Carnivory</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../568/44568.xml">
-Herbivory</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../937/43937.xml">
-Parasitism</link>&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../438/217438.xml">
-Parasitoidism</link>&nbsp;&amp;bull;  <event wordnetid="100029378" confidence="0.8">
+ &amp;bull;  <link xlink:type="simple" xlink:href="../660/72660.xml">
+Commensalism</link> &amp;bull;  <link xlink:type="simple" xlink:href="../357/3087357.xml">
+Inquilinism</link> &amp;bull;  <link xlink:type="simple" xlink:href="../483/51483.xml">
+Mutualism</link> &amp;bull;  <link xlink:type="simple" xlink:href="../244/240244.xml#xpointer(//*[./st=%22Neutralism%22])">
+Neutralism</link> &amp;bull;  <link xlink:type="simple" xlink:href="../244/240244.xml#xpointer(//*[./st=%22Synnecrosis%22])">
+Synnecrosis</link> &amp;bull;  <link xlink:type="simple" xlink:href="../559/57559.xml">
+Predation</link> (<link xlink:type="simple" xlink:href="../543/6543.xml">
+Carnivory</link> &amp;bull;  <link xlink:type="simple" xlink:href="../568/44568.xml">
+Herbivory</link> &amp;bull;  <link xlink:type="simple" xlink:href="../937/43937.xml">
+Parasitism</link> &amp;bull;  <link xlink:type="simple" xlink:href="../438/217438.xml">
+Parasitoidism</link> &amp;bull;  <event wordnetid="100029378" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <interaction wordnetid="100039021" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -551,8 +551,8 @@ Cheating</link></psychological_feature>
 </interaction>
 </action>
 </event>
-)&nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../626/39626.xml">
-Symbiosis</link>&nbsp;&amp;bull;  <event wordnetid="100029378" confidence="0.8">
+) &amp;bull;  <link xlink:type="simple" xlink:href="../626/39626.xml">
+Symbiosis</link> &amp;bull;  <event wordnetid="100029378" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
 <interaction wordnetid="100039021" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">

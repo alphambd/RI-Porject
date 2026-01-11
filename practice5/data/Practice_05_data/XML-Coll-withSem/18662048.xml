@@ -57,12 +57,12 @@ Artistic<image width="40px" src="Gymnastics_(artistic)_pictogram.svg">
 <col>
 Qualification</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <link xlink:type="simple" xlink:href="../026/18662026.xml">
 men</link></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <link xlink:type="simple" xlink:href="../028/18662028.xml">
 women</link></col>
@@ -74,12 +74,12 @@ women</link></col>
 <col>
 Team all-around</col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <link xlink:type="simple" xlink:href="../977/18661977.xml">
 men</link></col>
 <col>
-&nbsp;</col>
+ </col>
 <col>
 <link xlink:type="simple" xlink:href="../052/18662052.xml">
 women</link></col>
@@ -270,13 +270,13 @@ Medalists</st>
 <col>
 <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../570/18169570.xml">
 He Kexin</link></gymnast>
 *<it><qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)''</it></col>
+ (CHN)''</it></col>
 </row>
 <row>
 <col bgcolor="silver">
@@ -284,13 +284,13 @@ China</link></qi>
 <col>
 <image width="22x20px" src="Flag_of_the_United_States.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../599/4057599.xml">
 Nastia Liukin</link></gymnast>
 <it><country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../846/14944846.xml">
 United States</link></country>
-&nbsp;(USA)''</it></col>
+ (USA)''</it></col>
 </row>
 <row>
 <col bgcolor="#cc9966">
@@ -298,13 +298,13 @@ United States</link></country>
 <col>
 <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../909/18171909.xml">
 Yang Yilin</link></gymnast>
 <it><qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 China</link></qi>
-&nbsp;(CHN)''</it></col>
+ (CHN)''</it></col>
 </row>
 </table>
 </p>
@@ -334,10 +334,10 @@ Total</header>
 <col>
  <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../909/18171909.xml">
 Yang Yilin</link></gymnast>
-&nbsp;(<qi wordnetid="114050559" confidence="0.9508927676800064">
+ (<qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 CHN</link></qi>
 )</col>
@@ -355,8 +355,8 @@ CHN</link></qi>
 <col>
  <image width="22x20px" src="Flag_of_Russia.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../440/18670440.xml">
-Ksenia Semenova</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../440/18670440.xml">
+Ksenia Semenova</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../319/16162319.xml">
 RUS</link></political_unit>
@@ -376,8 +376,8 @@ RUS</link></political_unit>
 <col>
  <image width="22x20px" src="Flag_of_Ukraine.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../071/18990071.xml">
-Anastasia Koval</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../071/18990071.xml">
+Anastasia Koval</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../350/17410350.xml">
 UKR</link></political_unit>
@@ -397,7 +397,7 @@ UKR</link></political_unit>
 <col>
  <image width="22x20px" src="Flag_of_Romania.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -418,7 +418,7 @@ Steliana Nistor</link></gymnast>
 </person>
 </champion>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../445/17417445.xml">
 ROU</link></political_unit>
@@ -438,10 +438,10 @@ ROU</link></political_unit>
 <col>
  <image width="22x20px" src="Flag_of_the_United_States.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../599/4057599.xml">
 Nastia Liukin</link></gymnast>
-&nbsp;(<country wordnetid="108544813" confidence="0.9508927676800064">
+ (<country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../846/14944846.xml">
 USA</link></country>
 )</col>
@@ -459,10 +459,10 @@ USA</link></country>
 <col>
  <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../570/18169570.xml">
 He Kexin</link></gymnast>
-&nbsp;(<qi wordnetid="114050559" confidence="0.9508927676800064">
+ (<qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 CHN</link></qi>
 )</col>
@@ -480,8 +480,8 @@ CHN</link></qi>
 <col>
  <image width="22x20px" src="Flag_of_Ukraine.svg" type="border">
 </image>
-&nbsp;<link>
-Dariya Zgoba</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Dariya Zgoba</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../350/17410350.xml">
 UKR</link></political_unit>
@@ -502,10 +502,10 @@ UKR</link></political_unit>
 <col>
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../391/3785391.xml">
 Beth Tweddle</link></gymnast>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 GBR</link></political_unit>
@@ -556,10 +556,10 @@ Gold medal icon.svg
 <col>
  <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../570/18169570.xml">
 He Kexin</link></gymnast>
-&nbsp;(<qi wordnetid="114050559" confidence="0.9508927676800064">
+ (<qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 CHN</link></qi>
 )</col>
@@ -583,10 +583,10 @@ Silver medal icon.svg
 <col>
  <image width="22x20px" src="Flag_of_the_United_States.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../599/4057599.xml">
 Nastia Liukin</link></gymnast>
-&nbsp;(<country wordnetid="108544813" confidence="0.9508927676800064">
+ (<country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../846/14944846.xml">
 USA</link></country>
 )</col>
@@ -610,10 +610,10 @@ Bronze medal icon.svg
 <col>
  <image width="22x20px" src="Flag_of_the_People's_Republic_of_China.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../909/18171909.xml">
 Yang Yilin</link></gymnast>
-&nbsp;(<qi wordnetid="114050559" confidence="0.9508927676800064">
+ (<qi wordnetid="114050559" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../443/15754443.xml">
 CHN</link></qi>
 )</col>
@@ -631,10 +631,10 @@ CHN</link></qi>
 <col>
  <image width="22x20px" src="Flag_of_the_United_Kingdom.svg" type="border">
 </image>
-&nbsp;<gymnast wordnetid="110153594" confidence="0.9508927676800064">
+ <gymnast wordnetid="110153594" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../391/3785391.xml">
 Beth Tweddle</link></gymnast>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../786/14879786.xml">
 GBR</link></political_unit>
@@ -654,8 +654,8 @@ GBR</link></political_unit>
 <col>
  <image width="22x20px" src="Flag_of_Ukraine.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../071/18990071.xml">
-Anastasia Koval</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../071/18990071.xml">
+Anastasia Koval</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../350/17410350.xml">
 UKR</link></political_unit>
@@ -675,8 +675,8 @@ UKR</link></political_unit>
 <col>
  <image width="22x20px" src="Flag_of_Russia.svg" type="border">
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../440/18670440.xml">
-Ksenia Semenova</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link xlink:type="simple" xlink:href="../440/18670440.xml">
+Ksenia Semenova</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../319/16162319.xml">
 RUS</link></political_unit>
@@ -696,7 +696,7 @@ RUS</link></political_unit>
 <col>
  <image width="22x20px" src="Flag_of_Romania.svg" type="border">
 </image>
-&nbsp;<physical_entity wordnetid="100001930" confidence="0.8">
+ <physical_entity wordnetid="100001930" confidence="0.8">
 <champion wordnetid="109906704" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -717,7 +717,7 @@ Steliana Nistor</link></gymnast>
 </person>
 </champion>
 </physical_entity>
-&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../445/17417445.xml">
 ROU</link></political_unit>
@@ -737,8 +737,8 @@ ROU</link></political_unit>
 <col>
  <image width="22x20px" src="Flag_of_Ukraine.svg" type="border">
 </image>
-&nbsp;<link>
-Dariya Zgoba</link>&nbsp;(<state wordnetid="108168978" confidence="0.8">
+ <link>
+Dariya Zgoba</link> (<state wordnetid="108168978" confidence="0.8">
 <political_unit wordnetid="108359949" confidence="0.8">
 <link xlink:type="simple" xlink:href="../350/17410350.xml">
 UKR</link></political_unit>

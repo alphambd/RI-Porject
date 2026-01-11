@@ -71,7 +71,7 @@ small world network</link> model, the average distance between two vertices in t
 clustering coefficient</link> of scale-free networks can vary significantly depending on other topological details, and there are now generative mechanisms that allow one to create such networks that have a high density of triangles.</p>
 <p>
 
-It is interesting that Cohen and Havlin proved that uncorrelated power-law graph having 2&nbsp;&nbsp;γ&nbsp;&nbsp;3 will also have ultrasmall diameter <it>d</it> ~ ln&nbsp;ln&nbsp;<it>N</it>. So from the practical point of view, the diameter of a growing scale-free network might be considered almost constant.</p>
+It is interesting that Cohen and Havlin proved that uncorrelated power-law graph having 2  γ  3 will also have ultrasmall diameter <it>d</it> ~ ln ln <it>N</it>. So from the practical point of view, the diameter of a growing scale-free network might be considered almost constant.</p>
 <p>
 
 Although many real-world networks are thought to be scale-free, the evidence remains inconclusive, primarily because the generative mechanisms proposed have not been rigorously validated against the real-world data. As such, it is too early to rule out alternative hypotheses. A few examples of networks claimed to be scale-free include:</p>
@@ -341,7 +341,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1207%2Fs15516709cog2901_3">
-10.1207/s15516709cog2901_3</weblink>.</cite>&nbsp;</entry>
+10.1207/s15516709cog2901_3</weblink>.</cite> </entry>
 </reflist>
 </p>
 

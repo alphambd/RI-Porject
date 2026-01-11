@@ -312,7 +312,7 @@ History of IBM mainframe operating systems</link></it>
 
 IBM originally intended that System/360 should have only one batch-oriented operating system, OS/360. It also intended to  supply a separate <link xlink:type="simple" xlink:href="../958/30958.xml">
 timesharing</link> operating system, <link xlink:type="simple" xlink:href="../358/6253358.xml">
-TSS/360</link>. There are at least two accounts of why IBM eventually decided to produce other, simpler batch-oriented operating systems: because it found that OS/360 would not fit into the limited memory available on the smaller System/360 models;<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> or because it realized that the development of OS/360 would take much longer than expected. IBM introduced a series of stop-gaps to prevent System/360 hardware sales from collapsing&mdash;first <link xlink:type="simple" xlink:href="../635/140635.xml">
+TSS/360</link>. There are at least two accounts of why IBM eventually decided to produce other, simpler batch-oriented operating systems: because it found that OS/360 would not fit into the limited memory available on the smaller System/360 models;<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> or because it realized that the development of OS/360 would take much longer than expected. IBM introduced a series of stop-gaps to prevent System/360 hardware sales from collapsing—first <link xlink:type="simple" xlink:href="../635/140635.xml">
 BOS/360</link> (Basic Operating System, for the smallest, card-only machines), then <link xlink:type="simple" xlink:href="../634/140634.xml">
 TOS/360</link> (Tape Operating System, for machines with only tape drives), and finally <link xlink:type="simple" xlink:href="../229/626229.xml">
 DOS/360</link> (Disk Operating System), which became a mainstream operating system and is the ancestor of to-day's widely used <link xlink:type="simple" xlink:href="../682/32682.xml">
@@ -696,10 +696,10 @@ References</st>
 <entry id="1">
  <cite style="font-style:normal" class="book">IBM&#32;(1972). <weblink xlink:type="simple" xlink:href="http://bitsavers.vt100.net/pdf/ibm/360/GC28-6534-3_OS360introJan72.pdf">
 OS/360 Introduction</weblink>, IBM Systems Reference Library. GC28-6534-3. Retrieved during <link xlink:type="simple" xlink:href="../165/36165.xml">
-2007</link>.</cite>&nbsp;</entry>
+2007</link>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Johnston&#32;(April 1, 2005).&#32;"<weblink xlink:type="simple" xlink:href="http://www.zjournal.com/index.cfm?section=article&amp;aid=293">
-VSE: A Look at the Past 40 Years</weblink>". <it>z/Journal</it>&#32;(April/May 2005).&#32;Thomas Communications, Inc..</cite>&nbsp;</entry>
+VSE: A Look at the Past 40 Years</weblink>". <it>z/Journal</it>&#32;(April/May 2005).&#32;Thomas Communications, Inc..</cite> </entry>
 <entry id="3">
 Chuck Boyer, <weblink xlink:type="simple" xlink:href="http://www-306.ibm.com/software/os/zseries/pdf/360Revolution_0406.pdf">
 <it>The 360 Revolution''</it></weblink></entry>
@@ -713,7 +713,7 @@ The midseventies SHARE survey</weblink> by an IBM user group</entry>
 The IBM 360/67 and CP/CMS</weblink></entry>
 <entry id="7">
  <cite id="CITEREFAuslanderJaffe1973" style="font-style:normal">Auslander, M. A.&#32;&amp;&#32;Jaffe, J. F.&#32;(1973),&#32;"<weblink xlink:type="simple" xlink:href="http://www.research.ibm.com/journal/sj/124/ibmsj1204D.pdf">
-Functional structure of IBM virtual storage operating systems Part I: Influences of dynamic address translation on operating system technology</weblink>",&#32;<it>IBM Systems Journal</it>&#32;(IBM)&#32;<b>4</b>, </cite>&nbsp;</entry>
+Functional structure of IBM virtual storage operating systems Part I: Influences of dynamic address translation on operating system technology</weblink>",&#32;<it>IBM Systems Journal</it>&#32;(IBM)&#32;<b>4</b>, </cite> </entry>
 <entry id="8">
 Ray Saunders, <weblink xlink:type="simple" xlink:href="http://www.os390-mvs.freesurf.fr/mvs360.htm">
 "MVS... And Before OS/360 ?"</weblink></entry>
@@ -725,7 +725,7 @@ System/370 Announcement</weblink>".&#32;  IBM&#32;(June 30, 1970).</entry>
 DPD chronology (1970-1974)</weblink>".&#32;  IBM. DPD = Data Processing Division, which was responsible for IBM's medium and large systems.</entry>
 <entry id="11">
  <cite style="font-style:normal" class="book">&#32;(1991) <weblink xlink:type="simple" xlink:href="http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=8159">
-IBM's 360 and Early 370 Systems</weblink>.&#32;MIT Press. ISBN 0262161230.</cite>&nbsp;</entry>
+IBM's 360 and Early 370 Systems</weblink>.&#32;MIT Press. ISBN 0262161230.</cite> </entry>
 <entry id="12">
 <weblink xlink:type="simple" xlink:href="http://www-03.ibm.com/ibm/history/exhibits/3033/3033_TR01.html">
 3033 Technical press release</weblink></entry>

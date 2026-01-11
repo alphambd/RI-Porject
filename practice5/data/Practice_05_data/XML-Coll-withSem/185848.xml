@@ -124,7 +124,7 @@ Formula</link></col>
 C</link>16<link xlink:type="simple" xlink:href="../255/13255.xml">
 H</link>21<link xlink:type="simple" xlink:href="../175/21175.xml">
 N</link><link xlink:type="simple" xlink:href="../303/22303.xml">
-O</link>2&nbsp;</col>
+O</link>2 </col>
 </row>
 <row>
 <col bgcolor="#ddeeff">
@@ -795,7 +795,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.jpsychires.2007.05.006">
-10.1016/j.jpsychires.2007.05.006</weblink>. PMID 17588604.</cite>&nbsp;</entry>
+10.1016/j.jpsychires.2007.05.006</weblink>. PMID 17588604.</cite> </entry>
 <entry id="5">
 "<weblink xlink:type="simple" xlink:href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6T8T-4P1G931-2&amp;_user=10&amp;_coverDate=06%2F22%2F2007&amp;_alid=594818882&amp;_rdoc=1&amp;_fmt=summary&amp;_orig=search&amp;_cdi=5095&amp;_sort=d&amp;_docanchor=&amp;view=c&amp;_ct=1&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=cff0ee031b688b5fbc74a7de54915c38">
 Effect of post-retrieval propranolol on psychophysiologic responding during subsequent script-driven traumatic imagery in post-traumatic stress disorder</weblink>".</entry>
@@ -818,7 +818,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007%2FBF00228091">
-10.1007/BF00228091</weblink>. PMID 2695829.</cite>&nbsp;</entry>
+10.1007/BF00228091</weblink>. PMID 2695829.</cite> </entry>
 <entry id="8">
  <cite style="font-style:normal">Singh N, Puri S&#32;(2000).&#32;"Interaction between chloroquine and diverse pharmacological agents in chloroquine resistant Plasmodium yoelii nigeriensis". <it>Acta Trop</it>&#32;<b>77</b>&#32;(2): 185–93. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -828,7 +828,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2FS0001-706X%2800%2900133-9">
-10.1016/S0001-706X(00)00133-9</weblink>. PMID 11080509.</cite>&nbsp;</entry>
+10.1016/S0001-706X(00)00133-9</weblink>. PMID 11080509.</cite> </entry>
 <entry id="9">
  <cite style="font-style:normal">Murphy S, Harrison T, Hamm H, Lomasney J, Mohandas N, Haldar K&#32;(Dec 2006).&#32;"Erythrocyte G protein as a novel target for malarial chemotherapy". <it>PLoS Med</it>&#32;<b>3</b>&#32;(12): e528. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -838,7 +838,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1371%2Fjournal.pmed.0030528">
-10.1371/journal.pmed.0030528</weblink>. PMID 17194200.</cite>&nbsp;</entry>
+10.1371/journal.pmed.0030528</weblink>. PMID 17194200.</cite> </entry>
 </reflist>
 </p>
 
@@ -894,14 +894,14 @@ Adrenergic antagonist</link>s</header>
 α1 selective</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../986/2127986.xml">
-Doxazosin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../429/2257429.xml">
-Prazosin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../783/2294783.xml">
-Alfuzosin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../723/2409723.xml">
-Terazosin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../696/6833696.xml">
-Indoramin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../576/18486576.xml">
-Urapidil</link>&nbsp;·  <link xlink:type="simple" xlink:href="../585/18486585.xml">
-Trimazosin</link>&nbsp;·  <link xlink:type="simple" xlink:href="../878/12767878.xml">
-Moxisylyte</link>&nbsp;·  <it><structure wordnetid="105225602" confidence="0.8">
+Doxazosin</link> ·  <link xlink:type="simple" xlink:href="../429/2257429.xml">
+Prazosin</link> ·  <link xlink:type="simple" xlink:href="../783/2294783.xml">
+Alfuzosin</link> ·  <link xlink:type="simple" xlink:href="../723/2409723.xml">
+Terazosin</link> ·  <link xlink:type="simple" xlink:href="../696/6833696.xml">
+Indoramin</link> ·  <link xlink:type="simple" xlink:href="../576/18486576.xml">
+Urapidil</link> ·  <link xlink:type="simple" xlink:href="../585/18486585.xml">
+Trimazosin</link> ·  <link xlink:type="simple" xlink:href="../878/12767878.xml">
+Moxisylyte</link> ·  <it><structure wordnetid="105225602" confidence="0.8">
 <receptor wordnetid="105608868" confidence="0.8">
 <part wordnetid="109385911" confidence="0.8">
 <body_part wordnetid="105220461" confidence="0.8">
@@ -933,9 +933,9 @@ Atipamezole</link></drug>
 </causal_agent>
 </substance>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../004/18485004.xml">
-Efaroxan</link>&nbsp;·  <link xlink:type="simple" xlink:href="../001/14891001.xml">
-Idazoxan</link>&nbsp;·  <plant wordnetid="103956922" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../004/18485004.xml">
+Efaroxan</link> ·  <link xlink:type="simple" xlink:href="../001/14891001.xml">
+Idazoxan</link> ·  <plant wordnetid="103956922" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <building_complex wordnetid="102914991" confidence="0.8">
@@ -944,11 +944,11 @@ Yohimbine</link></building_complex>
 </artifact>
 </structure>
 </plant>
-&nbsp;·  <protagonist wordnetid="110172793" confidence="0.8">
+ ·  <protagonist wordnetid="110172793" confidence="0.8">
 <link xlink:type="simple" xlink:href="../861/1257861.xml">
 Benzylpiperazine</link></protagonist>
-&nbsp;·  <link xlink:type="simple" xlink:href="../478/2452478.xml">
-Rauwolscine</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../478/2452478.xml">
+Rauwolscine</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <medicine wordnetid="103740161" confidence="0.8">
@@ -973,7 +973,7 @@ Mirtazapine</link></drug>
 Non-selective α</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <it>reversible</it> (<link xlink:type="simple" xlink:href="../095/2860095.xml">
-Phentolamine</link>)&nbsp;·  <it>irreversible</it> (<link xlink:type="simple" xlink:href="../999/2761999.xml">
+Phentolamine</link>) ·  <it>irreversible</it> (<link xlink:type="simple" xlink:href="../999/2761999.xml">
 Phenoxybenzamine</link>)</col>
 </row>
 <row style="height:2px">
@@ -1004,13 +1004,13 @@ Tolazoline</link></col>
 β1 selective</link>(<it>cardioselective</it>)</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../313/712313.xml">
-Atenolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../424/15344424.xml">
-Celiprolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../518/1616518.xml">
-Betaxolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../613/3391613.xml">
-Bisoprolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../088/1116088.xml">
-Esmolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../077/841077.xml">
-Metoprolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../004/5448004.xml">
-Nebivolol</link>&nbsp;·  <it><link xlink:type="simple" xlink:href="../710/791710.xml">
+Atenolol</link> ·  <link xlink:type="simple" xlink:href="../424/15344424.xml">
+Celiprolol</link> ·  <link xlink:type="simple" xlink:href="../518/1616518.xml">
+Betaxolol</link> ·  <link xlink:type="simple" xlink:href="../613/3391613.xml">
+Bisoprolol</link> ·  <link xlink:type="simple" xlink:href="../088/1116088.xml">
+Esmolol</link> ·  <link xlink:type="simple" xlink:href="../077/841077.xml">
+Metoprolol</link> ·  <link xlink:type="simple" xlink:href="../004/5448004.xml">
+Nebivolol</link> ·  <it><link xlink:type="simple" xlink:href="../710/791710.xml">
 intrinsic sympatheticomimetic activity</link></it> (<link xlink:type="simple" xlink:href="../247/3337247.xml">
 Acebutolol</link>)</col>
 </row>
@@ -1023,7 +1023,7 @@ Acebutolol</link>)</col>
 β2 selective</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../469/7456469.xml">
-Butaxamine</link>&nbsp;·  <link xlink:type="simple" xlink:href="../804/18850804.xml">
+Butaxamine</link> ·  <link xlink:type="simple" xlink:href="../804/18850804.xml">
 ICI 118551</link></col>
 </row>
 <row style="height:2px">
@@ -1054,11 +1054,11 @@ SR 59230A</link></col>
 Non-selective β</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../869/14162869.xml">
-Alprenolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../970/18591970.xml">
-Amosulalol</link>&nbsp;·  <link>
-Bupranolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../428/5771428.xml">
-Metipranolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../433/984433.xml">
-Nadolol</link>&nbsp;·  <substance wordnetid="100019613" confidence="0.8">
+Alprenolol</link> ·  <link xlink:type="simple" xlink:href="../970/18591970.xml">
+Amosulalol</link> ·  <link>
+Bupranolol</link> ·  <link xlink:type="simple" xlink:href="../428/5771428.xml">
+Metipranolol</link> ·  <link xlink:type="simple" xlink:href="../433/984433.xml">
+Nadolol</link> ·  <substance wordnetid="100019613" confidence="0.8">
 <compound wordnetid="114818238" confidence="0.8">
 <methane_series wordnetid="114951377" confidence="0.8">
 <chemical wordnetid="114806838" confidence="0.8">
@@ -1077,19 +1077,19 @@ Oxprenolol</link></aliphatic_compound>
 </methane_series>
 </compound>
 </substance>
-&nbsp;·  <link xlink:type="simple" xlink:href="../673/4036673.xml">
-Penbutolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../848/185848.xml">
-Propranolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../990/15344990.xml">
-Tertatolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../369/2402369.xml">
-Timolol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../992/18590992.xml">
-Tilisolol</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../673/4036673.xml">
+Penbutolol</link> ·  <link xlink:type="simple" xlink:href="../848/185848.xml">
+Propranolol</link> ·  <link xlink:type="simple" xlink:href="../990/15344990.xml">
+Tertatolol</link> ·  <link xlink:type="simple" xlink:href="../369/2402369.xml">
+Timolol</link> ·  <link xlink:type="simple" xlink:href="../992/18590992.xml">
+Tilisolol</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="109190918" confidence="0.8">
 <link xlink:type="simple" xlink:href="../343/936343.xml">
 Sotalol</link></agent>
 </causal_agent>
 </physical_entity>
-&nbsp;·  <it><link xlink:type="simple" xlink:href="../710/791710.xml">
+ ·  <it><link xlink:type="simple" xlink:href="../710/791710.xml">
 intrinsic sympatheticomimetic activity</link></it> (<link xlink:type="simple" xlink:href="../881/1480881.xml">
 Pindolol</link>)</col>
 </row>
@@ -1106,8 +1106,8 @@ Mixed α
 1/β</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../521/3464521.xml">
-Carvedilol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../436/3260436.xml">
-Labetalol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../379/18606379.xml">
+Carvedilol</link> ·  <link xlink:type="simple" xlink:href="../436/3260436.xml">
+Labetalol</link> ·  <link xlink:type="simple" xlink:href="../379/18606379.xml">
 Arotinolol</link></col>
 </row>
 <row style="height:2px">
@@ -1125,7 +1125,7 @@ tyrosine hydroxylase inhibitor</link></it> (<physical_entity wordnetid="10000193
 Metirosine</link></agent>
 </causal_agent>
 </physical_entity>
-)&nbsp;·  <it><link xlink:type="simple" xlink:href="../320/780320.xml">
+) ·  <it><link xlink:type="simple" xlink:href="../320/780320.xml">
 vesicle</link> storage inhibitor</it> (<physical_entity wordnetid="100001930" confidence="0.8">
 <substance wordnetid="100020090" confidence="0.8">
 <substance wordnetid="100019613" confidence="0.8">
@@ -1151,7 +1151,7 @@ Reserpine</link></material>
 </substance>
 </substance>
 </physical_entity>
-)&nbsp;·  <it>neurotransmitter release blocker</it> (<link xlink:type="simple" xlink:href="../500/4959500.xml">
+) ·  <it>neurotransmitter release blocker</it> (<link xlink:type="simple" xlink:href="../500/4959500.xml">
 Guanethidine</link>, <physical_entity wordnetid="100001930" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <agent wordnetid="109190918" confidence="0.8">

@@ -217,7 +217,7 @@ Exchanging</col>
 Cocktail sort</link></algorithm>
 </col>
 <col>
-&mdash;</col>
+—</col>
 <col style="background:#ffdddd">
 <math> \mathcal{O} \left( n^2 \right) </math></col>
 <col style="background:#ddffdd">
@@ -253,9 +253,9 @@ Comb sort</link></database>
 </message>
 </col>
 <col>
-&mdash;</col>
+—</col>
 <col>
-&mdash;</col>
+—</col>
 <col style="background:#ddffdd">
 <math>\mathcal{O}\left( 1 \right)</math></col>
 <col style="background:#ffdddd">
@@ -290,7 +290,7 @@ Gnome sort</link></database>
 </message>
 </col>
 <col>
-&mdash;</col>
+—</col>
 <col style="background:#ffdddd">
 <math> \mathcal{O} \left( n^2 \right) </math></col>
 <col style="background:#ddffdd">
@@ -366,7 +366,7 @@ Shell sort</link></database>
 </message>
 </col>
 <col>
-&mdash;</col>
+—</col>
 <col style="background:#ffdddd">
 <math>\mathcal{O}\left( n \log^2 n \right)</math></col>
 <col style="background:#ddffdd">
@@ -491,7 +491,7 @@ Selection</col>
 <link xlink:type="simple" xlink:href="../450/100450.xml">
 Smoothsort</link></col>
 <col>
-&mdash;</col>
+—</col>
 <col style="background:#ddffdd">
 <math>\mathcal{O}\left( n \log n \right)</math></col>
 <col style="background:#ddffdd">
@@ -583,7 +583,7 @@ Patience sorting</link></kind>
 </idea>
 </col>
 <col>
-&mdash;</col>
+—</col>
 <col style="background:#ffdddd">
 <math> \mathcal{O} \left( n^2 \right) </math></col>
 <col style="background:#ffdddd">
@@ -997,7 +997,7 @@ N/A</col>
 <col>
 N/A</col>
 <col>
-&mdash;</col>
+—</col>
 <col>
 N/A</col>
 <col>
@@ -1261,7 +1261,7 @@ Quicksort</link></algorithm>
 <it>Quicksort</it> is a <link xlink:type="simple" xlink:href="../154/201154.xml">
 divide and conquer</link> <link xlink:type="simple" xlink:href="../775/775.xml">
 algorithm</link> which relies on a <it>partition</it> operation: to partition an array, we choose an element, called a <it>pivot</it>, move all smaller elements before the pivot, and move all greater elements after it. This can be done efficiently in linear time and <link xlink:type="simple" xlink:href="../861/219861.xml">
-in-place</link>. We then recursively sort the lesser and greater sublists. Efficient implementations of quicksort (with in-place partitioning) are typically unstable sorts and somewhat complex, but are among the fastest sorting algorithms in practice. Together with its modest O(log <it>n</it>) space usage, this makes quicksort one of the most popular sorting algorithms, available in many standard libraries. The most complex issue in quicksort is choosing a good pivot element; consistently poor choices of pivots can result in drastically slower (O(<it>n</it>²)) performance, but if at each step we choose the <it>median</it> as the pivot then it works in O(<it>n</it>&nbsp;log&nbsp;<it>n</it>).</p>
+in-place</link>. We then recursively sort the lesser and greater sublists. Efficient implementations of quicksort (with in-place partitioning) are typically unstable sorts and somewhat complex, but are among the fastest sorting algorithms in practice. Together with its modest O(log <it>n</it>) space usage, this makes quicksort one of the most popular sorting algorithms, available in many standard libraries. The most complex issue in quicksort is choosing a good pivot element; consistently poor choices of pivots can result in drastically slower (O(<it>n</it>²)) performance, but if at each step we choose the <it>median</it> as the pivot then it works in O(<it>n</it> log <it>n</it>).</p>
 
 </ss1>
 <ss1>

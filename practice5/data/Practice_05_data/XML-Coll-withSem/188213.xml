@@ -67,7 +67,7 @@ Public</link></institution>
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbolYHOO&amp;selectedYHOO">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbolYHOO&amp;selectedYHOO">
 YHOO</weblink>)</company_type>
 <operating_income>
 ▲$1.03 billion <currency wordnetid="113385913" confidence="0.9508927676800064">
@@ -145,7 +145,7 @@ Yahoo (disambiguation)</link>.
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=YHOO&amp;selected=YHOO">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=YHOO&amp;selected=YHOO">
 YHOO</weblink>) is a <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -222,7 +222,7 @@ History and growth</st>
 
 <ss1>
 <st>
-Early history (1994&ndash;1996)</st>
+Early history (1994–1996)</st>
 <p>
 
 <image location="left" width="250px" src="Jerry_Yang_and_David_Filo.jpg" type="thumb">
@@ -368,7 +368,7 @@ Yahoo! headquarters in Sunnyvale
 </ss1>
 <ss1>
 <st>
-Dot-com bubble (2000&ndash;2001)</st>
+Dot-com bubble (2000–2001)</st>
 <p>
 
 On January 3, 2000, at the height of the <link xlink:type="simple" xlink:href="../021/9021.xml">
@@ -401,7 +401,7 @@ Google</link></company>
 </ss1>
 <ss1>
 <st>
-Post dot-com bubble (2002&ndash;2008)</st>
+Post dot-com bubble (2002–2008)</st>
 <p>
 
 Yahoo! was one of the few surviving large Internet companies after the <link xlink:type="simple" xlink:href="../021/9021.xml">
@@ -1125,7 +1125,7 @@ Yahoo! is known across the world with its multi-lingual interface. The site is a
 border 
 </caption>
 </image>
-&nbsp;<city wordnetid="108524735" confidence="0.9508927676800064">
+ <city wordnetid="108524735" confidence="0.9508927676800064">
 <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../905/18951905.xml">
 Argentina</link></country>
@@ -1146,7 +1146,7 @@ Y! Asia</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../576/576.xml">
 Austria</link></country>
  <weblink xlink:type="simple" xlink:href="http://at.search.yahoo.com/">
@@ -1159,7 +1159,7 @@ Y! Austria</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/3383.xml">
 Brazil</link></country>
  <weblink xlink:type="simple" xlink:href="http://br.yahoo.com/">
@@ -1172,7 +1172,7 @@ Y! Brazil</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<region wordnetid="108630039" confidence="0.8">
+ <region wordnetid="108630039" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <link xlink:type="simple" xlink:href="../822/6822.xml">
 Catalonia</link></location>
@@ -1187,7 +1187,7 @@ Y! Catalan</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -1218,7 +1218,7 @@ Y! Chile</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/5405.xml">
 China</link></country>
  <weblink xlink:type="simple" xlink:href="http://cn.yahoo.com/">
@@ -1231,7 +1231,7 @@ Y! China</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -1258,7 +1258,7 @@ Yahoo! U.S. in Chinese</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../222/5222.xml">
 Colombia</link></country>
  <weblink xlink:type="simple" xlink:href="http://co.yahoo.com/">
@@ -1271,7 +1271,7 @@ Y! Colombia</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../972/76972.xml">
 Denmark</link></country>
  <weblink xlink:type="simple" xlink:href="http://dk.yahoo.com/">
@@ -1284,7 +1284,7 @@ Y! Denmark</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../577/10577.xml">
 Finland</link></country>
  <weblink xlink:type="simple" xlink:href="http://fi.search.yahoo.com">
@@ -1297,7 +1297,7 @@ Y! Finland</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../419/5843419.xml">
 France</link></country>
  <weblink xlink:type="simple" xlink:href="http://fr.yahoo.com/">
@@ -1310,7 +1310,7 @@ Y! France</weblink>2</entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/11867.xml">
 Germany</link></country>
  <weblink xlink:type="simple" xlink:href="http://de.yahoo.com/">
@@ -1323,7 +1323,7 @@ Y! Germany</weblink>2</entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../108/12108.xml">
 Greece</link></country>
  <weblink xlink:type="simple" xlink:href="http://gr.yahoo.com/">
@@ -1336,7 +1336,7 @@ Y! Greece</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../404/13404.xml">
 Hong Kong</link></country>
  <weblink xlink:type="simple" xlink:href="http://hk.yahoo.com/">
@@ -1349,7 +1349,7 @@ Y! Hong Kong</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../533/14533.xml">
 India</link></country>
  <weblink xlink:type="simple" xlink:href="http://in.yahoo.com/">
@@ -1362,7 +1362,7 @@ Y! India</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../579/14579.xml">
 Indonesia</link></country>
  <weblink xlink:type="simple" xlink:href="http://id.yahoo.com/">
@@ -1379,7 +1379,7 @@ Y! Indonesia</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../560/14560.xml">
 Ireland</link></country>
  <weblink xlink:type="simple" xlink:href="http://ie.yahoo.com/">
@@ -1392,7 +1392,7 @@ Y! Ireland</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../532/14532.xml">
@@ -1409,7 +1409,7 @@ Y! Italy</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../573/15573.xml">
+ <link xlink:type="simple" xlink:href="../573/15573.xml">
 Japan</link> <weblink xlink:type="simple" xlink:href="http://yahoo.co.jp/">
 Y! Japan</weblink>1,2</entry>
 <entry level="1" type="bullet">
@@ -1420,7 +1420,7 @@ Y! Japan</weblink>1,2</entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../019/27019.xml">
 South Korea</link></country>
  <weblink xlink:type="simple" xlink:href="http://kr.yahoo.com/">
@@ -1433,7 +1433,7 @@ Y! Korea</weblink>2</entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../937/3607937.xml">
 Malaysia</link></country>
  <weblink xlink:type="simple" xlink:href="http://yahoo.com.my/">
@@ -1450,7 +1450,7 @@ Y! Malaysia</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -1477,7 +1477,7 @@ Y! Mexico</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../148/21148.xml">
@@ -1494,7 +1494,7 @@ Y! Netherlands</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../241/21241.xml">
@@ -1511,7 +1511,7 @@ Y! Norway</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
 <state wordnetid="108168978" confidence="0.8">
@@ -1534,7 +1534,7 @@ Y! Peru</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../440/23440.xml">
 Philippines</link></country>
  <weblink xlink:type="simple" xlink:href="http://ph.yahoo.com/">
@@ -1551,7 +1551,7 @@ Y! Philippines</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<district wordnetid="108552138" confidence="0.9508927676800064">
+ <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/7954867.xml">
 Quebec</link></district>
  <weblink xlink:type="simple" xlink:href="http://qc.yahoo.com/">
@@ -1565,7 +1565,7 @@ Y! Canada en Français</weblink>)</entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../391/25391.xml">
 Russia</link></country>
  <weblink xlink:type="simple" xlink:href="http://ru.yahoo.com/">
@@ -1578,7 +1578,7 @@ Y! Russia</weblink> </entry>
 border 
 </caption>
 </image>
-&nbsp;<system wordnetid="108435388" confidence="0.8">
+ <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../667/26667.xml">
@@ -1595,7 +1595,7 @@ Y! Spain</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <monarchy wordnetid="108363812" confidence="0.8">
@@ -1620,7 +1620,7 @@ Y! Sweden</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../748/26748.xml">
 Switzerland</link></country>
  <weblink xlink:type="simple" xlink:href="http://ch.yahoo.com/">
@@ -1633,7 +1633,7 @@ Y! Switzerland</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../734/25734.xml">
 Taiwan</link></country>
  <weblink xlink:type="simple" xlink:href="http://tw.yahoo.com/">
@@ -1646,7 +1646,7 @@ Y! Taiwan</weblink> (Yahoo!Kimo)</entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../128/30128.xml">
 Thailand</link></country>
  <weblink xlink:type="simple" xlink:href="http://th.yahoo.com/">
@@ -1663,7 +1663,7 @@ Y! Thailand</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../639/11125639.xml">
+ <link xlink:type="simple" xlink:href="../639/11125639.xml">
 Turkey</link> <weblink xlink:type="simple" xlink:href="http://tr.yahoo.com/">
 Y! Türkiye</weblink></entry>
 <entry level="1" type="bullet">
@@ -1674,7 +1674,7 @@ Y! Türkiye</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../374/32374.xml">
 Venezuela</link></country>
  <weblink xlink:type="simple" xlink:href="http://ve.yahoo.com/">
@@ -1687,7 +1687,7 @@ Y! Venezuela</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../354/202354.xml">
 Vietnam</link></country>
  <weblink xlink:type="simple" xlink:href="http://vn.yahoo.com/">
@@ -1700,7 +1700,7 @@ Y! Vietnam</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<symbol wordnetid="106806469" confidence="0.9508927676800064">
+ <symbol wordnetid="106806469" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../066/18933066.xml">
 Florida</link></symbol>
  <weblink xlink:type="simple" xlink:href="http://telemundo.yahoo.com/">
@@ -1726,7 +1726,7 @@ Other English language sites include:
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../264/4689264.xml">
 Australia</link></country>
  <weblink xlink:type="simple" xlink:href="http://au.yahoo.com/">
@@ -1742,7 +1742,7 @@ Yahoo!7</link></web_site>
 border 
 </caption>
 </image>
-&nbsp;<region wordnetid="108630039" confidence="0.9508927676800064">
+ <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
  <weblink xlink:type="simple" xlink:href="http://ca.yahoo.com/">
@@ -1755,7 +1755,7 @@ Y! Canada</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -1789,7 +1789,7 @@ Yahoo!Xtra</link></web_site>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../318/27318.xml">
 Singapore</link></country>
  <weblink xlink:type="simple" xlink:href="http://sg.yahoo.com/">
@@ -1802,7 +1802,7 @@ Y! Singapore</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<autocracy wordnetid="108361001" confidence="0.8">
+ <autocracy wordnetid="108361001" confidence="0.8">
 <system wordnetid="108435388" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
@@ -2003,15 +2003,15 @@ SiliconRepublic:_Yahoo_releases_new_email_service</weblink>".&#32;  siliconrepub
 <entry id="27">
 "<weblink xlink:type="simple" xlink:href="http://www.iht.com/articles/ap/2007/05/04/business/NA-FIN-COM-US-Microsoft-Yahoo.php">
 Microsoft and Yahoo end on-again off-again talks to combine forces</weblink>", Associated Press&#32;(May 4, 2007).&#32;Retrieved on <link>
-2008-02-01</link>.&nbsp;</entry>
+2008-02-01</link>. </entry>
 <entry id="26">
 Mary Crane&#32;(May 3, 2006).&#32;"<weblink xlink:type="simple" xlink:href="http://www.forbes.com/markets/bonds/2006/05/03/yahoo-microsoft-partnership-0503markets04.html">
 Microsoft, Yahoo In Possible Partnership Talks</weblink>", Forbes.&#32;Retrieved on <link>
-2008-02-01</link>.&nbsp;</entry>
+2008-02-01</link>. </entry>
 <entry id="29">
 "<weblink xlink:type="simple" xlink:href="http://www.bloomberg.com/apps/news?pid=20601103&amp;sid=aLsamJL6qUQY&amp;refer=news">
 Microsoft Offers to Buy Yahoo for $44.6 Billion</weblink>", Bloomberg&#32;(February 1, 2008).&#32;Retrieved on <link>
-2008-02-01</link>.&nbsp;</entry>
+2008-02-01</link>. </entry>
 <entry id="28">
 "<weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/1/hi/business/7222114.stm">
 Microsoft wants to purchase Yahoo</weblink>".&#32;  bbc.co.uk.&#32;Retrieved on <link>
@@ -2020,16 +2020,16 @@ Microsoft wants to purchase Yahoo</weblink>".&#32;  bbc.co.uk.&#32;Retrieved on 
 Kafka, Peter&#32;(<link>
 2008-02-12</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://www.alleyinsider.com/2008/2/yahoo__news_corp__deal_still_in_the_works_">
 Yahoo-News Corp Still Talking, Deal Still Possible</weblink>", <it>AlleyInsider</it>.&#32;Retrieved on <link>
-2008-03-18</link>.&nbsp;</entry>
+2008-03-18</link>. </entry>
 <entry id="30">
 Jason, Mick&#32;(<link>
 2008-02-06</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://www.dailytech.com/article.aspx?newsid=10586">
 Microsoft May Borrow For Yahoo Deal; Yahoo Opts for Google Alliance</weblink>", <it>DailyTech</it>.&#32;Retrieved on <link>
-2008-02-06</link>.&nbsp;</entry>
+2008-02-06</link>. </entry>
 <entry id="34">
 "<weblink xlink:type="simple" xlink:href="http://news.bbc.co.uk/2/hi/technology/7300337.stm">
 Microsoft's moves 'threaten net'</weblink>"&#32;(in en).&#32;Retrieved on <link>
-2008-03-18</link>.&nbsp;</entry>
+2008-03-18</link>. </entry>
 <entry id="35">
 "<weblink xlink:type="simple" xlink:href="http://www.reuters.com/article/rbssTechMediaTelecomNews/idUSN0543364420080405?pageNumber=2&amp;virtualBrandChannel=0">
 Microsoft CEO sets deadline to Yahoo for deal</weblink>".&#32;  <company wordnetid="108058098" confidence="0.9508927676800064">
@@ -2040,11 +2040,11 @@ Reuters</link></company>
 <entry id="32">
 "<weblink xlink:type="simple" xlink:href="http://yhoo.client.shareholder.com/press/releasedetail.cfm?ReleaseID=293129">
 Yahoo! Board of Directors Says Microsoft's Proposal Substantially Undervalues Yahoo!</weblink>", Business Wire&#32;(February 1, 2008).&#32;Retrieved on <link>
-2008-02-11</link>.&nbsp;</entry>
+2008-02-11</link>. </entry>
 <entry id="33">
 "<weblink xlink:type="simple" xlink:href="http://biz.yahoo.com/ap/080222/yahoo_shareholder_lawsuit.html">
 Yahoo sued for spurning Microsoft</weblink>"&#32;(in en), yahoo.com.&#32;Retrieved on <link>
-2008-02-23</link>.&nbsp;</entry>
+2008-02-23</link>. </entry>
 <entry id="38">
 "<weblink xlink:type="simple" xlink:href="http://www.theaustralian.news.com.au/story/0,25197,23519656-643,00.html">
 Yahoo brings two titans to the table</weblink>".&#32;  theaustralian.news.com.au.&#32;Retrieved on <link>
@@ -2119,7 +2119,7 @@ Liedtke, Michael&#32;(2008-07-07).&#32;"<weblink xlink:type="simple" xlink:href=
 <entry id="47">
 Liedtke, Michael&#32;(December 11, 2007).&#32;"<weblink xlink:type="simple" xlink:href="http://www.journalgazette.net/apps/pbcs.dll/article?AID=/20071211/BIZ/712110335">
 Ask.com will purge search info in hours</weblink>", <it>Journal Gazette</it>, Fort Wayne Newspapers.&#32;Retrieved on <link>
-2008-08-18</link>.&nbsp;</entry>
+2008-08-18</link>. </entry>
 <entry id="44">
 "<weblink xlink:type="simple" xlink:href="http://online.wsj.com/article/SB121329534659368693.html">
 Yahoo Ends Talks With Microsoft, Signs Search-Ad Deal with Google</weblink>".&#32;  <link xlink:type="simple" xlink:href="../070/173070.xml">
@@ -2162,9 +2162,9 @@ Novarra to transcode for Yahoo’s oneSearch</weblink>".&#32;  rcrnews.com.&#32;
 2008-02-06</link>.</entry>
 <entry id="59">
 Story, Louise and comScore&#32;(March 10, 2008).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nytimes.com/imagepages/2008/03/10/technology/20080310_PRIVACY_GRAPHIC.html">
-They Know More Than You Think</weblink>"&#32;(JPEG).&nbsp; in Story, Louise&#32;(March 10, 2008).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nytimes.com/2008/03/10/technology/10privacy.html">
+They Know More Than You Think</weblink>"&#32;(JPEG).  in Story, Louise&#32;(March 10, 2008).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nytimes.com/2008/03/10/technology/10privacy.html">
 To Aim Ads, Web Is Keeping Closer Eye on You</weblink>", <it>The New York Times</it>, The New York Times Company.&#32;Retrieved on <link>
-2008-03-09</link>.&nbsp;</entry>
+2008-03-09</link>. </entry>
 <entry id="58">
 "<weblink xlink:type="simple" xlink:href="http://www.nytimes.com/2007/02/05/technology/05yahoo.html?ex=1328331600&amp;en=7c66de3983c44830&amp;ei=5090&amp;partner=rssuserland&amp;emc=rss">
 A Long-Delayed Ad System Has Yahoo Crossing Its Fingers</weblink>".&#32;  nytimes.com.&#32;Retrieved on <link>
@@ -2290,7 +2290,7 @@ Panama</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -2303,7 +2303,7 @@ Search Marketing</link></machine>
 </engine>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../744/3182744.xml">
+ ·  <link xlink:type="simple" xlink:href="../744/3182744.xml">
 Yahoo! Publisher Network</link></col>
 </row>
 <row style="height:2px">
@@ -2314,7 +2314,7 @@ Yahoo! Publisher Network</link></col>
 Developer Networks and Resources</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../484/10610484.xml">
-Yahoo! Gallery</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Yahoo! Gallery</link> ·  <work wordnetid="100575741" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
@@ -2345,42 +2345,42 @@ Yahoo! Developer Network</link></activity>
 Search</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../396/3607396.xml">
-blo.gs</link>&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+blo.gs</link> ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../563/3359563.xml">
 Directory</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../044/14904044.xml">
 Finance</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../541/330541.xml">
 Groups</link></web_site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../769/2945769.xml">
-HotJobs</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../769/2945769.xml">
+HotJobs</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../357/3198357.xml">
 Kelkoo</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../031/818031.xml">
 LAUNCHcast</link></software>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../997/1718997.xml">
 Maps</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../907/908907.xml">
 Movies</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../033/1988033.xml">
 Music</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../005/1560005.xml">
 News</link></web_site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../258/5284258.xml">
-omg!</link>&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../258/5284258.xml">
+omg!</link> ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../791/9180791.xml">
 Sports</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../520/7337520.xml">
 Video</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../022/1620022.xml">
 Web</link></web_site>
 </col>
@@ -2395,15 +2395,15 @@ Communication and Publishing</col>
 <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../969/3385969.xml">
 Answers</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../074/16389074.xml">
 Buzz</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../458/1178458.xml">
 Flickr</link></web_site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../308/950308.xml">
-Delicious</link>&nbsp;·  <link xlink:type="simple" xlink:href="../226/18171226.xml">
-Fire Eagle</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../308/950308.xml">
+Delicious</link> ·  <link xlink:type="simple" xlink:href="../226/18171226.xml">
+Fire Eagle</link> ·  <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -2414,7 +2414,7 @@ Games</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -2423,27 +2423,27 @@ GeoCities</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <link xlink:type="simple" xlink:href="../892/13411892.xml">
-Go</link>&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../892/13411892.xml">
+Go</link> ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../875/8141875.xml">
 JumpCut</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../868/15717868.xml">
 Live</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../788/646788.xml">
 Mail</link></web_site>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../351/199351.xml">
 Messenger</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../392/3441392.xml">
-Mobile</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../392/3441392.xml">
+Mobile</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../825/12079825.xml">
 MyBlogLog</link></company>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../492/9391492.xml">
 Pipes</link></web_site>
-&nbsp;·   <computer wordnetid="103082979" confidence="0.8">
+ ·   <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -2456,7 +2456,7 @@ Rivals</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -2469,11 +2469,11 @@ Web Hosting</link></activity>
 </service>
 </event>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../529/2909529.xml">
-Upcoming</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../529/2909529.xml">
+Upcoming</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../488/10128488.xml">
 Voice</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../586/2732586.xml">
 Zimbra</link></software>
 </col>
@@ -2488,13 +2488,13 @@ Computer Applications</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../590/414590.xml">
 Widgets </link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../038/1847038.xml">
 Desktop Search</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../351/199351.xml">
 Messenger</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -2505,7 +2505,7 @@ Music Jukebox</link></causal_agent>
 </player>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <browser wordnetid="106571301" confidence="0.8">
@@ -2522,7 +2522,7 @@ The All-Seeing Eye</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <component wordnetid="103081021" confidence="0.8">
+ ·  <component wordnetid="103081021" confidence="0.8">
 <part wordnetid="103892891" confidence="0.8">
 <addition wordnetid="102679415" confidence="0.8">
 <link xlink:type="simple" xlink:href="../747/13577747.xml">
@@ -2539,7 +2539,7 @@ Toolbar</link></addition>
 Former Products and Services</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link>
-360°</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+360°</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -2552,7 +2552,7 @@ Broadcast.com</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -2573,7 +2573,7 @@ Mash</link></web_site>
 </social_group>
 </artifact>
 </computer>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -2588,16 +2588,16 @@ Musicmatch Jukebox</link></case>
 </player>
 </person>
 </physical_entity>
-&nbsp;·  <service wordnetid="100577525" confidence="0.9508927676800064">
+ ·  <service wordnetid="100577525" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../842/3422842.xml">
 Music Unlimited</link></service>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/3811642.xml">
 Photos</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../931/10423931.xml">
 Podcasts</link></web_site>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -2610,7 +2610,7 @@ RocketMail</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../684/714684.xml">
+ ·  <link xlink:type="simple" xlink:href="../684/714684.xml">
 WebRing</link></col>
 </row>
 <row style="height:2px">
@@ -2621,8 +2621,8 @@ WebRing</link></col>
 See also</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../423/6916423.xml">
-Acquisitions</link> &nbsp;·  <link xlink:type="simple" xlink:href="../392/18718392.xml">
-Criticism</link>  &nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+Acquisitions</link>  ·  <link xlink:type="simple" xlink:href="../392/18718392.xml">
+Criticism</link>   ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../112/7806112.xml">
 Time Capsule</link></web_site>
 </col>
@@ -2636,14 +2636,14 @@ Time Capsule</link></web_site>
 ▲$6.7 Billion <currency wordnetid="113385913" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../338/18717338.xml">
 USD</link></currency>
- (2007)&nbsp;·  <b>Employees</b>: 11,400 (2007)
+ (2007) ·  <b>Employees</b>: 11,400 (2007)
 <b>Stock Symbol</b>: (<company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=YHOO&amp;selected=YHOO">
-YHOO</weblink>)&nbsp;·  <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.yahoo.com/">
+: <weblink xlink:type="simple" xlink:href="http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=YHOO&amp;selected=YHOO">
+YHOO</weblink>) ·  <b>Website</b>: <weblink xlink:type="simple" xlink:href="http://www.yahoo.com/">
 Yahoo.com</weblink></col>
 </row>
 </table>
@@ -2674,36 +2674,36 @@ Cellular hardware</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../923/7629923.xml">
 Alcatel-Lucent</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../856/856.xml">
 Apple</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../315/307315.xml">
 Sony Ericsson</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/1963405.xml">
 HTC</link></company>
-&nbsp;·  <name wordnetid="106333653" confidence="0.9508927676800064">
+ ·  <name wordnetid="106333653" confidence="0.9508927676800064">
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../589/656589.xml">
 LG</link></company>
 </name>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../319/20319.xml">
 Motorola</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../137/18341137.xml">
 Samsung</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../242/21242.xml">
 Nokia</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../107/71107.xml">
 Palm</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../913/256913.xml">
 Qualcomm</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../663/342663.xml">
 RIM</link></company>
 </col>
@@ -2729,47 +2729,47 @@ Conglomerates</link></kind>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../730/12730.xml">
 GE</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../488/6274488.xml">
-HCL</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../488/6274488.xml">
+HCL</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../676/188676.xml">
 Hitachi</link></company>
-&nbsp;·  <name wordnetid="106333653" confidence="0.9508927676800064">
+ ·  <name wordnetid="106333653" confidence="0.9508927676800064">
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../589/656589.xml">
 LG</link></company>
 </name>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../171/95171.xml">
 Matsushita (Panasonic, JVC)</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../220/83220.xml">
 NCR</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../422/113422.xml">
 News Corp.</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../550/23550.xml">
 Philips</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../287/268287.xml">
 Samsung</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../632/168632.xml">
-Siemens (Infineon, Qimonda)</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../632/168632.xml">
+Siemens (Infineon, Qimonda)</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../989/26989.xml">
 Sony</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../541/355541.xml">
 Thomson</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../703/59703.xml">
 Toshiba</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../590/1139590.xml">
 Vivendi</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../428/308428.xml">
 Yamaha</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../828/10678828.xml">
+ ·  <link xlink:type="simple" xlink:href="../828/10678828.xml">
 list</link></col>
 </row>
 <row style="height:2px">
@@ -2782,28 +2782,28 @@ list</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../503/35503.xml">
 3Com</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../923/7629923.xml">
 Alcatel-Lucent</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../742/8967742.xml">
 Allied Telesis</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../455/307455.xml">
 Avaya</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../424/9424.xml">
 Ericsson</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../051/997051.xml">
 Foundry</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../909/290909.xml">
 Huawei</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../480/5622480.xml">
 Nokia Siemens</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../141/1785141.xml">
 ZTE</link></company>
 </col>
@@ -2821,7 +2821,7 @@ Dot-com</link></institution>
 s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../483/1144483.xml">
-Adult FriendFinder</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+Adult FriendFinder</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <shop wordnetid="104202417" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
 <mercantile_establishment wordnetid="103748162" confidence="0.8">
@@ -2846,17 +2846,17 @@ Amazon</link></web_site>
 </structure>
 </shop>
 </computer>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../397/1397.xml">
 AOL</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../624/429624.xml">
 Ask.com</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../836/385836.xml">
 CNET</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../495/130495.xml">
-eBay</link>&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../495/130495.xml">
+eBay</link> ·  <social_group wordnetid="107950920" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
@@ -2869,7 +2869,7 @@ DeviantArt</link></group>
 </gathering>
 </possession>
 </social_group>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -2878,34 +2878,34 @@ Elfwood</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../606/417606.xml">
 Expedia.ca</link></web_site>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../378/7529378.xml">
 Facebook</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../923/1092923.xml">
 Google</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../180/9978180.xml">
-Hi5</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../180/9978180.xml">
+Hi5</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../366/18366.xml">
 Lycos</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../996/3129996.xml">
 Metacafe</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../314/2045314.xml">
 Monster.ca</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../655/1270655.xml">
 MySpace</link></company>
-&nbsp;·  <possession wordnetid="100032613" confidence="0.8">
+ ·  <possession wordnetid="100032613" confidence="0.8">
 <property wordnetid="113244109" confidence="0.8">
 <link xlink:type="simple" xlink:href="../164/18619164.xml">
 Nexopia</link></property>
 </possession>
-&nbsp;·  <possession wordnetid="100032613" confidence="0.8">
+ ·  <possession wordnetid="100032613" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <property wordnetid="113244109" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -2914,10 +2914,10 @@ Travelocity</link></institution>
 </property>
 </company>
 </possession>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../144/1059144.xml">
 WebEx</link></company>
-&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
@@ -2934,10 +2934,10 @@ Workopolis</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../856/605856.xml">
 WordPress</link></software>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../213/188213.xml">
 Yahoo!</link></company>
 </col>
@@ -2953,42 +2953,42 @@ Semiconductor</link>s (General)</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../341/644341.xml">
 Analog Devices</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <electronics_company wordnetid="108003035" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../263/180263.xml">
 Fairchild</link></institution>
 </electronics_company>
 </company>
-&nbsp;·   <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·   <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../308/1436308.xml">
 Skyworks</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../278/510278.xml">
 Infineon</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../597/100597.xml">
 National</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../062/6794062.xml">
 NXP</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../245/346245.xml">
 Renesas</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <electronics_company wordnetid="108003035" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../155/965155.xml">
 Rohm</link></institution>
 </electronics_company>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../971/162971.xml">
 STMicroelectronics</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../768/47768.xml">
 Texas Instruments</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../574/463574.xml">
 TSMC</link></company>
 </col>
@@ -3004,33 +3004,33 @@ Electronics manufacturers</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../243/323243.xml">
 Celestica</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <electronics_company wordnetid="108003035" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../290/424290.xml">
 Elcoteq</link></institution>
 </electronics_company>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/869304.xml">
 Flextronics</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../488/3005488.xml">
 Foxconn</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../203/928203.xml">
 Jabil</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../999/2421999.xml">
 Kimball</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../912/1588912.xml">
-Plexus</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../912/1588912.xml">
+Plexus</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../196/616196.xml">
 Quanta</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../755/2910755.xml">
 Sanmina-SCI</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../864/8371864.xml">
 SMTC</link></company>
 </col>
@@ -3047,104 +3047,104 @@ services</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../134/299134.xml">
 Accenture</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../836/2512836.xml">
 ACS</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../299/895299.xml">
 Atos Origin</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../233/3299233.xml">
 Avanade</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../806/201806.xml">
 BearingPoint</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/1636889.xml">
 Booz Allen Hamilton</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../642/4642.xml">
 BT</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../237/972237.xml">
 Capgemini</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../671/2515671.xml">
 CGI</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../282/774282.xml">
 Cognizant</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../857/942857.xml">
 CSC</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../015/586015.xml">
 Deloitte</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../052/10052.xml">
 EDS</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../423/3925423.xml">
 First Data</link></institution>
 </company>
-&nbsp;·   <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·   <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../822/2139822.xml">
 Getronics</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../747/1962747.xml">
 HCL Tech</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../846/2367846.xml">
-i-flex</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../846/2367846.xml">
+i-flex</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../259/18622259.xml">
 IBM</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../029/5932029.xml">
 Indra</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../401/243401.xml">
 Infosys</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../661/7712661.xml">
 Keane</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../369/503369.xml">
 Logica</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../344/8872344.xml">
 Neusoft</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../491/1290491.xml">
 PA</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../554/7272554.xml">
 Perot</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../000/227000.xml">
 SAIC</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../573/538573.xml">
 Sapient</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../868/1028868.xml">
-Satyam</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../868/1028868.xml">
+Satyam</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../284/7916284.xml">
 Steria</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../392/1879392.xml">
 Syntel</link></company>
-&nbsp;· <company wordnetid="108058098" confidence="0.9508927676800064">
+ · <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../006/284006.xml">
 TCS</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../936/12521936.xml">
 TechTarget</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../987/1608987.xml">
 ThoughtWorks</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../926/2324926.xml">
 TietoEnator</link></company>
-&nbsp;·  <operation wordnetid="100955060" confidence="0.8">
+ ·  <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
@@ -3161,16 +3161,16 @@ Titan</link></institution>
 </company>
 </event>
 </operation>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../274/61274.xml">
 Unisys</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../707/9708707.xml">
 Virtusa</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../881/402881.xml">
 Wipro</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../563/3616563.xml">
 Xansa</link></company>
 </col>
@@ -3185,8 +3185,8 @@ Server hardware (all types)</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../259/18622259.xml">
 IBM</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../973/13973.xml">
-Hewlett-Packard</link>&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../973/13973.xml">
+Hewlett-Packard</link> ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../980/26980.xml">
 Sun Microsystems</link></institution>
@@ -3204,33 +3204,33 @@ DTV</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../169/397169.xml">
 Acer</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/12665591.xml">
 BenQ</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../743/1225743.xml">
 LG</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../287/268287.xml">
 Samsung</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../681/703681.xml">
 Sharp</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../989/26989.xml">
 Sony</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../703/59703.xml">
 Toshiba</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../236/1750236.xml">
 Trident Microsystems</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../696/589696.xml">
 ViewSonic</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../871/7875871.xml">
 Vizio</link></company>
 </col>
@@ -3246,45 +3246,45 @@ Software</link></col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../955/1955.xml">
 Adobe</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../856/856.xml">
 Apple</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../752/422752.xml">
 CA</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../299/858299.xml">
 Compuware</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../542/149542.xml">
 Corel</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../259/18622259.xml">
 IBM</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../913/1025913.xml">
 Idealab</link></institution>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../796/1184796.xml">
 Intuit</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../001/19001.xml">
 Microsoft</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/22591.xml">
 Oracle</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../617/671617.xml">
 PTC</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../386/26386.xml">
 Red Hat</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../773/276773.xml">
 SAP</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../440/404440.xml">
 Zend</link></institution>
@@ -3301,17 +3301,17 @@ Gaming</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../422/5422.xml">
 Capcom</link></company>
-&nbsp;·  <food_company wordnetid="108003427" confidence="0.8">
+ ·  <food_company wordnetid="108003427" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../708/1171708.xml">
 CJC</link></institution>
 </company>
 </food_company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../933/262933.xml">
 EA</link></company>
-&nbsp;·  <forum wordnetid="108309754" confidence="0.8">
+ ·  <forum wordnetid="108309754" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <possession wordnetid="100032613" confidence="0.8">
 <meeting wordnetid="108307589" confidence="0.8">
@@ -3326,32 +3326,32 @@ IGN</link></group>
 </possession>
 </social_group>
 </forum>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../724/289724.xml">
 Interplay Entertainment</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../676/12348676.xml">
-K2 Network</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../676/12348676.xml">
+K2 Network</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../485/586485.xml">
 NCsoft</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../197/21197.xml">
 Nintendo</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../910/26910.xml">
 Sega</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../398/1025398.xml">
 Sony</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../910/26910.xml">
 Sega</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../390/358390.xml">
 Take-Two Interactive</link></company>
- (RockStar)&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ (RockStar) ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../616/563616.xml">
 Ubisoft</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../809/3310809.xml">
 Webzen Games</link></company>
 </col>
@@ -3366,28 +3366,28 @@ Security</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../223/15880223.xml">
 AVG Technologies</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../228/590228.xml">
 ESET</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../998/1107998.xml">
 F-Secure</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../619/584619.xml">
 Kaspersky Lab</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../684/198684.xml">
 McAfee</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../301/1065301.xml">
 SOFTWIN</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../412/713412.xml">
 Sophos</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../414/354414.xml">
 Symantec</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../214/590214.xml">
 Trend Micro</link></company>
 </col>
@@ -3401,15 +3401,15 @@ Trend Micro</link></company>
 <link xlink:type="simple" xlink:href="../317/9317.xml">
 European Union</link></economy>
 
-&nbsp;·  <name wordnetid="106333653" confidence="0.9508927676800064">
+ ·  <name wordnetid="106333653" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../312/1707312.xml">
 Korea Stock Exchange</link></name>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-&nbsp;·  <site wordnetid="108651247" confidence="0.8">
+ ·  <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
@@ -3434,7 +3434,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-&nbsp;· <link xlink:type="simple" xlink:href="../425/17581425.xml">
+ · <link xlink:type="simple" xlink:href="../425/17581425.xml">
 Fortune Global 500</link></col>
 </row>
 </table>
@@ -3475,19 +3475,19 @@ September 23rd</link> <link xlink:type="simple" xlink:href="../825/35825.xml">
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../195/14527195.xml">
 Activision Blizzard</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../955/1955.xml">
 Adobe Systems</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../477/481477.xml">
 Akamai Technologies</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../545/516545.xml">
 Altera</link></company>
-&nbsp;· 
+ · 
 <computer wordnetid="103082979" confidence="0.8">
 <shop wordnetid="104202417" confidence="0.8">
 <structure wordnetid="104341686" confidence="0.8">
@@ -3513,169 +3513,169 @@ Amazon.com</link></web_site>
 </structure>
 </shop>
 </computer>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../897/932897.xml">
 Amgen</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../760/11635760.xml">
 Amylin Pharmaceuticals</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../557/2694557.xml">
 Apollo Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../856/856.xml">
 Apple Inc.</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../719/479719.xml">
 Applied Materials</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../584/180584.xml">
 Autodesk</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../048/1676048.xml">
 Baidu</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../515/517515.xml">
 Bed Bath &amp; Beyond</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../532/380532.xml">
 Biogen Idec</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../502/669502.xml">
 Broadcom</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../160/3934160.xml">
 C. H. Robinson Worldwide</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../752/422752.xml">
 CA, Inc.</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../999/11678999.xml">
 Cadence Design Systems</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../610/2887610.xml">
 Celgene</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/7925018.xml">
 Cephalon</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../658/2219658.xml">
 Check Point</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../469/2354469.xml">
 Cintas</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../746/51746.xml">
 Cisco Systems</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../948/309948.xml">
 Citrix Systems</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../282/774282.xml">
 Cognizant Technology Solutions</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../749/303749.xml">
 Comcast</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../056/446056.xml">
 Costco</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../490/102490.xml">
-Dell</link>&nbsp;· 
+Dell</link> · 
 <link>
-DENTSPLY International</link>&nbsp;· 
+DENTSPLY International</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../846/3922846.xml">
 Discovery Holding Company</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../501/526501.xml">
 Dish Network Corporation</link></institution>
 </company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../495/130495.xml">
-eBay</link>&nbsp;· 
+eBay</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../933/262933.xml">
 Electronic Arts</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../070/1749070.xml">
 Expedia, Inc.</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../042/547042.xml">
 Expeditors International</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../019/3336019.xml">
 Express Scripts</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../058/1615058.xml">
 Fastenal</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../048/1968048.xml">
 Fiserv</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/869304.xml">
 Flextronics</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../474/9679474.xml">
 FLIR Systems</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../877/11571877.xml">
 Focus Media Holding</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../412/3183412.xml">
 Foster Wheeler Corporation</link></institution>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../198/1118198.xml">
 Garmin</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../963/4406963.xml">
 Genzyme</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../997/978997.xml">
 Gilead Sciences</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../923/1092923.xml">
 Google</link></company>
-&nbsp;· 
+ · 
 <small_indefinite_quantity wordnetid="113760316" confidence="0.8">
 <helping wordnetid="107578363" confidence="0.8">
 <drink wordnetid="107885223" confidence="0.8">
@@ -3685,87 +3685,87 @@ Hansen Natural</link></indefinite_quantity>
 </drink>
 </helping>
 </small_indefinite_quantity>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../490/4830490.xml">
 Henry Schein</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../545/11589545.xml">
 Hologic</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../308/1192308.xml">
 IAC/InterActiveCorp</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../401/243401.xml">
 Infosys</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../617/14617.xml">
 Intel Corporation</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../796/1184796.xml">
 Intuit</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../482/3828482.xml">
 Intuitive Surgical</link></company>
-&nbsp;· 
+ · 
 <link>
-Joy Global</link>&nbsp;· 
+Joy Global</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../426/675426.xml">
 Juniper Networks</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../991/3168991.xml">
 KLA-Tencor</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../974/4841974.xml">
 Lam Research</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../243/10284243.xml">
 Lamar Advertising Company</link></institution>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/3919784.xml">
 Leap Wireless International</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../702/1855702.xml">
 Level 3 Communications</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../140/1543140.xml">
 Liberty Global</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../905/523905.xml">
 Liberty Media Corporation</link></institution>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../238/3752238.xml">
 Linear Technology</link></institution>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../604/305604.xml">
 Logitech</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../522/5276522.xml">
 Marvell Technology Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <electronics_company wordnetid="108003035" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
@@ -3773,131 +3773,131 @@ Marvell Technology Group</link></company>
 Microchip Technology</link></institution>
 </electronics_company>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../001/19001.xml">
 Microsoft</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../553/4224553.xml">
 Millicom International Cellular</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../005/4327005.xml">
 Monster Worldwide</link></institution>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../623/855623.xml">
 NetApp</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../728/11982728.xml">
-NII Holdings, Inc.</link>&nbsp;· 
+NII Holdings, Inc.</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../120/39120.xml">
 Nvidia</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/22591.xml">
 Oracle Corporation</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../885/359885.xml">
-PACCAR</link>&nbsp;· 
+PACCAR</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../549/13151549.xml">
 Patterson Companies</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../357/423357.xml">
 Paychex</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../054/2395054.xml">
 PetSmart</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../913/256913.xml">
 Qualcomm</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../663/342663.xml">
 Research In Motion</link></company>
-&nbsp;· 
+ · 
 <airline wordnetid="102690081" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../878/262878.xml">
 Ryanair</link></airline>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../690/765690.xml">
 SanDisk</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../880/1611880.xml">
 Sears Holdings Corporation</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../549/2887549.xml">
 Sigma-Aldrich</link></institution>
 </company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../757/9603757.xml">
-Sirius XM Radio</link>&nbsp;· 
+Sirius XM Radio</link> · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../907/573907.xml">
 Staples Inc.</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../771/178771.xml">
 Starbucks</link></company>
-&nbsp;· 
+ · 
 <link xlink:type="simple" xlink:href="../699/19525699.xml">
-Steel Dynamics</link>&nbsp;· 
+Steel Dynamics</link> · 
 <link xlink:type="simple" xlink:href="../878/19589878.xml">
-Stericycle</link>&nbsp;· 
+Stericycle</link> · 
 <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../980/26980.xml">
 Sun Microsystems</link></institution>
 </company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../414/354414.xml">
 Symantec</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../692/5460692.xml">
 Teva Pharmaceutical Industries</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../083/533083.xml">
 The DirecTV Group</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../632/319632.xml">
 VeriSign</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../376/1913376.xml">
 Vertex Pharmaceuticals</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../087/3329087.xml">
 Virgin Media</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../343/620343.xml">
 Whole Foods Market</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../677/1642677.xml">
 Wynn Resorts</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../732/816732.xml">
 Xilinx</link></company>
-&nbsp;· 
+ · 
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../213/188213.xml">
 Yahoo!</link></company>

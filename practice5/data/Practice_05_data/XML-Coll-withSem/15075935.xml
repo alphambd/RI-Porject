@@ -55,11 +55,11 @@ NUP85</weblink>; FLJ12549; Nup75</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=170285">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=170285">
 170285</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:3046173">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:3046173">
 3046173</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=11755">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=11755">
 11755</weblink></col>
 </row>
 
@@ -208,7 +208,7 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Kapeller R, Toker A, Cantley LC, Carpenter CL&#32;(1995).&#32;"Phosphoinositide 3-kinase binds constitutively to alpha/beta-tubulin and binds to gamma-tubulin in response to insulin.". <it>J. Biol. Chem.</it>&#32;<b>270</b>&#32;(43): 25985–91. PMID 7592789.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Kapeller R, Toker A, Cantley LC, Carpenter CL&#32;(1995).&#32;"Phosphoinositide 3-kinase binds constitutively to alpha/beta-tubulin and binds to gamma-tubulin in response to insulin.". <it>J. Biol. Chem.</it>&#32;<b>270</b>&#32;(43): 25985–91. PMID 7592789.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Tynan SH, Purohit A, Doxsey SJ, Vallee RB&#32;(2000).&#32;"Light intermediate chain 1 defines a functional subfraction of cytoplasmic dynein which binds to pericentrin.". <it>J. Biol. Chem.</it>&#32;<b>275</b>&#32;(42): 32763–8. <document wordnetid="106470073" confidence="0.8">
@@ -219,7 +219,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fjbc.M001536200">
-10.1074/jbc.M001536200</weblink>. PMID 10893222.</cite>&nbsp;</entry>
+10.1074/jbc.M001536200</weblink>. PMID 10893222.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Cronshaw JM, Krutchinsky AN, Zhang W, et al.&#32;(2002).&#32;"Proteomic analysis of the mammalian nuclear pore complex.". <it>J. Cell Biol.</it>&#32;<b>158</b>&#32;(5): 915–27. <document wordnetid="106470073" confidence="0.8">
@@ -230,7 +230,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1083%2Fjcb.200206106">
-10.1083/jcb.200206106</weblink>. PMID 12196509.</cite>&nbsp;</entry>
+10.1083/jcb.200206106</weblink>. PMID 12196509.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -241,10 +241,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Mulari MT, Patrikainen L, Kaisto T, et al.&#32;(2003).&#32;"The architecture of microtubular network and Golgi orientation in osteoclasts--major differences between avian and mammalian species.". <it>Exp. Cell Res.</it>&#32;<b>285</b>&#32;(2): 221–35. PMID 12706117.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Mulari MT, Patrikainen L, Kaisto T, et al.&#32;(2003).&#32;"The architecture of microtubular network and Golgi orientation in osteoclasts--major differences between avian and mammalian species.". <it>Exp. Cell Res.</it>&#32;<b>285</b>&#32;(2): 221–35. PMID 12706117.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ota T, Suzuki Y, Nishikawa T, et al.&#32;(2004).&#32;"Complete sequencing and characterization of 21,243 full-length human cDNAs.". <it>Nat. Genet.</it>&#32;<b>36</b>&#32;(1): 40–5. <document wordnetid="106470073" confidence="0.8">
@@ -255,7 +255,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fng1285">
-10.1038/ng1285</weblink>. PMID 14702039.</cite>&nbsp;</entry>
+10.1038/ng1285</weblink>. PMID 14702039.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Chang F, Re F, Sebastian S, et al.&#32;(2004).&#32;"HIV-1 Vpr induces defects in mitosis, cytokinesis, nuclear structure, and centrosomes.". <it>Mol. Biol. Cell</it>&#32;<b>15</b>&#32;(4): 1793–801. <document wordnetid="106470073" confidence="0.8">
@@ -266,7 +266,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1091%2Fmbc.E03-09-0691">
-10.1091/mbc.E03-09-0691</weblink>. PMID 14767062.</cite>&nbsp;</entry>
+10.1091/mbc.E03-09-0691</weblink>. PMID 14767062.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Loïodice I, Alves A, Rabut G, et al.&#32;(2005).&#32;"The entire Nup107-160 complex, including three new members, is targeted as one entity to kinetochores in mitosis.". <it>Mol. Biol. Cell</it>&#32;<b>15</b>&#32;(7): 3333–44. <document wordnetid="106470073" confidence="0.8">
@@ -277,7 +277,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1091%2Fmbc.E03-12-0878">
-10.1091/mbc.E03-12-0878</weblink>. PMID 15146057.</cite>&nbsp;</entry>
+10.1091/mbc.E03-12-0878</weblink>. PMID 15146057.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Terashima Y, Onai N, Murai M, et al.&#32;(2005).&#32;"Pivotal function for cytoplasmic protein FROUNT in CCR2-mediated monocyte chemotaxis.". <it>Nat. Immunol.</it>&#32;<b>6</b>&#32;(8): 827–35. <document wordnetid="106470073" confidence="0.8">
@@ -288,7 +288,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fni1222">
-10.1038/ni1222</weblink>. PMID 15995708.</cite>&nbsp;</entry>
+10.1038/ni1222</weblink>. PMID 15995708.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Rual JF, Venkatesan K, Hao T, et al.&#32;(2005).&#32;"Towards a proteome-scale map of the human protein-protein interaction network.". <it>Nature</it>&#32;<b>437</b>&#32;(7062): 1173–8. <document wordnetid="106470073" confidence="0.8">
@@ -299,7 +299,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature04209">
-10.1038/nature04209</weblink>. PMID 16189514.</cite>&nbsp;</entry>
+10.1038/nature04209</weblink>. PMID 16189514.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Satoh M, Akatsu T, Ishkawa Y, et al.&#32;(2007).&#32;"A novel activator of C-C chemokine, FROUNT, is expressed with C-C chemokine receptor 2 and its ligand in failing human heart.". <it>J. Card. Fail.</it>&#32;<b>13</b>&#32;(2): 114–9. <document wordnetid="106470073" confidence="0.8">
@@ -310,7 +310,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cardfail.2006.11.003">
-10.1016/j.cardfail.2006.11.003</weblink>. PMID 17395051.</cite>&nbsp;</entry>
+10.1016/j.cardfail.2006.11.003</weblink>. PMID 17395051.</cite> </entry>
 </list>
 </p>
 
@@ -336,8 +336,8 @@ Autoantigens</link></header>
 Dehydrogenase</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../546/3360546.xml">
-Branched-chain alpha-keto acid dehydrogenase complex</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../951/1416951.xml">
-Oxoglutarate dehydrogenase</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../408/8430408.xml">
+Branched-chain alpha-keto acid dehydrogenase complex</link> &amp;bull; <link xlink:type="simple" xlink:href="../951/1416951.xml">
+Oxoglutarate dehydrogenase</link> &amp;bull; <link xlink:type="simple" xlink:href="../408/8430408.xml">
 Pyruvate dehydrogenase</link></col>
 </row>
 <row style="height:2px">
@@ -349,7 +349,7 @@ Pyruvate dehydrogenase</link></col>
 Transglutaminase</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../619/12078619.xml">
-Epidermal transglutaminase</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../691/5645691.xml">
+Epidermal transglutaminase</link> &amp;bull; <link xlink:type="simple" xlink:href="../691/5645691.xml">
 Tissue transglutaminase</link></col>
 </row>
 <row style="height:2px">
@@ -361,24 +361,24 @@ Tissue transglutaminase</link></col>
 Nucleoporin</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../356/16846356.xml">
-NUP35</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../009/19496009.xml">
-NUP37</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../130/15246130.xml">
-NUP43</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../093/14809093.xml">
-NUP50</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../121/14878121.xml">
-NUP54</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../517/14144517.xml">
-NUP62</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../935/15075935.xml">
-NUP85</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../447/14795447.xml">
-NUP88</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../878/15419878.xml">
-NUP93</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../525/14130525.xml">
-NUP98</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../770/14814770.xml">
-NUP107</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../236/14878236.xml">
-NUP133</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../184/14179184.xml">
-NUP153</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../786/15181786.xml">
-NUP155</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../094/14880094.xml">
-NUP160</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../924/19496924.xml">
-NUP188</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../763/12629763.xml">
-NUP210</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../039/19497039.xml">
-NUP205</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../208/14755208.xml">
+NUP35</link> &amp;bull; <link xlink:type="simple" xlink:href="../009/19496009.xml">
+NUP37</link> &amp;bull; <link xlink:type="simple" xlink:href="../130/15246130.xml">
+NUP43</link> &amp;bull; <link xlink:type="simple" xlink:href="../093/14809093.xml">
+NUP50</link> &amp;bull; <link xlink:type="simple" xlink:href="../121/14878121.xml">
+NUP54</link> &amp;bull; <link xlink:type="simple" xlink:href="../517/14144517.xml">
+NUP62</link> &amp;bull; <link xlink:type="simple" xlink:href="../935/15075935.xml">
+NUP85</link> &amp;bull; <link xlink:type="simple" xlink:href="../447/14795447.xml">
+NUP88</link> &amp;bull; <link xlink:type="simple" xlink:href="../878/15419878.xml">
+NUP93</link> &amp;bull; <link xlink:type="simple" xlink:href="../525/14130525.xml">
+NUP98</link> &amp;bull; <link xlink:type="simple" xlink:href="../770/14814770.xml">
+NUP107</link> &amp;bull; <link xlink:type="simple" xlink:href="../236/14878236.xml">
+NUP133</link> &amp;bull; <link xlink:type="simple" xlink:href="../184/14179184.xml">
+NUP153</link> &amp;bull; <link xlink:type="simple" xlink:href="../786/15181786.xml">
+NUP155</link> &amp;bull; <link xlink:type="simple" xlink:href="../094/14880094.xml">
+NUP160</link> &amp;bull; <link xlink:type="simple" xlink:href="../924/19496924.xml">
+NUP188</link> &amp;bull; <link xlink:type="simple" xlink:href="../763/12629763.xml">
+NUP210</link> &amp;bull; <link xlink:type="simple" xlink:href="../039/19497039.xml">
+NUP205</link> &amp;bull; <link xlink:type="simple" xlink:href="../208/14755208.xml">
 NUP214</link></col>
 </row>
 <row style="height:2px">
@@ -389,13 +389,13 @@ NUP214</link></col>
 Other</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../410/743410.xml">
-Acetylcholine receptor</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../944/438944.xml">
-Actin</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../493/9755493.xml">
-Apolipoprotein H</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../250/1799250.xml">
-Cardiolipin</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../284/7284.xml">
-Centromere</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../634/4455634.xml">
-Filaggrin(Citrullinate)</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../640/1254640.xml">
-Gangliosides</link>&nbsp;&amp;bull; <substance wordnetid="100019613" confidence="0.8">
+Acetylcholine receptor</link> &amp;bull; <link xlink:type="simple" xlink:href="../944/438944.xml">
+Actin</link> &amp;bull; <link xlink:type="simple" xlink:href="../493/9755493.xml">
+Apolipoprotein H</link> &amp;bull; <link xlink:type="simple" xlink:href="../250/1799250.xml">
+Cardiolipin</link> &amp;bull; <link xlink:type="simple" xlink:href="../284/7284.xml">
+Centromere</link> &amp;bull; <link xlink:type="simple" xlink:href="../634/4455634.xml">
+Filaggrin(Citrullinate)</link> &amp;bull; <link xlink:type="simple" xlink:href="../640/1254640.xml">
+Gangliosides</link> &amp;bull; <substance wordnetid="100019613" confidence="0.8">
 <compound wordnetid="114818238" confidence="0.8">
 <protein wordnetid="114728724" confidence="0.8">
 <macromolecule wordnetid="114944888" confidence="0.8">
@@ -414,8 +414,8 @@ Sp100 nuclear antigen</link></material>
 </protein>
 </compound>
 </substance>
-&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../864/238864.xml">
-Thrombin</link>&nbsp;&amp;bull; <link xlink:type="simple" xlink:href="../935/235935.xml">
+ &amp;bull; <link xlink:type="simple" xlink:href="../864/238864.xml">
+Thrombin</link> &amp;bull; <link xlink:type="simple" xlink:href="../935/235935.xml">
 Topoisomerase</link></col>
 </row>
 </table>

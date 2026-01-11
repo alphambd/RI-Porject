@@ -85,7 +85,7 @@ Properties of random graphs</st>
 <p>
 
 The theory of random graphs studies typical properties of random graphs, those that hold with high probability for graphs drawn from a particular distribution.  For example, we might ask for a given value of <it>n</it> and <it>p</it> what the probability is that <it>G(n,p)</it> is <link xlink:type="simple" xlink:href="../248/1878248.xml">
-connected</link>.  In studying such questions, researchers often concentrate on the limit behavior of random graphs&mdash;the values that various probabilities converge to as <it>n</it> grows very large. <physical_entity wordnetid="100001930" confidence="0.8">
+connected</link>.  In studying such questions, researchers often concentrate on the limit behavior of random graphs—the values that various probabilities converge to as <it>n</it> grows very large. <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <model wordnetid="110324560" confidence="0.8">
 <assistant wordnetid="109815790" confidence="0.8">
@@ -119,7 +119,7 @@ History</st>
 
 Random graphs were first defined by <link>
 Paul Erd&#337;s</link> and <link>
-Alfréd Rényi</link> in their 1959 paper "On Random Graphs" in Publ. Math. Debrecen 6, p. 290&ndash;297.</p>
+Alfréd Rényi</link> in their 1959 paper "On Random Graphs" in Publ. Math. Debrecen 6, p. 290–297.</p>
 
 </sec>
 <sec>

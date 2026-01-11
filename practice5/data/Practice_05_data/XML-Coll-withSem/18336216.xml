@@ -128,7 +128,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -169,7 +169,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -200,11 +200,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link>
+ &amp;laquo; <link>
 1959</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../216/18336216.xml">
-1961</link>&nbsp;&amp;raquo;</col>
+1961</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -273,7 +273,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;9-0&nbsp;</col>
+<b>W</b> 9-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -299,13 +299,13 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;48-7&nbsp;</col>
+<b>W</b> 48-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/1/60</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../140/9954140.xml">
+ at <link xlink:type="simple" xlink:href="../140/9954140.xml">
 TCU</link></col>
 <col align="center">
 &#35;14</col>
@@ -326,13 +326,13 @@ Amon G. Carter Stadium</link></venue>
 Ft. Worth, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;7-0&nbsp;</col>
+<b>W</b> 7-0 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 10/8/60</col>
 <col>
- &#35;20&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ &#35;20 <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/3694292.xml">
 Baylor</link></sport>
 </col>
@@ -341,13 +341,13 @@ Baylor</link></sport>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>L</b>&nbsp;14-28&nbsp;</col>
+<b>L</b> 14-28 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/15/60</col>
 <col>
- at&nbsp;&#35;11&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ at &#35;11 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center"></col>
 <col>
@@ -367,13 +367,13 @@ Texas Memorial Stadium</link></venue>
 Austin, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;24-23&nbsp;</col>
+<b>W</b> 24-23 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 10/22/60&#42;</col>
 <col>
- &#35;2&nbsp;<body wordnetid="107965085" confidence="0.8">
+ &#35;2 <body wordnetid="107965085" confidence="0.8">
 <university wordnetid="108286163" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
@@ -419,13 +419,13 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>L</b>&nbsp;7-10&nbsp;</col>
+<b>L</b> 7-10 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/29/60</col>
 <col>
- at&nbsp;<link>
+ at <link>
 Texas A&amp;M</link></col>
 <col align="center">
 &#35;12</col>
@@ -471,13 +471,13 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;7-3&nbsp;</col>
+<b>W</b> 7-3 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/5/60</col>
 <col>
- &#35;10&nbsp;<team wordnetid="108208560" confidence="0.8">
+ &#35;10 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../156/9954156.xml">
 Rice</link></team>
 </col>
@@ -486,7 +486,7 @@ Rice</link></team>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;3-0&nbsp;</col>
+<b>W</b> 3-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -499,7 +499,7 @@ SMU</link></col>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;26-3&nbsp;</col>
+<b>W</b> 26-3 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -530,13 +530,13 @@ Jones Stadium</link></venue>
 Lubbock, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;34-6&nbsp;</col>
+<b>W</b> 34-6 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 1/2/61&#42;</col>
 <col>
- &#35;10&nbsp;<link xlink:type="simple" xlink:href="../871/7008871.xml">
+ &#35;10 <link xlink:type="simple" xlink:href="../871/7008871.xml">
 Duke</link></col>
 <col align="center">
 &#35;7</col>
@@ -578,7 +578,7 @@ Cotton Bowl</link></activity>
 </bowl>
 )</col>
 <col>
-<b>L</b>&nbsp;6-7&nbsp;</col>
+<b>L</b> 6-7 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -862,7 +862,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -903,7 +903,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -934,11 +934,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../216/18336216.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../216/18336216.xml">
 1960</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../216/18336216.xml">
-1962</link>&nbsp;&amp;raquo;</col>
+1962</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -975,7 +975,7 @@ Result</header>
 <col>
 9/23/61&#42;</col>
 <col>
- at&nbsp;&#35;9&nbsp;<body wordnetid="107965085" confidence="0.8">
+ at &#35;9 <body wordnetid="107965085" confidence="0.8">
 <university wordnetid="108286163" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
@@ -1034,7 +1034,7 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>L</b>&nbsp;0-16&nbsp;</col>
+<b>L</b> 0-16 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1062,7 +1062,7 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;6-0&nbsp;</col>
+<b>W</b> 6-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1088,13 +1088,13 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;28-3&nbsp;</col>
+<b>W</b> 28-3 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/14/61</col>
 <col>
- at&nbsp;&#35;9&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at &#35;9 <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/3694292.xml">
 Baylor</link></sport>
 </col>
@@ -1116,20 +1116,20 @@ Floyd Casey Stadium</link></venue>
 Waco, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;23-13&nbsp;</col>
+<b>W</b> 23-13 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 10/21/61</col>
 <col>
- &#35;3&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ &#35;3 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center">
 &#35;10</col>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>L</b>&nbsp;7-33&nbsp;</col>
+<b>L</b> 7-33 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1143,7 +1143,7 @@ Northwestern St.</link></university>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;42-7&nbsp;</col>
+<b>W</b> 42-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1180,13 +1180,13 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;15-8&nbsp;</col>
+<b>W</b> 15-8 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/11/61</col>
 <col>
- at&nbsp;<team wordnetid="108208560" confidence="0.8">
+ at <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../156/9954156.xml">
 Rice</link></team>
 </col>
@@ -1208,13 +1208,13 @@ Rice Stadium</link></venue>
 Houston, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;10-0&nbsp;</col>
+<b>W</b> 10-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/18/61</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../366/10083366.xml">
+ at <link xlink:type="simple" xlink:href="../366/10083366.xml">
 SMU</link></col>
 <col align="center"></col>
 <col>
@@ -1232,7 +1232,7 @@ Ownby Stadium</link></venue>
  • <link xlink:type="simple" xlink:href="../838/53838.xml">
 Dallas, TX</link></col>
 <col>
-<b>W</b>&nbsp;21-7&nbsp;</col>
+<b>W</b> 21-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1249,13 +1249,13 @@ Texas Tech</link></plan>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;12-21&nbsp;</col>
+<b>W</b> 12-21 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 1/1/62&#42;</col>
 <col>
- &#35;1&nbsp;<link xlink:type="simple" xlink:href="../357/7751357.xml">
+ &#35;1 <link xlink:type="simple" xlink:href="../357/7751357.xml">
 Alabama</link></col>
 <col align="center">
 &#35;19</col>
@@ -1277,7 +1277,7 @@ New Orleans, LA</link></village>
  (<link xlink:type="simple" xlink:href="../282/335282.xml">
 Sugar Bowl</link>)</col>
 <col>
-<b>L</b>&nbsp;3-10&nbsp;</col>
+<b>L</b> 3-10 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -1599,7 +1599,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1640,7 +1640,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -1671,11 +1671,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../216/18336216.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../216/18336216.xml">
 1961</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../216/18336216.xml">
-1963</link>&nbsp;&amp;raquo;</col>
+1963</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -1818,7 +1818,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;34-7&nbsp;</col>
+<b>W</b> 34-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1846,13 +1846,13 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;42-14&nbsp;</col>
+<b>W</b> 42-14 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/6/62</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../140/9954140.xml">
+ at <link xlink:type="simple" xlink:href="../140/9954140.xml">
 TCU</link></col>
 <col align="center"></col>
 <col>
@@ -1872,7 +1872,7 @@ Amon G. Carter Stadium</link></venue>
 Ft. Worth, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;42-14&nbsp;</col>
+<b>W</b> 42-14 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1887,13 +1887,13 @@ Baylor</link></sport>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;28-21&nbsp;</col>
+<b>W</b> 28-21 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 10/20/62</col>
 <col>
- at&nbsp;&#35;1&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ at &#35;1 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center">
 &#35;7</col>
@@ -1914,7 +1914,7 @@ Texas Memorial Stadium</link></venue>
 Austin, TX</link></village>
 </col>
 <col>
-<b>L</b>&nbsp;3-7&nbsp;</col>
+<b>L</b> 3-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1929,13 +1929,13 @@ Hardin-Simmons</link></university>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;49-7&nbsp;</col>
+<b>W</b> 49-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/3/62</col>
 <col>
- at&nbsp;<link>
+ at <link>
 Texas A&amp;M</link></col>
 <col align="center">
 &#35;8</col>
@@ -1981,7 +1981,7 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;17-7&nbsp;</col>
+<b>W</b> 17-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -1996,7 +1996,7 @@ Rice</link></team>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;28-14&nbsp;</col>
+<b>W</b> 28-14 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -2009,13 +2009,13 @@ SMU</link></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;9-7&nbsp;</col>
+<b>W</b> 9-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/24/62&#42;</col>
 <col>
- at&nbsp;<idea wordnetid="105833840" confidence="0.8">
+ at <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../886/7008886.xml">
 Texas Tech</link></plan>
@@ -2040,13 +2040,13 @@ Jones Stadium</link></venue>
 Lubbock, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;34-0&nbsp;</col>
+<b>W</b> 34-0 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 1/1/63&#42;</col>
 <col>
- &#35;3&nbsp;<body wordnetid="107965085" confidence="0.8">
+ &#35;3 <body wordnetid="107965085" confidence="0.8">
 <university wordnetid="108286163" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
@@ -2107,7 +2107,7 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>L</b>&nbsp;7-34&nbsp;</col>
+<b>L</b> 7-34 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -2472,7 +2472,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -2513,7 +2513,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -2544,11 +2544,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../216/18336216.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../216/18336216.xml">
 1962</link></col>
 <col align="center">
  <link>
-1964</link>&nbsp;&amp;raquo;</col>
+1964</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -2627,7 +2627,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;21-0&nbsp;</col>
+<b>W</b> 21-0 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -2640,7 +2640,7 @@ Mizzou</link></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>L</b>&nbsp;6-7&nbsp;</col>
+<b>L</b> 6-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -2666,13 +2666,13 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;18-3&nbsp;</col>
+<b>W</b> 18-3 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 10/12/63</col>
 <col>
- at&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/3694292.xml">
 Baylor</link></sport>
 </col>
@@ -2694,19 +2694,19 @@ Floyd Casey Stadium</link></venue>
 Waco, TX</link></village>
 </col>
 <col>
-<b>L</b>&nbsp;10-14&nbsp;</col>
+<b>L</b> 10-14 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 10/19/63</col>
 <col>
- &#35;1&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ &#35;1 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center"></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>L</b>&nbsp;13-17&nbsp;</col>
+<b>L</b> 13-17 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -2720,7 +2720,7 @@ Tulsa</link></sport>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;56-7&nbsp;</col>
+<b>W</b> 56-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -2757,13 +2757,13 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;21-7&nbsp;</col>
+<b>W</b> 21-7 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 11/9/63</col>
 <col>
- at&nbsp;<team wordnetid="108208560" confidence="0.8">
+ at <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../156/9954156.xml">
 Rice</link></team>
 </col>
@@ -2785,13 +2785,13 @@ Rice Stadium</link></venue>
 Houston, TX</link></village>
 </col>
 <col>
-<b>L</b>&nbsp;0-7&nbsp;</col>
+<b>L</b> 0-7 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 11/16/63</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../366/10083366.xml">
+ at <link xlink:type="simple" xlink:href="../366/10083366.xml">
 SMU</link></col>
 <col align="center"></col>
 <col>
@@ -2809,7 +2809,7 @@ Ownby Stadium</link></venue>
  • <link xlink:type="simple" xlink:href="../838/53838.xml">
 Dallas, TX</link></col>
 <col>
-<b>L</b>&nbsp;7-14&nbsp;</col>
+<b>L</b> 7-14 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -2825,7 +2825,7 @@ Texas Tech</link></plan>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;27-20&nbsp;</col>
+<b>W</b> 27-20 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -2962,7 +2962,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -3003,7 +3003,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -3034,11 +3034,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../216/18336216.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../216/18336216.xml">
 1963</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../216/18336216.xml">
-1965</link>&nbsp;&amp;raquo;</col>
+1965</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -3119,7 +3119,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;14-10&nbsp;</col>
+<b>W</b> 14-10 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -3145,13 +3145,13 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;31-22&nbsp;</col>
+<b>W</b> 31-22 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/3/64</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../140/9954140.xml">
+ at <link xlink:type="simple" xlink:href="../140/9954140.xml">
 TCU</link></col>
 <col align="center"></col>
 <col>
@@ -3171,7 +3171,7 @@ Amon G. Carter Stadium</link></venue>
 Fort Worth, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;29-6&nbsp;</col>
+<b>W</b> 29-6 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -3184,13 +3184,13 @@ Baylor</link></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;17-6&nbsp;</col>
+<b>W</b> 17-6 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/17/64</col>
 <col>
- at&nbsp;&#35;1&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ at &#35;1 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center">
 &#35;9</col>
@@ -3211,7 +3211,7 @@ Memorial Stadium</link></venue>
 Austin, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;14-13&nbsp;</col>
+<b>W</b> 14-13 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -3226,13 +3226,13 @@ Wichita State</link></university>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;17-0&nbsp;</col>
+<b>W</b> 17-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/31/64</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../128/7958128.xml">
+ at <link xlink:type="simple" xlink:href="../128/7958128.xml">
 Texas A&amp;M</link></col>
 <col align="center">
 &#35;4</col>
@@ -3278,7 +3278,7 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;17-0&nbsp;</col>
+<b>W</b> 17-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -3293,7 +3293,7 @@ Rice</link></sport>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;21-0&nbsp;</col>
+<b>W</b> 21-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -3308,13 +3308,13 @@ SMU</link></sport>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;44-0&nbsp;</col>
+<b>W</b> 44-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/21/64</col>
 <col>
- at&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../376/3694376.xml">
 Texas Tech</link></sport>
 </col>
@@ -3337,13 +3337,13 @@ Jones Stadium</link></venue>
 Lubbock, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;17-0&nbsp;</col>
+<b>W</b> 17-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 1/1/65&#42;</col>
 <col>
- vs.&nbsp;&#35;6&nbsp;<link xlink:type="simple" xlink:href="../481/4108481.xml">
+ vs. &#35;6 <link xlink:type="simple" xlink:href="../481/4108481.xml">
 Nebraska</link></col>
 <col align="center">
 &#35;2</col>
@@ -3385,7 +3385,7 @@ Cotton Bowl</link></activity>
 </bowl>
 )</col>
 <col>
-<b>W</b>&nbsp;10-7&nbsp;</col>
+<b>W</b> 10-7 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -3777,7 +3777,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -3818,7 +3818,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -3849,11 +3849,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link>
+ &amp;laquo; <link>
 1964</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../216/18336216.xml">
-1966</link>&nbsp;&amp;raquo;</col>
+1966</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -3916,7 +3916,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;28-14&nbsp;</col>
+<b>W</b> 28-14 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -3945,7 +3945,7 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;20-12&nbsp;</col>
+<b>W</b> 20-12 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -3958,13 +3958,13 @@ TCU</link></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;28-0&nbsp;</col>
+<b>W</b> 28-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/9/65</col>
 <col>
- at&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/3694292.xml">
 Baylor</link></sport>
 </col>
@@ -3987,20 +3987,20 @@ Floyd Casey Stadium</link></venue>
 Waco, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;38-7&nbsp;</col>
+<b>W</b> 38-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/16/65</col>
 <col>
- &#35;1&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ &#35;1 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center">
 &#35;3</col>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;27-24&nbsp;</col>
+<b>W</b> 27-24 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -4013,7 +4013,7 @@ North Texas</link></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;55-20&nbsp;</col>
+<b>W</b> 55-20 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -4051,13 +4051,13 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;31-0&nbsp;</col>
+<b>W</b> 31-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/6/65</col>
 <col>
- at&nbsp;<team wordnetid="108208560" confidence="0.8">
+ at <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../156/9954156.xml">
 Rice</link></team>
 </col>
@@ -4080,13 +4080,13 @@ Rice Stadium</link></venue>
 Houston, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;31-0&nbsp;</col>
+<b>W</b> 31-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/13/65</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../366/10083366.xml">
+ at <link xlink:type="simple" xlink:href="../366/10083366.xml">
 SMU</link></col>
 <col align="center">
 &#35;2</col>
@@ -4105,13 +4105,13 @@ Ownby Stadium</link></venue>
  • <link xlink:type="simple" xlink:href="../838/53838.xml">
 Dallas, TX</link></col>
 <col>
-<b>W</b>&nbsp;24-3&nbsp;</col>
+<b>W</b> 24-3 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/20/65&#42;</col>
 <col>
- &#35;9&nbsp;<idea wordnetid="105833840" confidence="0.8">
+ &#35;9 <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <link xlink:type="simple" xlink:href="../886/7008886.xml">
 Texas Tech</link></plan>
@@ -4122,7 +4122,7 @@ Texas Tech</link></plan>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;42-24&nbsp;</col>
+<b>W</b> 42-24 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -4189,7 +4189,7 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>L</b>&nbsp;7-14&nbsp;</col>
+<b>L</b> 7-14 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -4468,7 +4468,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -4509,7 +4509,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -4540,11 +4540,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../216/18336216.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../216/18336216.xml">
 1965</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../216/18336216.xml">
-1967</link>&nbsp;&amp;raquo;</col>
+1967</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -4718,7 +4718,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;14-10&nbsp;</col>
+<b>W</b> 14-10 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -4745,13 +4745,13 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;27-8&nbsp;</col>
+<b>W</b> 27-8 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/1/66</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../140/9954140.xml">
+ at <link xlink:type="simple" xlink:href="../140/9954140.xml">
 TCU</link></col>
 <col align="center">
 &#35;7</col>
@@ -4772,7 +4772,7 @@ Amon G. Carter Stadium</link></venue>
 Fort Worth, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;21-0&nbsp;</col>
+<b>W</b> 21-0 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -4785,13 +4785,13 @@ Baylor</link></col>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>L</b>&nbsp;0-7&nbsp;</col>
+<b>L</b> 0-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/15/66</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ at <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center"></col>
 <col>
@@ -4811,7 +4811,7 @@ Memorial Stadium</link></venue>
 Austin, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;12-7&nbsp;</col>
+<b>W</b> 12-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -4825,13 +4825,13 @@ Wichita State</link></university>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;40-0&nbsp;</col>
+<b>W</b> 40-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/29/66</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../128/7958128.xml">
+ at <link xlink:type="simple" xlink:href="../128/7958128.xml">
 Texas A&amp;M</link></col>
 <col align="center">
 &#35;9</col>
@@ -4877,7 +4877,7 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;34-0&nbsp;</col>
+<b>W</b> 34-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -4892,7 +4892,7 @@ Rice</link></sport>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;31-20&nbsp;</col>
+<b>W</b> 31-20 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -4907,13 +4907,13 @@ SMU</link></sport>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;22-0&nbsp;</col>
+<b>W</b> 22-0 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 11/19/66</col>
 <col>
- at&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../376/3694376.xml">
 Texas Tech</link></sport>
 </col>
@@ -4936,7 +4936,7 @@ Jones Stadium</link></venue>
 Lubbock, TX</link></village>
 </col>
 <col>
-<b>L</b>&nbsp;16-21&nbsp;</col>
+<b>L</b> 16-21 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -5008,7 +5008,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -5049,7 +5049,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -5080,11 +5080,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../216/18336216.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../216/18336216.xml">
 1966</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../216/18336216.xml">
-1968</link>&nbsp;&amp;raquo;</col>
+1968</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -5140,7 +5140,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>L</b>&nbsp;6-7&nbsp;</col>
+<b>L</b> 6-7 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -5167,7 +5167,7 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>L</b>&nbsp;12-14&nbsp;</col>
+<b>L</b> 12-14 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -5178,13 +5178,13 @@ TCU</link></col>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;26-0&nbsp;</col>
+<b>W</b> 26-0 </col>
 </row>
 <row style="background:#FFFFE6;">
 <col>
 10/14/67</col>
 <col>
- at&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/3694292.xml">
 Baylor</link></sport>
 </col>
@@ -5205,7 +5205,7 @@ Floyd Casey Stadium</link></venue>
 Waco, TX</link></village>
 </col>
 <col>
-<b>T</b>&nbsp;10-10&nbsp;</col>
+<b>T</b> 10-10 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -5216,7 +5216,7 @@ Texas</link></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>L</b>&nbsp;12-21&nbsp;</col>
+<b>L</b> 12-21 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -5231,7 +5231,7 @@ Kansas St.</link></plan>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;28-7&nbsp;</col>
+<b>W</b> 28-7 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -5267,13 +5267,13 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>L</b>&nbsp;21-33&nbsp;</col>
+<b>L</b> 21-33 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/11/67</col>
 <col>
- at&nbsp;<team wordnetid="108208560" confidence="0.8">
+ at <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../156/9954156.xml">
 Rice</link></team>
 </col>
@@ -5294,13 +5294,13 @@ Rice Stadium</link></venue>
 Houston, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;23-9&nbsp;</col>
+<b>W</b> 23-9 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/18/67</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../366/10083366.xml">
+ at <link xlink:type="simple" xlink:href="../366/10083366.xml">
 SMU</link></col>
 <col>
  <region wordnetid="108630985" confidence="0.8">
@@ -5317,7 +5317,7 @@ Ownby Stadium</link></venue>
  • <link xlink:type="simple" xlink:href="../838/53838.xml">
 Dallas, TX</link></col>
 <col>
-<b>W</b>&nbsp;35-17&nbsp;</col>
+<b>W</b> 35-17 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
@@ -5332,7 +5332,7 @@ Texas Tech</link></plan>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>L</b>&nbsp;27-31&nbsp;</col>
+<b>L</b> 27-31 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -5426,7 +5426,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -5467,7 +5467,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -5498,11 +5498,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../216/18336216.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../216/18336216.xml">
 1967</link></col>
 <col align="center">
  <link xlink:type="simple" xlink:href="../216/18336216.xml">
-1969</link>&nbsp;&amp;raquo;</col>
+1969</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -5559,7 +5559,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;32-15&nbsp;</col>
+<b>W</b> 32-15 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -5585,13 +5585,13 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;56-13&nbsp;</col>
+<b>W</b> 56-13 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/5/68</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../140/9954140.xml">
+ at <link xlink:type="simple" xlink:href="../140/9954140.xml">
 TCU</link></col>
 <col align="center">
 &#35;20</col>
@@ -5612,7 +5612,7 @@ Amon G. Carter Stadium</link></venue>
 Fort Worth, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;17-7&nbsp;</col>
+<b>W</b> 17-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -5625,13 +5625,13 @@ Baylor</link></col>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;35-19&nbsp;</col>
+<b>W</b> 35-19 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 10/19/68</col>
 <col>
- at&nbsp;&#35;17&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ at &#35;17 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center">
 &#35;9</col>
@@ -5652,7 +5652,7 @@ Memorial Stadium</link></venue>
 Austin, TX</link></village>
 </col>
 <col>
-<b>L</b>&nbsp;29-39&nbsp;</col>
+<b>L</b> 29-39 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -5665,13 +5665,13 @@ North Texas</link></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;17-15&nbsp;</col>
+<b>W</b> 17-15 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/2/68</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../128/7958128.xml">
+ at <link xlink:type="simple" xlink:href="../128/7958128.xml">
 Texas A&amp;M</link></col>
 <col align="center">
 &#35;17</col>
@@ -5717,7 +5717,7 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;25-22&nbsp;</col>
+<b>W</b> 25-22 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -5732,7 +5732,7 @@ Rice</link></sport>
 <col>
 Razorback Stadium • Fayetteville, AR</col>
 <col>
-<b>W</b>&nbsp;46-21&nbsp;</col>
+<b>W</b> 46-21 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -5747,13 +5747,13 @@ SMU</link></sport>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;35-29&nbsp;</col>
+<b>W</b> 35-29 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/23/68</col>
 <col>
- at&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../376/3694376.xml">
 Texas Tech</link></sport>
 </col>
@@ -5776,13 +5776,13 @@ Jones Stadium</link></venue>
 Lubbock, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;42-7&nbsp;</col>
+<b>W</b> 42-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 1/1/69</col>
 <col>
- vs.&nbsp;&#35;4&nbsp;<link xlink:type="simple" xlink:href="../812/14272812.xml">
+ vs. &#35;4 <link xlink:type="simple" xlink:href="../812/14272812.xml">
 Georgia</link></col>
 <col align="center">
 &#35;9</col>
@@ -5804,7 +5804,7 @@ New Orleans, LA</link></village>
  (<link xlink:type="simple" xlink:href="../282/335282.xml">
 Sugar Bowl</link>)</col>
 <col>
-<b>W</b>&nbsp;16-2&nbsp;</col>
+<b>W</b> 16-2 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -6118,7 +6118,7 @@ SWC</link></conference>
 </row>
 <row>
 <header>
-Head&nbsp;coach</header>
+Head coach</header>
 <col>
  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -6159,7 +6159,7 @@ Frank Broyles</link></athlete>
 
 <row>
 <header style="vertical-align:middle;">
-Home&nbsp;stadium</header>
+Home stadium</header>
 <col>
  <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -6190,11 +6190,11 @@ War Memorial Stadium</link></venue>
 <table style="font-size:90%; width:80%; border:1px; border-collapse:collapse; background:#eee; line-height:90%;">
 <row>
 <col align="center">
- &amp;laquo;&nbsp;<link xlink:type="simple" xlink:href="../216/18336216.xml">
+ &amp;laquo; <link xlink:type="simple" xlink:href="../216/18336216.xml">
 1968</link></col>
 <col align="center">
  <link>
-1970</link>&nbsp;&amp;raquo;</col>
+1970</link> &amp;raquo;</col>
 </row>
 </table>
 </col>
@@ -6254,7 +6254,7 @@ War Memorial Stadium</link></venue>
 Little Rock, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;39-0&nbsp;</col>
+<b>W</b> 39-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -6283,7 +6283,7 @@ Razorback Stadium</link></venue>
 Fayetteville, AR</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;55-0&nbsp;</col>
+<b>W</b> 55-0 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -6296,13 +6296,13 @@ TCU</link></col>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;24-6&nbsp;</col>
+<b>W</b> 24-6 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 10/18/69</col>
 <col>
- at&nbsp;<sport wordnetid="100523513" confidence="0.9508927676800064">
+ at <sport wordnetid="100523513" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../292/3694292.xml">
 Baylor</link></sport>
 </col>
@@ -6325,7 +6325,7 @@ Floyd Casey Stadium</link></venue>
 Waco, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;21-7&nbsp;</col>
+<b>W</b> 21-7 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -6340,7 +6340,7 @@ Wichita St.</link></university>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;52-14&nbsp;</col>
+<b>W</b> 52-14 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -6378,13 +6378,13 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>W</b>&nbsp;35-13&nbsp;</col>
+<b>W</b> 35-13 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/8/69</col>
 <col>
- at&nbsp;<team wordnetid="108208560" confidence="0.8">
+ at <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../156/9954156.xml">
 Rice</link></team>
 </col>
@@ -6407,13 +6407,13 @@ Rice Stadium</link></venue>
 Houston, TX</link></village>
 </col>
 <col>
-<b>W</b>&nbsp;30-6&nbsp;</col>
+<b>W</b> 30-6 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
 11/15/69</col>
 <col>
- at&nbsp;<link xlink:type="simple" xlink:href="../366/10083366.xml">
+ at <link xlink:type="simple" xlink:href="../366/10083366.xml">
 SMU</link></col>
 <col align="center">
 &#35;4</col>
@@ -6432,7 +6432,7 @@ Ownby Stadium</link></venue>
  • <link xlink:type="simple" xlink:href="../838/53838.xml">
 Dallas, TX</link></col>
 <col>
-<b>W</b>&nbsp;28-15&nbsp;</col>
+<b>W</b> 28-15 </col>
 </row>
 <row style="background:#DDFFDD;">
 <col>
@@ -6449,13 +6449,13 @@ Texas Tech</link></plan>
 <col>
 War Memorial Stadium • Little Rock, AR</col>
 <col>
-<b>W</b>&nbsp;33-0&nbsp;</col>
+<b>W</b> 33-0 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 12/6/69</col>
 <col>
- &#35;1&nbsp;<link xlink:type="simple" xlink:href="../029/6903029.xml">
+ &#35;1 <link xlink:type="simple" xlink:href="../029/6903029.xml">
 Texas</link></col>
 <col align="center">
 &#35;2</col>
@@ -6479,13 +6479,13 @@ Game of the Century</link></competition>
 </group_action>
 )</col>
 <col>
-<b>L</b>&nbsp;14-15&nbsp;</col>
+<b>L</b> 14-15 </col>
 </row>
 <row style="background:#FFDDDD;">
 <col>
 1/1/70</col>
 <col>
- &#35;13&nbsp;<body wordnetid="107965085" confidence="0.8">
+ &#35;13 <body wordnetid="107965085" confidence="0.8">
 <university wordnetid="108286163" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <association wordnetid="108049401" confidence="0.8">
@@ -6546,7 +6546,7 @@ Rivalry</link></competition>
 </group_action>
 )</col>
 <col>
-<b>L</b>&nbsp;22-27&nbsp;</col>
+<b>L</b> 22-27 </col>
 </row>
 <row style="background:#f9f9f9;">
 <col colspan="8">
@@ -7819,7 +7819,7 @@ Arkansas</link></symbol>
 </p>
 <p>
 
-<b>Stadiums</b> &ndash; <b><region wordnetid="108630985" confidence="0.8">
+<b>Stadiums</b> – <b><region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -7830,7 +7830,7 @@ Donald W. Reynolds Razorback Stadium</link></venue>
 </location>
 </area>
 </region>
-</b> &nbsp;•  <b><region wordnetid="108630985" confidence="0.8">
+</b>  •  <b><region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -7844,8 +7844,8 @@ War Memorial Stadium</link></venue>
 </b></p>
 <p>
 
-<b>Culture</b> &ndash; <link xlink:type="simple" xlink:href="../059/7957059.xml#xpointer(//*[./st=%22Texas+Longhorns%22])">
-Rivalry with Texas</link> &nbsp;•  <group_action wordnetid="101080366" confidence="0.8">
+<b>Culture</b> – <link xlink:type="simple" xlink:href="../059/7957059.xml#xpointer(//*[./st=%22Texas+Longhorns%22])">
+Rivalry with Texas</link>  •  <group_action wordnetid="101080366" confidence="0.8">
 <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
@@ -7870,7 +7870,7 @@ Rivalry with Texas A&amp;M</link></competition>
 </symbol>
 </trophy>
 </group_action>
- &nbsp;•  <group_action wordnetid="101080366" confidence="0.8">
+  •  <group_action wordnetid="101080366" confidence="0.8">
 <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -7889,7 +7889,7 @@ Rivalry with LSU</link></competition>
 </symbol>
 </trophy>
 </group_action>
- &nbsp;•  <group_action wordnetid="101080366" confidence="0.8">
+  •  <group_action wordnetid="101080366" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -7900,7 +7900,7 @@ Rivalry with Ole Miss</link></competition>
 </act>
 </event>
 </group_action>
- &nbsp;•  <group_action wordnetid="101080366" confidence="0.8">
+  •  <group_action wordnetid="101080366" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -7917,14 +7917,14 @@ Game of the Century</link></competition>
 </social_event>
 </event>
 </group_action>
- &nbsp;•  <mascot wordnetid="110297234" confidence="0.8">
+  •  <mascot wordnetid="110297234" confidence="0.8">
 <link xlink:type="simple" xlink:href="../860/8252860.xml">
 Tusk</link></mascot>
- &nbsp;•  <link xlink:type="simple" xlink:href="../243/6816243.xml">
+  •  <link xlink:type="simple" xlink:href="../243/6816243.xml">
 Big Red</link></p>
 <p>
 
-<b>Important People</b> &ndash; <physical_entity wordnetid="100001930" confidence="0.8">
+<b>Important People</b> – <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -7939,7 +7939,7 @@ Jeff Long</link></director>
 </leader>
 </person>
 </physical_entity>
- &nbsp;•  <physical_entity wordnetid="100001930" confidence="0.8">
+  •  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -7970,7 +7970,7 @@ Frank Broyles</link></athlete>
 </player>
 </person>
 </physical_entity>
- &nbsp;•  <physical_entity wordnetid="100001930" confidence="0.8">
+  •  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -7999,7 +7999,7 @@ Hugo Bezdek</link></head>
 </player>
 </person>
 </physical_entity>
- &nbsp;•  <physical_entity wordnetid="100001930" confidence="0.8">
+  •  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <announcer wordnetid="109795334" confidence="0.8">
@@ -8032,7 +8032,7 @@ Lou Holtz</link></athlete>
 </player>
 </person>
 </physical_entity>
- &nbsp;•  <physical_entity wordnetid="100001930" confidence="0.8">
+  •  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <football_player wordnetid="110101634" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
@@ -8057,9 +8057,9 @@ Bobby Petrino</link></trainer>
 </football_player>
 </person>
 </physical_entity>
- &nbsp;•  <link xlink:type="simple" xlink:href="../059/7957059.xml#xpointer(//*[./st=%22All-Americans%22])">
-45 All-Americans</link> &nbsp;•  <link xlink:type="simple" xlink:href="../059/7957059.xml#xpointer(//*[./st=%22College+Football+Hall+of+Fame%22])">
-12 College Football HOF inductees</link>&nbsp;•  <link xlink:type="simple" xlink:href="../034/18371034.xml">
+  •  <link xlink:type="simple" xlink:href="../059/7957059.xml#xpointer(//*[./st=%22All-Americans%22])">
+45 All-Americans</link>  •  <link xlink:type="simple" xlink:href="../059/7957059.xml#xpointer(//*[./st=%22College+Football+Hall+of+Fame%22])">
+12 College Football HOF inductees</link> •  <link xlink:type="simple" xlink:href="../034/18371034.xml">
 NFL draftees</link>
 <b>National Championships</b>
 <b><link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221964%22])">
@@ -8068,137 +8068,137 @@ NFL draftees</link>
 
 <b>Conference Championships</b>
 <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221936%22])">
-1936</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221946%22])">
-1946</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221954%22])">
-1954</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221959%22])">
-1959</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221960%22])">
-1960</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221961%22])">
-1961</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221964%22])">
-1964</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221965%22])">
-1965</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221968%22])">
-1968</link> &nbsp;•  <link>
-1975</link> &nbsp;•  <link xlink:type="simple" xlink:href="../576/12553576.xml">
-1979</link> &nbsp;•  <link xlink:type="simple" xlink:href="../034/14717034.xml">
-1988</link> &nbsp;•  <link xlink:type="simple" xlink:href="../219/14717219.xml">
+1936</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221946%22])">
+1946</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221954%22])">
+1954</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221959%22])">
+1959</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221960%22])">
+1960</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221961%22])">
+1961</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221964%22])">
+1964</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221965%22])">
+1965</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221968%22])">
+1968</link>  •  <link>
+1975</link>  •  <link xlink:type="simple" xlink:href="../576/12553576.xml">
+1979</link>  •  <link xlink:type="simple" xlink:href="../034/14717034.xml">
+1988</link>  •  <link xlink:type="simple" xlink:href="../219/14717219.xml">
 1989</link></p>
 <p>
 
 <b>Seasons</b>
 <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221894%22])">
-1894</link> &nbsp;•  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221895%22])">
-1895</link> &nbsp;•  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221896%22])">
-1896</link> &nbsp;•  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221897%22])">
-1897</link> &nbsp;•  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221898%22])">
-1898</link> &nbsp;•  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221899%22])">
-1899</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221900%22])">
-1900</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221901%22])">
-1901</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221902%22])">
-1902</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221903%22])">
-1903</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221904%22])">
-1904</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221905%22])">
-1905</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221906%22])">
-1906</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221907%22])">
-1907</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221908%22])">
-1908</link> &nbsp;•  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221909%22])">
-1909</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221910%22])">
-1910</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221911%22])">
-1911</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221912%22])">
-1912</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221913%22])">
-1913</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221914%22])">
-1914</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221915%22])">
-1915</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221916%22])">
-1916</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221917%22])">
-1917</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221918%22])">
-1918</link> &nbsp;•  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221919%22])">
-1919</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221920%22])">
-1920</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221921%22])">
-1921</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221922%22])">
-1922</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221923%22])">
-1923</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221924%22])">
-1924</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221925%22])">
-1925</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221926%22])">
-1926</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221927%22])">
-1927</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221928%22])">
-1928</link> &nbsp;•  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221929%22])">
-1929</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221930%22])">
-1930</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221931%22])">
-1931</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221932%22])">
-1932</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221933%22])">
-1933</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221934%22])">
-1934</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221935%22])">
-1935</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221936%22])">
-1936</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221937%22])">
-1937</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221938%22])">
-1938</link> &nbsp;•  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221939%22])">
-1939</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221940%22])">
-1940</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221941%22])">
-1941</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221942%22])">
-1942</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221943%22])">
-1943</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221944%22])">
-1944</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221945%22])">
-1945</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221946%22])">
-1946</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221947%22])">
-1947</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221948%22])">
-1948</link> &nbsp;•  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221949%22])">
-1949</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221950%22])">
-1950</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221951%22])">
-1951</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221952%22])">
-1952</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221953%22])">
-1953</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221954%22])">
-1954</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221955%22])">
-1955</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221956%22])">
-1956</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221957%22])">
-1957</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221958%22])">
-1958</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221959%22])">
-1959</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221960%22])">
-1960</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221961%22])">
-1961</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221962%22])">
-1962</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221963%22])">
-1963</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221964%22])">
-1964</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221965%22])">
-1965</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221966%22])">
-1966</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221967%22])">
-1967</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221968%22])">
-1968</link> &nbsp;•  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221969%22])">
-1969</link> &nbsp;•  <link>
-1970</link> &nbsp;•  <link>
-1971</link> &nbsp;•  <link>
-1972</link> &nbsp;•  <link>
-1973</link> &nbsp;•  <link>
-1974</link> &nbsp;•  <link>
-1975</link> &nbsp;•  <link>
-1976</link> &nbsp;•  <link xlink:type="simple" xlink:href="../627/12100627.xml">
-1977</link> &nbsp;•  <link xlink:type="simple" xlink:href="../839/12101839.xml">
-1978</link> &nbsp;•  <link xlink:type="simple" xlink:href="../576/12553576.xml">
-1979</link> &nbsp;•  <link xlink:type="simple" xlink:href="../329/12632329.xml">
-1980</link> &nbsp;•  <link xlink:type="simple" xlink:href="../850/12767850.xml">
-1981</link> &nbsp;•  <link xlink:type="simple" xlink:href="../114/13940114.xml">
-1982</link> &nbsp;•  <link xlink:type="simple" xlink:href="../392/14025392.xml">
-1983</link> &nbsp;•  <link xlink:type="simple" xlink:href="../814/14418814.xml">
-1984</link> &nbsp;•  <link xlink:type="simple" xlink:href="../114/14512114.xml">
-1985</link> &nbsp;•  <link xlink:type="simple" xlink:href="../188/14713188.xml">
-1986</link> &nbsp;•  <link xlink:type="simple" xlink:href="../363/14713363.xml">
-1987</link> &nbsp;•  <link xlink:type="simple" xlink:href="../034/14717034.xml">
-1988</link> &nbsp;•  <link xlink:type="simple" xlink:href="../219/14717219.xml">
-1989</link> &nbsp;•  <link xlink:type="simple" xlink:href="../422/14717422.xml">
-1990</link> &nbsp;•  <link xlink:type="simple" xlink:href="../715/14717715.xml">
-1991</link> &nbsp;•  <link xlink:type="simple" xlink:href="../374/15181374.xml">
-1992</link> &nbsp;•  <link>
-1993</link> &nbsp;•  <link>
-1994</link> &nbsp;•  <link>
-1995</link> &nbsp;•  <link>
-1996</link> &nbsp;•  <link>
-1997</link> &nbsp;•  <link>
-1998</link> &nbsp;•  <link>
-1999</link> &nbsp;•  <link>
-2000</link> &nbsp;•  <link>
-2001</link> &nbsp;•  <link xlink:type="simple" xlink:href="../653/16009653.xml">
-2002</link> &nbsp;•  <link>
-2003</link> &nbsp;•  <link>
-2004</link> &nbsp;•  <link>
-2005</link> &nbsp;•  <link xlink:type="simple" xlink:href="../269/9015269.xml">
-2006</link> &nbsp;•  <link xlink:type="simple" xlink:href="../871/9567871.xml">
-2007</link> &nbsp;•  <b><it><link xlink:type="simple" xlink:href="../360/14515360.xml">
+1894</link>  •  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221895%22])">
+1895</link>  •  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221896%22])">
+1896</link>  •  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221897%22])">
+1897</link>  •  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221898%22])">
+1898</link>  •  <link xlink:type="simple" xlink:href="../172/16779172.xml#xpointer(//*[./st=%221899%22])">
+1899</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221900%22])">
+1900</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221901%22])">
+1901</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221902%22])">
+1902</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221903%22])">
+1903</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221904%22])">
+1904</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221905%22])">
+1905</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221906%22])">
+1906</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221907%22])">
+1907</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221908%22])">
+1908</link>  •  <link xlink:type="simple" xlink:href="../621/16795621.xml#xpointer(//*[./st=%221909%22])">
+1909</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221910%22])">
+1910</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221911%22])">
+1911</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221912%22])">
+1912</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221913%22])">
+1913</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221914%22])">
+1914</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221915%22])">
+1915</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221916%22])">
+1916</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221917%22])">
+1917</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221918%22])">
+1918</link>  •  <link xlink:type="simple" xlink:href="../754/16964754.xml#xpointer(//*[./st=%221919%22])">
+1919</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221920%22])">
+1920</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221921%22])">
+1921</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221922%22])">
+1922</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221923%22])">
+1923</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221924%22])">
+1924</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221925%22])">
+1925</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221926%22])">
+1926</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221927%22])">
+1927</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221928%22])">
+1928</link>  •  <link xlink:type="simple" xlink:href="../147/17012147.xml#xpointer(//*[./st=%221929%22])">
+1929</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221930%22])">
+1930</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221931%22])">
+1931</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221932%22])">
+1932</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221933%22])">
+1933</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221934%22])">
+1934</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221935%22])">
+1935</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221936%22])">
+1936</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221937%22])">
+1937</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221938%22])">
+1938</link>  •  <link xlink:type="simple" xlink:href="../808/17119808.xml#xpointer(//*[./st=%221939%22])">
+1939</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221940%22])">
+1940</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221941%22])">
+1941</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221942%22])">
+1942</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221943%22])">
+1943</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221944%22])">
+1944</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221945%22])">
+1945</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221946%22])">
+1946</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221947%22])">
+1947</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221948%22])">
+1948</link>  •  <link xlink:type="simple" xlink:href="../574/17770574.xml#xpointer(//*[./st=%221949%22])">
+1949</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221950%22])">
+1950</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221951%22])">
+1951</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221952%22])">
+1952</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221953%22])">
+1953</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221954%22])">
+1954</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221955%22])">
+1955</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221956%22])">
+1956</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221957%22])">
+1957</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221958%22])">
+1958</link>  •  <link xlink:type="simple" xlink:href="../715/18027715.xml#xpointer(//*[./st=%221959%22])">
+1959</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221960%22])">
+1960</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221961%22])">
+1961</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221962%22])">
+1962</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221963%22])">
+1963</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221964%22])">
+1964</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221965%22])">
+1965</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221966%22])">
+1966</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221967%22])">
+1967</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221968%22])">
+1968</link>  •  <link xlink:type="simple" xlink:href="../216/18336216.xml#xpointer(//*[./st=%221969%22])">
+1969</link>  •  <link>
+1970</link>  •  <link>
+1971</link>  •  <link>
+1972</link>  •  <link>
+1973</link>  •  <link>
+1974</link>  •  <link>
+1975</link>  •  <link>
+1976</link>  •  <link xlink:type="simple" xlink:href="../627/12100627.xml">
+1977</link>  •  <link xlink:type="simple" xlink:href="../839/12101839.xml">
+1978</link>  •  <link xlink:type="simple" xlink:href="../576/12553576.xml">
+1979</link>  •  <link xlink:type="simple" xlink:href="../329/12632329.xml">
+1980</link>  •  <link xlink:type="simple" xlink:href="../850/12767850.xml">
+1981</link>  •  <link xlink:type="simple" xlink:href="../114/13940114.xml">
+1982</link>  •  <link xlink:type="simple" xlink:href="../392/14025392.xml">
+1983</link>  •  <link xlink:type="simple" xlink:href="../814/14418814.xml">
+1984</link>  •  <link xlink:type="simple" xlink:href="../114/14512114.xml">
+1985</link>  •  <link xlink:type="simple" xlink:href="../188/14713188.xml">
+1986</link>  •  <link xlink:type="simple" xlink:href="../363/14713363.xml">
+1987</link>  •  <link xlink:type="simple" xlink:href="../034/14717034.xml">
+1988</link>  •  <link xlink:type="simple" xlink:href="../219/14717219.xml">
+1989</link>  •  <link xlink:type="simple" xlink:href="../422/14717422.xml">
+1990</link>  •  <link xlink:type="simple" xlink:href="../715/14717715.xml">
+1991</link>  •  <link xlink:type="simple" xlink:href="../374/15181374.xml">
+1992</link>  •  <link>
+1993</link>  •  <link>
+1994</link>  •  <link>
+1995</link>  •  <link>
+1996</link>  •  <link>
+1997</link>  •  <link>
+1998</link>  •  <link>
+1999</link>  •  <link>
+2000</link>  •  <link>
+2001</link>  •  <link xlink:type="simple" xlink:href="../653/16009653.xml">
+2002</link>  •  <link>
+2003</link>  •  <link>
+2004</link>  •  <link>
+2005</link>  •  <link xlink:type="simple" xlink:href="../269/9015269.xml">
+2006</link>  •  <link xlink:type="simple" xlink:href="../871/9567871.xml">
+2007</link>  •  <b><it><link xlink:type="simple" xlink:href="../360/14515360.xml">
 2008</link></it></b></p>
 </col>
 </row>

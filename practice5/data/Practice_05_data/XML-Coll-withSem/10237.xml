@@ -174,7 +174,7 @@ The repeated application of this algorithm is equivalent to decomposing the expo
 : = ((<it>x</it>2)2 * <it>x</it>2)2 * <it>x</it>
 <indent level="1">
 
- = ((<it>x</it>2 * <it>x</it>)2)2 * <it>x</it> &nbsp; &nbsp; &nbsp; → algorithm needs only 5 multiplications instead of 12 (13-1)
+ = ((<it>x</it>2 * <it>x</it>)2)2 * <it>x</it>       → algorithm needs only 5 multiplications instead of 12 (13-1)
 </indent>
 
 Some more examples:
@@ -315,7 +315,7 @@ result := result2 = 32 = 9
 
 <b>Iteration for digit 3:</b>
 result := result2 = (32)2 = 34  = 81
-10<b>1</b>0bin - Digit equals "1" --&amp;gt;&nbsp;result := result*3 = (32)2*3 = 35  = 243</p>
+10<b>1</b>0bin - Digit equals "1" --&amp;gt; result := result*3 = (32)2*3 = 35  = 243</p>
 <p>
 
 <b>Iteration for digit 4:</b>
@@ -444,7 +444,7 @@ which needs only 6 multiplications in total. Note that a×b is calculated twice,
 Example with numbers:
 <indent level="1">
 
-27×35&nbsp;=&nbsp;((2×3)2×2)2×2×3&nbsp;=&nbsp;(62×2)2×6&nbsp;=&nbsp;722×6&nbsp;=&nbsp;31,104
+27×35 = ((2×3)2×2)2×2×3 = (62×2)2×6 = 722×6 = 31,104
 </indent>
 
 Calculating the powers simultaneously instead of calculating them separately always reduces the
@@ -491,21 +491,21 @@ calculating them simultaneously without transformation and calculating them simu
 Example: a7×b5×c3
 separate: [((a)2×a)2×a] × [((b)2)2×b] × [(c)2×c] ( <b>11</b> multiplications )
 simultaneous: ((a×b)2×a×c)2×a×b×c ( <b>8</b> multiplications )
-transformation: a := 2 &nbsp; ab := a×b &nbsp; abc := ab×c ( 2 multiplications )
+transformation: a := 2   ab := a×b   abc := ab×c ( 2 multiplications )
 calculation after that: (a×ab×abc)2×abc ( 4 multiplications ⇒ <b>6</b> in total )</p>
 <p>
 
 Example: a5×b5×c3
 separate: [((a)2)2×a] × [((b)2)2×b] × [(c)2×c] ( <b>10</b> multiplications )
 simultaneous: ((a×b)2×c)2×a×b×c ( <b>7</b> multiplications )
-transformation: a := 2 &nbsp; ab := a×b &nbsp; abc := ab×c ( 2 multiplications )
+transformation: a := 2   ab := a×b   abc := ab×c ( 2 multiplications )
 calculation after that: (ab×abc)2×abc ( 3 multiplications ⇒ <b>5</b> in total )</p>
 <p>
 
 Example: a7×b4×c1
 separate: [((a)2×a)2×a] × [((b)2)2] × [c] ( <b>8</b> multiplications )
 simultaneous: ((a×b)2×a)2×a×c ( <b>6</b> multiplications )
-transformation: a := 2 &nbsp; ab := a×b &nbsp; abc := ab×c ( 2 multiplications )
+transformation: a := 2   ab := a×b   abc := ab×c ( 2 multiplications )
 calculation after that: (a×ab)2×a×ab×abc ( 5 multiplications ⇒ <b>7</b> in total )</p>
 
 </ss2>

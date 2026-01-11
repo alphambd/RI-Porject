@@ -1010,20 +1010,20 @@ AIM</link></messenger>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../048/1676048.xml">
 Baidu Hi</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../891/18033891.xml">
-Fetion</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../891/18033891.xml">
+Fetion</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../779/334779.xml">
 Gadu-Gadu</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../696/5716696.xml">
 Mail.ru Agent</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../931/5093931.xml">
 MySpaceIM</link></software>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <portal wordnetid="103985684" confidence="0.8">
 <company wordnetid="108058098" confidence="0.8">
 <way wordnetid="104564698" confidence="0.8">
@@ -1038,16 +1038,16 @@ NateOn</link></institution>
 </company>
 </portal>
 </artifact>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../589/424589.xml">
 Skype</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../903/571903.xml">
 Tencent QQ</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../351/199351.xml">
 Yahoo! Messenger</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../676/1610676.xml">
 Xfire</link></software>
 </col>
@@ -1074,10 +1074,10 @@ Adium</link></messenger>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../547/669547.xml">
 Ayttm</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <traveler wordnetid="109629752" confidence="0.8">
@@ -1092,20 +1092,20 @@ BitlBee</link></messenger>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../351/17273351.xml">
 Carrier</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/15704784.xml">
 Digsby</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../486/12495486.xml">
 Empathy</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../319/856319.xml">
 IBM Lotus Sametime</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../427/251427.xml">
-iChat</link> &nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../427/251427.xml">
+iChat</link>  ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1116,7 +1116,7 @@ Instantbird</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1127,8 +1127,8 @@ Kopete</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../254/2686254.xml">
-meebo</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../254/2686254.xml">
+meebo</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1139,7 +1139,7 @@ Miranda IM</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1150,13 +1150,13 @@ Pidgin</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../903/1593903.xml">
 Qnext</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../558/7794558.xml#xpointer(//*[./st=%22QIP+Infium%22])">
 QIP Infium</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <traveler wordnetid="109629752" confidence="0.8">
@@ -1171,7 +1171,7 @@ SIM</link></messenger>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1182,7 +1182,7 @@ Trillian</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../351/199351.xml">
 Yahoo! Messenger</link></software>
 </col>
@@ -1210,20 +1210,20 @@ Coccinella</link></messenger>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../279/867279.xml">
 Exodus</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/1819819.xml">
 Gajim</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../175/1566175.xml">
 Google Talk</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../661/15702661.xml">
-Jabbim</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../661/15702661.xml">
+Jabbim</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../067/12008067.xml">
 JAJC</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <traveler wordnetid="109629752" confidence="0.8">
@@ -1238,7 +1238,7 @@ Psi</link></messenger>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <traveler wordnetid="109629752" confidence="0.8">
@@ -1268,10 +1268,10 @@ ICQ</link></software>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../167/15167.xml">
 ICQ</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../558/7794558.xml#xpointer(//*[./st=%22QIP+2005%22])">
 QIP 2005</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../397/19156397.xml">
+ ·  <link xlink:type="simple" xlink:href="../397/19156397.xml">
 qutIM</link></col>
 </row>
 <row style="height:2px">
@@ -1283,17 +1283,17 @@ qutIM</link></col>
 .NET Messenger</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../879/1134879.xml">
-aMSN</link>&nbsp;·  <link xlink:type="simple" xlink:href="../127/6145127.xml">
-emesene</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+aMSN</link> ·  <link xlink:type="simple" xlink:href="../127/6145127.xml">
+emesene</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../781/2402781.xml">
 Microsoft Messenger for Mac</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../057/175057.xml">
 MSN Messenger</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../026/15311026.xml">
 Mercury Messenger</link></software>
-&nbsp;· <software wordnetid="106566077" confidence="0.9508927676800064">
+ · <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../063/19011063.xml">
 Windows Live Messenger</link></software>
 </col>
@@ -1340,9 +1340,9 @@ Communication software</link></col>
 Asynchronous conferencing</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../738/9738.xml">
-E-mail</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../483/52483.xml">
-Electronic mailing list</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../813/294813.xml">
-Internet forum</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../851/32851.xml">
+E-mail</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../483/52483.xml">
+Electronic mailing list</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../813/294813.xml">
+Internet forum</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../851/32851.xml">
 Wiki</link></col>
 </row>
 <row style="height:2px">
@@ -1354,17 +1354,17 @@ Wiki</link></col>
 Synchronous conferencing</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../951/55951.xml">
-Instant messaging</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../749/3544749.xml">
-LAN messenger</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../383/7903383.xml">
-Web chat</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../384/1558384.xml">
-Web conferencing</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../116/274116.xml">
-Videoconferencing</link> &nbsp;&amp;bull;  <link xlink:type="simple" xlink:href="../370/2750370.xml">
-Data conferencing</link> &nbsp;&amp;bull;  <idea wordnetid="105833840" confidence="0.8">
+Instant messaging</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../749/3544749.xml">
+LAN messenger</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../383/7903383.xml">
+Web chat</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../384/1558384.xml">
+Web conferencing</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../116/274116.xml">
+Videoconferencing</link>  &amp;bull;  <link xlink:type="simple" xlink:href="../370/2750370.xml">
+Data conferencing</link>  &amp;bull;  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../849/1042849.xml">
 Voice chat</link></concept>
 </idea>
- &nbsp;&amp;bull;  <idea wordnetid="105833840" confidence="0.8">
+  &amp;bull;  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../028/75028.xml">
 VoIP</link></concept>

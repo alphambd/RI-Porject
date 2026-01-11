@@ -90,7 +90,7 @@ For the initialization of the optimization problem for function <it>f</it> by th
 </indent>
 
 with the norm or <link xlink:type="simple" xlink:href="../188/2070188.xml">
-Lebesgue constant</link> of the Lagrange interpolation operator <it>Ln</it> of the nodes (<it>t</it>1, ..., <it>tn</it>&nbsp;+&nbsp;1) being</p>
+Lebesgue constant</link> of the Lagrange interpolation operator <it>Ln</it> of the nodes (<it>t</it>1, ..., <it>tn</it> + 1) being</p>
 <p>
 
 <indent level="1">

@@ -114,7 +114,7 @@ Tie-Break</header>
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Virgin Islands</link></col>
 <col>
 3</col>
@@ -141,7 +141,7 @@ Virgin Islands</link></col>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/14370383.xml">
 Dominican Republic</link></team>
 </col>
@@ -170,7 +170,7 @@ Dominican Republic</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../168/12984168.xml">
 Mexico</link></team>
 </col>
@@ -199,7 +199,7 @@ Mexico</link></team>
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 El Salvador</link></col>
 <col>
 3</col>
@@ -234,7 +234,7 @@ Game 2</weblink></col>
 <b><team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../168/12984168.xml">
 Mexico</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Mexico.svg">
+ <image width="22x20px" src="Flag_of_Mexico.svg">
 <caption>
 
 border 
@@ -242,7 +242,7 @@ border
 </image>
 </b></col>
 <col align="center" width="9.5%" valign="top">
-<b>92</b>&ndash;36</col>
+<b>92</b>–36</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_El_Salvador.svg">
 <caption>
@@ -250,7 +250,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 El Salvador</link></col>
 <col style="font-size:85%" width="26%" rowspan="4" valign="top">
 Palacio de los Deportes, <link xlink:type="simple" xlink:href="../539/193539.xml">
@@ -281,7 +281,7 @@ August 27</link>21:00</col>
 Game 4</weblink></col>
 <col align="right" width="22%" valign="top">
 <b><link>
-Virgin Islands</link>&nbsp;<image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
+Virgin Islands</link> <image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
 <caption>
 
 border 
@@ -289,7 +289,7 @@ border
 </image>
 </b></col>
 <col align="center" width="9.5%" valign="top">
-<b>83</b>&ndash;74</col>
+<b>83</b>–74</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_the_Dominican_Republic.svg">
 <caption>
@@ -297,7 +297,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/14370383.xml">
 Dominican Republic</link></team>
 </col>
@@ -332,7 +332,7 @@ Game 5</weblink></col>
 <b><team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/14370383.xml">
 Dominican Republic</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_the_Dominican_Republic.svg">
+ <image width="22x20px" src="Flag_of_the_Dominican_Republic.svg">
 <caption>
 
 border 
@@ -340,7 +340,7 @@ border
 </image>
 </b></col>
 <col align="center" width="9.5%" valign="top">
-<b>106</b>&ndash;41</col>
+<b>106</b>–41</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_El_Salvador.svg">
 <caption>
@@ -348,7 +348,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 El Salvador</link></col>
 <col style="font-size:85%" width="26%" rowspan="4" valign="top">
 Palacio de los Deportes, <link xlink:type="simple" xlink:href="../539/193539.xml">
@@ -379,7 +379,7 @@ August 28</link>21:00</col>
 Game 7</weblink></col>
 <col align="right" width="22%" valign="top">
 <link>
-Virgin Islands</link>&nbsp;<image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
+Virgin Islands</link> <image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
 <caption>
 
 border 
@@ -387,7 +387,7 @@ border
 </image>
 </col>
 <col align="center" width="9.5%" valign="top">
-71&ndash;<b>75</b></col>
+71–<b>75</b></col>
 <col align="left" width="22%" valign="top">
 <b><image width="22x20px" src="Flag_of_Mexico.svg">
 <caption>
@@ -395,7 +395,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../168/12984168.xml">
 Mexico</link></team>
 </b></col>
@@ -428,7 +428,7 @@ August 29</link>16:00</col>
 Game 9</weblink></col>
 <col align="right" width="22%" valign="top">
 <link>
-El Salvador</link>&nbsp;<image width="22x20px" src="Flag_of_El_Salvador.svg">
+El Salvador</link> <image width="22x20px" src="Flag_of_El_Salvador.svg">
 <caption>
 
 border 
@@ -436,7 +436,7 @@ border
 </image>
 </col>
 <col align="center" width="9.5%" valign="top">
-66&ndash;<b>88</b></col>
+66–<b>88</b></col>
 <col align="left" width="22%" valign="top">
 <b><image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
 <caption>
@@ -444,7 +444,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Virgin Islands</link></b></col>
 <col style="font-size:85%" width="26%" rowspan="4" valign="top">
 Palacio de los Deportes, <link xlink:type="simple" xlink:href="../539/193539.xml">
@@ -477,7 +477,7 @@ Game 12</weblink></col>
 <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../168/12984168.xml">
 Mexico</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Mexico.svg">
+ <image width="22x20px" src="Flag_of_Mexico.svg">
 <caption>
 
 border 
@@ -485,7 +485,7 @@ border
 </image>
 </col>
 <col align="center" width="9.5%" valign="top">
-70&ndash;<b>78</b></col>
+70–<b>78</b></col>
 <col align="left" width="22%" valign="top">
 <b><image width="22x20px" src="Flag_of_the_Dominican_Republic.svg">
 <caption>
@@ -493,7 +493,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/14370383.xml">
 Dominican Republic</link></team>
 </b></col>
@@ -548,7 +548,7 @@ Pts</header>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../876/805876.xml">
 Puerto Rico</link></team>
 </col>
@@ -575,7 +575,7 @@ Puerto Rico</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../750/14781750.xml">
 Cuba</link></team>
 </col>
@@ -602,7 +602,7 @@ Cuba</link></team>
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../121/6626121.xml">
 Panama</link></team>
 </col>
@@ -629,7 +629,7 @@ Panama</link></team>
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Costa Rica</link></col>
 <col>
 3</col>
@@ -663,7 +663,7 @@ Game 1</weblink></col>
 <b><team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../750/14781750.xml">
 Cuba</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Cuba.svg">
+ <image width="22x20px" src="Flag_of_Cuba.svg">
 <caption>
 
 border 
@@ -671,7 +671,7 @@ border
 </image>
 </b></col>
 <col align="center" width="9.5%" valign="top">
-<b>101</b>&ndash;85</col>
+<b>101</b>–85</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_Panama.svg">
 <caption>
@@ -679,7 +679,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../121/6626121.xml">
 Panama</link></team>
 </col>
@@ -715,7 +715,7 @@ Game 3</weblink></col>
 <b><team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../876/805876.xml">
 Puerto Rico</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Puerto_Rico.svg">
+ <image width="22x20px" src="Flag_of_Puerto_Rico.svg">
 <caption>
 
 border 
@@ -723,7 +723,7 @@ border
 </image>
 </b></col>
 <col align="center" width="9.5%" valign="top">
-<b>85</b>&ndash;68</col>
+<b>85</b>–68</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_Costa_Rica.svg">
 <caption>
@@ -731,7 +731,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Costa Rica</link></col>
 <col style="font-size:85%" width="26%" rowspan="4" valign="top">
 <link>
@@ -772,7 +772,7 @@ Game 6</weblink></col>
 <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../121/6626121.xml">
 Panama</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Panama.svg">
+ <image width="22x20px" src="Flag_of_Panama.svg">
 <caption>
 
 border 
@@ -780,7 +780,7 @@ border
 </image>
 </col>
 <col align="center" width="9.5%" valign="top">
-<b>91</b>&ndash;61</col>
+<b>91</b>–61</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_Costa_Rica.svg">
 <caption>
@@ -788,7 +788,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<link>
+ <link>
 Costa Rica</link></col>
 <col style="font-size:85%" width="26%" rowspan="4" valign="top">
 <link>
@@ -822,7 +822,7 @@ Game 8</weblink></col>
 <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../750/14781750.xml">
 Cuba</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Cuba.svg">
+ <image width="22x20px" src="Flag_of_Cuba.svg">
 <caption>
 
 border 
@@ -830,7 +830,7 @@ border
 </image>
 </col>
 <col align="center" width="9.5%" valign="top">
-90&ndash;<b>103</b></col>
+90–<b>103</b></col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_Puerto_Rico.svg">
 <caption>
@@ -838,7 +838,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../876/805876.xml">
 Puerto Rico</link></team>
 </col>
@@ -878,7 +878,7 @@ August 29</link>18:30</col>
 Game 10</weblink></col>
 <col align="right" width="22%" valign="top">
 <link>
-Costa Rica</link>&nbsp;<image width="22x20px" src="Flag_of_Costa_Rica.svg">
+Costa Rica</link> <image width="22x20px" src="Flag_of_Costa_Rica.svg">
 <caption>
 
 border 
@@ -886,7 +886,7 @@ border
 </image>
 </col>
 <col align="center" width="9.5%" valign="top">
-77&ndash;<b>94</b></col>
+77–<b>94</b></col>
 <col align="left" width="22%" valign="top">
 <b><image width="22x20px" src="Flag_of_Cuba.svg">
 <caption>
@@ -894,7 +894,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../750/14781750.xml">
 Cuba</link></team>
 </b></col>
@@ -930,7 +930,7 @@ Game 11</weblink></col>
 <b><team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../876/805876.xml">
 Puerto Rico</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Puerto_Rico.svg">
+ <image width="22x20px" src="Flag_of_Puerto_Rico.svg">
 <caption>
 
 border 
@@ -938,7 +938,7 @@ border
 </image>
 </b></col>
 <col align="center" width="9.5%" valign="top">
-<b>107</b>&ndash;102</col>
+<b>107</b>–102</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_Panama.svg">
 <caption>
@@ -946,7 +946,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.8">
+ <team wordnetid="108208560" confidence="0.8">
 <link xlink:type="simple" xlink:href="../121/6626121.xml">
 Panama</link></team>
 </col>
@@ -988,7 +988,7 @@ Bracket</st>
 <table style="font-size: 90%; margin:1em 2em 1em 1em;" cellpadding="0" border="0" cellspacing="0">
 <row>
 <col>
-&nbsp;</col>
+ </col>
 <col colspan="2" style="border:1px solid #aaa;" align="center" bgcolor="#f2f2f2">
 Semi finals</col>
 <col colspan="2"></col>
@@ -1013,26 +1013,26 @@ August 30</link>- 17:30 p.m.</col>
 <row>
 <col height="6"></col>
 <col style="border:1px solid #aaa;" bgcolor="#f9f9f9">
-&nbsp; <b>78</b></col>
+  <b>78</b></col>
 <col style="border:1px solid #aaa;" align="center" bgcolor="#f9f9f9">
 61</col>
 <col style="border-width:0 0 2px 0; border-style:solid;border-color:black;" align="center">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="6"></col>
 <col style="border:1px solid #aaa;" bgcolor="#f9f9f9">
- &nbsp;<link xlink:type="simple" xlink:href="../794/1794.xml">
+  <link xlink:type="simple" xlink:href="../794/1794.xml">
 August 30</link>- 20:00 p.m.</col>
 <col style="border:1px solid #aaa;" align="center" bgcolor="#f9f9f9">
 <b>76</b></col>
 <col style="border-width:2px 2px 2px 0; border-style:solid;border-color:black;" align="center" rowspan="10">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="6"></col>
 <col>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="6"></col>
@@ -1043,22 +1043,22 @@ August 30</link>- 20:00 p.m.</col>
 <row>
 <col height="6"></col>
 <col colspan="3" rowspan="2">
-&nbsp;</col>
+ </col>
 <col style="border-width:0 0 2px 0; border-style:solid;border-color:black;" align="center">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" bgcolor="#f9f9f9">
-&nbsp; <b>102</b></col>
+  <b>102</b></col>
 <col style="border:1px solid #aaa;" align="center" bgcolor="#f9f9f9">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="6"></col>
 <col style="border-width:2px 0 0 0; border-style:solid;border-color:black;" align="center">
-&nbsp;</col>
+ </col>
 <col style="border:1px solid #aaa;" bgcolor="#f9f9f9">
-&nbsp;&nbsp;</col>
+  </col>
 <col style="border:1px solid #aaa;" align="center" bgcolor="#f9f9f9">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col colspan="7" height="3"></col>
@@ -1080,35 +1080,35 @@ Third place</col>
 74</col>
 <col colspan="1" rowspan="1"></col>
 <col colspan="2" rowspan="1">
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col height="6"></col>
 <col style="border:1px solid #aaa;" bgcolor="#f9f9f9">
- &nbsp;<link xlink:type="simple" xlink:href="../711/1711.xml">
+  <link xlink:type="simple" xlink:href="../711/1711.xml">
 August 31</link>- 20:30 p.m.</col>
 <col style="border:1px solid #aaa;" align="center" bgcolor="#f9f9f9">
 70</col>
 <col colspan="1" rowspan="1"></col>
 <col style="border:1px solid #aaa;" bgcolor="#f9f9f9">
-&nbsp;&nbsp;</col>
+  </col>
 <col style="border:1px solid #aaa;" align="center" bgcolor="#f9f9f9">
-&nbsp;&nbsp;</col>
+  </col>
 </row>
 <row>
 <col height="6"></col>
 <col style="border:1px solid #aaa;" bgcolor="#f9f9f9">
-&nbsp;<b>87</b></col>
+ <b>87</b></col>
 <col style="border:1px solid #aaa;" align="center" bgcolor="#f9f9f9">
  <link xlink:type="simple" xlink:href="../711/1711.xml">
 August 31</link>- 17:30 p.m.</col>
 <col style="border-width:2px 0 0 0; border-style:solid;border-color:black;" align="center">
-&nbsp;</col>
+ </col>
 <col colspan="1" rowspan="1"></col>
 <col style="border:1px solid #aaa;" bgcolor="#f9f9f9">
-&nbsp;&nbsp;</col>
+  </col>
 <col style="border:1px solid #aaa;" align="center" bgcolor="#f9f9f9">
-&nbsp;&nbsp;</col>
+  </col>
 </row>
 </table>
 </p>
@@ -1138,7 +1138,7 @@ August 30</link>17:30</col>
 Game 15</weblink></col>
 <col align="right" width="22%" valign="top">
 <b><link>
-Virgin Islands</link>&nbsp;<image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
+Virgin Islands</link> <image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
 <caption>
 
 border 
@@ -1146,7 +1146,7 @@ border
 </image>
 </b></col>
 <col align="center" width="9.5%" valign="top">
-<b>78</b>&ndash;61</col>
+<b>78</b>–61</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_Cuba.svg">
 <caption>
@@ -1154,7 +1154,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../750/14781750.xml">
 Cuba</link></team>
 </col>
@@ -1191,7 +1191,7 @@ Game 16</weblink></col>
 <b><team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../876/805876.xml">
 Puerto Rico</link></team>
-&nbsp;<image width="22x20px" src="Flag_of_Puerto_Rico.svg">
+ <image width="22x20px" src="Flag_of_Puerto_Rico.svg">
 <caption>
 
 border 
@@ -1199,7 +1199,7 @@ border
 </image>
 </b></col>
 <col align="center" width="9.5%" valign="top">
-<b>76</b>&ndash;74</col>
+<b>76</b>–74</col>
 <col align="left" width="22%" valign="top">
 <image width="22x20px" src="Flag_of_the_Dominican_Republic.svg">
 <caption>
@@ -1207,7 +1207,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../383/14370383.xml">
 Dominican Republic</link></team>
 </col>
@@ -1255,7 +1255,7 @@ August 31</link>20:30</col>
 Game 20</weblink></col>
 <col align="right" width="22%" valign="top">
 <link>
-Virgin Islands</link>&nbsp;<image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
+Virgin Islands</link> <image width="22x20px" src="Flag_of_the_United_States_Virgin_Islands.svg">
 <caption>
 
 border 
@@ -1263,7 +1263,7 @@ border
 </image>
 </col>
 <col align="center" width="9.5%" valign="top">
-78&ndash;<b>87</b></col>
+78–<b>87</b></col>
 <col align="left" width="22%" valign="top">
 <b><image width="22x20px" src="Flag_of_Puerto_Rico.svg">
 <caption>
@@ -1271,7 +1271,7 @@ border
 border 
 </caption>
 </image>
-&nbsp;<team wordnetid="108208560" confidence="0.9508927676800064">
+ <team wordnetid="108208560" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../876/805876.xml">
 Puerto Rico</link></team>
 </b></col>

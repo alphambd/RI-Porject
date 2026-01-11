@@ -134,7 +134,7 @@ Other properties of the graph can be described almost precisely as <it>n</it> te
 <entry level="1" type="bullet">
 
 There is a <it>k</it>(<it>n</it>) (approximately equal to <math>2 \log_2 n</math>) such that the largest <link xlink:type="simple" xlink:href="../466/524466.xml">
- clique</link> in <it>G</it>(<it>n</it>, 0.5) is almost surely either <it>k</it>(<it>n</it>) or <it>k</it>(<it>n</it>)&nbsp;+&nbsp;1.    </entry>
+ clique</link> in <it>G</it>(<it>n</it>, 0.5) is almost surely either <it>k</it>(<it>n</it>) or <it>k</it>(<it>n</it>) + 1.    </entry>
 </list>
 </p>
 <p>
@@ -177,16 +177,16 @@ Edgar Gilbert</link> in a 1959 paper which studied the connectivity threshold me
 <list>
 <entry level="1" type="bullet">
 
-  <cite id="CITEREFBollob.C3.A1s2001" style="font-style:normal">Bollobás, B.&#32;(2001),&#32;<it>Random Graphs</it>&#32;(2nd ed.), Cambridge University Press, ISBN 0521797225</cite>&nbsp;</entry>
+  <cite id="CITEREFBollob.C3.A1s2001" style="font-style:normal">Bollobás, B.&#32;(2001),&#32;<it>Random Graphs</it>&#32;(2nd ed.), Cambridge University Press, ISBN 0521797225</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Bollobás, B.; Erdős, P.&#32;(1976).&#32;"Cliques in Random Graphs". <it>Math. Proc. Cambridge Phil. Soc.</it>&#32;<b>80</b>&#32;(3): 419–427.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Bollobás, B.; Erdős, P.&#32;(1976).&#32;"Cliques in Random Graphs". <it>Math. Proc. Cambridge Phil. Soc.</it>&#32;<b>80</b>&#32;(3): 419–427.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Erdős, P.; Rényi, A.&#32;(1959).&#32;"On Random Graphs. I.". <it>Publicationes Mathematicae</it>&#32;<b>6</b>: 290–297.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Erdős, P.; Rényi, A.&#32;(1959).&#32;"On Random Graphs. I.". <it>Publicationes Mathematicae</it>&#32;<b>6</b>: 290–297.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal">Erdős, P.; Rényi, A.&#32;(1960).&#32;"The Evolution of Random Graphs". <it>Magyar Tud. Akad. Mat. Kutató Int. Közl.</it>&#32;<b>5</b>: 17–61.</cite>&nbsp;</entry>
+  <cite style="font-style:normal">Erdős, P.; Rényi, A.&#32;(1960).&#32;"The Evolution of Random Graphs". <it>Magyar Tud. Akad. Mat. Kutató Int. Közl.</it>&#32;<b>5</b>: 17–61.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Gilbert, E.N.&#32;(1959).&#32;"Random Graphs". <it>Annals of Mathematical Statistics</it>&#32;<b>30</b>: 1141–1144. <document wordnetid="106470073" confidence="0.8">
@@ -197,10 +197,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1214%2Faoms%2F1177706098">
-10.1214/aoms/1177706098</weblink>.</cite>&nbsp;</entry>
+10.1214/aoms/1177706098</weblink>.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite id="CITEREFWest2001" style="font-style:normal">West, Douglas B.&#32;(2001),&#32;<it>Introduction to Graph Theory</it>&#32;(2nd ed.), Prentice Hall, ISBN 0-13-014400-2</cite>&nbsp;</entry>
+  <cite id="CITEREFWest2001" style="font-style:normal">West, Douglas B.&#32;(2001),&#32;<it>Introduction to Graph Theory</it>&#32;(2nd ed.), Prentice Hall, ISBN 0-13-014400-2</cite> </entry>
 </list>
 </p>
 

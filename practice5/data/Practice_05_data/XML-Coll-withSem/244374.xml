@@ -230,7 +230,7 @@ The primary defining characteristic of AMD64 is availability of 64-bit general p
 <list>
 <entry level="1" type="bullet">
 
-<b>64-bit integer capability:</b> All general-purpose registers (GPRs) are expanded from 32&nbsp;bits to 64&nbsp;bits, and all arithmetic and logical operations, memory-to-register and register-to-memory operations, etc., can now operate directly on 64-bit integers. Pushes and pops on the stack are always in 8 byte strides, and pointers are 8 bytes wide. </entry>
+<b>64-bit integer capability:</b> All general-purpose registers (GPRs) are expanded from 32 bits to 64 bits, and all arithmetic and logical operations, memory-to-register and register-to-memory operations, etc., can now operate directly on 64-bit integers. Pushes and pops on the stack are always in 8 byte strides, and pointers are 8 bytes wide. </entry>
 </list>
 </p>
 <p>
@@ -251,9 +251,9 @@ registers</link></written_record>
 </register>
 :</b> In addition to increasing the size of the general-purpose registers, the number of named general-purpose registers is increased from eight (i.e. eax,ebx,ecx,edx,ebp,esp,esi,edi) in <link xlink:type="simple" xlink:href="../046/15046.xml">
 x86-32</link> to 16. It is therefore possible to keep more local variables in registers rather than on the stack, and to let registers hold frequently accessed constants; arguments for small and fast subroutines may also be passed in registers to a greater extent. However, AMD64 still has fewer registers than many common <link xlink:type="simple" xlink:href="../672/3963672.xml">
-RISC</link> processors (which typically have 32&ndash;64&nbsp;registers) or <link xlink:type="simple" xlink:href="../706/51706.xml">
+RISC</link> processors (which typically have 32–64 registers) or <link xlink:type="simple" xlink:href="../706/51706.xml">
 VLIW</link>-like machines such as the <link xlink:type="simple" xlink:href="../454/15454.xml">
-IA-64</link> (which has 128&nbsp;registers).</entry>
+IA-64</link> (which has 128 registers).</entry>
 </list>
 </p>
 <p>
@@ -275,8 +275,8 @@ Streaming SIMD</link></direction>
 <entry level="1" type="bullet">
 
 <b>Larger virtual address space:</b> Current processor models implementing the AMD64 architecture can address up to 256 <link xlink:type="simple" xlink:href="../657/30657.xml">
-TB</link><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> of virtual address space. This limit can be raised in future implementations to 16&nbsp;<link xlink:type="simple" xlink:href="../756/9756.xml">
-EB</link>. This is compared to just 4&nbsp;<link xlink:type="simple" xlink:href="../570/12570.xml">
+TB</link><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> of virtual address space. This limit can be raised in future implementations to 16 <link xlink:type="simple" xlink:href="../756/9756.xml">
+EB</link>. This is compared to just 4 <link xlink:type="simple" xlink:href="../570/12570.xml">
 GB</link> for 32-bit x86. This means that very large files can be operated on by mapping the entire file into the process' address space (which is generally faster than working with file read/write calls), rather than having to map regions of the file into and out of the address space.</entry>
 </list>
 </p>
@@ -285,10 +285,10 @@ GB</link> for 32-bit x86. This means that very large files can be operated on by
 <list>
 <entry level="1" type="bullet">
 
-<b>Larger physical address space:</b> Current implementations of the AMD64 architecture can address up to 1&nbsp;TB of RAM; the architecture permits extending this to 4&nbsp;<link xlink:type="simple" xlink:href="../980/23980.xml">
+<b>Larger physical address space:</b> Current implementations of the AMD64 architecture can address up to 1 TB of RAM; the architecture permits extending this to 4 <link xlink:type="simple" xlink:href="../980/23980.xml">
 PB</link> in the future (limited by the page table entry format). In <link xlink:type="simple" xlink:href="../556/3689556.xml">
 legacy mode</link>, <link xlink:type="simple" xlink:href="../793/416793.xml">
-Physical Address Extension</link> (PAE) is included, as it is on most current 32-bit x86 processors, allowing access to a maximum of 64&nbsp;GB. </entry>
+Physical Address Extension</link> (PAE) is included, as it is on most current 32-bit x86 processors, allowing access to a maximum of 64 GB. </entry>
 </list>
 </p>
 <p>
@@ -361,7 +361,7 @@ buffer overrun</link></animal>
 </invertebrate>
 </accomplishment>
 " or "unchecked buffer" attacks. A similar feature has been available on x86 processors since the <link xlink:type="simple" xlink:href="../054/15054.xml">
-80286</link> as an attribute of segment descriptors; however, this works only on an entire segment at a time. Segmented addressing has long been considered an obsolete mode of operation, and all current PC operating systems in effect bypass it, setting all segments to a base address of 0 and a size of 4&nbsp;GB. AMD was the first x86-family vendor to implement no-execute in linear addressing mode. The feature is also available in legacy mode on AMD64 processors, and recent Intel x86 processors, when PAE is used. </entry>
+80286</link> as an attribute of segment descriptors; however, this works only on an entire segment at a time. Segmented addressing has long been considered an obsolete mode of operation, and all current PC operating systems in effect bypass it, setting all segments to a base address of 0 and a size of 4 GB. AMD was the first x86-family vendor to implement no-execute in linear addressing mode. The feature is also available in legacy mode on AMD64 processors, and recent Intel x86 processors, when PAE is used. </entry>
 </list>
 </p>
 <p>
@@ -379,9 +379,9 @@ buffer overrun</link></animal>
 Virtual address space details</st>
 <p>
 
-Although virtual addresses are 64&nbsp;bits wide in 64-bit mode, current implementations (and any chips known to be in the planning stages) do not allow the entire virtual address space of 16&nbsp;EB to be used. Most operating systems and applications will not need such a large address space for the foreseeable future (for example, Windows implementations for AMD64 are only populating 16&nbsp;TB, or 44&nbsp;<link xlink:type="simple" xlink:href="../690/1036690.xml">
-bits</link>' worth), so implementing such wide virtual addresses would simply increase the complexity and cost of address translation with no real benefit. AMD therefore decided that, in the first implementations of the architecture, only the least significant 48&nbsp;bits of a virtual address would actually be used in address translation (page table lookup). However, bits 48 through 63 of any virtual address must be copies of bit 47 (in a manner akin to <link xlink:type="simple" xlink:href="../272/3349272.xml">
-sign extension</link>), or the processor will raise an exception. Addresses complying with this rule are referred to as "canonical form." Canonical form addresses run from 0 through 00007FFF`FFFFFFFF, and from FFFF8000`00000000 through FFFFFFFF`FFFFFFFF, for a total of 256&nbsp;TB of usable virtual address space.</p>
+Although virtual addresses are 64 bits wide in 64-bit mode, current implementations (and any chips known to be in the planning stages) do not allow the entire virtual address space of 16 EB to be used. Most operating systems and applications will not need such a large address space for the foreseeable future (for example, Windows implementations for AMD64 are only populating 16 TB, or 44 <link xlink:type="simple" xlink:href="../690/1036690.xml">
+bits</link>' worth), so implementing such wide virtual addresses would simply increase the complexity and cost of address translation with no real benefit. AMD therefore decided that, in the first implementations of the architecture, only the least significant 48 bits of a virtual address would actually be used in address translation (page table lookup). However, bits 48 through 63 of any virtual address must be copies of bit 47 (in a manner akin to <link xlink:type="simple" xlink:href="../272/3349272.xml">
+sign extension</link>), or the processor will raise an exception. Addresses complying with this rule are referred to as "canonical form." Canonical form addresses run from 0 through 00007FFF`FFFFFFFF, and from FFFF8000`00000000 through FFFFFFFF`FFFFFFFF, for a total of 256 TB of usable virtual address space.</p>
 <p>
 
 This "quirk" allows an important feature for later scalability to true 64-bit addressing: 
@@ -432,11 +432,11 @@ AMD64-canonical--64-bit.svg
 The 64-bit addressing mode ("<link xlink:type="simple" xlink:href="../691/2556691.xml">
 long mode</link>") is a superset of <link xlink:type="simple" xlink:href="../793/416793.xml">
 Physical Address Extension</link>s (PAE); because of this, <link xlink:type="simple" xlink:href="../193/311193.xml">
-page</link> sizes may be either 4&nbsp;<link xlink:type="simple" xlink:href="../794/16794.xml">
-KB</link>, 2&nbsp;<link xlink:type="simple" xlink:href="../918/19918.xml">
-MB</link>, or 1&nbsp;GB. However, rather than the three-level <link xlink:type="simple" xlink:href="../962/674962.xml">
+page</link> sizes may be either 4 <link xlink:type="simple" xlink:href="../794/16794.xml">
+KB</link>, 2 <link xlink:type="simple" xlink:href="../918/19918.xml">
+MB</link>, or 1 GB. However, rather than the three-level <link xlink:type="simple" xlink:href="../962/674962.xml">
 page table</link> system used by systems in PAE mode, systems running in <link xlink:type="simple" xlink:href="../691/2556691.xml">
-long mode</link> use four levels of page table: PAE's <it>Page-Directory Pointer Table</it> is extended from 4 entries to 512, and an additional <it>Page-Map Level 4 Table</it> is added, containing 512 entries in 48-bit implementations. In implementations providing larger virtual addresses, this latter table would either grow to accommodate sufficient entries to describe the entire address range, up to a theoretical maximum of 33,554,432 entries for a 64-bit implementation, or be over ranked by a new mapping level, such as a PML5. A full mapping hierarchy of 4&nbsp;KB pages for the whole 48-bit space would take a bit more than 512&nbsp;GB of RAM (about 0.196% of the 256&nbsp;TB virtual space).</p>
+long mode</link> use four levels of page table: PAE's <it>Page-Directory Pointer Table</it> is extended from 4 entries to 512, and an additional <it>Page-Map Level 4 Table</it> is added, containing 512 entries in 48-bit implementations. In implementations providing larger virtual addresses, this latter table would either grow to accommodate sufficient entries to describe the entire address range, up to a theoretical maximum of 33,554,432 entries for a 64-bit implementation, or be over ranked by a new mapping level, such as a PML5. A full mapping hierarchy of 4 KB pages for the whole 48-bit space would take a bit more than 512 GB of RAM (about 0.196% of the 256 TB virtual space).</p>
 
 </ss1>
 <ss1>
@@ -1166,7 +1166,7 @@ Recent implementations</st>
 <list>
 <entry level="1" type="bullet">
 
-Intel 64's BSF and BSR instructions act differently when the source is 0 and the operand size is 32&nbsp;bits. The processor sets the zero flag and leaves the upper 32&nbsp;bits of the destination undefined.</entry>
+Intel 64's BSF and BSR instructions act differently when the source is 0 and the operand size is 32 bits. The processor sets the zero flag and leaves the upper 32 bits of the destination undefined.</entry>
 </list>
 </p>
 <p>
@@ -1210,7 +1210,7 @@ Hyper-threading</link> feature and also to enter specific low power states.</ent
 <entry level="1" type="bullet">
 
 AMD64 systems allow the use of the AGP aperture as an <link xlink:type="simple" xlink:href="../181/5313181.xml">
-IOMMU</link>. Operating systems can take advantage of this to let normal PCI devices DMA to memory above 4&nbsp;GB. Intel 64 systems require the use of <link>
+IOMMU</link>. Operating systems can take advantage of this to let normal PCI devices DMA to memory above 4 GB. Intel 64 systems require the use of <link>
 bounce buffer</link>s, which are slower.</entry>
 </list>
 </p>
@@ -1231,7 +1231,7 @@ long mode</link>. </entry>
 <list>
 <entry level="1" type="bullet">
 
-Near branches with the <b>66H</b> (operand size) prefix behave differently. Intel 64 clears only the top 32&nbsp;bits, while AMD64 clears the top 48&nbsp;bits.</entry>
+Near branches with the <b>66H</b> (operand size) prefix behave differently. Intel 64 clears only the top 32 bits, while AMD64 clears the top 48 bits.</entry>
 </list>
 </p>
 <p>
@@ -1306,7 +1306,7 @@ NX bit</link> (No Execute bit) of the AMD64 architecture. The NX bit marks memor
 <list>
 <entry level="1" type="bullet">
 
-Original AMD64 implementations allowed access only to 1&nbsp;TB of physical memory, however, recent AMD64 implementations now provide 256&nbsp;TB of physical address space (with planned expansion to 4&nbsp;PB).</entry>
+Original AMD64 implementations allowed access only to 1 TB of physical memory, however, recent AMD64 implementations now provide 256 TB of physical address space (with planned expansion to 4 PB).</entry>
 </list>
 </p>
 <p>
@@ -1314,7 +1314,7 @@ Original AMD64 implementations allowed access only to 1&nbsp;TB of physical memo
 <list>
 <entry level="1" type="bullet">
 
-Original Intel 64 implementations allowed access only to 64&nbsp;GB of physical memory, however, recent Intel 64 implementations now provide 1&nbsp;TB of physical address space.</entry>
+Original Intel 64 implementations allowed access only to 64 GB of physical memory, however, recent Intel 64 implementations now provide 1 TB of physical address space.</entry>
 </list>
 </p>
 
@@ -1341,28 +1341,28 @@ Windows Vista</link></version>
 <list>
 <entry level="1" type="bullet">
 
-8&nbsp;TB of "user mode" virtual memory address space per process. A 64-bit program can use all of this, subject of course to backing store limits on the system. This is a 4096-fold increase over the default 2&nbsp;GB user-mode virtual address space offered by 32-bit Windows.</entry>
+8 TB of "user mode" virtual memory address space per process. A 64-bit program can use all of this, subject of course to backing store limits on the system. This is a 4096-fold increase over the default 2 GB user-mode virtual address space offered by 32-bit Windows.</entry>
 <entry level="1" type="bullet">
 
-8&nbsp;TB of kernel mode virtual address space for the operating system. Again, this is a 4096-fold increase over 32-bit Windows versions. The increased space is primarily of benefit to the file system cache and kernel mode "heaps" (non-paged pool and paged pool).</entry>
+8 TB of kernel mode virtual address space for the operating system. Again, this is a 4096-fold increase over 32-bit Windows versions. The increased space is primarily of benefit to the file system cache and kernel mode "heaps" (non-paged pool and paged pool).</entry>
 <entry level="2" type="bullet">
 
-Interestingly the total address space is limited to 16&nbsp;TB due to early AMD64 lacking a CMPXCHG16B instruction.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%229%22])">9</ref></entry>
+Interestingly the total address space is limited to 16 TB due to early AMD64 lacking a CMPXCHG16B instruction.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%229%22])">9</ref></entry>
 <entry level="1" type="bullet">
 
-Ability to use up to 128&nbsp;<link xlink:type="simple" xlink:href="../487/176487.xml">
-GB</link> (Windows XP) or 1&nbsp;<link xlink:type="simple" xlink:href="../138/236138.xml">
+Ability to use up to 128 <link xlink:type="simple" xlink:href="../487/176487.xml">
+GB</link> (Windows XP) or 1 <link xlink:type="simple" xlink:href="../138/236138.xml">
 TB</link> (Windows Server 2003) of random access memory (RAM). </entry>
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../285/148285.xml">
-LLP64</link> data model: "int" and "long" types are still 32&nbsp;bits wide, while pointers and types derived from pointers are 64&nbsp;bits wide. </entry>
+LLP64</link> data model: "int" and "long" types are still 32 bits wide, while pointers and types derived from pointers are 64 bits wide. </entry>
 <entry level="1" type="bullet">
 
 Device drivers must be 64-bit versions; there is no way to run 32-bit kernel-mode executables within the 64-bit operating system. </entry>
 <entry level="1" type="bullet">
 
-Ability to run existing 32-bit applications (.exe's) and dynamic link libraries (.dll's). A 32-bit program, if linked with the "large address aware" option, can use up to 4&nbsp;GB of virtual address space, as compared to the default 2&nbsp;GB (optional 3&nbsp;GB with /3GB boot.ini option and "large address aware" link option) offered by 32-bit Windows. </entry>
+Ability to run existing 32-bit applications (.exe's) and dynamic link libraries (.dll's). A 32-bit program, if linked with the "large address aware" option, can use up to 4 GB of virtual address space, as compared to the default 2 GB (optional 3 GB with /3GB boot.ini option and "large address aware" link option) offered by 32-bit Windows. </entry>
 <entry level="1" type="bullet">
 
 16-bit DOS and Windows (Win16) applications will not run on x64 versions of Windows due to removal of <link xlink:type="simple" xlink:href="../173/1501173.xml">
@@ -1450,7 +1450,7 @@ Ubuntu</link></O>
 , are available in a version compiled for 32-bit and one compiled for x86-64 architecture.</p>
 <p>
 
-64-bit Linux allows up to 128&nbsp;TB of address space for individual processes, and can address approximately 246 (64 TB) of physical memory, subject to processor and system limitations.</p>
+64-bit Linux allows up to 128 TB of address space for individual processes, and can address approximately 246 (64 TB) of physical memory, subject to processor and system limitations.</p>
 
 </ss1>
 <ss1>
@@ -1676,7 +1676,7 @@ Solaris</link></database>
 </electronic_database>
 </information>
 </message>
-: The isalist command in Sun's Solaris operating system identifies both AMD64- and Intel 64&ndash;based systems as "amd64".</entry>
+: The isalist command in Sun's Solaris operating system identifies both AMD64- and Intel 64–based systems as "amd64".</entry>
 </list>
 </p>
 
@@ -1705,7 +1705,7 @@ Notes and references</st>
 <entry id="1">
 "<weblink xlink:type="simple" xlink:href="http://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_9331_13278,00.html">
 AMD64 FAQs</weblink>".&#32;  AMD.&#32;Retrieved on <link>
-2008-08-08</link>.&nbsp;"AMD64 replaces terms such as [...] 'x86-64' (now 'AMD64 ISA')."</entry>
+2008-08-08</link>. "AMD64 replaces terms such as [...] 'x86-64' (now 'AMD64 ISA')."</entry>
 <entry id="2">
 <weblink xlink:type="simple" xlink:href="ftp://download.intel.com/technology/architecture/new-instructions-paper.pdf">
 Extending the World's Most Popular Processor Architecture</weblink></entry>
@@ -1723,7 +1723,7 @@ AMD64 Architecture Programmer’s Manual Volume 2: System Programming</weblink>"
 2007-08-30</link>.</entry>
 <entry id="6">
 <weblink xlink:type="simple" xlink:href="http://www.theinquirer.net/default.aspx?article=14189">
-"Craig Barrett confirms 64&nbsp;bit address extensions for Xeon. And Prescott", from The Inquirer</weblink></entry>
+"Craig Barrett confirms 64 bit address extensions for Xeon. And Prescott", from The Inquirer</weblink></entry>
 <entry id="7">
 <weblink xlink:type="simple" xlink:href="http://www.internetnews.com/ent-news/article.php/3518781">
 "A Roundup of 64-Bit Computing", from internetnews.com</weblink></entry>
@@ -1737,7 +1737,7 @@ Intel</link>.&#32;Retrieved on <link>
 Behind Windows x64’s 44-bit Virtual Memory Addressing Limit</weblink>".</entry>
 <entry id="10">
 "<weblink xlink:type="simple" xlink:href="http://msdn.microsoft.com/en-us/magazine/cc300794.aspx">
-Everything You Need To Know To Start Programming 64-Bit Windows Systems</weblink>".&nbsp;"On x64 versions of Windows, the FS register has been replaced by the GS register."</entry>
+Everything You Need To Know To Start Programming 64-Bit Windows Systems</weblink>". "On x64 versions of Windows, the FS register has been replaced by the GS register."</entry>
 <entry id="11">
 <weblink xlink:type="simple" xlink:href="http://msdn2.microsoft.com/en-us/library/aa384190.aspx">
 Microsoft Developer Network - General Porting Guidelines (64-bit Windows Programming)</weblink></entry>
@@ -1759,7 +1759,7 @@ August 9</link>, <link xlink:type="simple" xlink:href="../164/36164.xml">
 2006</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://lists.apple.com/archives/Darwin-dev/2006/Aug/msg00095.html">
 re: Intel XNU bug report</weblink>".&#32;<it>Darwin-dev mailing list</it>.&#32;  <link xlink:type="simple" xlink:href="../856/856.xml">
 Apple Computer</link>.&#32;Retrieved on <link>
-2006-10-05</link>.&nbsp;"The kernel and developer tools have standardized on "x86_64" for the name of the Mach-O architecture"</entry>
+2006-10-05</link>. "The kernel and developer tools have standardized on "x86_64" for the name of the Mach-O architecture"</entry>
 </reflist>
 </p>
 

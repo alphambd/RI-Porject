@@ -144,8 +144,8 @@ Microsoft Research (MSR)</link></research_worker>
 Languages and compilers</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../728/586728.xml">
-Polyphonic C#</link>&nbsp;·  <link>
-Cω</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Polyphonic C#</link> ·  <link>
+Cω</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -156,17 +156,17 @@ Spec#</link></language>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <language wordnetid="106282651" confidence="0.8">
+ ·  <language wordnetid="106282651" confidence="0.8">
 <link xlink:type="simple" xlink:href="../605/3074605.xml">
 Sing#</link></language>
-&nbsp;·  <drive wordnetid="104835724" confidence="0.8">
+ ·  <drive wordnetid="104835724" confidence="0.8">
 <enterprise wordnetid="104836074" confidence="0.8">
 <trait wordnetid="104616059" confidence="0.8">
 <link xlink:type="simple" xlink:href="../983/4563983.xml">
 Bartok</link></trait>
 </enterprise>
 </drive>
-&nbsp;·  <link xlink:type="simple" xlink:href="../364/14274364.xml">
+ ·  <link xlink:type="simple" xlink:href="../364/14274364.xml">
 Phoenix</link></col>
 </row>
 <row style="height:2px">
@@ -179,8 +179,8 @@ Distributed</link> / <link xlink:type="simple" xlink:href="../373/49373.xml">
 grid computing</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../992/4563992.xml">
-Bigtop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../992/4563992.xml#xpointer(//*[./st=%22Gridline%22])">
-Gridline</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+Bigtop</link> ·  <link xlink:type="simple" xlink:href="../992/4563992.xml#xpointer(//*[./st=%22Gridline%22])">
+Gridline</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../685/4635685.xml">
@@ -199,10 +199,10 @@ Internet</link> and <link xlink:type="simple" xlink:href="../652/5652.xml">
 networking</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../196/2060196.xml">
-Avalanche</link>&nbsp;·  <link xlink:type="simple" xlink:href="../674/4348674.xml">
-Wallop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../784/7500784.xml">
-Conference XP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../886/2412886.xml">
-HoneyMonkey</link>&nbsp;·  <link xlink:type="simple" xlink:href="../489/11928489.xml">
+Avalanche</link> ·  <link xlink:type="simple" xlink:href="../674/4348674.xml">
+Wallop</link> ·  <link xlink:type="simple" xlink:href="../784/7500784.xml">
+Conference XP</link> ·  <link xlink:type="simple" xlink:href="../886/2412886.xml">
+HoneyMonkey</link> ·  <link xlink:type="simple" xlink:href="../489/11928489.xml">
 AjaxView</link></col>
 </row>
 <row style="height:2px">
@@ -213,11 +213,11 @@ AjaxView</link></col>
 Other projects</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../862/4473862.xml">
-MyLifeBits</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+MyLifeBits</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../743/12096743.xml">
 LiveStation</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../105/14627105.xml">
-Terminator</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../105/14627105.xml">
+Terminator</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../493/15862493.xml">
 WorldWide Telescope</link></software>
 </col>
@@ -244,9 +244,9 @@ Singularity</link></O>
 API</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../545/12098545.xml">
-Joins</link>&nbsp;·  <link xlink:type="simple" xlink:href="../946/14272946.xml">
-Accelerator</link>&nbsp;·  <link xlink:type="simple" xlink:href="../271/14555271.xml">
-Dryad</link> &nbsp;·  <link xlink:type="simple" xlink:href="../967/14658967.xml">
+Joins</link> ·  <link xlink:type="simple" xlink:href="../946/14272946.xml">
+Accelerator</link> ·  <link xlink:type="simple" xlink:href="../271/14555271.xml">
+Dryad</link>  ·  <link xlink:type="simple" xlink:href="../967/14658967.xml">
 SXM</link></col>
 </row>
 <row style="height:2px">
@@ -259,21 +259,21 @@ Launched as products</col>
 <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../196/2356196.xml">
 C#</link></programming_language>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../123/360123.xml">
 Comic Chat</link></software>
-&nbsp;·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
+ ·  <programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../964/239964.xml">
 F#</link></programming_language>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../253/3232253.xml">
 Sideshow</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../117/11499117.xml">
 Surface</link></software>
  (<link xlink:type="simple" xlink:href="../908/8342908.xml">
-TouchLight</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../308/10152308.xml">
-SenseCam</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+TouchLight</link>) ·  <link xlink:type="simple" xlink:href="../308/10152308.xml">
+SenseCam</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -292,10 +292,10 @@ ClearType</link></framework>
 </concept>
 </idea>
 </structure>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../996/8992996.xml">
 Group Shot</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../238/463238.xml">
+ ·  <link xlink:type="simple" xlink:href="../238/463238.xml">
 Allegiance</link></col>
 </row>
 </table>

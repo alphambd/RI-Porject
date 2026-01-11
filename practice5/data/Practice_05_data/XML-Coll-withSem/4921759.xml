@@ -671,15 +671,15 @@ differential blob detectors</link> such as the Laplacian/Difference of Gaussian 
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">A. Baumberg&#32;(2000). "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/baumberg00reliable.html">
-Reliable feature matching across widely separated views</weblink>".&#32;<it>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition</it>: pages I:1774--1781.</cite>&nbsp;</entry>
+Reliable feature matching across widely separated views</weblink>".&#32;<it>Proceedings of IEEE Conference on Computer Vision and Pattern Recognition</it>: pages I:1774--1781.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">L. Bretzner and T. Lindeberg&#32;(1998).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nada.kth.se/cvap/abstracts/cvap201.html">
-Feature tracking with automatic selection of spatial scales</weblink>". <it>Computer Vision and Image Understanding</it>&#32;<b>71</b>: pp 385--392.</cite>&nbsp;</entry>
+Feature tracking with automatic selection of spatial scales</weblink>". <it>Computer Vision and Image Understanding</it>&#32;<b>71</b>: pp 385--392.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">M.J. Brooks and W. Chojnacki and D. Gawley and A. van den Hengel&#32;(2001). "<weblink xlink:type="simple" xlink:href="http://www.cs.adelaide.edu.au/users/mjb/Papers/iccv01.pdf">
-What Value Covariance Information in Estimating Vision Parameters?</weblink>".&#32;<it>Proceedings of the 8th Int'l Conf. on Computer Vision</it>&#32;<b>1</b>: pp 302-308.</cite>&nbsp;</entry>
+What Value Covariance Information in Estimating Vision Parameters?</weblink>".&#32;<it>Proceedings of the 8th Int'l Conf. on Computer Vision</it>&#32;<b>1</b>: pp 302-308.</cite> </entry>
 <entry level="1" type="bullet">
 
  K. Derpanis.&#32;"<it><weblink xlink:type="simple" xlink:href="http://www.cse.yorku.ca/~kosta/CompVis_Notes/harris_detector.pdf">
@@ -687,60 +687,60 @@ The Harris Corner Detector</weblink></it>".</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">C. Harris and M. Stephens&#32;(1988). "<weblink xlink:type="simple" xlink:href="http://www.csse.uwa.edu.au/~pk/research/matlabfns/Spatial/Docs/Harris/A_Combined_Corner_and_Edge_Detector.pdf">
-A combined corner and edge detector</weblink>".&#32;<it>Proceedings of the 4th Alvey Vision Conference</it>: pp 147--151.</cite>&nbsp;</entry>
+A combined corner and edge detector</weblink>".&#32;<it>Proceedings of the 4th Alvey Vision Conference</it>: pp 147--151.</cite> </entry>
 <entry level="1" type="bullet">
 
-  <cite style="font-style:normal" class="book">C. Harris.&#32;(1992).&#32;"Geometry from visual motion",&#32;in A. Blake and A. Yuille: Active Vision.&#32;MIT Press, Cambridge MA.</cite>&nbsp;</entry>
+  <cite style="font-style:normal" class="book">C. Harris.&#32;(1992).&#32;"Geometry from visual motion",&#32;in A. Blake and A. Yuille: Active Vision.&#32;MIT Press, Cambridge MA.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">T. Lindeberg&#32;(1998).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nada.kth.se/cvap/abstracts/cvap198.html">
-Feature detection with automatic scale selection</weblink>". <it>International Journal of Computer Vision</it>&#32;<b>30</b>&#32;(2): pp 77--116.</cite>&nbsp;</entry>
+Feature detection with automatic scale selection</weblink>". <it>International Journal of Computer Vision</it>&#32;<b>30</b>&#32;(2): pp 77--116.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">T. Lindeberg and J. Garding&#32;(1997).&#32;"<weblink xlink:type="simple" xlink:href="http://www.nada.kth.se/~tony/abstracts/LG94-ECCV.html">
-Shape-adapted smoothing in estimation of 3-{D} depth cues from affine distortions of local 2-{D} structure</weblink>". <it>International Journal of Computer Vision</it>&#32;<b>15</b>: pp 415--434.</cite>&nbsp;</entry>
+Shape-adapted smoothing in estimation of 3-{D} depth cues from affine distortions of local 2-{D} structure</weblink>". <it>International Journal of Computer Vision</it>&#32;<b>15</b>: pp 415--434.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">D. Lowe&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/654168.html">
-Distinctive Image Features from Scale-Invariant Keypoints</weblink>". <it>International     Journal of Computer Vision</it>.</cite>&nbsp;</entry>
+Distinctive Image Features from Scale-Invariant Keypoints</weblink>". <it>International     Journal of Computer Vision</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">K. Mikolajczyk, K. and C. Schmid&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/mikolajczyk_ijcv2004.pdf">
-Scale and affine invariant interest point detectors</weblink>". <it>International Journal of Computer Vision</it>&#32;<b>60</b>&#32;(1): pp 63 - 86.</cite>&nbsp;</entry>
+Scale and affine invariant interest point detectors</weblink>". <it>International Journal of Computer Vision</it>&#32;<b>60</b>&#32;(1): pp 63 - 86.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">H. Moravec&#32;(1980).&#32;"<weblink xlink:type="simple" xlink:href="http://www.ri.cmu.edu/pubs/pub_22.html">
-Obstacle Avoidance and Navigation in the Real World by a Seeing Robot Rover</weblink>". <it>Tech Report CMU-RI-TR-3 Carnegie-Mellon University, Robotics Institute</it>.</cite>&nbsp;</entry>
+Obstacle Avoidance and Navigation in the Real World by a Seeing Robot Rover</weblink>". <it>Tech Report CMU-RI-TR-3 Carnegie-Mellon University, Robotics Institute</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">E. Rosten and T. Drummond&#32;(May 2006). "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/741064.html">
-Machine learning for high-speed corner detection,</weblink>".&#32;<it>European Conference on Computer Vision</it>.</cite>&nbsp;</entry>
+Machine learning for high-speed corner detection,</weblink>".&#32;<it>European Conference on Computer Vision</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">J. Shi and C. Tomasi&#32;(June 1994). "<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/shi94good.html">
-Good Features to Track,</weblink>".&#32;<it>9th IEEE Conference on Computer Vision and Pattern Recognition</it>, Springer.</cite>&nbsp;</entry>
+Good Features to Track,</weblink>".&#32;<it>9th IEEE Conference on Computer Vision and Pattern Recognition</it>, Springer.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">S. M. Smith and J. M. Brady&#32;(May 1997).&#32;"<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/smith95susan.html">
-SUSAN - a new approach to low level image processing.</weblink>". <it>International Journal of Computer Vision</it>&#32;<b>23</b>: 45-78.</cite>&nbsp;</entry>
+SUSAN - a new approach to low level image processing.</weblink>". <it>International Journal of Computer Vision</it>&#32;<b>23</b>: 45-78.</cite> </entry>
 <entry level="1" type="bullet">
 
 <it>S. M. Smith and J. M. Brady (January 1997), "Method for digitally processing images to determine the position of edges and/or corners therein for guidance of unmanned vehicle". UK Patent 2272285, Proprietor: Secretary of State for Defence, UK.''</it></entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">C. Tomasi and T. Kanade&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V14-49D6WH0-1&amp;_user=10&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=cecb6ab80d45107f1cedb17aa4b211fb">
-Detection and Tracking of Point Features</weblink>". <it>Pattern Recognition</it>.</cite>&nbsp;</entry>
+Detection and Tracking of Point Features</weblink>". <it>Pattern Recognition</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">R. Dinesh and D.S. Guru&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V09-3Y450Y2-8&amp;_coverDate=11%2F30%2F1995&amp;_alid=442214633&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_qd=1&amp;_cdi=5641&amp;_sort=d&amp;view=c&amp;_acct=C000057551&amp;_version=1&amp;_urlVersion=0&amp;_userid=2493154&amp;md5=b0979efc3df88572ec71d07e2e9f14da">
-Non-parametric adaptive region of support useful for corner detection: a novel approach</weblink>". <it>Pattern Recognition</it>.</cite>&nbsp;</entry>
+Non-parametric adaptive region of support useful for corner detection: a novel approach</weblink>". <it>Pattern Recognition</it>.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">M. Trajkovic and M. Hedley&#32;(1998).&#32;"Fast corner detection". <it>Image and Vision Computing</it>&#32;<b>16</b>: 75-87.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">M. Trajkovic and M. Hedley&#32;(1998).&#32;"Fast corner detection". <it>Image and Vision Computing</it>&#32;<b>16</b>: 75-87.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">H. Wang and M. Brady&#32;(1995).&#32;"<weblink xlink:type="simple" xlink:href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V09-3Y450Y2-8&amp;_coverDate=11%2F30%2F1995&amp;_alid=442214633&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_qd=1&amp;_cdi=5641&amp;_sort=d&amp;view=c&amp;_acct=C000057551&amp;_version=1&amp;_urlVersion=0&amp;_userid=2493154&amp;md5=b0979efc3df88572ec71d07e2e9f14da">
-Real-time corner detection algorithm for motion estimation.</weblink>". <it>Image and Vision Computing</it>&#32;<b>13</b>: 695-703.</cite>&nbsp;</entry>
+Real-time corner detection algorithm for motion estimation.</weblink>". <it>Image and Vision Computing</it>&#32;<b>13</b>: 695-703.</cite> </entry>
 </list>
 </p>
 

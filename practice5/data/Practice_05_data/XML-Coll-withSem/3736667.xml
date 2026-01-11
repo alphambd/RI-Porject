@@ -176,7 +176,7 @@ projected Newton barrier method</link> with a logarithmic <link xlink:type="simp
 barrier function</link>, if the parameters are chosen suitably.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref> Such methods were widely used for <link xlink:type="simple" xlink:href="../709/679709.xml">
 nonlinear programming</link> since the 1960s. In fact, one well-known book first published in 1968 described the technique specifically in the context of linear programming.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref> Nevertheless, the patent was eventually granted as <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4744026">
 U.S. Patent 4,744,026</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4744026">
-&nbsp;</weblink>: "Methods and apparatus for efficient resource allocation" in May 1988.  The patent, however, proved to be of limited commercial value to AT&amp;T.  They built up the <link>
+ </weblink>: "Methods and apparatus for efficient resource allocation" in May 1988.  The patent, however, proved to be of limited commercial value to AT&amp;T.  They built up the <link>
 KORBX</link> system, an 8-processor <link>
 Alliant</link> computer incorporating linear programming software using Karmarkar's algorithm, priced at US$8.9 million each, and unsurprisingly they only managed to sell two such systems.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%222%22])">2</ref> Opponents of software patents have further alleged that the patents ruined the positive interaction cycles that previously characterized the relationship between researchers in linear programming and industry, and specifically it isolated Karmarkar himself from the network of mathematical researchers in his field.
 <ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref></p>
@@ -194,10 +194,10 @@ The patent itself expired in 2005, and the algorithm is presently in the public 
 <list>
 <entry level="1" type="bullet">
 
- Ilan Adler, Narendra Karmarkar, Mauricio G.C. Resende and Geraldo Veiga (1989). "An Implementation of Karmarkar's Algorithm for Linear Programming".  <it>Mathematical Programming</it>, Vol 44, p. 297&ndash;335.</entry>
+ Ilan Adler, Narendra Karmarkar, Mauricio G.C. Resende and Geraldo Veiga (1989). "An Implementation of Karmarkar's Algorithm for Linear Programming".  <it>Mathematical Programming</it>, Vol 44, p. 297–335.</entry>
 <entry level="1" type="bullet">
 
- Narendra Karmarkar (1984). "A New Polynomial Time Algorithm for Linear Programming", <it>Combinatorica</it>, Vol 4, nr. 4, p. 373&ndash;395.</entry>
+ Narendra Karmarkar (1984). "A New Polynomial Time Algorithm for Linear Programming", <it>Combinatorica</it>, Vol 4, nr. 4, p. 373–395.</entry>
 </list>
 </p>
 
@@ -209,17 +209,17 @@ Kolata, Gina&#32;(1989-03-12).&#32;"<weblink xlink:type="simple" xlink:href="htt
 IDEAS &amp; TRENDS; Mathematicians Are Troubled by Claims on Their Recipes</weblink>", <it><newspaper wordnetid="106267145" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../680/30680.xml">
 The New York Times</link></newspaper>
-</it>.&nbsp;</entry>
+</it>. </entry>
 <entry id="2">
 <weblink xlink:type="simple" xlink:href="http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15850c-s96/www/interiorpoint.txt">
 Various posts by Matthew Saltzman, Clemson University</weblink></entry>
 <entry id="3">
  <cite style="font-style:normal">Gill, Philip E.; Murray, Walter, Saunders, Michael A., Tomlin, J. A. and Wright, Margaret H.&#32;(1986).&#32;"<weblink xlink:type="simple" xlink:href="http://www.springerlink.com/content/2781h35w87600923/">
-On projected Newton barrier methods for linear programming and an equivalence to Karmarkar’s projective method</weblink>". <it>Mathematical Programming</it>&#32;<b>36</b>&#32;(2): 183–209.</cite>&nbsp;</entry>
+On projected Newton barrier methods for linear programming and an equivalence to Karmarkar’s projective method</weblink>". <it>Mathematical Programming</it>&#32;<b>36</b>&#32;(2): 183–209.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal" class="book"><link>
 Anthony V. Fiacco</link>;&#32;<link>
-Garth P. McCormick</link>&#32;(1968). Nonlinear Programming: Sequential Unconstrained Minimization Techniques..&#32;New York:&#32;Wiley. ISBN 978-0-471-25810-0.</cite>&nbsp; Reprinted by <link xlink:type="simple" xlink:href="../886/26886.xml">
+Garth P. McCormick</link>&#32;(1968). Nonlinear Programming: Sequential Unconstrained Minimization Techniques..&#32;New York:&#32;Wiley. ISBN 978-0-471-25810-0.</cite>  Reprinted by <link xlink:type="simple" xlink:href="../886/26886.xml">
 SIAM</link> in 1990 as ISBN 978-0-898712-54-4.
 </entry>
 <entry id="5">

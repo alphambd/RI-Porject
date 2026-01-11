@@ -235,11 +235,11 @@ Michigan State University Newsroom - MSU board approves naming of Lyman Briggs C
 <entry id="2">
 Harbison, Sarah&#32;(2007-04-04).&#32;"<weblink xlink:type="simple" xlink:href="http://www.statenews.com/article.phtml?pk=40555">
 Lyman Briggs may go back to college status</weblink>", The State News.&#32;Retrieved on <link>
-2007-04-04</link>.&nbsp;</entry>
+2007-04-04</link>. </entry>
 <entry id="3">
 Harbison, Sarah&#32;(2007-04-13).&#32;"<weblink xlink:type="simple" xlink:href="http://www.statenews.com/article.phtml?pk=40722">
 Lyman Briggs School moves one step closer to college status</weblink>", The State News.&#32;Retrieved on <link>
-2007-04-20</link>.&nbsp;</entry>
+2007-04-20</link>. </entry>
 <entry id="4">
 Orlando, Jennifer. "<weblink xlink:type="simple" xlink:href="http://www.statenews.com/article.phtml?pk=41391">
 Name change</weblink>". <it>The State News</it>. June 18, 2007. Accessed June 21, 2007.</entry>
@@ -286,14 +286,14 @@ Academics</link></col>
 <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../996/325996.xml">
 Cyclotron</link></campus>
-&nbsp;• <artifact wordnetid="100021939" confidence="0.8">
+ • <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <arboretum wordnetid="102733075" confidence="0.8">
 <link xlink:type="simple" xlink:href="../693/1747693.xml">
 Hidden Lake Gardens</link></arboretum>
 </facility>
 </artifact>
-&nbsp;• <artifact wordnetid="100021939" confidence="0.8">
+ • <artifact wordnetid="100021939" confidence="0.8">
 <facility wordnetid="103315023" confidence="0.8">
 <depository wordnetid="103177349" confidence="0.8">
 <museum wordnetid="103800563" confidence="0.8">
@@ -302,11 +302,11 @@ Kellogg Biological Station</link></museum>
 </depository>
 </facility>
 </artifact>
-&nbsp;• <library wordnetid="103660909" confidence="0.9508927676800064">
+ • <library wordnetid="103660909" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../255/10761255.xml">
 Libraries</link></library>
-&nbsp;• <link xlink:type="simple" xlink:href="../303/3693303.xml">
-Life Sciences Corridor</link>&nbsp;• <firm wordnetid="108059870" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../303/3693303.xml">
+Life Sciences Corridor</link> • <firm wordnetid="108059870" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
 <business wordnetid="108061042" confidence="0.8">
 <publisher wordnetid="108062623" confidence="0.8">
@@ -315,7 +315,7 @@ MSU Press</link></publisher>
 </business>
 </enterprise>
 </firm>
-&nbsp;• <link xlink:type="simple" xlink:href="../702/1529702.xml">
+ • <link xlink:type="simple" xlink:href="../702/1529702.xml">
 SOAR Telescope</link></p>
 </col>
 </row>
@@ -343,7 +343,7 @@ Basketbowl</link></activity>
 </sport>
 </event>
 </diversion>
-&nbsp;• <environment wordnetid="113934596" confidence="0.8">
+ • <environment wordnetid="113934596" confidence="0.8">
 <diversion wordnetid="100426928" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
@@ -364,8 +364,8 @@ Breslin Center</link></activity>
 </event>
 </diversion>
 </environment>
-&nbsp;• <link xlink:type="simple" xlink:href="../074/6865074.xml">
-Championships</link>&nbsp;• <event wordnetid="100029378" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../074/6865074.xml">
+Championships</link> • <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -376,9 +376,9 @@ Clockgate</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-&nbsp;• <link xlink:type="simple" xlink:href="../903/5707903.xml">
-Cold War</link>&nbsp;• <link xlink:type="simple" xlink:href="../143/6157143.xml">
-Football</link>&nbsp;• <group_action wordnetid="101080366" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../903/5707903.xml">
+Cold War</link> • <link xlink:type="simple" xlink:href="../143/6157143.xml">
+Football</link> • <group_action wordnetid="101080366" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
@@ -395,8 +395,8 @@ Game of the Century</link></competition>
 </social_event>
 </event>
 </group_action>
-&nbsp;• <link xlink:type="simple" xlink:href="../202/12699202.xml">
-Hockey</link>&nbsp;• <trophy wordnetid="106709442" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../202/12699202.xml">
+Hockey</link> • <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
@@ -405,7 +405,7 @@ Land Grant Trophy</link></signal>
 </award>
 </symbol>
 </trophy>
-&nbsp;• <music wordnetid="107020895" confidence="0.8">
+ • <music wordnetid="107020895" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
@@ -416,7 +416,7 @@ Izzone</link></section>
 </written_communication>
 </auditory_communication>
 </music>
-&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -427,7 +427,7 @@ Jenison Fieldhouse</link></venue>
 </location>
 </area>
 </region>
-&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -438,7 +438,7 @@ Munn Ice Arena</link></venue>
 </location>
 </area>
 </region>
-&nbsp;• <trophy wordnetid="106709442" confidence="0.8">
+ • <trophy wordnetid="106709442" confidence="0.8">
 <symbol wordnetid="106806469" confidence="0.8">
 <award wordnetid="106696483" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
@@ -447,7 +447,7 @@ Paul Bunyan Trophy</link></signal>
 </award>
 </symbol>
 </trophy>
-&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <scene wordnetid="108645963" confidence="0.8">
@@ -458,7 +458,7 @@ Spartan Stadium</link></venue>
 </location>
 </area>
 </region>
-&nbsp;• <sculpture wordnetid="104157320" confidence="0.8">
+ • <sculpture wordnetid="104157320" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <figure wordnetid="113862780" confidence="0.8">
@@ -475,7 +475,7 @@ Sparty</link></solid_figure>
 </artifact>
 </creation>
 </sculpture>
-&nbsp;• <canine wordnetid="102083346" confidence="0.8">
+ • <canine wordnetid="102083346" confidence="0.8">
 <carnivore wordnetid="102075296" confidence="0.8">
 <chordate wordnetid="101466257" confidence="0.8">
 <domestic_animal wordnetid="101317541" confidence="0.8">
@@ -509,38 +509,38 @@ Campus</link></col>
 <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../902/2091902.xml">
 Beal Garden</link></campus>
-&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../222/2128222.xml">
 Beaumont Tower</link></campus>
-&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../768/3030768.xml">
 Cowles House</link></campus>
-&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../780/5966780.xml">
 Demonstration Hall</link></campus>
-&nbsp;• <village wordnetid="108672738" confidence="0.9508927676800064">
+ • <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../544/150544.xml">
 East Lansing</link></village>
-&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../918/3030918.xml">
 Eustace-Cole Hall</link></campus>
-&nbsp;• <artifact wordnetid="100021939" confidence="0.8">
+ • <artifact wordnetid="100021939" confidence="0.8">
 <way wordnetid="104564698" confidence="0.8">
 <road wordnetid="104096066" confidence="0.8">
 <link xlink:type="simple" xlink:href="../835/773835.xml">
 Grand River Ave.</link></road>
 </way>
 </artifact>
-&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../687/3319687.xml">
 Horticulture Gardens</link></campus>
-&nbsp;• <library wordnetid="103660909" confidence="0.9508927676800064">
+ • <library wordnetid="103660909" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../255/10761255.xml">
 Library</link></library>
-&nbsp;• <road wordnetid="104096066" confidence="0.9508927676800064">
+ • <road wordnetid="104096066" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../937/2108937.xml">
 Michigan Ave.</link></road>
-&nbsp;• <structure wordnetid="104341686" confidence="0.8">
+ • <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <observatory wordnetid="103839671" confidence="0.8">
@@ -549,7 +549,7 @@ Observatory</link></observatory>
 </artifact>
 </building>
 </structure>
-&nbsp;• <region wordnetid="108630985" confidence="0.8">
+ • <region wordnetid="108630985" confidence="0.8">
 <center wordnetid="108523483" confidence="0.8">
 <environment wordnetid="113934596" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
@@ -566,17 +566,17 @@ Pavilion</link></situation>
 </environment>
 </center>
 </region>
-&nbsp;• <stream wordnetid="109448361" confidence="0.8">
+ • <stream wordnetid="109448361" confidence="0.8">
 <body_of_water wordnetid="109225146" confidence="0.8">
 <river wordnetid="109411430" confidence="0.8">
 <link xlink:type="simple" xlink:href="../779/478779.xml">
 Red Cedar River</link></river>
 </body_of_water>
 </stream>
-&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../087/2435087.xml">
 The Rock</link></campus>
-&nbsp;• <structure wordnetid="104341686" confidence="0.8">
+ • <structure wordnetid="104341686" confidence="0.8">
 <building wordnetid="102913152" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <hall wordnetid="103478907" confidence="0.8">
@@ -608,32 +608,32 @@ Colleges</link></university>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../305/3961305.xml">
 Eli Broad</link></university>
-&nbsp;• <link>
-Engineering</link>&nbsp;• <link xlink:type="simple" xlink:href="../075/3902075.xml">
-Honors College</link>&nbsp;• <university wordnetid="108286163" confidence="0.9508927676800064">
+ • <link>
+Engineering</link> • <link xlink:type="simple" xlink:href="../075/3902075.xml">
+Honors College</link> • <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../786/7353786.xml">
 Hospitality Business</link></university>
-&nbsp;• <school wordnetid="108276720" confidence="0.8">
+ • <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../661/5425661.xml">
 Human Medicine</link></institution>
 </educational_institution>
 </school>
-&nbsp;• <school wordnetid="108276720" confidence="0.8">
+ • <school wordnetid="108276720" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../963/3898963.xml">
 James Madison</link></institution>
 </educational_institution>
 </school>
-&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../280/729280.xml">
 Law</link></campus>
-&nbsp;• <link xlink:type="simple" xlink:href="../941/3611941.xml">
-Lyman Briggs</link>&nbsp;• <link xlink:type="simple" xlink:href="../469/16401469.xml">
-Natural Science</link>&nbsp;• <link xlink:type="simple" xlink:href="../043/6256043.xml">
-RCAH</link>&nbsp;• <body wordnetid="107965085" confidence="0.8">
+ • <link xlink:type="simple" xlink:href="../941/3611941.xml">
+Lyman Briggs</link> • <link xlink:type="simple" xlink:href="../469/16401469.xml">
+Natural Science</link> • <link xlink:type="simple" xlink:href="../043/6256043.xml">
+RCAH</link> • <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <college wordnetid="108278169" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -657,7 +657,7 @@ History</link></col>
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../520/8124520.xml">
 Walter Adams</link></person>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <biologist wordnetid="109855630" confidence="0.8">
 <botanist wordnetid="109868270" confidence="0.8">
@@ -670,10 +670,10 @@ William J. Beal</link></scientist>
 </biologist>
 </person>
 </physical_entity>
-&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../854/2110854.xml">
 College Hall</link></campus>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
 <alumnus wordnetid="109786338" confidence="0.8">
@@ -686,10 +686,10 @@ John A. Hannah</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&nbsp;• <person wordnetid="100007846" confidence="0.9638700866880419">
+ • <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../692/8033692.xml">
 John C. Holmes</link></person>
-&nbsp;• <computer wordnetid="103082979" confidence="0.8">
+ • <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -700,11 +700,11 @@ MISTIC</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;• <link xlink:type="simple" xlink:href="../995/16589995.xml">
-MSUG</link>&nbsp;• <campus wordnetid="108518374" confidence="0.9508927676800064">
+ • <link xlink:type="simple" xlink:href="../995/16589995.xml">
+MSUG</link> • <campus wordnetid="108518374" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../699/2004699.xml">
 Saints' Rest</link></campus>
-&nbsp;• <skilled_worker wordnetid="110605985" confidence="0.8">
+ • <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <republican wordnetid="110522495" confidence="0.8">
@@ -778,7 +778,7 @@ Rick Comley</link></trainer>
 </player>
 </person>
 </physical_entity>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -795,7 +795,7 @@ Mark Dantonio</link></trainer>
 </player>
 </person>
 </physical_entity>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
 <alumnus wordnetid="109786338" confidence="0.8">
@@ -808,7 +808,7 @@ Mark Hollis</link></scholar>
 </intellectual>
 </person>
 </physical_entity>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -831,7 +831,7 @@ Tom Izzo</link></trainer>
 </player>
 </person>
 </physical_entity>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <player wordnetid="110439851" confidence="0.8">
 <contestant wordnetid="109613191" confidence="0.8">
@@ -860,7 +860,7 @@ Ron Mason</link></scholar>
 </player>
 </person>
 </physical_entity>
-&nbsp;• <physical_entity wordnetid="100001930" confidence="0.8">
+ • <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
 <alumnus wordnetid="109786338" confidence="0.8">
@@ -888,7 +888,7 @@ Student Life</link></university>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd"><p>
 
 <link xlink:type="simple" xlink:href="../430/4797430.xml">
-Capital News Service</link>&nbsp;• <music wordnetid="107020895" confidence="0.8">
+Capital News Service</link> • <music wordnetid="107020895" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
 <musical_composition wordnetid="107037465" confidence="0.8">
@@ -897,16 +897,16 @@ MSU Fight Song</link></musical_composition>
 </auditory_communication>
 </song>
 </music>
-&nbsp;• <link xlink:type="simple" xlink:href="../244/10885244.xml">
-Housing</link>&nbsp;• <link xlink:type="simple" xlink:href="../599/4251599.xml">
-Spartan Marching Band</link>&nbsp;• <link xlink:type="simple" xlink:href="../157/4025157.xml">
-The State News</link>&nbsp;• <radio_station wordnetid="104044119" confidence="0.9508927676800064">
+ • <link xlink:type="simple" xlink:href="../244/10885244.xml">
+Housing</link> • <link xlink:type="simple" xlink:href="../599/4251599.xml">
+Spartan Marching Band</link> • <link xlink:type="simple" xlink:href="../157/4025157.xml">
+The State News</link> • <radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../561/2971561.xml">
 WDBM</link></radio_station>
-&nbsp;• <channel wordnetid="106259898" confidence="0.9508927676800064">
+ • <channel wordnetid="106259898" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../065/8272065.xml">
 MSU Telecasters</link></channel>
-&nbsp;• WKAR (<radio_station wordnetid="104044119" confidence="0.9508927676800064">
+ • WKAR (<radio_station wordnetid="104044119" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../543/9686543.xml">
 AM</link></radio_station>
 /<radio_station wordnetid="104044119" confidence="0.9508927676800064">

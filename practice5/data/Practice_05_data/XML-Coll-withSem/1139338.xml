@@ -365,7 +365,7 @@ The following examples illustrate that a function may be computable though it is
 <entry level="1" type="bullet">
 
  Each finite segment of an <it>in</it>computable sequence of natural numbers (such as the <link>
-Busy Beaver function</link> <it>Σ</it>) is computable.  E.g., for each natural number <it>n</it>, there exists an algorithm that computes the finite sequence <it>Σ(0), Σ(1), Σ(2), ..., Σ(n)</it> &mdash; in contrast to the fact that there is no algorithm that computes the <it>entire</it> Σ-sequence, i.e. <it>Σ(n)</it> for all <it>n</it>.</entry>
+Busy Beaver function</link> <it>Σ</it>) is computable.  E.g., for each natural number <it>n</it>, there exists an algorithm that computes the finite sequence <it>Σ(0), Σ(1), Σ(2), ..., Σ(n)</it> — in contrast to the fact that there is no algorithm that computes the <it>entire</it> Σ-sequence, i.e. <it>Σ(n)</it> for all <it>n</it>.</entry>
 </list>
 </p>
 
@@ -508,7 +508,7 @@ Super-recursive algorithm</link></entry>
 <list>
 <entry level="1" type="bullet">
 
-Enderton, H.B. Elements of recursion theory.  <it>Handbook of Mathematical Logic</it> (North-Holland 1977) pp. 527&ndash;566.</entry>
+Enderton, H.B. Elements of recursion theory.  <it>Handbook of Mathematical Logic</it> (North-Holland 1977) pp. 527–566.</entry>
 </list>
 </p>
 <p>

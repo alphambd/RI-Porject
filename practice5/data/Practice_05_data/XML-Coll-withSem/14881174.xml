@@ -55,11 +55,11 @@ REXO4</weblink>; XPMC2; XPMC2H</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=602930">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=602930">
 602930</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2684957">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:2684957">
 2684957</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=1660">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=1660">
 1660</weblink></col>
 </row>
 
@@ -227,7 +227,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fgeno.1997.4874">
-10.1006/geno.1997.4874</weblink>. PMID 9325058.</cite>&nbsp;</entry>
+10.1006/geno.1997.4874</weblink>. PMID 9325058.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Montano MM, Wittmann BM, Bianco NR&#32;(2000).&#32;"Identification and characterization of a novel factor that regulates quinone reductase gene transcriptional activity.". <it>J. Biol. Chem.</it>&#32;<b>275</b>&#32;(44): 34306–13. <document wordnetid="106470073" confidence="0.8">
@@ -238,10 +238,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1074%2Fjbc.M003880200">
-10.1074/jbc.M003880200</weblink>. PMID 10908561.</cite>&nbsp;</entry>
+10.1074/jbc.M003880200</weblink>. PMID 10908561.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Hartley JL, Temple GF, Brasch MA&#32;(2001).&#32;"DNA cloning using in vitro site-specific recombination.". <it>Genome Res.</it>&#32;<b>10</b>&#32;(11): 1788–95. PMID 11076863.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Hartley JL, Temple GF, Brasch MA&#32;(2001).&#32;"DNA cloning using in vitro site-specific recombination.". <it>Genome Res.</it>&#32;<b>10</b>&#32;(11): 1788–95. PMID 11076863.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Wiemann S, Weil B, Wellenreuther R, et al.&#32;(2001).&#32;"Toward a catalog of human genes and proteins: sequencing and analysis of 500 novel complete protein coding human cDNAs.". <it>Genome Res.</it>&#32;<b>11</b>&#32;(3): 422–35. <document wordnetid="106470073" confidence="0.8">
@@ -252,7 +252,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.154701">
-10.1101/gr.154701</weblink>. PMID 11230166.</cite>&nbsp;</entry>
+10.1101/gr.154701</weblink>. PMID 11230166.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Simpson JC, Wellenreuther R, Poustka A, et al.&#32;(2001).&#32;"Systematic subcellular localization of novel proteins identified by large-scale cDNA sequencing.". <it>EMBO Rep.</it>&#32;<b>1</b>&#32;(3): 287–92. <document wordnetid="106470073" confidence="0.8">
@@ -263,7 +263,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fembo-reports%2Fkvd058">
-10.1093/embo-reports/kvd058</weblink>. PMID 11256614.</cite>&nbsp;</entry>
+10.1093/embo-reports/kvd058</weblink>. PMID 11256614.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Scherl A, Couté Y, Déon C, et al.&#32;(2003).&#32;"Functional proteomic analysis of human nucleolus.". <it>Mol. Biol. Cell</it>&#32;<b>13</b>&#32;(11): 4100–9. <document wordnetid="106470073" confidence="0.8">
@@ -274,7 +274,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1091%2Fmbc.E02-05-0271">
-10.1091/mbc.E02-05-0271</weblink>. PMID 12429849.</cite>&nbsp;</entry>
+10.1091/mbc.E02-05-0271</weblink>. PMID 12429849.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -285,7 +285,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Ota T, Suzuki Y, Nishikawa T, et al.&#32;(2004).&#32;"Complete sequencing and characterization of 21,243 full-length human cDNAs.". <it>Nat. Genet.</it>&#32;<b>36</b>&#32;(1): 40–5. <document wordnetid="106470073" confidence="0.8">
@@ -296,7 +296,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fng1285">
-10.1038/ng1285</weblink>. PMID 14702039.</cite>&nbsp;</entry>
+10.1038/ng1285</weblink>. PMID 14702039.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Humphray SJ, Oliver K, Hunt AR, et al.&#32;(2004).&#32;"DNA sequence and analysis of human chromosome 9.". <it>Nature</it>&#32;<b>429</b>&#32;(6990): 369–74. <document wordnetid="106470073" confidence="0.8">
@@ -307,7 +307,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature02465">
-10.1038/nature02465</weblink>. PMID 15164053.</cite>&nbsp;</entry>
+10.1038/nature02465</weblink>. PMID 15164053.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Gerhard DS, Wagner L, Feingold EA, et al.&#32;(2004).&#32;"The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).". <it>Genome Res.</it>&#32;<b>14</b>&#32;(10B): 2121–7. <document wordnetid="106470073" confidence="0.8">
@@ -318,7 +318,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2596504">
-10.1101/gr.2596504</weblink>. PMID 15489334.</cite>&nbsp;</entry>
+10.1101/gr.2596504</weblink>. PMID 15489334.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Wiemann S, Arlt D, Huber W, et al.&#32;(2004).&#32;"From ORFeome to biology: a functional genomics pipeline.". <it>Genome Res.</it>&#32;<b>14</b>&#32;(10B): 2136–44. <document wordnetid="106470073" confidence="0.8">
@@ -329,7 +329,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.2576704">
-10.1101/gr.2576704</weblink>. PMID 15489336.</cite>&nbsp;</entry>
+10.1101/gr.2576704</weblink>. PMID 15489336.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Rual JF, Venkatesan K, Hao T, et al.&#32;(2005).&#32;"Towards a proteome-scale map of the human protein-protein interaction network.". <it>Nature</it>&#32;<b>437</b>&#32;(7062): 1173–8. <document wordnetid="106470073" confidence="0.8">
@@ -340,7 +340,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature04209">
-10.1038/nature04209</weblink>. PMID 16189514.</cite>&nbsp;</entry>
+10.1038/nature04209</weblink>. PMID 16189514.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Mehrle A, Rosenfelder H, Schupp I, et al.&#32;(2006).&#32;"The LIFEdb database in 2006.". <it>Nucleic Acids Res.</it>&#32;<b>34</b>&#32;(Database issue): D415–8. <document wordnetid="106470073" confidence="0.8">
@@ -351,7 +351,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fnar%2Fgkj139">
-10.1093/nar/gkj139</weblink>. PMID 16381901.</cite>&nbsp;</entry>
+10.1093/nar/gkj139</weblink>. PMID 16381901.</cite> </entry>
 </list>
 </p>
 

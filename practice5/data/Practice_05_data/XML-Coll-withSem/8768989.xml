@@ -642,13 +642,13 @@ PlayStation</link></console_table>
 </furnishing>
 </instrumentality>
 </artifact>
-&nbsp;·  <system wordnetid="104377057" confidence="0.9508927676800064">
+ ·  <system wordnetid="104377057" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../958/15822958.xml">
 PlayStation 2</link></system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.9508927676800064">
+ ·  <system wordnetid="104377057" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../086/19555086.xml">
 PSX</link></system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.9508927676800064">
+ ·  <system wordnetid="104377057" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../951/24951.xml">
 PlayStation 3</link></system>
 </col>
@@ -670,11 +670,11 @@ Handhelds</link></instrumentality>
 <system wordnetid="104377057" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../165/1654165.xml">
 PocketStation</link></system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.9508927676800064">
+ ·  <system wordnetid="104377057" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../009/619009.xml">
 PlayStation Portable</link></system>
  (<link xlink:type="simple" xlink:href="../916/12294916.xml">
-Slim and Lite</link>&nbsp;·  <link xlink:type="simple" xlink:href="../806/18951806.xml">
+Slim and Lite</link> ·  <link xlink:type="simple" xlink:href="../806/18951806.xml">
 PSP-3000</link>)</col>
 </row>
 <row style="height:2px">
@@ -692,7 +692,7 @@ Arcade boards</link></col>
 System 11</link></board>
 </committee>
 </administrative_unit>
-&nbsp;·  <administrative_unit wordnetid="108077292" confidence="0.8">
+ ·  <administrative_unit wordnetid="108077292" confidence="0.8">
 <committee wordnetid="108324514" confidence="0.8">
 <board wordnetid="108322981" confidence="0.8">
 <link xlink:type="simple" xlink:href="../091/8725091.xml">
@@ -710,13 +710,13 @@ Games</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../715/485715.xml">
 PlayStation Games</link> (<link xlink:type="simple" xlink:href="../235/18037235.xml">
-PSOne Classics</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../931/485931.xml">
-PlayStation 2 Games</link>&nbsp;·  <link xlink:type="simple" xlink:href="../691/848691.xml">
-PlayStation 3 Games</link>&nbsp;·  <link xlink:type="simple" xlink:href="../115/846115.xml">
-PSP Games</link>&nbsp;·  <link xlink:type="simple" xlink:href="../845/8304845.xml">
+PSOne Classics</link>) ·  <link xlink:type="simple" xlink:href="../931/485931.xml">
+PlayStation 2 Games</link> ·  <link xlink:type="simple" xlink:href="../691/848691.xml">
+PlayStation 3 Games</link> ·  <link xlink:type="simple" xlink:href="../115/846115.xml">
+PSP Games</link> ·  <link xlink:type="simple" xlink:href="../845/8304845.xml">
 PlayStation Network Games</link><link xlink:type="simple" xlink:href="../337/2137337.xml">
-Greatest Hits</link>&nbsp;·  <link xlink:type="simple" xlink:href="../116/661116.xml">
-Platinum</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+Greatest Hits</link> ·  <link xlink:type="simple" xlink:href="../116/661116.xml">
+Platinum</link> ·  <event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -742,18 +742,18 @@ Online Services</link></system>
 <service wordnetid="100577525" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../254/4423254.xml">
 PlayStation Network</link></service>
-&nbsp;·  <service wordnetid="100577525" confidence="0.9508927676800064">
+ ·  <service wordnetid="100577525" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../860/9783860.xml">
 PlayStation Store</link></service>
-&nbsp;·  <service wordnetid="100577525" confidence="0.9508927676800064">
+ ·  <service wordnetid="100577525" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../619/9809619.xml">
 PlayStation Home</link></service>
-&nbsp;·  <service wordnetid="100577525" confidence="0.9508927676800064">
+ ·  <service wordnetid="100577525" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../189/17765189.xml">
 Qore</link></service>
-&nbsp;· <link>
-PlayStation 3 Trophies</link>&nbsp;· <link xlink:type="simple" xlink:href="../948/18965948.xml">
-VidZone</link>&nbsp;·  <link>
+ · <link>
+PlayStation 3 Trophies</link> · <link xlink:type="simple" xlink:href="../948/18965948.xml">
+VidZone</link> ·  <link>
 Life with PlayStation</link></col>
 </row>
 <row style="height:2px">
@@ -786,7 +786,7 @@ Analog Joystick</link></electronic_equipment>
 </artifact>
 </person>
 </physical_entity>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -809,7 +809,7 @@ Dual Analog</link></electronic_equipment>
 </artifact>
 </person>
 </physical_entity>
-&nbsp;·   <artifact wordnetid="100021939" confidence="0.8">
+ ·   <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <peripheral wordnetid="103916720" confidence="0.8">
 <equipment wordnetid="103294048" confidence="0.8">
@@ -820,7 +820,7 @@ DualShock</link></electronic_equipment>
 </peripheral>
 </instrumentality>
 </artifact>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -867,7 +867,7 @@ EyeToy</link></electronic_equipment>
 </camera>
 </instrumentality>
 </artifact>
-&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+ ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <camera wordnetid="102942699" confidence="0.8">
 <peripheral wordnetid="103916720" confidence="0.8">
@@ -882,7 +882,7 @@ PlayStation Eye</link></electronic_equipment>
 </camera>
 </instrumentality>
 </artifact>
-&nbsp;·  <link xlink:type="simple" xlink:href="../244/8120244.xml">
+ ·  <link xlink:type="simple" xlink:href="../244/8120244.xml">
 Go!Cam</link></col>
 </row>
 <row style="height:2px">
@@ -893,11 +893,11 @@ Go!Cam</link></col>
 Kits</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../463/616463.xml">
-Net Yaroze</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+Net Yaroze</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../189/1627189.xml">
 Linux for PS2</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../989/8768989.xml">
-Linux for PS3</link>&nbsp;·  <system wordnetid="104377057" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../989/8768989.xml">
+Linux for PS3</link> ·  <system wordnetid="104377057" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../359/12139359.xml">
 PlayTV</link></system>
 </col>
@@ -910,8 +910,8 @@ PlayTV</link></system>
 System Software</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../933/11732933.xml">
-PS3</link>&nbsp;·  <link xlink:type="simple" xlink:href="../935/11917935.xml">
-PSP</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+PS3</link> ·  <link xlink:type="simple" xlink:href="../935/11917935.xml">
+PSP</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <merchandise wordnetid="103748886" confidence="0.8">
 <commodity wordnetid="103076708" confidence="0.8">
 <link xlink:type="simple" xlink:href="../703/3729703.xml">
@@ -927,13 +927,13 @@ XrossMediaBar</link></commodity>
 <col style=";;" class="navbox-group">
 Media</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
-&nbsp;·  <it><magazine wordnetid="106595351" confidence="0.9508927676800064">
+ ·  <it><magazine wordnetid="106595351" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../282/7613282.xml">
 PSM3</link></magazine>
-</it>&nbsp;·  <it><newspaper wordnetid="106267145" confidence="0.9508927676800064">
+</it> ·  <it><newspaper wordnetid="106267145" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../230/3423230.xml">
 Official PlayStation Magazine</link></newspaper>
-</it>&nbsp;·  <it><link xlink:type="simple" xlink:href="../599/9977599.xml">
+</it> ·  <it><link xlink:type="simple" xlink:href="../599/9977599.xml">
 PlayStation Official Magazine (UK)</link>''</it></col>
 </row>
 </table>
@@ -965,48 +965,48 @@ Linux distribution</link>s</header>
 Arch Linux</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../890/998890.xml">
 CentOS</link></O>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../242/8242.xml">
 Debian</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../070/9951070.xml">
 Fedora</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../419/94419.xml">
 Gentoo</link></O>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../368/19368.xml">
 Mandriva Linux</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../778/556778.xml">
 Red Hat Enterprise Linux</link></O>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <arrangement wordnetid="105726596" confidence="0.8">
 <distribution wordnetid="105729036" confidence="0.8">
 <link xlink:type="simple" xlink:href="../290/28290.xml">
 Slackware</link></distribution>
 </arrangement>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../875/7612875.xml">
-SUSE</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../875/7612875.xml">
+SUSE</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../298/990298.xml">
 Ubuntu</link></O>
-&nbsp;·  <it><link xlink:type="simple" xlink:href="../709/620709.xml">
+ ·  <it><link xlink:type="simple" xlink:href="../709/620709.xml">
 more…</link>''</it></col>
 </row>
 </table>

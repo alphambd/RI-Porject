@@ -45,7 +45,7 @@ Norman Kwong</link></governor>
 <Flower>
 <image width="24px" src="Wildrose-drawing.png">
 </image>
-&nbsp;&nbsp;<symbol wordnetid="106806469" confidence="0.8">
+  <symbol wordnetid="106806469" confidence="0.8">
 <signal wordnetid="106791372" confidence="0.8">
 <link xlink:type="simple" xlink:href="../400/8157400.xml">
 Wild rose</link></signal>
@@ -66,7 +66,7 @@ T</link></PostalCodePrefix>
 <Fullname>
 Province of Alberta</Fullname>
 <GDP_total>
-C$259.941&nbsp;billion<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2236%22])">36</ref></GDP_total>
+C$259.941 billion<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2236%22])">36</ref></GDP_total>
 <Tree>
 <link xlink:type="simple" xlink:href="../717/507717.xml">
 Lodgepole Pine</link></Tree>
@@ -366,7 +366,7 @@ Mount Alberta</link></mountain>
 Geography of Alberta</link></it>
 </indent>
 Alberta is located in <link xlink:type="simple" xlink:href="../100/519100.xml">
-western Canada</link> and covers an area of 661,848&nbsp;square kilometres (255,541&nbsp;sq&nbsp;mi), an area about 5% smaller than <physical_entity wordnetid="100001930" confidence="0.8">
+western Canada</link> and covers an area of 661,848 square kilometres (255,541 sq mi), an area about 5% smaller than <physical_entity wordnetid="100001930" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
 <link xlink:type="simple" xlink:href="../810/29810.xml">
 Texas</link></causal_agent>
@@ -460,8 +460,8 @@ Rocky Mountains</link></geological_formation>
 continental divide</link> in a generally southeasterly direction until it reaches the Montana border at 49°N.</p>
 <p>
 
-The province extends 1,223&nbsp;kilometres (760&nbsp;mi) north to south and 660&nbsp;kilometres (410&nbsp;mi) east to west at its maximum width. Its highest point is 3,747&nbsp;metres (12,290&nbsp;ft) at the summit of <link xlink:type="simple" xlink:href="../336/629336.xml">
-Mount Columbia</link> in the Rocky Mountains along the southwest border, while its lowest point is 152&nbsp;metres (500&nbsp;ft) on the <river wordnetid="109411430" confidence="0.9508927676800064">
+The province extends 1,223 kilometres (760 mi) north to south and 660 kilometres (410 mi) east to west at its maximum width. Its highest point is 3,747 metres (12,290 ft) at the summit of <link xlink:type="simple" xlink:href="../336/629336.xml">
+Mount Columbia</link> in the Rocky Mountains along the southwest border, while its lowest point is 152 metres (500 ft) on the <river wordnetid="109411430" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../978/1302978.xml">
 Slave River</link></river>
  in <area wordnetid="108497294" confidence="0.9508927676800064">
@@ -477,23 +477,23 @@ lakes</link> used for <link xlink:type="simple" xlink:href="../999/27999.xml">
 swimming</link>, <link xlink:type="simple" xlink:href="../985/38985.xml">
 water skiing</link>, <link xlink:type="simple" xlink:href="../581/36581.xml">
 fishing</link> and a full range of other <link xlink:type="simple" xlink:href="../262/368262.xml">
-water sports</link>. There are three large lakes and a multitude of smaller lakes less than 260&nbsp;km² each. Part of <lake wordnetid="109328904" confidence="0.9508927676800064">
+water sports</link>. There are three large lakes and a multitude of smaller lakes less than 260 km² each. Part of <lake wordnetid="109328904" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../227/406227.xml">
 Lake Athabasca</link></lake>
- (&amp;-1000000000007898.0000007,898&nbsp;km²) lies in the province of Saskatchewan. <link xlink:type="simple" xlink:href="../729/1888729.xml">
-Lake Claire</link> (&amp;-1000000000001436.0000001,436&nbsp;km²) lies just west of Lake Athabasca in <area wordnetid="108497294" confidence="0.9508927676800064">
+ (&amp;-1000000000007898.0000007,898 km²) lies in the province of Saskatchewan. <link xlink:type="simple" xlink:href="../729/1888729.xml">
+Lake Claire</link> (&amp;-1000000000001436.0000001,436 km²) lies just west of Lake Athabasca in <area wordnetid="108497294" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../817/448817.xml">
 Wood Buffalo National Park</link></area>
 . <lake wordnetid="109328904" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../500/939500.xml">
 Lesser Slave Lake</link></lake>
- (&amp;-1000000000001168.0000001,168&nbsp;km²) is northwest of <village wordnetid="108672738" confidence="0.9508927676800064">
+ (&amp;-1000000000001168.0000001,168 km²) is northwest of <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/95405.xml">
 Edmonton</link></village>
 . The longest river in Alberta is the <river wordnetid="109411430" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../748/247748.xml">
 Athabasca River</link></river>
- which travels 1,538&nbsp;kilometres (956&nbsp;mi) from the <link xlink:type="simple" xlink:href="../933/785933.xml">
+ which travels 1,538 kilometres (956 mi) from the <link xlink:type="simple" xlink:href="../933/785933.xml">
 Columbia Icefield</link> in the Rocky Mountains to Lake Athabasca.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%224%22])">4</ref></p>
 <p>
 
@@ -508,7 +508,7 @@ refinery</link> capacity located nearby, in close proximity to most of Canada's 
 oil field</link>s. Edmonton is the most northerly major city in Canada, and serves as a gateway and hub for resource development in northern Canada. Alberta's other major city, <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../358/15895358.xml">
 Calgary</link></village>
-, is located approximately 280&nbsp;kilometres (170&nbsp;mi) south of Edmonton and 240&nbsp;kilometres (150&nbsp;mi) north of Montana, surrounding by extensive <link xlink:type="simple" xlink:href="../641/3160641.xml">
+, is located approximately 280 kilometres (170 mi) south of Edmonton and 240 kilometres (150 mi) north of Montana, surrounding by extensive <link xlink:type="simple" xlink:href="../641/3160641.xml">
 ranching</link> country. Almost 75% of the province's population lives in the <region wordnetid="108630985" confidence="0.8">
 <area wordnetid="108497294" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
@@ -571,21 +571,21 @@ Climate</st>
 <p>
 
 Alberta has a dry <link xlink:type="simple" xlink:href="../613/249613.xml">
-continental climate</link> with warm summers and cold winters. The province is open to cold arctic weather systems from the north, which often produce extremely cold conditions in winter. As the fronts between the air masses shift north and south across Alberta, temperature can change rapidly. Arctic air masses in the winter produce extreme minimum temperatures varying from −54&nbsp;°C (−70&nbsp;°F) in northern Alberta to −46&nbsp;°C (−50&nbsp;°F) in southern Alberta. In the summer, continental air masses produce maximum temperatures from 32&nbsp;°C (90&nbsp;°F) in the mountains to 40&nbsp;°C (104&nbsp;°F) in southern Alberta.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%226%22])">6</ref></p>
+continental climate</link> with warm summers and cold winters. The province is open to cold arctic weather systems from the north, which often produce extremely cold conditions in winter. As the fronts between the air masses shift north and south across Alberta, temperature can change rapidly. Arctic air masses in the winter produce extreme minimum temperatures varying from −54 °C (−70 °F) in northern Alberta to −46 °C (−50 °F) in southern Alberta. In the summer, continental air masses produce maximum temperatures from 32 °C (90 °F) in the mountains to 40 °C (104 °F) in southern Alberta.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%226%22])">6</ref></p>
 <p>
 
-Because Alberta extends for over 1,200&nbsp;kilometres (750&nbsp;mi) from north to south, it is natural that its climate should vary considerably. Average temperatures in January range from −8&nbsp;°C (20&nbsp;°F) in the south to −24&nbsp;°C (−10&nbsp;°F) in the north, and in July from 20&nbsp;°C (68&nbsp;°F) in the south to 16&nbsp;°C (61&nbsp;°F) in the north.  The climate is also influenced by the presence of the Rocky Mountains to the southwest, which disrupt the flow of the <link xlink:type="simple" xlink:href="../501/786501.xml">
+Because Alberta extends for over 1,200 kilometres (750 mi) from north to south, it is natural that its climate should vary considerably. Average temperatures in January range from −8 °C (20 °F) in the south to −24 °C (−10 °F) in the north, and in July from 20 °C (68 °F) in the south to 16 °C (61 °F) in the north.  The climate is also influenced by the presence of the Rocky Mountains to the southwest, which disrupt the flow of the <link xlink:type="simple" xlink:href="../501/786501.xml">
 prevailing westerly winds</link> and cause them to drop most of their moisture on the western slopes of the mountain ranges before reaching the province, casting a <link xlink:type="simple" xlink:href="../426/426426.xml">
 rain shadow</link> over much of Alberta. The northerly location and isolation from the weather systems of the <link xlink:type="simple" xlink:href="../070/23070.xml">
-Pacific Ocean</link> cause Alberta to have a dry climate with little moderation from the ocean. Annual precipitation ranges from 300&nbsp;millimetres (12&nbsp;in) in the southeast to 450&nbsp;millimetres (18&nbsp;in) in the north, except in the foothills of the Rocky Mountains where rainfall can reach 600&nbsp;millimetres (24&nbsp;in) annually.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref>
-In the summer, the average daytime temperatures range from around 21&nbsp;°C (70&nbsp;°F) in the Rocky Mountain valleys and far north to near 30&nbsp;°C (86&nbsp;°F) in the dry prairie of the southeast. The northern and western parts of the province experience higher rainfall and lower evaporation rates caused by cooler summer temperatures. The south and east-central portions are prone to drought-like conditions sometimes persisting for several years, although even these areas can receive heavy precipitation. 
+Pacific Ocean</link> cause Alberta to have a dry climate with little moderation from the ocean. Annual precipitation ranges from 300 millimetres (12 in) in the southeast to 450 millimetres (18 in) in the north, except in the foothills of the Rocky Mountains where rainfall can reach 600 millimetres (24 in) annually.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref>
+In the summer, the average daytime temperatures range from around 21 °C (70 °F) in the Rocky Mountain valleys and far north to near 30 °C (86 °F) in the dry prairie of the southeast. The northern and western parts of the province experience higher rainfall and lower evaporation rates caused by cooler summer temperatures. The south and east-central portions are prone to drought-like conditions sometimes persisting for several years, although even these areas can receive heavy precipitation. 
 Alberta is a sunny province. Annual bright sunshine totals range between 1900 and 2500 hours per year. Northern Alberta receives about 18 hours of daylight in the summer.
 The long summer days make summer the sunniest season of the year in Alberta.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%226%22])">6</ref></p>
 <p>
 
 In southwestern Alberta, the winter cold is frequently interrupted by warm, dry <link xlink:type="simple" xlink:href="../760/529760.xml">
 chinook winds</link> blowing from the mountains, which can propel temperatures upward from frigid conditions to well above the freezing point in a very short period of time. During one chinook recorded at <link xlink:type="simple" xlink:href="../638/439638.xml">
-Pincher Creek</link>, temperatures soared from −18.9&nbsp;°C (−0&nbsp;°F) to 3.3&nbsp;°C (40&nbsp;°F) in one hour.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref>  The region around <village wordnetid="108672738" confidence="0.9508927676800064">
+Pincher Creek</link>, temperatures soared from −18.9 °C (−0 °F) to 3.3 °C (40 °F) in one hour.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%223%22])">3</ref>  The region around <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../349/293349.xml">
 Lethbridge</link></village>
  has the most chinooks, averaging 30 to 35 chinook days per year, while <village wordnetid="108672738" confidence="0.9508927676800064">
@@ -1218,11 +1218,11 @@ Athabasca Oil Sands</link></soil>
  (sometimes known as the Athabasca <link xlink:type="simple" xlink:href="../368/299368.xml">
 Tar sands</link>) have estimated <link xlink:type="simple" xlink:href="../235/1252235.xml">
 non-conventional oil</link> reserves approximately equal to the <link xlink:type="simple" xlink:href="../195/23195.xml">
-conventional oil</link> reserves of the rest of the world, estimated to be 1.6 trillion barrels (254&nbsp;km³). With the development of new extraction methods such as <link xlink:type="simple" xlink:href="../415/4680415.xml">
+conventional oil</link> reserves of the rest of the world, estimated to be 1.6 trillion barrels (254 km³). With the development of new extraction methods such as <link xlink:type="simple" xlink:href="../415/4680415.xml">
 steam assisted gravity drainage</link>, which was developed in Alberta, bitumen and synthetic crude oil can be produced at costs close to those of conventional crude. Many companies employ both conventional <link xlink:type="simple" xlink:href="../997/1702997.xml">
 strip mining</link> and non-conventional <link xlink:type="simple" xlink:href="../978/379978.xml">
 in situ</link> methods to extract the <link xlink:type="simple" xlink:href="../215/44215.xml">
-bitumen</link> from the oil sands. With current technology and at current prices, about 315 billion barrels (50&nbsp;km³) of bitumen are recoverable. <social_group wordnetid="107950920" confidence="0.8">
+bitumen</link> from the oil sands. With current technology and at current prices, about 315 billion barrels (50 km³) of bitumen are recoverable. <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <hamlet wordnetid="108226978" confidence="0.8">
@@ -1388,10 +1388,10 @@ Jasper National Park</link></area>
 . The two mountain parks are connected by the scenic <road wordnetid="104096066" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../342/417342.xml">
 Icefields Parkway</link></road>
-. Banff is located 128&nbsp;km west of Calgary on <road wordnetid="104096066" confidence="0.9508927676800064">
+. Banff is located 128 km west of Calgary on <road wordnetid="104096066" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../308/2344308.xml">
 Highway 1</link></road>
-, and Jasper is located 366&nbsp;km west of Edmonton on <road wordnetid="104096066" confidence="0.9508927676800064">
+, and Jasper is located 366 km west of Edmonton on <road wordnetid="104096066" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../863/359863.xml">
 Yellowhead Highway</link></road>
 . Five of Canada's fourteen <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -1502,8 +1502,8 @@ Banff National Park</link></area>
 </caption>
 </image>
 
-Alberta has over 180,000&nbsp;km of <link xlink:type="simple" xlink:href="../519/48519.xml">
-highway</link>s and roads, of which nearly 50,000&nbsp;km are paved. The main north-south <link xlink:type="simple" xlink:href="../591/64591.xml">
+Alberta has over 180,000 km of <link xlink:type="simple" xlink:href="../519/48519.xml">
+highway</link>s and roads, of which nearly 50,000 km are paved. The main north-south <link xlink:type="simple" xlink:href="../591/64591.xml">
 corridor</link> is <road wordnetid="104096066" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../301/1782301.xml">
 Highway 2</link></road>
@@ -1594,7 +1594,7 @@ British Columbia</link></district>
 . One of the most scenic drives is along the <road wordnetid="104096066" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../342/417342.xml">
 Icefields Parkway</link></road>
-, which runs for 228&nbsp;km between Jasper and Lake Louise, with mountain ranges and glaciers on either side of its entire length.</p>
+, which runs for 228 km between Jasper and Lake Louise, with mountain ranges and glaciers on either side of its entire length.</p>
 <p>
 
 <image location="right" width="150px" src="Alberta_License_Plate_2005.jpg" type="thumb">
@@ -1639,7 +1639,7 @@ Rocky Mountain House</link> and <link xlink:type="simple" xlink:href="../725/779
 Red Deer</link>, connecting with <road wordnetid="104096066" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../939/3819939.xml">
 Highway 12</link></road>
- 20&nbsp;km west of <link xlink:type="simple" xlink:href="../007/1493007.xml">
+ 20 km west of <link xlink:type="simple" xlink:href="../007/1493007.xml">
 Stettler</link>.  The highway connects many of the smaller towns in central Alberta with Calgary and Edmonton, as it crosses Highway 2 just west of Red Deer.</p>
 <p>
 
@@ -1741,7 +1741,7 @@ Caribbean</link></geographical_area>
 List of airports in Alberta</link></it>
 </indent>
 
-There are over 9,000&nbsp;km of operating mainline railway, and many tourists see Alberta aboard <link xlink:type="simple" xlink:href="../236/297236.xml">
+There are over 9,000 km of operating mainline railway, and many tourists see Alberta aboard <link xlink:type="simple" xlink:href="../236/297236.xml">
 Via Rail</link> or <railway wordnetid="104048568" confidence="0.8">
 <enterprise wordnetid="108056231" confidence="0.8">
 <carrier wordnetid="108057633" confidence="0.8">
@@ -1894,7 +1894,7 @@ Alberta New Democratic Party</link></party>
 <indent level="1">
 
 <it>See also: <link xlink:type="simple" xlink:href="../615/70615.xml">
-List of Alberta Premiers</link>&nbsp;and <link xlink:type="simple" xlink:href="../485/398485.xml">
+List of Alberta Premiers</link> and <link xlink:type="simple" xlink:href="../485/398485.xml">
 List of Alberta general elections</link></it>
 </indent>
 
@@ -2681,7 +2681,7 @@ salamander</link>s are a few of the <link xlink:type="simple" xlink:href="../621
 amphibian</link>s that make their homes in Alberta.</p>
 <p>
 
-Alberta is the only province in Canada&mdash;as well as one of the few places in the world&mdash;which is free of <link xlink:type="simple" xlink:href="../109/56109.xml">
+Alberta is the only province in Canada—as well as one of the few places in the world—which is free of <link xlink:type="simple" xlink:href="../109/56109.xml">
 Norwegian rat</link>s.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2234%22])">34</ref> Since the early 1950s, the government of Alberta has operated a rat-control program which has been so successful that only isolated instances of wild rat sightings are reported, usually of rats arriving in the province aboard trucks or by rail. In 2006, Alberta Agriculture reports zero findings of wild rats; the only rat interceptions have been domesticated rats which have been seized from their owners. It is illegal for individual Albertans to own or keep Norwegian rats of any description; the animals can only be kept in the province by zoos, universities and colleges, and recognized research institutions.</p>
 
 </ss1>
@@ -3046,10 +3046,10 @@ Alberta</link></district>
 Subdivisions</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../130/519130.xml#xpointer(//*[./st=%22Alberta%22])">
-Regions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../418/471418.xml">
-Census&nbsp;divisions</link>&nbsp;·  <link xlink:type="simple" xlink:href="../593/5941593.xml">
-Counties and municipal districts</link>&nbsp;·  <link xlink:type="simple" xlink:href="../371/2137371.xml">
-School districts</link>&nbsp;·  <link>
+Regions</link> ·  <link xlink:type="simple" xlink:href="../418/471418.xml">
+Census divisions</link> ·  <link xlink:type="simple" xlink:href="../593/5941593.xml">
+Counties and municipal districts</link> ·  <link xlink:type="simple" xlink:href="../371/2137371.xml">
+School districts</link> ·  <link>
 Regional Health Authorities</link></col>
 </row>
 <row style="height:2px">
@@ -3061,7 +3061,7 @@ Regional Health Authorities</link></col>
 Communities</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link>
-Cities</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+Cities</link> ·  <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <municipality wordnetid="108626283" confidence="0.8">
@@ -3078,7 +3078,7 @@ Towns</link></urban_area>
 </location>
 </administrative_district>
 </region>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <village wordnetid="108672738" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <settlement wordnetid="108672562" confidence="0.8">
@@ -3089,7 +3089,7 @@ Villages</link></geographical_area>
 </location>
 </village>
 </region>
-&nbsp;·  <subdivision wordnetid="108674251" confidence="0.8">
+ ·  <subdivision wordnetid="108674251" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -3100,7 +3100,7 @@ Summer village</link></geographical_area>
 </location>
 </region>
 </subdivision>
-&nbsp;·  <social_group wordnetid="107950920" confidence="0.8">
+ ·  <social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <hamlet wordnetid="108226978" confidence="0.8">
@@ -3111,9 +3111,9 @@ Hamlets</link></group>
 </community>
 </gathering>
 </social_group>
-&nbsp;·  <link xlink:type="simple" xlink:href="../342/6086342.xml">
-Indian reserves</link>&nbsp;·  <link>
-Métis Settlements</link>&nbsp;·  <link xlink:type="simple" xlink:href="../207/13008207.xml">
+ ·  <link xlink:type="simple" xlink:href="../342/6086342.xml">
+Indian reserves</link> ·  <link>
+Métis Settlements</link> ·  <link xlink:type="simple" xlink:href="../207/13008207.xml">
 Ghost towns</link></col>
 </row>
 <row style="height:2px">
@@ -3127,22 +3127,22 @@ Cities</link>and <it>Special Centres''</it></col>
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../267/1054267.xml">
 Airdrie</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../410/1062410.xml">
 Brooks</link></village>
-&nbsp;·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../358/15895358.xml">
 Calgary</link></village>
-</b>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+</b> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../485/223485.xml">
 Camrose</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../381/1291381.xml">
-Cold&nbsp;Lake</link></village>
-&nbsp;·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
+Cold Lake</link></village>
+ ·  <b><village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../405/95405.xml">
 Edmonton</link></village>
-</b>&nbsp;·  <it><social_group wordnetid="107950920" confidence="0.8">
+</b> ·  <it><social_group wordnetid="107950920" confidence="0.8">
 <gathering wordnetid="107975026" confidence="0.8">
 <community wordnetid="108223802" confidence="0.8">
 <hamlet wordnetid="108226978" confidence="0.8">
@@ -3153,41 +3153,41 @@ Fort McMurray</link></group>
 </community>
 </gathering>
 </social_group>
-</it>&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+</it> ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../459/609459.xml">
 Fort Saskatchewan</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../344/329344.xml">
-Grande&nbsp;Prairie</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+Grande Prairie</link></village>
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../674/417674.xml">
 Jasper</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../164/339164.xml">
 Leduc</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../349/293349.xml">
 Lethbridge</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../593/386593.xml">
 Lloydminster</link></village>
- (part)&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ (part) ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../729/242729.xml">
-Medicine&nbsp;Hat</link></village>
-&nbsp;·   <village wordnetid="108672738" confidence="0.9508927676800064">
+Medicine Hat</link></village>
+ ·   <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../830/142830.xml">
-Red&nbsp;Deer</link></village>
-&nbsp;·  <it><village wordnetid="108672738" confidence="0.9508927676800064">
+Red Deer</link></village>
+ ·  <it><village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../538/328538.xml">
 Sherwood Park</link></village>
-</it>&nbsp;·  
+</it> ·  
 <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../543/329543.xml">
-Spruce&nbsp;Grove</link></village>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+Spruce Grove</link></village>
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../010/329010.xml">
-St.&nbsp;Albert</link></village>
-&nbsp;·  <link xlink:type="simple" xlink:href="../142/597142.xml">
+St. Albert</link></village>
+ ·  <link xlink:type="simple" xlink:href="../142/597142.xml">
 Wetaskiwin</link></col>
 </row>
 </table>
@@ -3455,8 +3455,8 @@ Anthem</link></musical_composition>
 <header colspan="2" style=";color:black; background-color:white;" class="navbox-title">
 <image width="20x20px" src="Maple_Leaf_(from_roundel).png">
 </image>
-&nbsp;&nbsp;<b><link xlink:type="simple" xlink:href="../763/75763.xml">
-Provinces and territories</link>&nbsp;of&nbsp;<region wordnetid="108630039" confidence="0.9508927676800064">
+  <b><link xlink:type="simple" xlink:href="../763/75763.xml">
+Provinces and territories</link> of <region wordnetid="108630039" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../916/5042916.xml">
 Canada</link></region>
 </b></header>
@@ -3471,17 +3471,17 @@ Provinces</col>
 <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../717/717.xml">
 Alberta</link></district>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../392/3392.xml">
 British Columbia</link></district>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../926/18926.xml">
 Manitoba</link></district>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../182/21182.xml">
 New Brunswick</link></district>
-&nbsp;· <link xlink:type="simple" xlink:href="../980/21980.xml">
-Newfoundland and Labrador</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../980/21980.xml">
+Newfoundland and Labrador</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -3490,16 +3490,16 @@ Nova Scotia</link></group>
 </colony>
 </social_group>
 </body>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../218/22218.xml">
 Ontario</link></district>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../071/23071.xml">
 Prince Edward Island</link></district>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../867/7954867.xml">
 Quebec</link></district>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../840/26840.xml">
 Saskatchewan</link></district>
 </col>
@@ -3514,10 +3514,10 @@ Territories</col>
 <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../186/21186.xml">
 Northwest Territories</link></district>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../693/7129693.xml">
 Nunavut</link></district>
-&nbsp;·  <district wordnetid="108552138" confidence="0.9508927676800064">
+ ·  <district wordnetid="108552138" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../230/34230.xml">
 Yukon</link></district>
 </col>

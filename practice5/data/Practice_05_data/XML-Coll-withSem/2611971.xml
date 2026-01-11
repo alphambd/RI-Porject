@@ -379,14 +379,14 @@ Bioinformatic Harvester</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../695/363695.xml">
-NCBI-BLAST</link> &nbsp;·  CDD &nbsp;·  <link xlink:type="simple" xlink:href="../930/2039930.xml">
-Ensembl</link> &nbsp;·  <link xlink:type="simple" xlink:href="../212/559212.xml">
-Entrez</link> &nbsp;·  <link xlink:type="simple" xlink:href="../178/8758178.xml">
-Flybase</link> &nbsp;·  <link>
-Flymine</link> &nbsp;·  <link xlink:type="simple" xlink:href="../493/3808493.xml">
-GFP-cDNA</link> &nbsp;·  <link xlink:type="simple" xlink:href="../024/393024.xml">
-Genome browser</link> &nbsp;·  <link>
-GeneCard</link> &nbsp;·  <work wordnetid="100575741" confidence="0.8">
+NCBI-BLAST</link>  ·  CDD  ·  <link xlink:type="simple" xlink:href="../930/2039930.xml">
+Ensembl</link>  ·  <link xlink:type="simple" xlink:href="../212/559212.xml">
+Entrez</link>  ·  <link xlink:type="simple" xlink:href="../178/8758178.xml">
+Flybase</link>  ·  <link>
+Flymine</link>  ·  <link xlink:type="simple" xlink:href="../493/3808493.xml">
+GFP-cDNA</link>  ·  <link xlink:type="simple" xlink:href="../024/393024.xml">
+Genome browser</link>  ·  <link>
+GeneCard</link>  ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <service wordnetid="100577525" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -399,7 +399,7 @@ Google Scholar</link></activity>
 </service>
 </event>
 </work>
- &nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+  ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -412,9 +412,9 @@ GoPubMed</link></machine>
 </engine>
 </instrumentality>
 </artifact>
- &nbsp;·  <link xlink:type="simple" xlink:href="../372/19609372.xml">
-Harvester42</link> &nbsp;·  <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link> &nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+  ·  <link xlink:type="simple" xlink:href="../372/19609372.xml">
+Harvester42</link>  ·  <link xlink:type="simple" xlink:href="../246/3948246.xml">
+HomoloGene</link>  ·  <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <engine wordnetid="103287733" confidence="0.8">
 <motor wordnetid="103789946" confidence="0.8">
@@ -427,10 +427,10 @@ iHOP</link></machine>
 </engine>
 </instrumentality>
 </artifact>
- &nbsp;·  <link>
-IPI</link> &nbsp;·  <link xlink:type="simple" xlink:href="../449/670449.xml">
-OMIM</link> &nbsp;·  <link>
-MGI</link> &nbsp;·  <work wordnetid="100575741" confidence="0.8">
+  ·  <link>
+IPI</link>  ·  <link xlink:type="simple" xlink:href="../449/670449.xml">
+OMIM</link>  ·  <link>
+MGI</link>  ·  <work wordnetid="100575741" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <undertaking wordnetid="100795720" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -443,23 +443,23 @@ Mitocheck</link></activity>
 </undertaking>
 </event>
 </work>
- &nbsp;·  <link xlink:type="simple" xlink:href="../423/4901423.xml">
-PSORT</link> &nbsp;·  <link>
-PolyMeta</link> &nbsp;·  <link>
-RGD</link> &nbsp;·  <link xlink:type="simple" xlink:href="../428/1664428.xml">
-UniProt</link> &nbsp;·  <link>
-SOURCE</link> &nbsp;·  <link xlink:type="simple" xlink:href="../457/3954457.xml">
-SOSUI</link> &nbsp;·  <link>
-RZPD</link> &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <link xlink:type="simple" xlink:href="../423/4901423.xml">
+PSORT</link>  ·  <link>
+PolyMeta</link>  ·  <link>
+RGD</link>  ·  <link xlink:type="simple" xlink:href="../428/1664428.xml">
+UniProt</link>  ·  <link>
+SOURCE</link>  ·  <link xlink:type="simple" xlink:href="../457/3954457.xml">
+SOSUI</link>  ·  <link>
+RZPD</link>  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../558/13907558.xml">
 Sciencenet</link></software>
- &nbsp;·  <link>
-STRING</link> &nbsp;·  <link>
-SMART</link> &nbsp;·  <link>
-TAIR</link> &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <link>
+STRING</link>  ·  <link>
+SMART</link>  ·  <link>
+TAIR</link>  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../432/9518432.xml">
 WikiProfessional</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../182/12879182.xml">
+  ·  <link xlink:type="simple" xlink:href="../182/12879182.xml">
 ZFIN</link></col>
 </row>
 </table>

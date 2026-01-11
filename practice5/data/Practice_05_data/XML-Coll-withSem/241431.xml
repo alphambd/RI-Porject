@@ -66,7 +66,7 @@ Recall that the DFT is defined by the formula</p>
 k = 0,\dots,N-1. </math>
 </indent>
 
-If we replace the product <it>nk</it> in the exponent by the identity <it>nk</it> = &ndash;(<it>k</it>&ndash;<it>n</it>)2/2 + <it>n</it>2/2 + <it>k</it>2/2, we thus obtain:</p>
+If we replace the product <it>nk</it> in the exponent by the identity <it>nk</it> = –(<it>k</it>–<it>n</it>)2/2 + <it>n</it>2/2 + <it>k</it>2/2, we thus obtain:</p>
 <p>
 
 <indent level="1">
@@ -76,7 +76,7 @@ If we replace the product <it>nk</it> in the exponent by the identity <it>nk</it
 k = 0,\dots,N-1. </math>
 </indent>
 
-This summation is precisely a  convolution of the two sequences <it>an</it> and <it>bn</it> of length <it>N</it> (<it>n</it> = 0,...,<it>N</it>&ndash;1) defined by:</p>
+This summation is precisely a  convolution of the two sequences <it>an</it> and <it>bn</it> of length <it>N</it> (<it>n</it> = 0,...,<it>N</it>–1) defined by:</p>
 <p>
 
 <indent level="1">
@@ -95,7 +95,7 @@ with the output of the convolution multiplied by <it>N</it> phase factors <it>bk
 </indent>
 
 This convolution, in turn, can be performed with a pair of FFTs (plus the pre-computed FFT of <it>bn</it>) via the <link xlink:type="simple" xlink:href="../268/53268.xml">
-convolution theorem</link>.  The key point is that these FFTs are not of the same length <it>N</it>: such a convolution can be computed exactly from FFTs only by zero-padding it to a length greater than or equal to 2<it>N</it>&ndash;1. In particular, one can pad to a <link xlink:type="simple" xlink:href="../948/376948.xml">
+convolution theorem</link>.  The key point is that these FFTs are not of the same length <it>N</it>: such a convolution can be computed exactly from FFTs only by zero-padding it to a length greater than or equal to 2<it>N</it>–1. In particular, one can pad to a <link xlink:type="simple" xlink:href="../948/376948.xml">
 power of two</link> or some other <link xlink:type="simple" xlink:href="../039/1035039.xml">
 highly composite</link> size, for which the FFT can be efficiently performed by e.g. the <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
@@ -115,7 +115,7 @@ Cooley-Tukey algorithm</link></algorithm>
  in O(<it>N</it> log <it>N</it>) time.  Thus, Bluestein's algorithm provides an O(<it>N</it> log <it>N</it>) way to compute prime-size DFTs, albeit several times slower than the Cooley-Tukey algorithm for composite sizes.</p>
 <p>
 
-The use of zero-padding for the convolution in Bluestein's algorithm deserves some additional comment. Suppose we zero-pad to a length <it>M</it> &amp;ge; 2<it>N</it>&ndash;1. This means that <it>an</it> is extended to an array <it>An</it> of length <it>M</it>, where <it>An</it> = <it>an</it> for 0 &amp;le; <it>n</it> &amp;lt; <it>N</it> and <it>An</it> = 0 otherwise&mdash;the usual meaning of "zero-padding".  However, because of the <it>bk</it>&ndash;<it>n</it> term in the convolution, both positive and <it>negative</it> values of <it>n</it> are required for <it>bn</it> (noting that <it>b</it>&ndash;<it>n</it> = <it>bn</it>). The periodic boundaries implied by the DFT of the zero-padded array mean that &ndash;<it>n</it> is equivalent to <it>M</it>&ndash;<it>n</it>. Thus, <it>bn</it> is extended to an array <it>Bn</it> of length <it>M</it>, where <it>B</it>0 = <it>b</it>0, <it>Bn</it> = <it>BM</it>&ndash;<it>n</it> = <it>bn</it> for 0 &amp;lt; <it>n</it> &amp;lt; <it>N</it>, and <it>Bn</it> = 0 otherwise.  <it>A</it> and <it>B</it> are then FFTed, multiplied pointwise, and inverse FFTed to obtain the  convolution of <it>a</it> and <it>b</it>, according to the usual convolution theorem.</p>
+The use of zero-padding for the convolution in Bluestein's algorithm deserves some additional comment. Suppose we zero-pad to a length <it>M</it> &amp;ge; 2<it>N</it>–1. This means that <it>an</it> is extended to an array <it>An</it> of length <it>M</it>, where <it>An</it> = <it>an</it> for 0 &amp;le; <it>n</it> &amp;lt; <it>N</it> and <it>An</it> = 0 otherwise—the usual meaning of "zero-padding".  However, because of the <it>bk</it>–<it>n</it> term in the convolution, both positive and <it>negative</it> values of <it>n</it> are required for <it>bn</it> (noting that <it>b</it>–<it>n</it> = <it>bn</it>). The periodic boundaries implied by the DFT of the zero-padded array mean that –<it>n</it> is equivalent to <it>M</it>–<it>n</it>. Thus, <it>bn</it> is extended to an array <it>Bn</it> of length <it>M</it>, where <it>B</it>0 = <it>b</it>0, <it>Bn</it> = <it>BM</it>–<it>n</it> = <it>bn</it> for 0 &amp;lt; <it>n</it> &amp;lt; <it>N</it>, and <it>Bn</it> = 0 otherwise.  <it>A</it> and <it>B</it> are then FFTed, multiplied pointwise, and inverse FFTed to obtain the  convolution of <it>a</it> and <it>b</it>, according to the usual convolution theorem.</p>
 <p>
 
 Let us also be more precise about what type of convolution is required in Bluestein's algorithm for the DFT.  If the sequence <it>bn</it> were periodic in <it>n</it> with period <it>N</it>, then it would be a cyclic convolution of length <it>N</it>, and the zero-padding would be for computational convenience only.  However, this is not generally the case:
@@ -167,7 +167,7 @@ References</st>
  Leo I. Bluestein, "A linear filtering approach to the computation of the discrete Fourier transform," <it>Northeast Electronics Research and Engineering Meeting Record</it> <b>10</b>, 218-219 (1968).</entry>
 <entry level="1" type="bullet">
 
- Lawrence R. Rabiner, Ronald W. Schafer, and Charles M. Rader, "The chirp z-transform algorithm and its application," <it>Bell Syst. Tech. J.</it> <b>48</b>, 1249-1292 (1969).  Also published in: Rabiner, Shafer, and Rader, "The chirp z-transform algorithm," <it>IEEE Trans. Audio Electroacoustics</it> <b>17</b> (2), 86&ndash;92 (1969).</entry>
+ Lawrence R. Rabiner, Ronald W. Schafer, and Charles M. Rader, "The chirp z-transform algorithm and its application," <it>Bell Syst. Tech. J.</it> <b>48</b>, 1249-1292 (1969).  Also published in: Rabiner, Shafer, and Rader, "The chirp z-transform algorithm," <it>IEEE Trans. Audio Electroacoustics</it> <b>17</b> (2), 86–92 (1969).</entry>
 <entry level="1" type="bullet">
 
  D. H. Bailey and P. N. Swarztrauber, "The fractional Fourier transform and applications," <it><link>
@@ -175,7 +175,7 @@ SIAM Review</link></it> <b>33</b>, 389-404 (1991).  (Note that this terminology 
 fractional Fourier transform</link> conventionally refers to an entirely different, continuous transform.)</entry>
 <entry level="1" type="bullet">
 
- Lawrence Rabiner, "The chirp z-transform algorithm&mdash;a lesson in serendipity," <it>IEEE Signal Processing Magazine</it> <b>24</b>, 118-119 (March 2004).  (Historical commentary.)</entry>
+ Lawrence Rabiner, "The chirp z-transform algorithm—a lesson in serendipity," <it>IEEE Signal Processing Magazine</it> <b>24</b>, 118-119 (March 2004).  (Historical commentary.)</entry>
 </list>
 </p>
 

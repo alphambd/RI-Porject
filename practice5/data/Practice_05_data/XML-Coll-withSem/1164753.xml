@@ -176,7 +176,7 @@ that fits best the data in the least squares sense, with the parameters <math>V_
 Denote by <math>x_i</math> and <math>y_i</math> the value of <math>[S]</math> and the rate from the table, <math>i=1, \dots, 7.</math> Let <math>\beta_1=V_{max}</math> and <math>\beta_2=K_M.</math> We will find <math>\beta_1</math> and <math>\beta_2</math> such that the sum of squares of the residuals
 <indent level="1">
 
- <math>r_i = y_i - \frac{\beta_1x_i}{\beta_2+x_i}</math>  &nbsp; (<math>i=1,\dots, 7</math>)
+ <math>r_i = y_i - \frac{\beta_1x_i}{\beta_2+x_i}</math>    (<math>i=1,\dots, 7</math>)
 </indent>
 is minimized.</p>
 <p>
@@ -386,9 +386,9 @@ Björck, p341, 342</entry>
  <cite id="CITEREFFletcher1987" style="font-style:normal">Fletcher, Roger&#32;(1987),&#32;<it>Practical methods of optimization</it>&#32;(2nd ed.), New York: <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../930/537930.xml">
 John Wiley &amp; Sons</link></company>
-, p. 113, ISBN 978-0-471-91547-8</cite>&nbsp;.</entry>
+, p. 113, ISBN 978-0-471-91547-8</cite> .</entry>
 <entry id="5">
- <cite id="Reference-Nocedal-1999" style="font-style:normal" class="book">Nocedal, Jorge;&#32;Wright, Stephen&#32;(1999). Numerical optimization.&#32;New York: Springer. ISBN 0387987932.</cite>&nbsp;
+ <cite id="Reference-Nocedal-1999" style="font-style:normal" class="book">Nocedal, Jorge;&#32;Wright, Stephen&#32;(1999). Numerical optimization.&#32;New York: Springer. ISBN 0387987932.</cite> 
 </entry>
 </reflist>
 </p>

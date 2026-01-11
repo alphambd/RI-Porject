@@ -1004,7 +1004,7 @@ Objective Caml</link></programming_language>
  example </st>
 <p>
 
-There is an implementation of the LZW algorithm written in OCaml in the code repository Rosetta&nbsp;Code <weblink xlink:type="simple" xlink:href="http://www.rosettacode.org/wiki/LZW_compression#OCaml">
+There is an implementation of the LZW algorithm written in OCaml in the code repository Rosetta Code <weblink xlink:type="simple" xlink:href="http://www.rosettacode.org/wiki/LZW_compression#OCaml">
 http://www.rosettacode.org/wiki/LZW_compression#OCaml</weblink>.</p>
 
 </sec>
@@ -1046,7 +1046,7 @@ United States</link></democracy>
 </body>
  and other countries for LZW and similar algorithms. LZ78 was covered by <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4464650">
 U.S. Patent 4,464,650</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4464650">
-&nbsp;</weblink> by Lempel, Ziv, Cohn, and Eastman, assigned to <company wordnetid="108058098" confidence="0.8">
+ </weblink> by Lempel, Ziv, Cohn, and Eastman, assigned to <company wordnetid="108058098" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../387/128387.xml">
 Sperry Corporation</link></institution>
@@ -1058,7 +1058,7 @@ Unisys</link></company>
 August 10</link>, <link xlink:type="simple" xlink:href="../776/34776.xml">
 1981</link>. Two US patents were issued for the LZW algorithm: <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4814746">
 U.S. Patent 4,814,746</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4814746">
-&nbsp;</weblink> by <physical_entity wordnetid="100001930" confidence="0.8">
+ </weblink> by <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <cryptanalyst wordnetid="109981540" confidence="0.8">
 <intellectual wordnetid="109621545" confidence="0.8">
@@ -1088,7 +1088,7 @@ IBM</link>, originally filed on <link xlink:type="simple" xlink:href="../856/158
 June 1</link>, <link xlink:type="simple" xlink:href="../755/34755.xml">
 1983</link>, and <weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4558302">
 U.S. Patent 4,558,302</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4558302">
-&nbsp;</weblink> by Welch, assigned to Sperry Corporation, later Unisys Corporation, filed on <link xlink:type="simple" xlink:href="../818/15818.xml">
+ </weblink> by Welch, assigned to Sperry Corporation, later Unisys Corporation, filed on <link xlink:type="simple" xlink:href="../818/15818.xml">
 June 20</link>, 1983. On <link xlink:type="simple" xlink:href="../818/15818.xml">
 June 20</link>, <link xlink:type="simple" xlink:href="../163/36163.xml">
 2003</link>, this patent on the LZW algorithm expired <weblink xlink:type="simple" xlink:href="http://www.unisys.com/about__unisys/lzw">
@@ -1293,8 +1293,8 @@ Lossless</link></algorithm>
 Theory</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../445/15445.xml">
-Entropy</link>&nbsp;·  <link xlink:type="simple" xlink:href="../635/1635.xml">
-Complexity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../582/1953582.xml">
+Entropy</link> ·  <link xlink:type="simple" xlink:href="../635/1635.xml">
+Complexity</link> ·  <link xlink:type="simple" xlink:href="../582/1953582.xml">
 Redundancy</link></col>
 </row>
 <row style="height:2px">
@@ -1342,7 +1342,7 @@ Huffman</link></algorithm>
 </vascular_plant>
 </tree>
 </plant>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1357,9 +1357,9 @@ Adaptive Huffman</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../545/62545.xml">
+ ·  <link xlink:type="simple" xlink:href="../545/62545.xml">
 Arithmetic</link> (<link>
-Shannon-Fano</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+Shannon-Fano</link> ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1374,7 +1374,7 @@ Range</link></algorithm>
 </act>
 </rule>
 </event>
-)&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+) ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1389,7 +1389,7 @@ Golomb</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1404,7 +1404,7 @@ Exp-Golomb</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1434,7 +1434,7 @@ Elias</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <amount wordnetid="105107765" confidence="0.8">
+ ·  <amount wordnetid="105107765" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <magnitude wordnetid="105090441" confidence="0.8">
@@ -1482,7 +1482,7 @@ RLE</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;· <event wordnetid="100029378" confidence="0.8">
+ · <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1497,9 +1497,9 @@ DEFLATE</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;· <link>
+ · <link>
 LZ Family</link> (<link xlink:type="simple" xlink:href="../855/75855.xml">
-LZ77/78</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+LZ77/78</link> ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1514,7 +1514,7 @@ LZSS</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1529,8 +1529,8 @@ LZW</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../578/3980578.xml">
-LZWL</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../578/3980578.xml">
+LZWL</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1555,7 +1555,7 @@ LZO</link></algorithm>
 </area>
 </artifact>
 </structure>
-&nbsp;·   <event wordnetid="100029378" confidence="0.8">
+ ·   <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1570,7 +1570,7 @@ LZMA</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1585,7 +1585,7 @@ LZX</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1600,7 +1600,7 @@ LZJB</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;· <link>
+ · <link>
 LZT</link>)</col>
 </row>
 <row style="height:2px">
@@ -1625,7 +1625,7 @@ CTW</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1640,7 +1640,7 @@ BWT</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1655,7 +1655,7 @@ PPM</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../633/11014633.xml">
+ ·  <link xlink:type="simple" xlink:href="../633/11014633.xml">
 DMC</link></col>
 </row>
 </table>
@@ -1676,8 +1676,8 @@ Audio</link></col>
 Theory</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../519/7519.xml">
-Convolution</link>&nbsp;·  <link xlink:type="simple" xlink:href="../605/201605.xml">
-Sampling</link>&nbsp;·  <link>
+Convolution</link> ·  <link xlink:type="simple" xlink:href="../605/201605.xml">
+Sampling</link> ·  <link>
  Nyquist–Shannon theorem</link></col>
 </row>
 <row style="height:2px">
@@ -1704,7 +1704,7 @@ LAR</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1719,13 +1719,13 @@ LSP</link></algorithm>
 </act>
 </rule>
 </event>
-)&nbsp;·  <link xlink:type="simple" xlink:href="../096/7191096.xml">
-WLPC</link>&nbsp;·  <link xlink:type="simple" xlink:href="../993/1407993.xml">
-CELP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../517/1079517.xml">
-ACELP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../707/40707.xml">
-A-law</link>&nbsp;·  <link>
-μ-law</link>&nbsp;·   <link xlink:type="simple" xlink:href="../387/231387.xml">
-MDCT</link>&nbsp;·  <mathematical_relation wordnetid="113783581" confidence="0.8">
+) ·  <link xlink:type="simple" xlink:href="../096/7191096.xml">
+WLPC</link> ·  <link xlink:type="simple" xlink:href="../993/1407993.xml">
+CELP</link> ·  <link xlink:type="simple" xlink:href="../517/1079517.xml">
+ACELP</link> ·  <link xlink:type="simple" xlink:href="../707/40707.xml">
+A-law</link> ·  <link>
+μ-law</link> ·   <link xlink:type="simple" xlink:href="../387/231387.xml">
+MDCT</link> ·  <mathematical_relation wordnetid="113783581" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <operator wordnetid="113786413" confidence="0.8">
@@ -1736,7 +1736,7 @@ Fourier transform</link></function>
 </concept>
 </idea>
 </mathematical_relation>
-&nbsp;·   <link xlink:type="simple" xlink:href="../448/24448.xml">
+ ·   <link xlink:type="simple" xlink:href="../448/24448.xml">
 Psychoacoustic model</link></col>
 </row>
 <row style="height:2px">
@@ -1747,8 +1747,8 @@ Psychoacoustic model</link></col>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../733/262733.xml">
-Dynamic range compression</link>&nbsp;·  <link xlink:type="simple" xlink:href="../618/28618.xml">
-Speech compression</link>&nbsp;·  <link xlink:type="simple" xlink:href="../959/4748959.xml">
+Dynamic range compression</link> ·  <link xlink:type="simple" xlink:href="../618/28618.xml">
+Speech compression</link> ·  <link xlink:type="simple" xlink:href="../959/4748959.xml">
 Sub-band coding</link></col>
 </row>
 </table>
@@ -1768,9 +1768,9 @@ Image</link></col>
 Terms</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../081/6081.xml">
-Color space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../665/23665.xml">
-Pixel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../944/172944.xml">
-Chroma subsampling</link>&nbsp;·  <artifact wordnetid="100021939" confidence="0.8">
+Color space</link> ·  <link xlink:type="simple" xlink:href="../665/23665.xml">
+Pixel</link> ·  <link xlink:type="simple" xlink:href="../944/172944.xml">
+Chroma subsampling</link> ·  <artifact wordnetid="100021939" confidence="0.8">
 <link xlink:type="simple" xlink:href="../669/185669.xml">
 Compression artifact</link></artifact>
 </col>
@@ -1797,7 +1797,7 @@ RLE</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1812,7 +1812,7 @@ Fractal</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1827,10 +1827,10 @@ Wavelet</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../175/1797175.xml">
-EZW</link>&nbsp;·  <link xlink:type="simple" xlink:href="../514/1131514.xml">
-SPIHT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../962/59962.xml">
-DCT</link>&nbsp;·  <link>
+ ·  <link xlink:type="simple" xlink:href="../175/1797175.xml">
+EZW</link> ·  <link xlink:type="simple" xlink:href="../514/1131514.xml">
+SPIHT</link> ·  <link xlink:type="simple" xlink:href="../962/59962.xml">
+DCT</link> ·  <link>
 KLT</link></col>
 </row>
 <row style="height:2px">
@@ -1845,13 +1845,13 @@ Others</col>
 <link xlink:type="simple" xlink:href="../290/272290.xml">
 Bit rate</link></definite_quantity>
 </unit_of_measurement>
-&nbsp;·  <link xlink:type="simple" xlink:href="../011/2932011.xml">
-Test images</link>&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../011/2932011.xml">
+Test images</link> ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../455/1281455.xml">
 PSNR quality measure</link></ratio>
 </magnitude_relation>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1885,15 +1885,15 @@ Video</link></col>
 Terms</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../441/32441.xml#xpointer(//*[./st=%22Characteristics+of+video+streams%22])">
-Video Characteristics</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+Video Characteristics</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../697/2754697.xml">
 Frame</link></format>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../805/736805.xml">
-Frame types</link>&nbsp;·  <link xlink:type="simple" xlink:href="../867/2534867.xml">
+ ·  <link xlink:type="simple" xlink:href="../805/736805.xml">
+Frame types</link> ·  <link xlink:type="simple" xlink:href="../867/2534867.xml">
 Video quality</link></col>
 </row>
 <row style="height:2px">
@@ -1905,8 +1905,8 @@ Video quality</link></col>
 Video codec parts</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../035/52035.xml">
-Motion compensation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../962/59962.xml">
-DCT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../018/317018.xml">
+Motion compensation</link> ·  <link xlink:type="simple" xlink:href="../962/59962.xml">
+DCT</link> ·  <link xlink:type="simple" xlink:href="../018/317018.xml">
 Quantization</link></col>
 </row>
 <row style="height:2px">
@@ -1917,10 +1917,10 @@ Quantization</link></col>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;width:auto;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../475/54475.xml">
-Video codecs</link>&nbsp;·  <link xlink:type="simple" xlink:href="../842/192842.xml">
+Video codecs</link> ·  <link xlink:type="simple" xlink:href="../842/192842.xml">
 Rate distortion theory</link> (<link xlink:type="simple" xlink:href="../101/297101.xml">
-CBR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../011/1934011.xml">
-ABR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../826/100826.xml">
+CBR</link> ·  <link xlink:type="simple" xlink:href="../011/1934011.xml">
+ABR</link> ·  <link xlink:type="simple" xlink:href="../826/100826.xml">
 VBR</link>)</col>
 </row>
 </table>

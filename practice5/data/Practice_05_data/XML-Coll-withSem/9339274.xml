@@ -106,7 +106,7 @@ International Business Machines Corporation</link></company>
 Corporate</link> <link xlink:type="simple" xlink:href="../822/4822.xml">
 Directors</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
-Cathleen Black&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+Cathleen Black ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <executive wordnetid="110069645" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -129,11 +129,11 @@ Kenneth I. Chenault</link></scholar>
 </person>
 </executive>
 </physical_entity>
-&nbsp;·  Juergen Dormann&nbsp;·  <link xlink:type="simple" xlink:href="../814/3266814.xml">
-Michael L. Eskew</link>&nbsp;·  <person wordnetid="100007846" confidence="0.9508927676800064">
+ ·  Juergen Dormann ·  <link xlink:type="simple" xlink:href="../814/3266814.xml">
+Michael L. Eskew</link> ·  <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../464/170464.xml">
 Shirley Ann Jackson</link></person>
-&nbsp;·  Minoru Makihara&nbsp;·  Lucio A. Noto&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  Minoru Makihara ·  Lucio A. Noto ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <executive wordnetid="110069645" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -156,12 +156,12 @@ James W. Owens</link></scholar>
 </person>
 </executive>
 </physical_entity>
-&nbsp;·  <president wordnetid="110468962" confidence="0.9173553029164789">
+ ·  <president wordnetid="110468962" confidence="0.9173553029164789">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../807/708807.xml">
 Samuel J. Palmisano</link></person>
 </president>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <ambassador wordnetid="109787534" confidence="0.8">
@@ -178,10 +178,10 @@ Joan E. Spero</link></diplomat>
 </person>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <person wordnetid="100007846" confidence="0.9638700866880419">
+ ·  <person wordnetid="100007846" confidence="0.9638700866880419">
 <link xlink:type="simple" xlink:href="../856/11077856.xml">
 Sidney Taurel</link></person>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -227,8 +227,8 @@ Cell</link></semiconductor_device>
 </instrumentality>
 </artifact>
 </chip>
-&nbsp;·  <link xlink:type="simple" xlink:href="../872/14872.xml">
-Mainframe</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../872/14872.xml">
+Mainframe</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -239,7 +239,7 @@ Personal Computer</link></machine>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <chip wordnetid="103020034" confidence="0.8">
+ ·  <chip wordnetid="103020034" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <microprocessor wordnetid="103760310" confidence="0.8">
@@ -265,24 +265,24 @@ POWER</link></semiconductor_device>
 Software</link>Brands</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../781/12078781.xml">
-Information Management</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+Information Management</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../770/103770.xml">
 Lotus</link></company>
-&nbsp;·   <company wordnetid="108058098" confidence="0.8">
+ ·   <company wordnetid="108058098" confidence="0.8">
 <subsidiary_company wordnetid="108003935" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../740/338740.xml">
 Rational</link></institution>
 </subsidiary_company>
 </company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.8">
+ ·  <company wordnetid="108058098" confidence="0.8">
 <subsidiary_company wordnetid="108003935" confidence="0.8">
 <institution wordnetid="108053576" confidence="0.8">
 <link xlink:type="simple" xlink:href="../911/3640911.xml">
 Tivoli</link></institution>
 </subsidiary_company>
 </company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../870/195870.xml">
+ ·  <link xlink:type="simple" xlink:href="../870/195870.xml">
 WebSphere</link></col>
 </row>
 <row style="height:2px">
@@ -308,13 +308,13 @@ See also</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../636/5087636.xml">
 IBM India</link></company>
-&nbsp;·  <link xlink:type="simple" xlink:href="../803/49803.xml">
-IBM PC compatible</link>&nbsp;·  <license wordnetid="106549661" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../803/49803.xml">
+IBM PC compatible</link> ·  <license wordnetid="106549661" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../061/3574061.xml">
 IBM Public License</link></license>
-&nbsp;·  <link xlink:type="simple" xlink:href="../182/7283182.xml">
-History</link>&nbsp;·  <link xlink:type="simple" xlink:href="../923/5715923.xml">
-Acquisitions and spinoffs</link>&nbsp;·  <link xlink:type="simple" xlink:href="../231/88231.xml">
+ ·  <link xlink:type="simple" xlink:href="../182/7283182.xml">
+History</link> ·  <link xlink:type="simple" xlink:href="../923/5715923.xml">
+Acquisitions and spinoffs</link> ·  <link xlink:type="simple" xlink:href="../231/88231.xml">
 Products</link></col>
 </row>
 <row style="height:2px;">
@@ -328,8 +328,8 @@ Products</link></col>
 US$</link></currency>
 98.8 billion (<link xlink:type="simple" xlink:href="../099/5752099.xml">
 FY</link> <link xlink:type="simple" xlink:href="../165/36165.xml">
-2007</link>)&nbsp;·  <b>Employees:</b> 386,558 (<link xlink:type="simple" xlink:href="../165/36165.xml">
-2007</link>)&nbsp;·  <b>Stock Symbol:</b> <site wordnetid="108651247" confidence="0.8">
+2007</link>) ·  <b>Employees:</b> 386,558 (<link xlink:type="simple" xlink:href="../165/36165.xml">
+2007</link>) ·  <b>Stock Symbol:</b> <site wordnetid="108651247" confidence="0.8">
 <region wordnetid="108630985" confidence="0.8">
 <position wordnetid="108621598" confidence="0.8">
 <point wordnetid="108620061" confidence="0.8">
@@ -354,8 +354,8 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lcddata.html?ticker=IBM">
-IBM</weblink>&nbsp;·  <b>Website:</b> <weblink xlink:type="simple" xlink:href="http://www.ibm.com">
+: <weblink xlink:type="simple" xlink:href="http://www.nyse.com/about/listed/lcddata.html?ticker=IBM">
+IBM</weblink> ·  <b>Website:</b> <weblink xlink:type="simple" xlink:href="http://www.ibm.com">
 www.ibm.com</weblink></col>
 </row>
 </table>

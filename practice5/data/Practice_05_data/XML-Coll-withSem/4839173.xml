@@ -523,7 +523,7 @@ Let <math>q</math> be a decision vector of parameters such as design variables, 
 | (opportuneness)
 | (2)
 |}
-We can "read" eq.&nbsp;(1) as follows. The robustness <math>{\hat{\alpha}}(q)</math> of decision vector <math>q</math> is the greatest value of the horizon of uncertainty <math>\alpha</math> for which specified minimal requirements are always satisfied. <math>{\hat{\alpha}}(q)</math> expresses robustness ó the degree of resistance to uncertainty and immunity against failure ó so a large value of <math>{\hat{\alpha}}(q)</math> is desirable. Eq.&nbsp;(2) states that the opportuneness <math>{\hat{\beta}}(q)</math>
+We can "read" eq. (1) as follows. The robustness <math>{\hat{\alpha}}(q)</math> of decision vector <math>q</math> is the greatest value of the horizon of uncertainty <math>\alpha</math> for which specified minimal requirements are always satisfied. <math>{\hat{\alpha}}(q)</math> expresses robustness ó the degree of resistance to uncertainty and immunity against failure ó so a large value of <math>{\hat{\alpha}}(q)</math> is desirable. Eq. (2) states that the opportuneness <math>{\hat{\beta}}(q)</math>
 is the least level of uncertainty <math>\alpha</math> which must be tolerated in order to enable the possibility of sweeping success as a result of decisions <math>q</math>. <math>{\hat{\beta}}(q)</math> is the immunity against windfall reward, so a small value of <math>{\hat{\beta}}(q)</math> is desirable. A small value of <math>{\hat{\beta}}(q)</math> reflects the opportune situation that
 great reward is possible even in the presence of little ambient uncertainty. The immunity functions <math>{\hat{\alpha}}(q)</math> and <math>{\hat{\beta}}(q)</math> are complementary and are defined in an anti-symmetric sense. Thus "bigger is better" for <math>{\hat{\alpha}}(q)</math> while "big is bad" for <math>{\hat{\beta}}(q)</math>. The immunity functions ó robustness and opportuneness ó are the basic decision functions in info-gap decision theory.</p>
 <p>
@@ -532,10 +532,10 @@ The robustness function involves a maximization, but not of the performance or o
 satisfices</link></b> the performance at a critical survival-level. One may establish one's preferences among the available actions <math>q, \, q^\prime,\, \ldots </math> according to their robustnesses <math>{\hat{\alpha}}(q),\, {\hat{\alpha}}(q^\prime), \, \ldots </math>, whereby larger robustness engenders higher preference. In this way the robustness function underlies a satisficing decision algorithm which maximizes the immunity to pernicious uncertainty.</p>
 <p>
 
-The opportuneness function in eq.&nbsp;(2) involves a minimization, however not, as might be expected, of the damage which can accrue from unknown adverse events. The least horizon of uncertainty is sought at which decision <math>q</math> enables (but does not necessarily guarantee) large windfall gain. Unlike the robustness function, the opportuneness function does not satisfice, it "windfalls". Windfalling preferences are those which prefer actions for which the opportuneness function takes a small value. When <math>{\hat{\beta}}(q)</math> is used to choose an action <math>q</math>, one is "windfalling" by optimizing the opportuneness from propitious uncertainty in an attempt to enable highly ambitious goals or rewards.</p>
+The opportuneness function in eq. (2) involves a minimization, however not, as might be expected, of the damage which can accrue from unknown adverse events. The least horizon of uncertainty is sought at which decision <math>q</math> enables (but does not necessarily guarantee) large windfall gain. Unlike the robustness function, the opportuneness function does not satisfice, it "windfalls". Windfalling preferences are those which prefer actions for which the opportuneness function takes a small value. When <math>{\hat{\beta}}(q)</math> is used to choose an action <math>q</math>, one is "windfalling" by optimizing the opportuneness from propitious uncertainty in an attempt to enable highly ambitious goals or rewards.</p>
 <p>
 
-Given a scalar reward function <math>R(q,u)</math>, depending on the decision vector <math>q</math> and the info-gap-uncertain function <math>u</math>, the minimal requirement in eq.&nbsp;(1) is that the reward <math>R(q,u)</math> be no less than a critical value <math>{r_{\rm c}}</math>. Likewise, the sweeping success in eq. (2) is attainment of a "wildest dream" level of reward <math>{r_{\rm w}}</math> which is much greater than <math>{r_{\rm c}}</math>. Usually neither of these threshold values, <math>{r_{\rm c}}</math> and <math>{r_{\rm w}}</math>, is chosen irrevocably before performing the decision analysis. Rather, these parameters enable the decision maker to explore a range of options. In any case the windfall reward <math>{r_{\rm w}}</math> is greater, usually much greater, than the critical reward <math>{r_{\rm c}}</math>:
+Given a scalar reward function <math>R(q,u)</math>, depending on the decision vector <math>q</math> and the info-gap-uncertain function <math>u</math>, the minimal requirement in eq. (1) is that the reward <math>R(q,u)</math> be no less than a critical value <math>{r_{\rm c}}</math>. Likewise, the sweeping success in eq. (2) is attainment of a "wildest dream" level of reward <math>{r_{\rm w}}</math> which is much greater than <math>{r_{\rm c}}</math>. Usually neither of these threshold values, <math>{r_{\rm c}}</math> and <math>{r_{\rm w}}</math>, is chosen irrevocably before performing the decision analysis. Rather, these parameters enable the decision maker to explore a range of options. In any case the windfall reward <math>{r_{\rm w}}</math> is greater, usually much greater, than the critical reward <math>{r_{\rm c}}</math>:
 <indent level="1">
 
 <math>
@@ -543,7 +543,7 @@ Given a scalar reward function <math>R(q,u)</math>, depending on the decision ve
 </math>
 </indent>
 
-The robustness and opportuneness functions of eqs.&nbsp;(1) and (2) can now be expressed more explicitly:
+The robustness and opportuneness functions of eqs. (1) and (2) can now be expressed more explicitly:
 <indent level="1">
 
 | border="0" width="100%"
@@ -560,7 +560,7 @@ The robustness and opportuneness functions of eqs.&nbsp;(1) and (2) can now be e
 </math>
 | (4)
 |}
-<math>{\hat{\alpha}}(q, {r_{\rm c}})</math> is the greatest level of uncertainty consistent with guaranteed reward no less than the critical reward <math>{r_{\rm c}}</math>, while <math>{\hat{\beta}}(q, {r_{\rm w}})</math> is the least level of uncertainty which must be accepted in order to facilitate (but not guarantee) windfall as great as <math>{r_{\rm w}}</math>. The complementary or anti-symmetric structure of the immunity functions is evident from eqs.&nbsp;(3) and (4).</p>
+<math>{\hat{\alpha}}(q, {r_{\rm c}})</math> is the greatest level of uncertainty consistent with guaranteed reward no less than the critical reward <math>{r_{\rm c}}</math>, while <math>{\hat{\beta}}(q, {r_{\rm w}})</math> is the least level of uncertainty which must be accepted in order to facilitate (but not guarantee) windfall as great as <math>{r_{\rm w}}</math>. The complementary or anti-symmetric structure of the immunity functions is evident from eqs. (3) and (4).</p>
 <p>
 
 These definitions can be modified to handle multi-criterion reward functions. Likewise, analogous definitions apply when <math>R(q,u)</math> is a loss rather than a reward.</p>
@@ -572,7 +572,7 @@ The robustness function generates <b>robust-satisficing preferences</b> on the o
 | border="0" width="100%"
 </indent>
 |<math>q \succ _{\rm r} q^\prime
-</math>&nbsp;&nbsp;&nbsp;&nbsp;    if    &nbsp;&nbsp;&nbsp;&nbsp;<math>
+</math>        if        <math>
 {\hat{\alpha}}(q, {r_{\rm c}}) &amp;gt; {\hat{\alpha}}(q^\prime, {r_{\rm c}})</math>
 | (5) 
 |}</p>
@@ -594,7 +594,7 @@ The opportuneness function generates <b>opportune-windfalling preferences</b> on
 | border=0 width="100%"
 </indent>
 |<math>q \succ _{\rm o} q^\prime
-</math>&nbsp;&nbsp;&nbsp;&nbsp;    if    &nbsp;&nbsp;&nbsp;&nbsp; <math>
+</math>        if         <math>
 {\hat{\beta}}(q, {r_{\rm w}}) &amp;lt; {\hat{\beta}}(q^\prime, {r_{\rm w}})</math>
 | (6) 
 |}
@@ -606,7 +606,7 @@ The opportune-windfalling decision, <math>{\hat{q}_{{\rm w}}}({r_{\rm w}})</math
 </math>
 </indent>
 
-The two preference rankings, eqs.&nbsp;(5) and (6), as well as the corresponding the optimal decisions
+The two preference rankings, eqs. (5) and (6), as well as the corresponding the optimal decisions
 <math>{\hat{q}_{{\rm c}}}({r_{\rm c}})</math> and <math>{\hat{q}_{{\rm w}}}({r_{\rm w}})</math>, may be different.</p>
 
 </sec>
@@ -645,7 +645,7 @@ So, let <math>\ \displaystyle \mathfrak{U} \ </math> denote the total region of 
 </p>
 <p>
 
-Suppose then that the robustness <math>\ \displaystyle \hat{\alpha}(q,r_{c}) \ </math> has been computed for a decision <math>\ \displaystyle q\in \mathcal{Q}\ </math>  and it is observed that <math>\ \displaystyle \ \mathcal{U}(\alpha^{*},\tilde{u}) \subseteq \mathfrak{U}\ </math> where <math>\ \displaystyle \alpha^{*}=\hat{\alpha}(q,r_{c}) + \varepsilon \ </math>&nbsp; for some <math>\ \displaystyle \varepsilon &amp;gt; 0\ </math>.</p>
+Suppose then that the robustness <math>\ \displaystyle \hat{\alpha}(q,r_{c}) \ </math> has been computed for a decision <math>\ \displaystyle q\in \mathcal{Q}\ </math>  and it is observed that <math>\ \displaystyle \ \mathcal{U}(\alpha^{*},\tilde{u}) \subseteq \mathfrak{U}\ </math> where <math>\ \displaystyle \alpha^{*}=\hat{\alpha}(q,r_{c}) + \varepsilon \ </math>  for some <math>\ \displaystyle \varepsilon &amp;gt; 0\ </math>.</p>
 <p>
 
 The question is then: how would the robustness of <math>\ \displaystyle q \ </math>, namely  <math>\ \displaystyle \hat{\alpha}(q,r_{c}) \ </math>, be affected if the region of uncertainty would be say, twice as large as <math>\ \displaystyle \mathfrak{U} \ </math>, or perhaps even 10 times as large as <math>\ \displaystyle \mathfrak{U} \ </math>?</p>
@@ -664,7 +664,7 @@ The robustness of decision <math>\ \displaystyle q \ </math> is invariant with t
 | width="70%" border="0"
 </indent>
 | (7)
-|<math>\mathcal{U}(\hat{\alpha}(q,r_{c})+\varepsilon,\tilde{u}) \subseteq \mathfrak{U}\ </math>&nbsp; for some <math>\ \displaystyle \varepsilon &amp;gt; 0\ .</math> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;<math> \Box</math>
+|<math>\mathcal{U}(\hat{\alpha}(q,r_{c})+\varepsilon,\tilde{u}) \subseteq \mathfrak{U}\ </math>  for some <math>\ \displaystyle \varepsilon &amp;gt; 0\ .</math>               <math> \Box</math>
 |}</p>
 
 <p>
@@ -684,10 +684,10 @@ To illustrate, consider a simple numerical example where the total region of unc
 </p>
 <p>
 
-where the term <it> "No man's land" </it>&nbsp; refers to the part of the total region of uncertainty that is outside the region <math>\ \displaystyle \mathcal{U}(\hat{\alpha}(q,r_{c})+\varepsilon,\tilde{u}) \ </math>.</p>
+where the term <it> "No man's land" </it>  refers to the part of the total region of uncertainty that is outside the region <math>\ \displaystyle \mathcal{U}(\hat{\alpha}(q,r_{c})+\varepsilon,\tilde{u}) \ </math>.</p>
 <p>
 
-Note that in this case the robustness of decision <math>\ \displaystyle \hat{q} \ </math> is based on its (worst-case) performance over no more than a minuscule part of the total region of uncertainty that is an immediate neighborhood of the estimate <math>\ \displaystyle \tilde{u} \ </math>. Since usually info-gap's total region of uncertainty is unbounded, this illustration represents a <it>usual</it> &nbsp; case rather than an exception. </p>
+Note that in this case the robustness of decision <math>\ \displaystyle \hat{q} \ </math> is based on its (worst-case) performance over no more than a minuscule part of the total region of uncertainty that is an immediate neighborhood of the estimate <math>\ \displaystyle \tilde{u} \ </math>. Since usually info-gap's total region of uncertainty is unbounded, this illustration represents a <it>usual</it>   case rather than an exception. </p>
 <p>
 
 The thing to note then is that info-gap's robustness/opportuneness are <b>by definition local properties.</b>  As such they cannot assess the performance of decisions over the total region of uncertainty. For this reason it is not clear how Info-Gap's Robustness/Opportuneness models can provide a meaningful/sound/useful basis for decision under sever uncertainty where the estimate is poor and is likely to be substantially wrong.</p>
@@ -844,7 +844,7 @@ The point to note here is that this statement misses the fact that the horizon o
 <math> r_{c} \le R(q,u),\forall u\in \mathcal{U}(\alpha,\tilde{u})</math> </p>
 <p>
 
-and that info-gap conducts its worst-case analysis -- one analysis at a time for a given <math>\ \displaystyle \alpha \ge 0 \ </math>&nbsp; -- within each of the regions of uncertainty <math>\displaystyle \ \mathcal{U}(\alpha,\tilde{u}), \alpha\ge 0 \ </math> .</p>
+and that info-gap conducts its worst-case analysis -- one analysis at a time for a given <math>\ \displaystyle \alpha \ge 0 \ </math>  -- within each of the regions of uncertainty <math>\displaystyle \ \mathcal{U}(\alpha,\tilde{u}), \alpha\ge 0 \ </math> .</p>
 <p>
 
 In short, given the discussions in the info-gap literature on this issue, it is obvious that the kinship between info-gap's robustness model and <link xlink:type="simple" xlink:href="../430/1239430.xml">
@@ -959,7 +959,7 @@ Of particular interest to this discussion are the Maximin and Minimin paradigms 
 <table>
 <row valign="top">
 <col>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maximin Game: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</col>
+      Maximin Game:       </col>
 <col>
 <math>\ \displaystyle \max_{d\in D}\,\min_{s\in S(d)}\,g(d,s)</math></col>
 </row>
@@ -986,7 +986,7 @@ Of particular interest to this discussion are the Maximin and Minimin paradigms 
 <table>
 <row valign="top">
 <col>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minimin Game: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</col>
+      Minimin Game:       </col>
 <col>
 <math>\ \displaystyle \min_{d\in D}\,\min_{s\in S(d)}\,g(d,s)</math></col>
 </row>
@@ -1042,7 +1042,7 @@ r_{c} \le R(q,u) \ \ \ \longleftrightarrow \ \ \ \alpha \le \varphi(q,\alpha,u)
 
 <p>
 
-hence from the DM's point of view satisficing the performance constraint is equivalent to maximizing &nbsp; <math>\ \displaystyle \varphi(q,\alpha,u)\ </math>.</p>
+hence from the DM's point of view satisficing the performance constraint is equivalent to maximizing   <math>\ \displaystyle \varphi(q,\alpha,u)\ </math>.</p>
 <p>
 
 In short,  </p>
@@ -1051,7 +1051,7 @@ In short,  </p>
 <table>
 <row valign="top">
 <col>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Info-gap's Maximin Robustness Game for decision <math>\ \displaystyle q \ </math>: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</col>
+      Info-gap's Maximin Robustness Game for decision <math>\ \displaystyle q \ </math>:       </col>
 <col>
 <math>\ \displaystyle \hat{\alpha}(q,r_{c}):=\max_{\alpha \ge 0}\,\min_{u\in \mathcal{U}(\alpha,\tilde{u})}\,\varphi(q,\alpha,u)</math></col>
 </row>
@@ -1118,9 +1118,9 @@ r_{w} \le R(q,u) \ \ \ \longleftrightarrow \ \ \ \alpha \ge \psi(q,\alpha,u)
 hence, for a given pair <math>\ \displaystyle (q,\alpha)\ </math>, the DM would satisfy the performance requirement via  minimizing the outcome <math>\ \displaystyle \psi(q,\alpha,u)\ </math> over <math>\ \displaystyle \mathcal{U}(\alpha,\tilde{u}) \ </math>. Nature's behavior is a reflection of her sympathetic stance here.</p>
 <p>
 
-<b>Remark:</b> This attitude towards risk and uncertainty which assumes that  Nature will play <it> with us,</it>&nbsp; is rather naive. As noted by Resnik (1987, p. 32<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2252%22])">52</ref>) "... But that rule surely would have few adherence...". Nevetheless it is often used in combination with the <link xlink:type="simple" xlink:href="../589/19589.xml">
+<b>Remark:</b> This attitude towards risk and uncertainty which assumes that  Nature will play <it> with us,</it>  is rather naive. As noted by Resnik (1987, p. 32<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2252%22])">52</ref>) "... But that rule surely would have few adherence...". Nevetheless it is often used in combination with the <link xlink:type="simple" xlink:href="../589/19589.xml">
 Maximin</link> rule in the formulation of <link xlink:type="simple" xlink:href="../658/10326658.xml">
-Hurwicz</link>'s <it> optimism-pessimisim </it>&nbsp; rule (Resnik 1987<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2252%22])">52</ref>, French 1988<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2253%22])">53</ref>) with a view to mitigate the extreme conservatism of <link xlink:type="simple" xlink:href="../589/19589.xml">
+Hurwicz</link>'s <it> optimism-pessimisim </it>  rule (Resnik 1987<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2252%22])">52</ref>, French 1988<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2253%22])">53</ref>) with a view to mitigate the extreme conservatism of <link xlink:type="simple" xlink:href="../589/19589.xml">
 Maximin</link>.    </p>
 
 </ss1>
@@ -1632,7 +1632,7 @@ To see that this is so, let us generalize info-gap's robustness model and consid
 where in this context <math>\ \displaystyle C \ </math> is some set and <math>\ R\  </math> is some function on <math>\ \displaystyle \mathcal{Q}\times \mathfrak{U} </math>. Note that it is not assumed that <math>\ \displaystyle R \ </math> is a real-valued function.  Also note that "min" is absent from this model.</p>
 <p>
 
-All we need to do to incorporate a <it>min</it>&nbsp; into this model is to express the constraint </p>
+All we need to do to incorporate a <it>min</it>  into this model is to express the constraint </p>
 <p>
 
 <math>
@@ -1735,11 +1735,11 @@ The "inner min" indicates that Nature plays against the DM -- the "max" player -
 <p>
 
 This modeling issue is discussed here because claims have been made that although there is a close relationship between info-gap's robustness and opportuneness models and the generic <link xlink:type="simple" xlink:href="../589/19589.xml">
-Maximin</link> and Minimin models, respectively, the description of info-gap as an <it> instance of </it>&nbsp; these models is too strong.  The argument put forward is that although it is true that info-gap's robustness model can be expressed as a <link xlink:type="simple" xlink:href="../589/19589.xml">
+Maximin</link> and Minimin models, respectively, the description of info-gap as an <it> instance of </it>  these models is too strong.  The argument put forward is that although it is true that info-gap's robustness model can be expressed as a <link xlink:type="simple" xlink:href="../589/19589.xml">
 Maximin</link> model, the former is not an instance of the latter. </p>
 <p>
 
-This objection apparently stems from the fact that any optimization problem can be formulated as a Maximin model by a simple employment of <it>dummy</it>&nbsp; variables. That is, clearly</p>
+This objection apparently stems from the fact that any optimization problem can be formulated as a Maximin model by a simple employment of <it>dummy</it>  variables. That is, clearly</p>
 <p>
 
 <math>
@@ -1758,7 +1758,7 @@ g(y,x) = f(x) \ , \ \forall x\in X, y\in Y
 for any arbitrary non-empty set <math>\ \displaystyle Y \ </math>.</p>
 <p>
 
-The point of this objection seems to be that we are running the risk of watering down the meaning of the term <it> instance </it>&nbsp; if we thus contend that any minimization problem is an instance of the <link xlink:type="simple" xlink:href="../589/19589.xml">
+The point of this objection seems to be that we are running the risk of watering down the meaning of the term <it> instance </it>  if we thus contend that any minimization problem is an instance of the <link xlink:type="simple" xlink:href="../589/19589.xml">
 Maximin</link> model.</p>
 <p>
 
@@ -1779,7 +1779,7 @@ Specifically, as shown above, info-gap's robustness model is an instance of the 
 
 <p>
 
-Furthermore, those objecting to the use of the term <it> instance of </it>&nbsp;  should note that the Maximin model formulated above has an equivalent so called <it> Mathematical Programming </it>&nbsp; (MP) formulation deriving from the fact that
+Furthermore, those objecting to the use of the term <it> instance of </it>   should note that the Maximin model formulated above has an equivalent so called <it> Mathematical Programming </it>  (MP) formulation deriving from the fact that
 <math>
 \begin{array}{ccc}
 \text{Classical Maximin Format}&amp;&amp; \text{MP Maximin Format}\\
@@ -1800,7 +1800,7 @@ Maximin</link> paradigm: </p>
 <math>
 \begin{array}{c}\textit{Robustness\   Model}
 \end{array}</math>
-&nbsp;
+ 
 <math>
 \begin{array}{c|c|c}
 \text{Info-gap Format}&amp; \text{MP Maximin Format}&amp;\text{Classical Maximin Format}\\
@@ -1833,7 +1833,7 @@ Similarly, for info-gap's opportuneness model we have</p>
 <math>
 \begin{array}{c}\textit{Opportuneness\   Model}
 \end{array}</math>
-&nbsp;
+ 
 <math>
 \begin{array}{c|c|c}
 \text{Info-gap Format}&amp; \text{MP Minimin Format}&amp;\text{Classical Minimin Format}\\
@@ -2101,7 +2101,7 @@ Yakov Ben-Haim, 1999, Set-models of information-gap uncertainty: Axioms and an i
 Yakov Ben-Haim, 2000, Robust rationality and decisions under severe uncertainty, <it>Journal of the Franklin Institute</it>, vol. 337: 171-199.</entry>
 <entry id="46">
  <cite style="font-style:normal" class="book">James O Berger&#32;(2006; really 1985). <weblink xlink:type="simple" xlink:href="http://books.google.com/books?id=oY_x7dE15_AC&amp;pg=PA100&amp;dq=isbn:0387960988&amp;sig=AqRaO4FctKZ6JMJp60rRNekfIJk#PPA331,M1">
-Statistical decision theory and Bayesian analysis</weblink>, Second Edition,&#32;New York:&#32;Springer Science + Business Media. ISBN 0-387-96098-8.</cite>&nbsp;
+Statistical decision theory and Bayesian analysis</weblink>, Second Edition,&#32;New York:&#32;Springer Science + Business Media. ISBN 0-387-96098-8.</cite> 
 </entry>
 <entry id="47">
 Tintner, G., ìAbraham Waldís contributions to econometricsî,

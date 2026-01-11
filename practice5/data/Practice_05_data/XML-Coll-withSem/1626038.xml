@@ -320,7 +320,7 @@ http://www.imdb.com/title/tt0117437/</weblink></p>
 Filmfare Best Actor Award</link></signal>
 </award>
 </symbol>
- &mdash; <film_director wordnetid="110088200" confidence="0.9173553029164789">
+ — <film_director wordnetid="110088200" confidence="0.9173553029164789">
 <screenwriter wordnetid="110564400" confidence="0.9173553029164789">
 <film_maker wordnetid="110088390" confidence="0.9173553029164789">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
@@ -339,7 +339,7 @@ Aamir Khan</link></actor>
 Filmfare Best Actress Award</link></signal>
 </award>
 </symbol>
- &mdash; <actress wordnetid="109767700" confidence="0.9173553029164789">
+ — <actress wordnetid="109767700" confidence="0.9173553029164789">
 <actor wordnetid="109765278" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../623/465623.xml">
 Karisma Kapoor</link></actor>
@@ -354,7 +354,7 @@ Karisma Kapoor</link></actor>
 Filmfare Best Movie Award</link></signal>
 </award>
 </symbol>
- &mdash; <physical_entity wordnetid="100001930" confidence="0.8">
+ — <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
 <administrator wordnetid="109770949" confidence="0.8">
@@ -379,7 +379,7 @@ Dharmesh Darshan</link></director>
 Filmfare Best Music Director Award</link></signal>
 </award>
 </symbol>
- &mdash; <link xlink:type="simple" xlink:href="../369/3166369.xml">
+ — <link xlink:type="simple" xlink:href="../369/3166369.xml">
 Nadeem-Shravan</link></entry>
 <entry level="1" type="bullet">
 
@@ -390,7 +390,7 @@ Nadeem-Shravan</link></entry>
 Filmfare Best Male Playback Award</link></signal>
 </award>
 </symbol>
- &mdash; <singer wordnetid="110599806" confidence="0.9173553029164789">
+ — <singer wordnetid="110599806" confidence="0.9173553029164789">
 <actor wordnetid="109765278" confidence="0.9173553029164789">
 <artist wordnetid="109812338" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../337/665337.xml">
@@ -516,7 +516,7 @@ Awards</header>
 </row>
 <row style="text-align:center;">
 <col align="center" width="30%" rowspan="1">
-Preceded&nbsp;by<b><it><link xlink:type="simple" xlink:href="../258/274258.xml">
+Preceded by<b><it><link xlink:type="simple" xlink:href="../258/274258.xml">
 Dilwale Dulhaniya Le Jayenge</link></it></b><b>  दिलवाले दुल्हनिया ले जाऐंगे</b></col>
 <col style="text-align: center;" width="40%" rowspan="1">
 <b><symbol wordnetid="106806469" confidence="0.8">
@@ -528,7 +528,7 @@ Filmfare Award for Best Film</link></signal>
 </symbol>
 </b>1996</col>
 <col align="center" width="30%" rowspan="1">
- Succeeded&nbsp;by<b><it><movie wordnetid="106613686" confidence="0.9508927676800064">
+ Succeeded by<b><it><movie wordnetid="106613686" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../450/1654450.xml">
 Dil To Pagal Hai</link></movie>
 </it></b><b>  दिल तो पागल है</b></col>
@@ -554,9 +554,9 @@ Bollywood (Hindi cinema)</link></header>
 <col colspan="2" style=";" class="navbox-abovebelow">
 
 Hindi film directors|Directors
-&nbsp;·  
-Hindi film actors|Actors&nbsp;·  
-Bollywood playback singers|Playback singers&nbsp;·  <music wordnetid="107020895" confidence="0.8">
+ ·  
+Hindi film actors|Actors ·  
+Bollywood playback singers|Playback singers ·  <music wordnetid="107020895" confidence="0.8">
 <song wordnetid="107048000" confidence="0.8">
 <auditory_communication wordnetid="107109019" confidence="0.8">
 <musical_composition wordnetid="107037465" confidence="0.8">
@@ -578,9 +578,9 @@ Films
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;text-align:center;;;" class="navbox-list navbox-odd">
 
-Hindi-language films|Hindi films A-Z&nbsp;&mdash;  <link xlink:type="simple" xlink:href="../185/11872185.xml">
-Highest-grossing</link>&nbsp;·  <link xlink:type="simple" xlink:href="../561/11875561.xml">
-Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wordnetid="104007894" confidence="0.8">
+Hindi-language films|Hindi films A-Z —  <link xlink:type="simple" xlink:href="../185/11872185.xml">
+Highest-grossing</link> ·  <link xlink:type="simple" xlink:href="../561/11875561.xml">
+Highest-grossing overseas</link> — <b>Films by year:</b> <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -597,7 +597,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -614,7 +614,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -631,7 +631,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -648,7 +648,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -665,7 +665,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -682,7 +682,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -699,7 +699,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -716,7 +716,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -733,7 +733,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -750,7 +750,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -767,7 +767,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -784,7 +784,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -801,7 +801,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -818,7 +818,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -835,7 +835,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -852,7 +852,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -869,7 +869,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -886,7 +886,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -903,7 +903,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -920,7 +920,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -937,7 +937,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -954,7 +954,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -971,7 +971,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -988,7 +988,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1005,7 +1005,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1022,7 +1022,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1039,7 +1039,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1056,7 +1056,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1073,7 +1073,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1090,7 +1090,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1107,7 +1107,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1124,7 +1124,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1141,7 +1141,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1158,7 +1158,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1175,7 +1175,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1192,7 +1192,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1209,7 +1209,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1226,7 +1226,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1243,7 +1243,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1260,7 +1260,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1277,7 +1277,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1294,7 +1294,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1311,7 +1311,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1328,7 +1328,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1345,7 +1345,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1362,7 +1362,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1379,7 +1379,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1396,7 +1396,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1413,7 +1413,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1430,7 +1430,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1447,7 +1447,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1464,7 +1464,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1481,7 +1481,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1498,7 +1498,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1515,7 +1515,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1532,7 +1532,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1549,7 +1549,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1566,7 +1566,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1583,7 +1583,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1600,7 +1600,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1617,7 +1617,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1634,7 +1634,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1651,7 +1651,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1668,7 +1668,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1685,7 +1685,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1702,7 +1702,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1719,7 +1719,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1736,7 +1736,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1753,7 +1753,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1770,7 +1770,7 @@ Highest-grossing overseas</link>&nbsp;&mdash; <b>Films by year:</b> <product wor
 </artifact>
 </creation>
 </product>
-&nbsp;·  <product wordnetid="104007894" confidence="0.8">
+ ·  <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">

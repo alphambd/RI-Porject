@@ -41,16 +41,16 @@ access method</link>s</header>
 Storage</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../970/13554970.xml">
-EXCP</link> &nbsp;·  <link xlink:type="simple" xlink:href="../030/16245030.xml">
-BDAM</link> &nbsp;·  <link xlink:type="simple" xlink:href="../123/13720123.xml">
-BSAM</link> &nbsp;·  <system wordnetid="104377057" confidence="0.8">
+EXCP</link>  ·  <link xlink:type="simple" xlink:href="../030/16245030.xml">
+BDAM</link>  ·  <link xlink:type="simple" xlink:href="../123/13720123.xml">
+BSAM</link>  ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../435/13260435.xml">
 QSAM</link></instrumentality>
 </artifact>
 </system>
- &nbsp;·  <system wordnetid="104377057" confidence="0.8">
+  ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../642/13578642.xml">
@@ -65,14 +65,14 @@ BPAM</link></instrumentality>
 ISAM</link></instrumentality>
 </artifact>
 </system>
- &nbsp;·  <system wordnetid="104377057" confidence="0.8">
+  ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../497/316497.xml">
 VSAM</link></instrumentality>
 </artifact>
 </system>
- &nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+  ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../100/17289100.xml">
 OAM</link></method>
@@ -87,9 +87,9 @@ OAM</link></method>
 Network</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../832/8252832.xml">
-BTAM</link> &nbsp;·  <link xlink:type="simple" xlink:href="../076/4256076.xml">
-QTAM</link> &nbsp;·  <link xlink:type="simple" xlink:href="../519/15232519.xml">
-TCAM</link> &nbsp;·  <link xlink:type="simple" xlink:href="../826/864826.xml">
+BTAM</link>  ·  <link xlink:type="simple" xlink:href="../076/4256076.xml">
+QTAM</link>  ·  <link xlink:type="simple" xlink:href="../519/15232519.xml">
+TCAM</link>  ·  <link xlink:type="simple" xlink:href="../826/864826.xml">
 VTAM</link></col>
 </row>
 </table>

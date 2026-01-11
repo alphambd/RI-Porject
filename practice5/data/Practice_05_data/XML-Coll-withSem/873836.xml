@@ -52,7 +52,7 @@ Nintendo</link></company>
 border 
 </caption>
 </image>
-&nbsp;<link xlink:type="simple" xlink:href="../573/15573.xml">
+ <link xlink:type="simple" xlink:href="../573/15573.xml">
 JPN</link> <link xlink:type="simple" xlink:href="../579/21579.xml">
 November 28</link>, <link xlink:type="simple" xlink:href="../598/34598.xml">
 1993</link><image width="22x20px" src="Flag_of_the_United_States.svg">
@@ -61,7 +61,7 @@ November 28</link>, <link xlink:type="simple" xlink:href="../598/34598.xml">
 border 
 </caption>
 </image>
-&nbsp;<body wordnetid="107965085" confidence="0.8">
+ <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <political_orientation wordnetid="106212839" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
@@ -201,7 +201,7 @@ Dream Land</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -212,7 +212,7 @@ Adventure</link></psychological_feature>
 </contest>
 </social_event>
 </event>
- / </it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+ / </it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -223,7 +223,7 @@ Dream Land 2</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -235,7 +235,7 @@ Super Star</link></psychological_feature>
 </social_event>
 </event>
 </it> / <it><link>
-Ultra</link></it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+Ultra</link></it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -246,7 +246,7 @@ Dream Land 3</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  &nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·   ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -257,7 +257,7 @@ Amazing Mirror</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  &nbsp;·  &nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·   ·   ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -289,7 +289,7 @@ Pinball Land</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -300,7 +300,7 @@ Avalanche</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -311,7 +311,7 @@ Dream Course</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -322,7 +322,7 @@ Block Ball</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -333,7 +333,7 @@ Star Stacker</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">
@@ -344,7 +344,7 @@ Tilt 'n' Tumble</link></psychological_feature>
 </contest>
 </social_event>
 </event>
-</it>&nbsp;·  <it><event wordnetid="100029378" confidence="0.8">
+</it> ·  <it><event wordnetid="100029378" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
 <contest wordnetid="107456188" confidence="0.8">
 <game wordnetid="100456199" confidence="0.8">

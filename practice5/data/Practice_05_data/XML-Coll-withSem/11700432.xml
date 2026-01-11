@@ -288,7 +288,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 33.3: Finding the convex hull, pp.947&ndash;957.</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 33.3: Finding the convex hull, pp.947–957.</entry>
 <entry level="1" type="bullet">
 
  <physical_entity wordnetid="100001930" confidence="0.8">
@@ -309,7 +309,7 @@ Franco P. Preparata</link></associate>
 </peer>
 </physical_entity>
 , <link>
-S.J. Hong</link>. <it>Convex Hulls of Finite Sets of Points in Two and Three Dimensions</it>, Commun. ACM, vol. 20, no. 2, pp. 87&ndash;93, 1977.</entry>
+S.J. Hong</link>. <it>Convex Hulls of Finite Sets of Points in Two and Three Dimensions</it>, Commun. ACM, vol. 20, no. 2, pp. 87–93, 1977.</entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal" class="book"><link>
@@ -327,7 +327,7 @@ Mark Overmars</link></research_worker>
 </physical_entity>
 , and <link>
 Otfried Schwarzkopf</link>&#32;(2000). Computational Geometry, 2nd revised edition,&#32;<link xlink:type="simple" xlink:href="../949/1418949.xml">
-Springer-Verlag</link>. ISBN 3-540-65620-0.</cite>&nbsp; Section 1.1: An Example: Convex Hulls (describes classical algorithms for 2-dimensional convex hulls). Chapter 11: Convex Hulls: pp.235&ndash;250 (describes a randomized algorithm for 3-dimensional convex hulls due to Clarkson and Shor).</entry>
+Springer-Verlag</link>. ISBN 3-540-65620-0.</cite>  Section 1.1: An Example: Convex Hulls (describes classical algorithms for 2-dimensional convex hulls). Chapter 11: Convex Hulls: pp.235–250 (describes a randomized algorithm for 3-dimensional convex hulls due to Clarkson and Shor).</entry>
 </list>
 </p>
 

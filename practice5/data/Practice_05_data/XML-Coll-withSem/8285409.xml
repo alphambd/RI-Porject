@@ -140,7 +140,7 @@ Specifically, the <it>normalized Google distance</it> between two search terms <
 </math>
 </indent>
 
-where <it>M</it> is the total number of web pages searched by Google; <it>f</it>(<it>x</it>) and <it>f</it>(<it>y</it>) are the number of hits for search terms <it>x</it> and <it>y</it>, respectively; and <it>f</it>(<it>x</it>,&nbsp;<it>y</it>) is the number of web pages on which both <it>x</it> and <it>y</it> occur.</p>
+where <it>M</it> is the total number of web pages searched by Google; <it>f</it>(<it>x</it>) and <it>f</it>(<it>y</it>) are the number of hits for search terms <it>x</it> and <it>y</it>, respectively; and <it>f</it>(<it>x</it>, <it>y</it>) is the number of web pages on which both <it>x</it> and <it>y</it> occur.</p>
 <p>
 
 If the two search terms <it>x</it> and <it>y</it> never occur together on the same web page, but do occur separately, the normalized Google distance between them is infinite. If both terms always occur together, their NGD is zero.</p>

@@ -1021,7 +1021,7 @@ Protected Mode Overview and Tutorial</weblink></entry>
 <entry id="1">
 "<weblink xlink:type="simple" xlink:href="http://www.patentstorm.us/patents/5483646-claims.html">
 Memory access control method and system for realizing the same - US Patent 5483646</weblink>"&#32;(Patent)&#32;(23).&#32;Retrieved on <link>
-2007-07-14</link>.&nbsp;"The memory access control system according to claim 4, wherein said first address mode is a real address mode, and said second address mode is a protected virtual address mode."
+2007-07-14</link>. "The memory access control system according to claim 4, wherein said first address mode is a real address mode, and said second address mode is a protected virtual address mode."
 </entry>
 <entry id="2">
  <cite style="font-style:normal" class="book">&#32;(May 2007)&#32;"2.1.2 The Intel 286 Processor (1982)", <weblink xlink:type="simple" xlink:href="http://www.intel.com/products/processor/manuals/index.htm">
@@ -1038,12 +1038,12 @@ Colorado</link></country>
 </administrative_district>
 </region>
 :&#32;<link xlink:type="simple" xlink:href="../617/14617.xml">
-Intel</link>,&#32;34.</cite>&nbsp;
+Intel</link>,&#32;34.</cite> 
 </entry>
 <entry id="3">
 "<weblink xlink:type="simple" xlink:href="http://www.intel.com/intel/finance/gcr03/39-years_of_innovation.htm">
 Intel Global Citizenship Report 2003</weblink>"&#32;(Timeline).&#32;Retrieved on <link>
-2007-07-14</link>.&nbsp;"1985 Intel launches Intel386™ processor"
+2007-07-14</link>. "1985 Intel launches Intel386™ processor"
 </entry>
 <entry id="4">
  <cite style="font-style:normal" class="book">&#32;(May 2007)&#32;"2.1.3 The Intel 386 Processor (1985)", <weblink xlink:type="simple" xlink:href="http://www.intel.com/products/processor/manuals/index.htm">
@@ -1060,12 +1060,12 @@ Colorado</link></country>
 </administrative_district>
 </region>
 :&#32;<link xlink:type="simple" xlink:href="../617/14617.xml">
-Intel</link>,&#32;35.</cite>&nbsp;
+Intel</link>,&#32;35.</cite> 
 </entry>
 <entry id="5">
 "<weblink xlink:type="simple" xlink:href="http://www.delorie.com/djgpp/doc/ug/basics/protected.html">
 Guide: What does protected mode mean?</weblink>"&#32;(Guide).&#32;  Delorie software&#32;(14).&#32;Retrieved on <link>
-2007-07-14</link>.&nbsp;"The purpose of protected mode is not to protect your program. The purpose is to protect everyone else (including the operating system) from your program."
+2007-07-14</link>. "The purpose of protected mode is not to protect your program. The purpose is to protect everyone else (including the operating system) from your program."
 </entry>
 <entry id="6">
  <cite style="font-style:normal" class="book">&#32;(May 2007)&#32;"3.1 Modes of Operation", <weblink xlink:type="simple" xlink:href="http://www.intel.com/products/processor/manuals/index.htm">
@@ -1082,7 +1082,7 @@ Colorado</link></country>
 </administrative_district>
 </region>
 :&#32;<link xlink:type="simple" xlink:href="../617/14617.xml">
-Intel</link>,&#32;59.</cite>&nbsp;
+Intel</link>,&#32;59.</cite> 
 </entry>
 <entry id="7">
 Collins, Robert&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://www.x86.org/articles/pmbasics/tspec_a1_doc.htm">
@@ -1104,7 +1104,7 @@ Colorado</link></country>
 </administrative_district>
 </region>
 :&#32;<link xlink:type="simple" xlink:href="../617/14617.xml">
-Intel</link>,&#32;31.</cite>&nbsp;
+Intel</link>,&#32;31.</cite> 
 </entry>
 <entry id="9">
 "<weblink xlink:type="simple" xlink:href="http://www.brainbell.com/tutors/A+/Hardware/PC_Microprocessor_Developments_and_Features.htm">
@@ -1114,7 +1114,7 @@ A+ - Hardware - PC Microprocessor Developments and Features Tutorials</weblink>"
 <entry id="10">
 &#32;(23).&#32;"<weblink xlink:type="simple" xlink:href="http://www.pcmech.com/show/processors/35/">
 A CPU History</weblink>"&#32;(Article).&#32;  PCMechanic.&#32;Retrieved on <link>
-2007-07-24</link>.&nbsp;"What is interesting is that the designers of the time never suspected anyone would ever need more than 1 MB of RAM."
+2007-07-24</link>. "What is interesting is that the designers of the time never suspected anyone would ever need more than 1 MB of RAM."
 </entry>
 <entry id="11">
 Kaplan, Yariv&#32;(1997).&#32;"<weblink xlink:type="simple" xlink:href="http://www.internals.com/articles/protmode/introduction.htm">
@@ -1125,10 +1125,10 @@ Introduction to Protected-Mode</weblink>"&#32;(Article).&#32;  Internals.com.&#3
  <cite id="Reference-Mueller-2006" style="font-style:normal" class="book">&#32;(24).&#32;"<weblink xlink:type="simple" xlink:href="http://www.informit.com/articles/article.aspx?p=481859&amp;seqNum=13">
 P2 (286) Second-Generation Processors</weblink>", <weblink xlink:type="simple" xlink:href="http://www.informit.com/store/product.aspx?isbn=0789734044">
 Upgrading and Repairing PCs, 17th Edition</weblink>&#32;(Book), 17,&#32;Que. ISBN 0-7897-3404-4. Retrieved on <link xlink:type="simple" xlink:href="../650/9518650.xml">
-July 2007</link>.</cite>&nbsp;
+July 2007</link>.</cite> 
 </entry>
 <entry id="13">
- <cite style="font-style:normal" class="book">&#32;(1986)&#32;"2.1 Memory Organization and Segmentation", Intel 80386 Programmer's Reference Manual 1986&#32;(Manual),&#32;Santa Clara, CA:&#32;Intel.</cite>&nbsp;
+ <cite style="font-style:normal" class="book">&#32;(1986)&#32;"2.1 Memory Organization and Segmentation", Intel 80386 Programmer's Reference Manual 1986&#32;(Manual),&#32;Santa Clara, CA:&#32;Intel.</cite> 
 </entry>
 <entry id="14">
  <cite style="font-style:normal" class="book">&#32;(May 2007)&#32;"3.1 Modes of Operation", <weblink xlink:type="simple" xlink:href="http://www.intel.com/products/processor/manuals/index.htm">
@@ -1145,22 +1145,22 @@ Colorado</link></country>
 </administrative_district>
 </region>
 :&#32;<link xlink:type="simple" xlink:href="../617/14617.xml">
-Intel</link>,&#32;55.</cite>&nbsp;
+Intel</link>,&#32;55.</cite> 
 </entry>
 <entry id="15">
  <cite id="Reference-Hyde-2004" style="font-style:normal" class="book">Hyde, Randall&#32;(November 2004).&#32;"12.10. Protected Mode Operation and Device Drivers", <weblink xlink:type="simple" xlink:href="http://safari.oreilly.com/1593270038/ns1593270038-CHP-12-SECT-10">
-Write Great Code</weblink>.&#32;O'Reilly. ISBN 1-59327-003-8.</cite>&nbsp;
+Write Great Code</weblink>.&#32;O'Reilly. ISBN 1-59327-003-8.</cite> 
 </entry>
 <entry id="17">
- <cite style="font-style:normal" class="book">&#32;(1986)&#32;"7 Multitasking", Intel 80386 Programmer's Reference Manual 1986&#32;(Manual),&#32;Santa Clara, CA:&#32;Intel.</cite>&nbsp;
+ <cite style="font-style:normal" class="book">&#32;(1986)&#32;"7 Multitasking", Intel 80386 Programmer's Reference Manual 1986&#32;(Manual),&#32;Santa Clara, CA:&#32;Intel.</cite> 
 </entry>
 <entry id="16">
 Shvets, Gennadiy&#32;(3).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cpu-world.com/CPUs/80386/index.html">
 Intel 80386 processor family</weblink>"&#32;(Article).&#32;Retrieved on <link>
-2007-07-24</link>.&nbsp;"80386SX - low cost version of the 80386. This processor had 16 bit external data bus and 24-bit external address bus."
+2007-07-24</link>. "80386SX - low cost version of the 80386. This processor had 16 bit external data bus and 24-bit external address bus."
 </entry>
 <entry id="19">
- <cite style="font-style:normal" class="book">&#32;(1987)&#32;"1.3.1 Memory Management", Intel 80286 Programmer's Reference Manual 1987&#32;(Manual),&#32;Santa Clara, CA:&#32;Intel.</cite>&nbsp;
+ <cite style="font-style:normal" class="book">&#32;(1987)&#32;"1.3.1 Memory Management", Intel 80286 Programmer's Reference Manual 1987&#32;(Manual),&#32;Santa Clara, CA:&#32;Intel.</cite> 
 </entry>
 <entry id="18">
  <cite style="font-style:normal" class="book">&#32;(May 2007)&#32;"6.3.5 Calls to Other Privilege Levels", <weblink xlink:type="simple" xlink:href="http://www.intel.com/products/processor/manuals/index.htm">
@@ -1177,15 +1177,15 @@ Colorado</link></country>
 </administrative_district>
 </region>
 :&#32;<link xlink:type="simple" xlink:href="../617/14617.xml">
-Intel</link>,&#32;162.</cite>&nbsp;
+Intel</link>,&#32;162.</cite> 
 </entry>
 <entry id="21">
 "<weblink xlink:type="simple" xlink:href="http://www.freepatentsonline.com/6105101.html">
 Memory access control method and system for realizing the same - US Patent 5483646</weblink>"&#32;(Patent)&#32;(6).&#32;Retrieved on <link>
-2007-07-25</link>.&nbsp;"This has been impossible to-date and has forced BIOS development teams to add support into the BIOS for 32 bit function calls from 32 bit applications."
+2007-07-25</link>. "This has been impossible to-date and has forced BIOS development teams to add support into the BIOS for 32 bit function calls from 32 bit applications."
 </entry>
 <entry id="20">
- <cite style="font-style:normal" class="book">&#32;(1987)&#32;"Appendix C  8086/8088 Compatibility Considerations", Intel 80286 Programmer's Reference Manual 1987&#32;(Manual),&#32;Santa Clara, CA:&#32;Intel.</cite>&nbsp;
+ <cite style="font-style:normal" class="book">&#32;(1987)&#32;"Appendix C  8086/8088 Compatibility Considerations", Intel 80286 Programmer's Reference Manual 1987&#32;(Manual),&#32;Santa Clara, CA:&#32;Intel.</cite> 
 </entry>
 <entry id="23">
 Robinson, Tim&#32;(26).&#32;"<weblink xlink:type="simple" xlink:href="http://osdev.berlios.de/v86.html">
@@ -1195,7 +1195,7 @@ Virtual 8086 Mode</weblink>"&#32;(Guide).&#32;  berliOS.&#32;Retrieved on <link>
 <entry id="22">
 Robinson, Tim&#32;(26).&#32;"<weblink xlink:type="simple" xlink:href="http://osdev.berlios.de/v86.html">
 Virtual 8086 Mode</weblink>"&#32;(Guide).&#32;  berliOS.&#32;Retrieved on <link>
-2007-07-25</link>.&nbsp;"...secondly, protected mode was also incompatible with the vast amount of real-mode code around at the time."
+2007-07-25</link>. "...secondly, protected mode was also incompatible with the vast amount of real-mode code around at the time."
 </entry>
 <entry id="25">
  <cite style="font-style:normal" class="book">&#32;(May 2007)&#32;"15.2.7 Sensitive Instructions", <weblink xlink:type="simple" xlink:href="http://www.intel.com/products/processor/manuals/index.htm">
@@ -1212,7 +1212,7 @@ Colorado</link></country>
 </administrative_district>
 </region>
 :&#32;<link xlink:type="simple" xlink:href="../617/14617.xml">
-Intel</link>,&#32;568.</cite>&nbsp;
+Intel</link>,&#32;568.</cite> 
 </entry>
 <entry id="24">
  <cite style="font-style:normal" class="book">&#32;(May 2007)&#32;"15.2 Virtual 8086 Mode", <weblink xlink:type="simple" xlink:href="http://www.intel.com/products/processor/manuals/index.htm">
@@ -1229,20 +1229,20 @@ Colorado</link></country>
 </administrative_district>
 </region>
 :&#32;<link xlink:type="simple" xlink:href="../617/14617.xml">
-Intel</link>,&#32;560.</cite>&nbsp;
+Intel</link>,&#32;560.</cite> 
 </entry>
 <entry id="27">
- <cite id="Reference-Dabak-1999" style="font-style:normal" class="book">;&#32;Millind Borate&#32;(October 1999). Undocumented Windows NT&#32;(Book),&#32;Hungry Minds. ISBN 0764545698.</cite>&nbsp;
+ <cite id="Reference-Dabak-1999" style="font-style:normal" class="book">;&#32;Millind Borate&#32;(October 1999). Undocumented Windows NT&#32;(Book),&#32;Hungry Minds. ISBN 0764545698.</cite> 
 </entry>
 <entry id="26">
 Robinson, Tim&#32;(26).&#32;"<weblink xlink:type="simple" xlink:href="http://osdev.berlios.de/v86.html">
 Virtual 8086 Mode</weblink>"&#32;(Guide).&#32;  berliOS.&#32;Retrieved on <link>
-2007-07-25</link>.&nbsp;"A downside to using V86 mode is speed: every IOPL-sensitive instruction will cause the CPU to trap to kernel mode, as will I/O to ports which are masked out in the TSS."
+2007-07-25</link>. "A downside to using V86 mode is speed: every IOPL-sensitive instruction will cause the CPU to trap to kernel mode, as will I/O to ports which are masked out in the TSS."
 </entry>
 <entry id="29">
 "<weblink xlink:type="simple" xlink:href="http://technet2.microsoft.com/windowsserver/en/library/efc41320-713f-4004-bc81-ddddfc8552651033.mspx?mfr=true">
 What Is PAE X86?</weblink>"&#32;(Article).&#32;  Microsoft TechNet&#32;(28).&#32;Retrieved on <link>
-2007-07-29</link>.&nbsp;"The paging process allows the operating system to overcome the real physical memory limits. However, it also has a direct impact on performance because of the time necessary to write or retrieve data from disk."
+2007-07-29</link>. "The paging process allows the operating system to overcome the real physical memory limits. However, it also has a direct impact on performance because of the time necessary to write or retrieve data from disk."
 </entry>
 <entry id="28">
 "<weblink xlink:type="simple" xlink:href="http://www.deinmeister.de/x86modes.htm#c1">
@@ -1252,17 +1252,17 @@ ProtectedMode overview [deinmeister.de</weblink>]"&#32;(Website).&#32;Retrieved 
 <entry id="31">
 "<weblink xlink:type="simple" xlink:href="http://neworder.box.sk/newsread.php?newsid=10562">
 NewOrer - news: Multitasking for x86 explained #1</weblink>"&#32;(Article).&#32;  NewOrder&#32;(2).&#32;Retrieved on <link>
-2007-07-29</link>.&nbsp;"The reason why software task switching is so popular is that it can be faster than hardware task switching. Intel never actually developed the hardware task switching, they implemented it, saw that it worked, and just left it there. Advances in multitasking using software have made this form of task switching faster (some say up to 3 times faster) than the hardware method. Another reason is that the Intel way of switching tasks isn't portable at all"
+2007-07-29</link>. "The reason why software task switching is so popular is that it can be faster than hardware task switching. Intel never actually developed the hardware task switching, they implemented it, saw that it worked, and just left it there. Advances in multitasking using software have made this form of task switching faster (some say up to 3 times faster) than the hardware method. Another reason is that the Intel way of switching tasks isn't portable at all"
 </entry>
 <entry id="30">
 Gareau, Jean.&#32;"<weblink xlink:type="simple" xlink:href="http://www.embedded.com/98/9806fe2.htm">
 Advanced Embedded x86 Programming: Paging</weblink>"&#32;(Guide).&#32;  Embedded.com.&#32;Retrieved on <link>
-2007-07-29</link>.&nbsp;"Only one page directory may be active at a time, indicated by the CR3 register."
+2007-07-29</link>. "Only one page directory may be active at a time, indicated by the CR3 register."
 </entry>
 <entry id="32">
 "<weblink xlink:type="simple" xlink:href="http://neworder.box.sk/newsread.php?newsid=10562">
 NewOrer - news: Multitasking for x86 explained #1</weblink>"&#32;(Article).&#32;  NewOrder&#32;(2).&#32;Retrieved on <link>
-2007-07-29</link>.&nbsp;"...both rely on the Intel processors ability to switch tasks, they rely on it in different ways."
+2007-07-29</link>. "...both rely on the Intel processors ability to switch tasks, they rely on it in different ways."
 </entry>
 </reflist>
 </p>
@@ -1286,7 +1286,7 @@ Operating system</link></header>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../395/55395.xml">
-History</link>&nbsp;·  <record wordnetid="106647206" confidence="0.8">
+History</link> ·  <record wordnetid="106647206" confidence="0.8">
 <chronology wordnetid="106503224" confidence="0.8">
 <indication wordnetid="106797169" confidence="0.8">
 <evidence wordnetid="106643408" confidence="0.8">
@@ -1299,7 +1299,7 @@ Timeline</link></written_record>
 </indication>
 </chronology>
 </record>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <electronic_database wordnetid="106588511" confidence="0.8">
 <lexical_database wordnetid="106638868" confidence="0.8">
@@ -1312,7 +1312,7 @@ Developement</link></database>
 </electronic_database>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../531/981531.xml">
+ ·  <link xlink:type="simple" xlink:href="../531/981531.xml">
 List</link></col>
 </row>
 <row style="height:2px">
@@ -1329,7 +1329,7 @@ Kernel</link></col>
 General</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../023/20023.xml">
-Microkernel</link>&nbsp;·  <link xlink:type="simple" xlink:href="../023/20023.xml#xpointer(//*[./st=%22Nanokernel%22])">
+Microkernel</link> ·  <link xlink:type="simple" xlink:href="../023/20023.xml#xpointer(//*[./st=%22Nanokernel%22])">
 Nanokernel</link></col>
 </row>
 <row style="height:2px">
@@ -1340,14 +1340,14 @@ Nanokernel</link></col>
 Types</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../825/20825.xml">
-monolithic</link>&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+monolithic</link> ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../041/4345041.xml">
 hybrid</link></kernel>
 </natural_object>
 </plant_part>
-&nbsp;·  <plant_part wordnetid="113086908" confidence="0.8">
+ ·  <plant_part wordnetid="113086908" confidence="0.8">
 <natural_object wordnetid="100019128" confidence="0.8">
 <kernel wordnetid="113137010" confidence="0.8">
 <link xlink:type="simple" xlink:href="../757/95757.xml">
@@ -1364,10 +1364,10 @@ exokernel</link></kernel>
 Components</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../467/93467.xml">
-Kernel space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../658/371658.xml">
-Loadable kernel module</link>&nbsp;·  <link xlink:type="simple" xlink:href="../101/9101.xml">
-device driver</link>&nbsp;·  <link xlink:type="simple" xlink:href="../467/93467.xml">
-User space</link>&nbsp;·  <link xlink:type="simple" xlink:href="../109/555109.xml">
+Kernel space</link> ·  <link xlink:type="simple" xlink:href="../658/371658.xml">
+Loadable kernel module</link> ·  <link xlink:type="simple" xlink:href="../101/9101.xml">
+device driver</link> ·  <link xlink:type="simple" xlink:href="../467/93467.xml">
+User space</link> ·  <link xlink:type="simple" xlink:href="../109/555109.xml">
 Userland</link></col>
 </row>
 </table>
@@ -1382,17 +1382,17 @@ Userland</link></col>
 Process management</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../178/45178.xml">
-Process</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Multiprogramming</link>&nbsp;·  <link xlink:type="simple" xlink:href="../289/15289.xml">
-Interrupt</link>&nbsp;·  Modes: (<link xlink:type="simple" xlink:href="../596/167596.xml">
-Protected mode</link>&nbsp;·  <link>
-Supervisor mode</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Computer multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../920/231920.xml">
-Scheduling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../904/6904.xml">
-Context switch</link>&nbsp;·  <link xlink:type="simple" xlink:href="../857/6857.xml">
-Cooperative multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../566/2204566.xml">
-Preemptive multitasking</link>&nbsp;·  <link xlink:type="simple" xlink:href="../954/3991954.xml">
-CPU modes</link>&nbsp;·  <link xlink:type="simple" xlink:href="../303/45303.xml">
+Process</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Multiprogramming</link> ·  <link xlink:type="simple" xlink:href="../289/15289.xml">
+Interrupt</link> ·  Modes: (<link xlink:type="simple" xlink:href="../596/167596.xml">
+Protected mode</link> ·  <link>
+Supervisor mode</link>) ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Computer multitasking</link> ·  <link xlink:type="simple" xlink:href="../920/231920.xml">
+Scheduling</link> ·  <link xlink:type="simple" xlink:href="../904/6904.xml">
+Context switch</link> ·  <link xlink:type="simple" xlink:href="../857/6857.xml">
+Cooperative multitasking</link> ·  <link xlink:type="simple" xlink:href="../566/2204566.xml">
+Preemptive multitasking</link> ·  <link xlink:type="simple" xlink:href="../954/3991954.xml">
+CPU modes</link> ·  <link xlink:type="simple" xlink:href="../303/45303.xml">
 Thread (computer science)</link></col>
 </row>
 <row style="height:2px">
@@ -1403,11 +1403,11 @@ Thread (computer science)</link></col>
 Memory management</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../373/515373.xml">
-Memory protection</link>&nbsp;·  <link xlink:type="simple" xlink:href="../131/1323131.xml">
-Segmentation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../193/311193.xml">
-Paging</link>&nbsp;·  <link xlink:type="simple" xlink:href="../112/177112.xml">
-Memory management unit</link>&nbsp;·  <link xlink:type="simple" xlink:href="../803/28803.xml">
-Segmentation fault</link>&nbsp;·  <link xlink:type="simple" xlink:href="../943/573943.xml">
+Memory protection</link> ·  <link xlink:type="simple" xlink:href="../131/1323131.xml">
+Segmentation</link> ·  <link xlink:type="simple" xlink:href="../193/311193.xml">
+Paging</link> ·  <link xlink:type="simple" xlink:href="../112/177112.xml">
+Memory management unit</link> ·  <link xlink:type="simple" xlink:href="../803/28803.xml">
+Segmentation fault</link> ·  <link xlink:type="simple" xlink:href="../943/573943.xml">
 General protection fault</link></col>
 </row>
 <row style="height:2px">
@@ -1420,24 +1420,24 @@ Examples</col>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../304/18933304.xml">
 AmigaOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../801/4801.xml">
-BeOS</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../801/4801.xml">
+BeOS</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/22409.xml">
 IBM OS/2</link></O>
-&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../027/20027.xml">
 MS-DOS</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../890/18890.xml">
-Windows</link>&nbsp;·  <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../890/18890.xml">
+Windows</link> ·  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
-&nbsp;·  <link xlink:type="simple" xlink:href="../642/31642.xml">
-UNIX</link>&nbsp;·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
-OpenSolaris</link>&nbsp;·  <link xlink:type="simple" xlink:href="../640/20640.xml">
-Mac OS X</link>&nbsp;·   <O wordnetid="106832680" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../642/31642.xml">
+UNIX</link> ·  <link xlink:type="simple" xlink:href="../658/1178658.xml">
+OpenSolaris</link> ·  <link xlink:type="simple" xlink:href="../640/20640.xml">
+Mac OS X</link> ·   <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/360889.xml">
 ReactOS</link></O>
-&nbsp;·  <it><link xlink:type="simple" xlink:href="../916/71916.xml">
+ ·  <it><link xlink:type="simple" xlink:href="../916/71916.xml">
 more…</link>''</it></col>
 </row>
 <row style="height:2px">
@@ -1448,23 +1448,23 @@ more…</link>''</it></col>
 Miscellaneous concepts</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../679/6885679.xml">
-Boot loader</link>&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+Boot loader</link> ·  <standard wordnetid="107260623" confidence="0.8">
 <system_of_measurement wordnetid="113577171" confidence="0.8">
 <link xlink:type="simple" xlink:href="../253/432253.xml">
 PXE</link></system_of_measurement>
 </standard>
-&nbsp;·  <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
-API</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../ury/24th_century.xml">
+API</link> ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../131/351131.xml">
 Virtual file system</link></instrumentality>
 </artifact>
 </system>
-&nbsp;·  <link xlink:type="simple" xlink:href="../071/2550071.xml">
-Virtual tape library</link>&nbsp;·  <link xlink:type="simple" xlink:href="../592/4122592.xml">
-Computer network</link>&nbsp;·  <link xlink:type="simple" xlink:href="../293/12293.xml">
-GUI</link>&nbsp;·  <link xlink:type="simple" xlink:href="../511/425511.xml">
+ ·  <link xlink:type="simple" xlink:href="../071/2550071.xml">
+Virtual tape library</link> ·  <link xlink:type="simple" xlink:href="../592/4122592.xml">
+Computer network</link> ·  <link xlink:type="simple" xlink:href="../293/12293.xml">
+GUI</link> ·  <link xlink:type="simple" xlink:href="../511/425511.xml">
 HAL</link></col>
 </row>
 </table>

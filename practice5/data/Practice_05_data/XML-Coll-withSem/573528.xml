@@ -38,13 +38,13 @@ Activities and steps</header>
 <col colspan="2" style="text-align:center; line-height:1.4em;" class="">
 <link xlink:type="simple" xlink:href="../449/522449.xml">
 Requirements</link>
-&nbsp;·  <link xlink:type="simple" xlink:href="../231/9053231.xml">
+ ·  <link xlink:type="simple" xlink:href="../231/9053231.xml">
 Specification</link> <link xlink:type="simple" xlink:href="../364/48364.xml">
-Architecture</link>&nbsp;·  <link xlink:type="simple" xlink:href="../325/223325.xml">
+Architecture</link> ·  <link xlink:type="simple" xlink:href="../325/223325.xml">
 Design</link> <link xlink:type="simple" xlink:href="../311/5311.xml">
-Implementation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../090/29090.xml">
+Implementation</link> ·  <link xlink:type="simple" xlink:href="../090/29090.xml">
 Testing</link> <link xlink:type="simple" xlink:href="../759/1688759.xml">
-Deployment</link>&nbsp;·  <link xlink:type="simple" xlink:href="../960/780960.xml">
+Deployment</link> ·  <link xlink:type="simple" xlink:href="../960/780960.xml">
 Maintenance</link></col>
 </row>
 <row>
@@ -59,18 +59,18 @@ Models</header>
 Agile</link></doctrine>
 </belief>
 
-&nbsp;·  <link xlink:type="simple" xlink:href="../116/3348116.xml">
-Cleanroom</link>&nbsp;·  <link xlink:type="simple" xlink:href="../878/163878.xml">
-Iterative</link>&nbsp;·  <link xlink:type="simple" xlink:href="../993/239993.xml">
+ ·  <link xlink:type="simple" xlink:href="../116/3348116.xml">
+Cleanroom</link> ·  <link xlink:type="simple" xlink:href="../878/163878.xml">
+Iterative</link> ·  <link xlink:type="simple" xlink:href="../993/239993.xml">
 RAD</link> <link xlink:type="simple" xlink:href="../624/233624.xml">
-RUP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../504/149504.xml">
-Spiral</link>&nbsp;·  <link xlink:type="simple" xlink:href="../980/33980.xml">
-Waterfall</link>&nbsp;·  <belief wordnetid="105941423" confidence="0.8">
+RUP</link> ·  <link xlink:type="simple" xlink:href="../504/149504.xml">
+Spiral</link> ·  <link xlink:type="simple" xlink:href="../980/33980.xml">
+Waterfall</link> ·  <belief wordnetid="105941423" confidence="0.8">
 <doctrine wordnetid="105943300" confidence="0.8">
 <link xlink:type="simple" xlink:href="../352/10352.xml">
 XP</link></doctrine>
 </belief>
-&nbsp;·  <belief wordnetid="105941423" confidence="0.8">
+ ·  <belief wordnetid="105941423" confidence="0.8">
 <doctrine wordnetid="105943300" confidence="0.8">
 <link xlink:type="simple" xlink:href="../665/4743665.xml">
 Scrum</link></doctrine>

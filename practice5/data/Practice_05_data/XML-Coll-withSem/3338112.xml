@@ -2100,10 +2100,10 @@ Scotland's Economy - The Scotsman</weblink></entry>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../994/26994.xml">
 Scotland</link></country>
-&nbsp;<link xlink:type="simple" xlink:href="../835/3440835.xml">
+ <link xlink:type="simple" xlink:href="../835/3440835.xml">
 topics</link></header>
 </row>
 <row style="height:2px;">
@@ -2127,17 +2127,17 @@ Timeline</link></written_record>
 </indication>
 </chronology>
 </record>
-&nbsp;·  <link xlink:type="simple" xlink:href="../960/845960.xml">
-Prehistoric</link>&nbsp;·  <country wordnetid="108544813" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../960/845960.xml">
+Prehistoric</link> ·  <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../238/415238.xml">
 Kingdom</link></country>
-&nbsp;·  <age wordnetid="104924103" confidence="0.8">
+ ·  <age wordnetid="104924103" confidence="0.8">
 <property wordnetid="104916342" confidence="0.8">
 <link xlink:type="simple" xlink:href="../389/4349389.xml">
 High Middle Ages</link></property>
 </age>
-&nbsp;·  <link xlink:type="simple" xlink:href="../536/9456536.xml">
-Davidian Revolution</link>&nbsp;·  <group_action wordnetid="101080366" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../536/9456536.xml">
+Davidian Revolution</link> ·  <group_action wordnetid="101080366" confidence="0.8">
 <operation wordnetid="100955060" confidence="0.8">
 <penetration wordnetid="100975452" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -2160,9 +2160,9 @@ Wars of Independence</link></activity>
 </penetration>
 </operation>
 </group_action>
-&nbsp;·  <link xlink:type="simple" xlink:href="../010/6693010.xml">
-Late Middle Ages</link>&nbsp;·  <link xlink:type="simple" xlink:href="../580/6987580.xml">
-Reformation</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../010/6693010.xml">
+Late Middle Ages</link> ·  <link xlink:type="simple" xlink:href="../580/6987580.xml">
+Reformation</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <colony wordnetid="108374049" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
@@ -2171,7 +2171,7 @@ Colonisation of the Americas</link></group>
 </colony>
 </social_group>
 </body>
-&nbsp;·  <law wordnetid="108441203" confidence="0.8">
+ ·  <law wordnetid="108441203" confidence="0.8">
 <agreement wordnetid="106770275" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -2198,8 +2198,8 @@ Acts of Union 1707</link></written_agreement>
 </writing>
 </agreement>
 </law>
-&nbsp;·  <link xlink:type="simple" xlink:href="../377/97377.xml">
-Enlightenment</link>&nbsp;·  <operation wordnetid="100955060" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../377/97377.xml">
+Enlightenment</link> ·  <operation wordnetid="100955060" confidence="0.8">
 <penetration wordnetid="100975452" confidence="0.8">
 <sequence wordnetid="105044822" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -2224,8 +2224,8 @@ Jacobitism</link></activity>
 </sequence>
 </penetration>
 </operation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../523/204523.xml">
-Highland Clearances</link>&nbsp;·  <link xlink:type="simple" xlink:href="../780/462780.xml">
+ ·  <link xlink:type="simple" xlink:href="../523/204523.xml">
+Highland Clearances</link> ·  <link xlink:type="simple" xlink:href="../780/462780.xml">
 Lowland Clearances</link></col>
 </row>
 <row style="height:2px">
@@ -2249,13 +2249,13 @@ Geology</link></geologist>
 </paleontologist>
 </person>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../135/3338135.xml">
-Climate</link>&nbsp;·  <link xlink:type="simple" xlink:href="../869/3571869.xml">
-Demographics</link>&nbsp;·  <link xlink:type="simple" xlink:href="../080/3338080.xml">
-Mountains and hills</link>&nbsp;·  <link xlink:type="simple" xlink:href="../221/472221.xml">
-Islands</link>&nbsp;·  <link xlink:type="simple" xlink:href="../831/619831.xml">
-Lochs</link>&nbsp;·  <link xlink:type="simple" xlink:href="../254/9008254.xml">
-Fauna</link>&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../135/3338135.xml">
+Climate</link> ·  <link xlink:type="simple" xlink:href="../869/3571869.xml">
+Demographics</link> ·  <link xlink:type="simple" xlink:href="../080/3338080.xml">
+Mountains and hills</link> ·  <link xlink:type="simple" xlink:href="../221/472221.xml">
+Islands</link> ·  <link xlink:type="simple" xlink:href="../831/619831.xml">
+Lochs</link> ·  <link xlink:type="simple" xlink:href="../254/9008254.xml">
+Fauna</link> ·  <region wordnetid="108630985" confidence="0.8">
 <natural_elevation wordnetid="109366317" confidence="0.8">
 <mountain wordnetid="109359803" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
@@ -2272,9 +2272,9 @@ Highlands</link></district>
 </mountain>
 </natural_elevation>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../859/435859.xml">
-Lowlands</link>&nbsp;·  <link xlink:type="simple" xlink:href="../519/2110519.xml">
-Central Belt</link>&nbsp;·  <link>
+ ·  <link xlink:type="simple" xlink:href="../859/435859.xml">
+Lowlands</link> ·  <link xlink:type="simple" xlink:href="../519/2110519.xml">
+Central Belt</link> ·  <link>
 Anglo–Scottish border</link></col>
 </row>
 <row style="height:2px">
@@ -2286,13 +2286,13 @@ Anglo–Scottish border</link></col>
 Economy</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../624/3636624.xml">
-Companies</link>&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+Companies</link> ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../609/285609.xml">
 Bank of Scotland</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../790/9191790.xml">
 Royal Bank of Scotland</link></company>
-&nbsp;·  <region wordnetid="108630985" confidence="0.8">
+ ·  <region wordnetid="108630985" confidence="0.8">
 <field wordnetid="108569998" confidence="0.8">
 <location wordnetid="100027167" confidence="0.8">
 <tract wordnetid="108673395" confidence="0.8">
@@ -2303,10 +2303,10 @@ North Sea oil</link></geographical_area>
 </location>
 </field>
 </region>
-&nbsp;·  <link xlink:type="simple" xlink:href="../896/28896.xml">
-Whisky</link>&nbsp;·  <link xlink:type="simple" xlink:href="../602/157602.xml">
-Tourism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../232/1595232.xml">
-Harris Tweed</link>&nbsp;·  <practice wordnetid="100410247" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../896/28896.xml">
+Whisky</link> ·  <link xlink:type="simple" xlink:href="../602/157602.xml">
+Tourism</link> ·  <link xlink:type="simple" xlink:href="../232/1595232.xml">
+Harris Tweed</link> ·  <practice wordnetid="100410247" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2317,7 +2317,7 @@ Renewable energy</link></activity>
 </act>
 </event>
 </practice>
-&nbsp;·  <link xlink:type="simple" xlink:href="../165/2938165.xml">
+ ·  <link xlink:type="simple" xlink:href="../165/2938165.xml">
 Transport</link></col>
 </row>
 <row style="height:2px">
@@ -2329,7 +2329,7 @@ Transport</link></col>
 Law</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../295/1651295.xml">
-Courts</link>&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+Courts</link> ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <adjudicator wordnetid="109769636" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -2352,8 +2352,8 @@ Lord President</link></military_officer>
 </adjudicator>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <link xlink:type="simple" xlink:href="../739/1363739.xml">
-Crown Office</link>&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../739/1363739.xml">
+Crown Office</link> ·  <occupation wordnetid="100582388" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2364,7 +2364,7 @@ Lord Advocate</link></activity>
 </act>
 </event>
 </occupation>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <politician wordnetid="110451263" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <leader wordnetid="109623038" confidence="0.8">
@@ -2375,7 +2375,7 @@ Solicitor General</link></causal_agent>
 </person>
 </politician>
 </physical_entity>
-&nbsp;·  <occupation wordnetid="100582388" confidence="0.8">
+ ·  <occupation wordnetid="100582388" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -2386,7 +2386,7 @@ Procurator Fiscal</link></activity>
 </act>
 </event>
 </occupation>
-&nbsp;·  <land wordnetid="109334396" confidence="0.8">
+ ·  <land wordnetid="109334396" confidence="0.8">
 <island wordnetid="109316454" confidence="0.8">
 <link xlink:type="simple" xlink:href="../270/1295270.xml">
 Udal law</link></island>
@@ -2407,10 +2407,10 @@ People</link></group>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../379/11379.xml">
 List of Scots</link> (<link xlink:type="simple" xlink:href="../189/13708189.xml">
-Actors</link>&nbsp;·  <link xlink:type="simple" xlink:href="../981/3561981.xml">
-Inventors</link>&nbsp;·  <link xlink:type="simple" xlink:href="../606/3786606.xml">
-Musicians</link>&nbsp;·  <link xlink:type="simple" xlink:href="../179/1264179.xml">
-Scientists</link>&nbsp;·  <link xlink:type="simple" xlink:href="../284/236284.xml">
+Actors</link> ·  <link xlink:type="simple" xlink:href="../981/3561981.xml">
+Inventors</link> ·  <link xlink:type="simple" xlink:href="../606/3786606.xml">
+Musicians</link> ·  <link xlink:type="simple" xlink:href="../179/1264179.xml">
+Scientists</link> ·  <link xlink:type="simple" xlink:href="../284/236284.xml">
 Writers</link>)</col>
 </row>
 <row style="height:2px">
@@ -2422,11 +2422,11 @@ Writers</link>)</col>
 Politics</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../553/232553.xml">
-Political parties</link>&nbsp;·  <link xlink:type="simple" xlink:href="../868/4592868.xml">
-Elections</link>&nbsp;·  <parliament wordnetid="108319198" confidence="0.9508927676800064">
+Political parties</link> ·  <link xlink:type="simple" xlink:href="../868/4592868.xml">
+Elections</link> ·  <parliament wordnetid="108319198" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../188/61188.xml">
 Parliament</link></parliament>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -2435,13 +2435,13 @@ Government</link></administration>
 </group>
 </social_group>
 </body>
-&nbsp;·  <post wordnetid="108624385" confidence="0.9508927676800064">
+ ·  <post wordnetid="108624385" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../604/269604.xml">
 First Minister</link></post>
-&nbsp;·  <office wordnetid="103841666" confidence="0.9508927676800064">
+ ·  <office wordnetid="103841666" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../245/303245.xml">
 Secretary of State</link></office>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <division wordnetid="108220714" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
@@ -2456,17 +2456,17 @@ Scotland Office</link></administration>
 </division>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../884/284884.xml">
-Local government</link>&nbsp;·  <link xlink:type="simple" xlink:href="../565/1049565.xml">
-Monarchs</link>&nbsp;·  <military_unit wordnetid="108198398" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../884/284884.xml">
+Local government</link> ·  <link xlink:type="simple" xlink:href="../565/1049565.xml">
+Monarchs</link> ·  <military_unit wordnetid="108198398" confidence="0.8">
 <regiment wordnetid="108213817" confidence="0.8">
 <army_unit wordnetid="108190754" confidence="0.8">
 <link xlink:type="simple" xlink:href="../332/6389332.xml">
 Military</link></army_unit>
 </regiment>
 </military_unit>
-&nbsp;·  <link xlink:type="simple" xlink:href="../813/231813.xml">
-Independence</link>&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../813/231813.xml">
+Independence</link> ·  <politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link xlink:type="simple" xlink:href="../552/1164552.xml">
 Unionism</link></social_relation>
@@ -2484,10 +2484,10 @@ Religion</link></col>
 <denomination wordnetid="108146782" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../316/183316.xml">
 Church of Scotland</link></denomination>
-&nbsp;·  <link xlink:type="simple" xlink:href="../282/2930282.xml">
-General Assembly</link>&nbsp;·  <link xlink:type="simple" xlink:href="../565/8603565.xml">
-Roman Catholicism</link>&nbsp;·  <link xlink:type="simple" xlink:href="../712/4380712.xml">
-Judaism</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../282/2930282.xml">
+General Assembly</link> ·  <link xlink:type="simple" xlink:href="../565/8603565.xml">
+Roman Catholicism</link> ·  <link xlink:type="simple" xlink:href="../712/4380712.xml">
+Judaism</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -2496,8 +2496,8 @@ Scottish Episcopal Church</link></administration>
 </group>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../669/5432669.xml">
-Islam</link>&nbsp;·  <link xlink:type="simple" xlink:href="../751/10225751.xml">
+ ·  <link xlink:type="simple" xlink:href="../669/5432669.xml">
+Islam</link> ·  <link xlink:type="simple" xlink:href="../751/10225751.xml">
 Hinduism</link></col>
 </row>
 <row style="height:2px">
@@ -2509,12 +2509,12 @@ Hinduism</link></col>
 Language</link>s</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../397/28397.xml">
-Scottish Gaelic</link>&nbsp;·  <language wordnetid="106282651" confidence="0.9508927676800064">
+Scottish Gaelic</link> ·  <language wordnetid="106282651" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../892/63892.xml">
 Scots</link></language>
-&nbsp;·  <link xlink:type="simple" xlink:href="../427/318427.xml">
-Scottish English</link>&nbsp;·  <link xlink:type="simple" xlink:href="../208/1281208.xml">
-Highland English</link>&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../427/318427.xml">
+Scottish English</link> ·  <link xlink:type="simple" xlink:href="../208/1281208.xml">
+Highland English</link> ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <body wordnetid="107965085" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
@@ -2542,18 +2542,18 @@ Culture</link></col>
 <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../173/253173.xml">
 Clans</link></family>
-&nbsp;·  <link xlink:type="simple" xlink:href="../255/6169255.xml">
-Cuisine</link>&nbsp;·  <education wordnetid="100883297" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../255/6169255.xml">
+Cuisine</link> ·  <education wordnetid="100883297" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../735/355735.xml">
 Education</link></education>
-&nbsp;·  <link xlink:type="simple" xlink:href="../554/3005554.xml">
-Flags</link>&nbsp;·  <coat wordnetid="103057021" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../554/3005554.xml">
+Flags</link> ·  <coat wordnetid="103057021" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../396/2685396.xml">
 Coat of arms</link></coat>
-&nbsp;·  <anthem wordnetid="107048928" confidence="0.9508927676800064">
+ ·  <anthem wordnetid="107048928" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../225/5635225.xml">
 Anthem</link></anthem>
-&nbsp;·  <look wordnetid="100877127" confidence="0.8">
+ ·  <look wordnetid="100877127" confidence="0.8">
 <time_off wordnetid="115118453" confidence="0.8">
 <observation wordnetid="100879759" confidence="0.8">
 <social_event wordnetid="107288639" confidence="0.8">
@@ -2586,12 +2586,12 @@ Hogmanay</link></activity>
 </observation>
 </time_off>
 </look>
-&nbsp;·  <link xlink:type="simple" xlink:href="../981/3561981.xml">
-Innovations</link>&nbsp;·  <link xlink:type="simple" xlink:href="../286/236286.xml">
-Literature</link>&nbsp;·  <link xlink:type="simple" xlink:href="../299/403299.xml">
-Music</link>&nbsp;·  <link xlink:type="simple" xlink:href="../831/4476831.xml">
-Sport</link>&nbsp;·  <link xlink:type="simple" xlink:href="../837/8776837.xml">
-World Heritage Sites</link>&nbsp;·  <politics wordnetid="113840719" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../981/3561981.xml">
+Innovations</link> ·  <link xlink:type="simple" xlink:href="../286/236286.xml">
+Literature</link> ·  <link xlink:type="simple" xlink:href="../299/403299.xml">
+Music</link> ·  <link xlink:type="simple" xlink:href="../831/4476831.xml">
+Sport</link> ·  <link xlink:type="simple" xlink:href="../837/8776837.xml">
+World Heritage Sites</link> ·  <politics wordnetid="113840719" confidence="0.8">
 <social_relation wordnetid="100032823" confidence="0.8">
 <link xlink:type="simple" xlink:href="../272/1059272.xml">
 Nationalism</link></social_relation>
@@ -2632,20 +2632,20 @@ By area</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../996/683996.xml">
 England</link> (<link xlink:type="simple" xlink:href="../883/1640883.xml">
-Birmingham</link>&nbsp;·  <link xlink:type="simple" xlink:href="../992/4686992.xml">
-Bristol</link>&nbsp;·  <link xlink:type="simple" xlink:href="../677/13681677.xml">
-Croydon</link>&nbsp;·  <link xlink:type="simple" xlink:href="../530/4904530.xml">
-Leeds</link>&nbsp;·  <link xlink:type="simple" xlink:href="../932/7804932.xml">
-London</link>&nbsp;·  <link xlink:type="simple" xlink:href="../107/11489107.xml">
-Manchester</link>&nbsp;·  <link xlink:type="simple" xlink:href="../245/3336245.xml">
-Sheffield</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../028/3314028.xml">
-Northern Ireland</link>&nbsp;·  <link xlink:type="simple" xlink:href="../112/3338112.xml">
+Birmingham</link> ·  <link xlink:type="simple" xlink:href="../992/4686992.xml">
+Bristol</link> ·  <link xlink:type="simple" xlink:href="../677/13681677.xml">
+Croydon</link> ·  <link xlink:type="simple" xlink:href="../530/4904530.xml">
+Leeds</link> ·  <link xlink:type="simple" xlink:href="../932/7804932.xml">
+London</link> ·  <link xlink:type="simple" xlink:href="../107/11489107.xml">
+Manchester</link> ·  <link xlink:type="simple" xlink:href="../245/3336245.xml">
+Sheffield</link>) ·  <link xlink:type="simple" xlink:href="../028/3314028.xml">
+Northern Ireland</link> ·  <link xlink:type="simple" xlink:href="../112/3338112.xml">
 Scotland</link> (<link xlink:type="simple" xlink:href="../914/9519914.xml">
-Aberdeen</link>&nbsp;·  <link xlink:type="simple" xlink:href="../618/5406618.xml">
-Edinburgh</link>)&nbsp;·  <link xlink:type="simple" xlink:href="../572/3161572.xml">
+Aberdeen</link> ·  <link xlink:type="simple" xlink:href="../618/5406618.xml">
+Edinburgh</link>) ·  <link xlink:type="simple" xlink:href="../572/3161572.xml">
 Wales</link>
 (<link xlink:type="simple" xlink:href="../558/17073558.xml">
-Cardiff</link>&nbsp;·  <link xlink:type="simple" xlink:href="../481/9312481.xml">
+Cardiff</link> ·  <link xlink:type="simple" xlink:href="../481/9312481.xml">
 Swansea</link>)</col>
 </row>
 <row style="height:2px">
@@ -2656,10 +2656,10 @@ Swansea</link>)</col>
 Related topics</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../673/270673.xml">
-Pound sterling</link>&nbsp;·  <currency wordnetid="113385913" confidence="0.9508927676800064">
+Pound sterling</link> ·  <currency wordnetid="113385913" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../680/270680.xml">
 Banknotes</link></currency>
-&nbsp;·  <standard wordnetid="107260623" confidence="0.8">
+ ·  <standard wordnetid="107260623" confidence="0.8">
 <medium_of_exchange wordnetid="113372961" confidence="0.8">
 <coin wordnetid="113388245" confidence="0.8">
 <coinage wordnetid="113387877" confidence="0.8">
@@ -2672,11 +2672,11 @@ Coinage</link></currency>
 </coin>
 </medium_of_exchange>
 </standard>
-&nbsp;·  <central_bank wordnetid="108349916" confidence="0.9508927676800064">
+ ·  <central_bank wordnetid="108349916" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../484/4484.xml">
 Bank of England</link></central_bank>
-&nbsp;·  <link xlink:type="simple" xlink:href="../219/1234219.xml">
-Monetary Policy Committee</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../219/1234219.xml">
+Monetary Policy Committee</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <issuer wordnetid="108055150" confidence="0.8">
 <priesthood wordnetid="108113443" confidence="0.8">
@@ -2695,7 +2695,7 @@ HM Treasury</link></institution>
 </issuer>
 </social_group>
 </body>
-&nbsp;·  <skilled_worker wordnetid="110605985" confidence="0.8">
+ ·  <skilled_worker wordnetid="110605985" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <chancellor wordnetid="109906986" confidence="0.8">
 <representative wordnetid="110522035" confidence="0.8">
@@ -2720,10 +2720,10 @@ Chancellor of the Exchequer</link></military_officer>
 </chancellor>
 </physical_entity>
 </skilled_worker>
-&nbsp;·  <village wordnetid="108672738" confidence="0.9508927676800064">
+ ·  <village wordnetid="108672738" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../883/6883.xml">
 The City</link></village>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <index wordnetid="106639674" confidence="0.8">
 <fact wordnetid="106636259" confidence="0.8">
@@ -2738,8 +2738,8 @@ FTSE 100 Index</link></institution>
 </index>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../995/1200995.xml">
-Economic geography of the UK</link>&nbsp;·  <link xlink:type="simple" xlink:href="../860/216860.xml">
+ ·  <link xlink:type="simple" xlink:href="../995/1200995.xml">
+Economic geography of the UK</link> ·  <link xlink:type="simple" xlink:href="../860/216860.xml">
 Economic history of Britain</link></col>
 </row>
 </table>
@@ -2771,106 +2771,106 @@ states</link></col>
 <p>
 
 <link xlink:type="simple" xlink:href="../211/40211.xml">
-Albania</link>&nbsp;· 
+Albania</link> · 
 <link xlink:type="simple" xlink:href="../584/67584.xml">
-Andorra</link>&nbsp;· 
+Andorra</link> · 
 <link xlink:type="simple" xlink:href="../351/67351.xml">
-Armenia</link>1&nbsp;· 
+Armenia</link>1 · 
 <link xlink:type="simple" xlink:href="../545/67545.xml">
-Austria</link>&nbsp;· 
+Austria</link> · 
 <link xlink:type="simple" xlink:href="../194/40194.xml">
-Azerbaijan</link>2&nbsp;· 
+Azerbaijan</link>2 · 
 <link xlink:type="simple" xlink:href="../915/18950915.xml">
-Belarus</link>&nbsp;· 
+Belarus</link> · 
 <link xlink:type="simple" xlink:href="../304/67304.xml">
-Belgium</link>&nbsp;· 
+Belgium</link> · 
 <link xlink:type="simple" xlink:href="../607/3607.xml">
-Bosnia and Herzegovina</link>&nbsp;· 
+Bosnia and Herzegovina</link> · 
 <link xlink:type="simple" xlink:href="../671/3671.xml">
-Bulgaria</link>&nbsp;· 
+Bulgaria</link> · 
 <link xlink:type="simple" xlink:href="../578/5578.xml">
-Croatia</link>&nbsp;· 
+Croatia</link> · 
 <link xlink:type="simple" xlink:href="../598/5598.xml">
-Cyprus</link>1&nbsp;· 
+Cyprus</link>1 · 
 <link xlink:type="simple" xlink:href="../849/5849.xml">
-Czech Republic</link>&nbsp;· 
+Czech Republic</link> · 
 <link xlink:type="simple" xlink:href="../035/8035.xml">
-Denmark</link>4&nbsp;· 
+Denmark</link>4 · 
 <link xlink:type="simple" xlink:href="../391/9391.xml">
-Estonia</link>&nbsp;· 
+Estonia</link> · 
 <link xlink:type="simple" xlink:href="../712/10712.xml">
-Finland</link>&nbsp;· 
+Finland</link> · 
 <link xlink:type="simple" xlink:href="../473/67473.xml">
-France</link>4, 5, 6&nbsp;· 
+France</link>4, 5, 6 · 
 <link xlink:type="simple" xlink:href="../062/12062.xml">
-Georgia</link>2&nbsp;· 
+Georgia</link>2 · 
 <link xlink:type="simple" xlink:href="../930/11930.xml">
-Germany</link>&nbsp;· 
+Germany</link> · 
 <link xlink:type="simple" xlink:href="../113/12113.xml">
-Greece</link>&nbsp;· 
+Greece</link> · 
 <link xlink:type="simple" xlink:href="../428/13428.xml">
-Hungary</link>&nbsp;· 
+Hungary</link> · 
 <link xlink:type="simple" xlink:href="../582/64582.xml">
-Iceland</link>&nbsp;· 
+Iceland</link> · 
 <link xlink:type="simple" xlink:href="../019/18933019.xml">
-Republic of Ireland</link>&nbsp;· 
+Republic of Ireland</link> · 
 <link xlink:type="simple" xlink:href="../702/14702.xml">
-Italy</link>&nbsp;· 
+Italy</link> · 
 <link xlink:type="simple" xlink:href="../647/16647.xml">
-Kazakhstan</link>3&nbsp;· 
+Kazakhstan</link>3 · 
 <link xlink:type="simple" xlink:href="../766/17766.xml">
-Latvia</link>&nbsp;· 
+Latvia</link> · 
 <link xlink:type="simple" xlink:href="../815/17815.xml">
-Liechtenstein</link>&nbsp;· 
+Liechtenstein</link> · 
 <link xlink:type="simple" xlink:href="../139/19283139.xml">
-Lithuania</link>&nbsp;· 
+Lithuania</link> · 
 <link xlink:type="simple" xlink:href="../834/17834.xml">
-Luxembourg</link>&nbsp;· 
+Luxembourg</link> · 
 <link xlink:type="simple" xlink:href="../083/19083.xml">
-Republic of Macedonia</link>&nbsp;· 
+Republic of Macedonia</link> · 
 <link xlink:type="simple" xlink:href="../142/19142.xml">
-Malta</link>&nbsp;· 
+Malta</link> · 
 <link xlink:type="simple" xlink:href="../245/19245.xml">
-Moldova</link>&nbsp;· 
+Moldova</link> · 
 <link xlink:type="simple" xlink:href="../266/19266.xml">
-Monaco</link>&nbsp;· 
+Monaco</link> · 
 <link xlink:type="simple" xlink:href="../298/5187298.xml">
-Montenegro</link>&nbsp;· 
+Montenegro</link> · 
 <link xlink:type="simple" xlink:href="../760/59760.xml">
-Netherlands</link>4&nbsp;· 
+Netherlands</link>4 · 
 <link xlink:type="simple" xlink:href="../615/57615.xml">
-Norway</link>&nbsp;· 
+Norway</link> · 
 <link xlink:type="simple" xlink:href="../019/23019.xml">
-Poland</link>&nbsp;· 
+Poland</link> · 
 <link xlink:type="simple" xlink:href="../665/19287665.xml">
-Portugal</link>6&nbsp;· 
+Portugal</link>6 · 
 <link xlink:type="simple" xlink:href="../640/25640.xml">
-Romania</link>&nbsp;· 
+Romania</link> · 
 <link xlink:type="simple" xlink:href="../705/25705.xml">
-Russia</link>3&nbsp;· 
+Russia</link>3 · 
 <link xlink:type="simple" xlink:href="../253/27253.xml">
-San Marino</link>&nbsp;· 
+San Marino</link> · 
 <link xlink:type="simple" xlink:href="../742/1823742.xml">
-Serbia</link>&nbsp;· 
+Serbia</link> · 
 <link xlink:type="simple" xlink:href="../332/27332.xml">
-Slovakia</link>&nbsp;· 
+Slovakia</link> · 
 <link xlink:type="simple" xlink:href="../343/27343.xml">
-Slovenia</link>&nbsp;· 
+Slovenia</link> · 
 <link xlink:type="simple" xlink:href="../393/27393.xml">
-Spain</link>6&nbsp;· 
+Spain</link>6 · 
 <link xlink:type="simple" xlink:href="../299/19283299.xml">
-Sweden</link>&nbsp;· 
+Sweden</link> · 
 <link xlink:type="simple" xlink:href="../465/27465.xml">
-Switzerland</link>&nbsp;· 
+Switzerland</link> · 
 <link xlink:type="simple" xlink:href="../202/30202.xml">
-Turkey</link>3&nbsp;· 
+Turkey</link>3 · 
 <link xlink:type="simple" xlink:href="../829/31829.xml">
-Ukraine</link>&nbsp;· 
+Ukraine</link> · 
 <link xlink:type="simple" xlink:href="../727/31727.xml">
-United Kingdom</link>&nbsp;(<link xlink:type="simple" xlink:href="../996/683996.xml">
-England</link>&nbsp;• <link xlink:type="simple" xlink:href="../028/3314028.xml">
-Northern Ireland</link>&nbsp;• <link xlink:type="simple" xlink:href="../112/3338112.xml">
-Scotland</link>&nbsp;• <link xlink:type="simple" xlink:href="../572/3161572.xml">
+United Kingdom</link> (<link xlink:type="simple" xlink:href="../996/683996.xml">
+England</link> • <link xlink:type="simple" xlink:href="../028/3314028.xml">
+Northern Ireland</link> • <link xlink:type="simple" xlink:href="../112/3338112.xml">
+Scotland</link> • <link xlink:type="simple" xlink:href="../572/3161572.xml">
 Wales</link>)</p>
 </col>
 </row>
@@ -2898,79 +2898,79 @@ territories</link></col>
 <p>
 
 <it><link>
-Abkhazia</link></it>&nbsp;2&nbsp;· 
+Abkhazia</link></it> 2 · 
 <link>
-Adjara</link>1&nbsp;· 
+Adjara</link>1 · 
 <link>
-Adygea</link>&nbsp;· 
+Adygea</link> · 
 <link>
-Akrotiri and Dhekelia</link>&nbsp;· 
+Akrotiri and Dhekelia</link> · 
 <link>
-Åland</link>&nbsp;· 
+Åland</link> · 
 <link>
-Azores</link>&nbsp;· 
+Azores</link> · 
 <link>
-Bashkortostan</link>&nbsp;· 
+Bashkortostan</link> · 
 <link>
-Chechnya</link>&nbsp;· 
+Chechnya</link> · 
 <link xlink:type="simple" xlink:href="../041/1682041.xml">
-Chuvashia</link>&nbsp;· 
+Chuvashia</link> · 
 <link>
-Crimea</link>&nbsp;· 
+Crimea</link> · 
 <link>
-Dagestan</link>&nbsp;· 
+Dagestan</link> · 
 <link xlink:type="simple" xlink:href="../702/10702.xml">
-Faroe Islands</link>&nbsp;· 
+Faroe Islands</link> · 
 <link>
-Gagauzia</link>&nbsp;· 
+Gagauzia</link> · 
 <link xlink:type="simple" xlink:href="../082/12082.xml">
-Gibraltar</link>&nbsp;· 
+Gibraltar</link> · 
 <link xlink:type="simple" xlink:href="../166/12166.xml">
-Guernsey</link>&nbsp;· 
+Guernsey</link> · 
 <link>
-Ingushetia</link>&nbsp;· 
+Ingushetia</link> · 
 <link>
-Jan Mayen</link>&nbsp;· 
+Jan Mayen</link> · 
 <link xlink:type="simple" xlink:href="../698/15698.xml">
-Jersey</link>&nbsp;· 
+Jersey</link> · 
 <link>
-Kabardino-Balkaria</link>&nbsp;· 
+Kabardino-Balkaria</link> · 
 <link>
-Kalmykia</link>&nbsp;· 
+Kalmykia</link> · 
 <link>
-Karachay-Cherkessia</link>&nbsp;· 
+Karachay-Cherkessia</link> · 
 <link>
-Republic of Karelia</link>&nbsp;· 
+Republic of Karelia</link> · 
 <link>
-Komi Republic</link>&nbsp;· 
+Komi Republic</link> · 
 <it><link xlink:type="simple" xlink:href="../918/8149918.xml">
-Kosovo</link></it>&nbsp;· 
+Kosovo</link></it> · 
 <link>
-Madeira</link>7&nbsp;· 
+Madeira</link>7 · 
 <link xlink:type="simple" xlink:href="../767/14767.xml">
-Isle of Man</link>&nbsp;· 
+Isle of Man</link> · 
 <link>
-Mari El</link>&nbsp;· 
+Mari El</link> · 
 <link>
-Mordovia</link>&nbsp;· 
+Mordovia</link> · 
 <it><link xlink:type="simple" xlink:href="../052/18195052.xml">
-Nagorno-Karabakh</link></it>1&nbsp;· 
+Nagorno-Karabakh</link></it>1 · 
 <link>
-Nakhchivan</link>1&nbsp;· 
+Nakhchivan</link>1 · 
 <link>
-North Ossetia-Alania</link>&nbsp;· 
+North Ossetia-Alania</link> · 
 <it><link xlink:type="simple" xlink:href="../110/8794110.xml">
-Northern Cyprus</link></it>1&nbsp;· 
+Northern Cyprus</link></it>1 · 
 <it><link>
-South Ossetia</link></it>&nbsp;2&nbsp;· 
+South Ossetia</link></it> 2 · 
 <link>
-Svalbard</link>&nbsp;· 
+Svalbard</link> · 
 <link>
-Tatarstan</link>&nbsp;· 
+Tatarstan</link> · 
 <it><link>
-Transnistria</link></it>&nbsp;· 
+Transnistria</link></it> · 
 <link>
-Udmurtia</link>&nbsp;· 
+Udmurtia</link> · 
 <link>
 Vojvodina</link></p>
 </col>
@@ -2981,15 +2981,15 @@ Vojvodina</link></p>
 <row>
 <col colspan="2" style=";padding:0.4em 0.2em 0.2em; line-height:1.4em; font-size:95%;" class="navbox-abovebelow">
 <it>Italics</it> indicates an <link xlink:type="simple" xlink:href="../670/523670.xml">
-unrecognised or partially recognised country</link>.&nbsp; 
-1&nbsp;/ 7 Entirely in <system wordnetid="108435388" confidence="0.8">
+unrecognised or partially recognised country</link>.  
+1 / 7 Entirely in <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../689/689.xml">
 Asia</link></group>
 </economy>
 </system>
-&nbsp;/ on the <artifact wordnetid="100021939" confidence="0.8">
+ / on the <artifact wordnetid="100021939" confidence="0.8">
 <sports_equipment wordnetid="104285146" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <home_plate wordnetid="103528901" confidence="0.8">
@@ -3004,8 +3004,8 @@ African Plate</link></baseball_equipment>
 </instrumentality>
 </sports_equipment>
 </artifact>
-, but historically considered European.&nbsp; 2 Partially or entirely in Asia, depending on the <link xlink:type="simple" xlink:href="../661/13973661.xml#xpointer(//*[./st=%22Europe+and+Asia%22])">
-border definitions</link>.&nbsp; 3 / 4 / 5 / 6 Has part of its territory in <system wordnetid="108435388" confidence="0.8">
+, but historically considered European.  2 Partially or entirely in Asia, depending on the <link xlink:type="simple" xlink:href="../661/13973661.xml#xpointer(//*[./st=%22Europe+and+Asia%22])">
+border definitions</link>.  3 / 4 / 5 / 6 Has part of its territory in <system wordnetid="108435388" confidence="0.8">
 <economy wordnetid="108366753" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <link xlink:type="simple" xlink:href="../689/689.xml">

@@ -68,11 +68,11 @@ PCDHA4</weblink>; CNR1; CNRN1; CRNR1; MGC138307; MGC142169; PCDH-ALPHA4</col>
 <col bgcolor="#C3FDB8">
 External IDs</col>
 <col colspan="2" style="border-top:2px solid #dddddd; border-right:2px solid #dddddd" align="center" bgcolor="#eeeeee">
- OMIM:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=606310">
+ OMIM: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=606310">
 606310</weblink> <link xlink:type="simple" xlink:href="../703/10432703.xml">
-MGI</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1298406">
+MGI</link>: <weblink xlink:type="simple" xlink:href="http://www.informatics.jax.org/searches/accession_report.cgi?id=MGI:1298406">
 1298406</weblink> <link xlink:type="simple" xlink:href="../246/3948246.xml">
-HomoloGene</link>:&nbsp;<weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=75097">
+HomoloGene</link>: <weblink xlink:type="simple" xlink:href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=75097">
 75097</weblink></col>
 </row>
 
@@ -219,7 +219,7 @@ Further reading</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Yagi T, Takeichi M&#32;(2000).&#32;"Cadherin superfamily genes: functions, genomic organization, and neurologic diversity.". <it>Genes Dev.</it>&#32;<b>14</b>&#32;(10): 1169–80. PMID 10817752.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Yagi T, Takeichi M&#32;(2000).&#32;"Cadherin superfamily genes: functions, genomic organization, and neurologic diversity.". <it>Genes Dev.</it>&#32;<b>14</b>&#32;(10): 1169–80. PMID 10817752.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Nollet F, Kools P, van Roy F&#32;(2000).&#32;"Phylogenetic analysis of the cadherin superfamily allows identification of six major subfamilies besides several solitary members.". <it>J. Mol. Biol.</it>&#32;<b>299</b>&#32;(3): 551–72. <document wordnetid="106470073" confidence="0.8">
@@ -230,13 +230,13 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fjmbi.2000.3777">
-10.1006/jmbi.2000.3777</weblink>. PMID 10835267.</cite>&nbsp;</entry>
+10.1006/jmbi.2000.3777</weblink>. PMID 10835267.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Wu Q, Maniatis T&#32;(1999).&#32;"A striking organization of a large family of human neural cadherin-like cell adhesion genes.". <it>Cell</it>&#32;<b>97</b>&#32;(6): 779–90. PMID 10380929.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Wu Q, Maniatis T&#32;(1999).&#32;"A striking organization of a large family of human neural cadherin-like cell adhesion genes.". <it>Cell</it>&#32;<b>97</b>&#32;(6): 779–90. PMID 10380929.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal">Senzaki K, Ogawa M, Yagi T&#32;(2000).&#32;"Proteins of the CNR family are multiple receptors for Reelin.". <it>Cell</it>&#32;<b>99</b>&#32;(6): 635–47. PMID 10612399.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Senzaki K, Ogawa M, Yagi T&#32;(2000).&#32;"Proteins of the CNR family are multiple receptors for Reelin.". <it>Cell</it>&#32;<b>99</b>&#32;(6): 635–47. PMID 10612399.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Sugino H, Hamada S, Yasuda R, et al.&#32;(2000).&#32;"Genomic organization of the family of CNR cadherin genes in mice and humans.". <it>Genomics</it>&#32;<b>63</b>&#32;(1): 75–87. <document wordnetid="106470073" confidence="0.8">
@@ -247,7 +247,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1006%2Fgeno.1999.6066">
-10.1006/geno.1999.6066</weblink>. PMID 10662547.</cite>&nbsp;</entry>
+10.1006/geno.1999.6066</weblink>. PMID 10662547.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Wu Q, Maniatis T&#32;(2000).&#32;"Large exons encoding multiple ectodomains are a characteristic feature of protocadherin genes.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>97</b>&#32;(7): 3124–9. <document wordnetid="106470073" confidence="0.8">
@@ -258,7 +258,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.060027397">
-10.1073/pnas.060027397</weblink>. PMID 10716726.</cite>&nbsp;</entry>
+10.1073/pnas.060027397</weblink>. PMID 10716726.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Wu Q, Zhang T, Cheng JF, et al.&#32;(2001).&#32;"Comparative DNA sequence analysis of mouse and human protocadherin gene clusters.". <it>Genome Res.</it>&#32;<b>11</b>&#32;(3): 389–404. <document wordnetid="106470073" confidence="0.8">
@@ -269,7 +269,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1101%2Fgr.167301">
-10.1101/gr.167301</weblink>. PMID 11230163.</cite>&nbsp;</entry>
+10.1101/gr.167301</weblink>. PMID 11230163.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Strausberg RL, Feingold EA, Grouse LH, et al.&#32;(2003).&#32;"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.". <it>Proc. Natl. Acad. Sci. U.S.A.</it>&#32;<b>99</b>&#32;(26): 16899–903. <document wordnetid="106470073" confidence="0.8">
@@ -280,7 +280,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1073%2Fpnas.242603899">
-10.1073/pnas.242603899</weblink>. PMID 12477932.</cite>&nbsp;</entry>
+10.1073/pnas.242603899</weblink>. PMID 12477932.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Schmutz J, Martin J, Terry A, et al.&#32;(2004).&#32;"The DNA sequence and comparative analysis of human chromosome 5.". <it>Nature</it>&#32;<b>431</b>&#32;(7006): 268–74. <document wordnetid="106470073" confidence="0.8">
@@ -291,7 +291,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1038%2Fnature02919">
-10.1038/nature02919</weblink>. PMID 15372022.</cite>&nbsp;</entry>
+10.1038/nature02919</weblink>. PMID 15372022.</cite> </entry>
 <entry level="1" type="bullet">
 
  <cite style="font-style:normal">Stelzl U, Worm U, Lalowski M, et al.&#32;(2005).&#32;"A human protein-protein interaction network: a resource for annotating the proteome.". <it>Cell</it>&#32;<b>122</b>&#32;(6): 957–68. <document wordnetid="106470073" confidence="0.8">
@@ -302,7 +302,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2Fj.cell.2005.08.029">
-10.1016/j.cell.2005.08.029</weblink>. PMID 16169070.</cite>&nbsp;</entry>
+10.1016/j.cell.2005.08.029</weblink>. PMID 16169070.</cite> </entry>
 </list>
 </p>
 

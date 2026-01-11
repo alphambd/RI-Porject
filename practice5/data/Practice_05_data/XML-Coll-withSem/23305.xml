@@ -417,7 +417,7 @@ FreeBSD</link></horizontal_surface>
 <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../297/6097297.xml">
 Linux</link></O>
- (most distributions &mdash; see <link xlink:type="simple" xlink:href="../753/246753.xml">
+ (most distributions — see <link xlink:type="simple" xlink:href="../753/246753.xml">
 LSB</link>)</entry>
 <entry level="1" type="bullet">
 
@@ -481,7 +481,7 @@ Cygwin</link></writer>
 </person>
 </communicator>
 </physical_entity>
-&nbsp;&ndash;  enables partial POSIX compliance for certain <link xlink:type="simple" xlink:href="../890/18890.xml">
+ –  enables partial POSIX compliance for certain <link xlink:type="simple" xlink:href="../890/18890.xml">
 Microsoft Windows</link> products.</entry>
 <entry level="1" type="bullet">
 
@@ -544,7 +544,7 @@ The following are not officially certified as POSIX compatible, but they conform
 <entry level="1" type="bullet">
 
 <link xlink:type="simple" xlink:href="../225/432225.xml">
-eCos</link>&nbsp;&ndash;  POSIX is part of standard distribution, and used by many applications. 'external links' section below has more information.</entry>
+eCos</link> –  POSIX is part of standard distribution, and used by many applications. 'external links' section below has more information.</entry>
 <entry level="1" type="bullet">
 
 <O wordnetid="106832680" confidence="0.9508927676800064">
@@ -682,7 +682,7 @@ POSIX Threads</link></system_of_measurement>
 <family wordnetid="108078020" confidence="0.8">
 <link xlink:type="simple" xlink:href="../483/519483.xml">
 TRON Project</link></family>
-&nbsp;&ndash;  alternative OS standard to POSIX</entry>
+ –  alternative OS standard to POSIX</entry>
 <entry level="1" type="bullet">
 
 <structure wordnetid="104341686" confidence="0.8">
@@ -696,7 +696,7 @@ Interix</link></framework>
 </window>
 </artifact>
 </structure>
-&nbsp;&ndash;  a full-featured POSIX and Unix environment subsystem for Microsoft's Windows NT-based operating systems</entry>
+ –  a full-featured POSIX and Unix environment subsystem for Microsoft's Windows NT-based operating systems</entry>
 <entry level="1" type="bullet">
 
 <structure wordnetid="104341686" confidence="0.8">
@@ -746,7 +746,7 @@ IEEE POSIX® Certification Authority</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.unix.org/">
-The Open Group&nbsp;&ndash;  The UNIX System Home Page</weblink></entry>
+The Open Group –  The UNIX System Home Page</weblink></entry>
 <entry level="1" type="bullet">
 
  <weblink xlink:type="simple" xlink:href="http://www.opengroup.org/onlinepubs/009695399/">
@@ -788,84 +788,84 @@ POSIX</link></system_of_measurement>
 <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../155/5257155.xml">
 SIGABRT</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../695/2776695.xml">
 SIGALRM</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../903/1722903.xml">
 SIGFPE</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../070/1461070.xml">
 SIGHUP</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../765/1713765.xml">
 SIGILL</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../554/2014554.xml">
 SIGINT</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../177/2520177.xml">
 SIGKILL</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../544/2854544.xml">
 SIGPIPE</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../048/2845048.xml">
 SIGQUIT</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../721/703721.xml">
 SIGSEGV</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../908/3622908.xml">
 SIGTERM</link></signal>
-&nbsp;·  <link xlink:type="simple" xlink:href="../356/5257356.xml">
-SIGUSR1</link>&nbsp;·  <link xlink:type="simple" xlink:href="../356/5257356.xml">
-SIGUSR2</link>&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../356/5257356.xml">
+SIGUSR1</link> ·  <link xlink:type="simple" xlink:href="../356/5257356.xml">
+SIGUSR2</link> ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../721/2360721.xml">
 SIGCHLD</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../822/3657822.xml">
 SIGCONT</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../927/3622927.xml">
 SIGSTOP</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../516/4535516.xml">
 SIGTSTP</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../242/5257242.xml">
 SIGTTIN</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../240/5257240.xml">
 SIGTTOU</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../320/1718320.xml">
 SIGBUS</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../498/5257498.xml">
 SIGPOLL</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../160/5258160.xml">
 SIGPROF</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../601/5257601.xml">
 SIGSYS</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../690/5257690.xml">
 SIGTRAP</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../793/5257793.xml">
 SIGURG</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../083/5258083.xml">
 SIGVTALRM</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../030/5258030.xml">
 SIGXCPU</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../888/5257888.xml">
 SIGXFSZ</link></signal>
-&nbsp;·   Realtime signals are user definable (<link xlink:type="simple" xlink:href="../835/5258835.xml">
+ ·   Realtime signals are user definable (<link xlink:type="simple" xlink:href="../835/5258835.xml">
 SIGRTMIN+n through SIGRTMAX</link>)</col>
 </row>
 <row style="height:2px">
@@ -878,31 +878,31 @@ non-POSIX</col>
 <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../155/5257155.xml">
 SIGIOT</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../611/5258611.xml">
 SIGEMT</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../624/5258624.xml">
 SIGSTKFLT</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../498/5257498.xml">
 SIGIO</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../721/2360721.xml">
 SIGCLD</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../749/7166749.xml">
 SIGINFO</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../031/5258031.xml">
 SIGPWR</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../672/5258672.xml">
 SIGLOST</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../237/5258237.xml">
 SIGWINCH</link></signal>
-&nbsp;·  <signal wordnetid="106791372" confidence="0.9508927676800064">
+ ·  <signal wordnetid="106791372" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../765/5258765.xml">
 SIGUNUSED</link></signal>
 </col>

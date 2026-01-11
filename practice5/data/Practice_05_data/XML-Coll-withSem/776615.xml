@@ -63,7 +63,7 @@ confidence interval</link>s where the actual value may be outside the confidence
 consistent</link> with the largest number of sources.</p>
 <p>
 
-If we have the estimates 10&nbsp;&amp;plusmn;&nbsp;2, 12&nbsp;&amp;plusmn;&nbsp;1 and 11&nbsp;&amp;plusmn;&nbsp;1 then these intervals are [8,12], [11,13] and [10,12] which intersect to form [11,12] or 11.5&nbsp;&amp;plusmn;&nbsp;0.5 as consistent with all three values. 
+If we have the estimates 10 &amp;plusmn; 2, 12 &amp;plusmn; 1 and 11 &amp;plusmn; 1 then these intervals are [8,12], [11,13] and [10,12] which intersect to form [11,12] or 11.5 &amp;plusmn; 0.5 as consistent with all three values. 
 <image location="center" width="600x600px" src="Marzullo_example-1.jpg">
 <caption>
 
@@ -73,7 +73,7 @@ Marzullo's algorithm, example#1
 </p>
 <p>
 
-If instead the ranges are [8,12], [11,13] and [14,15] then there is no interval consistent with all these values but [11,12] is consistent with the largest number of sources &mdash; namely, two of them. 
+If instead the ranges are [8,12], [11,13] and [14,15] then there is no interval consistent with all these values but [11,12] is consistent with the largest number of sources — namely, two of them. 
 <image location="center" width="600x600px" src="Marzullo_example-2.jpg">
 <caption>
 
@@ -97,7 +97,7 @@ This procedure determines an interval. If the desired result is a best value fro
 probabilistic model</link> of the sources could return a value other than the center.</p>
 <p>
 
-Note that the computed value is probably better described as "optimistic" rather than  "optimal". For example, consider three intervals [10,12], [11, 13] and [11.99,13]. The algorithm described below computes [11.99, 12] or 11.995&nbsp;&amp;plusmn;&nbsp;0.005 which is a very precise value. If we suspect that one of the estimates might be incorrect, then at least two of the estimates must be correct.  Under  this condition, the best estimate is [11,13] since this is the largest interval that always intersects at least two estimates. The algorithm described below is easily parameterized with the maximum number of incorrect estimates.</p>
+Note that the computed value is probably better described as "optimistic" rather than  "optimal". For example, consider three intervals [10,12], [11, 13] and [11.99,13]. The algorithm described below computes [11.99, 12] or 11.995 &amp;plusmn; 0.005 which is a very precise value. If we suspect that one of the estimates might be incorrect, then at least two of the estimates must be correct.  Under  this condition, the best estimate is [11,13] since this is the largest interval that always intersects at least two estimates. The algorithm described below is easily parameterized with the maximum number of incorrect estimates.</p>
 
 </sec>
 <sec>
@@ -106,7 +106,7 @@ Method</st>
 
 <p>
 
-Marzullo's algorithm begins by preparing a table of the sources, sorting it and then searching (efficiently) for the intersections of intervals.  For each source there is a range [c&amp;minus;r,c+r] defined by c&nbsp;&amp;plusmn;&nbsp;r. For each range the table will have two <link xlink:type="simple" xlink:href="../729/132729.xml">
+Marzullo's algorithm begins by preparing a table of the sources, sorting it and then searching (efficiently) for the intersections of intervals.  For each source there is a range [c&amp;minus;r,c+r] defined by c &amp;plusmn; r. For each range the table will have two <link xlink:type="simple" xlink:href="../729/132729.xml">
 tuple</link>s of the form . One tuple will represent the beginning of the range, marked with type &amp;minus;1 as  and the other will represent the end with type +1 as .</p>
 <p>
 

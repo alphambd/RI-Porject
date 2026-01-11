@@ -827,7 +827,7 @@ Dow Jones Industrial Average</link></writ>
 </concept>
 </information>
 </warrant>
-</b> (30 large stocks; popular indicator)&nbsp;· <b><message wordnetid="106598915" confidence="0.8">
+</b> (30 large stocks; popular indicator) · <b><message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <index wordnetid="106639674" confidence="0.8">
 <fact wordnetid="106636259" confidence="0.8">
@@ -863,7 +863,7 @@ NYSE</link></exchange>
 </position>
 </region>
 </site>
-)&nbsp;· <b><message wordnetid="106598915" confidence="0.8">
+) · <b><message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <index wordnetid="106639674" confidence="0.8">
 <fact wordnetid="106636259" confidence="0.8">
@@ -879,7 +879,7 @@ Nasdaq Composite</link></stock_index>
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
-; technology-heavy)&nbsp;· <b><message wordnetid="106598915" confidence="0.8">
+; technology-heavy) · <b><message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <index wordnetid="106639674" confidence="0.8">
 <fact wordnetid="106636259" confidence="0.8">
@@ -895,7 +895,7 @@ NASDAQ-100</link></stock_index>
 <link xlink:type="simple" xlink:href="../559/21559.xml">
 NASDAQ</link></institution>
 </company>
- non-financial stocks)&nbsp;· <b><message wordnetid="106598915" confidence="0.8">
+ non-financial stocks) · <b><message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <index wordnetid="106639674" confidence="0.8">
 <fact wordnetid="106636259" confidence="0.8">
@@ -906,7 +906,7 @@ S&amp;P 500</link></stock_index>
 </index>
 </information>
 </message>
-</b> Index (500 large companies; general market analysis)&nbsp;· <b><message wordnetid="106598915" confidence="0.8">
+</b> Index (500 large companies; general market analysis) · <b><message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <index wordnetid="106639674" confidence="0.8">
 <fact wordnetid="106636259" confidence="0.8">
@@ -917,7 +917,7 @@ Russell 2000</link></stock_index>
 </index>
 </information>
 </message>
-</b> Index (small-cap stocks)&nbsp;· <b><message wordnetid="106598915" confidence="0.8">
+</b> Index (small-cap stocks) · <b><message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <index wordnetid="106639674" confidence="0.8">
 <fact wordnetid="106636259" confidence="0.8">
@@ -955,11 +955,11 @@ Stock market</link></header>
 Types of stocks</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../783/19372783.xml">
-Stock</link>&nbsp;·  <link xlink:type="simple" xlink:href="../373/637373.xml">
-Common stock</link>&nbsp;·  <link xlink:type="simple" xlink:href="../478/533478.xml">
-Preferred stock</link>&nbsp;·  <link xlink:type="simple" xlink:href="../734/1350734.xml">
-Outstanding stock</link>&nbsp;·  <link xlink:type="simple" xlink:href="../806/469806.xml">
-Treasury stock</link>&nbsp;·  <safety wordnetid="114538472" confidence="0.8">
+Stock</link> ·  <link xlink:type="simple" xlink:href="../373/637373.xml">
+Common stock</link> ·  <link xlink:type="simple" xlink:href="../478/533478.xml">
+Preferred stock</link> ·  <link xlink:type="simple" xlink:href="../734/1350734.xml">
+Outstanding stock</link> ·  <link xlink:type="simple" xlink:href="../806/469806.xml">
+Treasury stock</link> ·  <safety wordnetid="114538472" confidence="0.8">
 <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <security wordnetid="114539268" confidence="0.8">
@@ -968,9 +968,9 @@ Authorised stock</link></security>
 </state>
 </condition>
 </safety>
-&nbsp;·  <link xlink:type="simple" xlink:href="../680/3024680.xml">
-Restricted stock</link>&nbsp;·  <link xlink:type="simple" xlink:href="../888/12231888.xml">
-Concentrated stock</link>&nbsp;·  <link xlink:type="simple" xlink:href="../872/1918872.xml">
+ ·  <link xlink:type="simple" xlink:href="../680/3024680.xml">
+Restricted stock</link> ·  <link xlink:type="simple" xlink:href="../888/12231888.xml">
+Concentrated stock</link> ·  <link xlink:type="simple" xlink:href="../872/1918872.xml">
 Golden share</link></col>
 </row>
 <row style="height:2px">
@@ -981,8 +981,8 @@ Golden share</link></col>
 Participants</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../730/332730.xml">
-Investor</link>&nbsp;·  <link xlink:type="simple" xlink:href="../607/2785607.xml">
-Stock trader/investor</link>&nbsp;·  <market wordnetid="101097292" confidence="0.8">
+Investor</link> ·  <link xlink:type="simple" xlink:href="../607/2785607.xml">
+Stock trader/investor</link> ·  <market wordnetid="101097292" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -993,9 +993,9 @@ Market maker</link></activity>
 </act>
 </event>
 </market>
-&nbsp;·  <link xlink:type="simple" xlink:href="../013/13198013.xml">
-Floor trader</link>&nbsp;·  <link xlink:type="simple" xlink:href="../129/13198129.xml">
-Floor broker</link>&nbsp;·  <link xlink:type="simple" xlink:href="../060/373060.xml">
+ ·  <link xlink:type="simple" xlink:href="../013/13198013.xml">
+Floor trader</link> ·  <link xlink:type="simple" xlink:href="../129/13198129.xml">
+Floor broker</link> ·  <link xlink:type="simple" xlink:href="../060/373060.xml">
 Broker-dealer</link></col>
 </row>
 <row style="height:2px">
@@ -1006,8 +1006,8 @@ Broker-dealer</link></col>
 Exchanges</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../168/28168.xml">
-Stock exchange</link>&nbsp;·  <link xlink:type="simple" xlink:href="../653/195653.xml">
-List of stock exchanges</link>&nbsp;·  <link xlink:type="simple" xlink:href="../304/667304.xml">
+Stock exchange</link> ·  <link xlink:type="simple" xlink:href="../653/195653.xml">
+List of stock exchanges</link> ·  <link xlink:type="simple" xlink:href="../304/667304.xml">
 Over-the-counter</link></col>
 </row>
 <row style="height:2px">
@@ -1029,12 +1029,12 @@ Gordon model</link></higher_cognitive_process>
 </explanation>
 </thinking>
 </process>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../151/447151.xml">
 Dividend yield</link></ratio>
 </magnitude_relation>
-&nbsp;·  <safety wordnetid="114538472" confidence="0.8">
+ ·  <safety wordnetid="114538472" confidence="0.8">
 <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <condition wordnetid="113920835" confidence="0.8">
@@ -1047,18 +1047,18 @@ Earnings per share</link></security>
 </ratio>
 </magnitude_relation>
 </safety>
-&nbsp;·  <link xlink:type="simple" xlink:href="../292/265292.xml">
-Book value</link>&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../292/265292.xml">
+Book value</link> ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../219/4868219.xml">
 Earnings yield</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../558/897558.xml">
 Beta</link></ratio>
 </magnitude_relation>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <magnitude_relation wordnetid="113815152" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
@@ -1073,7 +1073,7 @@ Alpha</link></higher_cognitive_process>
 </thinking>
 </magnitude_relation>
 </process>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <market wordnetid="101097292" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
@@ -1094,7 +1094,7 @@ CAPM</link></higher_cognitive_process>
 </thinking>
 </market>
 </process>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <explanation wordnetid="105793000" confidence="0.8">
 <theory wordnetid="105989479" confidence="0.8">
@@ -1120,71 +1120,71 @@ Financial ratio</link>s</col>
 <link xlink:type="simple" xlink:href="../742/3309742.xml">
 P/CF ratio</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../066/163066.xml">
 P/E</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../932/1368932.xml">
 PEG</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../038/1661038.xml">
 Price/sales ratio</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../835/2792835.xml">
 P/B ratio</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../439/1377439.xml">
 D/E ratio</link></ratio>
 </magnitude_relation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../749/15449749.xml">
-Dividend payout ratio</link>&nbsp;·  <link xlink:type="simple" xlink:href="../754/19263754.xml">
-Dividend cover</link>&nbsp;·  <link xlink:type="simple" xlink:href="../502/19207502.xml">
-SGR</link>&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../749/15449749.xml">
+Dividend payout ratio</link> ·  <link xlink:type="simple" xlink:href="../754/19263754.xml">
+Dividend cover</link> ·  <link xlink:type="simple" xlink:href="../502/19207502.xml">
+SGR</link> ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link>
 ROIC</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../924/3055924.xml">
 ROCE</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../537/1410537.xml">
 ROE</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../291/1240291.xml">
 ROA</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../873/12755873.xml">
 EV/EBITDA</link></ratio>
 </magnitude_relation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../692/564692.xml">
-RSI</link>&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../692/564692.xml">
+RSI</link> ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../837/934837.xml">
 Sharpe ratio</link></ratio>
 </magnitude_relation>
-&nbsp;·  <magnitude_relation wordnetid="113815152" confidence="0.8">
+ ·  <magnitude_relation wordnetid="113815152" confidence="0.8">
 <ratio wordnetid="113819207" confidence="0.8">
 <link xlink:type="simple" xlink:href="../101/1273101.xml">
 Treynor ratio</link></ratio>
 </magnitude_relation>
-&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <link xlink:type="simple" xlink:href="../731/2899731.xml">
 Cap rate</link></concept>
@@ -1209,9 +1209,9 @@ Efficient market hypothesis</link></activity>
 </act>
 </event>
 </market>
-&nbsp;·  <link xlink:type="simple" xlink:href="../684/11684.xml">
-Fundamental analysis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../577/112577.xml">
-Technical analysis</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../684/11684.xml">
+Fundamental analysis</link> ·  <link xlink:type="simple" xlink:href="../577/112577.xml">
+Technical analysis</link> ·  <process wordnetid="105701363" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <explanation wordnetid="105793000" confidence="0.8">
 <theory wordnetid="105989479" confidence="0.8">
@@ -1222,7 +1222,7 @@ Modern portfolio theory</link></higher_cognitive_process>
 </explanation>
 </thinking>
 </process>
-&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+ ·  <process wordnetid="105701363" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <explanation wordnetid="105793000" confidence="0.8">
 <theory wordnetid="105989479" confidence="0.8">
@@ -1233,7 +1233,7 @@ Post-modern portfolio theory</link></higher_cognitive_process>
 </explanation>
 </thinking>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../033/18728033.xml">
+ ·  <link xlink:type="simple" xlink:href="../033/18728033.xml">
 Mosaic theory</link></col>
 </row>
 <row style="height:2px">
@@ -1244,14 +1244,14 @@ Mosaic theory</link></col>
 Related terms</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../930/41930.xml">
-Dividend</link>&nbsp;·  <link xlink:type="simple" xlink:href="../369/293369.xml">
-Stock split</link>&nbsp;·  <link xlink:type="simple" xlink:href="../110/3519110.xml">
-Reverse stock split</link>&nbsp;·  <link xlink:type="simple" xlink:href="../130/426130.xml">
-Growth stock</link>&nbsp;·  <link xlink:type="simple" xlink:href="../088/63088.xml">
-Speculation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../575/11030575.xml">
-Trade</link>&nbsp;·  <link xlink:type="simple" xlink:href="../796/228796.xml">
-Day trading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../879/63879.xml">
-IPO</link>&nbsp;·  <market wordnetid="101097292" confidence="0.8">
+Dividend</link> ·  <link xlink:type="simple" xlink:href="../369/293369.xml">
+Stock split</link> ·  <link xlink:type="simple" xlink:href="../110/3519110.xml">
+Reverse stock split</link> ·  <link xlink:type="simple" xlink:href="../130/426130.xml">
+Growth stock</link> ·  <link xlink:type="simple" xlink:href="../088/63088.xml">
+Speculation</link> ·  <link xlink:type="simple" xlink:href="../575/11030575.xml">
+Trade</link> ·  <link xlink:type="simple" xlink:href="../796/228796.xml">
+Day trading</link> ·  <link xlink:type="simple" xlink:href="../879/63879.xml">
+IPO</link> ·  <market wordnetid="101097292" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1262,7 +1262,7 @@ Market trends</link></activity>
 </act>
 </event>
 </market>
-&nbsp;·  <market wordnetid="101097292" confidence="0.8">
+ ·  <market wordnetid="101097292" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1273,7 +1273,7 @@ Short Selling</link></activity>
 </act>
 </event>
 </market>
-&nbsp;·  <market wordnetid="101097292" confidence="0.8">
+ ·  <market wordnetid="101097292" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1284,9 +1284,9 @@ Momentum</link></activity>
 </act>
 </event>
 </market>
-&nbsp;·  <link xlink:type="simple" xlink:href="../118/1537118.xml">
-Swing trading</link>&nbsp;·  <link xlink:type="simple" xlink:href="../565/1324565.xml">
-DuPont Model</link>&nbsp;·  <market wordnetid="101097292" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../118/1537118.xml">
+Swing trading</link> ·  <link xlink:type="simple" xlink:href="../565/1324565.xml">
+DuPont Model</link> ·  <market wordnetid="101097292" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -1297,7 +1297,7 @@ Dark liquidity</link></activity>
 </act>
 </event>
 </market>
-&nbsp;·  <link xlink:type="simple" xlink:href="../108/1462108.xml">
+ ·  <link xlink:type="simple" xlink:href="../108/1462108.xml">
 Market depth</link></col>
 </row>
 </table>

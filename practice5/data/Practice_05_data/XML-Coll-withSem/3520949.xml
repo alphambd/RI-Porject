@@ -34,8 +34,8 @@ AK-107
 </caption>
 </image>
 <weight>
-3.45&nbsp;<link xlink:type="simple" xlink:href="../619/16619.xml">
-kg</link> (7.61&nbsp;<link xlink:type="simple" xlink:href="../316/23316.xml">
+3.45 <link xlink:type="simple" xlink:href="../619/16619.xml">
+kg</link> (7.61 <link xlink:type="simple" xlink:href="../316/23316.xml">
 lb</link>)</weight>
 <design_date>
 1990s</design_date>
@@ -45,15 +45,15 @@ yes</is_ranged>
 <link xlink:type="simple" xlink:href="../865/18950865.xml">
 Assault rifle</link></type>
 <part_length>
-415&nbsp;mm (16.3&nbsp;in)</part_length>
+415 mm (16.3 in)</part_length>
 <rate>
 850 rounds/min (AK-107) 900 rounds/min (AK-108)</rate>
 <name>
 AK-107</name>
 <length>
-943&nbsp;<link xlink:type="simple" xlink:href="../949/72949.xml">
-mm</link> (37.1&nbsp;<link xlink:type="simple" xlink:href="../775/14775.xml">
-in</link>) stock extended / 700&nbsp;mm (27.6&nbsp;in) stock folded</length>
+943 <link xlink:type="simple" xlink:href="../949/72949.xml">
+mm</link> (37.1 <link xlink:type="simple" xlink:href="../775/14775.xml">
+in</link>) stock extended / 700 mm (27.6 in) stock folded</length>
 <action>
 <event wordnetid="100029378" confidence="0.8">
 <action wordnetid="100037396" confidence="0.8">
@@ -67,9 +67,9 @@ Gas-operated</link></psychological_feature>
 , <link xlink:type="simple" xlink:href="../574/2158574.xml">
 rotating bolt</link>, BARS system</action>
 <velocity>
-900&nbsp;<link xlink:type="simple" xlink:href="../231/67231.xml">
-m/s</link> (2,953&nbsp;<link xlink:type="simple" xlink:href="../372/2956372.xml">
-ft/s</link>) (AK-107) 910&nbsp;m/s (2,985.6&nbsp;ft/s)</velocity>
+900 <link xlink:type="simple" xlink:href="../231/67231.xml">
+m/s</link> (2,953 <link xlink:type="simple" xlink:href="../372/2956372.xml">
+ft/s</link>) (AK-107) 910 m/s (2,985.6 ft/s)</velocity>
 <variants>
 AK-108</variants>
 <feed>
@@ -100,7 +100,7 @@ Youriy K. Alexandrov</designer>
 border 
 </caption>
 </image>
-&nbsp;<country wordnetid="108544813" confidence="0.9508927676800064">
+ <country wordnetid="108544813" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../391/25391.xml">
 Russia</link></country>
 </origin>
@@ -255,53 +255,53 @@ and derivatives</header>
 <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../348/1348.xml">
 AK-47</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../094/14888094.xml">
 AKM</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../217/94217.xml">
 AK-74</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../698/1621698.xml">
 AK-101</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../926/1333926.xml">
 AK-103</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../949/3520949.xml">
 AK-107</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../725/2468725.xml">
 AEK-971</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../941/4213941.xml">
 AMD 65</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../930/1434930.xml">
 CR-21</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../892/69892.xml">
 IMI Galil</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../709/1701709.xml">
 INSAS</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../197/1844197.xml">
 Kbk wz. 1988 Tantal</link></weapon>
- &nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+  ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../074/14794074.xml">
 Kbk wz. 1996 Mini-Beryl</link></weapon>
- &nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+  ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../316/14797316.xml">
 Kbk wz. 2005 Jantar</link></weapon>
- &nbsp;·  <link xlink:type="simple" xlink:href="../893/18759893.xml">
-Kbk wz. 2002 BIN</link> &nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+  ·  <link xlink:type="simple" xlink:href="../893/18759893.xml">
+Kbk wz. 2002 BIN</link>  ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../374/2025374.xml">
 Kbkg wz. 1960</link></weapon>
- &nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+  ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../982/888982.xml">
 Kbs wz. 1996 Beryl</link></weapon>
- &nbsp;·  <firearm wordnetid="103343853" confidence="0.8">
+  ·  <firearm wordnetid="103343853" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <weapon wordnetid="104565375" confidence="0.8">
@@ -318,49 +318,49 @@ MISR</link></gun>
 </instrumentality>
 </artifact>
 </firearm>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../099/8865099.xml">
 Norinco Type 86S</link></weapon>
-&nbsp;·  <link xlink:type="simple" xlink:href="../976/18695976.xml">
-PA md. 86</link>&nbsp;·  <link xlink:type="simple" xlink:href="../924/18700924.xml">
-PM md. 63/65</link>&nbsp;·  <link>
-PSL</link>&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../976/18695976.xml">
+PA md. 86</link> ·  <link xlink:type="simple" xlink:href="../924/18700924.xml">
+PM md. 63/65</link> ·  <link>
+PSL</link> ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../759/656759.xml">
 R4</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../831/1192831.xml">
 RPK</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../919/324919.xml">
 RK 62</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../211/2289211.xml">
 RK 95 TP</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../585/14790585.xml">
 Skbk wz. 1989 Onyks</link></weapon>
- &nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+  ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../995/1043995.xml">
 Type 56</link></weapon>
-&nbsp;· <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ · <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../132/1567132.xml">
 Type 81</link></weapon>
-&nbsp;· <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ · <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link>
 Type 68</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../814/978814.xml">
 Valmet M76</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../507/787507.xml">
 Valmet M82</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../195/8021195.xml">
 Zastava M21</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../807/9731807.xml">
 Zastava M70</link></weapon>
-&nbsp;·  <firearm wordnetid="103343853" confidence="0.8">
+ ·  <firearm wordnetid="103343853" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <weapon wordnetid="104565375" confidence="0.8">
@@ -377,19 +377,19 @@ Zastava M70B</link></gun>
 </instrumentality>
 </artifact>
 </firearm>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../128/9732128.xml">
 Zastava M72</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../445/3367445.xml">
 Zastava M76</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../342/9732342.xml">
 Zastava M77</link></weapon>
-&nbsp;·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ ·  <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../409/9732409.xml">
 Zastava M77B1</link></weapon>
-&nbsp;· <weapon wordnetid="104565375" confidence="0.9508927676800064">
+ · <weapon wordnetid="104565375" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../960/9731960.xml">
 Zastava M92</link></weapon>
 </col>

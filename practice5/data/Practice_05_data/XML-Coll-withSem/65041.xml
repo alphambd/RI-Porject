@@ -273,7 +273,7 @@ return INSTANCE;
 
 <p>
 
-Allen Holub (in "Taming Java Threads", Berkeley, CA: Apress, 2000, pp. 176&ndash;178) notes that on multi-CPU systems (which are widespread as of 2007), the use of volatile may have an impact on performance approaching to that of synchronization, and raises the possibility of other problems.  Thus this solution has little to recommend it over Pugh's solution described above.</p>
+Allen Holub (in "Taming Java Threads", Berkeley, CA: Apress, 2000, pp. 176–178) notes that on multi-CPU systems (which are widespread as of 2007), the use of volatile may have an impact on performance approaching to that of synchronization, and raises the possibility of other problems.  Thus this solution has little to recommend it over Pugh's solution described above.</p>
 
 </ss2>
 <ss2>
@@ -578,8 +578,8 @@ mutex</link> in the singleton's initialization, we may perform lazy initializati
 
 It also demonstrates the broken <link xlink:type="simple" xlink:href="../874/164874.xml">
 double-checked locking</link> anti-pattern with commented code. A common broken "pattern" for <link xlink:type="simple" xlink:href="../634/45634.xml">
-thread safety</link> with the singleton pattern is to use double-checked locking. However, due to the absence of any consideration being given to multiple threads of execution in the language standard, the ability of modern processors to re-order instructions (as long as the result is consistent with their architecturally-specified  memory model), and the cache coherency problem of multi-core processors, double-checked locking is <it>intrinsically prone to failure</it> in C++. There is no model &mdash; other than runtime libraries (e.g. <link xlink:type="simple" xlink:href="../671/634671.xml">
-POSIX threads</link>, designed to provide concurrency primitives) &mdash; that can provide the necessary execution order.<weblink xlink:type="simple" xlink:href="http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf#search=%22meyers%20double%20checked%20locking%22">
+thread safety</link> with the singleton pattern is to use double-checked locking. However, due to the absence of any consideration being given to multiple threads of execution in the language standard, the ability of modern processors to re-order instructions (as long as the result is consistent with their architecturally-specified  memory model), and the cache coherency problem of multi-core processors, double-checked locking is <it>intrinsically prone to failure</it> in C++. There is no model — other than runtime libraries (e.g. <link xlink:type="simple" xlink:href="../671/634671.xml">
+POSIX threads</link>, designed to provide concurrency primitives) — that can provide the necessary execution order.<weblink xlink:type="simple" xlink:href="http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf#search=%22meyers%20double%20checked%20locking%22">
 http://www.aristeia.com/Papers/DDJ_Jul_Aug_2004_revised.pdf#search=%22meyers%20double%20checked%20locking%22</weblink></p>
 
 <p>
@@ -1317,9 +1317,9 @@ Gamma, E, Helm, R, Johnson, R, Vlissides, J: "Design Patterns", page 128. Addiso
 <entry id="7">
 Joshua Bloch: Effective Java 2nd edition, ISBN 978-0-321-35668-0, 2008, p. 18</entry>
 <entry id="8">
-McArthur, Kevin: "Pro PHP:  Patterns, Frameworks, Testing and More", pp 22&ndash;23. Apress, 2008</entry>
+McArthur, Kevin: "Pro PHP:  Patterns, Frameworks, Testing and More", pp 22–23. Apress, 2008</entry>
 <entry id="9">
-Zandstra, Matt:  "PHP Objects, Patterns and Practice", pp 147&ndash;149. Apress, 2008</entry>
+Zandstra, Matt:  "PHP Objects, Patterns and Practice", pp 147–149. Apress, 2008</entry>
 <entry id="10">
 Alex Martelli.&#32;"<weblink xlink:type="simple" xlink:href="http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/66531">
 Singleton? We don't need no stinkin' singleton: the Borg design pattern</weblink>".&#32;<it>ASPN Python Cookbook</it>.&#32;Retrieved on <link>
@@ -1483,22 +1483,22 @@ Creational</col>
 <link xlink:type="simple" xlink:href="../836/41836.xml">
 Abstract factory</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../849/164849.xml">
 Builder</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../850/164850.xml">
 Factory</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../851/164851.xml">
 Prototype</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../041/65041.xml">
 Singleton</link></form>
@@ -1517,32 +1517,32 @@ Structural</col>
 <link xlink:type="simple" xlink:href="../020/65020.xml">
 Adapter</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../033/65033.xml">
 Bridge</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../853/164853.xml">
 Composite</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../854/164854.xml">
 Decorator</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../028/65028.xml">
 Façade</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../538/140538.xml">
 Flyweight</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../856/164856.xml">
 Proxy</link></form>
@@ -1561,48 +1561,48 @@ Behavioral</col>
 <link xlink:type="simple" xlink:href="../875/164875.xml">
 Chain of responsibility</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../858/164858.xml">
 Command</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../860/164860.xml">
 Interpreter</link></form>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../859/164859.xml">
-Iterator</link>&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../859/164859.xml">
+Iterator</link> ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../862/164862.xml">
 Mediator</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../542/140542.xml">
 Memento</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../863/164863.xml">
 Observer</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../864/164864.xml">
 State</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../865/164865.xml">
 Strategy</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../866/164866.xml">
 Template method</link></form>
 </structure>
-&nbsp;·  <structure wordnetid="105726345" confidence="0.8">
+ ·  <structure wordnetid="105726345" confidence="0.8">
 <form wordnetid="105930736" confidence="0.8">
 <link xlink:type="simple" xlink:href="../689/38689.xml">
 Visitor</link></form>

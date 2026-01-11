@@ -301,10 +301,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1016%2F0022-2836%2881%2990087-5">
-10.1016/0022-2836(81)90087-5</weblink>.</cite>&nbsp;</entry>
+10.1016/0022-2836(81)90087-5</weblink>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Wozniak A&#32;(1997).&#32;"<weblink xlink:type="simple" xlink:href="http://bioinformatics.oxfordjournals.org/cgi/reprint/13/2/145.pdf">
-Using video-oriented instructions to speed up sequence comparison</weblink>". <it>Comput Appl Biosci</it>&#32;<b>13</b>&#32;(2): 145–50.</cite>&nbsp;</entry>
+Using video-oriented instructions to speed up sequence comparison</weblink>". <it>Comput Appl Biosci</it>&#32;<b>13</b>&#32;(2): 145–50.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Farrar M&#32;(2007).&#32;"<weblink xlink:type="simple" xlink:href="http://bioinformatics.oxfordjournals.org/cgi/reprint/23/2/156.pdf">
 Striped Smith–Waterman speeds database searches six times over other SIMD implementations</weblink>". <it>Bioinformatics</it>&#32;<b>23</b>: 156–161. <document wordnetid="106470073" confidence="0.8">
@@ -315,7 +315,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1093%2Fbioinformatics%2Fbtl582">
-10.1093/bioinformatics/btl582</weblink>. PMID 17110365.</cite>&nbsp;</entry>
+10.1093/bioinformatics/btl582</weblink>. PMID 17110365.</cite> </entry>
 <entry id="4">
 Cray Computer Corp, "<weblink xlink:type="simple" xlink:href="http://www.cray.com/downloads/SmithWaterman.pdf">
 Smith-Waterman Solution for Life Sciences</weblink>".</entry>
@@ -341,14 +341,14 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1186%2F1471-2105-9-S2-S10">
-10.1186/1471-2105-9-S2-S10</weblink>.</cite>&nbsp;</entry>
+10.1186/1471-2105-9-S2-S10</weblink>.</cite> </entry>
 <entry id="9">
  <cite style="font-style:normal">Rognes T and Seeberg E&#32;(2000).&#32;"<weblink xlink:type="simple" xlink:href="http://bioinformatics.oxfordjournals.org/cgi/reprint/16/8/699.pdf">
 Six-fold speed-up of Smith-Waterman sequence database searches using parallel processing on common microprocessors</weblink>". <it><weblink xlink:type="simple" xlink:href="http://bioinformaticsARRAYxfordjournalsARRAYrg/">
-Bioinformatics</weblink></it>&#32;<b>16</b>: 699–706.</cite>&nbsp;</entry>
+Bioinformatics</weblink></it>&#32;<b>16</b>: 699–706.</cite> </entry>
 <entry id="10">
  <cite style="font-style:normal">Farrar M S&#32;(2008).&#32;"<weblink xlink:type="simple" xlink:href="http://farrar.michael.googlepages.com/smith-watermanfortheibmcellbe">
-Optimizing Smith-Waterman for the Cell Broadband Engine</weblink>".</cite>&nbsp;</entry>
+Optimizing Smith-Waterman for the Cell Broadband Engine</weblink>".</cite> </entry>
 </reflist>
 </p>
 
@@ -362,11 +362,11 @@ External links</st>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://jaligner.sourceforge.net/">
-JAligner</weblink> &mdash; an open source Java implementation of the Smith-Waterman algorithm</entry>
+JAligner</weblink> — an open source Java implementation of the Smith-Waterman algorithm</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://baba.sourceforge.net/">
-B.A.B.A.</weblink> &mdash; an applet (with source) which visually explains the algorithm.</entry>
+B.A.B.A.</weblink> — an applet (with source) which visually explains the algorithm.</entry>
 <entry level="1" type="bullet">
 
 <weblink xlink:type="simple" xlink:href="http://www.ebi.ac.uk/Tools/fasta">

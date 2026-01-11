@@ -586,7 +586,7 @@ Singapore</link></country>
 Schools</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../829/1581829.xml">
-International schools</link>&nbsp;·  <link xlink:type="simple" xlink:href="../104/902104.xml">
+International schools</link> ·  <link xlink:type="simple" xlink:href="../104/902104.xml">
 Pre-university centres</link></col>
 </row>
 <row style="height:2px">
@@ -600,7 +600,7 @@ Vocational Institutes</col>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../386/1826386.xml">
 Institute of Technical Education</link></university>
- &nbsp;·  <link xlink:type="simple" xlink:href="../593/18899593.xml">
+  ·  <link xlink:type="simple" xlink:href="../593/18899593.xml">
 Singapore Hotel and Tourism Education Centre</link></col>
 </row>
 <row style="height:2px">
@@ -613,16 +613,16 @@ Polytechnics</col>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../844/2205844.xml">
 Singapore Polytechnic</link></university>
-&nbsp;·  <university wordnetid="108286163" confidence="0.9508927676800064">
+ ·  <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../637/1471637.xml">
 Ngee Ann Polytechnic</link></university>
-&nbsp;·  <university wordnetid="108286163" confidence="0.9508927676800064">
+ ·  <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../002/3384002.xml">
 Temasek Polytechnic</link></university>
-&nbsp;·  <university wordnetid="108286163" confidence="0.9508927676800064">
+ ·  <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../501/990501.xml">
 Nanyang Polytechnic</link></university>
-&nbsp;·  <polytechnic_institute wordnetid="108285407" confidence="0.8">
+ ·  <polytechnic_institute wordnetid="108285407" confidence="0.8">
 <school wordnetid="108276720" confidence="0.8">
 <technical_school wordnetid="108285246" confidence="0.8">
 <educational_institution wordnetid="108276342" confidence="0.8">
@@ -646,7 +646,7 @@ Public universities</link></col>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../880/286880.xml">
 National University of Singapore</link></university>
-&nbsp;·  <university wordnetid="108286163" confidence="0.9508927676800064">
+ ·  <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../305/82305.xml">
 Nanyang Technological University</link></university>
 </col>
@@ -662,20 +662,20 @@ Private universities</link>and colleges</col>
 <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../940/860940.xml">
 Singapore Management University</link></university>
-&nbsp;·  <university wordnetid="108286163" confidence="0.9508927676800064">
+ ·  <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../042/2596042.xml">
 SIM University</link></university>
-&nbsp;·  <university wordnetid="108286163" confidence="0.9508927676800064">
+ ·  <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../609/4170609.xml">
 James Cook University International Campus</link></university>
-&nbsp;·  <university wordnetid="108286163" confidence="0.9508927676800064">
+ ·  <university wordnetid="108286163" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../216/239216.xml">
 University of Nevada, Las Vegas</link></university>
- &nbsp;·  <link xlink:type="simple" xlink:href="../880/18975880.xml">
-NYU Tisch School of the Arts</link>&nbsp;·  <link xlink:type="simple" xlink:href="../629/18807629.xml">
-University of New Brunswick College</link>&nbsp;·  <link xlink:type="simple" xlink:href="../826/18807826.xml">
-Queen Margaret University</link>&nbsp;·  <link xlink:type="simple" xlink:href="../919/18806919.xml">
-Curtin University of Technology</link> &nbsp;·  </col>
+  ·  <link xlink:type="simple" xlink:href="../880/18975880.xml">
+NYU Tisch School of the Arts</link> ·  <link xlink:type="simple" xlink:href="../629/18807629.xml">
+University of New Brunswick College</link> ·  <link xlink:type="simple" xlink:href="../826/18807826.xml">
+Queen Margaret University</link> ·  <link xlink:type="simple" xlink:href="../919/18806919.xml">
+Curtin University of Technology</link>  ·  </col>
 </row>
 <row style="height:2px">
 
@@ -685,7 +685,7 @@ Curtin University of Technology</link> &nbsp;·  </col>
 Programmes</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../201/7587201.xml">
-Edusave</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+Edusave</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <plan_of_action wordnetid="105902545" confidence="0.8">
 <policy wordnetid="105901508" confidence="0.8">
@@ -694,8 +694,8 @@ Gifted Education Programme</link></policy>
 </plan_of_action>
 </plan>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../842/597842.xml">
-Integrated Programme</link>&nbsp;·  <idea wordnetid="105833840" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../842/597842.xml">
+Integrated Programme</link> ·  <idea wordnetid="105833840" confidence="0.8">
 <plan wordnetid="105898568" confidence="0.8">
 <plan_of_action wordnetid="105902545" confidence="0.8">
 <policy wordnetid="105901508" confidence="0.8">
@@ -704,11 +704,11 @@ Special Assistance Plan</link></policy>
 </plan_of_action>
 </plan>
 </idea>
-&nbsp;·  <link xlink:type="simple" xlink:href="../509/2826509.xml">
-President's Scholar</link>&nbsp;·  <link xlink:type="simple" xlink:href="../215/3635215.xml">
-Provisional Admission Exercise</link>&nbsp;·  <link xlink:type="simple" xlink:href="../379/5059379.xml">
-Third Language</link>&nbsp;·  <link xlink:type="simple" xlink:href="../921/5892921.xml">
-Programme for Rebuilding and IMproving Existing schools</link>&nbsp;·  <link xlink:type="simple" xlink:href="../586/15931586.xml">
+ ·  <link xlink:type="simple" xlink:href="../509/2826509.xml">
+President's Scholar</link> ·  <link xlink:type="simple" xlink:href="../215/3635215.xml">
+Provisional Admission Exercise</link> ·  <link xlink:type="simple" xlink:href="../379/5059379.xml">
+Third Language</link> ·  <link xlink:type="simple" xlink:href="../921/5892921.xml">
+Programme for Rebuilding and IMproving Existing schools</link> ·  <link xlink:type="simple" xlink:href="../586/15931586.xml">
 Trim and Fit</link></col>
 </row>
 <row style="height:2px">
@@ -719,7 +719,7 @@ Trim and Fit</link></col>
 Examinations</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../062/4024062.xml">
-Singapore Examinations and Assessment Board</link>&nbsp;·  <process wordnetid="105701363" confidence="0.8">
+Singapore Examinations and Assessment Board</link> ·  <process wordnetid="105701363" confidence="0.8">
 <inquiry wordnetid="105797597" confidence="0.8">
 <thinking wordnetid="105770926" confidence="0.8">
 <problem_solving wordnetid="105796750" confidence="0.8">
@@ -734,8 +734,8 @@ Primary School Leaving Examination</link></higher_cognitive_process>
 </thinking>
 </inquiry>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../140/3210140.xml">
-Singaporean GCE 'O' Level</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../140/3210140.xml">
+Singaporean GCE 'O' Level</link> ·  <work wordnetid="100575741" confidence="0.8">
 <qualification wordnetid="104717139" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <fitness wordnetid="104716864" confidence="0.8">
@@ -756,9 +756,9 @@ Singaporean GCE 'O' Level</link>&nbsp;·  <work wordnetid="100575741" confidence
 </examination>
 </qualification>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../262/1983262.xml">
-International Baccalaureate</link>&nbsp;·  <link xlink:type="simple" xlink:href="../988/2849988.xml">
-Ten year series</link>&nbsp;·  <link xlink:type="simple" xlink:href="../181/11728181.xml">
+ ·  <link xlink:type="simple" xlink:href="../262/1983262.xml">
+International Baccalaureate</link> ·  <link xlink:type="simple" xlink:href="../988/2849988.xml">
+Ten year series</link> ·  <link xlink:type="simple" xlink:href="../181/11728181.xml">
 H3 Pharmaceutical Chemistry</link></col>
 </row>
 <row style="height:2px">
@@ -769,16 +769,16 @@ H3 Pharmaceutical Chemistry</link></col>
 Co-curriculas</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;padding:0.25em 0; line-height:1.4em;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../913/651913.xml">
-Co-curricular activity</link>&nbsp;·  <link xlink:type="simple" xlink:href="../100/1098100.xml">
-National Physical Fitness Award</link>&nbsp;·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
+Co-curricular activity</link> ·  <link xlink:type="simple" xlink:href="../100/1098100.xml">
+National Physical Fitness Award</link> ·  <fundamental_quantity wordnetid="113575869" confidence="0.8">
 <time_period wordnetid="115113229" confidence="0.8">
 <festival wordnetid="115162388" confidence="0.8">
 <link xlink:type="simple" xlink:href="../526/4138526.xml">
 Singapore Youth Festival</link></festival>
 </time_period>
 </fundamental_quantity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../062/1586062.xml">
- List of youth organisations</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../062/1586062.xml">
+ List of youth organisations</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -787,11 +787,11 @@ Boys' Brigade</link></administration>
 </group>
 </social_group>
 </body>
-&nbsp;·  <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ ·  <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../697/1957697.xml">
 National Cadet Corps</link></military_unit>
-&nbsp;·  <link xlink:type="simple" xlink:href="../001/3615001.xml">
-National Civil Defence Cadet Corps</link>&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../001/3615001.xml">
+National Civil Defence Cadet Corps</link> ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <administrative_unit wordnetid="108077292" confidence="0.8">
 <law_enforcement_agency wordnetid="108348815" confidence="0.8">
@@ -806,11 +806,11 @@ National Police Cadet Corps</link></administration>
 </administrative_unit>
 </social_group>
 </body>
-&nbsp;·  <link xlink:type="simple" xlink:href="../499/5999499.xml">
-Outward Bound Singapore</link>&nbsp;·  <organization wordnetid="108008335" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../499/5999499.xml">
+Outward Bound Singapore</link> ·  <organization wordnetid="108008335" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../751/1957751.xml">
 Red Cross Youth</link></organization>
-&nbsp;·  <body wordnetid="107965085" confidence="0.8">
+ ·  <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
 <group wordnetid="100031264" confidence="0.8">
 <administration wordnetid="108164585" confidence="0.8">
@@ -819,7 +819,7 @@ Singapore Scout Association</link></administration>
 </group>
 </social_group>
 </body>
-&nbsp;·  <military_unit wordnetid="108198398" confidence="0.9508927676800064">
+ ·  <military_unit wordnetid="108198398" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../747/10492747.xml">
 St. John Ambulance Brigade</link></military_unit>
 </col>

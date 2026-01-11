@@ -976,7 +976,7 @@ References</st>
 <entry id="1">
  <cite style="font-style:normal">Petitcolas, FAP; Anderson RJ; Kuhn MG.&#32;"<weblink xlink:type="simple" xlink:href="http://www.cl.cam.ac.uk/~fapp2/publications/ieee99-infohiding.pdf">
 Information Hiding:  A survey</weblink>"&#32;(pdf). <it>Proceedings of the IEEE (special issue)</it>&#32;<b>87</b>&#32;(7): 1062-78. Retrieved on <link>
-2008-09-02</link>.</cite>&nbsp;</entry>
+2008-09-02</link>.</cite> </entry>
 <entry id="2">
 Pahati, OJ&#32;(2001-11-29).&#32;"<weblink xlink:type="simple" xlink:href="http://web.archive.org/web/20070716093719/http://www.alternet.org/story/11986/">
 Confounding Carnivore: How to Protect Your Online Privacy</weblink>".&#32;  <web_site wordnetid="106359193" confidence="0.9508927676800064">
@@ -1013,18 +1013,18 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Wayner, Peter&#32;(2002). Disappearing cryptography: information hiding: steganography &amp; watermarking.&#32;Amsterdam:&#32;MK/Morgan Kaufmann Publishers. ISBN 1-55860-769-2.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Wayner, Peter&#32;(2002). Disappearing cryptography: information hiding: steganography &amp; watermarking.&#32;Amsterdam:&#32;MK/Morgan Kaufmann Publishers. ISBN 1-55860-769-2.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Petitcolas, Fabian A.P.; Katzenbeisser, Stefan&#32;(2000). Information Hiding Techniques for Steganography and Digital Watermarking.&#32;Artech House Publishers. ISBN 1-58053-035-4.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Petitcolas, Fabian A.P.; Katzenbeisser, Stefan&#32;(2000). Information Hiding Techniques for Steganography and Digital Watermarking.&#32;Artech House Publishers. ISBN 1-58053-035-4.</cite> </entry>
 <entry level="1" type="bullet">
 
- <cite style="font-style:normal" class="book">Johnson, Neil; Duric, Zoran; Jajodia, Sushil&#32;(2001). Information hiding: steganography and watermarking: attacks and countermeasures.&#32;Springer. ISBN 978-0-7923-7204-2.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Johnson, Neil; Duric, Zoran; Jajodia, Sushil&#32;(2001). Information hiding: steganography and watermarking: attacks and countermeasures.&#32;Springer. ISBN 978-0-7923-7204-2.</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Kessler, GC&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://www.fbi.gov/hq/lab/fsc/backissu/july2004/research/2004_03_research01.htm">
 An Overview of Steganography for the Computer Forensics Examiner</weblink>". <it>Forensic Science Communications</it>&#32;<b>6</b>&#32;(3). Retrieved on <link>
-2008-09-02</link>.</cite>&nbsp;</entry>
+2008-09-02</link>.</cite> </entry>
 <entry level="1" type="bullet">
 
  Provos, N;&#32;Honeyman P&#32;(2001).&#32;"<weblink xlink:type="simple" xlink:href="http://www.citi.umich.edu/techreports/reports/citi-tr-01-11.pdf">
@@ -1036,11 +1036,11 @@ University of Michigan</link></university>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Wang, H; Wang S&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://acmqueue.com/modules.php?name=Content&amp;pa=showpage&amp;pid=241">
-Cyber warfare: steganography vs. steganalysis</weblink>". <it>Programming Languages</it>&#32;<b>2</b>&#32;(9).</cite>&nbsp;</entry>
+Cyber warfare: steganography vs. steganalysis</weblink>". <it>Programming Languages</it>&#32;<b>2</b>&#32;(9).</cite> </entry>
 <entry level="1" type="bullet">
 
   <cite style="font-style:normal">Rowland, C&#32;(1996).&#32;"<weblink xlink:type="simple" xlink:href="http://www.firstmonday.org/issues/issue2_5/rowland/">
-Covert Channels in the TCP/IP Suite</weblink>". <it>First Monday</it>&#32;<b>2</b>&#32;(5).</cite>&nbsp;</entry>
+Covert Channels in the TCP/IP Suite</weblink>". <it>First Monday</it>&#32;<b>2</b>&#32;(5).</cite> </entry>
 </list>
 </p>
 
@@ -1472,7 +1472,7 @@ Vecna</weblink> Hide any file in any image (output is always PNG), written in Ja
 <table style="width:100%;;;;" class="nowraplinks  navbox-subgroup" cellspacing="0">
 <row>
 <header colspan="2" style=";background:#ccf;" class="navbox-title">
-&nbsp;<link xlink:type="simple" xlink:href="../432/18934432.xml">
+ <link xlink:type="simple" xlink:href="../432/18934432.xml">
 Cryptography</link></header>
 </row>
 <row style="height:2px;">
@@ -1563,8 +1563,8 @@ Espionage</link></header>
 <row>
 <col colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../171/1256171.xml">
-Agent handling</link>&nbsp;·  <link xlink:type="simple" xlink:href="../101/1144101.xml">
-Black op</link>&nbsp;· <technique wordnetid="105665146" confidence="0.8">
+Agent handling</link> ·  <link xlink:type="simple" xlink:href="../101/1144101.xml">
+Black op</link> · <technique wordnetid="105665146" confidence="0.8">
 <operation wordnetid="114008806" confidence="0.8">
 <operation wordnetid="100955060" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -1589,23 +1589,23 @@ Black bag operation</link></activity>
 </operation>
 </operation>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../741/655741.xml">
 Concealment device</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../432/18934432.xml">
-Cryptography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../639/655639.xml">
-Dead drop</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../432/18934432.xml">
+Cryptography</link> ·  <link xlink:type="simple" xlink:href="../639/655639.xml">
+Dead drop</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../656/372656.xml">
 Eavesdropping</link></method>
 </know-how>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <law wordnetid="108441203" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
@@ -1618,11 +1618,11 @@ False flag</link></group>
 </know-how>
 </law>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../181/14711181.xml">
-Honeypot (espionage)</link>&nbsp;·  <link xlink:type="simple" xlink:href="../508/15508.xml">
-Industrial espionage</link>&nbsp;·  <link xlink:type="simple" xlink:href="../414/220414.xml">
-Interrogation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../358/848358.xml">
-Non-official cover</link>&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../181/14711181.xml">
+Honeypot (espionage)</link> ·  <link xlink:type="simple" xlink:href="../508/15508.xml">
+Industrial espionage</link> ·  <link xlink:type="simple" xlink:href="../414/220414.xml">
+Interrogation</link> ·  <link xlink:type="simple" xlink:href="../358/848358.xml">
+Non-official cover</link> ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <representative wordnetid="110522035" confidence="0.8">
 <communicator wordnetid="109610660" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -1641,8 +1641,8 @@ Official cover</link></negotiator>
 </communicator>
 </representative>
 </physical_entity>
-&nbsp;·  <link xlink:type="simple" xlink:href="../733/28733.xml">
-Steganography</link>&nbsp;·  <link xlink:type="simple" xlink:href="../231/87231.xml">
+ ·  <link xlink:type="simple" xlink:href="../733/28733.xml">
+Steganography</link> ·  <link xlink:type="simple" xlink:href="../231/87231.xml">
 Surveillance</link></col>
 </row>
 </table>
@@ -1680,22 +1680,22 @@ Human Intelligence</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../830/14193830.xml">
 Clandestine HUMINT</link> (<link xlink:type="simple" xlink:href="../181/14711181.xml">
-recruiting</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+recruiting</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../661/14338661.xml">
 operational techniques</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../408/14590408.xml">
-Covert action</link>&nbsp;·  <operation wordnetid="114008806" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../408/14590408.xml">
+Covert action</link> ·  <operation wordnetid="114008806" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <action wordnetid="114006945" confidence="0.8">
 <link xlink:type="simple" xlink:href="../593/14366593.xml">
 Direct action</link></action>
 </state>
 </operation>
-&nbsp;·  <link xlink:type="simple" xlink:href="../092/14558092.xml">
+ ·  <link xlink:type="simple" xlink:href="../092/14558092.xml">
 Clandestine cell system</link>)<power wordnetid="105190804" confidence="0.8">
 <influence wordnetid="105194151" confidence="0.8">
 <force wordnetid="105194578" confidence="0.8">
@@ -1712,7 +1712,7 @@ organizations</link></force>
 </power>
 )<link xlink:type="simple" xlink:href="../501/10501.xml">
 Espionage</link> (<link xlink:type="simple" xlink:href="../171/1256171.xml">
-Agent handling</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+Agent handling</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <operation wordnetid="114008806" confidence="0.8">
 <operation wordnetid="100955060" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -1737,30 +1737,30 @@ Black bag operation</link></activity>
 </operation>
 </operation>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../741/655741.xml">
 Concealment device</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../432/18934432.xml">
-Cryptography</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../432/18934432.xml">
+Cryptography</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../036/14006036.xml">
 Cut-out</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../639/655639.xml">
-Dead drop</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../639/655639.xml">
+Dead drop</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../656/372656.xml">
 Eavesdropping</link></method>
 </know-how>
 </technique>
-&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <technique wordnetid="105665146" confidence="0.8">
 <law wordnetid="108441203" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
@@ -1773,19 +1773,19 @@ False flag operations</link></group>
 </know-how>
 </law>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../181/14711181.xml">
-Honeypot</link>&nbsp;·  <link xlink:type="simple" xlink:href="../358/848358.xml">
-Non-official cover</link>&nbsp;·  <link xlink:type="simple" xlink:href="../414/220414.xml">
-Interrogation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../704/156704.xml">
-Numbers messaging</link>&nbsp;·  <technique wordnetid="105665146" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../181/14711181.xml">
+Honeypot</link> ·  <link xlink:type="simple" xlink:href="../358/848358.xml">
+Non-official cover</link> ·  <link xlink:type="simple" xlink:href="../414/220414.xml">
+Interrogation</link> ·  <link xlink:type="simple" xlink:href="../704/156704.xml">
+Numbers messaging</link> ·  <technique wordnetid="105665146" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../622/1253622.xml">
 One-way voice link</link></method>
 </know-how>
 </technique>
-&nbsp;·  <link xlink:type="simple" xlink:href="../733/28733.xml">
-Steganography</link>&nbsp;·   <link xlink:type="simple" xlink:href="../231/87231.xml">
+ ·  <link xlink:type="simple" xlink:href="../733/28733.xml">
+Steganography</link> ·   <link xlink:type="simple" xlink:href="../231/87231.xml">
 Surveillance</link>)</col>
 </row>
 <row style="height:2px">
@@ -1798,11 +1798,11 @@ SIGINT/
 Signals Intelligence</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../670/13762670.xml">
-SIGINT by Alliances, Nations and Industries</link>&nbsp;·  <link xlink:type="simple" xlink:href="../445/13801445.xml">
-SIGINT Operational Platforms by Nation</link>&nbsp;·  <link xlink:type="simple" xlink:href="../961/13813961.xml">
-SIGINT in Modern History</link>&nbsp;·   <link xlink:type="simple" xlink:href="../781/184781.xml">
-TEMPEST</link>&nbsp;·  <link xlink:type="simple" xlink:href="../724/820724.xml">
-Direction finding</link>&nbsp;·  <operation wordnetid="100955060" confidence="0.8">
+SIGINT by Alliances, Nations and Industries</link> ·  <link xlink:type="simple" xlink:href="../445/13801445.xml">
+SIGINT Operational Platforms by Nation</link> ·  <link xlink:type="simple" xlink:href="../961/13813961.xml">
+SIGINT in Modern History</link> ·   <link xlink:type="simple" xlink:href="../781/184781.xml">
+TEMPEST</link> ·  <link xlink:type="simple" xlink:href="../724/820724.xml">
+Direction finding</link> ·  <operation wordnetid="100955060" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <attack wordnetid="100972621" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
@@ -1827,8 +1827,8 @@ MASINT/
 Measurement andSignature Intelligence</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../881/13789881.xml">
-Electro-optical</link>&nbsp;·  <link xlink:type="simple" xlink:href="../530/13784530.xml">
-Nuclear</link>&nbsp;·  <process wordnetid="100029677" confidence="0.8">
+Electro-optical</link> ·  <link xlink:type="simple" xlink:href="../530/13784530.xml">
+Nuclear</link> ·  <process wordnetid="100029677" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <phenomenon wordnetid="100034213" confidence="0.8">
 <consequence wordnetid="111410625" confidence="0.8">
@@ -1837,8 +1837,8 @@ Geophysical</link></consequence>
 </phenomenon>
 </physical_entity>
 </process>
-&nbsp;·  <link xlink:type="simple" xlink:href="../744/13789744.xml">
-Radar</link>&nbsp;·  <software wordnetid="106566077" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../744/13789744.xml">
+Radar</link> ·  <software wordnetid="106566077" confidence="0.8">
 <application wordnetid="106570110" confidence="0.8">
 <program wordnetid="106568978" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
@@ -1853,8 +1853,8 @@ Radiofrequency</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../270/13783270.xml">
-Materials</link>&nbsp;·  <link xlink:type="simple" xlink:href="../677/17177677.xml">
+ ·  <link xlink:type="simple" xlink:href="../270/13783270.xml">
+Materials</link> ·  <link xlink:type="simple" xlink:href="../677/17177677.xml">
 Casualty estimation</link></col>
 </row>
 <row style="height:2px">
@@ -1865,9 +1865,9 @@ Casualty estimation</link></col>
 Others</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 OSINT/<link xlink:type="simple" xlink:href="../199/387199.xml">
-Open Source Intelligence</link>&nbsp;·  IMINT/<link xlink:type="simple" xlink:href="../746/159746.xml">
-Imagery Intelligence</link>&nbsp;·  FININT/<link xlink:type="simple" xlink:href="../481/7453481.xml">
-Financial Intelligence</link>&nbsp;·  TECHINT/<link xlink:type="simple" xlink:href="../324/335324.xml">
+Open Source Intelligence</link> ·  IMINT/<link xlink:type="simple" xlink:href="../746/159746.xml">
+Imagery Intelligence</link> ·  FININT/<link xlink:type="simple" xlink:href="../481/7453481.xml">
+Financial Intelligence</link> ·  TECHINT/<link xlink:type="simple" xlink:href="../324/335324.xml">
 Technical intelligence</link></col>
 </row>
 </table>
@@ -1883,9 +1883,9 @@ Intelligence
 analysismanagement</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../253/4448253.xml">
-Intelligence analysis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../316/14549316.xml">
-Cognitive traps for intelligence analysis</link>&nbsp;·  <link xlink:type="simple" xlink:href="../561/17068561.xml">
-Words of Estimative Probability</link>&nbsp;·  <work wordnetid="104599396" confidence="0.8">
+Intelligence analysis</link> ·  <link xlink:type="simple" xlink:href="../316/14549316.xml">
+Cognitive traps for intelligence analysis</link> ·  <link xlink:type="simple" xlink:href="../561/17068561.xml">
+Words of Estimative Probability</link> ·  <work wordnetid="104599396" confidence="0.8">
 <product wordnetid="104007894" confidence="0.8">
 <creation wordnetid="103129123" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
@@ -1898,7 +1898,7 @@ Analysis of Competing Hypotheses</link></publication>
 </creation>
 </product>
 </work>
-&nbsp;·  <link xlink:type="simple" xlink:href="../890/17159890.xml">
+ ·  <link xlink:type="simple" xlink:href="../890/17159890.xml">
 Intelligence cycle (target-centric approach)</link></col>
 </row>
 <row style="height:2px">
@@ -1911,10 +1911,10 @@ Intelligence
 disseminationmanagement</link></col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../867/14103867.xml">
-Intelligence cycle security</link>&nbsp;·  <link xlink:type="simple" xlink:href="../030/238030.xml">
-Counter-intelligence</link>&nbsp;·  <link xlink:type="simple" xlink:href="../104/14093104.xml">
-Counter-intelligence and counter-terrorism organizations</link>&nbsp;·  <link xlink:type="simple" xlink:href="../439/14114439.xml">
-List of counterintelligence organizations</link>&nbsp;·  <link xlink:type="simple" xlink:href="../807/14093807.xml">
+Intelligence cycle security</link> ·  <link xlink:type="simple" xlink:href="../030/238030.xml">
+Counter-intelligence</link> ·  <link xlink:type="simple" xlink:href="../104/14093104.xml">
+Counter-intelligence and counter-terrorism organizations</link> ·  <link xlink:type="simple" xlink:href="../439/14114439.xml">
+List of counterintelligence organizations</link> ·  <link xlink:type="simple" xlink:href="../807/14093807.xml">
 Counterintelligence failures</link></col>
 </row>
 </table>

@@ -204,7 +204,7 @@ library</link> to place data in a well known location in memory and then causes 
 fault</link></it>, a type of error. When the system is first started the kernel is set up to be the "handler" of all faults, so when the program causes a fault the kernel takes over, examines the information passed to it, and then carries out the instructions.</p>
 <p>
 
-Under Mach, the IPC system was used for this role instead. In order to call system functionality, a program would ask the kernel for access to a port, then use the IPC system to send messages to that port. Although the messages were triggered by syscalls as they would be on other kernels, under Mach that was pretty much all the kernel did&mdash;handling the actual request would be up to some other program.</p>
+Under Mach, the IPC system was used for this role instead. In order to call system functionality, a program would ask the kernel for access to a port, then use the IPC system to send messages to that port. Although the messages were triggered by syscalls as they would be on other kernels, under Mach that was pretty much all the kernel did—handling the actual request would be up to some other program.</p>
 <p>
 
 The use of IPC for message passing benefited support for threads and concurrency. Since tasks consisted of multiple threads, and it was the code in the threads that used the IPC mechanism, Mach was able to freeze and unfreeze threads while the message was handled. This allowed the system to be distributed over multiple processors, either using shared memory directly as in most Mach messages, or by adding code to copy the message to another processor if needed. In a traditional kernel this is difficult to implement; the system has to be sure that different programs don't try to write to the same memory from different processors. Under Mach this was well defined and easy to implement; it was the very process of accessing that memory, the ports, that was made a first-class citizen of the system.</p>
@@ -545,7 +545,7 @@ The impact of operating system structure on memory system performance</weblink><
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal">M. Condict, D. Bolinger, E. McManus, D. Mitchell, S. Lewontin&#32;(April 1994).&#32;"Microkernel modularity with integrated kernel performance". <it>Technical report, OSF Research Institute, Cambridge, MA</it>.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">M. Condict, D. Bolinger, E. McManus, D. Mitchell, S. Lewontin&#32;(April 1994).&#32;"Microkernel modularity with integrated kernel performance". <it>Technical report, OSF Research Institute, Cambridge, MA</it>.</cite> </entry>
 <entry id="2">
   <cite style="font-style:normal">Hermann Härtig, Michael Hohmuth, <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
@@ -565,7 +565,7 @@ Jochen Liedtke</link></research_worker>
 </person>
 </physical_entity>
 , Sebastian Schönberg, Jean Wolter&#32;(October 1997).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=266660&amp;dl=ACM&amp;coll=&amp;CFID=15151515&amp;CFTOKEN=6184618">
-The performance of μ-kernel-based systems</weblink>". <it>Proceedings of the 16th ACM symposium on Operating systems principles (SOSP), Saint-Malo, France</it>: 67. ISBN 0-89791-916-5.</cite>&nbsp; <weblink xlink:type="simple" xlink:href="http://os.inf.tu-dresden.de/pubs/sosp97/">
+The performance of μ-kernel-based systems</weblink>". <it>Proceedings of the 16th ACM symposium on Operating systems principles (SOSP), Saint-Malo, France</it>: 67. ISBN 0-89791-916-5.</cite>  <weblink xlink:type="simple" xlink:href="http://os.inf.tu-dresden.de/pubs/sosp97/">
 url2</weblink> </entry>
 <entry id="3">
   <cite style="font-style:normal"><physical_entity wordnetid="100001930" confidence="0.8">
@@ -585,7 +585,7 @@ Jochen Liedtke</link></research_worker>
 </computer_user>
 </person>
 </physical_entity>
-&#32;(1993).&#32;"Improving IPC by Kernel Design". <it>Proceedings of the 14th ACM Symposium on Operating System Principles (SOSP)</it>. ISBN0-89791-632-8.</cite>&nbsp;</entry>
+&#32;(1993).&#32;"Improving IPC by Kernel Design". <it>Proceedings of the 14th ACM Symposium on Operating System Principles (SOSP)</it>. ISBN0-89791-632-8.</cite> </entry>
 </reflist>
 </p>
 

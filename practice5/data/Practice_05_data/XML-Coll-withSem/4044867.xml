@@ -295,7 +295,7 @@ Pseudocode</link></subject>
 <link xlink:type="simple" xlink:href="../119/28119.xml">
 Scheme</link></programming_language>
 , however, is a <link xlink:type="simple" xlink:href="../933/10933.xml">
-functional programming language</link> and does not define any looping constructs.  It relies solely upon recursion to perform all looping.  Because Scheme is tail-recursive, a recursive procedure can be defined that implements the factorial procedure as an iterative process &mdash; meaning that it uses constant space but linear time.</p>
+functional programming language</link> and does not define any looping constructs.  It relies solely upon recursion to perform all looping.  Because Scheme is tail-recursive, a recursive procedure can be defined that implements the factorial procedure as an iterative process — meaning that it uses constant space but linear time.</p>
 <p>
 
 Example implementations:</p>
@@ -1209,37 +1209,37 @@ Notes and References</st>
 
 <reflist>
 <entry id="1">
- <cite id="Reference-Epp-1995" style="font-style:normal" class="book">Epp, Susanna&#32;(1995). Discrete Mathematics with Applications, 2nd,&#32;427.</cite>&nbsp;</entry>
+ <cite id="Reference-Epp-1995" style="font-style:normal" class="book">Epp, Susanna&#32;(1995). Discrete Mathematics with Applications, 2nd,&#32;427.</cite> </entry>
 <entry id="2">
  <cite id="Reference-Graham-1990" style="font-style:normal" class="book">Graham, Ronald;&#32;Donald Knuth, Oren Patashnik&#32;(1990). <weblink xlink:type="simple" xlink:href="http://www-cs-faculty.stanford.edu/~knuth/gkp.html">
-Concrete Mathematics</weblink>,&#32;Chapter 1: Recurrent Problems.</cite>&nbsp;</entry>
+Concrete Mathematics</weblink>,&#32;Chapter 1: Recurrent Problems.</cite> </entry>
 <entry id="3">
- <cite id="Reference-Wirth-1976" style="font-style:normal" class="book">Wirth, Niklaus&#32;(1976). Algorithms + Data Structures = Programs.&#32;Prentice-Hall,&#32;126.</cite>&nbsp;</entry>
+ <cite id="Reference-Wirth-1976" style="font-style:normal" class="book">Wirth, Niklaus&#32;(1976). Algorithms + Data Structures = Programs.&#32;Prentice-Hall,&#32;126.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal" class="book">Felleisen, Matthias;&#32;Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi&#32;(2001). <weblink xlink:type="simple" xlink:href="http://www.htdp.org/2003-09-26/Book/curriculum-Z-H-31.html">
-How to Design Programs: An Introduction to Computing and Programming</weblink>.&#32;Cambridge, MASS:&#32;MIT Press,&#32;Part V "Generative Recursion".</cite>&nbsp;
+How to Design Programs: An Introduction to Computing and Programming</weblink>.&#32;Cambridge, MASS:&#32;MIT Press,&#32;Part V "Generative Recursion".</cite> 
 </entry>
 <entry id="5">
- <cite id="CITEREFFelleisen2002" style="font-style:normal">Felleisen, Matthias&#32;(2002),&#32;"Developing Interactive Web Programs", in&#32;Jeuring, Johan,&#32;<it>Advanced Functional Programming: 4th International School</it>, Oxford, UK: Springer, pp. 108</cite>&nbsp;.</entry>
+ <cite id="CITEREFFelleisen2002" style="font-style:normal">Felleisen, Matthias&#32;(2002),&#32;"Developing Interactive Web Programs", in&#32;Jeuring, Johan,&#32;<it>Advanced Functional Programming: 4th International School</it>, Oxford, UK: Springer, pp. 108</cite> .</entry>
 <entry id="6">
- <cite id="Reference-Epp-1995" style="font-style:normal" class="book">Epp, Susanna&#32;(1995). Discrete Mathematics with Applications.&#32;Brooks-Cole Publishing Company,&#32;p424.</cite>&nbsp;</entry>
+ <cite id="Reference-Epp-1995" style="font-style:normal" class="book">Epp, Susanna&#32;(1995). Discrete Mathematics with Applications.&#32;Brooks-Cole Publishing Company,&#32;p424.</cite> </entry>
 <entry id="7">
  <cite id="Reference-Abelson-1996" style="font-style:normal" class="book">Abelson, Harold;&#32;Gerald Jay Sussman&#32;(1996). <weblink xlink:type="simple" xlink:href="http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2.2">
-Structure and Interpretation of Computer Programs</weblink>,&#32;Section 1.2.2.</cite>&nbsp;</entry>
+Structure and Interpretation of Computer Programs</weblink>,&#32;Section 1.2.2.</cite> </entry>
 <entry id="8">
  <cite id="Reference-Abelson-1996" style="font-style:normal" class="book">Abelson, Harold;&#32;Gerald Jay Sussman&#32;(1996). <weblink xlink:type="simple" xlink:href="http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-11.html#%_sec_1.2.5">
-Structure and Interpretation of Computer Programs</weblink>,&#32;Section 1.2.5.</cite>&nbsp;</entry>
+Structure and Interpretation of Computer Programs</weblink>,&#32;Section 1.2.5.</cite> </entry>
 <entry id="9">
  <cite id="Reference-Graham-1990" style="font-style:normal" class="book">Graham, Ronald;&#32;Donald Knuth, Oren Patashnik&#32;(1990). <weblink xlink:type="simple" xlink:href="http://www-cs-faculty.stanford.edu/~knuth/gkp.html">
-Concrete Mathematics</weblink>,&#32;Chapter 1, Section 1.1: The Tower of Hanoi.</cite>&nbsp;</entry>
+Concrete Mathematics</weblink>,&#32;Chapter 1, Section 1.1: The Tower of Hanoi.</cite> </entry>
 <entry id="10">
- <cite id="Reference-Epp-1995" style="font-style:normal" class="book">Epp, Susanna&#32;(1995). Discrete Mathematics with Applications, 2nd,&#32;427-430: The Tower of Hanoi.</cite>&nbsp;</entry>
+ <cite id="Reference-Epp-1995" style="font-style:normal" class="book">Epp, Susanna&#32;(1995). Discrete Mathematics with Applications, 2nd,&#32;427-430: The Tower of Hanoi.</cite> </entry>
 <entry id="11">
- <cite id="Reference-Epp-1995" style="font-style:normal" class="book">Epp, Susanna&#32;(1995). Discrete Mathematics with Applications, 2nd,&#32;447-448: An Explicit Formula for the Tower of Hanoi Sequence.</cite>&nbsp;</entry>
+ <cite id="Reference-Epp-1995" style="font-style:normal" class="book">Epp, Susanna&#32;(1995). Discrete Mathematics with Applications, 2nd,&#32;447-448: An Explicit Formula for the Tower of Hanoi Sequence.</cite> </entry>
 <entry id="12">
- <cite id="Reference-Wirth-1976" style="font-style:normal" class="book">Wirth, Niklaus&#32;(1976). Algorithms + Data Structures = Programs.&#32;Prentice-Hall,&#32;p127.</cite>&nbsp;</entry>
+ <cite id="Reference-Wirth-1976" style="font-style:normal" class="book">Wirth, Niklaus&#32;(1976). Algorithms + Data Structures = Programs.&#32;Prentice-Hall,&#32;p127.</cite> </entry>
 <entry id="13">
- <cite id="CITEREFFelleisen2002" style="font-style:normal">Felleisen, Matthias&#32;(2002),&#32;"Developing Interactive Web Programs", in&#32;Jeuring, Johan,&#32;<it>Advanced Functional Programming: 4th International School</it>, Oxford, UK: Springer, pp. 108</cite>&nbsp;.</entry>
+ <cite id="CITEREFFelleisen2002" style="font-style:normal">Felleisen, Matthias&#32;(2002),&#32;"Developing Interactive Web Programs", in&#32;Jeuring, Johan,&#32;<it>Advanced Functional Programming: 4th International School</it>, Oxford, UK: Springer, pp. 108</cite> .</entry>
 </reflist>
 </p>
 

@@ -772,10 +772,10 @@ comparison</link>by type)</header>
 Archiving only</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../110/469110.xml">
-ar</link>&nbsp;·  <link xlink:type="simple" xlink:href="../712/2864712.xml">
-cpio</link>&nbsp;·  <link xlink:type="simple" xlink:href="../107/240107.xml">
-shar</link>&nbsp;·  <link xlink:type="simple" xlink:href="../694/151694.xml">
-tar</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ar</link> ·  <link xlink:type="simple" xlink:href="../712/2864712.xml">
+cpio</link> ·  <link xlink:type="simple" xlink:href="../107/240107.xml">
+shar</link> ·  <link xlink:type="simple" xlink:href="../694/151694.xml">
+tar</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../917/6569917.xml">
@@ -792,8 +792,8 @@ LBR</link></format>
 Compression only</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../255/66255.xml">
-bzip2</link>&nbsp;·  <link xlink:type="simple" xlink:href="../783/12783.xml">
-gzip</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+bzip2</link> ·  <link xlink:type="simple" xlink:href="../783/12783.xml">
+gzip</link> ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -808,17 +808,17 @@ LZMA</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <link xlink:type="simple" xlink:href="../569/1108569.xml">
-lzop</link>&nbsp;·  <link xlink:type="simple" xlink:href="../460/897460.xml">
-rzip</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../569/1108569.xml">
+lzop</link> ·  <link xlink:type="simple" xlink:href="../460/897460.xml">
+rzip</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../122/6570122.xml">
 SQ</link></format>
 </information>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../779/205779.xml">
-compress</link>&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../779/205779.xml">
+compress</link> ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -845,48 +845,48 @@ Archiving and compression</col>
 <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../396/359396.xml">
 7z</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../254/1232254.xml">
 ACE</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/1517465.xml">
 ARC</link></format>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../640/6983640.xml">
 ALZip</link></software>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../734/40734.xml">
 ARJ</link></format>
 </information>
 </message>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../678/322678.xml">
 Cabinet</link></format>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../516/3742516.xml">
 cpt</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../980/1829980.xml">
 DAR</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../682/548682.xml">
-dd</link>&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../682/548682.xml">
+dd</link> ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../702/322702.xml">
 DGCA</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../716/17518716.xml">
 .dmg</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../188/946188.xml">
 GCA</link></format>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../299/4724299.xml">
 kgb</link></software>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../695/915695.xml">
 LHA</link></format>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -901,7 +901,7 @@ LZX</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <event wordnetid="100029378" confidence="0.8">
+ ·  <event wordnetid="100029378" confidence="0.8">
 <rule wordnetid="105846932" confidence="0.8">
 <act wordnetid="100030358" confidence="0.8">
 <psychological_feature wordnetid="100023100" confidence="0.8">
@@ -916,20 +916,20 @@ PAQ</link></algorithm>
 </act>
 </rule>
 </event>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../819/311819.xml">
 RAR</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../136/4453136.xml">
-qda</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../136/4453136.xml">
+qda</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../117/428117.xml">
 sit</link></software>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../977/7582977.xml">
 SQX</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../485/1691485.xml">
 zoo</link></format>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../488/188488.xml">
 ZIP</link></format>
 </col>
@@ -942,23 +942,23 @@ ZIP</link></format>
 Software packaging and distribution</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../906/457906.xml">
-deb</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+deb</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../997/1050997.xml">
 pkg</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../236/288236.xml">
 RPM</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/1158591.xml">
 MSI</link></software>
-&nbsp;·  <format wordnetid="106636806" confidence="0.9508927676800064">
+ ·  <format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../609/265609.xml">
 JAR</link></format>
  (<format wordnetid="106636806" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../583/3294583.xml">
 WAR</link></format>
-&nbsp;·  <link xlink:type="simple" xlink:href="../049/12131049.xml">
-RAR (Java)</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../049/12131049.xml">
+RAR (Java)</link> ·  <message wordnetid="106598915" confidence="0.8">
 <information wordnetid="106634376" confidence="0.8">
 <format wordnetid="106636806" confidence="0.8">
 <link xlink:type="simple" xlink:href="../492/3294492.xml">

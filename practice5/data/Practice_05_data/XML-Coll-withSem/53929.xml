@@ -96,7 +96,7 @@ VP</col>
 <row>
 
 <col>
-&nbsp;</col>
+ </col>
 
 </row>
 <row>
@@ -241,7 +241,7 @@ T. Kasami</link></causal_agent>
  (1965). An efficient recognition and syntax-analysis algorithm for context-free languages.  Scientific report AFCRL-65-758, Air Force Cambridge Research Lab, Bedford, MA.</entry>
 <entry level="1" type="bullet">
 
- Daniel H. Younger (1967). Recognition and parsing of context-free languages in time <it>n</it>3. <it>Information and Control</it> 10(2): 189&ndash;208.</entry>
+ Daniel H. Younger (1967). Recognition and parsing of context-free languages in time <it>n</it>3. <it>Information and Control</it> 10(2): 189–208.</entry>
 </list>
 </p>
 

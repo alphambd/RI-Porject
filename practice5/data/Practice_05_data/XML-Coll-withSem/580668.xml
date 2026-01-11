@@ -207,7 +207,7 @@ Brent's algorithm is as follows:</p>
 In practice</st>
 <p>
 
-The algorithm is very fast for numbers with small factors. For example, on a 3&nbsp;GHz workstation, the original rho algorithm found the factor 274177 of the sixth <condition wordnetid="113920835" confidence="0.8">
+The algorithm is very fast for numbers with small factors. For example, on a 3 GHz workstation, the original rho algorithm found the factor 274177 of the sixth <condition wordnetid="113920835" confidence="0.8">
 <state wordnetid="100024720" confidence="0.8">
 <problem wordnetid="114410605" confidence="0.8">
 <difficulty wordnetid="114408086" confidence="0.8">
@@ -363,7 +363,7 @@ Introduction to Algorithms</link></publication>
 </creation>
 </product>
 </work>
-</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 31.9: Integer factorization, pp.896&ndash;901 (this section discusses only Pollard's rho algorithm).</entry>
+</it>, Second Edition. MIT Press and McGraw-Hill, 2001. ISBN 0-262-03293-7. Section 31.9: Integer factorization, pp.896–901 (this section discusses only Pollard's rho algorithm).</entry>
 </list>
 </p>
 

@@ -25,7 +25,7 @@
 CP-67</link>, which in turn was part of IBM's then-revolutionary <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml">
 CP[-67]/CMS</link></O>
- &ndash; a <link xlink:type="simple" xlink:href="../353/32353.xml">
+ – a <link xlink:type="simple" xlink:href="../353/32353.xml">
 virtual machine</link>/<link xlink:type="simple" xlink:href="../354/32354.xml">
 virtual memory</link> <link xlink:type="simple" xlink:href="../958/30958.xml">
 time-sharing</link> <link xlink:type="simple" xlink:href="../194/22194.xml">
@@ -33,7 +33,7 @@ operating system</link> for the <link xlink:type="simple" xlink:href="../024/752
 IBM System/360-67</link>, and the parent of IBM's <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM family</link></O>
-. CP-40 ran multiple instances of client operating systems &ndash; particularly <shell wordnetid="104190464" confidence="0.8">
+. CP-40 ran multiple instances of client operating systems – particularly <shell wordnetid="104190464" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <ammunition wordnetid="102703275" confidence="0.8">
@@ -101,7 +101,7 @@ CP-40 was a one-off research system. Its declared goals were:
 </p>
 <p>
 
-However, there was also an important unofficial mission: To demonstrate IBM's commitment to and capability for supporting time-sharing users like MIT. CP-40 (and its successor) achieved its goals from technical and social standpoints &ndash; they helped to prove the viability of virtual machines, to establish a culture of time-sharing users, and to launch a remote computer services industry. However, the project became embroiled in an internal IBM political war over time-sharing versus batch processing; and it failed to win the hearts and minds of the academic computer science community, which ultimately turned away from IBM to systems like <O wordnetid="106832680" confidence="0.9508927676800064">
+However, there was also an important unofficial mission: To demonstrate IBM's commitment to and capability for supporting time-sharing users like MIT. CP-40 (and its successor) achieved its goals from technical and social standpoints – they helped to prove the viability of virtual machines, to establish a culture of time-sharing users, and to launch a remote computer services industry. However, the project became embroiled in an internal IBM political war over time-sharing versus batch processing; and it failed to win the hearts and minds of the academic computer science community, which ultimately turned away from IBM to systems like <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../847/18847.xml">
 Multics</link></O>
 , <link xlink:type="simple" xlink:href="../642/31642.xml">
@@ -118,7 +118,7 @@ virtualization</link> concepts developed in the CP-40 project bore fruit in dive
 Features</st>
 <p>
 
-CP-40 was the first operating system that implemented complete virtualization, i.e. it provided a virtual machine environment supporting all aspects of its target computer system (a S/360-40), such that other S/360 operating systems could be installed, tested, and used as if on a stand-alone machine. CP-40 supported fourteen simultaneous virtual machines. Each virtual machine ran in "problem state" &ndash; privileged instructions such as I/O operations caused exceptions, which were then caught by the control program and simulated. Similarly, references to virtual memory locations not present in main memory cause <link xlink:type="simple" xlink:href="../143/1157143.xml">
+CP-40 was the first operating system that implemented complete virtualization, i.e. it provided a virtual machine environment supporting all aspects of its target computer system (a S/360-40), such that other S/360 operating systems could be installed, tested, and used as if on a stand-alone machine. CP-40 supported fourteen simultaneous virtual machines. Each virtual machine ran in "problem state" – privileged instructions such as I/O operations caused exceptions, which were then caught by the control program and simulated. Similarly, references to virtual memory locations not present in main memory cause <link xlink:type="simple" xlink:href="../143/1157143.xml">
 page fault</link>s, which again were handled by control program rather than reflected to the virtual machine. Further details on this implementation are found in <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/315784.xml#xpointer(//*[./st=%22Architecture%22])">
 CP/CMS (architecture)</link></O>
@@ -140,7 +140,7 @@ A <link>
 S/360-67</link> was not available for building CP-40, so a custom virtual memory device based on associative memory (the "CAT box"<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref>) was designed and built for CSC. It involved both hardware and microcode changes to a specially-modified <link xlink:type="simple" xlink:href="../294/29294.xml">
 S/360</link> model 40. These changes gave the unit the <link xlink:type="simple" xlink:href="../179/996179.xml">
 virtualization technology</link> needed for full virtualization of the S/360 hardware. This modified S/360-40 influenced the design of the forthcoming S/360-67, which was intended to meet the needs of the same community of time-sharing users (notably MIT's Project MAC and <link xlink:type="simple" xlink:href="../712/3712.xml">
-Bell Laboratories</link> &ndash; though both of these sites became notable IBM sales failures).</p>
+Bell Laboratories</link> – though both of these sites became notable IBM sales failures).</p>
 <p>
 
 Three distinct virtual memory systems were implemented by IBM during this period:
@@ -173,7 +173,7 @@ CMS under CP-40</st>
 <p>
 
 CMS was first built in 1964 at CSC to run as a 'client' operating system under CP-40. The CMS project leader was John Harmon. Although any S/360 operating system could be run in a CP-40 virtual machine, it was decided that a new, simple, single-user interactive operating system would be best for supporting interactive time-sharing users. This would avoid the complexity and overhead of running a multi-user system like CTSS. (Contrast this with IBM's <link xlink:type="simple" xlink:href="../150/212150.xml">
-OS/MVT-TSO</link> and its successors &ndash; essentially a time-sharing operating system running as a single task under an IBM batch operating system. With CMS, each interactive user gets a private virtual machine.)</p>
+OS/MVT-TSO</link> and its successors – essentially a time-sharing operating system running as a single task under an IBM batch operating system. With CMS, each interactive user gets a private virtual machine.)</p>
 <p>
 
 By September 1965, many important CMS design decisions had already been made:
@@ -212,7 +212,7 @@ The CMS file system design, with its <link>
 flat directory</link> structure, was kept deliberately simple. Creasy notes: "This structure of multiple disks, each with a single directory, was chosen to be simple but useful. Multi-level linked directories, with files stored in common areas, had been the design trend when we began. We simplified the design of this and other components of CMS to reduce implementation complexity."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%225%22])">5</ref></p>
 <p>
 
-Application programs running under CMS executed within the same address space. They accessed system services, such as the CMS file system, through a simple programming interface to the <it>CMS nucleus</it>, which resided in low memory within the CMS virtual machine. A variety of system calls were provided, most of which would be familiar to current CMS programmers. (Since applications ran in the CMS virtual machine, they could potentially misbehave, by overwriting CMS data, using privileged instructions, or taking other actions that could take over or crash the virtual machine. Of course, doing so could <it>not</it> affect other virtual machines, which were all mutually isolated; nor could it damage the underlying control program. Unlike most operating systems, CP crashes rarely stemmed from application errors &ndash; and were thus themselves relatively rare.)</p>
+Application programs running under CMS executed within the same address space. They accessed system services, such as the CMS file system, through a simple programming interface to the <it>CMS nucleus</it>, which resided in low memory within the CMS virtual machine. A variety of system calls were provided, most of which would be familiar to current CMS programmers. (Since applications ran in the CMS virtual machine, they could potentially misbehave, by overwriting CMS data, using privileged instructions, or taking other actions that could take over or crash the virtual machine. Of course, doing so could <it>not</it> affect other virtual machines, which were all mutually isolated; nor could it damage the underlying control program. Unlike most operating systems, CP crashes rarely stemmed from application errors – and were thus themselves relatively rare.)</p>
 
 </sec>
 <sec>
@@ -243,7 +243,7 @@ CTSS</link></O>
 thrashing</link>, which was not studied until it was observed on the IBM M44/44X and on CP-40.)<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%228%22])">8</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%229%22])">9</ref></entry>
 <entry level="1" type="bullet">
 
- <b>CP-40 design:</b> Pugh writes that: "In 1964...IBM Research were recommending the use of virtual-machine principles to time-sharing planners...[which were] picked up by the Cambridge [CSC] team, who wanted, among other things, a system capable of testing operating systems." A key design decision, made by Creasy and Comeau at the end of 1964, was to base CP-40 not just on virtual memory but on <it>virtual machines</it> (at first called <it>pseudo-machines</it>, until the later term was appropriated from the IBM M44/44X project &ndash; which Creasy describes as having "similar but independent ideas."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2210%22])">10</ref> Creasy provides a clear description of CP's virtualization strategy, based on the S/360 <link xlink:type="simple" xlink:href="../772/47772.xml">
+ <b>CP-40 design:</b> Pugh writes that: "In 1964...IBM Research were recommending the use of virtual-machine principles to time-sharing planners...[which were] picked up by the Cambridge [CSC] team, who wanted, among other things, a system capable of testing operating systems." A key design decision, made by Creasy and Comeau at the end of 1964, was to base CP-40 not just on virtual memory but on <it>virtual machines</it> (at first called <it>pseudo-machines</it>, until the later term was appropriated from the IBM M44/44X project – which Creasy describes as having "similar but independent ideas."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2210%22])">10</ref> Creasy provides a clear description of CP's virtualization strategy, based on the S/360 <link xlink:type="simple" xlink:href="../772/47772.xml">
 instruction set</link>, which consisted of privileged 'supervisor state' instructions distinct from normal 'problem state' instructions: "Each [CP] virtual machine program is actually executed [entirely] in problem state.... Privileged instructions...[are] reproduced by CP within the virtual machines...." By running an OS in problem state, all the 'tricky' instructions would automatically be intercepted by the hardware. This left just one main virtualization problem: memory references. "Experience [with CTSS]...suggested the need for dynamic program relocation...to break programs into pieces which could be moved into, out of, and within the memory independently of each other."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2211%22])">11</ref></entry>
 </list>
 </p>
@@ -262,7 +262,7 @@ instruction set</link>, which consisted of privileged 'supervisor state' instruc
 full virtualization</link>, creating fourteen virtual S/360 environments, each with a fixed virtual memory size of 256K, mapped access to disk partitions, and spooled access to unit record devices (e.g. printers). Comeau: "[Creating full virtualization] permitted simultaneous development of CP and CMS; it allowed us to measure non-virtual systems, OS and DOS, in a virtual memory environment, and it also provided a high level of integrity and security."<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2212%22])">12</ref><ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2213%22])">13</ref></entry>
 <entry level="2" type="bullet">
 
- In addition to revealing the value of full virtualization, the experimental IBM M44/44X "implanted the idea that the virtual machine concept is not necessarily less efficient than more conventional approaches" &ndash; a core assumption in the CP-40 architecture, and one that ultimately proved very successful.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2214%22])">14</ref></entry>
+ In addition to revealing the value of full virtualization, the experimental IBM M44/44X "implanted the idea that the virtual machine concept is not necessarily less efficient than more conventional approaches" – a core assumption in the CP-40 architecture, and one that ultimately proved very successful.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2214%22])">14</ref></entry>
 <entry level="2" type="bullet">
 
  CP-40 would soon support "up to a dozen virtual System/360 machines" under terminal control [most sources state fourteen]. (CP-67 later "exploited...address-translation...and increased speed...to double the capacity" of CP-40.<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%2215%22])">15</ref>)</entry>
@@ -297,7 +297,7 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- R.J. Adair, R.U. Bayles, L.W. Comeau, and R.J. Creasy, "A virtual machine system for the 360/40", <it>IBM Cambridge Scientific Center report 320-2007,</it> Cambridge, MA, May, 1966&ndash; description of CP-40 and its implementation at CSC, cited in Varian and Creasy [below]</entry>
+ R.J. Adair, R.U. Bayles, L.W. Comeau, and R.J. Creasy, "A virtual machine system for the 360/40", <it>IBM Cambridge Scientific Center report 320-2007,</it> Cambridge, MA, May, 1966– description of CP-40 and its implementation at CSC, cited in Varian and Creasy [below]</entry>
 </list>
 </p>
 <p>
@@ -305,7 +305,7 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- L.W. Comeau, "CP-40, the Origin of VM/370", <it>Proceedings of SEAS AM82</it> (September 1982)&ndash; description of CP-40, cited in Varian [below]</entry>
+ L.W. Comeau, "CP-40, the Origin of VM/370", <it>Proceedings of SEAS AM82</it> (September 1982)– description of CP-40, cited in Varian [below]</entry>
 </list>
 </p>
 <p>
@@ -314,7 +314,7 @@ References</st>
 <entry level="1" type="bullet">
 
  R. J. Creasy, "The origin of the VM/370 time-sharing system", <it>IBM Journal of Research &amp; Development</it>, Vol. 25, No. 5 (September 1981), <it>pp.</it> 483-490, available on-line at <weblink xlink:type="simple" xlink:href="http://www.research.ibm.com/journal/rd/255/ibmrd2505M.pdf">
-research.ibm.com</weblink>&ndash; perspective on CP/CMS and VM history by the CP-40 project lead</entry>
+research.ibm.com</weblink>– perspective on CP/CMS and VM history by the CP-40 project lead</entry>
 </list>
 </p>
 <p>
@@ -322,7 +322,7 @@ research.ibm.com</weblink>&ndash; perspective on CP/CMS and VM history by the CP
 <list>
 <entry level="1" type="bullet">
 
- A. B. Lindquist, R. R. Seeber, and L. W. Comeau, "A Time Sharing System Using an Associative Memory,” <it>Proc. IEEE</it> Vol. 54, <it>pp.</it> 1774-1779 (1966).&ndash; CP-40 implementation details</entry>
+ A. B. Lindquist, R. R. Seeber, and L. W. Comeau, "A Time Sharing System Using an Associative Memory,” <it>Proc. IEEE</it> Vol. 54, <it>pp.</it> 1774-1779 (1966).– CP-40 implementation details</entry>
 </list>
 </p>
 <p>
@@ -330,7 +330,7 @@ research.ibm.com</weblink>&ndash; perspective on CP/CMS and VM history by the CP
 <list>
 <entry level="1" type="bullet">
 
- E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0&ndash; extensive (819&nbsp;<it>pp.</it>) treatment of IBM's offerings during this period. The limited coverage of CP/CMS in such a definitive work is telling.</entry>
+ E.W. Pugh, L.R. Johnson, and John H. Palmer, <it>IBM's 360 and early 370 systems,</it> MIT Press, Cambridge MA and London, ISBN 0-262-16123-0– extensive (819 <it>pp.</it>) treatment of IBM's offerings during this period. The limited coverage of CP/CMS in such a definitive work is telling.</entry>
 </list>
 </p>
 <p>
@@ -339,7 +339,7 @@ research.ibm.com</weblink>&ndash; perspective on CP/CMS and VM history by the CP
 <entry level="1" type="bullet">
 
  Melinda Varian, <it>VM and the VM community, past present, and future,</it> SHARE 89 Sessions 9059-9061, 1997; available online at <weblink xlink:type="simple" xlink:href="http://www.princeton.edu/~melinda/25paper.pdf">
-www.princeton.edu/~melinda</weblink>&ndash; an essential source for CP/CMS and VM history</entry>
+www.princeton.edu/~melinda</weblink>– an essential source for CP/CMS and VM history</entry>
 </list>
 </p>
 <p>
@@ -355,21 +355,21 @@ Pugh <it>et al., op. cit., p.</it> 741 (note 218 to Ch. 6)</entry>
 <entry id="3">
 A. B. Lindquist <it>et al.,</it> "A time-sharing system using an associative memory", <it>Proceedings of the IEEE 54,</it> pp. 1774-1779.</entry>
 <entry id="4">
-Varian, <it>op. cit., pp.</it> 14 &ndash; novelty of CMS interface</entry>
+Varian, <it>op. cit., pp.</it> 14 – novelty of CMS interface</entry>
 <entry id="5">
-Creasy, <it>op. cit., p.</it> 489 &ndash; flat file system</entry>
+Creasy, <it>op. cit., p.</it> 489 – flat file system</entry>
 <entry id="6">
-Varian, <it>op. cit., pp.</it> 3, 9, 16 &ndash; genesis of CP-40 project</entry>
+Varian, <it>op. cit., pp.</it> 3, 9, 16 – genesis of CP-40 project</entry>
 <entry id="7">
-Creasy, <it>op. cit., p.</it> 485 &ndash; design goals</entry>
+Creasy, <it>op. cit., p.</it> 485 – design goals</entry>
 <entry id="8">
-W. O'Neill, "Experience using a time sharing multiprogramming system with dynamic address relocation hardware", <it>Proc. AFIPS Computer Conference 30</it> (Spring Joint Computer Conference, 1967), <it>pp.</it> 611-621 &ndash; thrashing on IBM M44/44X</entry>
+W. O'Neill, "Experience using a time sharing multiprogramming system with dynamic address relocation hardware", <it>Proc. AFIPS Computer Conference 30</it> (Spring Joint Computer Conference, 1967), <it>pp.</it> 611-621 – thrashing on IBM M44/44X</entry>
 <entry id="9">
-L.W. Comeau, "Operating System/360 Paging Studies", <it>IBM Storage Hierarchy System Symposium,</it> December 1966 &ndash; thrashing on the Atlas [cited in Varian, ''op. cit., p.'' 17]</entry>
+L.W. Comeau, "Operating System/360 Paging Studies", <it>IBM Storage Hierarchy System Symposium,</it> December 1966 – thrashing on the Atlas [cited in Varian, ''op. cit., p.'' 17]</entry>
 <entry id="10">
-Creasy, <it>op. cit., p.</it> 485 &ndash; similar to but independent of IBM M44/44X</entry>
+Creasy, <it>op. cit., p.</it> 485 – similar to but independent of IBM M44/44X</entry>
 <entry id="11">
-Creasy, <it>op. cit., p.</it> 486 &ndash; virtualization strategy: problem state execution, plus address translation</entry>
+Creasy, <it>op. cit., p.</it> 486 – virtualization strategy: problem state execution, plus address translation</entry>
 <entry id="12">
 Varian, <it>op. cit., p.</it> 9, 13</entry>
 <entry id="13">
@@ -379,11 +379,11 @@ L. Talkington, "A Good Idea and Still Growing", <it>White Plains Development Cen
 <entry id="15">
 Pugh <it>et al., op. cit., pp.</it> 364-365</entry>
 <entry id="17">
-Creasy, <it>op. cit., p.</it> 485. &ndash; scope of CMS</entry>
+Creasy, <it>op. cit., p.</it> 485. – scope of CMS</entry>
 <entry id="16">
-Creasy, <it>op. cit., p.</it> 485 &ndash; separating CP from CMS</entry>
+Creasy, <it>op. cit., p.</it> 485 – separating CP from CMS</entry>
 <entry id="18">
-Varian, <it>op. cit., p.</it> 12, 15-16 &ndash; CMS booting under BPS</entry>
+Varian, <it>op. cit., p.</it> 12, 15-16 – CMS booting under BPS</entry>
 </reflist>
 </p>
 
@@ -400,14 +400,14 @@ Family tree</st>
 <row>
 <col colspan="3" style="background: #ccf; border-bottom:1px solid">
 <b>CP/CMS family relationships</b>
-&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;<it>derivation</it>&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt;&amp;gt;&nbsp;<it>strong influence</it>&nbsp;&nbsp;&nbsp;&nbsp;&amp;gt;&nbsp;<it>some influence/precedence''</it></col>
+    → <it>derivation</it>    &amp;gt;&amp;gt; <it>strong influence</it>    &amp;gt; <it>some influence/precedence''</it></col>
 </row>
 <row>
 <col style="border-right:1px solid" rowspan="7">
- &nbsp;<O wordnetid="106832680" confidence="0.9508927676800064">
+  <O wordnetid="106832680" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../141/254141.xml">
 CTSS</link></O>
-&nbsp;</col>
+ </col>
 </row>
 <row>
 <col colspan="3" style="border-bottom:1px solid">
@@ -418,7 +418,7 @@ IBM M44/44X</link></col>
 <col style="border-right:1px solid" rowspan="2">
  &amp;gt;&amp;gt; <link>
 CP-40/CMS</link> → <link>
- CP[-67]/CMS</link>&nbsp;</col>
+ CP[-67]/CMS</link> </col>
 <col>
  → <link xlink:type="simple" xlink:href="../018/315018.xml">
 VM/370</link> → VM/XA versions → <link xlink:type="simple" xlink:href="../018/315018.xml">

@@ -1049,7 +1049,7 @@ Carl Hewitt</link></person>
 <entry id="5">
 Gul Agha&#32;(1986).&#32;"<it>[https://dspace.mit.edu/handle/1721.1/6952 Actors: A Model of Concurrent Computation in Distributed Systems]</it>". &#32;Doctoral Dissertation.&#32;MIT Press.</entry>
 <entry id="6">
- <cite style="font-style:normal">Gul Agha; Ian Mason, Scott Smith, and Carolyn Talcott&#32;(January 1993).&#32;"A Foundation for Actor Computation". <it>Journal of Functional Programming</it>.</cite>&nbsp;</entry>
+ <cite style="font-style:normal">Gul Agha; Ian Mason, Scott Smith, and Carolyn Talcott&#32;(January 1993).&#32;"A Foundation for Actor Computation". <it>Journal of Functional Programming</it>.</cite> </entry>
 <entry id="7">
 <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../592/2055592.xml">
@@ -1081,9 +1081,9 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F155360.155364">
-10.1145/155360.155364</weblink>.</cite>&nbsp;</entry>
+10.1145/155360.155364</weblink>.</cite> </entry>
 <entry id="13">
- <cite style="font-style:normal" class="book">Brinch-Hansen, Per&#32;(2002). The Origins of Concurrent Programming: From Semaphores to Remote Procedure Calls.&#32;Springer. ISBN 978-0387954011.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">Brinch-Hansen, Per&#32;(2002). The Origins of Concurrent Programming: From Semaphores to Remote Procedure Calls.&#32;Springer. ISBN 978-0387954011.</cite> </entry>
 <entry id="14">
 Per Brinch Hansen, <it>Monitors and Concurrent Pascal: A Personal History</it>, Comm. ACM 1996, pp 121-172</entry>
 <entry id="15">
@@ -1094,7 +1094,7 @@ Robin Milner. Processes: A Mathematical Model of Computing Agents in Logic Collo
 <entry id="16">
 Brinch Hansen, P.,  <it>Operating System Principles</it>, Prentice-Hall, July 1973.</entry>
 <entry id="19">
- <cite style="font-style:normal">Carl Hewitt&#32;(September/October 2008).&#32;"ORGs for Scalable, Robust, Privacy-Friendly Client Cloud Computing". <it>IEEE Internet Computing</it>&#32;<b>12</b>&#32;(5).</cite>&nbsp; </entry>
+ <cite style="font-style:normal">Carl Hewitt&#32;(September/October 2008).&#32;"ORGs for Scalable, Robust, Privacy-Friendly Client Cloud Computing". <it>IEEE Internet Computing</it>&#32;<b>12</b>&#32;(5).</cite>  </entry>
 <entry id="18">
 C.A.R. Hoare. <weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=359585&amp;dl=GUIDE&amp;coll=GUIDE&amp;CFID=19884966&amp;CFTOKEN=55490895">
 Communicating sequential processes</weblink> CACM. August 1978.</entry>
@@ -1111,7 +1111,7 @@ Event-Based Programming without Inversion of Control</weblink></it>". &#32;Proc.
 <entry id="24">
  <cite style="font-style:normal">Srinivasan, Sriram;&#32;Alan Mycroft&#32;(2008). "<weblink xlink:type="simple" xlink:href="http://www.malhar.net/sriram/kilim/kilim_ecoop08.pdf">
 Kilim: Isolation-Typed Actors for Java</weblink>".&#32;<it>European Conference on Object Oriented Programming ECOOP 2008</it>. Retrieved on <link>
-2008-07-24</link>.</cite>&nbsp;. </entry>
+2008-07-24</link>.</cite> . </entry>
 </reflist>
 </p>
 
@@ -1474,7 +1474,7 @@ Carl Hewitt and Carl Manning.  <b>Negotiation Architecture for Large-Scale Crisi
 Darrell Woelk.   <b>Developing InfoSleuth Agents Using Rosette: An Actor Based Language</b> Proceedings of the CIKM '95 Workshop on Intelligent Information Agents.  1995.</entry>
 <entry level="1" type="bullet">
 
-Carl Hewitt and Carl Manning.  <b>Synthetic Infrastructures for Multi-Agency Systems</b> Proceedings of ICMAS '96. Kyoto, Japan. December 8&ndash;13, 1996.</entry>
+Carl Hewitt and Carl Manning.  <b>Synthetic Infrastructures for Multi-Agency Systems</b> Proceedings of ICMAS '96. Kyoto, Japan. December 8–13, 1996.</entry>
 <entry level="1" type="bullet">
 
 S. Frolund. <b>Coordinating Distributed Objects: An Actor-Based Approach for Synchronization</b> MIT Press. November 1996.</entry>

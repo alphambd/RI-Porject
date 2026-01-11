@@ -94,7 +94,7 @@ This algorithm was the prime example in the graphics field of the woes of <link 
 patenting software</link>, patented despite being a relatively obvious solution to the surface-generation problem. Another similar algorithm was developed, called <link xlink:type="simple" xlink:href="../936/2820936.xml">
 marching tetrahedrons</link>, in order to circumvent the patent as well as a minor ambiguity problem of marching cubes with some cube configurations. This patent has recently expired, and it is legal for the graphics community to use it now without royalties since more than 20 years have passed from its filing date (June 5, 1985)(<weblink xlink:type="simple" xlink:href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=4710876">
 Marching Cubes, US Patent Office entry</weblink><weblink xlink:type="simple" xlink:href="http://www.pat2pdf.org/pat2pdf/foo.pl?number=4710876">
-&nbsp;</weblink>).</p>
+ </weblink>).</p>
 
 </sec>
 <sec>

@@ -214,7 +214,7 @@ probable innocence for the path initiator.</p>
 <p>
 
 <b>Proof:</b>
-we want to show that <b>pf  &amp;gt; 1/2 &nbsp; if &nbsp; <math>n \geq \frac{p_f}{p_f - \frac{1}{2}}\left( c + 1\right)</math></b></p>
+we want to show that <b>pf  &amp;gt; 1/2   if   <math>n \geq \frac{p_f}{p_f - \frac{1}{2}}\left( c + 1\right)</math></b></p>
 <p>
 
 note that:</p>
@@ -389,27 +389,27 @@ References</st>
 <entry level="1" type="number">
 
   <cite id="endnote_TMA" style="font-style: normal;">
-<b>^</b></cite>&nbsp;  <cite style="font-style:normal">Claudia Díaz and Stefaan Seys and Joris Claessens and Bart Preneel&#32;(April 2002).&#32;"<weblink xlink:type="simple" xlink:href="http://www.esat.kuleuven.ac.be/~cdiaz/papers/tmAnon.ps.gz">
+<b>^</b></cite>   <cite style="font-style:normal">Claudia Díaz and Stefaan Seys and Joris Claessens and Bart Preneel&#32;(April 2002).&#32;"<weblink xlink:type="simple" xlink:href="http://www.esat.kuleuven.ac.be/~cdiaz/papers/tmAnon.ps.gz">
 Towards measuring anonymity</weblink>"&#32;(&#91;&#93;). <it>Proceedings of Privacy Enhancing Technologies Workshop (PET 2002)</it>.&#32;Springer-Verlag, LNCS 2482. Retrieved on <link>
-2005-11-10</link>.</cite>&nbsp;</entry>
+2005-11-10</link>.</cite> </entry>
 <entry level="1" type="number">
 
   <cite id="endnote_CROWDS" style="font-style: normal;">
-<b>^</b></cite>&nbsp;  <cite style="font-style:normal">Michael Reiter and Aviel Rubin&#32;(June 1998).&#32;"<weblink xlink:type="simple" xlink:href="http://avirubin.com/crowds.pdf">
+<b>^</b></cite>   <cite style="font-style:normal">Michael Reiter and Aviel Rubin&#32;(June 1998).&#32;"<weblink xlink:type="simple" xlink:href="http://avirubin.com/crowds.pdf">
 Crowds: Anonymity for Web Transactions</weblink>". <it>ACM Transactions on Information and System Security</it>&#32;<b>1</b>&#32;(1). Retrieved on <link>
-2005-11-23</link>.</cite>&nbsp;</entry>
+2005-11-23</link>.</cite> </entry>
 <entry level="1" type="number">
 
   <cite id="endnote_PRED" style="font-style: normal;">
-<b>^</b></cite>&nbsp;  <cite style="font-style:normal">Matthew K. Wright and Micah Adler and Brian Neil Levine and Clay Shields&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.georgetown.edu/~clay/research/pubs/wright.tissec.pdf">
+<b>^</b></cite>   <cite style="font-style:normal">Matthew K. Wright and Micah Adler and Brian Neil Levine and Clay Shields&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.georgetown.edu/~clay/research/pubs/wright.tissec.pdf">
 The predecessor attack: An analysis of a threat to anonymous communications systems</weblink>". <it>ACM Transactions on Information Systems Security</it>&#32;<b>7</b>&#32;(4): 489–522.&#32;ACM Press. Retrieved on <link>
-2005-11-23</link>.</cite>&nbsp;</entry>
+2005-11-23</link>.</cite> </entry>
 <entry level="1" type="number">
 
   <cite id="endnote_DEG" style="font-style: normal;">
-<b>^</b></cite>&nbsp;  <cite style="font-style:normal">Matthew Wright and Micah Adler and Brian Neil Levine and Clay Shields&#32;(February 2002).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.umass.edu/~mwright/papers/wright-degrade.pdf">
+<b>^</b></cite>   <cite style="font-style:normal">Matthew Wright and Micah Adler and Brian Neil Levine and Clay Shields&#32;(February 2002).&#32;"<weblink xlink:type="simple" xlink:href="http://www.cs.umass.edu/~mwright/papers/wright-degrade.pdf">
 An Analysis of the Degradation of Anonymous Protocols</weblink>". <it>Proceedings of the Network and Distributed Security Symposium - NDSS '02</it>.&#32;IEEE. Retrieved on <link>
-2005-11-23</link>.</cite>&nbsp;</entry>
+2005-11-23</link>.</cite> </entry>
 </list>
 </p>
 

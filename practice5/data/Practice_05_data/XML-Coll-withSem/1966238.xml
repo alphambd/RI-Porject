@@ -98,7 +98,7 @@ Yale University</link></university>
 Linda</link> to support the concept of global object coordination.</p>
 <p>
 
-<it>Object Space</it> can be thought of as a virtual repository, shared amongst providers and accessors of network services, which  are themselves abstracted as objects. Processes communicate among each other using these shared objects &mdash; by updating the state of the objects as and when needed.</p>
+<it>Object Space</it> can be thought of as a virtual repository, shared amongst providers and accessors of network services, which  are themselves abstracted as objects. Processes communicate among each other using these shared objects — by updating the state of the objects as and when needed.</p>
 <p>
 
 An object, when deposited into a space, needs to be registered with a <it>Object Directory</it> in the <it>Object Space</it>. Any  processes can then identify the object from the <it>Object Directory</it>, using properties lookup, where the property specifying  the criteria for the lookup of the object is its name or some other property which uniquely identifies it. A process may  choose to wait for an object to be placed in the <it>Object Space</it>, if the required object is not already present.</p>

@@ -73,7 +73,7 @@ In constructing a mathematical description of the similarity measure, it is impo
 
 <indent level="1">
 
-L({<b>X</b>},{<b>M</b>}) = &amp;prod;n=1..N l(<b>X</b>(n)).  &nbsp;&nbsp;&nbsp; (1)
+L({<b>X</b>},{<b>M</b>}) = &amp;prod;n=1..N l(<b>X</b>(n)).      (1)
 </indent>
 </p>
 <p>
@@ -84,7 +84,7 @@ This expression contains a product of partial similarities, l(<b>X</b>(n)), over
 
 <indent level="1">
 
-  L({<b>X</b>},{<b>M</b>}) = &amp;prod;n=1..N &amp;sum;m=1..M r(m) l(<b>X</b>(n) | m).    &nbsp;&nbsp;&nbsp; (2)
+  L({<b>X</b>},{<b>M</b>}) = &amp;prod;n=1..N &amp;sum;m=1..M r(m) l(<b>X</b>(n) | m).        (2)
 </indent>
 </p>
 
@@ -136,7 +136,7 @@ First, the unknown parameters {<b>S</b>m} are randomly initialized. Then the ass
 
 <indent level="1">
 
-f(m|n) = r(m) l(<b>X</b>(n)|m) / &amp;sum;m'=1..M r(m') l(<b>X</b>(n)|m').&nbsp;&nbsp;&nbsp; (3).
+f(m|n) = r(m) l(<b>X</b>(n)|m) / &amp;sum;m'=1..M r(m') l(<b>X</b>(n)|m').    (3).
 </indent>
 </p>
 <p>
@@ -147,12 +147,12 @@ Equation for f(m|n) looks like the Bayes formula for a posteriori probabilities;
 
 <indent level="1">
 
-d<b>S</b>m/dt = &amp;sum;n=1..N f(m|n)[&amp;part;ln l(n|m)/&amp;part;'''M'''m]&amp;part;<b>M</b>m/&amp;part;<b>S</b>m, &nbsp;&nbsp;&nbsp; (4)
+d<b>S</b>m/dt = &amp;sum;n=1..N f(m|n)[&amp;part;ln l(n|m)/&amp;part;'''M'''m]&amp;part;<b>M</b>m/&amp;part;<b>S</b>m,     (4)
 </indent>
 
 <indent level="1">
 
-df(m|n)/dt = f(m|n) &amp;sum;m'=1..M {[&amp;delta;mm' - f(m'|n)][&amp;part;ln l(n|m')/&amp;part;'''M'''m'] &amp;part;<b>M</b>m'/&amp;part;<b>S</b>m'  d<b>S</b>m'/dt, &nbsp;&nbsp;&nbsp; (5)
+df(m|n)/dt = f(m|n) &amp;sum;m'=1..M {[&amp;delta;mm' - f(m'|n)][&amp;part;ln l(n|m')/&amp;part;'''M'''m'] &amp;part;<b>M</b>m'/&amp;part;<b>S</b>m'  d<b>S</b>m'/dt,     (5)
 </indent>
 </p>
 

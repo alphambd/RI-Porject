@@ -64,7 +64,7 @@ derandomization</link> result that both are contained in <b>SC</b>.<ref xlink:ty
 <weblink xlink:type="simple" xlink:href="http://qwiki.stanford.edu/wiki/Complexity_Zoo:S#sc">
 Complexity Zoo: SC</weblink></entry>
 <entry id="2">
-S. A. Cook. Deterministic CFL's are accepted simultaneously in polynomial time and log squared space. Proceedings of ACM STOC'79, pp. 338&ndash;345. 1979.</entry>
+S. A. Cook. Deterministic CFL's are accepted simultaneously in polynomial time and log squared space. Proceedings of ACM STOC'79, pp. 338–345. 1979.</entry>
 <entry id="3">
 N. Nisan. RL is contained in SC, Proceedings of ACM STOC'92, pp. 619-623, 1992.</entry>
 </reflist>

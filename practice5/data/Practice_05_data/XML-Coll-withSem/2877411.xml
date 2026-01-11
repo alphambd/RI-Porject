@@ -371,10 +371,10 @@ formula game</link> in which the first player has a winning strategy.</entry>
 
 <reflist>
 <entry id="1">
- <cite style="font-style:normal" class="book">M. Garey and D. Johnson&#32;(1979). Computers and intractability: a guide to the theory of NP-completeness.&#32;W. H. Freeman, San Francisco, California. ISBN 0716710455.</cite>&nbsp;</entry>
+ <cite style="font-style:normal" class="book">M. Garey and D. Johnson&#32;(1979). Computers and intractability: a guide to the theory of NP-completeness.&#32;W. H. Freeman, San Francisco, California. ISBN 0716710455.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">A. Chandra, D. Kozen, and L. Stockmeyer&#32;(1981).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?id=322243">
-Alternation</weblink>". <it>Journal of the ACM</it>&#32;<b>28</b>&#32;(1): 114&ndash;133. <document wordnetid="106470073" confidence="0.8">
+Alternation</weblink>". <it>Journal of the ACM</it>&#32;<b>28</b>&#32;(1): 114–133. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -382,10 +382,10 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F322234.322243">
-10.1145/322234.322243</weblink>.</cite>&nbsp;</entry>
+10.1145/322234.322243</weblink>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Adi Shamir&#32;(1992).&#32;"<weblink xlink:type="simple" xlink:href="http://portal.acm.org/citation.cfm?doid=146585.146609">
-Ip = Pspace</weblink>". <it>Journal of the ACM</it>&#32;<b>39</b>&#32;(4): 869&ndash;877. <document wordnetid="106470073" confidence="0.8">
+Ip = Pspace</weblink>". <it>Journal of the ACM</it>&#32;<b>39</b>&#32;(4): 869–877. <document wordnetid="106470073" confidence="0.8">
 <written_communication wordnetid="106349220" confidence="0.8">
 <writing wordnetid="106362953" confidence="0.8">
 <link xlink:type="simple" xlink:href="../994/422994.xml">
@@ -393,7 +393,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F146585.146609">
-10.1145/146585.146609</weblink>.</cite>&nbsp;</entry>
+10.1145/146585.146609</weblink>.</cite> </entry>
 </reflist>
 
 <list>

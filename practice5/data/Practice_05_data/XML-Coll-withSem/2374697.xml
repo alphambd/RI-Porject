@@ -52,8 +52,8 @@ Circuit mode(constant bandwidth)</link></rule>
 <row>
 <col style="line-height:1.3em; padding-bottom:0.75em;">
  <link xlink:type="simple" xlink:href="../796/41796.xml">
-TDM</link>&nbsp;·  <link xlink:type="simple" xlink:href="../376/86376.xml">
-FDM</link>&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+TDM</link> ·  <link xlink:type="simple" xlink:href="../376/86376.xml">
+FDM</link> ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../464/80464.xml">
 WDM</link></method>
@@ -70,7 +70,7 @@ Statistical multiplexing(variable bandwidth)</link></header>
 <row>
 <col style="line-height:1.3em; padding-bottom:0.75em;">
  <link xlink:type="simple" xlink:href="../339/43339.xml">
-Packet mode</link>&nbsp;·  <know-how wordnetid="105616786" confidence="0.8">
+Packet mode</link> ·  <know-how wordnetid="105616786" confidence="0.8">
 <method wordnetid="105660268" confidence="0.8">
 <link xlink:type="simple" xlink:href="../250/31250.xml#xpointer(//*[./st=%22Dynamic+TDMA%22])">
 Dynamic TDM</link></method>
@@ -98,12 +98,12 @@ FHSS</link></coding_system>
 </program>
 </application>
 </software>
-&nbsp;·  <property wordnetid="104916342" confidence="0.8">
+ ·  <property wordnetid="104916342" confidence="0.8">
 <manner wordnetid="104928903" confidence="0.8">
 <link xlink:type="simple" xlink:href="../049/41049.xml">
 DSSS</link></manner>
 </property>
-&nbsp;·  <link xlink:type="simple" xlink:href="../697/2374697.xml">
+ ·  <link xlink:type="simple" xlink:href="../697/2374697.xml">
 OFDMA</link></col>
 </row>
 <row>
@@ -341,7 +341,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1109%2FSARNOF.2006.4534773">
-10.1109/SARNOF.2006.4534773</weblink>.</cite>&nbsp;</entry>
+10.1109/SARNOF.2006.4534773</weblink>.</cite> </entry>
 </reflist>
 </p>
 

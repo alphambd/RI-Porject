@@ -78,27 +78,27 @@ k</header>
 <header rowspan="11" bgcolor="#ffffcc">
 j</header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</header>
+     </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;0&nbsp;&nbsp;</header>
+  0  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;1&nbsp;&nbsp;</header>
+  1  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;2&nbsp;&nbsp;</header>
+  2  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;3&nbsp;&nbsp;</header>
+  3  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;4&nbsp;&nbsp;</header>
+  4  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;5&nbsp;&nbsp;</header>
+  5  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;6&nbsp;&nbsp;</header>
+  6  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;7&nbsp;&nbsp;</header>
+  7  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;8&nbsp;&nbsp;</header>
+  8  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;9&nbsp;&nbsp;</header>
+  9  </header>
 </row>
 <row align="center" valign="bottom">
 <header bgcolor="#ffffcc">
@@ -361,27 +361,27 @@ num</header>
 <header rowspan="11" bgcolor="#ffffcc">
 pos</header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</header>
+     </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;0&nbsp;&nbsp;</header>
+  0  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;1&nbsp;&nbsp;</header>
+  1  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;2&nbsp;&nbsp;</header>
+  2  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;3&nbsp;&nbsp;</header>
+  3  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;4&nbsp;&nbsp;</header>
+  4  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;5&nbsp;&nbsp;</header>
+  5  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;6&nbsp;&nbsp;</header>
+  6  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;7&nbsp;&nbsp;</header>
+  7  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;8&nbsp;&nbsp;</header>
+  8  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;9&nbsp;&nbsp;</header>
+  9  </header>
 </row>
 <row align="center" valign="bottom">
 <header bgcolor="#ffffcc">
@@ -590,25 +590,25 @@ The third table, inv, represents the multiplicative inverse of a digit in the di
 <header bgcolor="#ffffcc">
 j</header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;0&nbsp;&nbsp;</header>
+  0  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;1&nbsp;&nbsp;</header>
+  1  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;2&nbsp;&nbsp;</header>
+  2  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;3&nbsp;&nbsp;</header>
+  3  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;4&nbsp;&nbsp;</header>
+  4  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;5&nbsp;&nbsp;</header>
+  5  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;6&nbsp;&nbsp;</header>
+  6  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;7&nbsp;&nbsp;</header>
+  7  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;8&nbsp;&nbsp;</header>
+  8  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;9&nbsp;&nbsp;</header>
+  9  </header>
 </row>
 <row align="center" valign="bottom">
 <header bgcolor="#ffffcc">
@@ -680,14 +680,14 @@ The first step is to break up the number into an array n = [0,7,5,8,2,4,1], in w
 <table cellpadding="5" border="1" cellspacing="0">
 <row align="center" valign="middle">
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;
-i&nbsp;&nbsp;</header>
+  
+i  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;
-ni&nbsp;&nbsp;</header>
+  
+ni  </header>
 <header bgcolor="#ffffcc">
-&nbsp;&nbsp;
-p(i,ni)&nbsp;&nbsp;</header>
+  
+p(i,ni)  </header>
 <header bgcolor="#ffffcc">
 previous
 c</header>

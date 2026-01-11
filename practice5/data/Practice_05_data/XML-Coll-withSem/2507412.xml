@@ -43,7 +43,7 @@ posterior distribution</link> <it>p</it>(<it>x</it>|<it>a</it>) for <it>x</it> g
 
 The <link xlink:type="simple" xlink:href="../653/9653.xml">
 expected value</link> of the information gain is the <link xlink:type="simple" xlink:href="../282/427282.xml">
-mutual information</link> <it>I(X;A)</it> of <it>X</it> and <it>A</it> &mdash; i.e. the reduction in the <link xlink:type="simple" xlink:href="../445/15445.xml">
+mutual information</link> <it>I(X;A)</it> of <it>X</it> and <it>A</it> — i.e. the reduction in the <link xlink:type="simple" xlink:href="../445/15445.xml">
 entropy</link> of <it>X</it> achieved by learning the state of the random variable <it>A</it>. </p>
 <p>
 

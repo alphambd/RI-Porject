@@ -528,8 +528,8 @@ broadband</link> environments, since dial-up users find it less efficient due to
 
 <p>
 
-BitTorrent file sharers, compared to users of client/server technology, often have little incentive to become seeders after they finish downloading.  The result of this is that torrent swarms gradually die out, meaning a lower possibility of obtaining older torrents. Some BitTorrent websites have attempted to address this by recording each user's download and upload ratio for all or just the user to see, as well as the provision of access to newer torrent files to people with better ratios.  Users who have low upload ratios may see slower download speeds until they upload more.  This prevents (statistical) leeching, since after a while they become unable to download much faster than 1-10&nbsp;kB/s on a high-speed connection.  Some trackers exempt <link xlink:type="simple" xlink:href="../546/59546.xml">
-dial-up</link> users from this policy, because they cannot upload faster than 1-3&nbsp;kB/s.</p>
+BitTorrent file sharers, compared to users of client/server technology, often have little incentive to become seeders after they finish downloading.  The result of this is that torrent swarms gradually die out, meaning a lower possibility of obtaining older torrents. Some BitTorrent websites have attempted to address this by recording each user's download and upload ratio for all or just the user to see, as well as the provision of access to newer torrent files to people with better ratios.  Users who have low upload ratios may see slower download speeds until they upload more.  This prevents (statistical) leeching, since after a while they become unable to download much faster than 1-10 kB/s on a high-speed connection.  Some trackers exempt <link xlink:type="simple" xlink:href="../546/59546.xml">
+dial-up</link> users from this policy, because they cannot upload faster than 1-3 kB/s.</p>
 
 </ss1>
 <ss1>
@@ -683,7 +683,7 @@ Chris Pirillo</link></technician>
 <p>
 
 I want RSS feeds of BitTorrent files. A script would periodically check the feed for new items, and use them to start the download. Then, I could find a trusted publisher of an <link xlink:type="simple" xlink:href="../249/297249.xml">
-Alias</link> RSS feed, and 'subscribe' to all new episodes of the show, which would then start downloading automatically&nbsp;— like the 'season pass' feature of the <company wordnetid="108058098" confidence="0.9508927676800064">
+Alias</link> RSS feed, and 'subscribe' to all new episodes of the show, which would then start downloading automatically — like the 'season pass' feature of the <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../936/30936.xml">
 TiVo</link></company>
 .
@@ -1178,7 +1178,7 @@ Bencode</link></format>
 <entry id="1">
 Cohen, Bram&#32;(<link>
 2001-07-02</link>).&#32;"<weblink xlink:type="simple" xlink:href="http://finance.groups.yahoo.com/group/decentralization/message/3160">
-BitTorrent&nbsp;— a new P2P app</weblink>".&#32;  Yahoo eGroups.&#32;Retrieved on <link>
+BitTorrent — a new P2P app</weblink>".&#32;  Yahoo eGroups.&#32;Retrieved on <link>
 2007-04-15</link>.</entry>
 <entry id="2">
 Sales, Ben&#32;(September 2006).&#32;"<weblink xlink:type="simple" xlink:href="http://media.www.studlife.com/media/storage/paper337/news/2006/09/27/News/Restech.Solves.Network.Issues-2310692.shtml">
@@ -1218,7 +1218,7 @@ BitTorrent’s Swarms Have a Deadly Bite On Broadband Nets</weblink>".&#32;  Mul
 2006-05-08</link>.</entry>
 <entry id="10">
 Pasick, Adam&#32;(2004-11-04).&#32;"<weblink xlink:type="simple" xlink:href="http://www.interesting-people.org/archives/interesting-people/200411/msg00078.html">
-LIVEWIRE&nbsp;— File-sharing network thrives beneath the radar</weblink>".&#32;  Yahoo! News.&#32;Retrieved on <link>
+LIVEWIRE — File-sharing network thrives beneath the radar</weblink>".&#32;  Yahoo! News.&#32;Retrieved on <link>
 2006-05-09</link>.</entry>
 <entry id="11">
 Sevcik, Peter&#32;(1 November 2005).&#32;"<weblink xlink:type="simple" xlink:href="http://www.bcr.com/opinion/next_generation_networks/peer-to-peer_traffic_internet_myth_born_20051101647.htm">
@@ -1333,7 +1333,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1007/11558989_19">
-10.1007/11558989_19</weblink>. ISBN 9783540290681.</cite>&nbsp;</entry>
+10.1007/11558989_19</weblink>. ISBN 9783540290681.</cite> </entry>
 </list>
 </p>
 
@@ -1430,7 +1430,7 @@ Companies</col>
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../873/6506873.xml">
 BitTorrent, Inc.</link></company>
-&nbsp;·  <company wordnetid="108058098" confidence="0.9508927676800064">
+ ·  <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../700/14373700.xml">
 Vuze, Inc.</link></company>
 </col>
@@ -1463,7 +1463,7 @@ Ashwin Navin</link></scholar>
 </person>
 </executive>
 </physical_entity>
-&nbsp;· <person wordnetid="100007846" confidence="0.9508927676800064">
+ · <person wordnetid="100007846" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../666/265666.xml">
 Bram Cohen</link></person>
 </col>
@@ -1476,7 +1476,7 @@ Bram Cohen</link></person>
 Technology</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../277/849277.xml">
-Broadcatching</link>&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+Broadcatching</link> ·  <work wordnetid="100575741" confidence="0.8">
 <examination wordnetid="100635850" confidence="0.8">
 <event wordnetid="100029378" confidence="0.8">
 <investigation wordnetid="100633864" confidence="0.8">
@@ -1493,11 +1493,11 @@ BitTorrent client</link></activity>
 </event>
 </examination>
 </work>
-&nbsp;· <link xlink:type="simple" xlink:href="../141/192141.xml">
-Distributed hash table</link>s&nbsp;·  <link xlink:type="simple" xlink:href="../878/13939878.xml">
-DNA</link>&nbsp;·  <link xlink:type="simple" xlink:href="../518/14271518.xml">
-index</link>&nbsp;·  <link xlink:type="simple" xlink:href="../800/3930800.xml">
-Peer exchange</link>&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ · <link xlink:type="simple" xlink:href="../141/192141.xml">
+Distributed hash table</link>s ·  <link xlink:type="simple" xlink:href="../878/13939878.xml">
+DNA</link> ·  <link xlink:type="simple" xlink:href="../518/14271518.xml">
+index</link> ·  <link xlink:type="simple" xlink:href="../800/3930800.xml">
+Peer exchange</link> ·  <message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <direction wordnetid="106786629" confidence="0.8">
 <rule wordnetid="106652242" confidence="0.8">
@@ -1506,9 +1506,9 @@ Protocol encryption</link></rule>
 </direction>
 </protocol>
 </message>
-&nbsp;·  <link xlink:type="simple" xlink:href="../905/1838905.xml">
-Super-seeding</link>&nbsp;·  <link xlink:type="simple" xlink:href="../521/9542521.xml">
-Terminology</link>&nbsp;·  <link xlink:type="simple" xlink:href="../828/1865828.xml">
+ ·  <link xlink:type="simple" xlink:href="../905/1838905.xml">
+Super-seeding</link> ·  <link xlink:type="simple" xlink:href="../521/9542521.xml">
+Terminology</link> ·  <link xlink:type="simple" xlink:href="../828/1865828.xml">
 Tracker</link></col>
 </row>
 <row style="height:2px">
@@ -1521,16 +1521,16 @@ Clients</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../497/1845497.xml">
 BitTorrent</link></software>
- (original client)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ (original client) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../071/1713071.xml">
 ABC</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../521/887521.xml">
 BitComet</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../392/905392.xml">
 BitTornado</link></software>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1541,7 +1541,7 @@ Deluge</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <work wordnetid="100575741" confidence="0.8">
+ ·  <work wordnetid="100575741" confidence="0.8">
 <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
@@ -1564,7 +1564,7 @@ Shareaza</link></activity>
 </person>
 </physical_entity>
 </work>
-&nbsp;·  <physical_entity wordnetid="100001930" confidence="0.8">
+ ·  <physical_entity wordnetid="100001930" confidence="0.8">
 <person wordnetid="100007846" confidence="0.8">
 <client wordnetid="109985075" confidence="0.8">
 <causal_agent wordnetid="100007347" confidence="0.8">
@@ -1575,11 +1575,11 @@ Transmission</link></case>
 </client>
 </person>
 </physical_entity>
-&nbsp;·  <link>
-µTorrent</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link>
+µTorrent</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../945/8293945.xml">
 Vuze</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../550/19590550.xml">
+  ·  <link xlink:type="simple" xlink:href="../550/19590550.xml">
 All Clients</link>(comparison)</col>
 </row>
 <row style="height:2px">
@@ -1592,11 +1592,11 @@ Search engines</col>
 <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../742/8785742.xml">
 BTJunkie</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../889/12697889.xml">
 Demonoid</link></web_site>
-&nbsp;·  <link xlink:type="simple" xlink:href="../433/5423433.xml">
-isoHunt</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../433/5423433.xml">
+isoHunt</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1609,8 +1609,8 @@ Mininova</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <link xlink:type="simple" xlink:href="../088/12003088.xml">
-myBittorrent</link>&nbsp;·  <computer wordnetid="103082979" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../088/12003088.xml">
+myBittorrent</link> ·  <computer wordnetid="103082979" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <device wordnetid="103183080" confidence="0.8">
@@ -1623,10 +1623,10 @@ Seedpeer</link></web_site>
 </instrumentality>
 </artifact>
 </computer>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../014/7763014.xml">
 Suprnova.org</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../870/1923870.xml">
 The Pirate Bay</link></web_site>
 </col>
@@ -1641,7 +1641,7 @@ Metasearch engines</col>
 <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../591/17932591.xml">
 Torrentz</link></web_site>
-&nbsp;·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
+ ·  <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../187/16142187.xml">
 YouTorrent</link></web_site>
 </col>

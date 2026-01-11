@@ -57,7 +57,7 @@ Queensway</link></road>
 </row>
 <row>
 <header style="text-align: right">
-Local&nbsp;authority</header>
+Local authority</header>
 <col style="" class="">
 <region wordnetid="108630985" confidence="0.8">
 <administrative_district wordnetid="108491826" confidence="0.8">
@@ -80,7 +80,7 @@ Westminster</link></city>
 </row>
 <row>
 <header style="text-align: right">
-Managed&nbsp;by</header>
+Managed by</header>
 <col style="" class="">
 <body wordnetid="107965085" confidence="0.8">
 <social_group wordnetid="107950920" confidence="0.8">
@@ -103,7 +103,7 @@ London Underground</link></administration>
 </row>
 <row>
 <header style="text-align: right">
-Platforms&nbsp;in&nbsp;use</header>
+Platforms in use</header>
 <col style="" class="">
 2</col>
 </row>
@@ -111,7 +111,7 @@ Platforms&nbsp;in&nbsp;use</header>
 <header style="text-align: right">
 <company wordnetid="108058098" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../145/31145.xml">
-TfL&nbsp;zone</link></company>
+TfL zone</link></company>
 </header>
 <col style="" class="">
 <link xlink:type="simple" xlink:href="../049/231049.xml">
@@ -119,15 +119,15 @@ TfL&nbsp;zone</link></company>
 </row>
 <row>
 <header style="text-align: right">
-LUL&nbsp;2005&nbsp;usage</header>
+LUL 2005 usage</header>
 <col style="" class="">
-8.557&nbsp;million<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></col>
+8.557 million<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></col>
 </row>
 <row>
 <header style="text-align: right">
-LUL&nbsp;2007&nbsp;usage</header>
+LUL 2007 usage</header>
 <col style="" class="">
-6.043&nbsp;million<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></col>
+6.043 million<ref xlink:type="simple" xlink:href="#xpointer(//reflist/entry[@id=%221%22])">1</ref></col>
 </row>
 <row>
 <header colspan="2" style="text-align:center; "></header>
@@ -143,11 +143,11 @@ Opened</col>
 </row>
 <row>
 <header style="text-align: right">
-List&nbsp;of&nbsp;stations</header>
+List of stations</header>
 <col style="" class="">
 <link xlink:type="simple" xlink:href="../617/210617.xml">
-Underground</link>&nbsp;•&nbsp;<link xlink:type="simple" xlink:href="../268/361268.xml">
-National&nbsp;Rail</link></col>
+Underground</link> • <link xlink:type="simple" xlink:href="../268/361268.xml">
+National Rail</link></col>
 </row>
 <row>
 <header colspan="2" style="text-align:center; ">
@@ -326,7 +326,7 @@ Bayswater Interior 5
 <header style="vertical-align: middle; width: 30%; border-top: 1px #aaa solid; border-right: 1px #aaa solid; border-left: 0px; border-bottom: 0px; color:inherit; background-color:#f2f2f2; ">
 <b>Preceding station</b></header>
 <header style="border-left: 0px none; border-right: 0px none; border-bottom: 0px none; border-top: 1px #aaa solid; background-color:#">
-&nbsp;</header>
+ </header>
 <header style="vertical-align: middle; border-top: 1px #aaa solid; border-left: 0px none; border-right: 0px none; border-bottom: 0px none; background-color:#">
 <image width="15px" src="Underground_no-text.svg">
 </image>
@@ -349,7 +349,7 @@ London Underground</link></administration>
 </body>
 </header>
 <header style="border-left: 0px none; border-right: 0px none; border-bottom: 0px none; border-top: 1px #aaa solid; background-color:#">
-&nbsp;</header>
+ </header>
 <header style="vertical-align: middle; width: 30%; border-top: 1px #aaa solid; border-left: 1px #aaa solid; border-right: 0px; border-bottom: 0px; color:inherit; background-color:#f2f2f2; ">
 <b>Following station</b></header>
 </row>

@@ -52,7 +52,7 @@ A <it>weight function</it> <it>w</it> : <it>E</it> &amp;rarr; <b>R</b>+ for a ma
 <p>
 
 As a simple example, say we wish to find the <link xlink:type="simple" xlink:href="../770/455770.xml">
-maximum spanning forest</link> of a graph. That is, given a graph and a weight for each edge, find a forest containing every vertex and maximizing the total weight of the edges in the tree. This problem arises in some clustering applications. If we look at the definition of the forest matroid above, we see that the maximum spanning forest is simply the independent set with largest total weight &mdash; such a set must span the graph, for otherwise we can add edges without creating cycles. But how do we find it?</p>
+maximum spanning forest</link> of a graph. That is, given a graph and a weight for each edge, find a forest containing every vertex and maximizing the total weight of the edges in the tree. This problem arises in some clustering applications. If we look at the definition of the forest matroid above, we see that the maximum spanning forest is simply the independent set with largest total weight — such a set must span the graph, for otherwise we can add edges without creating cycles. But how do we find it?</p>
 <p>
 
 An independent set of largest total weight is called an <it>optimal</it> set. Optimal sets are always bases, because if an edge can be added, it should be; this only increases the total weight. As it turns out, there is a trivial <link xlink:type="simple" xlink:href="../247/89247.xml">
@@ -107,7 +107,7 @@ References</st>
 <list>
 <entry level="1" type="bullet">
 
- Jack Edmonds. Matroids and the Greedy Algorithm. Mathematical Programming, volume 1, p.125&ndash;136. 1971.</entry>
+ Jack Edmonds. Matroids and the Greedy Algorithm. Mathematical Programming, volume 1, p.125–136. 1971.</entry>
 </list>
 
 </p>

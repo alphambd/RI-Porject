@@ -607,7 +607,7 @@ One solution.</p>
 
 The <b>eight queens puzzle</b> is the problem of putting eight <link xlink:type="simple" xlink:href="../134/5134.xml">
 chess</link> <link xlink:type="simple" xlink:href="../505/47505.xml">
-queen</link>s on an 8×8 chessboard such that none of them is able to capture any other using the standard chess queen's moves.  The queens must be placed in such a way that no two queens would be able to attack each other. Thus, a solution requires that no two queens share the same row, column, or diagonal. The eight queens puzzle is an example of the more general <b><it>n</it></b><b> queens puzzle</b> of placing <it>n</it> queens on an <it>n</it>×<it>n</it> chessboard, where solutions exist only for <it>n</it>&nbsp;=&nbsp;1 and <it>n</it>&nbsp;≥&nbsp;4.</p>
+queen</link>s on an 8×8 chessboard such that none of them is able to capture any other using the standard chess queen's moves.  The queens must be placed in such a way that no two queens would be able to attack each other. Thus, a solution requires that no two queens share the same row, column, or diagonal. The eight queens puzzle is an example of the more general <b><it>n</it></b><b> queens puzzle</b> of placing <it>n</it> queens on an <it>n</it>×<it>n</it> chessboard, where solutions exist only for <it>n</it> = 1 and <it>n</it> ≥ 4.</p>
 
 <sec>
 <st>
@@ -689,7 +689,7 @@ Constructing a solution</st>
 The problem can be quite computationally expensive as there are 4,426,165,368 (64×63×...×58×57/8!, where the "!" stands for <link xlink:type="simple" xlink:href="../606/10606.xml">
 Factorial</link>) possible arrangements, but only 92 solutions. It is possible to use shortcuts that reduce computational requirements or rules of thumb that avoids brute force computational techniques. For example, just by applying a simple rule that constrains each queen to a single column (or row), though still considered brute force, it is possible to reduce the number of possibilities to just 16,777,216 (8^8) possible combinations, which is computationally manageable for n=8, but would be intractable for problems of n=1,000,000. Extremely interesting advancements for this and other <link xlink:type="simple" xlink:href="../806/1331806.xml">
 toy problem</link>s is the development and application of <link xlink:type="simple" xlink:href="../452/63452.xml">
-heuristics</link> (rules of thumb) that yield solutions to the <it>n</it> queens puzzle at an astounding fraction of the computational requirements. This heuristic solves <it>n</it> queens for any n <it>n</it>&nbsp;≥&nbsp;4 or <it>n</it>&nbsp;=&nbsp;1:</p>
+heuristics</link> (rules of thumb) that yield solutions to the <it>n</it> queens puzzle at an astounding fraction of the computational requirements. This heuristic solves <it>n</it> queens for any n <it>n</it> ≥ 4 or <it>n</it> = 1:</p>
 <p>
 
 <list>
@@ -718,7 +718,7 @@ heuristics</link> (rules of thumb) that yield solutions to the <it>n</it> queens
 </p>
 <p>
 
-For <it>n</it>&nbsp;=&nbsp;8 this results in the solution shown above. A few more examples follow.</p>
+For <it>n</it> = 8 this results in the solution shown above. A few more examples follow.</p>
 <p>
 
 <list>
@@ -7779,7 +7779,7 @@ Given an <it>n</it>×<it>n</it> board, find the <b>domination number</b>, which 
 Nine queens problem</weblink></entry>
 <entry level="1" type="indent">
 
-Place nine queens and one pawn on an 8×8 board in such a way that queens don't attack each other. Further generalization of the problem (complete solution is currently unknown): given an <it>n</it>×<it>n</it> chess board and <it>m</it>&nbsp;&amp;gt;&nbsp;<it>n</it> queens, find the minimum number of pawns, so that the <it>m</it> queens and the pawns can be set up on the board in such a way that no two queens attack each other. </entry>
+Place nine queens and one pawn on an 8×8 board in such a way that queens don't attack each other. Further generalization of the problem (complete solution is currently unknown): given an <it>n</it>×<it>n</it> chess board and <it>m</it> &amp;gt; <it>n</it> queens, find the minimum number of pawns, so that the <it>m</it> queens and the pawns can be set up on the board in such a way that no two queens attack each other. </entry>
 <entry level="1" type="definition">
 
  <weblink xlink:type="simple" xlink:href="http://www.vector.org.uk/archive/v213/hui213.htm">
@@ -7845,8 +7845,8 @@ induction</link> bottoms out with the solution to the 'problem' of placing 0 que
 <p>
 
 This technique is much more efficient than the naïve <link xlink:type="simple" xlink:href="../127/103127.xml">
-brute-force search</link> algorithm, which considers all 648&nbsp;=&nbsp;248&nbsp;= 281,474,976,710,656 possible blind placements of eight queens, and then filters these to remove all placements that place two queens either on the same square (leaving only 64!/56!&nbsp;= 178,462,987,637,760 possible placements) or in mutually attacking positions. This very poor algorithm will, among other things, produce the same results over and over again in all the different <link xlink:type="simple" xlink:href="../027/44027.xml">
-permutation</link>s of the assignments of the eight queens, as well as repeating the same computations over and over again for the different sub-sets of each solution. A better brute-force algorithm places a single queen on each row, leading to only 88&nbsp;=&nbsp;224&nbsp;= 16,777,216 blind placements. </p>
+brute-force search</link> algorithm, which considers all 648 = 248 = 281,474,976,710,656 possible blind placements of eight queens, and then filters these to remove all placements that place two queens either on the same square (leaving only 64!/56! = 178,462,987,637,760 possible placements) or in mutually attacking positions. This very poor algorithm will, among other things, produce the same results over and over again in all the different <link xlink:type="simple" xlink:href="../027/44027.xml">
+permutation</link>s of the assignments of the eight queens, as well as repeating the same computations over and over again for the different sub-sets of each solution. A better brute-force algorithm places a single queen on each row, leading to only 88 = 224 = 16,777,216 blind placements. </p>
 <p>
 
 It is possible to do much better than this.
@@ -7873,7 +7873,7 @@ Constraint programming</link></grammatical_relation>
 <p>
 
 The 'minimum-conflicts' <link xlink:type="simple" xlink:href="../452/63452.xml">
-heuristic</link> &mdash; moving the piece with the largest number of conflicts to the square in the same column where the number of conflicts is smallest &mdash; is particularly effective: it solves the 1,000,000 queen problem in less than 50 steps on average. This assumes that the initial configuration is 'reasonably good' &mdash; if a million queens all start in the same row, it will obviously take at least 999,999 steps to fix it. A 'reasonably good' starting point can for instance be found by putting each queen in its own row and column such that it conflicts with the smallest number of queens already on the board.</p>
+heuristic</link> — moving the piece with the largest number of conflicts to the square in the same column where the number of conflicts is smallest — is particularly effective: it solves the 1,000,000 queen problem in less than 50 steps on average. This assumes that the initial configuration is 'reasonably good' — if a million queens all start in the same row, it will obviously take at least 999,999 steps to fix it. A 'reasonably good' starting point can for instance be found by putting each queen in its own row and column such that it conflicts with the smallest number of queens already on the board.</p>
 <p>
 
 Note that 'iterative repair', unlike the 'backtracking' search outlined above, does not guarantee a solution: like all hillclimbing procedures, it may get stuck on a local optimum (in which case the algorithm may be restarted with a different initial configuration). On the other hand, it can solve problem sizes that are several orders of magnitude beyond the scope of a breadth-first search.</p>

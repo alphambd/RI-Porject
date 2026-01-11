@@ -186,7 +186,7 @@ Typical application areas include </p>
 <list>
 <entry level="1" type="bullet">
 
- <b>Home Entertainment and Control</b>&nbsp;&mdash; Smart lighting, advanced temperature control, safety and security, movies and music</entry>
+ <b>Home Entertainment and Control</b> — Smart lighting, advanced temperature control, safety and security, movies and music</entry>
 </list>
 </p>
 <p>
@@ -194,7 +194,7 @@ Typical application areas include </p>
 <list>
 <entry level="1" type="bullet">
 
- <b>Home Awareness</b>&nbsp;&mdash; Water sensors, power sensors, smoke and fire detectors, smart appliances and access sensors</entry>
+ <b>Home Awareness</b> — Water sensors, power sensors, smoke and fire detectors, smart appliances and access sensors</entry>
 </list>
 </p>
 <p>
@@ -202,7 +202,7 @@ Typical application areas include </p>
 <list>
 <entry level="1" type="bullet">
 
- <b>Mobile Services</b>&nbsp;&mdash; m-payment, m-monitoring and control, m-security and access control, m-healthcare and tele-assist</entry>
+ <b>Mobile Services</b> — m-payment, m-monitoring and control, m-security and access control, m-healthcare and tele-assist</entry>
 </list>
 </p>
 <p>
@@ -210,7 +210,7 @@ Typical application areas include </p>
 <list>
 <entry level="1" type="bullet">
 
- <b>Commercial Building</b>&nbsp;&mdash; Energy monitoring, HVAC, lighting, access control</entry>
+ <b>Commercial Building</b> — Energy monitoring, HVAC, lighting, access control</entry>
 </list>
 </p>
 <p>
@@ -218,7 +218,7 @@ Typical application areas include </p>
 <list>
 <entry level="1" type="bullet">
 
-<b> Industrial Plant</b>&nbsp;&mdash; Process control, asset management, environmental management, energy management, industrial device control</entry>
+<b> Industrial Plant</b> — Process control, asset management, environmental management, energy management, industrial device control</entry>
 </list>
 </p>
 
@@ -268,7 +268,7 @@ In general, the ZigBee protocols minimize the time the radio is on so as to redu
 
 ZigBee devices are required to conform to the IEEE 802.15.4-2003 Low-Rate Wireless Personal Area Network (WPAN) standard. The standard specifies the lower <link xlink:type="simple" xlink:href="../770/630770.xml">
 protocol</link> <link xlink:type="simple" xlink:href="../310/41310.xml">
-layer</link>s&mdash;the physical layer (<link xlink:type="simple" xlink:href="../300/78300.xml">
+layer</link>s—the physical layer (<link xlink:type="simple" xlink:href="../300/78300.xml">
 PHY</link>), and the medium access control (<message wordnetid="106598915" confidence="0.8">
 <protocol wordnetid="106665108" confidence="0.8">
 <know-how wordnetid="105616786" confidence="0.8">
@@ -283,22 +283,22 @@ MAC</link></method>
 </protocol>
 </message>
 ) portion of the data link layer (<link xlink:type="simple" xlink:href="../949/152949.xml">
-DLL</link>).  This standard specifies operation in the unlicensed 2.4&nbsp;<link xlink:type="simple" xlink:href="../121/14121.xml">
-GHz</link>, 915&nbsp;<link xlink:type="simple" xlink:href="../121/14121.xml">
-MHz</link> and 868&nbsp;MHz <link xlink:type="simple" xlink:href="../286/15286.xml">
-ISM band</link>s.  In the 2.4&nbsp;<link xlink:type="simple" xlink:href="../121/14121.xml">
-GHz</link> band there are 16 ZigBee channels, with each channel requiring 5&nbsp;<link xlink:type="simple" xlink:href="../121/14121.xml">
-MHz</link> of bandwidth. The center frequency for each channel can be calculated as, FC = (2350 + (5 * ch))&nbsp;<link xlink:type="simple" xlink:href="../121/14121.xml">
+DLL</link>).  This standard specifies operation in the unlicensed 2.4 <link xlink:type="simple" xlink:href="../121/14121.xml">
+GHz</link>, 915 <link xlink:type="simple" xlink:href="../121/14121.xml">
+MHz</link> and 868 MHz <link xlink:type="simple" xlink:href="../286/15286.xml">
+ISM band</link>s.  In the 2.4 <link xlink:type="simple" xlink:href="../121/14121.xml">
+GHz</link> band there are 16 ZigBee channels, with each channel requiring 5 <link xlink:type="simple" xlink:href="../121/14121.xml">
+MHz</link> of bandwidth. The center frequency for each channel can be calculated as, FC = (2350 + (5 * ch)) <link xlink:type="simple" xlink:href="../121/14121.xml">
 MHz</link>, where ch = 11, 12, ..., 26.</p>
 <p>
 
 The radios use <link xlink:type="simple" xlink:href="../049/41049.xml">
 direct-sequence spread spectrum</link> coding, which is managed by the digital stream into the modulator.  <link xlink:type="simple" xlink:href="../551/41551.xml">
-BPSK</link> is used in the 868 and 915&nbsp;MHz bands, and orthogonal <link xlink:type="simple" xlink:href="../551/41551.xml">
-QPSK</link> that transmits two bits per symbol is used in the 2.4&nbsp;GHz band.  The raw, over-the-air data rate is 250 <link xlink:type="simple" xlink:href="../152/17152.xml">
+BPSK</link> is used in the 868 and 915 MHz bands, and orthogonal <link xlink:type="simple" xlink:href="../551/41551.xml">
+QPSK</link> that transmits two bits per symbol is used in the 2.4 GHz band.  The raw, over-the-air data rate is 250 <link xlink:type="simple" xlink:href="../152/17152.xml">
 kbit</link>/<link xlink:type="simple" xlink:href="../873/26873.xml">
 s</link> per <link xlink:type="simple" xlink:href="../700/156700.xml">
-channel</link> in the 2.4&nbsp;GHz band, 40 kbit/s per channel in the 915&nbsp;MHz band, and 20&nbsp;kbit/s in the 868&nbsp;MHz band.  Transmission range is between 10 and 75 <link xlink:type="simple" xlink:href="../947/18947.xml">
+channel</link> in the 2.4 GHz band, 40 kbit/s per channel in the 915 MHz band, and 20 kbit/s in the 868 MHz band.  Transmission range is between 10 and 75 <link xlink:type="simple" xlink:href="../947/18947.xml">
 meter</link>s (33 and 246 <link xlink:type="simple" xlink:href="../482/202482.xml">
 feet</link>), although it is heavily dependent on the particular environment. The maximum output power of the radios is generally 0 <link xlink:type="simple" xlink:href="../003/41003.xml">
 dBm</link> (1 mW). </p>

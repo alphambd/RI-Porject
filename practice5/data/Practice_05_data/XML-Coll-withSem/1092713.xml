@@ -134,7 +134,7 @@ arising from the cutoff is close to the first term after the cutoff.  That is, t
 term after the cutoff dominates all later terms.  The same is true if the expansion is in terms
 of Chebyshev polynomials.  If a Chebyshev expansion is cut off after <math>T_n</math>, the
 error will take a form close to a multiple of <math>T_{n+1}</math>.  The Chebyshev polynomials have the
-property that they are level &mdash; they oscillate between +1 and -1 in the interval [-1, 1].
+property that they are level — they oscillate between +1 and -1 in the interval [-1, 1].
 <math>T_{n+1}</math> has N+2 level maxima.  This means that the error between f(x) and
 its Chebyshev expansion out to <math>T_n</math> is close to a level function with N+2
 maxima, so it is close to the optimal Nth degree polynomial.</p>
@@ -261,7 +261,7 @@ Calculating the derivatives of a polynomial is straightforward.  One must also b
 After moving the test points, the linear equation part is repeated, getting a new polynomial,
 and Newton's method is used again to move the test points again.  This sequence is continued
 until the result converges to the desired accuracy.  The algorithm converges very rapidly.
-Convergence is quadratic for well-behaved functions&mdash;if the test points are within <math>10^{-15}</math> of the correct result, they will be approximately within
+Convergence is quadratic for well-behaved functions—if the test points are within <math>10^{-15}</math> of the correct result, they will be approximately within
 <math>10^{-30}</math> of the correct result after the next round.</p>
 <p>
 

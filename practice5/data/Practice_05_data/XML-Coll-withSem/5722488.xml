@@ -1034,7 +1034,7 @@ doi</link></writing>
 </written_communication>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F98163.98167">
-10.1145/98163.98167</weblink>.</cite>&nbsp;</entry>
+10.1145/98163.98167</weblink>.</cite> </entry>
 <entry id="2">
  <cite style="font-style:normal">Lamport, Leslie&#32;(July 1978).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#time-clocks">
 Time, Clocks and the Ordering of Events in a Distributed System</weblink>”. <it>Communications of the ACM</it>&#32;<b>21</b>&#32;(7): 558–565. <document wordnetid="106470073" confidence="0.8">
@@ -1046,7 +1046,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F359545.359563">
 10.1145/359545.359563</weblink>. Retrieved on <link>
-2007-02-02</link>.</cite>&nbsp;</entry>
+2007-02-02</link>.</cite> </entry>
 <entry id="3">
  <cite style="font-style:normal">Lamport, Leslie&#32;(May 1998).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#lamport-paxos">
 The Part-Time Parliament</weblink>”. <it>ACM Transactions on Computer Systems</it>&#32;<b>16</b>&#32;(2): 133–169. <document wordnetid="106470073" confidence="0.8">
@@ -1058,16 +1058,16 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F279227.279229">
 10.1145/279227.279229</weblink>. Retrieved on <link>
-2007-02-02</link>.</cite>&nbsp;</entry>
+2007-02-02</link>.</cite> </entry>
 <entry id="4">
  <cite style="font-style:normal">Lamport, Leslie; Mike Massa&#32;(2004).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#web-dsn-submission">
-Cheap Paxos</weblink>”. <it>Proceedings of the International Conference on Dependable Systems and Networks (DSN 2004)</it>.</cite>&nbsp;</entry>
+Cheap Paxos</weblink>”. <it>Proceedings of the International Conference on Dependable Systems and Networks (DSN 2004)</it>.</cite> </entry>
 <entry id="5">
 Lamport, Leslie&#32;(2005).&#32;"<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#fast-paxos">
 Fast Paxos</weblink>".</entry>
 <entry id="6">
  <cite style="font-style:normal">Lamport, Leslie&#32;(2005).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#generalized">
-Generalized Consensus and Paxos</weblink>”.</cite>&nbsp;</entry>
+Generalized Consensus and Paxos</weblink>”.</cite> </entry>
 <entry id="7">
 Castro, Miguel&#32;(2001).&#32;"<weblink xlink:type="simple" xlink:href="http://citeseer.ist.psu.edu/castro01practical.html">
 Practical Byzantine Fault Tolerance</weblink>".</entry>
@@ -1076,7 +1076,7 @@ Lamport, Leslie&#32;(2004).&#32;"<weblink xlink:type="simple" xlink:href="http:/
 Lower Bounds for Asynchronous Consensus</weblink>".</entry>
 <entry id="9">
  <cite style="font-style:normal">Chandra, Tushar; Robert Griesemer, Joshua Redstone&#32;(2007).&#32;“<weblink xlink:type="simple" xlink:href="http://labs.google.com/papers/paxos_made_live.html">
-Paxos Made Live – An Engineering Perspective</weblink>”. <it>PODC '07: 26th ACM Symposium on Principles of Distributed Computing</it>.</cite>&nbsp;</entry>
+Paxos Made Live – An Engineering Perspective</weblink>”. <it>PODC '07: 26th ACM Symposium on Principles of Distributed Computing</it>.</cite> </entry>
 <entry id="10">
  <cite style="font-style:normal">Lamport, Leslie; Robert Shostak, Marshall Pease&#32;(July 1982).&#32;“<weblink xlink:type="simple" xlink:href="http://research.microsoft.com/users/lamport/pubs/pubs.html#byz">
 The Byzantine Generals Problem</weblink>”. <it>ACM Transactions on Programming Languages and Systems</it>&#32;<b>4</b>&#32;(3): 382–401. <document wordnetid="106470073" confidence="0.8">
@@ -1088,7 +1088,7 @@ doi</link></writing>
 </document>
 :<weblink xlink:type="simple" xlink:href="http://dx.doi.org/10.1145%2F357172.357176">
 10.1145/357172.357176</weblink>. Retrieved on <link>
-2007-02-02</link>.</cite>&nbsp;</entry>
+2007-02-02</link>.</cite> </entry>
 </reflist>
 </p>
 

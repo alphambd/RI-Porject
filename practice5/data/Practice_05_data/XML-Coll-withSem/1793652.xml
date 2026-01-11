@@ -370,16 +370,16 @@ ASP.NET</link></hypothesis>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../326/13867326.xml">
-ASP.NET MVC</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ASP.NET MVC</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../457/16142457.xml">
 BFC</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../999/2143999.xml">
 DotNetNuke</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../903/11165903.xml">
 MonoRail</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link>
 Umbraco</link></software>
 </col>
@@ -401,7 +401,7 @@ ColdSpring</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -410,12 +410,12 @@ Fusebox</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../946/1688946.xml">
 Mach-II</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../782/1662782.xml">
-Model-Glue</link>&nbsp;·  <link xlink:type="simple" xlink:href="../357/4608357.xml">
-onTap</link>&nbsp;·  ColdBox</col>
+ ·  <link xlink:type="simple" xlink:href="../782/1662782.xml">
+Model-Glue</link> ·  <link xlink:type="simple" xlink:href="../357/4608357.xml">
+onTap</link> ·  ColdBox</col>
 </row>
 <row style="height:2px">
 
@@ -428,10 +428,10 @@ Common Lisp</link></programming_language>
 </col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../507/18290507.xml">
-ABCL-web</link>&nbsp;·  <link xlink:type="simple" xlink:href="../600/18290600.xml">
-blow</link>&nbsp;·  <link xlink:type="simple" xlink:href="../416/18290416.xml">
-BKNR</link>&nbsp;·  <link xlink:type="simple" xlink:href="../479/18614479.xml">
-SymbolicWeb</link>&nbsp;·  <link xlink:type="simple" xlink:href="../185/9498185.xml">
+ABCL-web</link> ·  <link xlink:type="simple" xlink:href="../600/18290600.xml">
+blow</link> ·  <link xlink:type="simple" xlink:href="../416/18290416.xml">
+BKNR</link> ·  <link xlink:type="simple" xlink:href="../479/18614479.xml">
+SymbolicWeb</link> ·  <link xlink:type="simple" xlink:href="../185/9498185.xml">
 UnCommon Web</link></col>
 </row>
 <row style="height:2px">
@@ -447,7 +447,7 @@ Flex</link></software>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../941/1197941.xml">
 Adobe Flex</link></software>
- (IDE)&nbsp;·  <link xlink:type="simple" xlink:href="../644/5744644.xml">
+ (IDE) ·  <link xlink:type="simple" xlink:href="../644/5744644.xml">
 Cairngorm</link></col>
 </row>
 <row style="height:2px">
@@ -471,14 +471,14 @@ AppFuse</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../780/15412780.xml">
 Flexive</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../181/5180181.xml">
 Google Web Toolkit</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../531/5377531.xml">
-Grails</link>&nbsp;· <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../531/5377531.xml">
+Grails</link> · <structure wordnetid="104341686" confidence="0.8">
 <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -497,7 +497,7 @@ IT Mill Toolkit</link></room>
 </idea>
 </model>
 </structure>
-&nbsp;·  <message wordnetid="106598915" confidence="0.8">
+ ·  <message wordnetid="106598915" confidence="0.8">
 <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -510,14 +510,14 @@ JavaServer Faces</link></hypothesis>
 </idea>
 </model>
 </message>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../289/12562289.xml">
 JBoss Seam</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../626/14286626.xml">
 Makumba</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../118/13788118.xml">
-Mentawai</link>&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../118/13788118.xml">
+Mentawai</link> ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -526,7 +526,7 @@ Reasonable Server Faces (RSF)</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -535,10 +535,10 @@ RIFE</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../449/8837449.xml">
 Stripes</link></software>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -547,7 +547,7 @@ WebWork</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;· <artifact wordnetid="100021939" confidence="0.8">
+ · <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <tool wordnetid="104451818" confidence="0.8">
 <implement wordnetid="103563967" confidence="0.8">
@@ -556,7 +556,7 @@ XTT</link></implement>
 </tool>
 </instrumentality>
 </artifact>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../586/3280586.xml">
 ZK</link></software>
 </col>
@@ -572,13 +572,13 @@ Client-side</link></col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../784/2907784.xml">
 AJILE</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../547/8009547.xml">
 Clean AJAX</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../800/4103800.xml">
 Dojo</link></software>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -587,12 +587,12 @@ Echo</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../178/10481178.xml">
 Ext</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../626/7672626.xml">
-jQuery</link>&nbsp;·  <link xlink:type="simple" xlink:href="../868/19271868.xml">
-midori</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../626/7672626.xml">
+jQuery</link> ·  <link xlink:type="simple" xlink:href="../868/19271868.xml">
+midori</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -603,17 +603,17 @@ MochiKit</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../734/8236734.xml">
 MooTools</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../286/15382286.xml">
 OpenLink AJAX</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../087/6189087.xml">
 Prototype JavaScript</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../998/6639998.xml">
-qooxdoo</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../998/6639998.xml">
+qooxdoo</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -624,7 +624,7 @@ Rialto</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -635,9 +635,9 @@ Rico</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../444/4596444.xml">
-script.aculo.us</link>&nbsp;·  <link xlink:type="simple" xlink:href="../344/7946344.xml">
-SmartClient</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../444/4596444.xml">
+script.aculo.us</link> ·  <link xlink:type="simple" xlink:href="../344/7946344.xml">
+SmartClient</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -648,7 +648,7 @@ Spry</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../520/7528520.xml">
 Yahoo! UI Library</link></software>
 </col>
@@ -664,10 +664,10 @@ Server-side JavaScript</link></col>
 <web_site wordnetid="106359193" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../331/14680331.xml">
 AppJet</link></web_site>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../897/19088897.xml">
 Helma Object Publisher</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../092/6172092.xml">
+ ·  <link xlink:type="simple" xlink:href="../092/6172092.xml">
 Jaxer</link></col>
 </row>
 <row style="height:2px">
@@ -689,10 +689,10 @@ Catalyst</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../524/1155524.xml">
 Interchange</link></software>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -701,7 +701,7 @@ Maypole</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <link xlink:type="simple" xlink:href="../527/6767527.xml">
+ ·  <link xlink:type="simple" xlink:href="../527/6767527.xml">
 Mason</link></col>
 </row>
 <row style="height:2px">
@@ -729,18 +729,18 @@ PHP</link></writer>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../085/13474085.xml">
 Akelos</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../108/3664108.xml">
 CakePHP</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../125/10515125.xml">
 CodeIgniter</link></software>
-&nbsp;·   <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·   <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../207/2342207.xml">
 Horde</link></software>
-&nbsp;·  <link xlink:type="simple" xlink:href="../777/14228777.xml">
-KohanaPHP</link>&nbsp;·  <link xlink:type="simple" xlink:href="../570/852570.xml">
-PEAR</link>&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <link xlink:type="simple" xlink:href="../777/14228777.xml">
+KohanaPHP</link> ·  <link xlink:type="simple" xlink:href="../570/852570.xml">
+PEAR</link> ·  <system wordnetid="104377057" confidence="0.8">
 <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -755,10 +755,10 @@ PHPOpenbiz</link></hypothesis>
 </idea>
 </model>
 </system>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../820/2117820.xml">
 PRADO</link></software>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -767,10 +767,10 @@ Simplicity</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../343/3440343.xml">
 Symfony</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../465/3494465.xml">
 Zoop</link></software>
 <p>
@@ -781,7 +781,7 @@ Zoop</link></software>
  OO:  (<software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../034/9406034.xml">
 Seagull</link></software>
- &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../963/4636963.xml">
 Zend</link></software>
 )</entry>
@@ -790,7 +790,7 @@ Zend</link></software>
  ORM: (<software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../247/12312247.xml">
 FUSE</link></software>
- &nbsp;·  <system wordnetid="104377057" confidence="0.8">
+  ·  <system wordnetid="104377057" confidence="0.8">
 <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -837,22 +837,22 @@ Python</link></programming_language>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../078/1205078.xml">
 Boa</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../952/2231952.xml">
 CherryPy</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../376/2247376.xml">
 Django</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../290/11005290.xml">
 Karrigell</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../232/6638232.xml">
 Nevow</link></software>
-&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../585/6644585.xml">
 Pylons</link></software>
-&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+ ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -861,12 +861,12 @@ Quixote</link></hypothesis>
 </concept>
 </idea>
 </model>
-&nbsp;·  <link xlink:type="simple" xlink:href="../046/3257046.xml">
-Spyce</link>&nbsp;·  <link xlink:type="simple" xlink:href="../436/11946436.xml">
-Tk</link>&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+ ·  <link xlink:type="simple" xlink:href="../046/3257046.xml">
+Spyce</link> ·  <link xlink:type="simple" xlink:href="../436/11946436.xml">
+Tk</link> ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../599/3177599.xml">
 TurboGears</link></software>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -934,7 +934,7 @@ Multiple languages</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link>
 Application Express</link> (<link xlink:type="simple" xlink:href="../106/24106.xml">
-PL/SQL</link>)&nbsp;·  <model wordnetid="105890249" confidence="0.8">
+PL/SQL</link>) ·  <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
 <hypothesis wordnetid="105888929" confidence="0.8">
@@ -961,25 +961,25 @@ PHP</link></writer>
 </person>
 </communicator>
 </physical_entity>
-)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../361/236361.xml">
 OpenACS</link></software>
  (<programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../237/30237.xml">
 Tcl</link></programming_language>
-)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../179/6427179.xml">
 Seaside</link></software>
  (<programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../319/28319.xml">
 Smalltalk</link></programming_language>
-)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../010/6592010.xml">
 Yaws</link></software>
  (<programming_language wordnetid="106898352" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../646/9646.xml">
 Erlang</link></programming_language>
-)&nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../204/12036204.xml">
 HAppS</link></software>
  (<programming_language wordnetid="106898352" confidence="0.9508927676800064">
@@ -1012,18 +1012,18 @@ CMS</col>
 PHP: (<software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../004/166004.xml">
 Drupal</link></software>
- &nbsp;·  <link xlink:type="simple" xlink:href="../495/946495.xml">
-eZ Publish</link> &nbsp;· <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <link xlink:type="simple" xlink:href="../495/946495.xml">
+eZ Publish</link>  · <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../815/14356815.xml">
 MODx</link></software>
- &nbsp;·  <system wordnetid="104377057" confidence="0.8">
+  ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../730/9259730.xml">
 SilverStripe</link></instrumentality>
 </artifact>
 </system>
-) &nbsp;· <system wordnetid="104377057" confidence="0.8">
+)  · <system wordnetid="104377057" confidence="0.8">
 <fork wordnetid="103383948" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
@@ -1040,7 +1040,7 @@ Joomla!</link></cutlery>
 </artifact>
 </fork>
 </system>
-&nbsp;·  <system wordnetid="104377057" confidence="0.8">
+ ·  <system wordnetid="104377057" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <instrumentality wordnetid="103575240" confidence="0.8">
 <link xlink:type="simple" xlink:href="../456/611456.xml">
@@ -1057,7 +1057,7 @@ Mambo</link></instrumentality>
 Toolkit</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 <link xlink:type="simple" xlink:href="../156/46156.xml">
-GTK+</link>&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+GTK+</link> ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -1068,7 +1068,7 @@ Motif</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <structure wordnetid="104341686" confidence="0.8">
+ ·  <structure wordnetid="104341686" confidence="0.8">
 <artifact wordnetid="100021939" confidence="0.8">
 <area wordnetid="102735688" confidence="0.8">
 <library wordnetid="103660909" confidence="0.8">
@@ -1079,12 +1079,12 @@ PyQt</link></room>
 </area>
 </artifact>
 </structure>
-&nbsp;·  <link xlink:type="simple" xlink:href="../204/25204.xml">
-Qt</link>&nbsp;·  <link xlink:type="simple" xlink:href="../998/377998.xml">
-MoOLIT</link>&nbsp;·  <link xlink:type="simple" xlink:href="../367/7760367.xml">
-wxDev-C++</link>&nbsp;·  <link xlink:type="simple" xlink:href="../257/1059257.xml">
-wxGlade</link>&nbsp;·  <link xlink:type="simple" xlink:href="../076/1075076.xml">
-wxPython</link>&nbsp;·  <link xlink:type="simple" xlink:href="../947/274947.xml">
+ ·  <link xlink:type="simple" xlink:href="../204/25204.xml">
+Qt</link> ·  <link xlink:type="simple" xlink:href="../998/377998.xml">
+MoOLIT</link> ·  <link xlink:type="simple" xlink:href="../367/7760367.xml">
+wxDev-C++</link> ·  <link xlink:type="simple" xlink:href="../257/1059257.xml">
+wxGlade</link> ·  <link xlink:type="simple" xlink:href="../076/1075076.xml">
+wxPython</link> ·  <link xlink:type="simple" xlink:href="../947/274947.xml">
 wxWidgets</link></col>
 </row>
 <row style="height:2px">
@@ -1097,7 +1097,7 @@ RIA</col>
 <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../928/7741928.xml">
 Adobe AIR</link></software>
-&nbsp;·  Java: (<structure wordnetid="104341686" confidence="0.8">
+ ·  Java: (<structure wordnetid="104341686" confidence="0.8">
 <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -1116,13 +1116,13 @@ IT Mill Toolkit</link></room>
 </idea>
 </model>
 </structure>
- &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../355/1566355.xml">
 OpenLaszlo</link></software>
-)&nbsp;·  Python: (<software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  Python: (<software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../581/8473581.xml">
 Porcupine</link></software>
-)&nbsp;·  Multi:  <software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  Multi:  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../785/17332785.xml">
 Wavemaker</link></software>
 )</col>
@@ -1135,10 +1135,10 @@ Wavemaker</link></software>
 AJAX</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
 ASP.NET: (<link xlink:type="simple" xlink:href="../038/4270038.xml">
-Atlas</link>) &nbsp;·  Java: (<software wordnetid="106566077" confidence="0.9508927676800064">
+Atlas</link>)  ·  Java: (<software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../729/14417729.xml">
 Cooee</link></software>
- &nbsp;·  <work wordnetid="100575741" confidence="0.8">
+  ·  <work wordnetid="100575741" confidence="0.8">
 <model wordnetid="105890249" confidence="0.8">
 <idea wordnetid="105833840" confidence="0.8">
 <concept wordnetid="105835747" confidence="0.8">
@@ -1159,11 +1159,11 @@ ItsNat</link></activity>
 </idea>
 </model>
 </work>
- &nbsp;·  <link xlink:type="simple" xlink:href="../344/7946344.xml">
-SmartClient</link> &nbsp;·  <software wordnetid="106566077" confidence="0.9508927676800064">
+  ·  <link xlink:type="simple" xlink:href="../344/7946344.xml">
+SmartClient</link>  ·  <software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../691/5871691.xml">
 ThinWire</link></software>
-)&nbsp;·  PHP: (<software wordnetid="106566077" confidence="0.9508927676800064">
+) ·  PHP: (<software wordnetid="106566077" confidence="0.9508927676800064">
 <link xlink:type="simple" xlink:href="../081/10978081.xml">
 PHP For Applications</link></software>
 )</col>
@@ -1176,13 +1176,13 @@ PHP For Applications</link></software>
 List</col>
 <col style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;" class="navbox-list navbox-even">
 <link xlink:type="simple" xlink:href="../238/3444238.xml">
-Assemblers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../676/333676.xml">
-CMS</link>&nbsp;·  <link xlink:type="simple" xlink:href="../163/7334163.xml">
-Compliers</link>&nbsp;·  <link xlink:type="simple" xlink:href="../879/1339879.xml">
-GUI</link>&nbsp;·  <link xlink:type="simple" xlink:href="../283/6444283.xml">
-IDE</link>&nbsp;·  <link xlink:type="simple" xlink:href="../015/1138015.xml">
-Source Code Editors</link>&nbsp;·  <link xlink:type="simple" xlink:href="../136/2342136.xml">
-Web Application</link>&nbsp;·  <link xlink:type="simple" xlink:href="../719/13279719.xml">
+Assemblers</link> ·  <link xlink:type="simple" xlink:href="../676/333676.xml">
+CMS</link> ·  <link xlink:type="simple" xlink:href="../163/7334163.xml">
+Compliers</link> ·  <link xlink:type="simple" xlink:href="../879/1339879.xml">
+GUI</link> ·  <link xlink:type="simple" xlink:href="../283/6444283.xml">
+IDE</link> ·  <link xlink:type="simple" xlink:href="../015/1138015.xml">
+Source Code Editors</link> ·  <link xlink:type="simple" xlink:href="../136/2342136.xml">
+Web Application</link> ·  <link xlink:type="simple" xlink:href="../719/13279719.xml">
 Widgets</link></col>
 </row>
 </table>
