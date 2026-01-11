@@ -4,6 +4,7 @@ import time
 import hashlib
 import pickle
 from collections import defaultdict, Counter
+from tokenize import String
 from typing import List, Dict, Set, Optional, Union
 import unicodedata
 import html
@@ -19,6 +20,7 @@ except ImportError:
 from unidecode import unidecode
 from porterstemmer import PorterStemmer
 from snowballstemmer import stem_word
+from inex_document import INEXDocument
 
 
 class WeightedInvertedIndex:
@@ -28,6 +30,8 @@ class WeightedInvertedIndex:
         self.dictionary = defaultdict(dict)  # term -> {doc_id: freq}
         self.doc_ids = []                    # Liste de tous les docs
         self.doc_lengths = {}                # doc_id -> longueur en terms
+        self.doc_lengths_char = {}           # doc_id -> longueur en character du doc
+        self.element_lengths_char = {}       # element_id -> longueur en character de l'élément
         self.doc_count = 0
         self.total_terms = 0
         
@@ -236,7 +240,7 @@ class WeightedInvertedIndex:
         success_count = 0
         for i, xml_file in enumerate(xml_files):
             if i % 100 == 0:
-                print(f"  Traitement article {i}/{len(xml_files)}...")
+                print(f"\r  Traitement article {i}/{len(xml_files)}...", end="", flush=True)
             
             doc = INEXDocument(xml_file)
             if not doc.parse(self.use_lxml):
@@ -244,10 +248,10 @@ class WeightedInvertedIndex:
             
             # Utiliser extract_full_article_text() qui fait le nettoyage complet
             text = doc.extract_full_article_text()
-            
             if text and len(text) > 100:
                 doc_id = doc.doc_id
-                
+                self.doc_lengths_char[doc_id] = len(text)
+
                 if self._index_document_content(doc_id, text):
                     self.xml_cache_keys.add(doc_id)
                     
@@ -289,7 +293,7 @@ class WeightedInvertedIndex:
         
         for i, xml_file in enumerate(xml_files):
             if i % 50 == 0:
-                print(f"  Traitement fichier {i}/{len(xml_files)}...")
+                print(f"\r  Traitement fichier {i}/{len(xml_files)}...", end="", flush=True)
             
             doc = INEXDocument(xml_file)
             if not doc.parse(self.use_lxml):
@@ -305,6 +309,7 @@ class WeightedInvertedIndex:
                 metadata = {
                     'doc_id': elem_data['doc_id'],
                     'parent_doc_id': elem_data['doc_id'],
+                    'element_text_size': len(elem_text),
                     'element_id': elem_id,
                     'xml_path': elem_data.get('xml_path', elem_data.get('full_path', '/article[1]')),
                     'tag': elem_data['tag'],
@@ -411,6 +416,8 @@ class WeightedInvertedIndex:
         index.dictionary = defaultdict(dict, data['dictionary'])
         index.doc_ids = data['doc_ids']
         index.doc_lengths = data['doc_lengths']
+        index.doc_lengths_char = data['doc_lengths_char']
+        index.element_lengths_char = data['element_lengths_char']
         index.doc_count = data['doc_count']
         index.total_terms = data['total_terms']
         index.metadata_store = data['metadata_store']

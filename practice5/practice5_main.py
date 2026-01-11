@@ -152,8 +152,8 @@ def main():
     #exercice1()
     #exercice2()
     #exercice3()
-    #exercice4_phase1()
-    exercice5()
+    exercice4_test1()
+    #exercice5()
     #exercice6()
     #exercice5_phase1
     #exercice6_phase1()

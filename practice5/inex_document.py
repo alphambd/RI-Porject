@@ -43,7 +43,7 @@ class INEXDocument:
             self.doc_id = self._extract_doc_id()
             return True
         except Exception as e:
-            print(f"Erreur parsing {self.xml_path}: {e}")
+            #print(f"Erreur parsing {self.xml_path}: {e}")
             return False
     
     def _extract_doc_id(self) -> str:

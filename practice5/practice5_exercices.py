@@ -257,8 +257,8 @@ def exercice4_test1():
                 # Génération du run
                 print(f"Génération en cours...")
                 start_time = time.time()
-                
-                filename = generator.generate_fetch_browse_run_optimized(
+
+                filename = generator.generate_fetch_browse(
                     run_id=run_id,
                     xml_dir=XML_DIR,
                     queries=INEX_QUERIES,

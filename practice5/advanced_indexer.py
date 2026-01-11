@@ -227,8 +227,8 @@ class WeightedInvertedIndex:
         success_count = 0
         for i, xml_file in enumerate(xml_files):
             if i % 100 == 0:
-                print(f"  Traitement article {i}/{len(xml_files)}...")
-            
+                print(f"\r  Traitement article {i}/{len(xml_files)}...", end="", flush=True)
+
             doc = INEXDocument(xml_file)
             if not doc.parse(self.use_lxml):
                 continue
@@ -280,7 +280,7 @@ class WeightedInvertedIndex:
         
         for i, xml_file in enumerate(xml_files):
             if i % 50 == 0:
-                print(f"  Traitement fichier {i}/{len(xml_files)}...")
+                print(f"\r  Traitement fichier {i}/{len(xml_files)}...", end="", flush=True)
             
             doc = INEXDocument(xml_file)
             if not doc.parse(self.use_lxml):
@@ -297,6 +297,7 @@ class WeightedInvertedIndex:
                     'doc_id': elem_data['doc_id'],
                     'parent_doc_id': elem_data['doc_id'],
                     'element_id': elem_id,
+                    'element_char_size': len(elem_text),
                     'xml_path': elem_data.get('xml_path', elem_data.get('full_path', '/article[1]')),
                     'tag': elem_data['tag'],
                     'type': 'element',
