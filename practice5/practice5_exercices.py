@@ -173,14 +173,44 @@ def exercice2():
 # ==================== EXERCICE 3 ====================
 
 def exercice3():
-    # Initialisation
     run_gen = INEXRunGenerator(team_name="AlphaAnaClement")
-
-    run_gen.generate_exercise3_fetch_browse(
+    
+    # Configuration optimisée
+    fetch_config = {
+        'tokenization': 'basic',
+        'stemmer': 'nostem',
+        'stop_words': 'nostop'
+    }
+    
+    browse_config = {
+        'tokenization': 'basic',
+        'stemmer': 'nostem',
+        'stop_words': 'nostop',
+        'target_tags': ['bdy', 'sec', 'p']
+    }
+    
+    run_params = {
+        'top_articles': 1500,  # Augmenter pour plus de couverture
+        'max_elements': 1500,
+        'max_elements_per_article': 5,  # Prendre jusqu'à 2 éléments par article
+        'weighting_scheme': 'ltn',
+        'selection_strategy': 'optimal',  # Nouvelle stratégie
+        'avoid_overlaps': True,
+        'min_element_score': 0.00001,  # Très bas pour inclure plus d'éléments
+        'fallback_to_article': True
+    }
+    
+    filename = run_gen.generate_fetch_browse(
+        run_id="testXML_optimized",
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
-        with_article=True
+        fetch_config=fetch_config,
+        browse_config=browse_config,
+        run_params=run_params
     )
+    
+    return filename
+
 
 # ==================== EXERCICE 4 ====================
 
@@ -341,7 +371,7 @@ def exercice5():
     
     # Poids: titre plus important que corps
     field_weights = {
-        'title': 3.0,    
+        'title': 1.0,    
         'body': 1.0
     }
     
@@ -393,7 +423,7 @@ def exercice6():
     
     # Poids différents pour montrer l'impact
     field_weights = {
-        'title': 3.0,           # Très important
+        'title': 1.0, #3.0,           # Très important
         'body': 1.0,            # Standard
         #'first_section': 1.5    # Un peu plus important que le corps
     }
@@ -437,14 +467,7 @@ def exercice5_6_test1(algorithme="bm25fr"):
     print(f"Algorithme: {algorithme.upper()}")
     print(f"Paramètres fixes: k1=1.2, b=0.75, α_title=3, α_body=1")
     print("="*70)
-    
-    try:
-        from exercices_5_6_with_cache import generate_field_weighted_run_cached
-    except ImportError as e:
-        print(f"Module exercices_5_6_with_cache non disponible: {e}")
-        print("Exécutez d'abord le script pour générer les runs")
-        return None
-    
+        
     generator = INEXRunGenerator(team_name="AlphaAnaClement")
     
     # Paramètres à tester

@@ -6,7 +6,9 @@ from indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 
 from practice5_exercices import (exercice1, exercice2, exercice3,
-                                exercice4_test1, exercice5, exercice5_phase1, exercice6_phase1 )
+                                exercice4_test1, exercice5, exercice6, exercice5_phase1, exercice6_phase1 )
+
+# ==================== CONSTANTES ET CONFIGURATIONS ====================
 
 TEAM_NAME = "AlphaAnaClement"
 XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
@@ -26,12 +28,6 @@ INEX_QUERIES = {
 TARGET_DOC_ID = "23724"
 TARGET_TERM = "ranking"
 TEST_QUERY = "web ranking scoring algorithm"
-
-
-# ==================== CONSTANTES ET CONFIGURATIONS ====================
-
-TEAM_NAME = "AlphaAnaClement"
-XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
 
 # ==================== FONCTIONS UTILITAIRES COMMUNES ====================
 
@@ -151,9 +147,9 @@ def main():
 
     #exercice1()
     #exercice2()
-    #exercice3()
+    exercice3()
     #exercice4_phase1()
-    exercice5()
+    #exercice5()
     #exercice6()
     #exercice5_phase1
     #exercice6_phase1()

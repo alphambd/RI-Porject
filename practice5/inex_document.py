@@ -20,7 +20,6 @@ from unidecode import unidecode
 from porterstemmer import PorterStemmer
 from snowballstemmer import stem_word
 
-
 class INEXDocument:
     """Classe pour représenter un document INEX avec son arbre XML"""
     
@@ -70,15 +69,20 @@ class INEXDocument:
         # 3. Fallback: hash du chemin
         return hashlib.md5(self.xml_path.encode()).hexdigest()[:8]
     
+    """
     def get_inex_elements(self, target_tags: Set[str]) -> List[Dict]:
-        """
-        Extrait les éléments XML pertinents pour INEX avec des seuils optimisés
-        Deux méthodes disponibles : DOM (lxml) ou regex (fallback)
-        """
+        
+        #Extrait les éléments XML pertinents pour INEX avec des seuils optimisés
+        #Deux méthodes disponibles : DOM (lxml) ou regex (fallback)
+        
         if LXML_AVAILABLE:
             return self._get_elements_dom(target_tags)
         else:
             return self._get_elements_regex(target_tags)
+    """
+    def get_inex_elements(self, target_tags: Set[str]) -> List[Dict]:
+        """Alias pour get_all_elements_with_full_paths - plus simple"""
+        return self.get_all_elements_with_full_paths(target_tags)
 
     def _get_elements_dom(self, target_tags: Set[str]) -> List[Dict]:
         """Version DOM (lxml) pour extraction précise - CORRIGÉE"""
@@ -505,3 +509,56 @@ class INEXDocument:
         
         return cleaned
 
+    def get_all_elements_with_full_paths(self, target_tags: Set[str]) -> List[Dict]:
+        """
+        Extrait tous les éléments cibles avec leurs chemins XML complets.
+        """
+        elements = []
+        
+        def traverse(element, current_path_parts):
+            tag = element.tag
+            
+            # Obtenir l'index dans le parent
+            if element.getparent() is not None:
+                parent = element.getparent()
+                # Trouver tous les frères avec le même tag
+                siblings = [e for e in parent if e.tag == tag]
+                try:
+                    idx = siblings.index(element) + 1
+                except ValueError:
+                    idx = 1
+            else:
+                idx = 1
+            
+            # Ajouter ce niveau au chemin
+            current_path_parts = current_path_parts + [f"{tag}[{idx}]"]
+            full_path = '/' + '/'.join(current_path_parts)
+            
+            # Vérifier si c'est un tag cible
+            if tag in target_tags:
+                # Extraire tout le texte de l'élément
+                text = ' '.join(element.itertext()).strip()
+                
+                # NOUVEAU : Moins restrictif - seulement vérifier qu'il y a du texte
+                if text and len(text) > 5:  # Très bas seuil de 5 caractères
+                    element_data = {
+                        'elem_id': f"{self.doc_id}_{hash(full_path) % 1000000:06d}",
+                        'doc_id': self.doc_id,
+                        'tag': tag,
+                        'text': text,
+                        'xml_path': full_path,
+                        'full_path': full_path,
+                        'depth': len(current_path_parts),
+                        'text_length': len(text)
+                    }
+                    elements.append(element_data)
+            
+            # Continuer avec les enfants (pas de limite de profondeur)
+            for child in element:
+                traverse(child, current_path_parts.copy())
+        
+        # Démarrer la récursion
+        if self.root is not None:
+            traverse(self.root, [])
+        
+        return elements
