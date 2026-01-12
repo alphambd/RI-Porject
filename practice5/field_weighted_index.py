@@ -120,14 +120,28 @@ class FieldWeightedIndex:
         )
     
     def build_or_load_field_index(self, xml_dir: str, 
-                                 fields_config: Dict[str, List[str]],
-                                 field_weights: Dict[str, float],
-                                 config: Dict,
-                                 max_files: Optional[int] = None,
-                                 force_rebuild: bool = False) -> int:
+                                fields_config: Dict[str, List[str]],
+                                field_weights: Dict[str, float],
+                                config: Dict,
+                                max_files: Optional[int] = None,
+                                force_rebuild: bool = False) -> int:
         """
-        Construit OU charge depuis cache
+        Construit OU charge depuis cache un index avec pondération par champs.
+        
+        NOUVEAU : Support pour les champs répétables (sec, p, etc.) regroupés en un seul champ.
+        
+        Args:
+            xml_dir: Répertoire contenant les fichiers XML
+            fields_config: Configuration des champs {nom_champ: [liste_des_tags]}
+            field_weights: Poids pour chaque champ {nom_champ: poids}
+            config: Configuration du traitement (tokenization, stemmer, etc.)
+            max_files: Nombre maximum de fichiers à traiter
+            force_rebuild: Force la reconstruction même si le cache existe
+            
+        Returns:
+            Nombre de documents indexés
         """
+        
         # 1. Générer clé de cache
         cache_key = self._get_cache_key(xml_dir, fields_config, field_weights, config)
         
@@ -136,17 +150,27 @@ class FieldWeightedIndex:
             return len(self.doc_ids)
         
         # 3. Si cache manquant ou force_rebuild, construire
-        print("🔄 Construction de l'index (cache manquant)...")
+        print("🔄 Construction de l'index (cache manquant ou force_rebuild)...")
         self.configure(**config)
         self.field_weights = field_weights
         
+        # Initialiser le cache d'extraction de champs
+        self.field_extraction_cache = {}
+        
+        # Définir quels tags sont considérés comme "uniques" vs "répétables"
+        self.unique_tags = {'title', 'bdy'}  # Tags qui n'apparaissent qu'une fois
+        self.repeatable_tags = {'sec', 'p'}  # Tags qui peuvent apparaître plusieurs fois
+        
         start_time = time.time()
         xml_files = self._get_xml_files(xml_dir, max_files)
+        
+        print(f"Traitement de {len(xml_files)} fichiers XML...")
         
         for i, xml_file in enumerate(xml_files):
             if i % 100 == 0:
                 print(f"  Traitement {i}/{len(xml_files)}...")
             
+            # Parser le document XML
             doc = INEXDocument(xml_file)
             if not doc.parse():
                 continue
@@ -155,34 +179,57 @@ class FieldWeightedIndex:
             self.doc_ids.append(doc_id)
             self.doc_lengths[doc_id] = 0
             
+            # Initialiser le dictionnaire de TF pour ce document
             if doc_id not in self.field_tfs:
                 self.field_tfs[doc_id] = defaultdict(dict)
             
-            all_terms = []
+            all_terms = []  # Pour calculer la longueur totale du document
             
+            # Pour chaque champ configuré
             for field_name, target_tags in fields_config.items():
-                main_tag = target_tags[0]
-                field_text = self._extract_field_simple(doc, main_tag)
+                field_texts = []
+                
+                # Traiter chaque tag associé à ce champ
+                for tag in target_tags:
+                    # Choisir la méthode d'extraction selon le type de tag
+                    if tag in self.unique_tags:
+                        # Tag unique (apparaît une seule fois)
+                        text = self._extract_field_simple(doc, tag)
+                    else:
+                        # Tag répétable (doit être regroupé)
+                        text = self._extract_field_repeatable(doc, tag)
+                    
+                    if text and text.strip():
+                        field_texts.append(text.strip())
+                
+                # Concaténer tous les textes extraits pour ce champ
+                field_text = ' '.join(field_texts) if field_texts else ""
                 
                 if field_text:
+                    # Tokenization et processing
                     tokens = self.index.apply_tokenization(field_text)
                     terms = self.index.process_tokens(tokens)
                     
                     if terms:
+                        # Calculer les fréquences des termes pour ce champ
                         term_counts = Counter(terms)
                         for term, tf in term_counts.items():
                             self.field_tfs[doc_id][field_name][term] = float(tf)
+                        
+                        # Ajouter les termes à la liste globale pour ce document
                         all_terms.extend(terms)
             
+            # Mettre à jour la longueur totale du document
             self.doc_lengths[doc_id] = len(all_terms)
             
+            # Mettre à jour l'index global (pour les calculs d'IDF)
             for term in set(all_terms):
                 count = all_terms.count(term)
                 if doc_id not in self.index.dictionary[term]:
                     self.index.dictionary[term][doc_id] = 0
-                self.index.dictionary[term][doc_id] = count
+                self.index.dictionary[term][doc_id] += count
         
-        # Finaliser
+        # Finaliser les statistiques de l'index
         self.index.doc_ids = self.doc_ids
         self.index.doc_lengths = self.doc_lengths
         self.index.doc_count = len(self.doc_ids)
@@ -191,46 +238,23 @@ class FieldWeightedIndex:
         if self.index.doc_count > 0:
             self.index.avg_doc_length = self.index.total_terms / self.index.doc_count
         
-        # Calculer df
+        # Calculer les DF (document frequency) pour chaque terme
         for term, doc_dict in self.index.dictionary.items():
             self.df[term] = len(doc_dict)
         
-        # Calculer statistiques par champ (pour BM25Fw)
+        # Calculer les statistiques par champ (nécessaires pour BM25Fw)
         self._compute_field_stats()
         
         indexing_time = time.time() - start_time
-        print(f" Index construit en {indexing_time:.2f}s: {len(self.doc_ids)} documents")
+        print(f"✅ Index construit en {indexing_time:.2f}s: {len(self.doc_ids)} documents")
+        print(f"   Champs configurés: {list(fields_config.keys())}")
+        print(f"   Longueur moyenne des documents: {self.index.avg_doc_length:.1f} termes")
         
         # 4. Sauvegarder dans le cache
         self._save_to_cache(cache_key)
         
         return len(self.doc_ids)
-    
-    def _compute_field_stats(self):
-        """Pré-calcule les statistiques par champ (pour cache)"""
-        for field_name in self.field_weights.keys():
-            total_field_length = 0
-            field_doc_count = 0
-            field_dfs = defaultdict(int)
-            
-            for doc_id in self.doc_ids:
-                if field_name in self.field_tfs[doc_id]:
-                    field_tf_dict = self.field_tfs[doc_id][field_name]
-                    field_length = sum(field_tf_dict.values())
-                    total_field_length += field_length
-                    field_doc_count += 1
-                    
-                    for term in field_tf_dict.keys():
-                        field_dfs[term] += 1
-            
-            avg_field_length = total_field_length / field_doc_count if field_doc_count > 0 else 1
-            
-            self.field_stats[field_name] = {
-                'avg_length': avg_field_length,
-                'doc_count': field_doc_count,
-                'dfs': dict(field_dfs)
-            }
-    
+
     # Cache pour les résultats de recherche
     def _get_search_cache_key(self, query: str, method: str, 
                             k1: float, b: float) -> str:
@@ -303,6 +327,95 @@ class FieldWeightedIndex:
         
         return xml_files
     
+    def _extract_field_repeatable(self, doc: INEXDocument, target_tag: str) -> str:
+        """
+        Extrait et regroupe TOUS les éléments d'une balise répétable.
+        Exemple: tous les <p> ou tous les <sec> sont concaténés en un seul texte.
+        """
+        if doc.root is None:
+            return ""
+        
+        all_texts = []
+        
+        def collect_elements(elem, tag):
+            # Vérifier si cet élément est celui recherché
+            elem_tag = doc._clean_tag(elem.tag)
+            if elem_tag == tag:
+                # Collecter le texte de cet élément
+                text_parts = []
+                try:
+                    # Méthode lxml
+                    for t in elem.itertext():
+                        if t and t.strip():
+                            text_parts.append(t.strip())
+                except AttributeError:
+                    # Fallback pour ElementTree
+                    text = (elem.text or "").strip()
+                    for child in elem:
+                        if child.text:
+                            text += " " + child.text.strip()
+                        if child.tail:
+                            text += " " + child.tail.strip()
+                    text_parts.append(text)
+                
+                if text_parts:
+                    all_texts.append(' '.join(text_parts))
+            
+            # Explorer récursivement les enfants
+            for child in elem:
+                if child is not None:
+                    collect_elements(child, tag)
+        
+        # Collecter tous les éléments de ce tag
+        collect_elements(doc.root, target_tag)
+        
+        # Concaténer tous les textes collectés
+        return ' '.join(all_texts)
+
+
+    def _compute_field_stats(self):
+        """Pré-calcule les statistiques par champ (pour BM25Fw)"""
+        print("Calcul des statistiques par champ...")
+        
+        for field_name in self.field_weights.keys():
+            total_field_length = 0
+            field_doc_count = 0
+            field_dfs = defaultdict(int)
+            
+            for doc_id in self.doc_ids:
+                if field_name in self.field_tfs[doc_id]:
+                    field_tf_dict = self.field_tfs[doc_id][field_name]
+                    field_length = sum(field_tf_dict.values())
+                    total_field_length += field_length
+                    field_doc_count += 1
+                    
+                    # Compter les df spécifiques à ce champ
+                    for term in field_tf_dict.keys():
+                        field_dfs[term] += 1
+            
+            avg_field_length = total_field_length / field_doc_count if field_doc_count > 0 else 1
+            
+            self.field_stats[field_name] = {
+                'avg_length': avg_field_length,
+                'doc_count': field_doc_count,
+                'dfs': dict(field_dfs)
+            }
+            
+            print(f"  {field_name}: {field_doc_count} docs, avg_len={avg_field_length:.1f}")
+
+    def _extract_cached_field(self, doc: INEXDocument, field_config: Dict) -> str:
+        """Version avec cache local pour l'extraction de champs"""
+        cache_key = f"{doc.doc_id}_{str(field_config)}"
+        
+        if cache_key in self.field_extraction_cache:
+            return self.field_extraction_cache[cache_key]
+        
+        # Extraction normale
+        result = self._extract_field_with_logic(doc, field_config)
+        self.field_extraction_cache[cache_key] = result
+        
+        return result
+
     # ==================== BM25Fw ====================
     
     def search_bm25fw(self, query: str, k1: float = 1.2, b: float = 0.75) -> List[Tuple[str, float]]:
@@ -436,6 +549,59 @@ class FieldWeightedIndex:
         
         return results
     
+    def search_bm25fw_simple(self, query: str, k1: float = 1.2, b: float = 0.75):
+        """Version SIMPLIFIÉE de BM25Fw"""
+        # Traiter la requête
+        tokens = self.index.apply_tokenization(query)
+        query_terms = self.index.process_tokens(tokens)
+        
+        if not query_terms:
+            return []
+        
+        doc_scores = {}
+        
+        # Pour chaque document
+        for doc_id in self.doc_ids:
+            total_score = 0.0
+            
+            # Pour chaque champ
+            for field_name, weight in self.field_weights.items():
+                field_tf_dict = self.field_tfs[doc_id].get(field_name, {})
+                
+                if not field_tf_dict:
+                    continue
+                
+                # Calculer la longueur du champ
+                field_length = sum(field_tf_dict.values())
+                
+                # Calculer avg_field_length
+                field_stat = self.field_stats[field_name]
+                avg_field_length = field_stat['avg_length']
+                
+                # Score pour ce champ
+                field_score = 0.0
+                
+                for term in query_terms:
+                    tf = field_tf_dict.get(term, 0)
+                    if tf > 0:
+                        # IDF global
+                        df = self.df.get(term, 0)
+                        if df > 0:
+                            idf = math.log((self.index.doc_count - df + 0.5) / (df + 0.5))
+                            
+                            # Composante TF
+                            tf_comp = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (field_length / avg_field_length)))
+                            
+                            field_score += idf * tf_comp
+                
+                total_score += weight * field_score
+            
+            if total_score > 0:
+                doc_scores[doc_id] = total_score
+        
+        # Trier
+        return sorted(doc_scores.items(), key=lambda x: -x[1])[:1500]
+
     # ==================== BM25Fr ====================
     
     def search_bm25fr(self, query: str, k1: float = 1.2, b: float = 0.75) -> List[Tuple[str, float]]:
@@ -517,7 +683,7 @@ class FieldWeightedIndex:
     
     def search_bm25fr_optimized(self, query: str, k1: float = 1.2, b: float = 0.75) -> List[Tuple[str, float]]:
         """
-        BM25Fr ULTRA OPTIMISÉ : Early combination
+        BM25Fr OPTIMISÉ : Early combination (Robertson94) avec champs regroupés
         """
         # Traiter la requête
         tokens = self.index.apply_tokenization(query)
@@ -526,26 +692,24 @@ class FieldWeightedIndex:
         if not query_terms:
             return []
         
-        # OPTIMISATION 1: Filtrer les termes qui existent dans la collection
+        # OPTIMISATION: Filtrer les termes qui existent dans la collection
         valid_terms = [term for term in query_terms if term in self.df]
         if not valid_terms:
             return []
         
-        # OPTIMISATION 2: Précalculer l'IDF pour chaque terme
+        # OPTIMISATION: Précalculer l'IDF pour chaque terme
         idf_cache = {}
         for term in valid_terms:
             df = self.df[term]
             idf_cache[term] = math.log((self.index.doc_count - df + 0.5) / (df + 0.5))
         
-        # OPTIMISATION 3: Documents qui contiennent au moins un terme
+        # OPTIMISATION: Documents qui contiennent au moins un terme
         relevant_docs = set()
         for term in valid_terms:
             if term in self.index.dictionary:
                 relevant_docs.update(self.index.dictionary[term].keys())
         
-        print(f"  Documents pertinents: {len(relevant_docs)}/{len(self.doc_ids)}")
-        
-        # OPTIMISATION 4: Batch processing
+        # OPTIMISATION: Traitement par batch
         batch_size = 500
         doc_scores = {}
         
@@ -554,42 +718,50 @@ class FieldWeightedIndex:
             batch = doc_list[i:min(i+batch_size, len(doc_list))]
             
             for doc_id in batch:
-                combined_tf = 0.0
-                total_tf_star = 0.0
+                total_score = 0.0
                 
-                # Pour chaque terme
+                # Pour chaque terme valide
                 for term in valid_terms:
+                    # Étape de COMBINAISON PRÉCOCE : calculer tf* pondéré
                     tf_star = 0.0
-                    # Combiner les TF pondérés
+                    
+                    # NOUVEAU : Utiliser TOUS les champs configurés
                     for field_name, weight in self.field_weights.items():
                         field_tf_dict = self.field_tfs.get(doc_id, {}).get(field_name, {})
                         tf_in_field = field_tf_dict.get(term, 0)
                         tf_star += weight * tf_in_field
                     
                     if tf_star > 0:
-                        combined_tf += tf_star
-                        
-                        # BM25 partiel
+                        # Calculer BM25 avec tf_star combiné
                         idf = idf_cache[term]
-                        tf_component = (tf_star * (k1 + 1)) / (tf_star + k1 * (1 - b + b * (self.doc_lengths[doc_id] / self.index.avg_doc_length)))
-                        total_tf_star += idf * tf_component
+                        
+                        # Protection contre division par zéro
+                        doc_length = self.doc_lengths.get(doc_id, 1)
+                        if self.index.avg_doc_length <= 0:
+                            self.index.avg_doc_length = 1.0
+                        
+                        length_ratio = doc_length / self.index.avg_doc_length
+                        denominator = tf_star + k1 * (1 - b + b * length_ratio)
+                        
+                        if denominator > 0:
+                            tf_component = (tf_star * (k1 + 1)) / denominator
+                            total_score += idf * tf_component
                 
-                if total_tf_star > 0:
-                    doc_scores[doc_id] = total_tf_star
+                if total_score > 0:
+                    doc_scores[doc_id] = total_score
         
-        # OPTIMISATION 5: Si besoin, ajouter des documents avec score minimal
+        # OPTIMISATION: Si besoin, ajouter des documents avec score minimal
         if len(doc_scores) < 1500:
             needed = 1500 - len(doc_scores)
             other_docs = [d for d in self.doc_ids if d not in doc_scores]
             
-            # Prendre les premiers autres documents
             for doc_id in other_docs[:needed]:
                 doc_scores[doc_id] = 0.00001
         
         # Trier
         sorted_results = sorted(doc_scores.items(), key=lambda x: -x[1])
         return sorted_results[:1500]
-    
+
     def search_bm25fr_cached(self, query: str, k1: float = 1.2, b: float = 0.75) -> List[Tuple[str, float]]:
         """BM25Fr avec cache des résultats"""
         cache_key = self._get_search_cache_key(query, "bm25fr", k1, b)
@@ -629,9 +801,9 @@ def generate_field_weighted_run_cached(generator, run_id: str, run_type: str,
     
     # Configuration
     if fields_config is None:
-        fields_config = {'title': ['title'], 'body': ['bdy']}
+        fields_config = {'title': ['title'], 'body': ['bdy'], 'sections': ['sec']}
     if field_weights is None:
-        field_weights = {'title': 3.0, 'body': 1.0}
+        field_weights = {'title': 1.0, 'body': 1.0, 'sections': 1.0}
     
     # Créer l'index AVEC CACHE
     field_index = FieldWeightedIndex(cache_dir="data/cache/field_weighted")

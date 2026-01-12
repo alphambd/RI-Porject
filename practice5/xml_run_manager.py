@@ -92,6 +92,7 @@ class INEXRunGenerator:
                 element_details[elem_id] = {
                     'xml_path': metadata.get('xml_path', '/article[1]'),
                     'tag': metadata.get('tag', 'unknown'),
+                    'element_text_size':metadata.get('element_text_size', 0),
                     'parent_id': parent_id
                 }
 
@@ -431,7 +432,8 @@ class INEXRunGenerator:
                                     'article_id': article_id,
                                     'xml_path': elem['xml_path'],
                                     'score': elem['score'],
-                                    'tag': elem['tag']
+                                    'tag': elem['tag'],
+                                    'element_text_size': element_details[elem['element_id']]['element_text_size'],
                                 })
                     
                     # Fallback: article entier si besoin
@@ -464,12 +466,29 @@ class INEXRunGenerator:
                 
                 # 4. ÉCRIRE TOUS LES ÉLÉMENTS D'UN ARTICLE ENSEMBLE
                 rank = 1
+                character_total_doc = 0
+                character_total_element = 0
+                depth_total_element = 0
+                total_element = 0
+                total_article = 0
                 for article_id, elements in sorted_articles:
                     # À l'intérieur d'un article, trier par chemin XML (ordre document)
                     elements.sort(key=lambda x: self._get_xpath_indices(x['xml_path']))
+
+                    total_article += 1
+                    character_total_doc += fetch_index.doc_lengths_char[article_id]
                     
                     for elem in elements:
                         xml_path = self._normalize_xml_path_for_output(elem['xml_path'])
+
+                        # Compter les caractères (élément vs document)
+                        if (elem['tag'] != 'article'):
+                            character_total_element+=elem['element_text_size']
+                        else:
+                            character_total_element += fetch_index.doc_lengths_char[article_id]
+                        total_element += 1
+                        depth_total_element += xml_path.count('/')
+
                         f.write(f"{query_id} Q0 {article_id} {rank} "
                                 f"{elem['score']:.6f} {self.team_name} {xml_path}\n")
                         rank += 1
@@ -489,6 +508,9 @@ class INEXRunGenerator:
                 }
                 
                 print(f"  BROWSE: {articles_with_elements} articles avec éléments")
+                print(f"  RATE TARGET: {round(character_total_element/character_total_doc*100,2)}% ")
+                print(f"  AVERAGE DEPTH: {round(depth_total_element/total_element,2)} depth")
+                print(f"  ARTICLE COUNT: {total_article} articles")
                 print(f"  RÉSULTATS: {len(final_elements)} éléments")
                 print(f"  Temps: {query_time:.2f}s")
         
