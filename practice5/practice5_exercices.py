@@ -4,7 +4,7 @@ from typing import Dict, List, Optional
 from xml_run_manager import INEXRunGenerator
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
-from field_weighted_index import generate_field_weighted_run_cached
+#from field_weighted_index import generate_field_weighted_run_cached
 
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
@@ -504,7 +504,7 @@ def exercice5():
             'b': b_rounded,  # Valeur arrondie pour éviter les imprécisions
             'max_files': None  # Traite tous les fichiers
         }
-
+        """
         # Génération de la run (avec cache pour accélérer les runs suivantes)
         filename = generate_field_weighted_run_cached(
             generator=generator,
@@ -521,6 +521,7 @@ def exercice5():
         print(f"  Run générée: {filename} (k1={k1_rounded:.3f}, b={b_rounded:.3f})")
         all_filenames.append(filename)
         return filename
+        """
 
     # ==================== DÉBUT DE L'OPTIMISATION ====================
     print("=== Début de l'optimisation par Gradient Descent  ===\n")
@@ -661,7 +662,7 @@ def exercice6():
             'b': b_rounded,  # Valeur arrondie
             'max_files': None
         }
-
+        """
         filename = generate_field_weighted_run_cached(
             generator=generator,
             run_id=run_id,
@@ -679,7 +680,7 @@ def exercice6():
               f"title={field_weights['title']:.1f}, body={field_weights['body']:.1f}")
         all_filenames.append(filename)
         return filename
-
+        """
     print("=== Début de l'optimisation pour BM25Fr (Early Combination) ===\n")
 
     # 1. Point initial (baseline) - valeurs de l'exercice original
@@ -896,6 +897,7 @@ def exercice5_6_test1(algorithme="bm25fr"):
                 start_time = time.time()
 
                 try:
+                    """
                     # Génération de la run
                     filename = generate_field_weighted_run_cached(
                         generator=generator,
@@ -908,6 +910,7 @@ def exercice5_6_test1(algorithme="bm25fr"):
                         fields_config=fields_config,
                         field_weights=field_weights
                     )
+                    
 
                     generation_time = time.time() - start_time
 
@@ -936,7 +939,7 @@ def exercice5_6_test1(algorithme="bm25fr"):
                     results.append(result_entry)
                     print(f"✓ Run générée: {os.path.basename(filename)}")
                     print(f"  Lignes: {line_count}, Temps: {generation_time:.1f}s")
-
+                    """
                 except Exception as e:
                     print(f"✗ Erreur: {e}")
 

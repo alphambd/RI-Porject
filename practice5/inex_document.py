@@ -311,7 +311,12 @@ class INEXDocument:
         
         entity_map = {
             '&nbsp;': ' ', '&amp;': '&', '&apos;': "'", '&quot;': '"',
-            '&lt;': '<', '&gt;': '>', '&ndash;': '–', '&mdash;': '—'
+            '&lt;': '<', '&gt;': '>', '&ndash;': '–', '&mdash;': '—',
+            '&hellip;': '...', '&middot;': '·', '&bull;': '•',
+            '&ldquo;': '"', '&rdquo;': '"', '&lsquo;': "'", '&rsquo;': "'",
+            '&laquo;': '"', '&raquo;': '"', '&ensp;': ' ', '&emsp;': '    ',
+            '&thinsp;': ' ', '&zwnj;': '', '&zwj;': '', '&lrm;': '', '&rlm;': '',
+            '&lsaquo;': '‹', '&rsaquo;': '›'
         }
         
         for entity, replacement in entity_map.items():
