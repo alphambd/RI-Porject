@@ -15,26 +15,17 @@ LES RUNS RENDU :
   EXERCICE 1 : 
   * 1 run comme demandé;
 
-  EXERCICE 2 : (avec _test2_)
-  * 27 runs rendus, dont : 
-      - 12 * 2 (tautologie par erreur) runs demandés mais dont les configurations "stop671 et porter" 
-        renvoyaient 9122 < 10500 lignes.
-      - 3 runs corrigeant le nombre de lignes à 10500 des configurations "stop671 et porter" 
-        (1 pour chacun : ltn, ltc et bm25). 
-
   EXERCICE 3 : (avec _testXML_)
-  * 3 runs, dont : 
-      1 qui est correct : 1_testXML_lnt_element-bdy-sec-p_nostop_nostem
-      2 autre pour test des small_err_nodes
-
-  EXERCICE 4 : 
-    8 runs de test.
+  * On a obtenu des résultats correct MAgP à 0.1813, dont on utilisera pour l'optimisation
 
   EXERCICE 5 et 6 :(avec _bm25fw_title-bdy ou _bm25fr_title-bdy)
-  * 2 runs pour chacun = 4, dont : 
-      - 1 avec avec la configuration : stop671 et porter
-      - 1 autre avec la configuration : nostop et nostem.
-  * 8 runs de tests, dont 4 pour chacun.
+  * On a des MAgP améliorer mais toujours < 0.2, à améliorer.
+
+  CALCUL DES INDICATEURS : 
+  Effectué avec le résultat suivant pour l'EXERCICE 3
+  * RATE TARGET: 109.22% 
+  * AVERAGE DEPTH: 4.6 depth
+  * ARTICLE COUNT: 1497 articles
 
 
 
@@ -187,4 +178,4 @@ Run généré :
 EXERCICE 5 et 6 : 
 =============================================================
 
-fieds : title, bdy 
+fieds : title, bdy, sec

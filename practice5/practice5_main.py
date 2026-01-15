@@ -7,7 +7,7 @@ from ranked_retrieval import RankedRetrieval
 
 from practice5_exercices import (exercice1, exercice2, exercice3 ) #, exercice4_test1, exercice5, exercice6, exercice5_phase1, exercice6_phase1)
 
-from bm25_exercices import test_basic, exercice5, exercice6, exercice5_fixed, exercice6_fixed, exercice5_run, exercice6_run
+from bm25_exercices import exercice5, exercice6, exercice5_run, exercice6_run
 
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
@@ -63,21 +63,13 @@ def main():
     # Décomenter pour tester les exercices
 
     #exercice1()
-    exercice2()
-    #exercice3()
-    #exercice4_phase1()
+    #exercice2()
+    exercice3()
     #exercice5()
     #exercice6()
-    #exercice5_phase1()
-    #exercice6_phase1()
-    
-    #exercice5_optimized()
-    #exercice6_optimized()
-    #exercice5_fixed()
-    #exercice6_fixed()
 
-    exercice5_run()
-    exercice6_run()
+    #exercice5_run()
+    #exercice6_run()
     
 
 if __name__ == "__main__":
