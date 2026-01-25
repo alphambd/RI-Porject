@@ -8,6 +8,8 @@ from tokenize import String
 from typing import List, Dict, Set, Optional, Union
 import unicodedata
 import html
+
+from matplotlib import text
 from inex_document import INEXDocument
 
 # IMPORT LXML pour parsing XML correct (optionnel)
@@ -111,8 +113,17 @@ class WeightedInvertedIndex:
     # Méthodes de tokenization
     def _tokenize_basic(self, text):
         """Tokenization basique: seulement lettres"""
-        text = re.sub(r'[^A-Za-z\s]', ' ', text)
-        return [t for t in text.split() if len(t) > 0]
+        #text = re.sub(r'[^A-Za-z\s]', ' ', text)
+        #return [t for t in text.split() if len(t) > 0]
+
+        """
+        Extraction des tokens bruts du texte.
+        Retire ponctuation et chiffres si nécessaire.
+        """
+        # Extraire directement les séquences de lettres
+        tokens = re.findall(r'[a-zA-Z]+', text)
+        
+        return tokens
     
     def _tokenize_extended(self, text):
         """Tokenization étendue: lettres et chiffres"""
