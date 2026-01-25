@@ -8,7 +8,8 @@ from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 #from field_weighted_index import generate_field_weighted_run_cached
 from field_weighted_index import FieldWeightedIndex
-from field_weighted_index import generate_field_weighted_run_simple, generate_field_weighted_run, generate_field_weighted_run_with_rest
+from field_weighted_index import generate_field_weighted_run_simple, generate_field_weighted_run_with_rest
+from new_field_weighted_index import generate_field_weighted_run
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
 TEAM_NAME = "AlphaAnaClement"
@@ -123,58 +124,6 @@ def display_statistics(stats_data: Dict, config_desc: str):
         print(f"  {i:2d}. Doc {doc_id}: {score:.6f}")
 
 # ==================== EXERCICE 5 ====================
-"""
-def exercice5_optimized():
-    #Exercice 5 optimisé avec champs multiples et regroupés
-    print_exercise_header(5, "BM25Fw optimisé - Champs multiples")
-    
-    config = {
-        'tokenization': 'basic',
-        'stemmer': 'nostem',
-        'stop_words': 'nostop'
-    }
-    
-    # Configuration flexible des champs
-    fields_config = {
-        'title': ['title'],      # Champ unique
-        'body': ['bdy'],         # Champ unique  
-        'sections': ['sec'],     # TOUTES les sections regroupées en un seul champ
-        #'paragraphs': ['p'],     # TOUS les paragraphes regroupés en un seul champ
-        # Vous pouvez ajouter d'autres champs :
-        # 'captions': ['caption'],
-        # 'links': ['link']
-    }
-    
-    # Poids à optimiser (vous pouvez tester différentes valeurs)
-    field_weights = {
-        'title': 1.0,      # Titre très important
-        'body': 1.0,       # Corps du document
-        'sections': 1.0   # Sections regroupées
-        #'paragraphs': 1.0  # Paragraphes regroupés
-    }
-    
-    run_params = {
-        'k1': 1.2,
-        'b': 0.75,
-        'max_files': None
-    }
-    
-    generator = INEXRunGenerator()
-    
-    filename = generate_field_weighted_run_cached(
-        generator=generator,
-        run_id="test5_optimized",
-        run_type="bm25fw",
-        xml_dir=XML_DIR,
-        queries=INEX_QUERIES,
-        config=config,
-        run_params=run_params,
-        fields_config=fields_config,
-        field_weights=field_weights
-    )
-    
-    return filename
-"""
 
 def exercice5():
     """Exercice 5: BM25Fw - Pondération par champs (combinaison tardive)"""
@@ -227,43 +176,6 @@ def exercice5():
     
     return filename
 
-def exercice5_run():
-    """Génère un run BM25Fw pondéré par champs"""
-    print_exercise_header(5, "BM25Fw - Pondération par champs")
-    
-    config = {
-        'tokenization': 'basic',
-        'stemmer': 'porter',
-        'stop_words': 'stop671'
-    }
-    fields_config = {
-        'title': ['title'],
-        'bdy': ['bdy'],
-        'sec': ['sec'],
-        #'p': ['p'],
-    }
-    field_weights = {
-        'title': 1.0,
-        'bdy': 1.0,
-        'sec': 1.0,
-        #'p': 1.0
-    }
-    run_params = {
-        'k1': 1.2,
-        'b': 0.6,
-        'max_files': None
-    }
-    filename = generate_field_weighted_run(
-        run_id="5",
-        run_type="bm25fw",
-        xml_dir=XML_DIR,
-        queries=INEX_QUERIES,
-        config=config,
-        run_params=run_params,
-        fields_config=fields_config,
-        field_weights=field_weights
-    )
-    return filename
 
 def exercice5_rest():
     """Exercice 5 avec option 'rest'"""
@@ -430,26 +342,23 @@ def exercice5_simple_with_rest():
     fields_config = {
         'title': ['title'],
         'bdy': ['bdy'],
-        #sec': ['sec'],
-        #'p': ['p'],
-        #'rest': ['__REST__']  # Champ pour tout le reste
+        'sec': ['sec'],
+        'rest': ['__REST__']  # Champ pour tout le reste
     }
     
     field_weights = {
         'title': 1.0,
         'bdy': 1.0,
-        #'sec': 1.0,
-        #'p': 1.0,
-        #'rest': 1.0  # Poids égal à 1 pour commencer
+        'sec': 1.0,
+        'rest': 1.0  # Poids égal à 1 pour commencer
     }
     
     run_params = {
         'k1': 1.2,
-        'b': 0.6 #0.75
+        'b': 0.75
     }
     
-    #filename = generate_field_weighted_run_simple(
-    filename = generate_field_weighted_run_with_rest(
+    filename = generate_field_weighted_run_simple(
         run_id="5_simple_rest",
         run_type="bm25fw",
         xml_dir=XML_DIR,
@@ -473,26 +382,23 @@ def exercice6_simple_with_rest():
     fields_config = {
         'title': ['title'],
         'bdy': ['bdy'],
-        #'sec': ['sec'],
-        #'p': ['p'],
-        #'rest': ['__REST__']
+        'sec': ['sec'],
+        'rest': ['__REST__']
     }
     
     field_weights = {
         'title': 1.0,
         'bdy': 1.0,
-        #'sec': 1.0,
-        #'p': 1.0,
-        #'rest': 1.0
+        'sec': 1.0,
+        'rest': 1.0
     }
     
     run_params = {
         'k1': 1.2,
-        'b': 0.6 #0.75
+        'b': 0.75
     }
     
-    #filename = generate_field_weighted_run_simple(
-    filename = generate_field_weighted_run_with_rest(
+    filename = generate_field_weighted_run_simple(
         run_id="6_simple_rest",
         run_type="bm25fr",
         xml_dir=XML_DIR,
@@ -557,33 +463,88 @@ def exercice6():
     
     return filename
 
-def exercice6_run():
-    """Génère un run BM25Fr pondéré par champs"""
-    print_exercise_header(6, "BM25Fr - Pondération par champs")
-    
+def exercice5_bm25fw():
+    """
+    Exercice 5 — BM25FW (Wilkinson, late combination)
+    avgdl UNWEIGHTED
+    """
+    print_exercise_header(5, "BM25FW — Late Combination (Wilkinson)")
+
     config = {
         'tokenization': 'basic',
         'stemmer': 'porter',
         'stop_words': 'stop671'
     }
+
     fields_config = {
         'title': ['title'],
         'bdy': ['bdy'],
         'sec': ['sec'],
-        #'p': ['p'],
+        'p': ['p'],
+        'rest': ['__REST__']
     }
+
     field_weights = {
         'title': 1.0,
         'bdy': 1.0,
         'sec': 1.0,
-        #'p': 1.0
+        'p': 1.0,
+        'rest': 1.0
     }
+
     run_params = {
         'k1': 1.2,
-        'b': 0.75,
+        'b': 0.6,
         'max_files': None
     }
-    filename = generate_field_weighted_run(
+
+    return generate_field_weighted_run(
+        run_id="5",
+        run_type="bm25fw",
+        xml_dir=XML_DIR,
+        queries=INEX_QUERIES,
+        config=config,
+        run_params=run_params,
+        fields_config=fields_config,
+        field_weights=field_weights
+    )
+
+def exercice6_bm25fr():
+    """
+    Exercice 6 — BM25FR (Robertson, early combination)
+    avgdl WEIGHTED
+    """
+    print_exercise_header(6, "BM25FR — Early Combination (Robertson)")
+
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    fields_config = {
+        'title': ['title'],
+        'bdy': ['bdy'],
+        'sec': ['sec'],
+        'p': ['p'],
+        'rest': ['__REST__']
+    }
+
+    field_weights = {
+        'title': 1.0,
+        'bdy': 1.0,
+        'sec': 1.0,
+        'p': 1.0,
+        'rest': 1.0
+    }
+
+    run_params = {
+        'k1': 1.2,
+        'b': 0.6,
+        'max_files': None
+    }
+
+    return generate_field_weighted_run(
         run_id="6",
         run_type="bm25fr",
         xml_dir=XML_DIR,
@@ -593,7 +554,6 @@ def exercice6_run():
         fields_config=fields_config,
         field_weights=field_weights
     )
-    return filename
 
 
 

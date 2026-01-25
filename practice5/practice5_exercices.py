@@ -4,7 +4,7 @@ from typing import Dict, List, Optional
 from xml_run_manager import INEXRunGenerator
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
-#from field_weighted_index import generate_field_weighted_run_cached
+from field_weighted_index import generate_field_weighted_run #, generate_field_weighted_run_cached
 
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
@@ -462,6 +462,8 @@ def exercice5():
     fields_config = {
         'title': ['title'],  # Champ titre extrait des balises <title>
         'body': ['bdy'],  # Champ corps extrait des balises <bdy>
+        'sec': ['sec'],  # Champ section extrait des balises <sec>
+        'p': ['p']  # Champ paragraphe extrait des balises <p>
     }
 
     # ==================== POIDS DES CHAMPS ====================
@@ -469,7 +471,9 @@ def exercice5():
     # Cela permet une comparaison équitable avec BM25Fr
     field_weights = {
         'title': 1.0,  # Poids égal pour le titre
-        'body': 1.0  # Poids égal pour le corps
+        'body': 1.0,  # Poids égal pour le corps
+        'sec': 1.0,  # Poids égal pour les sections
+        'p': 1.0  # Poids égal pour les paragraphes
     }
 
     # Initialisation du générateur de runs
@@ -504,10 +508,11 @@ def exercice5():
             'b': b_rounded,  # Valeur arrondie pour éviter les imprécisions
             'max_files': None  # Traite tous les fichiers
         }
-        """
+        
         # Génération de la run (avec cache pour accélérer les runs suivantes)
-        filename = generate_field_weighted_run_cached(
-            generator=generator,
+        #filename = generate_field_weighted_run_cached(
+        filename = generate_field_weighted_run(
+            #generator=generator,
             run_id=run_id,
             run_type="bm25fw",  # Type: BM25Fw (combinaison tardive)
             xml_dir=XML_DIR,
@@ -521,7 +526,7 @@ def exercice5():
         print(f"  Run générée: {filename} (k1={k1_rounded:.3f}, b={b_rounded:.3f})")
         all_filenames.append(filename)
         return filename
-        """
+        
 
     # ==================== DÉBUT DE L'OPTIMISATION ====================
     print("=== Début de l'optimisation par Gradient Descent  ===\n")
@@ -634,6 +639,8 @@ def exercice6():
     fields_config = {
         'title': ['title'],  # Contenu des balises <title>
         'body': ['bdy'],  # Contenu des balises <bdy>
+        'sec': ['sec'],  # Contenu des balises <sec>
+        'p': ['p']  # Contenu des balises <p>
     }
 
     # Poids égaux pour comparaison équitable avec BM25Fw (Exercice 5)
@@ -641,6 +648,8 @@ def exercice6():
     field_weights = {
         'title': 1.0,  # Poids égal
         'body': 1.0,  # Poids égal
+        'sec': 1.0,  # Poids égal pour les sections
+        'p': 1.0,  # Poids égal pour les paragraphes
     }
 
     generator = INEXRunGenerator()
@@ -662,9 +671,10 @@ def exercice6():
             'b': b_rounded,  # Valeur arrondie
             'max_files': None
         }
-        """
-        filename = generate_field_weighted_run_cached(
-            generator=generator,
+        
+        #filename = generate_field_weighted_run_cached(
+        filename = generate_field_weighted_run(
+            #generator=generator,
             run_id=run_id,
             run_type="bm25fr",
             xml_dir=XML_DIR,
@@ -680,7 +690,7 @@ def exercice6():
               f"title={field_weights['title']:.1f}, body={field_weights['body']:.1f}")
         all_filenames.append(filename)
         return filename
-        """
+        
     print("=== Début de l'optimisation pour BM25Fr (Early Combination) ===\n")
 
     # 1. Point initial (baseline) - valeurs de l'exercice original
@@ -899,8 +909,9 @@ def exercice5_6_test1(algorithme="bm25fr"):
                 try:
                     """
                     # Génération de la run
-                    filename = generate_field_weighted_run_cached(
-                        generator=generator,
+                    #filename = generate_field_weighted_run_cached(
+                    filename = generate_field_weighted_run(
+                        #generator=generator,
                         run_id=run_id,
                         run_type=algorithme,
                         xml_dir=XML_DIR,
