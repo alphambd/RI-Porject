@@ -128,8 +128,8 @@ def exercice1():
     # Configuration exercice 1
     config = {
         'tokenization': 'basic',
-        'stemmer': 'nostem',
-        'stop_words': 'nostop',
+        'stemmer': 'porter',
+        'stop_words': 'stop671',
         #'use_lxml': True
     }
     
@@ -184,7 +184,7 @@ def exercice2():
     generator = INEXRunGenerator()
     
     # Toutes les combinaisons
-    combinations = [
+    """combinations = [
         # (weighting, stop, stemmer, run_id)
         ("ltn", "nostop", "nostem", "test2"),
         ("ltn", "nostop", "porter", "test2"),
@@ -199,6 +199,10 @@ def exercice2():
         ("bm25", "nostop", "nostem", "test2"),
         ("bm25", "nostop", "porter", "test2"),
         ("bm25", "stop671", "nostem", "test2"),
+        ("bm25", "stop671", "porter", "test2"),
+    ]"""
+    
+    combinations = [
         ("bm25", "stop671", "porter", "test2"),
     ]
     
@@ -279,9 +283,9 @@ def exercice3():
         'max_elements': 1500,
         'max_elements_per_article': 5,  # Prendre jusqu'à 2 éléments par article
         'weighting_scheme': 'ltn',
-        'selection_strategy': 'optimal',  # Nouvelle stratégie
+        #'selection_strategy': 'optimal',  # Nouvelle stratégie
         'avoid_overlaps': True,
-        'min_element_score': 0.00001,  # Très bas pour inclure plus d'éléments
+        'min_element_score': 0.1,  # Très bas pour inclure plus d'éléments
         'fallback_to_article': True
     }
     
@@ -327,7 +331,7 @@ def exercice4_test1():
         'top_articles': 2000,
         'max_elements': 1500,
         'max_elements_per_article': 1,
-        'selection_strategy': 'hierarchical',
+        #'selection_strategy': 'hierarchical',
         'avoid_overlaps': True,
         'fallback_to_article': True,
         'min_element_score': 0.01

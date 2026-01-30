@@ -98,33 +98,7 @@ class INEXRunGenerator:
 
         return article_to_elements, element_details
 
-    def _extract_tag_from_xpath(self, xml_path: str) -> str:
-        """Extrait le tag principal d'un chemin XML."""
-        if '/p[' in xml_path:
-            return 'p'
-        elif '/sec[' in xml_path:
-            return 'sec'
-        elif '/bdy[' in xml_path:
-            return 'bdy'
-        elif xml_path.endswith('/article[1]') or xml_path == '/article[1]':
-            return 'article'
-        else:
-            return 'unknown'
-
-    def _normalize_xml_path(self, xml_path: str) -> str:
-        """Normalise un chemin XML pour le format INEX."""
-        if xml_path.startswith('/article['):
-            return xml_path
-
-        if '/article' in xml_path:
-            parts = xml_path.split('/article', 1)
-            return f"/article[1]{parts[-1]}"
-
-        if xml_path.startswith('/'):
-            return f"/article[1]{xml_path}"
-
-        return f"/article[1]/{xml_path}"
-
+    
     def _get_xpath_indices(self, xml_path: str) -> Tuple[int, ...]:
         """
         Extrait les indices d'un XPath pour tri par ordre document.
@@ -164,66 +138,53 @@ class INEXRunGenerator:
 
     # ==================== SÉLECTION D'ÉLÉMENTS ====================
 
-    def _score_elements_for_article(self, article_id: str, query_terms: List[str],
-                                    element_ids: List[str], element_details: Dict,
-                                    browse_ranker, weighting_scheme: str,
-                                    min_element_score: float = 0.0,
-                                    k1: float = 1.2, b: float = 0.75) -> List[Dict]:
-        """Calcule les scores des éléments pour une requête."""
+    def _score_elements_for_article(
+        self,
+        query_terms,
+        element_ids,
+        element_details,
+        browse_ranker,
+        weighting_scheme,
+        min_element_score,
+        k1 = 1.2,
+        b = 0.75
+    ):
         scored_elements = []
-        
+
         for elem_id in element_ids:
-            elem_info = element_details.get(elem_id, {})
-            xml_path = elem_info.get('xml_path', '/article[1]')
-            tag = self._extract_tag_from_xpath(xml_path)
-            
-            # Calculer le score
+            elem_info = element_details[elem_id]
+            xml_path = elem_info['xml_path']
+            tag = elem_info['tag']
+
             score = 0.0
             for term in query_terms:
-                weight = browse_ranker.get_term_weight(
-                    term, elem_id,
+                score += browse_ranker.get_term_weight(
+                    term,
+                    elem_id,
                     weighting_scheme=weighting_scheme,
                     k1=k1 if weighting_scheme == 'bm25' else None,
                     b=b if weighting_scheme == 'bm25' else None
-                )
-                if weight:
-                    score += weight
-            
-            # IMPORTANT: Bonus différentiel selon le tag
-            # Les éléments plus spécifiques (p) devraient avoir un petit avantage
-            tag_bonus = {
-                'p': 1, #1.2,    # +20% pour les paragraphes
-                'sec': 1, #1.1,  # +10% pour les sections
-                'bdy': 1.0, #,  # Pas de bonus pour les body
-                'article': 1 #0.9  # Petit malus pour les articles entiers
-            }
-            
-            score *= tag_bonus.get(tag, 1.0)
-            
-            # Bonus supplémentaire pour la profondeur (spécificité)
-            depth = xml_path.count('/')
-            if depth > 3:  # Plus profond que /article[1]/bdy[1]
-                score *= (1.0 + (depth - 3) * 0.05)  # +5% par niveau
-            
+                ) or 0.0
+
             if score >= min_element_score:
                 scored_elements.append({
                     'element_id': elem_id,
                     'score': score,
                     'tag': tag,
-                    'xml_path': xml_path,
-                    'depth': depth,
-                    'text_length': elem_info.get('text_length', 0)
+                    'xml_path': xml_path
                 })
-        
+
         return scored_elements
 
+
+    """
     def _select_best_elements_by_score(self, elements: List[Dict],
                                     max_elements_per_article: int = 2,
                                     avoid_overlaps: bool = True) -> List[Dict]:
-        """
-        Sélectionne les éléments avec les meilleurs scores,
-        en évitant les chevauchements.
-        """
+        
+        #Sélectionne les éléments avec les meilleurs scores,
+        #en évitant les chevauchements.
+        
         if not elements:
             return []
         
@@ -256,7 +217,7 @@ class INEXRunGenerator:
             taken_paths.add(xml_path)
         
         return selected
-
+    """
     def _extract_tag_from_xpath(self, xml_path: str) -> str:
         """Extrait le tag final d'un chemin XML."""
         if not xml_path or xml_path == '/article[1]':
@@ -295,34 +256,86 @@ class INEXRunGenerator:
         
         return xml_path
 
-    def _select_optimal_elements(self, elements: List[Dict],
-                                 max_elements_per_article: int = 1,
-                                 avoid_overlaps: bool = True) -> List[Dict]:
+    """
+    def select_most_specific_elements(self, elements: List[Dict]) -> List[Dict]:
+        
+        #Pour chaque groupe d'éléments chevauchants,
+        #conserve uniquement l'élément le plus spécifique (le plus profond).
+        
+        if not elements:
+            return []
+
+        # Trier par profondeur décroissante (le plus spécifique d'abord)
+        elements.sort(key=lambda x: x['xml_path'].count('/'), reverse=True)
+
+        selected = []
+        selected_paths = []
+
+        for elem in elements:
+            xml_path = elem['xml_path']
+
+            # Vérifier s'il est ancêtre ou descendant d'un élément déjà sélectionné
+            conflict = False
+            for taken in selected_paths:
+                if self._are_paths_overlapping(xml_path, taken):
+                    conflict = True
+                    break
+
+            if not conflict:
+                selected.append(elem)
+                selected_paths.append(xml_path)
+
+        return selected
+    """
+
+    def select_elements_score_plus_depth(
+        self,
+        elements: List[Dict],
+        bonus_by_tag: Dict[str, float],
+        max_elements: int = 2,
+        avoid_overlaps: bool = True
+    ) -> List[Dict]:
         """
-        Sélectionne les éléments avec les meilleurs scores
-        tout en évitant les chevauchements.
+        Sélectionne les éléments en combinant score et spécificité (profondeur).
         """
         if not elements:
             return []
 
-        elements.sort(key=lambda x: -x['score'])
-        selected = []
-        taken_paths = set()
+        adjusted_elements = []
 
         for elem in elements:
-            if len(selected) >= max_elements_per_article:
+            tag = elem.get('tag', 'article')
+            bonus = bonus_by_tag.get(tag, 1.0)
+
+            adjusted_score = elem['score'] * bonus
+
+            adjusted_elem = elem.copy()
+            adjusted_elem['adjusted_score'] = adjusted_score
+            adjusted_elements.append(adjusted_elem)
+
+        # Trier par score ajusté décroissant
+        adjusted_elements.sort(key=lambda x: -x['adjusted_score'])
+
+        selected = []
+        selected_paths = []
+
+        for elem in adjusted_elements:
+            if len(selected) >= max_elements:
                 break
 
             xml_path = elem['xml_path']
 
             if avoid_overlaps:
-                conflict = any(self._are_paths_overlapping(xml_path, taken)
-                              for taken in taken_paths)
+                conflict = False
+                for taken in selected_paths:
+                    if self._are_paths_overlapping(xml_path, taken):
+                        conflict = True
+                        break
                 if conflict:
                     continue
 
             selected.append(elem)
-            taken_paths.add(xml_path)
+            selected_paths.append(xml_path)
 
         return selected
 
@@ -411,7 +424,8 @@ class INEXRunGenerator:
                     if element_ids:
                         # Calculer les scores pour tous les éléments
                         scored_elements = self._score_elements_for_article(
-                            str_article_id, query_terms, element_ids,
+                            #str_article_id, query_terms, element_ids,
+                            query_terms, element_ids,
                             element_details, browse_ranker,
                             params['weighting_scheme'],
                             params['min_element_score'],
@@ -419,10 +433,30 @@ class INEXRunGenerator:
                         )
                         
                         # Sélectionner les meilleurs éléments
+                        """
                         selected = self._select_best_elements_by_score(
                             scored_elements,
                             params['max_elements_per_article'],
                             params['avoid_overlaps']
+                        )"""
+
+                        """
+                        selected = self.select_most_specific_elements(scored_elements)
+
+                        # Limiter si besoin
+                        selected = selected[:params['max_elements_per_article']]
+                        """
+                        bonus_by_tag = {
+                            'bdy': 1.0,
+                            'sec': 1.1,
+                            'p':   1.2
+                        }
+
+                        selected = self.select_elements_score_plus_depth(
+                            scored_elements,
+                            bonus_by_tag=bonus_by_tag,
+                            max_elements=params['max_elements_per_article'],
+                            avoid_overlaps=params['avoid_overlaps']
                         )
                         
                         if selected:
@@ -624,37 +658,6 @@ class INEXRunGenerator:
 
         print('='*70)
 
-    def _validate_run_file(self, filename: str) -> bool:
-        """Valide la conformité du fichier run."""
-        print(f"\n[VALIDATION]")
-
-        try:
-            with open(filename, 'r', encoding='utf-8') as f:
-                lines = [line.strip() for line in f if line.strip()]
-
-            by_query = defaultdict(list)
-            for line in lines:
-                parts = line.split()
-                if len(parts) >= 1:
-                    query_id = parts[0]
-                    by_query[query_id].append(line)
-
-            print(f"  Requêtes traitées: {len(by_query)}")
-            for query_id, query_lines in by_query.items():
-                print(f"  Requête {query_id}: {len(query_lines)} résultats")
-
-            valid = all(len(parts) == 7 for parts in (line.split() for line in lines[:10]))
-            if valid:
-                print("  RUN VALIDE")
-            else:
-                print("  Problèmes détectés dans le format")
-
-            return valid
-
-        except Exception as e:
-            print(f"  Erreur de validation: {e}")
-            return False
-
     # ==================== MÉTHODES POUR LES EXERCICES ====================
 
     def generate_article_run(self, xml_dir: str, queries: Dict[int, str],
@@ -668,7 +671,14 @@ class INEXRunGenerator:
                 'stemmer': 'nostem',
                 'stop_words': 'nostop'
             }
-
+        
+        # Paramètres par défaut BM25
+        if weighting_scheme == 'bm25':
+            if k1 is None:
+                k1 = 1.2
+            if b is None:
+                b = 0.6
+        
         print(f"\n{'='*70}")
         print(f"RUN ARTICLES - {weighting_scheme.upper()}")
         print('='*70)
@@ -743,10 +753,7 @@ class INEXRunGenerator:
         print(f"\n{'='*70}")
         print("EXERCICE 3: Indexation XML éléments")
         print('='*70)
-        
-        # D'abord, tester l'extraction
-        #test_element_extraction(xml_dir, sample_size=5)
-        
+                
         # Créer index avec fetch & browse
         fetch_config = {
             'tokenization': 'basic',
@@ -801,64 +808,4 @@ class INEXRunGenerator:
         
         return new_full_path
 
-    def test_element_extraction(self, xml_dir: str, sample_size: int = 10):
-        """Teste l'extraction des éléments pour débogage."""
-        import random
-        
-        xml_files = []
-        for root_dir, dirs, files in os.walk(xml_dir):
-            for file in files:
-                if file.lower().endswith('.xml'):
-                    xml_files.append(os.path.join(root_dir, file))
-        
-        # Prendre un échantillon aléatoire
-        sample_files = random.sample(xml_files, min(sample_size, len(xml_files)))
-        
-        print(f"\n{'='*70}")
-        print(f"TEST D'EXTRACTION D'ÉLÉMENTS")
-        print(f"Échantillon de {len(sample_files)} fichiers")
-        print('='*70)
-        
-        stats = defaultdict(lambda: defaultdict(int))
-        
-        for i, xml_file in enumerate(sample_files):
-            print(f"\nFichier {i+1}: {os.path.basename(xml_file)}")
-            
-            doc = INEXDocument(xml_file)
-            if not doc.parse():
-                print("  Échec du parsing")
-                continue
-            
-            # Tester la nouvelle méthode
-            elements = doc.get_all_elements_with_full_paths({'bdy', 'sec', 'p'})
-            
-            for elem in elements:
-                tag = elem['tag']
-                path = elem['xml_path']
-                text_len = len(elem['text'])
-                
-                stats[tag]['count'] += 1
-                stats[tag]['total_length'] += text_len
-                
-                # Afficher quelques exemples
-                if stats[tag]['count'] <= 2:  # Montrer 2 exemples par tag
-                    print(f"  {tag}: {path} (longueur: {text_len} chars)")
-            
-            print(f"  Total éléments: {len(elements)}")
-        
-        # Afficher les statistiques
-        print(f"\n{'='*70}")
-        print("STATISTIQUES D'EXTRACTION:")
-        total_elements = sum(stats[tag]['count'] for tag in stats)
-        
-        for tag in ['bdy', 'sec', 'p']:
-            count = stats[tag]['count']
-            avg_len = stats[tag]['total_length'] / count if count > 0 else 0
-            percentage = (count / total_elements * 100) if total_elements > 0 else 0
-            
-            print(f"  {tag}:")
-            print(f"    Nombre: {count} ({percentage:.1f}%)")
-            print(f"    Longueur moyenne: {avg_len:.0f} caractères")
-        
-        print('='*70)
 

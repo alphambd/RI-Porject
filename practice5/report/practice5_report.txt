@@ -10,6 +10,41 @@ Ana     SANOU
         *                                                           *
         /////////////////////////////////////////////////////////////
 
+
+RESULTATS : 
+Bases lines :
+- BM25 classique : stop671, porter, k = 1.2, b = 0.6
+  MAgP = 0.2088
+- BM25FR : stop671, porter, k=1.2, b=0.6, fields = [title, bdy], alpha = 1
+  MAgP = 0.2076
+- BM25FW = stop671, porter, k=1.2, b=0.6, fields = [title, bdy], alpha = 1
+  0.0817
+
+Méthode d'optimisation : 
+- On fixe une baseline stable
+- On change UN paramètre à la fois
+- On optimise d’abord la structure, ensuite les poids, ensuite la normalisation
+- BM25FR et BM25FW ne se règlent pas pareil
+
+PARTIE A — Optimisation de BM25FR (early combination)
+- Scores avec sec : 
+alpha = 0.5 : 0.2055
+alpha = 0.3 : 0.2051
+alpha = 1.0 : 0.1882
+alpha = 1.5 : 0.1874
+alpha = 1.8 : 0.1849
+
+- Scores avec p : 
+alpha = 0.5 : 0.1993
+alpha = 0.3 : 0.2026 
+alpha = 1.0 : 0.1969
+alpha = 1.5 : 0.1932
+alpha = 1.8 : 0.1925
+
+On remarque que ces stratégies donnent des scores inférieurs à celui de la baseline.
+
+
+
 LES RUNS RENDU : 
 
   EXERCICE 1 : 

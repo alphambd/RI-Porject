@@ -8,7 +8,7 @@ from ranked_retrieval import RankedRetrieval
 #from practice5_exercices import (exercice1, exercice2, exercice3, exercice5, exercice6 ) #, exercice4_test1, exercice5, exercice6, exercice5_phase1, exercice6_phase1)
 from practice5_exercices import exercice1, exercice2, exercice3, exercice5, exercice6 
 from bm25_exercices import exercice5_run, exercice6_run, exercice5_rest, exercice6_rest, test_complete, exercice5_simple_with_rest, exercice6_simple_with_rest
-from new_bm25_exercices import exercice5_bm25fw, exercice6_bm25fr
+from new_bm25_exercices import exercice6_bm25fr_test, exercice5_bm25fw, exercice6_bm25fr, exo6_bm25fr_opti_bdy, exo6_bm25fr_opti_sec, exo6_bm25fr_opti_p, exo6_bm25fr_opti_title, exercice5_bm25fw_test
 
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
@@ -63,9 +63,9 @@ def main():
 
     # Décomenter pour tester les exercices
 
-    exercice1()
+    #exercice1()
     #exercice2()
-    #exercice3()
+    exercice3()
     #exercice5()
     #exercice6()
 
@@ -77,6 +77,14 @@ def main():
     
     #exercice5_bm25fw()
     #exercice6_bm25fr()
+
+    #exo6_bm25fr_opti_sec()
+    #exo6_bm25fr_opti_p()
+    #exo6_bm25fr_opti_title()
+    #exercice6_bm25fr_test()
+    #exo6_bm25fr_opti_bdy()
+    #exercice5_bm25fw_test()
+
 
 if __name__ == "__main__":
         
