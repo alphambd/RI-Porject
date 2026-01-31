@@ -18,6 +18,11 @@ class FieldWeightedIndex:
         
         # Initialiser les structures de données
         self._init_data_structures()
+
+        # Statistiques pondérées
+        self.doc_lengths_weighted = {}
+        self.avg_doc_length_weighted = 0.0
+
         
     def _init_data_structures(self):
         """Initialise toutes les structures de données"""
@@ -162,6 +167,28 @@ class FieldWeightedIndex:
         # 3. Construire l'index
         return self._build_field_index(xml_dir, fields_config, field_weights, config, max_files, cache_key)
 
+    def _compute_weighted_doc_lengths(self):
+        """
+        Calcule dl' et avgdl' pour BM25FR (Robertson)
+        """
+        total = 0.0
+        
+        for doc_id in self.doc_ids:
+            dl_weighted = 0.0
+            for field, weight in self.field_weights.items():
+                tf_dict = self.field_tfs[doc_id].get(field, {})
+                field_len = sum(tf_dict.values())
+                dl_weighted += weight * field_len
+            
+            self.doc_lengths_weighted[doc_id] = dl_weighted
+            total += dl_weighted
+        
+        self.avg_doc_length_weighted = (
+            total / self.index.doc_count
+            if self.index.doc_count > 0 else 1.0
+        )
+
+
     def _build_field_index(self, xml_dir, fields_config, field_weights, config, max_files, cache_key):
         """Construit l'index (méthode interne)"""
         print("🔄 Construction de l'index...")
@@ -189,6 +216,10 @@ class FieldWeightedIndex:
         print(f"   Champs: {list(fields_config.keys())}")
         print(f"   Longueur moyenne: {self.index.avg_doc_length:.1f} termes")
         
+        # Calculer les longueurs pondérées
+        self._compute_field_stats()
+        self._compute_weighted_doc_lengths()
+
         # Sauvegarder dans le cache
         self._save_to_cache(cache_key)
         
@@ -506,7 +537,10 @@ class FieldWeightedIndex:
                         df_field = field_dfs.get(term, 0)
                         if df_field > 0:
                             # BM25 pour ce champ
-                            idf = math.log10((field_stat['doc_count'] - df_field + 0.5) / (df_field + 0.5))
+                            #idf = math.log10((field_stat['doc_count'] - df_field + 0.5) / (df_field + 0.5))
+                            N = self.index.doc_count
+                            idf = math.log10((N - df_field + 0.5) / (df_field + 0.5))
+                            
                             tf_comp = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (field_length / avg_field_length)))
                             field_score += idf * tf_comp
                 
@@ -557,8 +591,11 @@ class FieldWeightedIndex:
                     if self.index.avg_doc_length <= 0:
                         self.index.avg_doc_length = 1.0
                     
-                    doc_length = self.doc_lengths.get(doc_id, 1)
-                    length_ratio = doc_length / self.index.avg_doc_length
+                    #doc_length = self.doc_lengths.get(doc_id, 1)
+                    #length_ratio = doc_length / self.index.avg_doc_length
+                    doc_length = self.doc_lengths_weighted.get(doc_id, 1.0)
+                    avgdl = self.avg_doc_length_weighted if self.avg_doc_length_weighted > 0 else 1.0
+                    length_ratio = doc_length / avgdl
                     
                     # Calcul BM25
                     idf = math.log10((self.index.doc_count - df + 0.5) / (df + 0.5))
@@ -669,7 +706,7 @@ def generate_field_weighted_run(run_id: str, run_type: str,
         field_weights=field_weights,
         config=config,
         max_files=run_params.get('max_files', None),
-        force_rebuild=False
+        force_rebuild=True #False
     )
     
     # Générer le fichier
@@ -735,7 +772,7 @@ def generate_field_weighted_run_simple(run_id: str, run_type: str,
     # Import ici pour éviter les dépendances circulaires
     from field_weighted_index import FieldWeightedIndex
     
-    print(f"\n▶️  Début de {run_type.upper()} - Run {run_id}")
+    print(f"\n  Début de {run_type.upper()} - Run {run_id}")
     
     # Configuration par défaut
     if fields_config is None:

@@ -300,7 +300,6 @@ def exercice3():
     
     return filename
 
-
 # ==================== EXERCICE 4 ====================
 
 def exercice4_test1():

@@ -218,6 +218,21 @@ class RankedRetrieval:
 
         return sorted_docs[:top_k]
     
+    def rerank_with_pagerank(
+        bm25_results,
+        pagerank_scores,
+        alpha=0.85
+    ):
+        reranked = []
+
+        for doc_id, bm25_score in bm25_results:
+            pr_score = pagerank_scores.get(str(doc_id), 0.0)
+            final_score = alpha * bm25_score + (1 - alpha) * pr_score
+            reranked.append((doc_id, final_score))
+
+        reranked.sort(key=lambda x: -x[1])
+        return reranked
+
     def get_term_weight(self, term, doc_id, weighting_scheme, k1=1.2, b=0.75):
         """Retourne le poids d'un terme spécifique dans un document"""
         # Précharger les normes cosine seulement si nécessaire pour LTC

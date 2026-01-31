@@ -123,58 +123,6 @@ def display_statistics(stats_data: Dict, config_desc: str):
         print(f"  {i:2d}. Doc {doc_id}: {score:.6f}")
 
 # ==================== EXERCICE 5 ====================
-"""
-def exercice5_optimized():
-    #Exercice 5 optimisé avec champs multiples et regroupés
-    print_exercise_header(5, "BM25Fw optimisé - Champs multiples")
-    
-    config = {
-        'tokenization': 'basic',
-        'stemmer': 'nostem',
-        'stop_words': 'nostop'
-    }
-    
-    # Configuration flexible des champs
-    fields_config = {
-        'title': ['title'],      # Champ unique
-        'body': ['bdy'],         # Champ unique  
-        'sections': ['sec'],     # TOUTES les sections regroupées en un seul champ
-        #'paragraphs': ['p'],     # TOUS les paragraphes regroupés en un seul champ
-        # Vous pouvez ajouter d'autres champs :
-        # 'captions': ['caption'],
-        # 'links': ['link']
-    }
-    
-    # Poids à optimiser (vous pouvez tester différentes valeurs)
-    field_weights = {
-        'title': 1.0,      # Titre très important
-        'body': 1.0,       # Corps du document
-        'sections': 1.0   # Sections regroupées
-        #'paragraphs': 1.0  # Paragraphes regroupés
-    }
-    
-    run_params = {
-        'k1': 1.2,
-        'b': 0.75,
-        'max_files': None
-    }
-    
-    generator = INEXRunGenerator()
-    
-    filename = generate_field_weighted_run_cached(
-        generator=generator,
-        run_id="test5_optimized",
-        run_type="bm25fw",
-        xml_dir=XML_DIR,
-        queries=INEX_QUERIES,
-        config=config,
-        run_params=run_params,
-        fields_config=fields_config,
-        field_weights=field_weights
-    )
-    
-    return filename
-"""
 
 def exercice5():
     """Exercice 5: BM25Fw - Pondération par champs (combinaison tardive)"""
@@ -225,44 +173,6 @@ def exercice5():
     print(f"\n Exercice 5 terminé")
     print(f" Fichier généré: {filename}")
     
-    return filename
-
-def exercice5_run():
-    """Génère un run BM25Fw pondéré par champs"""
-    print_exercise_header(5, "BM25Fw - Pondération par champs")
-    
-    config = {
-        'tokenization': 'basic',
-        'stemmer': 'porter',
-        'stop_words': 'stop671'
-    }
-    fields_config = {
-        'title': ['title'],
-        'bdy': ['bdy'],
-        'sec': ['sec'],
-        #'p': ['p'],
-    }
-    field_weights = {
-        'title': 1.0,
-        'bdy': 1.0,
-        'sec': 1.0,
-        #'p': 1.0
-    }
-    run_params = {
-        'k1': 1.2,
-        'b': 0.6,
-        'max_files': None
-    }
-    filename = generate_field_weighted_run(
-        run_id="5",
-        run_type="bm25fw",
-        xml_dir=XML_DIR,
-        queries=INEX_QUERIES,
-        config=config,
-        run_params=run_params,
-        fields_config=fields_config,
-        field_weights=field_weights
-    )
     return filename
 
 def exercice5_rest():
@@ -393,117 +303,6 @@ def exercice6_rest():
     
     return results
 
-def test_complete():
-    """Test complet de toutes les configurations"""
-    print("="*70)
-    print("TEST COMPLET AVEC/SANS 'rest'")
-    print("="*70)
-    
-    print("\n=== EXERCICE 5 (BM25Fw) ===")
-    results_5 = exercice5_rest()
-    
-    print("\n=== EXERCICE 6 (BM25Fr) ===")
-    results_6 = exercice6_rest()
-    
-    print("\n" + "="*70)
-    print("RÉSUMÉ DES RUNS GÉNÉRÉS")
-    print("="*70)
-    
-    print("\nBM25Fw (Exercice 5):")
-    for name, filename in results_5:
-        print(f"  {name}: {os.path.basename(filename)}")
-    
-    print("\nBM25Fr (Exercice 6):")
-    for name, filename in results_6:
-        print(f"  {name}: {os.path.basename(filename)}")
-    
-    return results_5, results_6
-
-def exercice5_simple_with_rest():
-    """Version simple avec 'rest'"""
-    config = {
-        'tokenization': 'basic',
-        'stemmer': 'porter',
-        'stop_words': 'stop671'
-    }
-    
-    fields_config = {
-        'title': ['title'],
-        'bdy': ['bdy'],
-        #sec': ['sec'],
-        #'p': ['p'],
-        #'rest': ['__REST__']  # Champ pour tout le reste
-    }
-    
-    field_weights = {
-        'title': 1.0,
-        'bdy': 1.0,
-        #'sec': 1.0,
-        #'p': 1.0,
-        #'rest': 1.0  # Poids égal à 1 pour commencer
-    }
-    
-    run_params = {
-        'k1': 1.2,
-        'b': 0.6 #0.75
-    }
-    
-    #filename = generate_field_weighted_run_simple(
-    filename = generate_field_weighted_run_with_rest(
-        run_id="5_simple_rest",
-        run_type="bm25fw",
-        xml_dir=XML_DIR,
-        queries=INEX_QUERIES,
-        config=config,
-        run_params=run_params,
-        fields_config=fields_config,
-        field_weights=field_weights
-    )
-    
-    return filename
-
-def exercice6_simple_with_rest():
-    """Version simple avec 'rest'"""
-    config = {
-        'tokenization': 'basic',
-        'stemmer': 'porter',
-        'stop_words': 'stop671'
-    }
-    
-    fields_config = {
-        'title': ['title'],
-        'bdy': ['bdy'],
-        #'sec': ['sec'],
-        #'p': ['p'],
-        #'rest': ['__REST__']
-    }
-    
-    field_weights = {
-        'title': 1.0,
-        'bdy': 1.0,
-        #'sec': 1.0,
-        #'p': 1.0,
-        #'rest': 1.0
-    }
-    
-    run_params = {
-        'k1': 1.2,
-        'b': 0.6 #0.75
-    }
-    
-    #filename = generate_field_weighted_run_simple(
-    filename = generate_field_weighted_run_with_rest(
-        run_id="6_simple_rest",
-        run_type="bm25fr",
-        xml_dir=XML_DIR,
-        queries=INEX_QUERIES,
-        config=config,
-        run_params=run_params,
-        fields_config=fields_config,
-        field_weights=field_weights
-    )
-    
-    return filename
 
 # ==================== EXERCICE 6 ====================
 
@@ -557,33 +356,280 @@ def exercice6():
     
     return filename
 
-def exercice6_run():
-    """Génère un run BM25Fr pondéré par champs"""
-    print_exercise_header(6, "BM25Fr - Pondération par champs")
-    
+
+# ==================== BM25FR Test et Optimisation ====================
+def run_alpha_sweep_fr(
+    base_fields_config: Dict[str, List[str]],
+    base_weights: Dict[str, float],
+    field_to_add: str,
+    field_tags: List[str],
+    alpha_values: List[float],
+    run_prefix: str,
+    xml_dir: str,
+    queries: Dict[int, str],
+    config: Dict,
+    run_params: Dict) -> List[Tuple[float, str]]:
+    """
+    Ajoute un champ et teste plusieurs valeurs de alpha (BM25FR).
+    """
+    results = []
+
+    for alpha in alpha_values:
+        print("\n" + "="*60)
+        print(f"TEST FR — Champ '{field_to_add}', alpha={alpha}")
+        print("="*60)
+
+        # Copier les configs de base
+        fields_config = dict(base_fields_config)
+        field_weights = dict(base_weights)
+
+        # Ajouter le champ testé
+        fields_config[field_to_add] = field_tags
+        field_weights[field_to_add] = alpha
+
+        #run_id = f"{run_prefix}_{field_to_add}_a{alpha}"
+        run_id = f"{run_prefix}_{field_to_add}_a.p{alpha}_a.t2.0_a.bdy1.0_a.sec0.3"
+        run_type = "bm25fr"
+
+        filename = generate_field_weighted_run(
+            run_id=run_id,
+            run_type=run_type,
+            xml_dir=xml_dir,
+            queries=queries,
+            config=config,
+            run_params=run_params,
+            fields_config=fields_config,
+            field_weights=field_weights
+        )
+
+        results.append((alpha, filename))
+
+    return results
+
+def run_alpha_sweep(
+    method: str,  # "bm25fr" ou "bm25fw"
+    base_fields_config: Dict[str, List[str]],
+    base_weights: Dict[str, float],
+    field_to_add: str,
+    field_tags: List[str],
+    alpha_values: List[float],
+    run_prefix: str,
+    xml_dir: str,
+    queries: Dict[int, str],
+    config: Dict,
+    run_params: Dict
+) -> List[Tuple[float, str]]:
+    """
+    Ajoute un champ et teste plusieurs valeurs de alpha
+    pour BM25FR ou BM25FW.
+    """
+    assert method in {"bm25fr", "bm25fw"}
+
+    results = []
+
+    for alpha in alpha_values:
+        print("\n" + "="*60)
+        print(f"TEST {method.upper()} — Champ '{field_to_add}', alpha={alpha}")
+        print("="*60)
+
+        # Copier les configs de base
+        fields_config = dict(base_fields_config)
+        field_weights = dict(base_weights)
+
+        # Ajouter le champ testé
+        fields_config[field_to_add] = field_tags
+        field_weights[field_to_add] = alpha
+
+        run_id = f"{run_prefix}_{method}_{field_to_add}_a{alpha}"
+
+        filename = generate_field_weighted_run(
+            run_id=run_id,
+            run_type=method,
+            xml_dir=xml_dir,
+            queries=queries,
+            config=config,
+            run_params=run_params,
+            fields_config=fields_config,
+            field_weights=field_weights
+        )
+
+        results.append((alpha, filename))
+
+    return results
+
+
+def exercice5_bm25fw():
+    """
+    Exercice 5 — BM25FW (Wilkinson, late combination)
+    avgdl UNWEIGHTED
+    """
+    print_exercise_header(5, "BM25FW — Late Combination (Wilkinson)")
+
     config = {
         'tokenization': 'basic',
         'stemmer': 'porter',
         'stop_words': 'stop671'
     }
+
     fields_config = {
         'title': ['title'],
         'bdy': ['bdy'],
-        'sec': ['sec'],
+        #'sec': ['sec'],
         #'p': ['p'],
+        #'rest': ['__REST__']
     }
+
     field_weights = {
         'title': 1.0,
         'bdy': 1.0,
-        'sec': 1.0,
-        #'p': 1.0
+        #'sec': 1.0,
+        #'p': 1.0,
+        #'rest': 1.0
     }
+
     run_params = {
         'k1': 1.2,
-        'b': 0.75,
+        'b': 0.6,
         'max_files': None
     }
-    filename = generate_field_weighted_run(
+
+    return generate_field_weighted_run(
+        run_id="5",
+        run_type="bm25fw",
+        xml_dir=XML_DIR,
+        queries=INEX_QUERIES,
+        config=config,
+        run_params=run_params,
+        fields_config=fields_config,
+        field_weights=field_weights
+    )
+
+def exercice6_bm25fr_test():
+    """
+    Exercice 5 — BM25FR (Robertson, early combination)
+    avgdl WEIGHTED
+    """
+    print_exercise_header(5, "BM25FR — Early Combination (Robertson)")
+
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    # Baseline réaliste
+    base_fields = {
+        'title': ['title'],
+        'bdy':   ['bdy'],
+        'sec':   ['sec']
+    }
+
+    base_weights = {
+        'title': 2.0,
+        'bdy':   1.0,
+        'sec':   0.3
+    }
+
+    # Valeurs à tester pour sec
+    #alpha_values = [0.5, 0.8, 1.3, 1.5, 1.8, 2.0]
+    #alpha_values = [0.1, 0.2, 0.3, 0.4]
+    alpha_values = [0.8, 0.9, 1.1, 1.2, 1.3]
+
+    results_sec = run_alpha_sweep_fr(
+        base_fields_config=base_fields,
+        base_weights=base_weights,
+        field_to_add='p',
+        field_tags=['p'],
+        alpha_values=alpha_values,
+        run_prefix="FR_add-p",
+        xml_dir=XML_DIR,
+        queries=INEX_QUERIES,
+        config=config,
+        run_params={
+            'k1': 1.2,
+            'b': 0.6
+        }
+    )
+
+def exercice5_bm25fw_test():
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    fields_config = {
+        'title': ['title'],
+        'bdy':   ['bdy'],
+        'sec':   ['sec'],
+        'p':     ['p']
+    }
+
+    base_weights = {
+        'title': 1.0,
+        'bdy':   2.5,
+        'sec':   2.5,
+        'p':     3.5
+    }
+
+    #alpha_p_values = [0.8, 0.9, 1.0, 1.1, 1.2]
+    alpha_title_values = [1.0, 1.5, 2.0, 2.5]
+
+    for alpha in alpha_title_values:
+        field_weights = dict(base_weights)
+        field_weights['title'] = alpha
+        #run_id = f"FW_title_a.{alpha}_a.t2.0_a._a.sec0.3_a.p0.2"
+        run_id = f"FW_title_a.{alpha}_a.bdy2.5_a.sec2.5_a.p3.5"
+        generate_field_weighted_run(
+            run_id=run_id,
+            run_type="bm25fw",
+            xml_dir=XML_DIR,
+            queries=INEX_QUERIES,
+            config=config,
+            run_params={
+                'k1': 1.2,
+                'b': 0.6
+            },
+            fields_config=fields_config,
+            field_weights=field_weights
+        )
+
+def exercice6_bm25fr():
+    """
+    Exercice 6 — BM25FR (Robertson, early combination)
+    avgdl WEIGHTED
+    """
+    print_exercise_header(6, "BM25FR — Early Combination (Robertson)")
+
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    fields_config = {
+        'title': ['title'],
+        'bdy': ['bdy'],
+        #'sec': ['sec'],
+        #'p': ['p'],
+        #'rest': ['__REST__']
+    }
+
+    field_weights = {
+        'title': 1.0,
+        'bdy': 1.0,
+        #'sec': 1.0,
+        #'p': 1.0,
+        #'rest': 1.0
+    }
+
+    run_params = {
+        'k1': 1.2,
+        'b': 0.6,
+        'max_files': None
+    }
+
+    return generate_field_weighted_run(
         run_id="6",
         run_type="bm25fr",
         xml_dir=XML_DIR,
@@ -592,10 +638,175 @@ def exercice6_run():
         run_params=run_params,
         fields_config=fields_config,
         field_weights=field_weights
+    )        
+
+def exo6_bm25fr_opti_title():
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    fields_config = {
+        'title': ['title'],
+        'bdy':   ['bdy'],
+        'sec':   ['sec'],
+        'p':     ['p']
+    }
+
+    base_weights = {
+        'title': 1.0,
+        'bdy':   1.0,
+        'sec':   1.0,
+        'p':     1.0
+    }
+
+    alpha_title_values = [1.0, 1.5, 2.0, 2.5, 3.0]
+    
+    for alpha in alpha_title_values:
+        field_weights = dict(base_weights)
+        field_weights['title'] = alpha
+
+        run_id = f"FR_title-only_a{alpha:.1f}"
+
+        generate_field_weighted_run(
+            run_id=run_id,
+            run_type="bm25fr",
+            xml_dir=XML_DIR,
+            queries=INEX_QUERIES,
+            config=config,
+            run_params={
+                'k1': 1.2,
+                'b': 0.6
+            },
+            fields_config=fields_config,
+            field_weights=field_weights
+        )
+
+def exo6_bm25fr_opti_bdy():
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    fields_config = {
+        'title': ['title'],
+        'bdy':   ['bdy'],
+        'sec':   ['sec'],
+        'p':     ['p']
+    }
+
+    base_weights = {
+        'title': 2.0,
+        'bdy':   1.0,
+        'sec':   0.3,
+        'p':     0.2
+    }
+
+    #alpha_title_values = [1.0, 1.5, 2.0, 2.5, 3.0]
+    alpha_bdy_values = [1.3, 1.4, 1.5, 1.6, 1.7, 1.8]
+    
+    for alpha in alpha_bdy_values:
+        field_weights = dict(base_weights)
+        field_weights['bdy'] = alpha
+        #run_id = f"FR_bdy-only_a{alpha:.1f}"
+        run_id = f"FR_bdy_a.{alpha}_a.t2.0_a._a.sec0.3_a.p0.2"
+
+        generate_field_weighted_run(
+            run_id=run_id,
+            run_type="bm25fr",
+            xml_dir=XML_DIR,
+            queries=INEX_QUERIES,
+            config=config,
+            run_params={
+                'k1': 1.2,
+                'b': 0.6
+            },
+            fields_config=fields_config,
+            field_weights=field_weights
+        )
+
+
+def exo6_bm25fr_opti_sec():
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    # Baseline réaliste
+    base_fields = {
+        'title': ['title'],
+        'bdy':   ['bdy'],
+        'p':     ['p']
+    }
+
+    base_weights = {
+        'title': 2.0,
+        'bdy':   1.0,
+        'p':     1.0
+    }
+
+    # Valeurs à tester pour sec
+    #alpha_values = [0.5, 0.8, 1.3, 1.5, 1.8, 2.0]
+    alpha_values = [0.1, 0.2, 0.3, 0.4]
+
+    results_sec = run_alpha_sweep_fr(
+        base_fields_config=base_fields,
+        base_weights=base_weights,
+        field_to_add='sec',
+        field_tags=['sec'],
+        alpha_values=alpha_values,
+        run_prefix="FR_add-sec",
+        xml_dir=XML_DIR,
+        queries=INEX_QUERIES,
+        config=config,
+        run_params={
+            'k1': 1.2,
+            'b': 0.6
+        }
     )
-    return filename
 
 
+def exo6_bm25fr_opti_p():
+    # Baseline FR
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    base_fields = {
+        'title': ['title'],
+        'bdy':   ['bdy'],
+        #'sec':   ['sec']
+    }
+
+    base_weights = {
+        'title': 1.0,
+        'bdy':   1.0,
+        #'sec':   1.0
+    }
+
+    #alpha_values = [0.2, 0.5, 1.0]
+    alpha_values = [0.3, 0.5, 1.0, 1.5, 1.8]
+
+    results_p = run_alpha_sweep_fr(
+        base_fields_config=base_fields,
+        base_weights=base_weights,
+        field_to_add='p',
+        field_tags=['p'],
+        alpha_values=alpha_values,
+        run_prefix="FR_step2",
+        xml_dir=XML_DIR,
+        queries=INEX_QUERIES,
+        config=config,
+        run_params={
+            'k1': 1.2,
+            'b': 0.6
+        }
+    )
 
 
 

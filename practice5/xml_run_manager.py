@@ -4,6 +4,8 @@ import pickle
 from collections import defaultdict
 from typing import Dict, List, Tuple
 import hashlib
+import xml.etree.ElementTree as ET
+import re
 
 from advanced_indexer import WeightedInvertedIndex
 from inex_document import INEXDocument
@@ -14,6 +16,9 @@ class INEXRunGenerator:
     def __init__(self, cache_dir="data/cache", team_name="AlphaAnaClement"):
         self.cache_dir = cache_dir
         self.team_name = team_name
+
+        self.pagerank_scores = None # pour le score pagerank
+
         os.makedirs(cache_dir, exist_ok=True)
 
     # ==================== GESTION CACHE ====================
@@ -76,6 +81,32 @@ class INEXRunGenerator:
 
         return {'index': index, 'indexing_time': indexing_time, 'config': config}
 
+    def compute_or_load_pagerank(self, xml_dir: str,
+                                damping: float = 0.85,
+                                max_iter: int = 50):
+        """
+        Calcule le PageRank sur la collection INEX (articles).
+        """
+        if self.pagerank_scores is not None:
+            return self.pagerank_scores
+
+        print("\n[PageRank] Construction du graphe...")
+        graph = extract_inex_link_graph(xml_dir)
+
+        print("[PageRank] Calcul des scores...")
+        #pr = compute_pagerank(
+        pr = compute_pagerank_optimized(
+            graph,
+            damping=damping,
+            max_iter=max_iter
+        )
+
+        print("[PageRank] Normalisation...")
+        self.pagerank_scores = normalize_scores(pr)
+
+        print("[PageRank] Terminé ✓")
+        return self.pagerank_scores
+
     # ==================== FONCTIONS UTILITAIRES ====================
 
     def _create_element_cache(self, browse_index):
@@ -98,7 +129,6 @@ class INEXRunGenerator:
 
         return article_to_elements, element_details
 
-    
     def _get_xpath_indices(self, xml_path: str) -> Tuple[int, ...]:
         """
         Extrait les indices d'un XPath pour tri par ordre document.
@@ -135,6 +165,23 @@ class INEXRunGenerator:
                 return False
 
         return True
+
+    def rerank_with_pagerank(self,
+                            bm25_results,
+                            pagerank_scores,
+                            alpha: float = 0.9):
+        """
+        Combine BM25 et PageRank par interpolation linéaire.
+        """
+        reranked = []
+
+        for doc_id, bm25_score in bm25_results:
+            pr_score = pagerank_scores.get(str(doc_id), 0.0)
+            final_score = alpha * bm25_score + (1 - alpha) * pr_score
+            reranked.append((doc_id, final_score))
+
+        reranked.sort(key=lambda x: -x[1])
+        return reranked
 
     # ==================== SÉLECTION D'ÉLÉMENTS ====================
 
@@ -176,48 +223,6 @@ class INEXRunGenerator:
 
         return scored_elements
 
-
-    """
-    def _select_best_elements_by_score(self, elements: List[Dict],
-                                    max_elements_per_article: int = 2,
-                                    avoid_overlaps: bool = True) -> List[Dict]:
-        
-        #Sélectionne les éléments avec les meilleurs scores,
-        #en évitant les chevauchements.
-        
-        if not elements:
-            return []
-        
-        # Trier par score décroissant
-        elements.sort(key=lambda x: -x['score'])
-        
-        selected = []
-        taken_paths = set()
-        
-        for elem in elements:
-            if len(selected) >= max_elements_per_article:
-                break
-            
-            xml_path = elem['xml_path']
-            
-            # Vérifier les chevauchements
-            if avoid_overlaps:
-                conflict = False
-                for taken_path in taken_paths:
-                    # Un chemin est en conflit s'il est ancêtre ou descendant
-                    if (xml_path.startswith(taken_path + '/') or 
-                        taken_path.startswith(xml_path + '/')):
-                        conflict = True
-                        break
-                
-                if conflict:
-                    continue
-            
-            selected.append(elem)
-            taken_paths.add(xml_path)
-        
-        return selected
-    """
     def _extract_tag_from_xpath(self, xml_path: str) -> str:
         """Extrait le tag final d'un chemin XML."""
         if not xml_path or xml_path == '/article[1]':
@@ -255,38 +260,6 @@ class INEXRunGenerator:
         xml_path = xml_path.replace('//', '/')
         
         return xml_path
-
-    """
-    def select_most_specific_elements(self, elements: List[Dict]) -> List[Dict]:
-        
-        #Pour chaque groupe d'éléments chevauchants,
-        #conserve uniquement l'élément le plus spécifique (le plus profond).
-        
-        if not elements:
-            return []
-
-        # Trier par profondeur décroissante (le plus spécifique d'abord)
-        elements.sort(key=lambda x: x['xml_path'].count('/'), reverse=True)
-
-        selected = []
-        selected_paths = []
-
-        for elem in elements:
-            xml_path = elem['xml_path']
-
-            # Vérifier s'il est ancêtre ou descendant d'un élément déjà sélectionné
-            conflict = False
-            for taken in selected_paths:
-                if self._are_paths_overlapping(xml_path, taken):
-                    conflict = True
-                    break
-
-            if not conflict:
-                selected.append(elem)
-                selected_paths.append(xml_path)
-
-        return selected
-    """
 
     def select_elements_score_plus_depth(
         self,
@@ -354,7 +327,10 @@ class INEXRunGenerator:
             'avoid_overlaps': True,
             'fallback_to_article': True,
             'bm25_k1': 1.2,
-            'bm25_b': 0.75
+            'bm25_b': 0.75,
+
+            'use_pagerank': False,
+            'pagerank_alpha': 0.9
         }
         
         if run_params:
@@ -375,6 +351,11 @@ class INEXRunGenerator:
         fetch_data = self.create_or_load_index(xml_dir, 'article', fetch_config)
         fetch_index = fetch_data['index']
         fetch_ranker = RankedRetrieval(fetch_index)
+
+        # Charger PageRank si demandé
+        pagerank_scores = None
+        if params['use_pagerank']:
+            pagerank_scores = self.compute_or_load_pagerank(xml_dir)
         
         # PHASE BROWSE
         print("[PHASE BROWSE] Index éléments...")
@@ -407,6 +388,14 @@ class INEXRunGenerator:
                     k1=params['bm25_k1'] if params['weighting_scheme'] == 'bm25' else None,
                     b=params['bm25_b'] if params['weighting_scheme'] == 'bm25' else None
                 )
+
+                # RE-RANKING AVEC PAGERANK
+                if params['use_pagerank']:
+                    top_articles = self.rerank_with_pagerank(
+                        top_articles,
+                        pagerank_scores,
+                        alpha=params['pagerank_alpha']
+                    )
                 print(f"  FETCH: {len(top_articles)} articles")
                 
                 # BROWSE: éléments pertinents
@@ -431,25 +420,12 @@ class INEXRunGenerator:
                             params['min_element_score'],
                             params['bm25_k1'], params['bm25_b']
                         )
-                        
+
                         # Sélectionner les meilleurs éléments
-                        """
-                        selected = self._select_best_elements_by_score(
-                            scored_elements,
-                            params['max_elements_per_article'],
-                            params['avoid_overlaps']
-                        )"""
-
-                        """
-                        selected = self.select_most_specific_elements(scored_elements)
-
-                        # Limiter si besoin
-                        selected = selected[:params['max_elements_per_article']]
-                        """
                         bonus_by_tag = {
                             'bdy': 1.0,
-                            'sec': 1.1,
-                            'p':   1.2
+                            'sec': 1.5,
+                            'p':   1.8
                         }
 
                         selected = self.select_elements_score_plus_depth(
@@ -716,15 +692,7 @@ class INEXRunGenerator:
                     top_articles = ranker.search_query(
                         query_text, weighting_scheme=weighting_scheme, top_k=1500
                     )
-                """
-                # Compléter à 1500 résultats si nécessaire
-                if len(top_articles) < 1500:
-                    all_docs = set(index.doc_ids)
-                    used_docs = set(doc_id for doc_id, _ in top_articles)
-                    remaining = list(all_docs - used_docs)[:1500 - len(top_articles)]
-                    for doc_id in remaining:
-                        top_articles.append((doc_id, 0.000001))
-                """
+                
                 rank = 1
                 for article_id, score in top_articles[:1500]:
                     f.write(f"{query_id} Q0 {article_id} {rank} "
@@ -737,6 +705,203 @@ class INEXRunGenerator:
         print(f"\nRUN TERMINÉ: {filename}")
         print(f"Total résultats: {results_count}")
         print(f"Attendu: {7 * 1500}")
+        return filename
+
+    def generate_article_run_with_pagerank(
+        self,
+        xml_dir: str,
+        queries: Dict[int, str],
+        config: Dict,
+        run_id: str = "article_PR",
+        weighting_scheme: str = "bm25",
+        top_k: int = 1500,
+        pagerank_alpha: float = 0.85,
+        k1: float = 1.2,
+        b: float = 0.75
+    ) -> str:
+        """
+        Exercice 4 – Articles runs exploiting links (PageRank).
+        """
+
+        print(f"\n{'='*70}")
+        print("EXERCICE 4 — ARTICLE RUN + PAGERANK")
+        print('='*70)
+
+        # 1 Index articles
+        index_data = self.create_or_load_index(xml_dir, "article", config)
+        index = index_data["index"]
+        ranker = RankedRetrieval(index)
+
+        # 2 Construire le graphe + stats
+        print("\n[LINK GRAPH]")
+        graph, stats = extract_inex_link_graph(xml_dir)
+
+        print("Statistiques du graphe :")
+        for k, v in stats.items():
+            print(f"  {k}: {v}")
+
+        # 3 Calcul PageRank
+        print("\n[PAGERANK] Calcul...")
+        #pr_scores = compute_pagerank(graph, damping=0.85, max_iter=50)
+        pr_scores = compute_pagerank_optimized(graph, damping=0.85, max_iter=50)
+        pr_scores = normalize_scores(pr_scores)
+
+        print("[PAGERANK] Terminé ✓")
+
+        # 4 Nom du fichier
+        filename = (
+            f"{self.team_name}_{run_id}_"
+            f"{weighting_scheme}_article_pagerank.txt"
+        )
+        filename = os.path.join("data/runs", filename)
+        os.makedirs("data/runs", exist_ok=True)
+
+        # 5 Génération du run
+        total_results = 0
+
+        with open(filename, "w", encoding="utf-8") as f:
+            for query_id, query_text in queries.items():
+                print(f"\n[Query {query_id}] {query_text[:60]}...")
+
+                # Recherche BM25
+                if weighting_scheme == "bm25":
+                    results = ranker.search_query(
+                        query_text,
+                        weighting_scheme="bm25",
+                        top_k=top_k,
+                        k1=k1,
+                        b=b
+                    )
+                else:
+                    results = ranker.search_query(
+                        query_text,
+                        weighting_scheme=weighting_scheme,
+                        top_k=top_k
+                    )
+
+                # Combinaison BM25 + PageRank
+                reranked = []
+                """
+                for doc_id, bm25_score in results:
+                    pr = pr_scores.get(str(doc_id), 0.0)
+                    final_score = (
+                        pagerank_alpha * bm25_score
+                        + (1 - pagerank_alpha) * pr
+                    )
+                    reranked.append((doc_id, final_score))
+
+                reranked.sort(key=lambda x: -x[1])
+                """
+                reranked = self.rerank_with_pagerank(results, pr_scores, pagerank_alpha)
+
+                
+                # Écriture du run (articles uniquement)
+                rank = 1
+                for doc_id, score in reranked[:top_k]:
+                    f.write(
+                        f"{query_id} Q0 {doc_id} {rank} "
+                        f"{score:.6f} {self.team_name} /article[1]\n"
+                    )
+                    rank += 1
+                    total_results += 1
+
+                print(f"  {rank-1} articles écrits")
+
+        print(f"\nRUN TERMINÉ: {filename}")
+        print(f"Résultats totaux: {total_results}")
+        print(f"Attendu: {len(queries) * top_k}")
+
+        return filename
+
+    def generate_article_run_with_anchors(
+        self,
+        xml_dir: str,
+        queries: Dict[int, str],
+        config: Dict,
+        run_id: str = "article_anchor",
+        top_k: int = 1500,
+        alpha_content: float = 1.0,
+        alpha_anchor: float = 0.7,
+        k1: float = 1.2,
+        b: float = 0.75
+    ) -> str:
+        """
+        Exercice 5 — Articles runs exploiting anchor texts (BM25F).
+        """
+
+        print(f"\n{'='*70}")
+        print("EXERCICE 5 — ARTICLE RUN + ANCHORS (BM25F)")
+        print('='*70)
+
+        # 1 Extraction des anchor texts
+        print("\n[ANCHORS] Extraction des ancres entrantes...")
+        anchor_texts = extract_anchor_texts(xml_dir)
+        print(f"  Articles avec ancres: {len(anchor_texts)}")
+
+        # 2 Index articles (classique)
+        index_data = self.create_or_load_index(xml_dir, "article", config)
+        index = index_data["index"]
+        ranker = RankedRetrieval(index)
+
+        # 3 Nom du fichier
+        filename = (
+            f"{self.team_name}_{run_id}_"
+            f"bm25f_article_anchor.txt"
+        )
+        filename = os.path.join("data/runs", filename)
+        os.makedirs("data/runs", exist_ok=True)
+
+        total_results = 0
+
+        with open(filename, "w", encoding="utf-8") as f:
+            for query_id, query_text in queries.items():
+                print(f"\n[Query {query_id}] {query_text[:60]}...")
+
+                # BM25 sur contenu
+                content_results = ranker.search_query(
+                    query_text,
+                    weighting_scheme="bm25",
+                    top_k=top_k,
+                    k1=k1,
+                    b=b
+                )
+
+                scores = defaultdict(float)
+
+                # 4 Score contenu
+                for doc_id, score in content_results:
+                    scores[doc_id] += alpha_content * score
+
+                # 5 Score ancres
+                query_terms = ranker.process_query_terms(query_text)
+
+                for doc_id, anchor_text in anchor_texts.items():
+                    anchor_score = 0.0
+                    for term in query_terms:
+                        tf = anchor_text.lower().count(term)
+                        anchor_score += tf
+
+                    if anchor_score > 0:
+                        scores[int(doc_id)] += alpha_anchor * anchor_score
+
+                # 6 Tri final
+                ranked = sorted(scores.items(), key=lambda x: -x[1])[:top_k]
+
+                rank = 1
+                for doc_id, score in ranked:
+                    f.write(
+                        f"{query_id} Q0 {doc_id} {rank} "
+                        f"{score:.6f} {self.team_name} /article[1]\n"
+                    )
+                    rank += 1
+                    total_results += 1
+
+                print(f"  {rank-1} articles écrits")
+
+        print(f"\nRUN TERMINÉ: {filename}")
+        print(f"Résultats totaux: {total_results}")
+        print(f"Attendu: {len(queries) * top_k}")
+
         return filename
 
     def generate_element_run(self, xml_dir: str, queries: Dict[int, str],
@@ -808,4 +973,246 @@ class INEXRunGenerator:
         
         return new_full_path
 
+
+# ==================== SÉLECTIONS POUR PAGERANK ====================
+
+"""
+def extract_inex_link_graph(xml_dir: str):
+    
+    #Construit un graphe {doc_id: set(out_links)}
+    
+    graph = defaultdict(set)
+    all_docs = set()
+
+    for root, _, files in os.walk(xml_dir):
+        for file in files:
+            if not file.endswith(".xml"):
+                continue
+
+            doc_id = file.replace(".xml", "")
+            all_docs.add(doc_id)
+
+            file_path = os.path.join(root, file)
+            try:
+                tree = ET.parse(file_path)
+                root_xml = tree.getroot()
+
+                for link in root_xml.iter("link"):
+                    href = link.attrib.get("{http://www.w3.org/1999/xlink}href", "")
+                    match = re.search(r"/(\d+)\.xml", href)
+                    if match:
+                        target_id = match.group(1)
+                        graph[doc_id].add(target_id)
+
+            except Exception:
+                continue
+
+    # S'assurer que tous les docs sont présents
+    for d in all_docs:
+        graph.setdefault(d, set())
+
+    return graph
+"""
+
+def extract_inex_link_graph(xml_dir: str):
+    """
+    Construit le graphe des liens INEX entre articles
+    et calcule des statistiques détaillées.
+    """
+
+    graph = defaultdict(set)
+    all_docs = set()
+
+    # Statistiques
+    total_links = 0
+    article_to_article_links = 0
+    external_links = 0
+    internal_refs = 0
+    parse_errors = 0
+
+    for root, _, files in os.walk(xml_dir):
+        for file in files:
+            if not file.endswith(".xml"):
+                continue
+
+            doc_id = file.replace(".xml", "")
+            all_docs.add(doc_id)
+
+            file_path = os.path.join(root, file)
+
+            try:
+                tree = ET.parse(file_path)
+                root_xml = tree.getroot()
+
+                for link in root_xml.iter("link"):
+                    total_links += 1
+
+                    href = link.attrib.get(
+                        "{http://www.w3.org/1999/xlink}href", ""
+                    )
+
+                    # Lien interne (ancre ou xpointer)
+                    if href.startswith("#"):
+                        internal_refs += 1
+                        continue
+
+                    # Lien vers un autre article INEX
+                    match = re.search(r"/(\d+)\.xml", href)
+                    if match:
+                        target_id = match.group(1)
+                        article_to_article_links += 1
+                        graph[doc_id].add(target_id)
+                    else:
+                        external_links += 1
+
+            except Exception:
+                parse_errors += 1
+                continue
+
+    # S'assurer que tous les articles sont présents
+    for d in all_docs:
+        graph.setdefault(d, set())
+
+    stats = {
+        "num_articles": len(all_docs),
+        "total_links": total_links,
+        "article_to_article_links": article_to_article_links,
+        "external_links": external_links,
+        "internal_refs": internal_refs,
+        "parse_errors": parse_errors,
+        "avg_out_degree": (
+            sum(len(v) for v in graph.values()) / len(graph)
+            if graph else 0.0
+        ),
+        "max_out_degree": max((len(v) for v in graph.values()), default=0),
+        "min_out_degree": min((len(v) for v in graph.values()), default=0),
+    }
+
+    return graph, stats
+
+def compute_pagerank(
+    graph,
+    damping=0.85,
+    max_iter=50,
+    tol=1e-6
+):
+    """
+    PageRank standard avec téléportation
+    """
+    nodes = list(graph.keys())
+    N = len(nodes)
+
+    pr = {n: 1.0 / N for n in nodes}
+
+    for _ in range(max_iter):
+        new_pr = {}
+        diff = 0.0
+
+        for node in nodes:
+            incoming_sum = 0.0
+
+            for src in nodes:
+                if node in graph[src]:
+                    out_degree = len(graph[src])
+                    if out_degree > 0:
+                        incoming_sum += pr[src] / out_degree
+
+            new_pr[node] = (1 - damping) / N + damping * incoming_sum
+            diff += abs(new_pr[node] - pr[node])
+
+        pr = new_pr
+        if diff < tol:
+            break
+
+    return pr
+
+def compute_pagerank_optimized(
+    graph,
+    damping=0.85,
+    max_iter=50,
+    tol=1e-6
+):
+    nodes = list(graph.keys())
+    N = len(nodes)
+
+    pr = {n: 1.0 / N for n in nodes}
+
+    for _ in range(max_iter):
+        new_pr = {n: (1 - damping) / N for n in nodes}
+        diff = 0.0
+
+        for src, out_links in graph.items():
+            if not out_links:
+                continue
+
+            share = damping * pr[src] / len(out_links)
+            for dst in out_links:
+                new_pr[dst] += share
+
+        for n in nodes:
+            diff += abs(new_pr[n] - pr[n])
+
+        pr = new_pr
+        if diff < tol:
+            break
+
+    return pr
+
+def normalize_scores(scores: dict):
+    max_val = max(scores.values())
+    min_val = min(scores.values())
+
+    if max_val == min_val:
+        return {k: 1.0 for k in scores}
+
+    return {
+        k: (v - min_val) / (max_val - min_val)
+        for k, v in scores.items()
+    }
+
+def extract_anchor_texts(xml_dir: str):
+    """
+    Construit un mapping:
+    article_id -> texte des ancres ENTRANTES
+    """
+    anchor_texts = defaultdict(list)
+
+    for root, _, files in os.walk(xml_dir):
+        for file in files:
+            if not file.endswith(".xml"):
+                continue
+
+            source_id = file.replace(".xml", "")
+            file_path = os.path.join(root, file)
+
+            try:
+                tree = ET.parse(file_path)
+                root_xml = tree.getroot()
+
+                for link in root_xml.iter("link"):
+                    href = link.attrib.get(
+                        "{http://www.w3.org/1999/xlink}href", ""
+                    )
+
+                    match = re.search(r"/(\d+)\.xml", href)
+                    if not match:
+                        continue
+
+                    target_id = match.group(1)
+
+                    # Texte de l'ancre
+                    anchor = "".join(link.itertext()).strip()
+                    if anchor:
+                        anchor_texts[target_id].append(anchor)
+
+            except Exception:
+                continue
+
+    # Concaténer les ancres par article
+    anchor_texts = {
+        doc_id: " ".join(texts)
+        for doc_id, texts in anchor_texts.items()
+    }
+
+    return anchor_texts
 

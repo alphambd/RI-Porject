@@ -7,9 +7,9 @@ from xml_run_manager import INEXRunGenerator
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
 #from field_weighted_index import generate_field_weighted_run_cached
-from field_weighted_index import FieldWeightedIndex
-from field_weighted_index import generate_field_weighted_run_simple, generate_field_weighted_run_with_rest
-from new_field_weighted_index import generate_field_weighted_run
+from field_weighted_index0 import FieldWeightedIndex
+from field_weighted_index0 import generate_field_weighted_run_simple, generate_field_weighted_run_with_rest
+from field_weighted_index import generate_field_weighted_run
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
 TEAM_NAME = "AlphaAnaClement"
