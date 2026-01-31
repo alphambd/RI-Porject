@@ -4,10 +4,25 @@ import time
 import hashlib
 import pickle
 from collections import defaultdict, Counter
+from tokenize import String
 from typing import List, Dict, Set, Optional, Union
 import unicodedata
 import html
 
+from matplotlib import text
+from inex_document import INEXDocument
+
+# IMPORT LXML pour parsing XML correct (optionnel)
+try:
+    from lxml import etree
+    LXML_AVAILABLE = True
+except ImportError:
+    LXML_AVAILABLE = False
+    import xml.etree.ElementTree as ET
+
+from unidecode import unidecode
+from porterstemmer import PorterStemmer
+from snowballstemmer import stem_word
 from inex_document import INEXDocument
 
 class WeightedInvertedIndex:
@@ -17,6 +32,8 @@ class WeightedInvertedIndex:
         self.dictionary = defaultdict(dict)  # term -> {doc_id: freq}
         self.doc_ids = []                    # Liste de tous les docs
         self.doc_lengths = {}                # doc_id -> longueur en terms
+        self.doc_lengths_char = {}           # doc_id -> longueur en character du doc
+        self.element_lengths_char = {}       # element_id -> longueur en character de l'élément
         self.doc_count = 0
         self.total_terms = 0
         
@@ -54,8 +71,6 @@ class WeightedInvertedIndex:
         if 'target_tags' in kwargs:
             self.target_tags = kwargs['target_tags']
         
-        # mettre use_lxml par défaut : 
-        use_lxml = True
         if 'use_lxml' in kwargs:
             self.use_lxml = kwargs['use_lxml'] and LXML_AVAILABLE
     
@@ -98,8 +113,17 @@ class WeightedInvertedIndex:
     # Méthodes de tokenization
     def _tokenize_basic(self, text):
         """Tokenization basique: seulement lettres"""
-        text = re.sub(r'[^A-Za-z\s]', ' ', text)
-        return [t for t in text.split() if len(t) > 0]
+        #text = re.sub(r'[^A-Za-z\s]', ' ', text)
+        #return [t for t in text.split() if len(t) > 0]
+
+        """
+        Extraction des tokens bruts du texte.
+        Retire ponctuation et chiffres si nécessaire.
+        """
+        # Extraire directement les séquences de lettres
+        tokens = re.findall(r'[a-zA-Z]+', text)
+        
+        return tokens
     
     def _tokenize_extended(self, text):
         """Tokenization étendue: lettres et chiffres"""
@@ -228,7 +252,7 @@ class WeightedInvertedIndex:
         for i, xml_file in enumerate(xml_files):
             if i % 100 == 0:
                 print(f"\r  Traitement article {i}/{len(xml_files)}...", end="", flush=True)
-
+            
             doc = INEXDocument(xml_file)
             if not doc.parse(self.use_lxml):
                 continue
@@ -236,8 +260,9 @@ class WeightedInvertedIndex:
             # Utiliser extract_full_article_text() qui fait le nettoyage complet
             text = doc.extract_full_article_text()
             
-            if text and len(text) > 100:
+            if text and text.strip():
                 doc_id = doc.doc_id
+                self.doc_lengths_char[doc_id] = len(text)
                 
                 if self._index_document_content(doc_id, text):
                     self.xml_cache_keys.add(doc_id)
@@ -265,10 +290,16 @@ class WeightedInvertedIndex:
         """Alias pour compatibilité avec le code existant"""
         return self.build_index_from_xml_collection(xml_dir, max_files)
     
+    def build_index_from_elements(self, xml_dir: str, 
+                                 target_tags: List[str] = ['sec', 'p', 'bdy'],
+                                 max_files: Optional[int] = None) -> float:
+        #Alias pour compatibilité
+        return self.build_index_from_xml_elements(xml_dir, target_tags, max_files)
+    
     def build_index_from_xml_elements(self, xml_dir: str, 
-                                     target_tags: List[str] = ['sec', 'p', 'bdy'],
-                                     max_files: Optional[int] = None) -> float:
-        """Indexe les éléments individuels (phase BROWSE ou exercices 3-4)"""
+                                    target_tags: List[str] = ['sec', 'p', 'bdy'],
+                                    max_files: Optional[int] = None) -> float:
+        """Indexe les éléments individuels avec leurs chemins XML complets."""
         print(f"Indexation des éléments {target_tags}...")
         start_time = time.time()
         
@@ -277,6 +308,7 @@ class WeightedInvertedIndex:
         xml_files = self._get_xml_files(xml_dir, max_files)
         
         total_elements = 0
+        stats_by_tag = defaultdict(int)
         
         for i, xml_file in enumerate(xml_files):
             if i % 50 == 0:
@@ -286,24 +318,30 @@ class WeightedInvertedIndex:
             if not doc.parse(self.use_lxml):
                 continue
             
-            # Extraire tous les éléments cibles
-            elements = doc.get_inex_elements(set(target_tags))
+            # Extraire tous les éléments cibles avec leurs chemins complets
+            elements = doc.get_all_elements_with_full_paths(target_tags)
             
             for elem_data in elements:
                 elem_id = elem_data['elem_id']
                 elem_text = elem_data['text']
+                full_path = elem_data['full_path']
+                tag = elem_data['tag']
+                
+                # Statistiques de débogage
+                stats_by_tag[tag] += 1
                 
                 metadata = {
                     'doc_id': elem_data['doc_id'],
                     'parent_doc_id': elem_data['doc_id'],
+                    'element_text_size': len(elem_text),
                     'element_id': elem_id,
-                    'element_char_size': len(elem_text),
-                    'xml_path': elem_data.get('xml_path', elem_data.get('full_path', '/article[1]')),
-                    'tag': elem_data['tag'],
+                    'xml_path': full_path,
+                    'tag': tag,
                     'type': 'element',
                     'source_file': xml_file,
                     'depth': elem_data.get('depth', 0),
-                    'priority': elem_data.get('priority', 0)
+                    'text': elem_text,
+                    'text_length': elem_data.get('text_length', 0)
                 }
                 
                 if self._index_document_content(elem_id, elem_text, metadata):
@@ -314,15 +352,17 @@ class WeightedInvertedIndex:
             self.avg_doc_length = self.total_terms / self.doc_count
         
         indexing_time = time.time() - start_time
+        
+        # Afficher les statistiques de débogage
+        print(f"\nStatistiques des éléments extraits:")
+        for tag in ['bdy', 'sec', 'p']:
+            count = stats_by_tag.get(tag, 0)
+            percentage = (count / total_elements * 100) if total_elements > 0 else 0
+            print(f"  {tag}: {count} éléments ({percentage:.1f}%)")
+        
         print(f"Indexation terminée: {total_elements} éléments en {indexing_time:.2f}s")
         return indexing_time
-    
-    def build_index_from_elements(self, xml_dir: str, 
-                                 target_tags: List[str] = ['sec', 'p', 'bdy'],
-                                 max_files: Optional[int] = None) -> float:
-        """Alias pour compatibilité"""
-        return self.build_index_from_xml_elements(xml_dir, target_tags, max_files)
-    
+
     def _get_xml_files(self, xml_dir: str, max_files: Optional[int] = None) -> List[str]:
         """Liste récursivement les fichiers XML"""
         xml_files = []
@@ -403,6 +443,8 @@ class WeightedInvertedIndex:
         index.dictionary = defaultdict(dict, data['dictionary'])
         index.doc_ids = data['doc_ids']
         index.doc_lengths = data['doc_lengths']
+        index.doc_lengths_char = data['doc_lengths_char']
+        index.element_lengths_char = data['element_lengths_char']
         index.doc_count = data['doc_count']
         index.total_terms = data['total_terms']
         index.metadata_store = data['metadata_store']
@@ -480,4 +522,3 @@ class WeightedInvertedIndex:
             'avg_doc_length': avg_doc_length,
             'avg_term_length': avg_term_length
         }
-    
