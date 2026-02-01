@@ -249,7 +249,7 @@ def exercice3():
     run_params = {
         'top_articles': 1500,
         'max_elements': 1500,
-        'max_elements_per_article': 5,  
+        'max_elements_per_article': 2,  
         'weighting_scheme': 'ltn',
         'avoid_overlaps': True,
         'min_element_score': 0.1,  
@@ -258,12 +258,12 @@ def exercice3():
 
     bonus_tags = {
         'bdy': 1.0,
-        'sec': 1.5,
-        'p':   1.8
+        'sec': 1.1,
+        'p':   1.2
     }
     
     filename = run_gen.generate_fetch_browse(
-        run_id="_1_testXML",
+        run_id="_4_testXML",
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
         fetch_config=fetch_config,
@@ -273,6 +273,56 @@ def exercice3():
     )
     
     return filename
+    
+def exercice3_test_stop_stem():
+    """
+    Exercice 3 - Phase 2: Test des stop-words et stemmer
+    Pondération + Stop-words + Stemmer pour les éléments XML
+    Granularité fixe: [bdy, sec, p]
+    """
+
+    run_params = {
+        'top_articles': 1500,
+        'max_elements': 1500,
+        'max_elements_per_article': 5,  
+        'weighting_scheme': 'ltn',
+        'avoid_overlaps': True,
+        'min_element_score': 0.1,  
+        'fallback_to_article': True
+    }
+    
+    combinations = [
+        # (weighting, stop, stemmer, run_id)
+        ("ltn", "nostop", "nostem", "testXMLel"),
+        ("ltn", "nostop", "porter", "testXMLel"),
+        ("ltn", "stop671", "nostem", "testXMLel"),
+        ("ltn", "stop671", "porter", "testXMLel"),
+    ]
+
+    generator = INEXRunGenerator()
+
+    for i, (weighting, stop, stemmer, run_id) in enumerate(combinations, 1):
+        print(f"\n{'='*60}")
+        print(f"CONFIGURATION {i}/4: {weighting.upper()}, stop={stop}, stemmer={stemmer}")
+        print('='*60)
+        
+        # Configuration simple
+        config = {
+            'tokenization': 'basic',
+            'stemmer': stemmer,
+            'stop_words': stop,
+            #'use_lxml': True
+        }
+        
+        # Appel direct à la fonction
+        filename = generator.generate_fetch_browse(
+            run_id=run_id+f"_{i+1}",
+            xml_dir=XML_DIR,
+            queries=INEX_QUERIES,
+            fetch_config=config,
+            browse_config=config,
+            run_params=run_params
+        )
 
 # ==================== EXERCICE 4 ====================
 
@@ -606,7 +656,7 @@ def exercice1_with_lnu_bm25l():
     generator = INEXRunGenerator()
 
     # Configurations étendues à tester
-    combinations = [
+    """combinations = [
         # === BM25L - Exploration du paramètre delta (δ) ===
         ("bm25l", "stop671", "porter", "bm25l_delta_low", {"k1": 1.2, "b": 0.75, "delta": 0.2}),
         ("bm25l", "stop671", "porter", "bm25l_delta_mid", {"k1": 1.2, "b": 0.75, "delta": 0.5}),  # Valeur standard
@@ -617,7 +667,7 @@ def exercice1_with_lnu_bm25l():
         ("bm25l", "stop671", "porter", "bm25l_k1_low", {"k1": 0.8, "b": 0.75, "delta": 0.5}),
         ("bm25l", "stop671", "porter", "bm25l_k1_high", {"k1": 1.8, "b": 0.75, "delta": 0.5}),
         ("bm25l", "stop671", "porter", "bm25l_k1_vhigh", {"k1": 2.2, "b": 0.75, "delta": 0.5}),
-
+        
         # === BM25L - Exploration b avec delta fixe ===
         ("bm25l", "stop671", "porter", "bm25l_b_low", {"k1": 1.2, "b": 0.3, "delta": 0.5}),
         ("bm25l", "stop671", "porter", "bm25l_b_high", {"k1": 1.2, "b": 0.9, "delta": 0.5}),
@@ -643,6 +693,42 @@ def exercice1_with_lnu_bm25l():
         # === Comparaison BM25L vs BM25 standard ===
         ("bm25", "stop671", "porter", "bm25_std_k1.2_b0.75", {"k1": 1.2, "b": 0.75}),  # Pour comparaison
         ("bm25", "stop671", "porter", "bm25_std_k1.5_b0.65", {"k1": 1.5, "b": 0.65}),  # Pour comparaison
+    ]"""
+    combinations = [
+        # === BM25L - Exploration k1 avec delta fixe ===
+        #("bm25l", "stop671", "porter", "bm25l_k1_low", {"k1": 0.8, "b": 0.75, "delta": 0.5}),
+        #("bm25l", "stop671", "porter", "bm25l_k1_high", {"k1": 1.0, "b": 0.75, "delta": 0.5}),
+        #("bm25l", "stop671", "porter", "bm25l_k1_vhigh", {"k1": 1.2, "b": 0.75, "delta": 0.5}),
+        #("bm25l", "stop671", "porter", "bm25l_k1_vhigh", {"k1": 1.4, "b": 0.75, "delta": 0.5}),
+        #("bm25l", "stop671", "porter", "bm25l_k1_vhigh", {"k1": 1.6, "b": 0.75, "delta": 0.5}),
+
+        # === BM25L - Exploration b avec delta fixe ===
+        #("bm25l", "stop671", "porter", "bm25l_b", {"k1": 1.0, "b": 0.6, "delta": 0.5}),
+        #("bm25l", "stop671", "porter", "bm25l_b", {"k1": 1.0, "b": 0.7, "delta": 0.5}),
+        #("bm25l", "stop671", "porter", "bm25l_b", {"k1": 1.0, "b": 0.8, "delta": 0.5}),
+        #("bm25l", "stop671", "porter", "bm25l_b", {"k1": 1.2, "b": 0.6, "delta": 0.5}),
+        #("bm25l", "stop671", "porter", "bm25l_b", {"k1": 1.2, "b": 0.8, "delta": 0.5}),
+
+        # === BM25L - Exploration du paramètre delta (δ) ===
+        #("bm25l", "stop671", "porter", "bm25l_delta", {"k1": 1.0, "b": 0.7, "delta": 0.2}),
+        #("bm25l", "stop671", "porter", "bm25l_delta", {"k1": 1.0, "b": 0.7, "delta": 0.5}),  # Valeur standard
+        #("bm25l", "stop671", "porter", "bm25l_delta", {"k1": 1.0, "b": 0.7, "delta": 0.8}),
+        #("bm25l", "stop671", "porter", "bm25l_delta", {"k1": 1.0, "b": 0.7, "delta": 1.0}),
+        #("bm25l", "stop671", "porter", "bm25l_delta", {"k1": 1.0, "b": 0.7, "delta": 1.2}),
+
+        # === lnu - Variantes stopwords et stemming ===
+        #("lnu", "nostop", "nostem", "lnu_slope_mid", {"slope": 0.2}),
+        #("lnu", "stop671", "nostem", "lnu_slope_mid", {"slope": 0.2}),  # Valeur standard
+        #("lnu", "nostop", "porter", "lnu_slope_mid", {"slope": 0.2}),
+        #("lnu", "stop671", "porter", "lnu_slope_mid", {"slope": 0.2}),
+
+        # === lnu - Exploration du slope ===
+        ("lnu", "stop671", "nostem", "lnu_slope_low", {"slope": 0.05}),
+        ("lnu", "stop671", "nostem", "lnu_slope_low", {"slope": 0.1}),
+        ("lnu", "stop671", "nostem", "lnu_slope_mid", {"slope": 0.2}),  # Valeur standard
+        ("lnu", "stop671", "nostem", "lnu_slope_high", {"slope": 0.3}),
+        ("lnu", "stop671", "nostem", "lnu_slope_high", {"slope": 0.4}),
+
     ]
 
     print(f"Nombre total de runs à générer: {len(combinations)}")

@@ -261,6 +261,37 @@ class INEXRunGenerator:
         
         return xml_path
 
+    def select_most_specific_elements(self, elements: List[Dict]) -> List[Dict]:
+        """
+        Pour chaque groupe d'éléments chevauchants,
+        conserve uniquement l'élément le plus spécifique (le plus profond).
+        """
+        if not elements:
+            return []
+
+        # Trier par profondeur décroissante (le plus spécifique d'abord)
+        elements.sort(key=lambda x: x['xml_path'].count('/'), reverse=True)
+
+        selected = []
+        selected_paths = []
+
+        for elem in elements:
+            xml_path = elem['xml_path']
+
+            # Vérifier s'il est ancêtre ou descendant d'un élément déjà sélectionné
+            conflict = False
+            for taken in selected_paths:
+                if self._are_paths_overlapping(xml_path, taken):
+                    conflict = True
+                    break
+
+            if not conflict:
+                selected.append(elem)
+                selected_paths.append(xml_path)
+
+        return selected
+
+
     def select_elements_score_plus_depth(
         self,
         elements: List[Dict],
@@ -431,12 +462,20 @@ class INEXRunGenerator:
                         )
 
                         # Sélectionner les meilleurs éléments
+                        
                         selected = self.select_elements_score_plus_depth(
                             scored_elements,
                             bonus_by_tag=bonus_by_tag,
                             max_elements=params['max_elements_per_article'],
                             avoid_overlaps=params['avoid_overlaps']
                         )
+                        
+                        """
+                        selected = self.select_most_specific_elements(scored_elements)
+
+                        # Limiter si besoin
+                        selected = selected[:params['max_elements_per_article']]
+                        """
                         
                         if selected:
                             articles_with_elements += 1
