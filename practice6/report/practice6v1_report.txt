@@ -1,0 +1,307 @@
+---------------------------
+Alpha   DIALLO
+Clément BOULAY
+Ana     SANOU
+---------------------------
+
+        /////////////////////////////////////////////////////////////
+        *                                                           *
+        *       Rapport - Practice5_Structured_IR_at_INEX           *
+        *                                                           *
+        /////////////////////////////////////////////////////////////
+
+
+=============================================================
+EXERCICE 1: XML articles runs 
+=============================================================
+
+Il a été réalisé en 2 phases : Test de 12 runs (Weighting + Stopwords + Stemmer) et Optimisation de BM25.
+
+-------------------------------------------------------------
+1 - Test de 12 runs (Weighting + Stopwords + Stemmer) : 
+-------------------------------------------------------------
+
+Configuration : 
+- Weighting : LTN, LTC, BM25 (3)
+- Stemming : nostem, porter (2)  
+- Stop-words : nostop, stop671 (2)
+- Total : 3 × 2 × 2 = 12 runs
+
+BM25 (stop671, porter)  -> MAgP = 0.1950
+BM25 (stop671, nostem)  -> MAgP = 0.1906
+BM25 (nostop, nostem)   -> MAgP = 0.1620
+BM25 (nostop, porter)   -> MAgP = 0.0971
+
+ltn (stop671, porter)   -> MAgP = 0.1583
+ltn (stop671, nostem)   -> MAgP = 0.1497
+ltn (nostop, nostem)    -> MAgP = 0.1459
+ltn (nostop, porter)    -> MAgP = 0.1396
+
+ltc (stop671, porter)   -> MAgP = 0.0441
+ltc (nostop, porter)    -> MAgP = 0.0411
+ltc (stop671, nostem)   -> MAgP = 0.0368
+ltc (nostop, nostem)    -> MAgP = 0.0344
+
+
+Analyse des résultats
+-------------------------------------------------------------
+
+Comparaison des modèles
+---------------------------
+Les résultats montrent que le modèle BM25 est globalement le plus
+performant. Le meilleur score obtenu avec BM25 est MAgP = 0.195.
+Le modèle ltn présente des performances intermédiaires, avec un score
+maximal d’environ MAgP = 0.1583.
+Le modèle ltc est nettement moins performant, avec des scores très
+faibles (MAgP < 0.05).
+
+Ces résultats confirment que BM25 est plus robuste que les schémas
+SMART classiques sur cette collection.
+
+
+Impact des stop-words
+---------------------------
+L’utilisation de la liste de stop-words stop671 améliore systématiquement
+les performances pour BM25 et ltn.
+À l’inverse, l’absence de stop-words entraîne une baisse significative
+des performances, en particulier pour BM25.
+
+
+Impact du stemming
+---------------------------
+L’utilisation du stemmer de Porter améliore les performances de BM25,
+notamment lorsqu’il est combiné avec l’utilisation des stop-words.
+Pour le modèle ltn, l’impact du stemming est plus modéré mais reste
+globalement positif.
+
+
+Meilleure configuration observée
+--------------------------------
+La meilleure configuration issue de ces 12 runs est :
+
+- Modèle : BM25
+- Stop-words : stop671
+- Stemmer : Porter
+- Paramètres BM25 : k1 = 1.2, b = 0.75
+
+Cette configuration atteint :
+- MAgP = 0.195
+- iP[0.1] = 0.5584
+
+Elle est retenue comme baseline pour la suite du TP.
+
+
+-------------------------------------------------------------
+2 - Optimisation de BM25 : 
+-------------------------------------------------------------
+
+Après avoir identifié la meilleure configuration générale, une
+optimisation des paramètres du modèle BM25 a été réalisée.
+D’après les résultats du "Practice 4", la valeur k1 = 1.2 s’est révélée
+la plus efficace. Ce paramètre est donc fixé, et seule la valeur de b
+est optimisée.
+
+Les valeurs de b testées appartiennent à l’intervalle [0.4, 0.8].
+
+
+Résultats de l’optimisation
+---------------------------
+Les résultats montrent que les meilleures performances sont obtenues
+pour des valeurs de b comprises entre 0.5 et 0.7.
+La meilleure performance globale est atteinte pour b = 0.65.
+
+b = 0.4  -> MAgP = 0.2056
+b = 0.5  -> MAgP = 0.2069
+b = 0.6  -> MAgP = 0.2088
+b = 0.65 -> MAgP = 0.2113 (meilleur score)
+b = 0.7  -> MAgP = 0.2055
+b = 0.8  -> MAgP = 0.1857
+
+
+Configuration finale retenue
+----------------------------
+La configuration BM25 optimisée est la suivante :
+
+- Modèle : BM25
+- k1 = 1.2
+- b = 0.65
+- Stop-words : stop671
+- Stemmer : Porter
+
+Cette configuration atteint :
+- MAgP = 0.2113
+- iP[0.1] = 0.5178
+
+Elle constitue la meilleure baseline textuelle pour les exercices
+suivants exploitant la structure des documents (liens et anchors).
+
+
+=============================================================
+EXERCICE 2: XML elements runs
+=============================================================
+
+=============================================================
+EXERCICE 3: articles runs, exploiting structure (BM25-FW/FR) 
+=============================================================
+
+Bases lines :
+- BM25 classique : stop671, porter, k = 1.2, b = 0.6
+  MAgP = 0.2088
+- BM25FR : stop671, porter, k=1.2, b=0.6, fields = [title, bdy], alpha = 1
+  MAgP = 0.2076
+- BM25FW = stop671, porter, k=1.2, b=0.6, fields = [title, bdy], alpha = 1
+  0.0817
+
+Méthode d'optimisation : 
+- On fixe une baseline stable
+- On change UN paramètre à la fois
+- On optimise d’abord la structure, ensuite les poids, ensuite la normalisation
+- BM25FR et BM25FW ne se règlent pas pareil
+
+-------------------------------------------------------------
+1 - BM25FR : Optimisation de BM25FR (early combination)
+-------------------------------------------------------------
+
+- Champs : [title, bdy, sec]
+-------------------------------------------------------------
+Optimisation de "alpha" pour sec : 
+alpha = 0.5 : 0.2055
+alpha = 0.3 : 0.2051
+alpha = 1.0 : 0.1882
+alpha = 1.5 : 0.1874
+alpha = 1.8 : 0.1849
+
+- Ajout du champs p et optimisation de sa valeur alpha: 
+-------------------------------------------------------------
+alpha = 0.5 : 0.1993
+alpha = 0.3 : 0.2026 
+alpha = 1.0 : 0.1969
+alpha = 1.5 : 0.1932
+alpha = 1.8 : 0.1925
+
+On remarque que ces stratégies donnent des scores inférieurs à celui de la baseline.
+Après cette remarque, on a décidé de commencé par optimiser le champs "title"
+
+- Optimisation du "alpha" du champs "title", sachant que les autres champs ont un alpha=1 : 
+alpha = 1.0 : 0.1969
+alpha = 1.5 : 0.1969 
+alpha = 2.0 : 0.1969
+alpha = 2.5 : 0.1968
+alpha = 3.0 : 0.1969
+
+Conclusion : aucune amélioration.
+
+- Optimisation du "alpha" du champ "bdy" avec les meilleurs "alpha" des autres champs: 
+-------------------------------------------------------------
+(a.title = 2, a.sec = 0.3, a.p = 0.2)
+alpha = 0.8 : 0.1997 
+alpha = 1.2 : 0.2075 
+alpha = 1.3 : 0.2087 
+alpha = 1.4 : 0.2102 
+alpha = 1.5 : 0.2115
+alpha = 1.6 : 0.2123 
+alpha = 1.7 : 0.2125
+alpha = 1.8 : 0.2132
+
+Conclusion : On observe une amélioration continue au fur et à mésure que "alpha" augmente.
+Mais on a décidé de ne pas trop augmenter "alpha" pour ce champs vu qu'il contient presque tout le texte.
+ 
+
+-------------------------------------------------------------
+1 - BM25FW : Optimisation de BM25FW (late combination) 
+-------------------------------------------------------------
+Score de base : 0.0817
+
+Pour BM25FW, nous avons utilisé une approche différente qui est d'utiliser tous les champs 
+pour faire l'optimisation, car le score des champs [title, bdy] était trop faible.
+
+- Optimisation du champ "p" : 
+-------------------------------------------------------------
+(a.title = a.bdy = a.sec = 1.0)
+
+alpha = 0.8 : 0.1454 
+alpha = 1.0 : 0.1457
+alpha = 1.2 : 0.1591
+alpha = 1.5 : 0.166
+alpha = 1.8 : 0.1686
+alpha = 2.0 : 0.1697
+alpha = 2.5 : 0.1717
+alpha = 3.0 : 0.1722
+alpha = 3.5 : 0.1762
+
+Conclusion : On observe une amélioration continue au fur et à mésure que "alpha" augmente.
+On s'est limité à alpha = 3.5 pour garder une valeur raisonable.
+
+- Optimisation du champ "sec"
+-------------------------------------------------------------
+(a.title = a.bdy = 1.0, a.p = 3.5)
+
+alpha = 1.5 : 0.1752
+alpha = 2.0 : 0.1766
+alpha = 2.5 : 0.1795
+
+Conclusion : On observe une légère amélioration quand alpha tend vers 2.3.
+
+- Optimisation du champ "bdy" :
+-------------------------------------------------------------
+(a.title = 1.0, a.sec = 2.5, a.p = 3.5)
+
+alpha = 1.0 : 0.1824
+alpha = 1.5 : 0.1829
+alpha = 2.0 : 0.1874
+alpha = 2.5 : 0.19
+
+Conclusion : On observe une légère amélioration progressive.
+
+- Optimisation du champ "title" :
+-------------------------------------------------------------
+(a.bdy = 2.5, a.sec = 2.5, a.p = 3.5)
+
+alpha = 1.0 : 0.19
+alpha = 1.5 : 0.1806
+alpha = 2.0 : 0.1717
+alpha = 2.5 : 0.1629
+
+Conclusion : On observe une diminution du MAgP au fur et à mésure que "alpha" augmente, 
+donc on garde la valeure 1.0.
+
+- Ajout du champs "rest" : 
+-------------------------------------------------------------
+(a.title = 1.0, a.bdy = 2.5, a.sec = 2.5, a.p = 3.5)
+
+alpha = 1.0 : 0.2016
+alpha = 1.5 : 0.205
+alpha = 2.0 : 0.2068
+alpha = 2.5 : 0.1913
+
+Conclusion : on observe une augmentation du score jusqu'à alpha = 2, puis il commence à baisser.
+Donc, on garder la valeur alpha = 2.0.
+
+
+
+=============================================================
+EXERCICE 4: XML articles runs, exploiting links
+=============================================================
+
+[STATISTIQUES LIENS INEX]
+Nombre d'articles:        9804
+Total des liens:          149414
+Liens article->article:   134520
+Liens externes:           14544
+Références internes:      350
+Erreurs de parsing:       5303
+Degré de sortie moyen:    11.50
+Degré de sortie max:      1255
+Degré de sortie min:      0
+
+Tuning des paramètres 
+-------------------------------------------------------------
+
+
+=============================================================
+EXERCICE 5: XML articles runs, exploiting anchors 
+=============================================================
+
+Tuning des paramètres 
+-------------------------------------------------------------
+

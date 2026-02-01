@@ -94,8 +94,8 @@ class INEXRunGenerator:
         graph = extract_inex_link_graph(xml_dir)
 
         print("[PageRank] Calcul des scores...")
-        #pr = compute_pagerank(
-        pr = compute_pagerank_optimized(
+        pr = compute_pagerank(
+        #pr = compute_pagerank_optimized(
             graph,
             damping=damping,
             max_iter=max_iter
@@ -316,7 +316,7 @@ class INEXRunGenerator:
 
     def generate_fetch_browse(self, run_id: str, xml_dir: str,
                             queries: Dict[int, str], fetch_config: Dict,
-                            browse_config: Dict, run_params: Dict = None) -> str:
+                            browse_config: Dict, run_params: Dict = None, bonus_tags: Dict = None) -> str:
         """Implémente la stratégie fetch & browse optimisée."""
         default_params = {
             'top_articles': 1000,
@@ -336,6 +336,15 @@ class INEXRunGenerator:
         if run_params:
             default_params.update(run_params)
         params = default_params
+
+        # Bonus par tag pour la sélection score + profondeur
+        if bonus_tags is None:
+            bonus_tags = {
+                'bdy': 1.0,
+                'sec': 1.5,
+                'p':   1.8
+            }
+        bonus_by_tag = bonus_tags
         
         print(f"\n{'='*70}")
         print(f"GÉNÉRATION RUN {run_id}")
@@ -422,12 +431,6 @@ class INEXRunGenerator:
                         )
 
                         # Sélectionner les meilleurs éléments
-                        bonus_by_tag = {
-                            'bdy': 1.0,
-                            'sec': 1.5,
-                            'p':   1.8
-                        }
-
                         selected = self.select_elements_score_plus_depth(
                             scored_elements,
                             bonus_by_tag=bonus_by_tag,
@@ -653,7 +656,7 @@ class INEXRunGenerator:
             if k1 is None:
                 k1 = 1.2
             if b is None:
-                b = 0.6
+                b = 0.75
         
         print(f"\n{'='*70}")
         print(f"RUN ARTICLES - {weighting_scheme.upper()}")
@@ -734,16 +737,20 @@ class INEXRunGenerator:
 
         # 2 Construire le graphe + stats
         print("\n[LINK GRAPH]")
+        
+        graph = extract_inex_link_graph(xml_dir)
+        """
         graph, stats = extract_inex_link_graph(xml_dir)
 
         print("Statistiques du graphe :")
         for k, v in stats.items():
             print(f"  {k}: {v}")
-
+        """
         # 3 Calcul PageRank
         print("\n[PAGERANK] Calcul...")
         #pr_scores = compute_pagerank(graph, damping=0.85, max_iter=50)
-        pr_scores = compute_pagerank_optimized(graph, damping=0.85, max_iter=50)
+        #pr_scores = compute_pagerank_optimized(graph, damping=0.85, max_iter=50)
+        pr_scores = compute_pagerank(graph, damping=0.85, max_iter=50)
         pr_scores = normalize_scores(pr_scores)
 
         print("[PAGERANK] Terminé ✓")
@@ -751,6 +758,8 @@ class INEXRunGenerator:
         # 4 Nom du fichier
         filename = (
             f"{self.team_name}_{run_id}_"
+            f"{config.get('stop_words', 'nostop')}_"
+            f"{config.get('stemmer', 'none')}_"
             f"{weighting_scheme}_article_pagerank.txt"
         )
         filename = os.path.join("data/runs", filename)
@@ -975,8 +984,6 @@ class INEXRunGenerator:
 
 
 # ==================== SÉLECTIONS POUR PAGERANK ====================
-
-"""
 def extract_inex_link_graph(xml_dir: str):
     
     #Construit un graphe {doc_id: set(out_links)}
@@ -1012,13 +1019,13 @@ def extract_inex_link_graph(xml_dir: str):
         graph.setdefault(d, set())
 
     return graph
-"""
 
+
+"""
 def extract_inex_link_graph(xml_dir: str):
-    """
-    Construit le graphe des liens INEX entre articles
-    et calcule des statistiques détaillées.
-    """
+    #Construit le graphe des liens INEX entre articles
+    #et calcule des statistiques détaillées.
+    
 
     graph = defaultdict(set)
     all_docs = set()
@@ -1089,7 +1096,118 @@ def extract_inex_link_graph(xml_dir: str):
     }
 
     return graph, stats
+"""
 
+"""
+def extract_inex_link_graph(xml_dir: str):
+    graph = defaultdict(set)
+    all_docs = set()
+
+    # Statistiques
+    total_links = 0
+    article_to_article_links = 0
+    external_links = 0
+    internal_refs = 0
+    parse_errors = 0
+    # NOUVELLE STAT : liens avec format différent
+    different_formats = defaultdict(int)
+
+    for root, _, files in os.walk(xml_dir):
+        for file in files:
+            if not file.endswith(".xml"):
+                continue
+
+            doc_id = file.replace(".xml", "")
+            all_docs.add(doc_id)
+
+            file_path = os.path.join(root, file)
+
+            try:
+                tree = ET.parse(file_path)
+                root_xml = tree.getroot()
+
+                for link in root_xml.iter("link"):
+                    total_links += 1
+
+                    href = link.attrib.get(
+                        "{http://www.w3.org/1999/xlink}href", ""
+                    )
+
+                    # Lien interne (ancre ou xpointer)
+                    if href.startswith("#"):
+                        internal_refs += 1
+                        continue
+
+                    # Lien vers un autre article INEX
+                    # MODIFICATION : regex plus permissive
+                    match = re.search(r"/(\d+)\.xml", href)
+                    if not match:
+                        # Essayer une autre regex
+                        match = re.search(r"(\d+)\.xml$", href)
+                    
+                    if match:
+                        target_id = match.group(1)
+                        article_to_article_links += 1
+                        graph[doc_id].add(target_id)
+                        
+                        # Analyser le format pour le rapport
+                        if href.startswith("../"):
+                            different_formats["../xxx/"] += 1
+                        elif href.startswith("/"):
+                            different_formats["/xxx/"] += 1
+                        elif "/" not in href:
+                            different_formats["direct"] += 1
+                        else:
+                            different_formats["autre"] += 1
+                    else:
+                        external_links += 1
+
+            except Exception as e:
+                parse_errors += 1
+                print(f"Erreur parsing {file}: {e}")
+                continue
+
+    # S'assurer que tous les articles sont présents
+    for d in all_docs:
+        graph.setdefault(d, set())
+
+    stats = {
+        "num_articles": len(all_docs),
+        "total_links": total_links,
+        "article_to_article_links": article_to_article_links,
+        "external_links": external_links,
+        "internal_refs": internal_refs,
+        "parse_errors": parse_errors,
+        "link_formats": dict(different_formats),  # NOUVEAU
+        "avg_out_degree": (
+            sum(len(v) for v in graph.values()) / len(graph)
+            if graph else 0.0
+        ),
+        "max_out_degree": max((len(v) for v in graph.values()), default=0),
+        "min_out_degree": min((len(v) for v in graph.values()), default=0),
+    }
+
+    # VALIDATION CRITIQUE
+    print("\n" + "="*50)
+    print("VALIDATION DE L'EXTRACTION DES LIENS")
+    print("="*50)
+    print(f"Articles trouvés: {stats['num_articles']}")
+    print(f"Liens totaux: {stats['total_links']}")
+    print(f"Liens article→article: {stats['article_to_article_links']}")
+    print(f"Liens externes: {stats['external_links']}")
+    print(f"Références internes: {stats['internal_refs']}")
+    
+    # Vérifier si on a bien ~100,000 liens article→article
+    expected = 100000
+    actual = stats['article_to_article_links']
+    if abs(actual - expected) / expected > 0.1:  # ±10%
+        print(f"  ATTENTION: {actual} liens article→article (attendu ~{expected})")
+        print("   Vérifiez l'extraction des liens!")
+    else:
+        print(f"  OK: {actual} liens article→article (proche de {expected})")
+    
+    return graph, stats
+"""
 def compute_pagerank(
     graph,
     damping=0.85,

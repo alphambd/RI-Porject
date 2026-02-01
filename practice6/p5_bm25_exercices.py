@@ -357,7 +357,7 @@ def exercice6():
     return filename
 
 
-# ==================== BM25FR Test et Optimisation ====================
+# ==================== BM25F Test et Optimisation ====================
 def run_alpha_sweep_fr(
     base_fields_config: Dict[str, List[str]],
     base_weights: Dict[str, float],
@@ -474,27 +474,27 @@ def exercice5_bm25fw():
     fields_config = {
         'title': ['title'],
         'bdy': ['bdy'],
-        #'sec': ['sec'],
-        #'p': ['p'],
-        #'rest': ['__REST__']
+        'sec': ['sec'],
+        'p': ['p'],
+        #*'rest': ['__REST__']
     }
 
     field_weights = {
         'title': 1.0,
-        'bdy': 1.0,
-        #'sec': 1.0,
-        #'p': 1.0,
+        'bdy': 2.5,
+        'sec': 2.5,
+        'p': 3.5,
         #'rest': 1.0
     }
 
     run_params = {
         'k1': 1.2,
-        'b': 0.6,
+        'b': 0.65,
         'max_files': None
     }
 
     return generate_field_weighted_run(
-        run_id="5",
+        run_id="FW_a.1.0_2.5_2.5_3.5",
         run_type="bm25fw",
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
@@ -562,6 +562,51 @@ def exercice5_bm25fw_test():
         'title': ['title'],
         'bdy':   ['bdy'],
         'sec':   ['sec'],
+        'p':     ['p'],
+        'rest': ['__REST__']
+    }
+
+    base_weights = {
+        'title': 1.0,
+        'bdy':   2.5,
+        'sec':   2.5,
+        'p':     3.5,
+        'rest': 1.0
+    }
+
+    #alpha_p_values = [0.8, 0.9, 1.0, 1.1, 1.2]
+    alpha_rest_values = [1.0, 1.5, 2.0, 2.5, ]
+
+    for alpha in alpha_rest_values:
+        field_weights = dict(base_weights)
+        field_weights['rest'] = alpha
+        #run_id = f"FW_rest_a.{alpha}_a.t2.0_a._a.sec0.3_a.p0.2"
+        run_id = f"FW_rest_a.{alpha}_a.t1.0_a.bdy2.5_a.sec2.5_a.p3.5"
+        generate_field_weighted_run(
+            run_id=run_id,
+            run_type="bm25fw",
+            xml_dir=XML_DIR,
+            queries=INEX_QUERIES,
+            config=config,
+            run_params={
+                'k1': 1.2,
+                'b': 0.65
+            },
+            fields_config=fields_config,
+            field_weights=field_weights
+        )
+
+def exercice5_bm25f_test():
+    config = {
+        'tokenization': 'basic',
+        'stemmer': 'porter',
+        'stop_words': 'stop671'
+    }
+
+    fields_config = {
+        'title': ['title'],
+        'bdy':   ['bdy'],
+        'sec':   ['sec'],
         'p':     ['p']
     }
 
@@ -572,8 +617,8 @@ def exercice5_bm25fw_test():
         'p':     3.5
     }
 
-    #alpha_p_values = [0.8, 0.9, 1.0, 1.1, 1.2]
-    alpha_title_values = [1.0, 1.5, 2.0, 2.5]
+    #alpha_title_values = [1.0, 1.5, 2.0, 2.5]
+    alpha_title_values = [3.0, 3.5]
 
     for alpha in alpha_title_values:
         field_weights = dict(base_weights)
@@ -588,7 +633,7 @@ def exercice5_bm25fw_test():
             config=config,
             run_params={
                 'k1': 1.2,
-                'b': 0.6
+                'b': 0.65
             },
             fields_config=fields_config,
             field_weights=field_weights
@@ -610,16 +655,16 @@ def exercice6_bm25fr():
     fields_config = {
         'title': ['title'],
         'bdy': ['bdy'],
-        #'sec': ['sec'],
-        #'p': ['p'],
+        'sec': ['sec'],
+        'p': ['p'],
         #'rest': ['__REST__']
     }
 
     field_weights = {
-        'title': 1.0,
-        'bdy': 1.0,
-        #'sec': 1.0,
-        #'p': 1.0,
+        'title': 2.0,
+        'bdy': 1.8,
+        'sec': 0.5,
+        'p': 0.3,
         #'rest': 1.0
     }
 
@@ -630,7 +675,7 @@ def exercice6_bm25fr():
     }
 
     return generate_field_weighted_run(
-        run_id="6",
+        run_id="FR_a.2.0_1.8_0.5_0.3",
         run_type="bm25fr",
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
@@ -727,7 +772,6 @@ def exo6_bm25fr_opti_bdy():
             field_weights=field_weights
         )
 
-
 def exo6_bm25fr_opti_sec():
     config = {
         'tokenization': 'basic',
@@ -767,7 +811,6 @@ def exo6_bm25fr_opti_sec():
             'b': 0.6
         }
     )
-
 
 def exo6_bm25fr_opti_p():
     # Baseline FR

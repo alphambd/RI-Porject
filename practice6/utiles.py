@@ -1,4 +1,8 @@
 import os
+import re
+import xml.etree.ElementTree as ET
+import time
+from typing import Dict, List, Optional
 import time
 
 import unicodedata
@@ -8,6 +12,128 @@ from ranked_retrieval import RankedRetrieval
 from collections import Counter, defaultdict
 import re
 
+# ==================== CONSTANTES ET CONFIGURATIONS ====================
+
+TEAM_NAME = "AlphaAnaClement"
+XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
+
+# Requêtes INEX standard
+INEX_QUERIES = {
+    2009011: "olive oil health benefit",
+    2009036: "notting hill film actors", 
+    2009067: "probabilistic models in information retrieval",
+    2009073: "web link network analysis",
+    2009074: "web ranking scoring algorithm",
+    2009078: "supervised machine learning algorithm",
+    2009085: "operating system mutual exclusion"
+}
+
+# Paramètres par défaut
+TARGET_DOC_ID = "23724"
+TARGET_TERM = "ranking"
+TEST_QUERY = "web ranking scoring algorithm"
+
+# ==================== FONCTIONS UTILITAIRES ====================
+
+def clean_runs_directory():
+    """Nettoie le dossier des runs"""
+    if os.path.exists("data/runs"):
+        response = input("\nNettoyer le dossier 'data/runs' ? (o/n): ")
+        if response.lower() == 'o':
+            for file in os.listdir("data/runs"):
+                if file.endswith(".txt"):
+                    os.remove(os.path.join("data/runs", file))
+            print("Dossier 'runs' nettoyé")
+
+def print_exercise_header(exercise_num: int, title: str):
+    """Affiche l'en-tête d'un exercice"""
+    print("\n" + "=" * 70)
+    print(f"EXERCICE {exercise_num}: {title}")
+    print("=" * 70)
+
+def compute_statistics_for_config(index_data: Dict, weighting_scheme: str = "ltn",
+                                k1: float = 1.2, b: float = 0.75) -> Dict:
+    """
+    Calcule les statistiques pour une configuration donnée
+    """
+    index = index_data['index']
+    indexing_time = index_data['indexing_time']
+    
+    # Initialiser le ranker et mesurer le temps de pondération
+    weighting_start = time.time()
+    ranker = RankedRetrieval(index)
+    
+    # Calculer les poids spécifiques
+    query_terms = ranker.process_query_terms(TEST_QUERY)
+    target_terms = ranker.process_query_terms(TARGET_TERM)
+    
+    target_weight = 0.0
+    if target_terms:
+        target_weight = ranker.get_term_weight(
+            target_terms[0], TARGET_DOC_ID, weighting_scheme, k1, b
+        )
+    
+    doc_score = sum(
+        ranker.get_term_weight(t, TARGET_DOC_ID, weighting_scheme, k1, b)
+        for t in query_terms
+    )
+    
+    # Recherche top-10
+    top_docs = ranker.search_query(TEST_QUERY, weighting_scheme, top_k=10, k1=k1, b=b)
+    weighting_time = time.time() - weighting_start
+    
+    # Récupérer les statistiques de base
+    stats = index.get_collection_statistics(indexing_time)
+    
+    # Calculer le temps total
+    total_time = indexing_time + weighting_time
+    
+    return {
+        'index': index,
+        'ranker': ranker,
+        'stats': stats,
+        'indexing_time': indexing_time,
+        'weighting_time': weighting_time,
+        'total_time': total_time,
+        'target_weight': target_weight,
+        'doc_score': doc_score,
+        'top_docs': top_docs,
+        'weighting_scheme': weighting_scheme,
+        'k1': k1,
+        'b': b
+    }
+
+def display_statistics(stats_data: Dict, config_desc: str):
+    """Affiche les statistiques formatées"""
+    print(f"\nSTATISTIQUES DE LA COLLECTION:")
+    print(f"- Configuration: {config_desc}")
+    print(f"- Temps total d'indexation + pondération: {stats_data['total_time']:.2f} secondes")
+    print(f" * Temps d'indexation seul: {stats_data['indexing_time']:.2f} secondes")
+    print(f" * Temps de pondération: {stats_data['weighting_time']:.2f} secondes")
+    print(f"- Nombre total d'occurrences de tokens: {stats_data['stats']['total_tokens']}")
+    print(f"- Nombre de tokens distincts: {stats_data['stats']['distinct_tokens']}")
+    print(f"- Longueur moyenne des tokens: {stats_data['stats']['avg_token_length']:.2f} caractères")
+    print(f"- Nombre total d'occurrences de terms: {stats_data['stats']['total_terms']}")
+    print(f"- Taille du vocabulaire (terms distincts): {stats_data['stats']['distinct_terms']}")
+    print(f"- Longueur moyenne des documents: {stats_data['stats']['avg_doc_length']:.2f} terms")
+    print(f"- Longueur moyenne des terms: {stats_data['stats']['avg_term_length']:.2f} caractères")
+    
+    print(f"- Poids du terme '{TARGET_TERM}' dans le document #{TARGET_DOC_ID}: {stats_data['target_weight']:.6f}")
+    print(f"- RSV du document #{TARGET_DOC_ID} pour '{TEST_QUERY}': {stats_data['doc_score']:.6f}")
+    
+    # Afficher le nombre de documents pertinents potentiels
+    relevant_docs = stats_data['ranker'].search_query(
+        TEST_QUERY, 
+        stats_data['weighting_scheme'], 
+        top_k=None,
+        k1=stats_data['k1'],
+        b=stats_data['b']
+    )
+    print(f"- Documents pertinents potentiels: {len(relevant_docs)}")
+    
+    print(f"- TOP-10 DOCUMENTS pour '{TEST_QUERY}':")
+    for i, (doc_id, score) in enumerate(stats_data['top_docs'], 1):
+        print(f"  {i:2d}. Doc {doc_id}: {score:.6f}")
 
 
 def create_index_with_config(data_file_path, tokenization="basic", stemmer="nostem", stop_words="nostop"):
@@ -143,6 +269,89 @@ def compute_statistics(exercise_num, index_data, weighting_scheme="ltn", k1=1.2,
         print(f"  {i:2d}. Doc {doc_id}: {score:.6f}")
     
     return ranker
+
+
+
+def extract_inex_link_graph():
+    #Construit le graphe des liens INEX entre articles
+    #et calcule des statistiques détaillées.
+    
+
+    graph = defaultdict(set)
+    all_docs = set()
+
+    # Statistiques
+    total_links = 0
+    article_to_article_links = 0
+    external_links = 0
+    internal_refs = 0
+    parse_errors = 0
+
+    for root, _, files in os.walk(XML_DIR):
+        for file in files:
+            if not file.endswith(".xml"):
+                continue
+
+            doc_id = file.replace(".xml", "")
+            all_docs.add(doc_id)
+
+            file_path = os.path.join(root, file)
+
+            try:
+                tree = ET.parse(file_path)
+                root_xml = tree.getroot()
+
+                for link in root_xml.iter("link"):
+                    total_links += 1
+
+                    href = link.attrib.get(
+                        "{http://www.w3.org/1999/xlink}href", ""
+                    )
+
+                    # Lien interne (ancre ou xpointer)
+                    if href.startswith("#"):
+                        internal_refs += 1
+                        continue
+
+                    # Lien vers un autre article INEX
+                    match = re.search(r"/(\d+)\.xml", href)
+                    if match:
+                        target_id = match.group(1)
+                        article_to_article_links += 1
+                        graph[doc_id].add(target_id)
+                    else:
+                        external_links += 1
+
+            except Exception:
+                parse_errors += 1
+                continue
+
+    # S'assurer que tous les articles sont présents
+    for d in all_docs:
+        graph.setdefault(d, set())
+
+    stats = {
+        "num_articles": len(all_docs),
+        "total_links": total_links,
+        "article_to_article_links": article_to_article_links,
+        "external_links": external_links,
+        "internal_refs": internal_refs,
+        "parse_errors": parse_errors,
+        "avg_out_degree": (
+            sum(len(v) for v in graph.values()) / len(graph)
+            if graph else 0.0
+        ),
+        "max_out_degree": max((len(v) for v in graph.values()), default=0),
+        "min_out_degree": min((len(v) for v in graph.values()), default=0),
+    }
+
+    return graph, stats
+
+
+
+
+
+
 
 def generate_inex_run(run_id, ranker, queries, weighting_scheme, test_type=None, granularity="article", stemmer="nostem", 
                       stop_words="nostop", tokenization="basic", k1=1.2, b=0.75, print_top10 = False):

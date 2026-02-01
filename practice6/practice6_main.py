@@ -4,10 +4,14 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 import time
 from typing import Dict, List, Optional
+from p5_bm25_exercices import exercice5_bm25fw, exercice5_bm25fw_test, exercice6_bm25fr
 from xml_run_manager import INEXRunGenerator
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
+from utiles import clean_runs_directory, print_exercise_header, compute_statistics, compute_statistics_for_config, display_statistics, create_index_with_config, create_element_index_with_config, extract_inex_link_graph
+
 from field_weighted_index import generate_field_weighted_run #, generate_field_weighted_run_cached
+from practice6_exercices import exercice1_test, exercice1_bm25_tuning
 
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
@@ -32,95 +36,7 @@ TEST_QUERY = "web ranking scoring algorithm"
 
 # ==================== FONCTIONS UTILITAIRES ====================
 
-def print_exercise_header(exercise_num: int, title: str):
-    """Affiche l'en-tête d'un exercice"""
-    print("\n" + "=" * 70)
-    print(f"EXERCICE {exercise_num}: {title}")
-    print("=" * 70)
 
-def compute_statistics_for_config(index_data: Dict, weighting_scheme: str = "ltn",
-                                k1: float = 1.2, b: float = 0.75) -> Dict:
-    """
-    Calcule les statistiques pour une configuration donnée
-    """
-    index = index_data['index']
-    indexing_time = index_data['indexing_time']
-    
-    # Initialiser le ranker et mesurer le temps de pondération
-    weighting_start = time.time()
-    ranker = RankedRetrieval(index)
-    
-    # Calculer les poids spécifiques
-    query_terms = ranker.process_query_terms(TEST_QUERY)
-    target_terms = ranker.process_query_terms(TARGET_TERM)
-    
-    target_weight = 0.0
-    if target_terms:
-        target_weight = ranker.get_term_weight(
-            target_terms[0], TARGET_DOC_ID, weighting_scheme, k1, b
-        )
-    
-    doc_score = sum(
-        ranker.get_term_weight(t, TARGET_DOC_ID, weighting_scheme, k1, b)
-        for t in query_terms
-    )
-    
-    # Recherche top-10
-    top_docs = ranker.search_query(TEST_QUERY, weighting_scheme, top_k=10, k1=k1, b=b)
-    weighting_time = time.time() - weighting_start
-    
-    # Récupérer les statistiques de base
-    stats = index.get_collection_statistics(indexing_time)
-    
-    # Calculer le temps total
-    total_time = indexing_time + weighting_time
-    
-    return {
-        'index': index,
-        'ranker': ranker,
-        'stats': stats,
-        'indexing_time': indexing_time,
-        'weighting_time': weighting_time,
-        'total_time': total_time,
-        'target_weight': target_weight,
-        'doc_score': doc_score,
-        'top_docs': top_docs,
-        'weighting_scheme': weighting_scheme,
-        'k1': k1,
-        'b': b
-    }
-
-def display_statistics(stats_data: Dict, config_desc: str):
-    """Affiche les statistiques formatées"""
-    print(f"\nSTATISTIQUES DE LA COLLECTION:")
-    print(f"- Configuration: {config_desc}")
-    print(f"- Temps total d'indexation + pondération: {stats_data['total_time']:.2f} secondes")
-    print(f" * Temps d'indexation seul: {stats_data['indexing_time']:.2f} secondes")
-    print(f" * Temps de pondération: {stats_data['weighting_time']:.2f} secondes")
-    print(f"- Nombre total d'occurrences de tokens: {stats_data['stats']['total_tokens']}")
-    print(f"- Nombre de tokens distincts: {stats_data['stats']['distinct_tokens']}")
-    print(f"- Longueur moyenne des tokens: {stats_data['stats']['avg_token_length']:.2f} caractères")
-    print(f"- Nombre total d'occurrences de terms: {stats_data['stats']['total_terms']}")
-    print(f"- Taille du vocabulaire (terms distincts): {stats_data['stats']['distinct_terms']}")
-    print(f"- Longueur moyenne des documents: {stats_data['stats']['avg_doc_length']:.2f} terms")
-    print(f"- Longueur moyenne des terms: {stats_data['stats']['avg_term_length']:.2f} caractères")
-    
-    print(f"- Poids du terme '{TARGET_TERM}' dans le document #{TARGET_DOC_ID}: {stats_data['target_weight']:.6f}")
-    print(f"- RSV du document #{TARGET_DOC_ID} pour '{TEST_QUERY}': {stats_data['doc_score']:.6f}")
-    
-    # Afficher le nombre de documents pertinents potentiels
-    relevant_docs = stats_data['ranker'].search_query(
-        TEST_QUERY, 
-        stats_data['weighting_scheme'], 
-        top_k=None,
-        k1=stats_data['k1'],
-        b=stats_data['b']
-    )
-    print(f"- Documents pertinents potentiels: {len(relevant_docs)}")
-    
-    print(f"- TOP-10 DOCUMENTS pour '{TEST_QUERY}':")
-    for i, (doc_id, score) in enumerate(stats_data['top_docs'], 1):
-        print(f"  {i:2d}. Doc {doc_id}: {score:.6f}")
 
 
 def exercice4():
@@ -138,11 +54,11 @@ def exercice4():
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
         config=config,
-        run_id="ex4_pagerank_baseline",
+        run_id="ex4_PR",
         top_k=1500,
-        alpha=0.9,      # BM25 dominant
+        pagerank_alpha=0.9,      # BM25 dominant
         k1=1.2,
-        b=0.75
+        b=0.65
     )
 
     return filename
@@ -167,7 +83,7 @@ def exercice4_tuning():
         print(f"EX4 TUNING — alpha(BM25) = {alpha}")
         print("=" * 60)
 
-        run_id = f"ex4_pagerank_a{alpha}"
+        run_id = f"ex4_PR_a{alpha}"
         
         filename = generator.generate_article_run_with_pagerank(
             xml_dir=XML_DIR,
@@ -175,9 +91,9 @@ def exercice4_tuning():
             config=config,
             run_id=run_id,
             top_k=1500,
-            alpha=alpha,
+            pagerank_alpha=alpha,
             k1=1.2,
-            b=0.75
+            b=0.65
         )
 
         results.append((alpha, filename))
@@ -205,7 +121,7 @@ def exercice5():
         alpha_content=1.0,
         alpha_anchor=0.7,   # valeur raisonnable par défaut
         k1=1.2,
-        b=0.6
+        b=0.65
     )
 
     return filename
@@ -250,7 +166,7 @@ def exercice5_tuning():
                 alpha_content=a_content,
                 alpha_anchor=a_anchor,
                 k1=1.2,
-                b=0.75
+                b=0.65
             )
 
             results.append((a_content, a_anchor, filename))
@@ -277,8 +193,25 @@ def display_links_stats(stats: Dict):
 def main():
     XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
 
+    clean_runs_directory()
+
+    #exercice1_test()
+    #exercice1_bm25_tuning()
+
+    # Exercice 3 tests
+    #exercice5_bm25fw()
+    #exercice6_bm25fr()
+    #exercice5_bm25fw_test()
+
+    #gragraph, stats = extract_inex_link_graph()
+    #display_links_stats(stats)
+
     #exercice4()
+    #exercice4_tuning()
     #exercice5()
+    exercice5_tuning()
+
+
     
     print("\n=== FIN DES EXÉCUTIONS ===\n")
 
