@@ -882,6 +882,7 @@ class INEXRunGenerator:
                     scores[doc_id] += alpha_content * score
 
                 # 5 Score ancres
+                """
                 query_terms = ranker.process_query_terms(query_text)
 
                 for doc_id, anchor_text in anchor_texts.items():
@@ -892,6 +893,23 @@ class INEXRunGenerator:
 
                     if anchor_score > 0:
                         scores[int(doc_id)] += alpha_anchor * anchor_score
+                """
+                # 5 Score ancres — UNIQUEMENT sur les articles BM25
+                query_terms = ranker.process_query_terms(query_text)
+
+                for doc_id, _ in content_results:
+                    anchor_text = anchor_texts.get(str(doc_id), "")
+                    if not anchor_text:
+                        continue
+
+                    anchor_score = 0.0
+                    anchor_text_lower = anchor_text.lower()
+
+                    for term in query_terms:
+                        anchor_score += anchor_text_lower.count(term)
+
+                    if anchor_score > 0:
+                        scores[doc_id] += alpha_anchor * anchor_score
 
                 # 6 Tri final
                 ranked = sorted(scores.items(), key=lambda x: -x[1])[:top_k]

@@ -283,6 +283,14 @@ Donc, on garder la valeur alpha = 2.0.
 EXERCICE 4: XML articles runs, exploiting links
 =============================================================
 
+Dans cet exercice, nous exploitons la structure de liens entre les
+articles XML afin d’améliorer la recherche d’information. Les articles
+sont modélisés comme des nœuds d’un graphe dirigé, et les liens XML
+(<link>) correspondent aux arêtes du graphe. Une mesure de type
+PageRank est ensuite utilisée pour estimer l’importance structurelle
+des articles.
+
+
 [STATISTIQUES LIENS INEX]
 Nombre d'articles:        9804
 Total des liens:          149414
@@ -294,14 +302,115 @@ Degré de sortie moyen:    11.50
 Degré de sortie max:      1255
 Degré de sortie min:      0
 
-Tuning des paramètres 
+Ces statistiques montrent que la collection INEX possède une structure
+de liens dense, avec un degré de sortie moyen relativement élevé.
+La présence d’articles très fortement connectés (degré max = 1255)
+suggère l’existence de documents centraux, susceptibles d’avoir une
+forte importance structurelle.
+
+
+Méthode
 -------------------------------------------------------------
+Dans un premier temps, un score PageRank est calculé pour chaque
+article à partir du graphe de liens. Ce score représente l’importance
+structurelle des documents, indépendamment du contenu textuel.
+
+Dans un second temps, les résultats obtenus avec le modèle textuel
+(BM25 optimisé) sont reclassés en combinant le score textuel et le
+score PageRank à l’aide d’une interpolation linéaire :
+
+Score_final = alpha * Score_textuel + (1 - alpha) * Score_PageRank
+
+Le paramètre alpha permet de contrôler l’influence relative du contenu
+textuel et de la structure de liens.
+
+
+Tuning des paramètres
+-------------------------------------------------------------
+Différentes valeurs du paramètre alpha ont été testées afin d’analyser
+l’impact de PageRank sur les performances globales.
+
+alpha = 0.7  -> MAgP = 0.1973
+alpha = 0.8  -> MAgP = 0.1971
+alpha = 0.85 -> MAgP = 0.1978
+alpha = 0.9  -> MAgP = 0.1965
+alpha = 0.95 -> MAgP = 0.2100
+
+Les résultats montrent que l’introduction de PageRank permet une
+amélioration des performances par rapport à la baseline textuelle.
+La meilleure performance est obtenue pour une valeur élevée de alpha
+(alpha = 0.95), ce qui indique que le score textuel reste dominant,
+tout en bénéficiant d’un apport structurel modéré.
 
 
 =============================================================
-EXERCICE 5: XML articles runs, exploiting anchors 
+EXERCICE 5: XML articles runs, exploiting anchors
 =============================================================
 
-Tuning des paramètres 
+Dans cet exercice, nous exploitons les textes d’ancrage (anchor texts)
+associés aux balises <link> afin d’enrichir la représentation textuelle
+des articles. Les anchor texts sont considérés comme une description
+externe des documents cibles et peuvent apporter des informations
+complémentaires au contenu propre des articles.
+
+
+Méthode
 -------------------------------------------------------------
+Pour chaque article, les textes d’ancrage des liens pointant vers cet
+article sont collectés et indexés séparément. Deux scores de pertinence
+sont alors calculés pour chaque document :
+
+- un score de pertinence basé sur le contenu textuel de l’article
+- un score de pertinence basé sur les anchor texts
+
+Les deux scores sont combinés à l’aide d’une interpolation linéaire :
+
+Score_final = alpha_content * Score_contenu
+            + alpha_anchor  * Score_anchor
+
+Les paramètres alpha_content (ac) et alpha_anchor (aa) permettent de
+contrôler l’influence respective du contenu et des anchor texts.
+
+
+Tuning des paramètres
+-------------------------------------------------------------
+Différentes combinaisons des paramètres alpha_content et alpha_anchor
+ont été testées afin d’évaluer l’impact des anchor texts sur les
+performances globales.
+
+alpha_content = 0.8
+ac0.8_aa0.2 -> MAgP = 0.1023
+ac0.8_aa0.5 -> MAgP = 0.0813
+ac0.8_aa0.8 -> MAgP = 0.0750
+ac0.8_aa1.0 -> MAgP = 0.0725
+
+alpha_content = 1.0
+ac1.0_aa0.2 -> MAgP = 0.1086
+ac1.0_aa0.5 -> MAgP = 0.0873
+ac1.0_aa0.8 -> MAgP = 0.0774
+ac1.0_aa1.0 -> MAgP = 0.0750
+
+alpha_content = 1.2
+ac1.2_aa0.2 -> MAgP = 0.1130
+ac1.2_aa0.5 -> MAgP = 0.0938
+ac1.2_aa0.8 -> MAgP = 0.0802
+ac1.2_aa1.0 -> MAgP = 0.0766
+
+
+Analyse des résultats
+-------------------------------------------------------------
+Les résultats montrent que l’introduction des anchor texts permet
+d’améliorer les performances lorsque leur poids reste modéré.
+Les meilleures performances sont obtenues pour des valeurs faibles de
+alpha_anchor (aa = 0.2), quel que soit le poids du contenu.
+
+À l’inverse, une augmentation excessive de l’influence des anchor texts
+entraîne une dégradation des performances. Cela peut s’expliquer par le
+fait que les textes d’ancrage sont souvent courts, bruités ou peu
+informatifs lorsqu’ils sont utilisés seuls.
+
+La meilleure configuration observée est :
+alpha_content = 1.2
+alpha_anchor  = 0.2
+avec un score MAgP = 0.1130.
 
