@@ -11,12 +11,12 @@ from ranked_retrieval import RankedRetrieval
 from utiles import clean_runs_directory, print_exercise_header, compute_statistics, compute_statistics_for_config, display_statistics, create_index_with_config, create_element_index_with_config, extract_inex_link_graph
 
 from field_weighted_index import generate_field_weighted_run #, generate_field_weighted_run_cached
-from practice6_exercices import exercice1_test, exercice1_bm25_tuning
+from practice6_exercices import exercice1_test, exercice1_bm25_tuning, exercice1_with_lnu_bm25l
 
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
 TEAM_NAME = "AlphaAnaClement"
-XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
+XML_DIR = "practice6/data/Practice_05_data/XML-Coll-withSem"
 
 # Requêtes INEX standard
 INEX_QUERIES = {
@@ -176,7 +176,7 @@ def exercice5_tuning():
 
 
 def display_links_stats(stats: Dict):
-    XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
+    XML_DIR = "practice6/data/Practice_05_data/XML-Coll-withSem"
 
     print("\n[STATISTIQUES LIENS INEX]")
     print(f"Nombre d'articles: {stats['num_articles']}")
@@ -191,7 +191,7 @@ def display_links_stats(stats: Dict):
 
 
 def main():
-    XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
+    XML_DIR = "practice6/data/Practice_05_data/XML-Coll-withSem"
 
     clean_runs_directory()
 
@@ -209,7 +209,8 @@ def main():
     #exercice4()
     #exercice4_tuning()
     #exercice5()
-    exercice5_tuning()
+    #exercice5_tuning()
+    exercice1_with_lnu_bm25l()
 
 
     

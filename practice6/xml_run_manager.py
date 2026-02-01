@@ -638,11 +638,11 @@ class INEXRunGenerator:
         print('='*70)
 
     # ==================== MÉTHODES POUR LES EXERCICES ====================
-
     def generate_article_run(self, xml_dir: str, queries: Dict[int, str],
                              config: Dict = None, run_id: str = "article_run",
                              weighting_scheme: str = "ltn",
-                             k1: float = None, b: float = None) -> str:
+                             k1: float = None, b: float = None,
+                             delta: float = 0.5, slope: float = 0.2) -> str:
         """Génère un run pour articles (exercices 1-2)."""
         if config is None:
             config = {
@@ -650,17 +650,26 @@ class INEXRunGenerator:
                 'stemmer': 'nostem',
                 'stop_words': 'nostop'
             }
-        
-        # Paramètres par défaut BM25
+
+        # Paramètres par défaut selon le schéma
         if weighting_scheme == 'bm25':
             if k1 is None:
                 k1 = 1.2
             if b is None:
                 b = 0.75
-        
-        print(f"\n{'='*70}")
+        elif weighting_scheme == 'bm25l':
+            if k1 is None:
+                k1 = 1.2
+            if b is None:
+                b = 0.75
+
+        print(f"\n{'=' * 70}")
         print(f"RUN ARTICLES - {weighting_scheme.upper()}")
-        print('='*70)
+        if weighting_scheme in ['bm25', 'bm25l']:
+            print(f"Paramètres: k1={k1}, b={b}" + (f", δ={delta}" if weighting_scheme == 'bm25l' else ""))
+        elif weighting_scheme == 'lnu':
+            print(f"Paramètre: slope={slope}")
+        print('=' * 70)
 
         index_data = self.create_or_load_index(xml_dir, 'article', config)
         index = index_data['index']
@@ -674,6 +683,12 @@ class INEXRunGenerator:
             k1_val = k1 if k1 is not None else 1.2
             b_val = b if b is not None else 0.75
             filename += f"_k_{k1_val}_b_{b_val}"
+        elif weighting_scheme == 'bm25l':
+            k1_val = k1 if k1 is not None else 1.2
+            b_val = b if b is not None else 0.75
+            filename += f"_k_{k1_val}_b_{b_val}_δ_{delta}"
+        elif weighting_scheme == 'lnu':
+            filename += f"_slope_{slope}"
 
         filename += ".txt"
         filename = os.path.join("data/runs", filename)
@@ -691,11 +706,23 @@ class INEXRunGenerator:
                         k1=k1 if k1 is not None else 1.2,
                         b=b if b is not None else 0.75
                     )
-                else:
+                elif weighting_scheme == 'bm25l':
+                    top_articles = ranker.search_query(
+                        query_text, weighting_scheme='bm25l', top_k=1500,
+                        k1=k1 if k1 is not None else 1.2,
+                        b=b if b is not None else 0.75,
+                        delta=delta
+                    )
+                elif weighting_scheme == 'lnu':
+                    top_articles = ranker.search_query(
+                        query_text, weighting_scheme='lnu', top_k=1500,
+                        slope=slope
+                    )
+                else:  # ltn, ltc
                     top_articles = ranker.search_query(
                         query_text, weighting_scheme=weighting_scheme, top_k=1500
                     )
-                
+
                 rank = 1
                 for article_id, score in top_articles[:1500]:
                     f.write(f"{query_id} Q0 {article_id} {rank} "
@@ -708,6 +735,15 @@ class INEXRunGenerator:
         print(f"\nRUN TERMINÉ: {filename}")
         print(f"Total résultats: {results_count}")
         print(f"Attendu: {7 * 1500}")
+
+        # Vérification rapide
+        try:
+            with open(filename, 'r') as f:
+                lines = f.readlines()
+                print(f"Vérification: {len(lines)} lignes dans le fichier")
+        except:
+            pass
+
         return filename
 
     def generate_article_run_with_pagerank(

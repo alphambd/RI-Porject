@@ -1,6 +1,7 @@
 import os
 import time
 from typing import Dict, List, Optional
+
 from xml_run_manager import INEXRunGenerator
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
@@ -598,6 +599,121 @@ def exercice5():
     return all_filenames
 
 
+def exercice1_with_lnu_bm25l():
+    """Test de lnu et BM25L dans l'exercice 1 - Version étendue"""
+    print_exercise_header(1, "Test lnu et BM25L - Exploration paramétrique")
+
+    generator = INEXRunGenerator()
+
+    # Configurations étendues à tester
+    combinations = [
+        # === BM25L - Exploration du paramètre delta (δ) ===
+        ("bm25l", "stop671", "porter", "bm25l_delta_low", {"k1": 1.2, "b": 0.75, "delta": 0.2}),
+        ("bm25l", "stop671", "porter", "bm25l_delta_mid", {"k1": 1.2, "b": 0.75, "delta": 0.5}),  # Valeur standard
+        ("bm25l", "stop671", "porter", "bm25l_delta_high", {"k1": 1.2, "b": 0.75, "delta": 0.8}),
+        ("bm25l", "stop671", "porter", "bm25l_delta_vhigh", {"k1": 1.2, "b": 0.75, "delta": 1.2}),
+
+        # === BM25L - Exploration k1 avec delta fixe ===
+        ("bm25l", "stop671", "porter", "bm25l_k1_low", {"k1": 0.8, "b": 0.75, "delta": 0.5}),
+        ("bm25l", "stop671", "porter", "bm25l_k1_high", {"k1": 1.8, "b": 0.75, "delta": 0.5}),
+        ("bm25l", "stop671", "porter", "bm25l_k1_vhigh", {"k1": 2.2, "b": 0.75, "delta": 0.5}),
+
+        # === BM25L - Exploration b avec delta fixe ===
+        ("bm25l", "stop671", "porter", "bm25l_b_low", {"k1": 1.2, "b": 0.3, "delta": 0.5}),
+        ("bm25l", "stop671", "porter", "bm25l_b_high", {"k1": 1.2, "b": 0.9, "delta": 0.5}),
+
+        # === BM25L - Combinaisons optimales (basées sur la littérature) ===
+        ("bm25l", "stop671", "porter", "bm25l_opt1", {"k1": 1.5, "b": 0.6, "delta": 0.5}),
+        ("bm25l", "stop671", "porter", "bm25l_opt2", {"k1": 1.3, "b": 0.7, "delta": 0.8}),
+        ("bm25l", "stop671", "porter", "bm25l_opt3", {"k1": 1.4, "b": 0.5, "delta": 0.3}),
+
+        # === lnu - Exploration du slope ===
+        ("lnu", "stop671", "porter", "lnu_slope_low", {"slope": 0.1}),
+        ("lnu", "stop671", "porter", "lnu_slope_mid", {"slope": 0.2}),  # Valeur standard
+        ("lnu", "stop671", "porter", "lnu_slope_high", {"slope": 0.3}),
+        ("lnu", "stop671", "porter", "lnu_slope_vhigh", {"slope": 0.4}),
+
+        # === lnu - Variantes sans stemming ===
+        ("lnu", "stop671", "nostem", "lnu_nostem_slope02", {"slope": 0.2}),
+        ("lnu", "stop671", "nostem", "lnu_nostem_slope03", {"slope": 0.3}),
+
+        # === lnu - Sans stopwords ===
+        ("lnu", "nostop", "porter", "lnu_nostop", {"slope": 0.2}),
+
+        # === Comparaison BM25L vs BM25 standard ===
+        ("bm25", "stop671", "porter", "bm25_std_k1.2_b0.75", {"k1": 1.2, "b": 0.75}),  # Pour comparaison
+        ("bm25", "stop671", "porter", "bm25_std_k1.5_b0.65", {"k1": 1.5, "b": 0.65}),  # Pour comparaison
+    ]
+
+    print(f"Nombre total de runs à générer: {len(combinations)}")
+    print("=" * 80)
+
+    for i, (weighting, stop, stemmer, run_id, params) in enumerate(combinations, 1):
+        print(f"\n[RUN {i}/{len(combinations)}] {weighting.upper()}, stop={stop}, stemmer={stemmer}")
+        print(f"  Paramètres: {params}")
+
+        config = {
+            'tokenization': 'basic',
+            'stemmer': stemmer,
+            'stop_words': stop,
+        }
+
+        # Extraction des paramètres avec valeurs par défaut
+        k1 = params.get('k1', 1.2)
+        b = params.get('b', 0.75)
+        delta = params.get('delta', 0.5)
+        slope = params.get('slope', 0.2)
+
+        # Création d'un ID descriptif
+        param_str = ""
+        if weighting == "bm25l":
+            param_str = f"k1_{k1}_b_{b}_δ_{delta}"
+        elif weighting == "lnu":
+            param_str = f"slope_{slope}"
+        elif weighting == "bm25":
+            param_str = f"k1_{k1}_b_{b}"
+
+        #final_run_id = f"{run_id}_{param_str}"
+
+        #print(f"  Génération: {final_run_id}")
+        start_time = time.time()
+
+        try:
+            filename = generator.generate_article_run(
+                xml_dir=XML_DIR,
+                queries=INEX_QUERIES,
+                config=config,
+                run_id=run_id,
+                weighting_scheme=weighting,
+                k1=k1,
+                b=b,
+                delta=delta,
+                slope=slope
+            )
+
+            gen_time = time.time() - start_time
+
+            # Vérification rapide
+            line_count = 0
+            try:
+                with open(filename, 'r', encoding='utf-8') as f:
+                    line_count = sum(1 for _ in f)
+            except:
+                pass
+
+            print(f"   Run générée: {os.path.basename(filename)}")
+            print(f"    Lignes: {line_count}, Temps: {gen_time:.1f}s")
+
+        except Exception as e:
+            print(f"  ✗ Erreur: {e}")
+
+    print("\n" + "=" * 80)
+    print("GÉNÉRATION TERMINÉE !")
+    print(f"Total: {len(combinations)} runs générées")
+    print("=" * 80)
+
+
+
 def exercice6():
     #Exercice 6: BM25Fr - Early combination with gradient descent optimization (15 runs)
     
@@ -931,6 +1047,7 @@ def exercice5_6_test1(algorithme="bm25fr"):
                     print(f"✗ Erreur: {e}")
 
                 run_counter += 1
+
 
     # ==================== RÉSUMÉ DES RÉSULTATS ====================
     print("\n" + "=" * 70)
