@@ -165,6 +165,67 @@ class RankedRetrieval:
         tf_component = (tf * (k1 + 1)) / (tf + k1 * (1 - b + b * (doc_length / self.avg_dl))) if self.avg_dl > 0 else 0.0
         
         return idf * tf_component
+
+
+
+
+    def bm25l_weighting(self, term, doc_id, k1=1.2, b=0.75, delta=0.5):
+        """BM25L: BM25  pour documents longs (Lv & Zhai, 2011)"""
+        # tfd_prime = tf / ((1 - b) + b * (dl/avgdl))
+        # Si tf > 0: ((tfd_prime + δ) * (k1 + 1)) / (k1 + tfd_prime + δ)
+        # Sinon: 0
+
+        if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+            return 0.0
+
+        tf = self.index.dictionary[term][doc_id]
+        df = self.df[term]
+        doc_length = self.index.doc_lengths[doc_id]
+
+        # IDF classique BM25
+        idf = math.log10((self.doc_count - df + 0.5) / (df + 0.5))
+
+        if tf > 0:
+            tfd_prime = tf / ((1 - b) + b * (doc_length / self.avg_dl)) if self.avg_dl > 0 else tf
+            numerator = (tfd_prime + delta) * (k1 + 1)
+            denominator = k1 + (tfd_prime + delta)
+            tf_component = numerator / denominator
+            return idf * tf_component
+        else:
+            return 0.0
+
+
+
+    def lnu_weighting(self, term, doc_id, slope=0.2):
+        """SMART lnu weighting: Pivoted length normalization [Singhal96]"""
+        if term not in self.index.dictionary or doc_id not in self.index.dictionary[term]:
+            return 0.0
+
+        tf = self.index.dictionary[term][doc_id]
+        doc_length = self.index.doc_lengths[doc_id]
+
+        # 1ère partie: (1 + log(tf)) / (1 + log(dl/avgdl))
+        numerator = 1 + math.log10(tf) if tf > 0 else 0
+        dl_ratio = doc_length / self.avg_dl if self.avg_dl > 0 else 1.0
+        denominator1 = 1 + math.log10(dl_ratio) if dl_ratio > 0 else 1.0
+
+        first_part = numerator / denominator1 if denominator1 > 0 else 0
+
+        # 2ème partie: 1 / [(1 - slope) * pivot + slope * ntd]
+        # Si ntd/pivot non disponibles, retournez seulement first_part
+        if not hasattr(self.index, 'dictionary_per_doc'):
+            return first_part
+
+        ntd = len(self.index.dictionary_per_doc.get(doc_id, {}))
+        total_ntd = sum(len(d) for d in self.index.dictionary_per_doc.values())
+        pivot = total_ntd / self.doc_count if self.doc_count > 0 else ntd
+
+        denominator2 = (1 - slope) * pivot + slope * ntd
+        second_part = 1 / denominator2 if denominator2 > 0 else 0
+
+        return first_part * second_part
+
+
     
     def process_query_terms(self, query):
         """Traiter la requête pour extraire les termes"""
@@ -173,26 +234,31 @@ class RankedRetrieval:
         #return list(set(tokens))
         return sorted(set(tokens))  # termes uniques triés
 
-    def search_query(self, query, weighting_scheme="ltn", top_k=10, k1=1.2, b=0.75):
-        """Recherche optimisée - ne parcourt que les documents contenant au moins un terme de la requête"""
+
+
+    def search_query(self, query, weighting_scheme="ltn", top_k=10, k1=1.2, b=0.75, delta=0.5, slope=0.2):
+        """Recherche optimisée avec tous les schémas de pondération"""
         query_terms = self.process_query_terms(query)
-        
+
         print(f" * Recherche: '{query}' -> termes: {query_terms}")
-        
+        print(f" * Schéma: {weighting_scheme}, k1={k1}, b={b}" +
+              (
+                  f", δ={delta}" if weighting_scheme == "bm25l" else f", slope={slope}" if weighting_scheme == "lnu" else ""))
+
         # Précharger les normes cosine seulement si nécessaire pour LTC
         if weighting_scheme == "ltc" and self._cosine_norms_cache is None:
             self._load_or_compute_cosine_norms()
-        
+
         doc_scores = defaultdict(float)
-        
+
         # Optimisation: ne considérer que les documents qui contiennent au moins un terme de la requête
         relevant_docs = set()
         for term in query_terms:
             if term in self.index.dictionary:
                 relevant_docs.update(self.index.dictionary[term].keys())
-        
+
         print(f"  - Documents pertinents potentiels: {len(relevant_docs)}")
-        
+
         for doc_id in relevant_docs:
             score = 0.0
             for term in query_terms:
@@ -202,14 +268,16 @@ class RankedRetrieval:
                     term_weight = self.smart_ltc_weighting(term, doc_id)
                 elif weighting_scheme == "bm25":
                     term_weight = self.bm25_weighting(term, doc_id, k1, b)
+                elif weighting_scheme == "bm25l":
+                    term_weight = self.bm25l_weighting(term, doc_id, k1, b, delta)
+                elif weighting_scheme == "lnu":
+                    term_weight = self.lnu_weighting(term, doc_id, slope)
                 else:
                     term_weight = self.smart_ltn_weighting(term, doc_id)
-                
+
                 score += term_weight
-            
-            #if score > 0:
-            #    doc_scores[doc_id] = score
-            doc_scores[doc_id] = score # on stock toujours le score, sinon pour bm25 certains run < 10500
+
+            doc_scores[doc_id] = score
 
         sorted_docs = sorted(
             doc_scores.items(),
@@ -233,20 +301,28 @@ class RankedRetrieval:
         reranked.sort(key=lambda x: -x[1])
         return reranked
 
-    def get_term_weight(self, term, doc_id, weighting_scheme, k1=1.2, b=0.75):
+
+
+    def get_term_weight(self, term, doc_id, weighting_scheme, k1=1.2, b=0.75, delta=0.5, slope=0.2):
         """Retourne le poids d'un terme spécifique dans un document"""
         # Précharger les normes cosine seulement si nécessaire pour LTC
         if weighting_scheme == "ltc" and self._cosine_norms_cache is None:
             self._load_or_compute_cosine_norms()
-            
+
         if weighting_scheme == "ltn":
             return self.smart_ltn_weighting(term, doc_id)
         elif weighting_scheme == "ltc":
             return self.smart_ltc_weighting(term, doc_id)
         elif weighting_scheme == "bm25":
             return self.bm25_weighting(term, doc_id, k1, b)
+        elif weighting_scheme == "bm25l":
+            return self.bm25l_weighting(term, doc_id, k1, b, delta)
+        elif weighting_scheme == "lnu":
+            return self.lnu_weighting(term, doc_id, slope)
         else:
             return 0.0
+
+
 
     def clear_cosine_norms_cache(self):
         """Effacer le cache des normes cosine"""
