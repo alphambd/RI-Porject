@@ -333,7 +333,7 @@ class WeightedInvertedIndex:
                 metadata = {
                     'doc_id': elem_data['doc_id'],
                     'parent_doc_id': elem_data['doc_id'],
-                    'element_text_size': len(elem_text),
+                    'element_text_size': len(INEXDocument.clean_and_normalize_text(elem_text)),
                     'element_id': elem_id,
                     'xml_path': full_path,
                     'tag': tag,
