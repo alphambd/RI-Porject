@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 import time
 from typing import Dict, List, Optional
-from p5_bm25_exercices import exercice5_bm25fw, exercice5_bm25fw_test, exercice6_bm25fr
+from p5_bm25_exercices import exercice5_bm25f_test, exercice5_bm25fw, exercice5_bm25fw_test, exercice6_bm25fr
 from xml_run_manager import INEXRunGenerator
 from advanced_indexer import WeightedInvertedIndex
 from ranked_retrieval import RankedRetrieval
@@ -202,6 +202,7 @@ def main():
     #exercice5_bm25fw()
     #exercice6_bm25fr()
     #exercice5_bm25fw_test()
+    exercice5_bm25f_test()
 
     #gragraph, stats = extract_inex_link_graph()
     #display_links_stats(stats)
@@ -209,8 +210,7 @@ def main():
     #exercice4()
     #exercice4_tuning()
     #exercice5()
-    exercice5_tuning()
-
+    #exercice5_tuning()
 
     
     print("\n=== FIN DES EXÉCUTIONS ===\n")

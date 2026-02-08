@@ -571,9 +571,11 @@ def exercice5_bm25fw_test():
         'bdy':   2.5,
         'sec':   2.5,
         'p':     3.5,
-        'rest': 1.0
+        'rest': 2.0
     }
 
+
+    """
     #alpha_p_values = [0.8, 0.9, 1.0, 1.1, 1.2]
     alpha_rest_values = [1.0, 1.5, 2.0, 2.5, ]
 
@@ -595,6 +597,26 @@ def exercice5_bm25fw_test():
             fields_config=fields_config,
             field_weights=field_weights
         )
+    """
+    k1_values = [0.5, 1.0, 1.5, 2.0, 3.0, 4.0, 5.0]
+    b_values = [0.5, 0.6, 0.65, 0.75]
+
+    for k1 in k1_values:
+        for b in b_values:
+            run_id = f"FW_k1.{k1}_b.{b}"
+            generate_field_weighted_run(
+                run_id=run_id,
+                run_type="bm25fw",
+                xml_dir=XML_DIR,
+                queries=INEX_QUERIES,
+                config=config,
+                run_params={
+                    'k1': k1,
+                    'b': b
+                },
+                fields_config=fields_config,
+                field_weights=base_weights
+            )
 
 def exercice5_bm25f_test():
     config = {
@@ -607,16 +629,26 @@ def exercice5_bm25f_test():
         'title': ['title'],
         'bdy':   ['bdy'],
         'sec':   ['sec'],
-        'p':     ['p']
+        'p':     ['p'],
+        #'rest': ['__REST__']
     }
 
-    base_weights = {
+    base_fw_weights = {
         'title': 1.0,
         'bdy':   2.5,
         'sec':   2.5,
-        'p':     3.5
+        'p':     3.5,
+        #'rest': 1.0
     }
 
+    base_fr_weights = {
+        'title': 1.0,
+        'bdy':   1.8,
+        'sec':   0.3, # pas très différent de 0.8
+        'p':     0.2 # pas très différent de 0.4
+    }
+
+    """
     #alpha_title_values = [1.0, 1.5, 2.0, 2.5]
     alpha_title_values = [3.0, 3.5]
 
@@ -638,6 +670,26 @@ def exercice5_bm25f_test():
             fields_config=fields_config,
             field_weights=field_weights
         )
+    """
+    k1_values = [0.5, 1.0, 1.5, 2.0, 3.0, 4.0, 5.0]
+    b_values = [0.5, 0.6, 0.65, 0.75]
+
+    for k1 in k1_values:
+        for b in b_values:
+            run_id = f"FR_k1.{k1}_b.{b}"
+            generate_field_weighted_run(
+                run_id=run_id,
+                run_type="bm25fr",
+                xml_dir=XML_DIR,
+                queries=INEX_QUERIES,
+                config=config,
+                run_params={
+                    'k1': k1,
+                    'b': b
+                },
+                fields_config=fields_config,
+                field_weights=base_fr_weights
+            )
 
 def exercice6_bm25fr():
     """
