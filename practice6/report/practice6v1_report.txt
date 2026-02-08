@@ -27,7 +27,7 @@ Configuration :
 - Stop-words : nostop, stop671 (2)
 - Total : 3 × 2 × 2 = 12 runs
 
-BM25 (stop671, porter)  -> MAgP = 0.1950
+BM25 (stop671, porter)  -> MAgP = 0.1950        0.2088 (true value with 0.6)
 BM25 (stop671, nostem)  -> MAgP = 0.1906
 BM25 (nostop, nostem)   -> MAgP = 0.1620
 BM25 (nostop, porter)   -> MAgP = 0.0971
