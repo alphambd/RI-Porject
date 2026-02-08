@@ -54,9 +54,9 @@ def exercice4():
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
         config=config,
-        run_id="ex4_PR",
+        run_id="ex4_PR_a0.99",
         top_k=1500,
-        pagerank_alpha=0.9,      # BM25 dominant
+        pagerank_alpha=0.99,      # BM25 dominant
         k1=1.2,
         b=0.65
     )
@@ -104,7 +104,7 @@ def exercice5():
     """
     Exercice 5 — Baseline BM25F (content + anchors)
     """
-
+    print_exercise_header(5, "Baseline BM25F (content + anchors)")  
     config = {
         'tokenization': 'basic',
         'stemmer': 'porter',
@@ -116,10 +116,10 @@ def exercice5():
         xml_dir=XML_DIR,
         queries=INEX_QUERIES,
         config=config,
-        run_id="5_anchor",
+        run_id="5_anchor_ac1.0_aa0.0",
         top_k=1500,
         alpha_content=1.0,
-        alpha_anchor=0.7,   # valeur raisonnable par défaut
+        alpha_anchor=0.0,   # valeur raisonnable par défaut
         k1=1.2,
         b=0.65
     )
@@ -202,14 +202,14 @@ def main():
     #exercice5_bm25fw()
     #exercice6_bm25fr()
     #exercice5_bm25fw_test()
-    exercice5_bm25f_test()
+    #exercice5_bm25f_test()
 
     #gragraph, stats = extract_inex_link_graph()
     #display_links_stats(stats)
 
     #exercice4()
     #exercice4_tuning()
-    #exercice5()
+    exercice5()
     #exercice5_tuning()
 
     

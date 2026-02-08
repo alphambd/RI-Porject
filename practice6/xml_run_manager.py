@@ -850,10 +850,10 @@ class INEXRunGenerator:
                 )
         else:
             print("\nAucun résultat capturé pour la requête 2009074")
-        
+
         return filename
 
-    def generate_article_run_with_anchors(
+    def generate_article_run_with_anchors_old(
         self,
         xml_dir: str,
         queries: Dict[int, str],
@@ -941,6 +941,126 @@ class INEXRunGenerator:
         print(f"\nRUN TERMINÉ: {filename}")
         print(f"Résultats totaux: {total_results}")
         print(f"Attendu: {len(queries) * top_k}")
+
+        return filename
+
+    def generate_article_run_with_anchors(
+        self,
+        xml_dir: str,
+        queries: Dict[int, str],
+        config: Dict,
+        run_id: str = "article_anchor",
+        top_k: int = 1500,
+        alpha_content: float = 1.0,
+        alpha_anchor: float = 0.7,
+        k1: float = 1.2,
+        b: float = 0.75,
+        debug_query_id: int = 2009074
+    ) -> str:
+        """
+        Exercice 5 — Articles runs exploiting anchor texts
+        RSV = alpha_content * BM25 + alpha_anchor * anchor_score
+        """
+
+        print(f"\n{'='*70}")
+        print("EXERCICE 5 — ARTICLE RUN + ANCHORS")
+        print('='*70)
+
+        # 1) Extraction des anchor texts
+        print("\n[ANCHORS] Extraction des ancres entrantes...")
+        anchor_texts = extract_anchor_texts(xml_dir)
+        print(f"  Articles avec ancres: {len(anchor_texts)}")
+
+        # 2) Index articles
+        index_data = self.create_or_load_index(xml_dir, "article", config)
+        index = index_data["index"]
+        ranker = RankedRetrieval(index)
+
+        # 3) Fichier de sortie
+        filename = os.path.join(
+            "data/runs",
+            f"{self.team_name}_{run_id}_bm25f_article_anchor.txt"
+        )
+        os.makedirs("data/runs", exist_ok=True)
+
+        total_results = 0
+        top10_debug = []
+
+        with open(filename, "w", encoding="utf-8") as f:
+            for query_id, query_text in queries.items():
+                print(f"\n[Query {query_id}] {query_text[:60]}...")
+
+                # --- BM25 contenu ---
+                content_results = ranker.search_query(
+                    query_text,
+                    weighting_scheme="bm25",
+                    top_k=top_k,
+                    k1=k1,
+                    b=b
+                )
+
+                scores = defaultdict(float)
+                bm25_scores = {}
+
+                for doc_id, bm25_score in content_results:
+                    bm25_scores[doc_id] = bm25_score
+                    scores[doc_id] += alpha_content * bm25_score
+
+                # --- Score ancres (SEULEMENT si alpha_anchor > 0) ---
+                anchor_scores = defaultdict(float)
+
+                if alpha_anchor > 0.0:
+                    query_terms = ranker.process_query_terms(query_text)
+
+                    for doc_id, anchor_text in anchor_texts.items():
+                        score = 0.0
+                        text = anchor_text.lower()
+
+                        for term in query_terms:
+                            score += text.count(term)
+
+                        if score > 0:
+                            anchor_scores[int(doc_id)] = score
+                            scores[int(doc_id)] += alpha_anchor * score
+
+                # --- Tri final ---
+                ranked = sorted(scores.items(), key=lambda x: -x[1])[:top_k]
+
+                rank = 1
+                for doc_id, final_score in ranked:
+                    f.write(
+                        f"{query_id} Q0 {doc_id} {rank} "
+                        f"{final_score:.6f} {self.team_name} /article[1]\n"
+                    )
+
+                    # Sauvegarde top-10 debug
+                    if query_id == debug_query_id and rank <= 10:
+                        top10_debug.append((
+                            doc_id,
+                            final_score,
+                            bm25_scores.get(doc_id, 0.0),
+                            anchor_scores.get(doc_id, 0.0)
+                        ))
+
+                    rank += 1
+                    total_results += 1
+
+                print(f"  {rank-1} articles écrits")
+
+        print(f"\nRUN TERMINÉ: {filename}")
+        print(f"Résultats totaux: {total_results}")
+        print(f"Attendu: {len(queries) * top_k}")
+
+        # --- Affichage TOP-10 debug ---
+        if top10_debug:
+            print(f"\nTop 10 résultats pour la requête {debug_query_id}:")
+            for i, (doc_id, final, bm25, anchor) in enumerate(top10_debug, 1):
+                print(
+                    f"  {i:2d}. DocID: {doc_id}, "
+                    f"Score: {final:.6f}, "
+                    f"BM25: {bm25:.6f}, "
+                    f"Anchor: {anchor:.6f}"
+                )
 
         return filename
 

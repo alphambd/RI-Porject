@@ -6,10 +6,30 @@ Ana     SANOU
 
         /////////////////////////////////////////////////////////////
         *                                                           *
-        *       Rapport - Practice5_Structured_IR_at_INEX           *
+        *       Rapport - Practice6_Structure + Link Analysis       *
         *                                                           *
         /////////////////////////////////////////////////////////////
 
+
+=============================================================
+
+                      RESULTATS OBTENUS
+
+=============================================================
+La meilleure performance globale est obtenue avec un modèle BM25 optimisé, utilisant 
+une liste de stop-words et un stemmer de Porter, avec les paramètres suivants :
+* k1 = 1.2
+* b = 0.65
+* MAgP = 0.2113
+
+Ce modèle est retenu comme "baseline" pour l’ensemble des expérimentations.
+
+Les principaux enseignements sont les suivants :
+- Les pondérations SMART classiques (LTN, LTC, LNU) sont moins adaptées au contexte XML INEX.
+- Une stratégie de sélection contrôlée des éléments XML (champs) permet une amélioration 
+  des résultats élémentaires.
+- L’exploitation de la structure (liens, ancres) ne dépasse pas la baseline textuelle bien optimisée.
+- Les signaux structurels (liens, ancres) doivent être faiblement pondérés, sous peine d’introduire du bruit.
 
 =============================================================
 EXERCICE 1: XML articles runs 
@@ -300,10 +320,213 @@ Tuning des paramètres
 -------------------------------------------------------------
 
 
+
+
 =============================================================
-EXERCICE 5: XML articles runs, exploiting anchors 
+EXERCICE 4: XML articles runs, exploiting links
 =============================================================
 
-Tuning des paramètres 
+Cet exercice vise à exploiter la structure de liens entre articles
+à l’aide d’un score de type PageRank combiné au score BM25.
+
 -------------------------------------------------------------
+Statistiques sur les liens INEX
+-------------------------------------------------------------
+
+Nombre d'articles:        9804
+Total des liens:          149414
+Liens article->article:   134520
+Liens externes:           14544
+Références internes:      350
+Erreurs de parsing:       5303
+
+Degré de sortie moyen:    11.50
+Degré de sortie max:      1255
+Degré de sortie min:      0
+
+Ces statistiques montrent que la collection INEX possède une structure
+de liens dense, avec un degré de sortie moyen relativement élevé.
+La présence d’articles très fortement connectés (degré max = 1255)
+suggère l’existence de documents centraux, susceptibles d’avoir une
+forte importance structurelle.
+
+
+Méthode
+-------------------------------------------------------------
+Dans un premier temps, un score PageRank est calculé pour chaque
+article à partir du graphe de liens. Ce score représente l’importance
+structurelle des documents, indépendamment du contenu textuel.
+
+Dans un second temps, les résultats obtenus avec le modèle textuel
+(BM25 optimisé) sont reclassés en combinant le score textuel et le
+score PageRank à l’aide d’une interpolation linéaire :
+
+Score_final = alpha * Score_textuel + (1 - alpha) * Score_PageRank
+
+Le paramètre alpha permet de contrôler l’influence relative du contenu
+textuel et de la structure de liens.
+
+
+Ces statistiques montrent un graphe dense et très déséquilibré,
+avec quelques articles fortement connectés et une majorité
+d’articles faiblement liés.
+
+-------------------------------------------------------------
+Méthode
+-------------------------------------------------------------
+
+Le score final est obtenu par interpolation linéaire entre :
+- le score BM25 (contenu)
+- le score PageRank (liens)
+
+Formule :
+Score = alpha × BM25 + (1 - alpha) × PageRank
+
+Le paramètre alpha contrôle l’importance relative du contenu
+par rapport aux liens.
+
+-------------------------------------------------------------
+Tuning du paramètre alpha
+-------------------------------------------------------------
+
+alpha = 0.7  -> MAgP = 0.1973
+alpha = 0.8  -> MAgP = 0.1971
+alpha = 0.85 -> MAgP = 0.1978
+alpha = 0.9  -> MAgP = 0.1965
+alpha = 0.95 -> MAgP = 0.2100
+
+-------------------------------------------------------------
+Analyse
+-------------------------------------------------------------
+
+Les meilleures performances sont obtenues pour une valeur élevée
+de alpha (0.95).
+
+Cela indique que :
+- le contenu textuel reste dominant
+- les liens apportent un gain complémentaire limité
+
+Les liens améliorent légèrement la performance,
+mais ne surpassent pas une bonne baseline BM25.
+
+-------------------------------------------------------------
+Conclusion
+-------------------------------------------------------------
+
+L’exploitation des liens permet une amélioration marginale
+par rapport à BM25 seul.
+Le gain reste modéré en raison du bruit et du déséquilibre
+du graphe de liens.
+
+
+
+=============================================================
+EXERCICE 5: XML articles runs, exploiting anchors
+=============================================================
+
+Dans cet exercice, nous exploitons les textes d’ancrage (anchor texts)
+associés aux balises <link> afin d’enrichir la représentation textuelle
+des articles. Les anchor texts sont considérés comme une description
+externe des documents cibles et peuvent apporter des informations
+complémentaires au contenu propre des articles.
+
+
+Méthode
+-------------------------------------------------------------
+Pour chaque article, les textes d’ancrage des liens pointant vers cet
+article sont collectés et indexés séparément. Deux scores de pertinence
+sont alors calculés pour chaque document :
+
+- un score de pertinence basé sur le contenu textuel de l’article
+- un score de pertinence basé sur les anchor texts
+
+Les deux scores sont combinés à l’aide d’une interpolation linéaire :
+
+Score_final = alpha_content * Score_contenu
+            + alpha_anchor  * Score_anchor
+
+Les paramètres alpha_content (ac) et alpha_anchor (aa) permettent de
+contrôler l’influence respective du contenu et des anchor texts.
+
+
+Cet exercice étudie l’apport des ancres de liens
+dans le calcul du score de pertinence.
+
+-------------------------------------------------------------
+Méthode
+-------------------------------------------------------------
+
+Deux scores sont combinés :
+- score de contenu (BM25 sur l’article cible)
+- score basé sur le texte des ancres
+
+Formule :
+Score = ac × Score_content + aa × Score_anchor
+
+avec :
+- ac : alpha_content
+- aa : alpha_anchor
+
+-------------------------------------------------------------
+Tuning des paramètres
+-------------------------------------------------------------
+
+ac0.8_aa0.2 : MAgP = 0.1023
+ac0.8_aa0.5 : MAgP = 0.0813
+ac0.8_aa0.8 : MAgP = 0.0750
+ac0.8_aa1.0 : MAgP = 0.0725
+
+ac1.0_aa0.2 : MAgP = 0.1086
+ac1.0_aa0.5 : MAgP = 0.0873
+ac1.0_aa0.8 : MAgP = 0.0774
+ac1.0_aa1.0 : MAgP = 0.0750
+
+ac1.2_aa0.2 : MAgP = 0.1130
+ac1.2_aa0.5 : MAgP = 0.0938
+ac1.2_aa0.8 : MAgP = 0.0802
+ac1.2_aa1.0 : MAgP = 0.0766
+
+-------------------------------------------------------------
+Analyse
+-------------------------------------------------------------
+
+Les meilleures performances sont obtenues lorsque :
+- alpha_content est élevé
+- alpha_anchor est faible (≈ 0.2)
+
+Lorsque le poids des ancres augmente,
+les performances chutent rapidement.
+
+Cela s’explique par :
+- le bruit dans les textes d’ancre
+- leur faible pouvoir discriminant sur cette collection
+
+-------------------------------------------------------------
+Conclusion
+-------------------------------------------------------------
+
+Les ancres apportent une information complémentaire,
+mais doivent être faiblement pondérées.
+
+Le contenu textuel reste la source principale de pertinence.
+Une surexploitation des ancres dégrade les performances.
+
+
+
+
+
+RES :
+
+Top 10 résultats pour la requête 2009074 :
+   1. DocID: 23724, Score: 5.080272, BM25: 5.130974, PageRank: 0.060751
+   2. DocID: 3503154, Score: 5.061602, BM25: 5.112729, PageRank: 0.000000
+   3. DocID: 1009996, Score: 4.858507, BM25: 4.907531, PageRank: 0.005096
+   4. DocID: 465576, Score: 4.824718, BM25: 4.873452, PageRank: 0.000000
+   5. DocID: 1793571, Score: 4.778043, BM25: 4.826306, PageRank: 0.000000
+   6. DocID: 6422823, Score: 4.758900, BM25: 4.806970, PageRank: 0.000000
+   7. DocID: 18096221, Score: 4.733009, BM25: 4.780817, PageRank: 0.000000
+   8. DocID: 1482394, Score: 4.727799, BM25: 4.775391, PageRank: 0.016197
+   9. DocID: 18543218, Score: 4.686743, BM25: 4.734084, PageRank: 0.000000
+  10. DocID: 752465, Score: 4.431245, BM25: 4.476005, PageRank: 0.000000
+
 
