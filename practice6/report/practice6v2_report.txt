@@ -10,12 +10,18 @@ Ana     SANOU
         *                                                           *
         /////////////////////////////////////////////////////////////
 
+NB : Ce rapport est divisé en deux (2) parties : 
+
+I - RESULTATS OBTENUS : qui résume les résultats obtenus.
+II - DETAIL DES EXERCICES : qui permet de voir les détails des processus d'optimisation.
+
 
 =============================================================
-
-                      RESULTATS OBTENUS
-
+*                                                           
+*                    I - RESULTATS OBTENUS
+*
 =============================================================
+
 La meilleure performance globale est obtenue avec un modèle BM25 optimisé, utilisant 
 une liste de stop-words et un stemmer de Porter, avec les paramètres suivants :
 * k1 = 1.2
@@ -31,11 +37,39 @@ Les principaux enseignements sont les suivants :
 - L’exploitation de la structure (liens, ancres) ne dépasse pas la baseline textuelle bien optimisée.
 - Les signaux structurels (liens, ancres) doivent être faiblement pondérés, sous peine d’introduire du bruit.
 
+
+Le tableau ci-dessous résume les meilleurs scores obtenus pour chaque exercice :
+-----------------------------------------------------------------------
+
+-----------------------------------------------------------------------
+Exercice               Méthode                         Meilleur MAgP
+-----------------------------------------------------------------------
+Ex. 1        BM25 optimisé (articles)                     0.2113 (sans opti 0.2088)
+             BM25L                                        0.2103
+             LNU                                          0.0107
+Ex. 2        Sélection d’éléments XML avec bonus          ≈ 0.17
+Ex. 3        BM25FW (champs XML)                          0.2117
+             BM25FR (champs XML)                          0.2148  (meilleur)
+Ex. 4        BM25 + PageRank (α = 0.99)                   0.2113
+Ex. 5        BM25 + Anchor texts (beta = 0)               0.2113  (score de base, sinon < 0.2113)
+-----------------------------------------------------------------------
+
+
+
+=============================================================
+*                                                           
+*                  II - DETAIL DES EXERCICES
+*
+=============================================================
+
 =============================================================
 EXERCICE 1: XML articles runs 
 =============================================================
 
-Il a été réalisé en 2 phases : Test de 12 runs (Weighting + Stopwords + Stemmer) et Optimisation de BM25.
+Il a été réalisé en 3 phases : 
+- Test de 12 runs (Weighting + Stopwords + Stemmer)
+- Optimisation de BM25
+- Implémentation d'autres modèles (lnu et BM25L)
 
 -------------------------------------------------------------
 1 - Test de 12 runs (Weighting + Stopwords + Stemmer) : 
@@ -68,31 +102,21 @@ Analyse des résultats
 
 Comparaison des modèles
 ---------------------------
-Les résultats montrent que le modèle BM25 est globalement le plus
-performant. Le meilleur score obtenu avec BM25 est MAgP = 0.195.
-Le modèle ltn présente des performances intermédiaires, avec un score
-maximal d’environ MAgP = 0.1583.
-Le modèle ltc est nettement moins performant, avec des scores très
-faibles (MAgP < 0.05).
-
-Ces résultats confirment que BM25 est plus robuste que les schémas
-SMART classiques sur cette collection.
-
+Les résultats montrent que :
+- BM25 est plus robuste que les schémas SMART classiques sur cette collection.
 
 Impact des stop-words
 ---------------------------
-L’utilisation de la liste de stop-words stop671 améliore systématiquement
-les performances pour BM25 et ltn.
-À l’inverse, l’absence de stop-words entraîne une baisse significative
-des performances, en particulier pour BM25.
-
+- L’utilisation de la liste de stop-words stop671 améliore systématiquement
+  les performances pour BM25 et ltn.
+- À l’inverse, l’absence de stop-words entraîne une baisse significative
+  des performances, en particulier pour BM25.
 
 Impact du stemming
 ---------------------------
-L’utilisation du stemmer de Porter améliore les performances de BM25,
-notamment lorsqu’il est combiné avec l’utilisation des stop-words.
-Pour le modèle ltn, l’impact du stemming est plus modéré mais reste
-globalement positif.
+- L’utilisation du stemmer de Porter améliore les performances de BM25, notamment 
+  lorsqu’il est combiné avec l’utilisation des stop-words.
+- Pour le modèle ltn, l’impact du stemming est plus modéré mais reste globalement positif.
 
 
 Meilleure configuration observée
@@ -105,10 +129,10 @@ La meilleure configuration issue de ces 12 runs est :
 - Paramètres BM25 : k1 = 1.2, b = 0.75
 
 Cette configuration atteint :
-- MAgP = 0.195
-- iP[0.1] = 0.5584
+- MAgP = 0.2088
+- iP[0.1] = 0.4987
 
-Elle est retenue comme baseline pour la suite du TP.
+Elle est retenue comme baseline pour l'optimisation de BM25.
 
 
 -------------------------------------------------------------
@@ -126,8 +150,6 @@ Les valeurs de b testées appartiennent à l’intervalle [0.4, 0.8].
 
 Résultats de l’optimisation
 ---------------------------
-Les résultats montrent que les meilleures performances sont obtenues
-pour des valeurs de b comprises entre 0.5 et 0.7.
 La meilleure performance globale est atteinte pour b = 0.65.
 
 b = 0.4  -> MAgP = 0.2056
@@ -155,28 +177,112 @@ Cette configuration atteint :
 Elle constitue la meilleure baseline textuelle pour les exercices
 suivants exploitant la structure des documents (liens et anchors).
 
+-------------------------------------------------------------
+3 - Implémentation de lnu : 
+-------------------------------------------------------------
+Les résultats obtenu ne sont pas convaincant, car les MAgP sont trè faibles.
+
+Soit "s" le paramètre slope, avec stop671 et nostem :
+
+s = 0.05  -> MAgP = 0.0107
+s = 0.1  -> MAgP = 0.0107
+s = 0.2  -> MAgP = 0.0107
+s = 0.2  -> MAgP = 0.008   (nostop, nostem)
+s = 0.2  -> MAgP = 0.0079  (nostop, porter)
+s = 0.3  -> MAgP = 0.0108
+s = 0.4  -> MAgP = 0.0107
+
+
+-------------------------------------------------------------
+4 - Implémentation de BM25L : 
+-------------------------------------------------------------
+
+Soit δ le paramètre shift : 
+
+(stop671, porter)
+k1 =1.0, b = 0.7, δ = 1.2  -> MAgP = 0.2056
+k1 =1.0, b = 0.7, δ = 0.5  -> MAgP = 0.2056
+k1 =1.0, b = 0.7, δ = 1.0  -> MAgP = 0.2056
+k1 =1.0, b = 0.7, δ = 0.2  -> MAgP = 0.2056
+k1 =1.0, b = 0.7, δ = 0.8  -> MAgP = 0.2056
+
+k1 =1.2, b = 0.6, δ = 0.5  -> MAgP = 0.2056
+k1 =1.0, b = 0.75, δ = 0.5  -> MAgP = 0.2056
+k1 =0.8, b = 0.75, δ = 0.5  -> MAgP = 0.2056
+k1 =1.2, b = 0.75, δ = 0.5  -> MAgP = 0.2056
+k1 =1.4, b = 0.75, δ = 0.5  -> MAgP = 0.2056
+k1 =1.6, b = 0.75, δ = 0.5  -> MAgP = 0.2056
+k1 =1.0, b = 0.8, δ = 0.5  -> MAgP = 0.2056
+k1 =1.2, b = 0.8, δ = 0.5  -> MAgP = 0.2056
+
+
 
 =============================================================
 EXERCICE 2: XML elements runs
 =============================================================
+
+Objectif : exploiter la structure XML via une approche Fetch & Browse.
+
+-------------------------------------------------------------
+Méthode
+-------------------------------------------------------------
+
+Une sélection naïve du seul élément le plus spécifique conduit
+à une domination des paragraphes (≈95%) et à un faible MAgP (0.059).
+
+Pour corriger ce biais, un seuil de pertinence est introduit
+et un bonus est appliqué selon le type d’élément :
+
+- bdy : 1.0
+- sec : 1.1
+- p   : 1.2
+
+Cette stratégie permet un meilleur équilibre entre granularités
+et améliore significativement les performances.
+
+Résultat :
+- MAgP ≈ 0.17
+
+
+-------------------------------------------------------------
+Indicateurs « RI ciblée » 
+-------------------------------------------------------------
+Pour un exemple de run, nous avons obtenu les résultats suivants : 
+
+RATE TARGET: 58.01% 
+AVERAGE DEPTH: 5.41 depth
+ARTICLE COUNT: 1182 articles
+
+Conclusion : 
+-------------------------------------------------------------
+Sur l’ensemble des requêtes testées, le taux de ciblage moyen est
+d’environ 58 %, ce qui signifie qu’en moyenne un peu plus de la
+moitié du contenu des articles ciblés est effectivement retournée
+sous forme d’éléments XML.
+
+La profondeur moyenne se situe autour de 5 à 6, indiquant que les
+réponses sont majoritairement situées à des niveaux fins de la
+structure XML (sections, sous-sections ou paragraphes).
+
 
 =============================================================
 EXERCICE 3: articles runs, exploiting structure (BM25-FW/FR) 
 =============================================================
 
 Bases lines :
-- BM25 classique : stop671, porter, k = 1.2, b = 0.6
+- BM25 classique : stop671, porter, k = 1.2, b = 0.65
   MAgP = 0.2088
-- BM25FR : stop671, porter, k=1.2, b=0.6, fields = [title, bdy], alpha = 1
+- BM25FR : stop671, porter, k=1.2, b=0.65, fields = [title, bdy], alpha = 1
   MAgP = 0.2076
-- BM25FW = stop671, porter, k=1.2, b=0.6, fields = [title, bdy], alpha = 1
+- BM25FW = stop671, porter, k=1.2, b=0.65, fields = [title, bdy], alpha = 1
   0.0817
+
+NB : dans la suite, "a." est utilisé pour "alpha"
 
 Méthode d'optimisation : 
 - On fixe une baseline stable
 - On change UN paramètre à la fois
 - On optimise d’abord la structure, ensuite les poids, ensuite la normalisation
-- BM25FR et BM25FW ne se règlent pas pareil
 
 -------------------------------------------------------------
 1 - BM25FR : Optimisation de BM25FR (early combination)
@@ -192,8 +298,13 @@ alpha = 1.0 : 0.1882
 alpha = 1.5 : 0.1874
 alpha = 1.8 : 0.1849
 
+Conclusion : MAgP < baseline, mais on note que le score diminu quand "alpha" augmente.
+On garde alpha = 0.5.
+
 - Ajout du champs p et optimisation de sa valeur alpha: 
 -------------------------------------------------------------
+(a.title = a.bdy = 1, a.sec = 0.5)
+
 alpha = 0.5 : 0.1993
 alpha = 0.3 : 0.2026 
 alpha = 1.0 : 0.1969
@@ -205,17 +316,20 @@ Après cette remarque, on a décidé de commencé par optimiser le champs "title
 
 - Optimisation du "alpha" du champs "title", sachant que les autres champs ont un alpha=1 : 
 -------------------------------------------------------------
+(a.bdy = 1, a.sec = 0.5, a.p = 0.3)
+
 alpha = 1.0 : 0.1969
 alpha = 1.5 : 0.1969 
 alpha = 2.0 : 0.1969
 alpha = 2.5 : 0.1968
 alpha = 3.0 : 0.1969
 
-Conclusion : aucune amélioration.
+Conclusion : aucune amélioration, on garde "alpha = 1".
 
 - Optimisation du "alpha" du champ "bdy" avec les meilleurs "alpha" des autres champs: 
 -------------------------------------------------------------
-(a.title = 2, a.sec = 0.3, a.p = 0.2)
+(a.title = 2, a.sec = 0.5, a.p = 0.3)
+
 alpha = 0.8 : 0.1997 
 alpha = 1.2 : 0.2075 
 alpha = 1.3 : 0.2087 
@@ -228,6 +342,15 @@ alpha = 1.8 : 0.2132
 Conclusion : On observe une amélioration continue au fur et à mésure que "alpha" augmente.
 Mais on a décidé de ne pas trop augmenter "alpha" pour ce champs vu qu'il contient presque tout le texte.
  
+- Optimisation de "k1" et "b"
+-------------------------------------------------------------
+Avec k1 dans [0.4, ..., 5] et b dans [0.5, ..., 0.75]
+
+Résultat : 
+MAgP = 0.2148, avec k1 = 0.5 et b=0.6
+
+Ce résultat constitue une légère amélioration.
+
 
 -------------------------------------------------------------
 1 - BM25FW : Optimisation de BM25FW (late combination) 
@@ -262,7 +385,7 @@ alpha = 1.5 : 0.1752
 alpha = 2.0 : 0.1766
 alpha = 2.5 : 0.1795
 
-Conclusion : On observe une légère amélioration quand alpha tend vers 2.3.
+Conclusion : On observe une légère amélioration quand alpha tend vers 2.5.
 
 - Optimisation du champ "bdy" :
 -------------------------------------------------------------
@@ -299,35 +422,23 @@ alpha = 2.5 : 0.1913
 Conclusion : on observe une augmentation du score jusqu'à alpha = 2, puis il commence à baisser.
 Donc, on garder la valeur alpha = 2.0.
 
-
-
-=============================================================
-EXERCICE 4: XML articles runs, exploiting links
-=============================================================
-
-[STATISTIQUES LIENS INEX]
-Nombre d'articles:        9804
-Total des liens:          149414
-Liens article->article:   134520
-Liens externes:           14544
-Références internes:      350
-Erreurs de parsing:       5303
-Degré de sortie moyen:    11.50
-Degré de sortie max:      1255
-Degré de sortie min:      0
-
-Tuning des paramètres 
+- Optimisation de "k1" et "b"
 -------------------------------------------------------------
+Avec k1 dans [0.4, ..., 5] et b dans [0.5, ..., 0.75]
 
+Résultat : 
+MAgP = 0.2117, avec k1 = 1.0 et b=0.65
+
+Ce résultat constitue une amélioration importante par rapport à sa valeur (FW),
+mais reste prseque identique à la valeur de la baseline (0.2113).
+
+Donc, pas d'amélioration notable.
 
 
 
 =============================================================
 EXERCICE 4: XML articles runs, exploiting links
 =============================================================
-
-Cet exercice vise à exploiter la structure de liens entre articles
-à l’aide d’un score de type PageRank combiné au score BM25.
 
 -------------------------------------------------------------
 Statistiques sur les liens INEX
@@ -350,26 +461,6 @@ La présence d’articles très fortement connectés (degré max = 1255)
 suggère l’existence de documents centraux, susceptibles d’avoir une
 forte importance structurelle.
 
-
-Méthode
--------------------------------------------------------------
-Dans un premier temps, un score PageRank est calculé pour chaque
-article à partir du graphe de liens. Ce score représente l’importance
-structurelle des documents, indépendamment du contenu textuel.
-
-Dans un second temps, les résultats obtenus avec le modèle textuel
-(BM25 optimisé) sont reclassés en combinant le score textuel et le
-score PageRank à l’aide d’une interpolation linéaire :
-
-Score_final = alpha * Score_textuel + (1 - alpha) * Score_PageRank
-
-Le paramètre alpha permet de contrôler l’influence relative du contenu
-textuel et de la structure de liens.
-
-
-Ces statistiques montrent un graphe dense et très déséquilibré,
-avec quelques articles fortement connectés et une majorité
-d’articles faiblement liés.
 
 -------------------------------------------------------------
 Méthode
@@ -394,11 +485,11 @@ alpha = 0.8  -> MAgP = 0.1971
 alpha = 0.85 -> MAgP = 0.1978
 alpha = 0.9  -> MAgP = 0.1965
 alpha = 0.95 -> MAgP = 0.2100
+alpha = 0.99 -> MAgP = 0.2113 (score baseline)
 
 -------------------------------------------------------------
 Analyse
 -------------------------------------------------------------
-
 Les meilleures performances sont obtenues pour une valeur élevée
 de alpha (0.95).
 
@@ -406,18 +497,15 @@ Cela indique que :
 - le contenu textuel reste dominant
 - les liens apportent un gain complémentaire limité
 
-Les liens améliorent légèrement la performance,
-mais ne surpassent pas une bonne baseline BM25.
-
 -------------------------------------------------------------
 Conclusion
 -------------------------------------------------------------
+- Cette expérience montre que l’exploitation de la structure de liens
+  via PageRank ne permet pas de surpasser une forte baseline BM25
+  sur la collection INEX.
 
-L’exploitation des liens permet une amélioration marginale
-par rapport à BM25 seul.
-Le gain reste modéré en raison du bruit et du déséquilibre
-du graphe de liens.
-
+- Les performances optimales sont obtenues lorsque le score est
+  très majoritairement basé sur le contenu textuel (alpha = 0.99).
 
 
 =============================================================
@@ -426,36 +514,11 @@ EXERCICE 5: XML articles runs, exploiting anchors
 
 Dans cet exercice, nous exploitons les textes d’ancrage (anchor texts)
 associés aux balises <link> afin d’enrichir la représentation textuelle
-des articles. Les anchor texts sont considérés comme une description
-externe des documents cibles et peuvent apporter des informations
-complémentaires au contenu propre des articles.
-
-
-Méthode
--------------------------------------------------------------
-Pour chaque article, les textes d’ancrage des liens pointant vers cet
-article sont collectés et indexés séparément. Deux scores de pertinence
-sont alors calculés pour chaque document :
-
-- un score de pertinence basé sur le contenu textuel de l’article
-- un score de pertinence basé sur les anchor texts
-
-Les deux scores sont combinés à l’aide d’une interpolation linéaire :
-
-Score_final = alpha_content * Score_contenu
-            + alpha_anchor  * Score_anchor
-
-Les paramètres alpha_content (ac) et alpha_anchor (aa) permettent de
-contrôler l’influence respective du contenu et des anchor texts.
-
-
-Cet exercice étudie l’apport des ancres de liens
-dans le calcul du score de pertinence.
+des articles. 
 
 -------------------------------------------------------------
 Méthode
 -------------------------------------------------------------
-
 Deux scores sont combinés :
 - score de contenu (BM25 sur l’article cible)
 - score basé sur le texte des ancres
@@ -470,7 +533,6 @@ avec :
 -------------------------------------------------------------
 Tuning des paramètres
 -------------------------------------------------------------
-
 ac0.8_aa0.2 : MAgP = 0.1023
 ac0.8_aa0.5 : MAgP = 0.0813
 ac0.8_aa0.8 : MAgP = 0.0750
@@ -486,47 +548,19 @@ ac1.2_aa0.5 : MAgP = 0.0938
 ac1.2_aa0.8 : MAgP = 0.0802
 ac1.2_aa1.0 : MAgP = 0.0766
 
+ac1.0_aa0.0 : MAgP = 2113 (score baseline)
+
 -------------------------------------------------------------
 Analyse
 -------------------------------------------------------------
-
-Les meilleures performances sont obtenues lorsque :
+* Les meilleures performances sont obtenues lorsque :
 - alpha_content est élevé
-- alpha_anchor est faible (≈ 0.2)
+- alpha_anchor est très faible (≈ 0)
 
-Lorsque le poids des ancres augmente,
-les performances chutent rapidement.
-
-Cela s’explique par :
-- le bruit dans les textes d’ancre
-- leur faible pouvoir discriminant sur cette collection
+* Lorsque le poids des ancres augmente, les performances chutent rapidement.
 
 -------------------------------------------------------------
 Conclusion
 -------------------------------------------------------------
-
-Les ancres apportent une information complémentaire,
-mais doivent être faiblement pondérées.
-
-Le contenu textuel reste la source principale de pertinence.
-Une surexploitation des ancres dégrade les performances.
-
-
-
-
-
-RES :
-
-Top 10 résultats pour la requête 2009074 :
-   1. DocID: 23724, Score: 5.080272, BM25: 5.130974, PageRank: 0.060751
-   2. DocID: 3503154, Score: 5.061602, BM25: 5.112729, PageRank: 0.000000
-   3. DocID: 1009996, Score: 4.858507, BM25: 4.907531, PageRank: 0.005096
-   4. DocID: 465576, Score: 4.824718, BM25: 4.873452, PageRank: 0.000000
-   5. DocID: 1793571, Score: 4.778043, BM25: 4.826306, PageRank: 0.000000
-   6. DocID: 6422823, Score: 4.758900, BM25: 4.806970, PageRank: 0.000000
-   7. DocID: 18096221, Score: 4.733009, BM25: 4.780817, PageRank: 0.000000
-   8. DocID: 1482394, Score: 4.727799, BM25: 4.775391, PageRank: 0.016197
-   9. DocID: 18543218, Score: 4.686743, BM25: 4.734084, PageRank: 0.000000
-  10. DocID: 752465, Score: 4.431245, BM25: 4.476005, PageRank: 0.000000
-
-
+- Les ancres apportent une information complémentaire, mais doivent être faiblement pondérées.
+- Le contenu textuel reste la source principale de pertinence.
