@@ -15,7 +15,6 @@ Sanou Ana
 ---
 
 ## Exécution par practice
-R
 
 ### Practice 1 – Statistiques de la collection 
 
