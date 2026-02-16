@@ -45,12 +45,6 @@ Le tableau ci-dessous résume les meilleurs scores obtenus pour chaque exercice 
 Exercice               Méthode                         Meilleur MAgP
 -----------------------------------------------------------------------
 Ex. 1        BM25 optimisé (articles)                     0.2113 (sans opti 0.2088)
-             BM25L                                        0.2103
-<<<<<<< HEAD
-             LNU                                          0.2107
-=======
-             LNU                                          0.0107
->>>>>>> practice6
 Ex. 2        Sélection d’éléments XML avec bonus          ≈ 0.17
 Ex. 3        BM25FW (champs XML)                          0.2117
              BM25FR (champs XML)                          0.2148  (meilleur)
@@ -70,10 +64,7 @@ Ex. 5        BM25 + Anchor texts (beta = 0)               0.2113  (score de base
 EXERCICE 1: XML articles runs 
 =============================================================
 
-Il a été réalisé en 3 phases : 
-- Test de 12 runs (Weighting + Stopwords + Stemmer)
-- Optimisation de BM25
-- Implémentation d'autres modèles (lnu et BM25L)
+Il a été réalisé en 2 phases : Test de 12 runs (Weighting + Stopwords + Stemmer) et Optimisation de BM25.
 
 -------------------------------------------------------------
 1 - Test de 12 runs (Weighting + Stopwords + Stemmer) : 
@@ -181,80 +172,7 @@ Cette configuration atteint :
 Elle constitue la meilleure baseline textuelle pour les exercices
 suivants exploitant la structure des documents (liens et anchors).
 
--------------------------------------------------------------
-3 - Implémentation de lnu : 
--------------------------------------------------------------
-Les résultats obtenu ne sont pas convaincant, car les MAgP sont trè faibles.
 
-Soit "s" le paramètre slope, avec stop671 et nostem :
-
-s = 0.05  -> MAgP = 0.0107
-s = 0.1  -> MAgP = 0.0107
-s = 0.2  -> MAgP = 0.0107
-s = 0.2  -> MAgP = 0.008   (nostop, nostem)
-s = 0.2  -> MAgP = 0.0079  (nostop, porter)
-s = 0.3  -> MAgP = 0.0108
-s = 0.4  -> MAgP = 0.0107
-
-
--------------------------------------------------------------
-4 - Implémentation de BM25L : 
--------------------------------------------------------------
-
-Soit δ le paramètre shift : 
-
-(stop671, porter)
-<<<<<<< HEAD
-k1 =1.0, b = 0.7, δ = 1.2  -> MAgP = 0.2103
-k1 =1.0, b = 0.7, δ = 0.5  -> MAgP = 0.2103
-k1 =1.0, b = 0.7, δ = 1.0  -> MAgP = 0.2103
-k1 =1.0, b = 0.7, δ = 0.2  -> MAgP = 0.2102
-k1 =1.0, b = 0.7, δ = 0.8  -> MAgP = 0.2099
-
-k1 =1.2, b = 0.6, δ = 0.5  -> MAgP = 0.2098
-k1 =1.0, b = 0.75, δ = 0.5  -> MAgP = 0.2095
-k1 =0.8, b = 0.75, δ = 0.5  -> MAgP = 0.2087
-k1 =1.2, b = 0.75, δ = 0.5  -> MAgP = 0.2034
-k1 =1.4, b = 0.75, δ = 0.5  -> MAgP = 0.2025
-k1 =1.6, b = 0.75, δ = 0.5  -> MAgP = 0.198
-k1 =1.0, b = 0.8, δ = 0.5  -> MAgP = 0.1971
-k1 =1.2, b = 0.8, δ = 0.5  -> MAgP = 0.2056
-
-
-k1 =1.0, b = 0.7, δ = 1.2  -> MAgP = 0.2103
-k1 =1.0, b = 0.7, δ = 0.2  -> MAgP = 0.2102
-k1 =1.0, b = 0.7, δ = 0.8  -> MAgP = 0.2099
-
-k1 =1.2, b = 0.6, δ = 0.5  -> MAgP = 0.2098
-k1 =1.0, b = 0.75, δ = 0.5  -> MAgP = 0.2095
-k1 =0.8, b = 0.75, δ = 0.5  -> MAgP = 0.2087
-k1 =1.2, b = 0.75, δ = 0.5  -> MAgP = 0.2034
-k1 =1.4, b = 0.75, δ = 0.5  -> MAgP = 0.2025
-k1 =1.6, b = 0.75, δ = 0.5  -> MAgP = 0.198
-k1 =1.0, b = 0.8, δ = 0.5  -> MAgP = 0.1971
-k1 =1.2, b = 0.8, δ = 0.5  -> MAgP = 0.1949
-k1 =1.0, b = 0.7, δ = 0.5  -> MAgP = 0.1934
-k1 =1.0, b = 0.7, δ = 1.0  -> MAgP = 0.193
-
-
-=======
-k1 =1.0, b = 0.7, δ = 1.2  -> MAgP = 0.2056
-k1 =1.0, b = 0.7, δ = 0.5  -> MAgP = 0.2056
-k1 =1.0, b = 0.7, δ = 1.0  -> MAgP = 0.2056
-k1 =1.0, b = 0.7, δ = 0.2  -> MAgP = 0.2056
-k1 =1.0, b = 0.7, δ = 0.8  -> MAgP = 0.2056
-
-k1 =1.2, b = 0.6, δ = 0.5  -> MAgP = 0.2056
-k1 =1.0, b = 0.75, δ = 0.5  -> MAgP = 0.2056
-k1 =0.8, b = 0.75, δ = 0.5  -> MAgP = 0.2056
-k1 =1.2, b = 0.75, δ = 0.5  -> MAgP = 0.2056
-k1 =1.4, b = 0.75, δ = 0.5  -> MAgP = 0.2056
-k1 =1.6, b = 0.75, δ = 0.5  -> MAgP = 0.2056
-k1 =1.0, b = 0.8, δ = 0.5  -> MAgP = 0.2056
-k1 =1.2, b = 0.8, δ = 0.5  -> MAgP = 0.2056
-
-
->>>>>>> practice6
 
 =============================================================
 EXERCICE 2: XML elements runs
@@ -282,26 +200,6 @@ et améliore significativement les performances.
 Résultat :
 - MAgP ≈ 0.17
 
-
--------------------------------------------------------------
-Indicateurs « RI ciblée » 
--------------------------------------------------------------
-Pour un exemple de run, nous avons obtenu les résultats suivants : 
-
-RATE TARGET: 58.01% 
-AVERAGE DEPTH: 5.41 depth
-ARTICLE COUNT: 1182 articles
-
-Conclusion : 
--------------------------------------------------------------
-Sur l’ensemble des requêtes testées, le taux de ciblage moyen est
-d’environ 58 %, ce qui signifie qu’en moyenne un peu plus de la
-moitié du contenu des articles ciblés est effectivement retournée
-sous forme d’éléments XML.
-
-La profondeur moyenne se situe autour de 5 à 6, indiquant que les
-réponses sont majoritairement situées à des niveaux fins de la
-structure XML (sections, sous-sections ou paragraphes).
 
 
 =============================================================

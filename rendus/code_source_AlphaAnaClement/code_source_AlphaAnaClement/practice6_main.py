@@ -11,12 +11,12 @@ from ranked_retrieval import RankedRetrieval
 from utiles import clean_runs_directory, print_exercise_header, compute_statistics, compute_statistics_for_config, display_statistics, create_index_with_config, create_element_index_with_config, extract_inex_link_graph
 
 from field_weighted_index import generate_field_weighted_run #, generate_field_weighted_run_cached
-from practice6_exercices import exercice1_test, exercice1_bm25_tuning, exercice1_with_lnu_bm25l, exercice3, exercice3_test_stop_stem
+from practice6_exercices import exercice1_test, exercice1_bm25_tuning
 
 # ==================== CONSTANTES ET CONFIGURATIONS ====================
 
 TEAM_NAME = "AlphaAnaClement"
-XML_DIR = "practice6/data/Practice_05_data/XML-Coll-withSem"
+XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
 
 # Requêtes INEX standard
 INEX_QUERIES = {
@@ -74,7 +74,7 @@ def exercice4_tuning():
         'stop_words': 'stop671'
     }
 
-    alpha_values = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.8]
+    alpha_values = [0.7, 0.8, 0.85, 0.9, 0.95]
     results = []
     generator = INEXRunGenerator()
 
@@ -137,8 +137,8 @@ def exercice5_tuning():
         'stop_words': 'stop671'
     }
 
-    alpha_content_values = [0.5, 1 ,1.5]
-    alpha_anchor_values =  [0.05, 0.1, 0.15, 0.20, 0.25, 0.3]
+    alpha_content_values = [0.8, 1.0, 1.2]
+    alpha_anchor_values = [0.2, 0.5, 0.8, 1.0]
 
     results = []
     generator = INEXRunGenerator()
@@ -176,7 +176,7 @@ def exercice5_tuning():
 
 
 def display_links_stats(stats: Dict):
-    XML_DIR = "practice6/data/Practice_05_data/XML-Coll-withSem"
+    XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
 
     print("\n[STATISTIQUES LIENS INEX]")
     print(f"Nombre d'articles: {stats['num_articles']}")
@@ -191,64 +191,29 @@ def display_links_stats(stats: Dict):
 
 
 def main():
-    XML_DIR = "practice6/data/Practice_05_data/XML-Coll-withSem"
+    XML_DIR = "data/Practice_05_data/XML-Coll-withSem"
 
     clean_runs_directory()
 
-    # Exercice 1: 12 runs xml article
     #exercice1_test()
-
-
-    # Exercice 1 — BM25 parameter tuning (k1, b)
     #exercice1_bm25_tuning()
 
-
-    # Lance le run BM25Fw avec les meilles paramètres trouvés 
-    # (k1=1.2, b=0.65, a.title=1, a.bdy=a.sec= 2.5, a.p= 3.5, a.rest=2)
+    # Exercice 3 tests
     #exercice5_bm25fw()
-
-
-    # Lance le run BM25F avec les meilles paramètres trouvés 
-    # (k1=1.2, b=0.65, a.title=2, a.bdy= 1.8, a.sec= 0.3, a.p= 0.2)
     #exercice6_bm25fr()
-
-
-    # Lance les tests de tuning pour BM25F et BM25Fw
     #exercice5_bm25fw_test()
     #exercice5_bm25f_test()
 
-
-    # Lance les runs de l'exercice 4 (BM25 + PageRank) et tuning
-    #exercice4()
-    #exercice4_tuning()
-
-
-    # Lance les runs de l'exercice 5 (BM25F avec anchors) et tuning
-    #exercice5() # inclue l'affichage du top 10 des articles (docID, Score, scocre BM25, score Anchor) 
-    """
-    # Exemple d'affichage du top 10 des articles pour un run donné
-    Top 10 résultats pour la requête 2009074:
-    1. DocID: 775, Score: 17.800000, BM25: 0.000000, Anchor: 356.000000
-    2. DocID: 23724, Score: 6.157169, BM25: 5.130974, Anchor: 0.000000
-    3. DocID: 3503154, Score: 6.135275, BM25: 5.112729, Anchor: 0.000000
-    4. DocID: 1009996, Score: 5.889037, BM25: 4.907531, Anchor: 0.000000
-    5. DocID: 465576, Score: 5.848143, BM25: 4.873452, Anchor: 0.000000
-    6. DocID: 1793571, Score: 5.791567, BM25: 4.826306, Anchor: 0.000000
-    7. DocID: 6422823, Score: 5.768364, BM25: 4.806970, Anchor: 0.000000
-    8. DocID: 18096221, Score: 5.736981, BM25: 4.780817, Anchor: 0.000000
-    9. DocID: 1482394, Score: 5.730469, BM25: 4.775391, Anchor: 0.000000
-    10. DocID: 18543218, Score: 5.680901, BM25: 4.734084, Anchor: 0.000000
-    """
-    #exercice5_tuning()
-    
-
-    # Affiche les statistiques du graphe de liens INEX
     #gragraph, stats = extract_inex_link_graph()
     #display_links_stats(stats)
+
+    #exercice4()
+    #exercice4_tuning()
+    exercice5()
+    #exercice5_tuning()
+
     
     print("\n=== FIN DES EXÉCUTIONS ===\n")
-
-
 
 if __name__ == "__main__":
     main()
