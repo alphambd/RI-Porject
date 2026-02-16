@@ -62,7 +62,7 @@ def main():
 
     # Décomenter pour tester les exercices
 
-    #exercice1()
+    exercice1()
     #exercice2()
     #exercice3()
 
