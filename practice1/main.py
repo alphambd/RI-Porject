@@ -4,7 +4,7 @@ from boolean_search import BooleanSearch
 def main():
     #  Créer et construire l'index
     index = InvertedIndex()
-    index.build_from_file('collection.txt')
+    index.build_from_file('practice1/collection.txt')
     # Créer une instance de BooleanSearch
     search = BooleanSearch(index)
 

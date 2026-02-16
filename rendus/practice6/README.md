@@ -7,6 +7,9 @@ Sanou Ana
 
 # README – Exécution des Practices 1 à 6
 
+#### Lien GitHub du projet : 
+https://github.com/alphambd/RI-Porject 
+
 ## Pré-requis
 
 * Python 3.8+
