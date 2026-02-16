@@ -74,7 +74,7 @@ def exercice4_tuning():
         'stop_words': 'stop671'
     }
 
-    alpha_values = [0.7, 0.8, 0.85, 0.9, 0.95]
+    alpha_values = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.8]
     results = []
     generator = INEXRunGenerator()
 
@@ -137,8 +137,8 @@ def exercice5_tuning():
         'stop_words': 'stop671'
     }
 
-    alpha_content_values = [0.8, 1.0, 1.2]
-    alpha_anchor_values = [0.2, 0.5, 0.8, 1.0]
+    alpha_content_values = [0.5, 1 ,1.5]
+    alpha_anchor_values =  [0.05, 0.1, 0.15, 0.20, 0.25, 0.3]
 
     results = []
     generator = INEXRunGenerator()
@@ -199,7 +199,7 @@ def main():
     #exercice1_bm25_tuning()
 
     # Exercice 2 tests
-    exercice3()
+    #exercice3()
     #exercice3_test_stop_stem()
 
     # Exercice 3 tests
@@ -212,12 +212,9 @@ def main():
     #display_links_stats(stats)
 
     #exercice4()
-    #exercice4_tuning()
+    exercice4_tuning()
     #exercice5()
     #exercice5_tuning()
-
-    #exercice1_with_lnu_bm25l()
-
 
     
     print("\n=== FIN DES EXÉCUTIONS ===\n")

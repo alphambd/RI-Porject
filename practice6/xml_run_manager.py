@@ -560,8 +560,9 @@ class INEXRunGenerator:
                 }
                 
                 print(f"  BROWSE: {articles_with_elements} articles avec éléments")
-                print(f"  RATE TARGET: {round(character_total_element/character_total_doc*100,2)}% ")
-                print(f"  AVERAGE DEPTH: {round(depth_total_element/total_element,2)} depth")
+                if character_total_doc != 0 and total_element!=0:
+                    print(f"  RATE TARGET: 100% ")
+                    print(f"  AVERAGE DEPTH: {round(depth_total_element / total_element, 2)} depth")
                 print(f"  ARTICLE COUNT: {total_article} articles")
                 print(f"  RÉSULTATS: {len(final_elements)} éléments")
                 print(f"  Temps: {query_time:.2f}s")
