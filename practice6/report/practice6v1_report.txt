@@ -181,13 +181,56 @@ Méthodologie :
 BM25FR (early combination)
 -------------------------------------------------------------
 
+<<<<<<< HEAD
 L’optimisation des champs sec, p et title n’améliore pas la baseline.
 Une amélioration est observée en augmentant le poids du champ bdy,
 mais elle reste modérée.
+=======
+- Champs : [title, bdy, sec]
+
+- Optimisation de "alpha" pour sec : 
+-------------------------------------------------------------
+alpha = 0.5 : 0.2055
+alpha = 0.3 : 0.2051
+alpha = 1.0 : 0.1882
+alpha = 1.5 : 0.1874
+alpha = 1.8 : 0.1849
+>>>>>>> practice-session-final
 
 Conclusion :
 BM25FR n’apporte pas de gain significatif sur cette collection.
 
+<<<<<<< HEAD
+=======
+On remarque que ces stratégies donnent des scores inférieurs à celui de la baseline.
+Après cette remarque, on a décidé de commencé par optimiser le champs "title"
+
+- Optimisation du "alpha" du champs "title", sachant que les autres champs ont un alpha=1 : 
+-------------------------------------------------------------
+alpha = 1.0 : 0.1969
+alpha = 1.5 : 0.1969 
+alpha = 2.0 : 0.1969
+alpha = 2.5 : 0.1968
+alpha = 3.0 : 0.1969
+
+Conclusion : aucune amélioration.
+
+- Optimisation du "alpha" du champ "bdy" avec les meilleurs "alpha" des autres champs: 
+-------------------------------------------------------------
+(a.title = 2, a.sec = 0.3, a.p = 0.2)
+alpha = 0.8 : 0.1997 
+alpha = 1.2 : 0.2075 
+alpha = 1.3 : 0.2087 
+alpha = 1.4 : 0.2102 
+alpha = 1.5 : 0.2115
+alpha = 1.6 : 0.2123 
+alpha = 1.7 : 0.2125
+alpha = 1.8 : 0.2132
+
+Conclusion : On observe une amélioration continue au fur et à mésure que "alpha" augmente.
+Mais on a décidé de ne pas trop augmenter "alpha" pour ce champs vu qu'il contient presque tout le texte.
+ 
+>>>>>>> practice-session-final
 
 -------------------------------------------------------------
 BM25FW (late combination)

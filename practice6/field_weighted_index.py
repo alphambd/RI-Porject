@@ -725,12 +725,16 @@ def generate_field_weighted_run(run_id: str, run_type: str,
     os.makedirs("data/runs", exist_ok=True)
     
     results_count = 0
-    
+
+    # Récupérer le top 10 des résultats pour la requete d'id 2009074
+    top_10_results = []
+    text_2009074 = ""
+
     with open(filename, 'w', encoding='utf-8') as f:
         for query_id, query_text in queries.items():
             print(f"\n[Query {query_id}] {query_text[:50]}...")
             query_start = time.time()
-            
+                            
             # Recherche avec cache
             results = field_index.search_with_cache(
                 query_text,
@@ -738,7 +742,11 @@ def generate_field_weighted_run(run_id: str, run_type: str,
                 k1=run_params.get('k1', 1.2),
                 b=run_params.get('b', 0.75)
             )
-            
+                        
+            if query_id == 2009074:
+                text_2009074 = query_text
+                top_10_results = results[:10]
+
             # Écrire les résultats
             rank = 1
             for doc_id, score in results[:1500]:
@@ -752,11 +760,18 @@ def generate_field_weighted_run(run_id: str, run_type: str,
     total_time = time.time() - start_time
     
     print(f"\n{'='*70}")
-    print(f"✅ RUN {run_type.upper()} TERMINÉ")
-    print(f"📁 Fichier: {filename}")
-    print(f"📊 Documents indexés: {doc_count}")
-    print(f"⏱️  Temps total: {total_time:.2f}s")
-    print(f"📈 Résultats: {results_count} lignes")
+    print(f"- RUN {run_type.upper()} TERMINÉ")
+    print(f"- Fichier: {filename}")
+    print(f"- Documents indexés: {doc_count}")
+    print(f"-  Temps total: {total_time:.2f}s")
+    print(f"- Résultats: {results_count} lignes")
+
+    # Afficher le top 10 des résultats pour la requete d'id 2009074
+    print(f"\nTop 10 résultats pour la requête 2009074:")
+    print(f"Requête: {text_2009074}\n")
+    for rank, (doc_id, score) in enumerate(top_10_results, start=1):
+        print(f"{rank}. DocID: {doc_id}, Score: {score:.6f}")
+
     print('='*70)
     
     return filename

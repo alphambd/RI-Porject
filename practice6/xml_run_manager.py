@@ -842,6 +842,10 @@ class INEXRunGenerator:
 
         # 5 Génération du run
         total_results = 0
+        
+        # Récupérer le top 10 des résultats pour la requete d'id 2009074
+        top_10_results = []
+        text_2009074 = ""
 
         with open(filename, "w", encoding="utf-8") as f:
             for query_id, query_text in queries.items():
@@ -878,7 +882,21 @@ class INEXRunGenerator:
                 """
                 reranked = self.rerank_with_pagerank(results, pr_scores, pagerank_alpha)
 
-                
+                # Sauvegarder le top 10 pour la requête 2009074
+                if query_id == 2009074:
+                    top_10_results = []
+
+                    # Transformer results en dict pour retrouver le BM25 rapidement
+                    bm25_dict = dict(results)
+
+                    for doc_id, final_score in reranked[:10]:
+                        bm25_score = bm25_dict.get(doc_id, 0.0)
+                        pr_score = pr_scores.get(str(doc_id), 0.0)
+
+                        top_10_results.append(
+                            (doc_id, final_score, bm25_score, pr_score)
+                        )
+
                 # Écriture du run (articles uniquement)
                 rank = 1
                 for doc_id, score in reranked[:top_k]:
@@ -895,6 +913,19 @@ class INEXRunGenerator:
         print(f"Résultats totaux: {total_results}")
         print(f"Attendu: {len(queries) * top_k}")
 
+        # Afficher le top 10 des articles avec leurs scores BM25 et PageRank
+        if top_10_results:
+            print("\nTop 10 résultats pour la requête 2009074 :")
+            for i, (doc_id, score, bm25_score, pr_score) in enumerate(top_10_results, 1):
+                print(
+                    f"  {i:2d}. DocID: {doc_id}, "
+                    f"Score: {score:.6f}, "
+                    f"BM25: {bm25_score:.6f}, "
+                    f"PageRank: {pr_score:.6f}"
+                )
+        else:
+            print("\nAucun résultat capturé pour la requête 2009074")
+        
         return filename
 
     def generate_article_run_with_anchors(
